@@ -133,8 +133,8 @@ If you use this tool in your research, please cite:
 ```
 @software{SynLethKG,
   author = {Your Name},
-  title = {SynLethKG: Knowledge Graph-based Synthetic Lethality Explanation Tool},
-  year = {2023},
-  url = {https://github.com/yourusername/SynLethKG}
+  title = {SL-MERK: Synthetic Lethality Mechanism Explainer based on GraphRAG and Knowledge Graph},
+  year = {2025},
+  url = {https://github.com/JieZheng-ShanghaiTech/SL-MERK}
 }
 ```
