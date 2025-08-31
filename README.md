@@ -36,6 +36,7 @@ pip install -r requirements.txt
    ```
 
 Alternatively, you can set these as environment variables in your system.
+3. Remember to configure the Graph/NexLeth_GraphRAG/setting.yaml, set your api_base and api_key for GraphRAG, and you can chose the models and change detailed settings.
 
 ## Dependencies
 
