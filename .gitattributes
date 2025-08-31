@@ -2,3 +2,8 @@
 *.graphml filter=lfs diff=lfs merge=lfs -text
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+data/synlethKG/synlethKG.graphml filter=lfs diff=lfs merge=lfs -text
+data/synlethKG/sldb_complete.graphml filter=lfs diff=lfs merge=lfs -text
+data/synlethKG/sldb_complete_triple.csv filter=lfs diff=lfs merge=lfs -text
+GraphRAG/NexLeth_GraphRAG/output/20241111-111540/artifacts/raw_extracted_entities.json filter=lfs diff=lfs merge=lfs -text
+GraphRAG/NexLeth_GraphRAG/output/20241111-111540/artifacts/create_final_entities.parquet filter=lfs diff=lfs merge=lfs -text
