@@ -19,8 +19,8 @@ SL-MERK is an explainable AI method for generating natural language explanation 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/SynLethKG.git
-cd SynLethKG
+git clone https://github.com/JieZheng-ShanghaiTech/SL-MERK.git
+cd SL-MERK
 pip install -r requirements.txt
 ```
 
