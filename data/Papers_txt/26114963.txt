@@ -1,0 +1,624 @@
+Potential Clinical Uses of CDK
+Inhibitors: Lessons from Synthetic
+Lethality Screens
+
+Ladislava Vymetalov ˇ a and Vladim ´ ´ır Krystof ˇ
+
+Laboratory of Growth Regulators, Centre of the Region Hana for Biotechnological and Agricultural Research, ´
+Palacky University and Institute of Experimental Botany AS CR, ´ Slechtitel ˇ u 11, CZ-78371 Olomouc, Czech ˚
+Republic
+
+Published online 25 June 2015 in Wiley Online Library (wileyonlinelibrary.com).
+DOI 10.1002/med.21354
+Abstract:
+Developments in genetic and genomic technology have produced vast quantities of data that
+are gradually yielding new insights into fundamental cellular and molecular processes. In particular, they
+have revealed some differences between normal and transformed cells that could potentially be exploited to
+develop targeted, personalized cancer therapies with unprecedented efficiencies. This review summarizes
+recent findings from synthetic lethality (SL) screens against cyclin-dependent kinases (CDKs) that can
+be targeted with small molecule kinase inhibitors. SL screens can be used to identify cancers sensitive
+to CDK inhibitors. Several SL partners of specific CDKs have been identified, including MYC, K-Ras,
+VHL, PI3K, and PARP, all of which are discussed in the review. CDK inhibitors have been in clinical
+trials for nearly 20 years and it has become clear that effective therapy using these compounds will require
+careful selection of patients with respect to the specific molecular phenotype of their disease. C
+2015
+Wiley Periodicals, Inc. Med. Res. Rev., 35, No. 6, 1156–1174, 2015
+
+Key words: cyclin-dependent kinase; inhibitor; cancer; drug; synthetic lethality
+
+1. SYNTHETIC LETHALITY AND THE EVOLUTION OF TARGETED THERAPY
+
+Anticancer chemotherapeutics developed over the past century have saved many lives. However,
+there are still some bottlenecks that hinder their use in vivo. One of the main problems is their
+low therapeutic index, that is, the narrow concentration range within which they kill cancers
+without harming healthy tissues.1 Most clinically used anticancer drugs kill rapidly growing
+cells nonspecifically, with the result that they target not only cancer cells but also certain
+healthy dividing cells such as hematopoietic bone marrow progenitor cells, hair follicle cells, and
+gastrointestinal mucosal epithelial cells.2 Many normal nondividing cells are also sensitive to
+
+Contract grant sponsor: Ministry of Education, Youth and Sports of the Czech Republic; Contract grant number:
+LO1204. Czech Science Foundation; Contract grant number: 15-15264S.
+Correspondence to: Vladim´ır Krystof, Laboratory of Growth Regulators, Palack ˇ y University, ´ Slechtitel ˇ u 27, 78371, ˚
+Olomouc, Czech Republic, E-mail: vladimir.krystof@upol.cz
+
+Medicinal Research Reviews, 35, No. 6, 1156–1174, 2015
+C
+2015 Wiley Periodicals, Inc.
+POTENTIAL CLINICAL USES OF CDK INHIBITORS
+1157
+
+classical chemotherapeutics.3–5 Consequently, there is an urgent need for a better understanding
+of the differences between normal and cancer cells. Such an understanding would enable the
+identification of targets that are only essential for the viability of tumor cells, leading to the
+development of new drugs targeting cancers as specifically as possible.
+Tumorigenesis is a complex multistep process that often takes many years, during which
+cells acquire a set of genetic lesions that ultimately yield a cancerous state. It has been stated that
+cancers are often self-sufficient in the production of growth factors, less sensitive to growthinhibitory
+signals and induction of apoptosis, unlimited in their replicative potential, and
+capable of inducing both angiogenesis and metastases.6 These properties are typically conferred
+by loss of function mutations in tumor suppressor genes and gain of function mutations in
+oncogenes that are collectively critically important for cancer development. While they are
+essential for the induction of the cancerous state, these attributes can also be regarded as
+weaknesses that could be exploited therapeutically because they define the ways in which
+transformed cells differ from their normal counterparts.
+A pivotal milestone in the development of molecular anticancer therapeutics was the discovery
+of imatinib mesylate, a potent kinase inhibitor targeting a protein encoded by a fused
+breakpoint cluster region (BCR)-Abelson murine leukemia viral oncogene homologue (ABL).
+This oncogene is activated by a translocation between chromosomes 9 and 22 in hematopoietic
+stem cells, and induces chronic myeloid leukemia (CML).7 Imatinib proved to be strikingly effective
+in the treatment of CML patients and was approved for this purpose in 2001. Since then,
+several small molecule and monoclonal antibody inhibitors of oncogenic enzymes have been
+approved for therapeutic use, and many others are in various stages of clinical development.8, 9
+While most of these agents have acceptable therapeutic indices, it is well known that they target
+both oncoproteins present in cancer cells and other proteins found in normal cells. Although
+several of the newer agents exhibit improved selectivity toward cancers, many fail in cancer
+treatment due to the emergence of distinct patterns of resistance based on general multidrug
+resistance, metabolism, compartmentalization or target-specific mutations such as point mutations,
+and mutations that induce oncogene overexpression. It therefore seems necessary to
+identify new strategies in order to overcome issues of drug resistance and find ways of targeting
+cells with loss of function mutations.
+Over the past few years, intensive studies on cancer genetics have yielded new insights
+into gene–gene interactions. As a result, conventional strategies that target oncogenic pathways
+regardless of their impact on normal cell signaling have been outperformed by new alternatives
+discovered as a result of the ongoing development of genomic technologies. A very promising
+anticancer drug discovery method that was first described in 1922 is the so-called synthetic lethal
+(SL) approach.2 SL is a genetic property whereby the presence of one gene allows an organism
+to tolerate genetic changes in a second gene that would be lethal in the absence of the first
+(Fig. 1A).10 In some cases, simultaneous mutations in both genes may only reduce cellular
+fitness, resulting in a condition known as synthetic sickness. Strategies based on synthetic
+sickness and lethality could potentially solve a major problem of anticancer drug development
+by permitting the specific targeting of cancer cells with loss of function mutations in tumor
+suppressor genes. The products of a pair of synthetic lethal genes may be components of the
+same multiprotein complex, participate in parallel redundant pathways, belong to the same
+linear pathway, or even act in two separate pathways essential for cell viability.
+Many synthetic lethal interactions have been mapped out in a range of model organisms
+using RNA interference. However, the field as a whole is rooted in studies on the budding
+yeast Saccharomyces cerevisiae. In 1999, a yeast knockout library was generated in which each
+open reading frame was replaced with a genetic marker and tagged with two specific molecular
+TAGs or barcodes (upstream and downstream)—20-base oligomer sequences that serve as
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1158
+VYMETALOV ˇ A AND KRY ´ STOF ˇ
+
+Figure 1. (A) Synthetic lethality is a genetic property whereby the presence of gene A allows a cell to tolerate
+mutation in gene B that would otherwise be lethal (and vice versa). (B) In an alternative version of synthetic
+lethality, gene A may interact with the third gene C such that increasing the expression or activity of C would
+be synthetically lethal when paired with the downregulation of gene A. (C) Schematic depiction of known SL
+interactions involving CDKs. Arrows pointing downward and upward indicate decreased and increased gene
+activity, respectively.
+
+strain identifiers.11 Synthetic lethal or sick interactions were then identified by crossing strains
+carrying mutations of interest with the array of deletion mutants after mating and sporulation.
+The desired interactions were readily identified because they produce haploid double mutants.
+However, another technique was required to quantify the double mutations effects on growth
+rates. To this end, the molecular barcodes in each mutant strain were flanked by universal
+priming sites, enabling the amplification of the tag sequences by PCR. The amplified products
+were hybridized to oligonucleotide arrays so that the intensity of the amplified signal could be
+determined.12 However, many cancer-related genes do not have yeast orthologs, so it was also
+necessary to conduct similar studies using alternative metazoan models. The most widely used
+organisms for this purpose were Caenorhabditis elegans and Drosophila melanogaster, both of
+which enabled the use of more sophisticated RNA interference strategies than were previously
+possible. Unfortunately, the siRNA sequences used to induce interference in simpler model
+organisms elicit antiviral responses in mammalian cells, so they were replaced with shRNA
+encoded by plasmids or viral vectors.13, 14 This improved RNAi system has become a staple of
+novel screening strategies that enable the systematic identification of gene–gene interactions in
+human cells. There are two main approaches used by geneticists to map out SL relationships,
+referred to as the forward and reverse approaches. The forward tactic relies on the genetic
+variability of cancer cell lines characterized by a common mutation in a gene of interest, while
+the reverse strategy uses an isogenic cell line pair created by a single specific genetic change.
+These approaches led to the identification of several new synthetic lethal interactions. For
+example, many cancers are characterized by oncogenic mutations in Ras, which is difficult to
+inhibit directly with small molecule inhibitors and was therefore targeted for synthetic lethal
+screening. It was demonstrated that cells expressing mutant K-Ras are highly dependent on
+the expression of TANK-binding kinase 1 (TBK1), mitotic polo-like kinase 1 (PLK1), and the
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+POTENTIAL CLINICAL USES OF CDK INHIBITORS
+1159
+
+transcriptional repressor SNAIL2.15–17 In a similar way it was shown that deficiencies of the
+tumor suppressor Rb, which are often responsible for malignant conversion, can be overcome by
+inactivating tuberous sclerosis complex 2 (TSC2); that overexpression of the serine/threonineprotein
+kinase PIM1 in prostate cancer cells can be overcome by PLK1 inhibition; and that p53
+deprivation can be relieved by silencing telomerase reverse transcriptase (TERT).18–20
+While novel screening strategies have revealed many new SL interactions, the limited overlap
+between the results obtained in different SL screening campaigns targeting the same gene
+indicates that there are important weaknesses in existing methodologies. The identification of
+three different SL partner proteins in three separate K-Ras screens is a case in point, and suggests
+that the genetic backgrounds of the tested cells can have significant effects on the observed
+lethality. The limited overlap between the results of different SL screens targeting the same
+protein may be due to the use of different cell lines in different studies, imperfections in RNAimediated
+gene knockdown, or off-target effects. Regardless of its causes, this variability makes
+it essential to thoroughly validate newly identified SL interactions using multiple independent
+models in order to provide a sound basis for rational patient–drug pair selection.
+Except of experimental studies, many predictive approaches have been proposed, but these
+primarily focus on extending experimentally derived SL networks rather than de novo prediction
+of interactions, limiting their utility for cancer.21 However, a new computational algorithm
+DAISY (data mining synthetic lethality identification pipeline) that aims to facilitate the largescale
+identification of SLs in cancer has been described recently.22 Importantly, cancer SL
+networks identified by DAISY included known SL partners of tumor suppressors and oncogenes.
+In addition, it has been shown to be useful in predicting gene essentiality, drug efficacy,
+and clinical prognosis.
+It is not yet clear whether discovered SL interactions will ever translate into efficient
+therapeutics. However, the basic concept of genetic screens for SL interactions has already
+been applied in drug discovery screening studies. In these investigations, an inhibitor of a given
+protein is screened against a panel of viable cells bearing mutations in different genes to identify
+cases where the combination of the mutation and inhibitor results in cell death but neither is
+fatal by itself.23 This approach has revealed SL effects of many compounds in specific cancer
+cell lines. At present, the most important clinical application of an SL relationship is probably
+the use of synthetic poly(ADP-ribose) polymerase-1 (PARP-1) inhibitors such as olaparib or
+iniparib to treat breast cancers featuring deletions of BRCA-1 or BRCA-2.24 BRCA-1 and 2 are
+necessary for the repair of DNA double-strand breaks (DSB) by homologous recombination
+(HR). PARP-1 is implicated in the repair of single-strand breaks (SSB) via autopoly(ADPribosyl)ation,
+in which it serves as a docking site for other proteins involved in the repair
+process. PARP-1 inhibition prevents the docking of these proteins, leading to the formation
+of multiple SSB; these SSB in turn give rise to DSB at replication forks. The DSBs would
+normally be repaired by HR, but this is not possible in the absence of BRCA-1 or BRCA-2
+so the DNA lesions are instead repaired by nonhomologous end joining (NHEJ), leading to
+extensive chromosomal alterations and cell death.
+The identification of cyclin-dependent kinases (CDKs) as cell cycle regulators prompted the
+development of several small molecule CDK inhibitors, many of which have shown promising
+results in the context of anticancer therapy and could be potentially exploitable in combinatorial
+experiments as discussed in the next section.
+
+2. DEREGULATION OF CDKS IS A FREQUENT HALLMARK OF CANCER DISEASES
+
+The CDKs are a family of 20 serine/threonine protein kinases that are generally classified as
+regulators of the cell cycle (CDK1, 2, 4, 6) or transcription (CDK7, 8, 9, 11, 20). However, in the
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1160
+VYMETALOV ˇ A AND KRY ´ STOF ˇ
+
+last few years they have been shown to have diverse functions including the regulation of angiogenesis,
+senescence, exocytosis, spermatogenesis, and neuronal development.25 CDK activity is
+highly dependent on the binding of regulatory subunits called cyclins, whose name derives from
+their oscillatory expression: they are produced and degraded during different phases of the cell
+cycle. To be fully activated, most CDKs must be phosphorylated by CDK7 at specific residues
+in their so-called T-loops.26 The timing of CDK activity is also subject to negative regulation
+mediated by the binding of natural CDK inhibitors (INK4, Cip/Kip), and by inhibitory
+phosphorylation catalyzed by the Wee1 and Myt1 kinases.26, 27 These phosphorylations can be
+reversed by the cdc25 phosphatases.
+The uncontrolled upregulation of CDK activity has been identified as a hallmark of cancer
+and several CDK hyperactivity-inducing mechanisms have been identified. Many of these mechanisms
+involve loss of function mutations (deletions, silencing, or point mutations) affecting
+genes encoding natural CDK inhibitors or the overexpression of CDK-activating cyclins. For
+example, excessive production of cyclin D1 has been detected in breast, bladder, esophageal, and
+squamous cell carcinoma.28 Similarly, overproduction of cyclin E has been detected in colon,
+lung, and breast cancers as well as acute lymphoblastic and myeloid leukemias,29–33 and cyclin A
+overproduction has been observed in lung carcinoma.30 In addition, some breast malignancies
+are promoted by shortened hyperactive forms of cyclin E that are generated by proteolysis.34
+However, in some cases, especially those involving CDK4 and 6, hyperactivity is caused by the
+amplification or overexpression of the CDK gene itself.35–37 Alternatively, mutations in CDK
+genes may affect the corresponding proteins’ sensitivity to negative regulators. For example,
+in melanoma the R24C point mutation in CDK4 was found to cause insensitivity to inhibition
+by p16INK4a without affecting the variant protein’s ability to bind cyclin D and form
+an active kinase.38 Finally, CDK activation requires the removal of inhibitory phosphates by
+Cdc25 phosphatases, which are present at unusually high levels in certain tumors.39, 40 For these
+reasons, CDKs and their natural modulators have become important targets for anticancer
+drug development in recent years. Most efforts in this area have focused on small molecule
+inhibitors.
+Over the past 20 years, many CDK inhibitors have been developed using different approaches,
+and around 24 have entered clinical trials (Table I, Fig. 2).41–43 Most CDK inhibitors
+are pan-selective and block the transcriptional regulators CDK7 and CDK9 in addition to
+the cell cycle regulating CDKs. It was demonstrated that these compounds induce cell cycle
+arrest and activate apoptosis by inhibiting transcription, which is most effective in cells that
+are strongly dependent on the expression of antiapoptotic proteins with short half-lives such
+as myeloid cell leukemia 1 (Mcl-1). Many groups have demonstrated that early inhibitors such
+as roscovitine and flavopiridol are effective against multiple myeloma and other malignancies
+that depend on continuous mRNA synthesis and Mcl-1 expression.44–46 Inhibitors of the
+transcriptional CDKs also influence the stabilization of the tumor suppressor p53, probably
+by downregulating its target genes; these include the ubiquitin ligase Mdm2, which negatively
+regulates p53.47–49 On the basis of various in vitro studies, it has been suggested that the simultaneous
+inhibition of multiple CDKs (i.e., CDK1, 2, and 9) could be a desirable feature of clinical
+drug candidates.50 The justification for targeting multiple CDKs at once comes from studies
+on genetic models;51 cells lacking one or more interphase CDKs can proliferate because most
+CDKs are redundant and capable of standing in for one another if one is disabled somehow.
+The only CDK whose functions cannot be fulfilled by some other member of the CDK family
+is CDK1.51, 52
+Although the simultaneous inhibition of several CDKs may be more efficient than selectively
+blocking a single CDK in many cases, there has been considerable interest in developing
+inhibitors specific to individual CDK isoforms over the last few years.42, 53 It was recently shown
+that many cancers are heavily dependent on the activity of a single CDK—breast cancer on
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+POTENTIAL CLINICAL USES OF CDK INHIBITORS
+1161
+
+Table I. Some Small Molecular CDK Inhibitors in Clinical Trials
+Compound (alternative name) Target Trial phase Condition References
+AT7519 CDK1, CDK2, CDK4, CDK6, CDK9 I/II Lymphoma, mantle cell
+lymphoma, chronic
+lymphocytic leukemia,
+multiple myeloma
+
+90
+
+BAY 1000394 (roniciclib) CDK1, CDK2, CDK3, CDK4, CDK7, CDK9 I/II Neoplasms, small cell lung
+carcinoma
+
+91
+
+Flavopiridol (alvocidib, HMR 1275,
+L86-8275)
+
+CDK1, CDK2, CDK4, CDK6, CDK7, CDK9 I/II Hematologic malignancies 92,93
+
+LEE011 (ribociclib) CDK4, CDK6 I/II Solid tumors, lymphomas,
+malignant rhabdoid tumors,
+neuroblastoma, melanoma,
+breast cancer
+
+www.cancer.gov
+
+LY2835219 (abemaciclib) CDK4, CDK6 I/II Advanced cancer, mantle cell
+lymphoma, lymphoma,
+breast neoplasms, nonsmall
+cell lung cancer
+
+www.cancer.gov
+
+P1446A-05 CDK4 I Solid tumors, hematologic
+malignancy
+
+www.cancer.gov
+
+P276-00 (riviciclib) CDK1, CDK4, CDK9 I/II Multiple myeloma, mantle cell
+lymphoma
+
+94
+
+PD-0332991 (palbociclib) CDK4, CDK6 I/II/III Solid tumors, hematologic
+malignancies
+
+95
+
+PHA-848125 (milciclib) CDK2, CDK4, CDK7 I/II Thymic carcinoma, solid
+tumors
+
+96
+
+Roscovitine (seliciclib, CYC202) CDK1, CDK2, CDK5, CDK7, CDK9 I/II Breast cancer, advanced solid
+tumors, nonsmall cell lung
+carcinoma
+
+97,98
+
+SCH-727965 (dinaciclib) CDK1, CDK2, CDK5, CDK9 I/II/III Hematologic malignancies,
+solid tumors
+
+99
+
+SNS-032 (BMS-387032) CDK2, CDK7, CDK9 I Hematologic malignancies,
+tumors
+
+100
+
+R-547 CDK1, CDK2, CDK4 I Neoplasms 101
+TG02 (SB1317) CDK1, CDK2, CDK7, CDK9 I Hematologic malignancies 102
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1162
+VYMETALOV ˇ A AND KRY ´ STOF ˇ
+
+Figure 2. Chemical structures of some CDK inhibitors in clinical development.
+
+CDK4, pancreatic cancer on CDK5, and bladder cancer on CDK6, for instance.54–56 Several
+specific inhibitors have been designed, often with the assistance of molecular modeling. These
+agents include BS-181 and EXEL-8647, which target CDK7 and CDK9, respectively,57, 58 as well
+as three compounds targeting CDK4/6 that are currently undergoing clinical trials: LEE011,
+LY2835219, and palbociclib (granted accelerated approval by FDA in 2015).59–61
+While there are currently many CDK inhibitors in clinical trials, several problems with their
+therapeutic use remain to be addressed. In particular, it is not straightforward to determine
+which patients are likely to be most sensitive to specific therapies and many current compounds
+have low therapeutic indices while exhibiting strong general cytotoxicity. These problems could
+potentially be avoided by exploiting SL.
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+POTENTIAL CLINICAL USES OF CDK INHIBITORS
+1163
+
+3. CDK INHIBITORS CAN ENHANCE THE EFFECTIVENESS OF CURRENT
+CHEMOTHERAPEUTICS
+
+Although classical chemotherapeutics continue to dominate the clinical treatment of cancer,
+their limited efficacy, side effects, and susceptibility to drug resistance collectively complicate
+their use. Most of these compounds inhibit the functioning of the mitotic spindle, block DNA
+synthesis, or induce DNA damage. All of these processes lead to the activation of checkpoints
+followed by cell cycle arrest, during which the damage they cause may be repaired and drug
+resistance may be induced. Combination therapies are generally believed to avoid these problems,
+and in recent years a number of studies have demonstrated that combination therapies
+involving CDK inhibitors can have remarkable effects. Several studies examining different drug
+combinations have revealed synergistic effects that can be enhanced by precisely controlling the
+sequence and schedule on which the various agents are administered.
+Flavopiridol was the first pan-selective CDK inhibitor and the most extensively studied. It
+has been tested in combination with diverse classical chemotherapeutic agents, resulting in the
+identification of some combination therapies that are currently undergoing clinical trials. For
+instance, it was shown to enhance the anticancer effect of paclitaxel, a microtubule-interfering
+agent that inhibits mitosis.62 Paclitaxel monotherapy induced a transient increase in cyclin B1
+expression and CDK1 activation followed by mitotic exit without cytokinesis. Subsequent inhibition
+of CDK1 using flavopiridol accelerated mitotic exit, activated caspase-3, and induced
+PARP cleavage. Interestingly, the two drugs had antagonistic effects if the order of treatment
+was reversed by applying flavopiridol before paclitaxel because flavopiridol pretreatment
+prevented mitotic entry. This finding demonstrates the importance of applying combination
+therapies in the correct sequence.62 Similar results were obtained when using flavopiridol in
+combination with docetaxel, a semisynthetic paclitaxel analogue.63 In another example, SN-38,
+an active metabolite of the DNA topoisomerase I inhibitor CPT-11, induced p21 expression
+and G2 arrest in the HCT-116 gastric cancer cell line without activating apoptosis; this failure
+of apoptotic induction could be overcome by subsequent treatment with flavopiridol,64 which
+caused the activation of caspase-3 and the cleavage of p21 and X-linked inhibitor of apoptosis
+(XIAP). A third example is the combination of flavopiridol with gemcitabine, a ribonucleotide
+reductase inhibitor. In several cases, gemcitabine monotherapy has led to resistance due to upregulation
+of the mRNA and protein expression of the ribonucleotide reductase M2 subunit.65
+Flavopiridol treatment suppressed this resistance by downregulating the expression of the transcription
+factor E2F-1 in gemcitabine-treated cells, causing a reduction in the expression of the
+ribonucleotide reductase M2 subunit.65
+Based on this body of evidence, clinical trials on a range of combination therapies involving
+various CDK inhibitors have been initiated (see Supporting Information Table I). The
+extensively investigated CDK inhibitor flavopiridol has been the subject of several such studies,
+usually in combination with DNA targeting agents with which it exhibited strong synergistic
+effects in preclinical settings. Given the known involvement of certain CDKs in DNA damage
+repair processes,66 it is tempting to speculate that these synergies could be due to cell death
+arising from the blockage of DNA repair. There have also been several clinical trials involving
+the use of microtubule-interfering agents in conjunction with CDK inhibitors because such
+combinations have yielded promising results in animal models.62, 67
+In addition to classical chemotherapeutics, CDK inhibitors are being tested as components
+of therapeutic cocktails featuring more recently developed molecularly targeted drugs (including
+biologics) for which clear mutual potentiation has been observed in vitro or in vivo. The striking
+results obtained in these models support the hypothesis that simultaneously blocking multiple
+signaling pathways may confer superior clinical efficacy. Therefore, various combinations of
+CDK inhibitors with inhibitors of mitogen transducing kinases (both receptor and cytoplasmic
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1164
+VYMETALOV ˇ A AND KRY ´ STOF ˇ
+
+kinases), proteasome inhibitors, or antiestrogens have been designed for clinical evaluation (see
+Supporting Information Table I).
+The examples mentioned above clearly show that CDK inhibitors can potentiate the activity
+of current chemotherapeutic agents. However, more effective anticancer strategies could
+potentially be developed by specifically targeting individual cancer-related genes in order to
+exploit SL interactions in patients whose genetic background is known.
+
+4. SYNTHETIC LETHALITY OF CDK INHIBITORS IN THE TREATMENT OF SPECIFIC
+TUMOR DISEASES
+
+A. CDK1/2 and Phosphatidylinositol-3´-Kinase (PI3K)
+
+Glioblastoma multiforme is the most common and aggressive astrocytoma, and has poor prognostic
+outcomes despite the availability of several multimodal therapies. Almost half of all
+astrocytomas are characterized by an amplification of the epidermal growth factor receptor
+(EGFR), which subsequently overactivates PI3K leading to a deregulation of the protein kinase
+B (Akt)/mammalian target of rapamycin (mTOR) signaling pathway.68 The malignant
+conversion is also influenced by gain of function mutations in PI3Kα and loss of function mutations
+in tumor suppressor phosphatase and tensin homolog (PTEN), which negatively regulates
+PI3K activity.69 Early efforts to develop targeted glioblastoma treatments largely focused on
+small molecule inhibitors of EGFR, PI3K, or mTOR. This approach yielded disappointing
+results, inducing cytostatic effects rather than cell death. However, the screening of inhibitors of
+PI3K isoforms led to the identification of the imidazopyridine PI-75, which effectively induced
+apoptosis in glioma cell lines expressing wild-type PTEN without affecting PTEN mutant cell
+lines.70 Treatment of a wild-type PTEN cell line with the PTEN inhibitor bisperoxovanadium
+in combination with PI-75 caused increased phosphorylation of Akt and attenuated cell death
+without affecting G2/M arrest. Surprisingly, computational studies indicated that PI-75 is also
+a strong inhibitor of CDK1 and 2.70 While the inhibition of single CDKs (CDK1 or CDK2)
+or CDK1 and PI3Kα had no impact on apoptosis in glioma cells expressing wild-type PTEN,
+combined CDK2 and PI3Kα inhibition increased cell death, albeit to a lesser extent than was
+observed following PI-75 treatment. This finding was confirmed by siRNA experiments, in
+which the silencing of CDK1 or 2 alone after treatment with a PI3Kα inhibitor did not influence
+apoptosis in glioma cells expressing wild-type PTEN. This may indicate that CDK1 can
+compensate for the absence of CDK2 and vice versa.71 However, the simultaneous silencing
+of both CDKs significantly reduced the viability of cells treated with the PI3Kα inhibitor. In
+keeping with this finding, overexpression of CDK1 and 2 attenuated apoptosis in glioma cells
+expressing wild-type PTEN. Similarly, a combination of the CDK1/2 inhibitor roscovitine with
+a PI3Kα inhibitor reduced tumor size in mice xenografts more effectively than monotherapy
+with either agent alone. All of these results suggest that it should be possible to use combination
+therapies based on CDK1/2 and PI3K inhibitors to treat patients with gliomas expressing
+wild-type PTEN.
+
+B. CDK1/2/9 and MYC
+
+Neuroblastomas are embryonal tumors that arise from the sympathetic nervous system and
+are the second most common cause of cancer-related deaths in children.72 They are associated
+with a range of molecular changes including MYCN amplification, which is found in 20–30%
+of all neuroblastomas and is linked to advanced disease with bad prognosis.73 As a ligandindependent
+transcription factor, MYCN is very challenging to drug. Interestingly, CDK2 was
+shown to have a strong effect on the viability of MYCN-amplified neuroblastomas: its silencing
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+POTENTIAL CLINICAL USES OF CDK INHIBITORS
+1165
+
+using siRNA or shRNA induced apoptosis in MYCN-amplified neuroblastoma cell lines.74
+However, the simultaneous silencing of MYCN and CDK2 had no impact on cell viability,
+suggesting that these two proteins have an SL relationship. Subsequent experiments demonstrated
+that both roscovitine and the related compound CR8 are potent inducers of apoptosis
+in MYCN-positive cells but have no effects in MYCN-negative neuroblastoma lines.74, 75
+Various other cancers overexpress the closely related MYC oncogene, which encodes a
+transcription factor that regulates the expression of genes controlling cell growth, division, and
+apoptosis.76 Using a panel of fibroblast human cell lines expressing nine common oncogenes, it
+was shown that MYC-overexpressing cells were highly sensitive to the induction of apoptosis by
+purvalanol A (a CDK inhibitor related to roscovitine).77 Importantly, this sensitivity correlated
+well with the strength of the cells’ expression of MYC. Artificially induced Bcl-2 overexpression
+prevented cell death in both normal and MYC-overexpressing cells treated with purvalanol A,
+demonstrating that the apoptosis observed in drug-treated cells was due to mitochondrial depolarization.
+This effect was attributed to a drug-induced destabilization of survivin, an inhibitor
+of apoptosis whose activity depends on phosphorylation by CDK1.78 The anticancer efficacy of
+purvalanol A was also confirmed in mouse models of lymphoma and hepatoblastoma, further
+supporting the proposed interaction between CDK1 and MYC.77
+The SL interaction betweenMYC and CDK1 could potentially be exploited in the treatment
+of triple-negative breast cancer, which is resistant to drugs targeting the HER2, estrogen, and
+progesterone receptors.79, 80 CDK1 silencing using siRNA decreased the viability of triplenegative
+breast cancer cell lines and suppressed tumor growth in mice xenografts.79 Two small
+molecule CDK inhibitors, purvalanol A and dinaciclib, induced significant apoptosis in several
+triple-negative cell lines with elevated MYC expression as well as in related mouse xenograft
+models.80 CDK1 is not the only CDK that has a synthetic lethal relationship with MYC:
+studies on hepatocellular carcinomas revealed that CDK9 was required for their survival and
+its pharmacological or shRNA-mediated inhibition caused robust antitumor effects whose
+magnitude correlated with MYC expression levels.81
+It can be difficult to unravel synthetic lethal relationships involving CDKs because of
+the broad specificity patterns of established CDK inhibitors and because these proteins exhibit
+pronounced functional redundancy such that one CDK can often compensate for deficiencies in
+the activity of another. However, a remarkable study in which CDK4, CDK2, and CDK1 were
+inhibited specifically and separately using either RNAi or small molecule inhibitors showed that
+only CDK1 inhibition rapidly decreased the viability of MYC-dependent cells.82 The suggested
+mechanism of SL between CDK1 and MYC is based on the induction of mitotic catastrophe
+by CDK1 depletion, which may promote MYC-induced replication stress and subsequently
+activate checkpoint signaling, resulting in cell death.
+
+C. CDK6 and VHL
+
+The inactivation of the Von Hippel Lindau (VHL) tumor suppressor gene, which serves as
+a regulator of hypoxia-inducible factor α (HIF-α), is a frequent hallmark of clear cell renal
+carcinomas (RCC).83 In the presence of oxygen (normoxia), HIF-α becomes hydroxylated at
+one or two prolyl residues to form a binding site for VHL, a component of the ubiquitin ligase
+complex that directs the polyubiquitinylation of HIF-α. On the other hand, a lack of oxygen
+leads to an accumulation of HIF-α, which then binds HIF-β. The HIF-α/β heterodimer acts
+as a transcriptional factor of genes involved in acute or chronic adaptation to hypoxia such as
+vascular endothelial growth factor (VEGF), platelet-derived growth factor B (PDGF-B), tumor
+growth factor α (TGFα), and erythropoietin.83 Loss of VHL leads to an activation of kinases
+such as EGFR, c-Met, VEGFR, or PDGFR, which can support invasiveness, angiogenesis, and
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+1166
+VYMETALOV ˇ A AND KRY ´ STOF ˇ
+
+metastasis.84 Renal tumors generally do not respond to conventional treatment and therefore
+require novel therapies. The scope for specifically targeting VHL-negative cells was investigated
+using isogenic cell lines derived from RCC patients of different VHL status.84 Focused silencing
+of individual kinases resulted in the identification of three genes that reduced the viability of
+VHL-/- RCC cell lines: c-Met, CDK6, and MAP2K1. A synthetic lethal interaction between
+VHL and CDK6 was then confirmed by experiments using a small molecule CDK4/6 inhibitor
+(CAS 546102-60-7), which only blocked the growth of VHL-/- cells. This finding suggests that
+CDK6 inhibitors could potentially be useful in the treatment of VHL-/- RCC.
+
+D. CDK4 and K-Ras
+
+Given the role of CDK4/6 in the conjunction of mitogenic signaling and cell cycle regulation,
+it was not a surprise when CDK4 was revealed as a promising target in cancers overexpressing
+K-Ras.85 Inducible overexpression of K-Ras in mouse embryonic fibroblasts was found to
+overcome the typical replicative senescence response of cells exposed to culture shock, while
+CDK4 ablation restored this senescence. K-Ras-positive tumor cell lines were sensitive to
+CDK4 silencing while cell lines lacking K-Ras were unaffected. Moreover, the induction of
+K-Ras expression in murine xenograft models with a loss of CDK4 significantly reduced their
+tumor burden, and all of the tumors that did arise were benign. It was also demonstrated that
+K-Ras-positive cells with a loss of CDK4 undergo senescence in a way that is normally observed
+only in lung cells. Mice with induced K-Ras overexpression were treated with the CDK4-specific
+inhibitor PD0332991. After 30 days, less than 20% of all animals developed lesions compared
+to 75% for control mice. Biochemical analysis revealed a decrease in Rb phosphorylation at
+serines 807 and 811 in the treated mice; both of these residues are targets of CDK4. However,
+no senescence response was detected in cells treated with a CDK4 inhibitor, suggesting that
+CDK4 activity was not adequately suppressed. It would therefore be desirable to develop more
+potent CDK4 inhibitors and test their usefulness in the treatment of K-Ras-positive NSCLC.
+The synthetic lethal relationship between K-Ras and CDK4 was subsequently observed in a
+K-Ras overexpressing NSCLC cell line, in which CDK4 silencing reduced cell proliferation, as
+well as in a murine xenograft model, in which it inhibited tumor growth.86
+
+E. CDK5/12 and PARP
+
+As noted in the introduction the SL relationships that have been most widely exploited in
+the clinic are those associated with PARP inhibition. Turner et al. searched for additional SL
+interactions between PARP and DNA damage response proteins by performing a screen using
+an siRNA library targeting 779 human kinases and kinase-associated genes in a breast cancer
+cell line.87 This approach yielded six on-target hits, the most notable of which was CDK5.
+The SL relationship between PARP and CDK5 was subsequently confirmed by experiments
+using HeLa cells treated with a PARP inhibitor: CDK5-silenced cells were more sensitive than
+controls to DNA-damaging agents such as camptothecin and cisplatin. CDK5 silencing in cells
+treated with the PARP inhibitor caused a striking increase in γ H2AX phosphorylation and
+an increase in the abundance of RAD51 foci even in the absence of exogenous DNA damage.
+Thus, CDK5 silencing in PARP-inhibited HeLa cells causes failures of SSB repair that lead
+to DSB formation but has no effect on HR or NHEJ. Interestingly, when CDK5-silenced
+cells were irradiated, they exhibited radiation-resistant DNA synthesis and an unusually high
+proportion of cells were found to be in mitosis after irradiation, suggesting that CDK5 controls
+an intra S-phase checkpoint that normally prevents mitotic progression in cells with DNA
+damage. While its precise function in the various cell cycle checkpoints remains unclear, it may
+act via SCF ubiquitin ligase or some noncatalytic interaction with DNA-damage kinases. In
+
+Medicinal Research Reviews DOI 10.1002/med
+
+ 10981128, 2015, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/med.21354 by Cas - Shanghaitech University, Wiley Online Library on [01/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+POTENTIAL CLINICAL USES OF CDK INHIBITORS
+1167
+
+conclusion, PARP inhibition causes the accumulation of SSBs; when this is paired with a failure
+of an intra-S-phase checkpoint due to the absence of CDK5, the result is an increased rate of
+replication fork collapse that leads to cell death. These results suggest that PARP inhibitors
+may be particularly effective in the treatment of patients with CDK5 loss of function mutations.
+They also suggest that in addition to their uses in treating patients with BRCA1 or BRCA2
+deficiencies, PARP inhibitors may be useful for other malignancies when applied in combination
+with CDK5 inhibitors.
+In an effort to identify even more genes for which loss of function might predict sensitivity
+to PARP inhibitors, Bajrami et al. performed a genome-wide synthetic lethal screen using the
+PARP inhibitor olaparib.88 Their analysis showed that the cytotoxicity of olaparib is governed
+by the status of the DNA damage response apparatus as well as genes that proofread chromatin
+remodeling and regulate sister chromatid cohesion. Of the genes identified in this work,
+CDK12 stands out as a potential predictive biomarker for responsiveness to PARP1/2 inhibitors.
+CDK12 is a regulator of RNA polymerase II and is also important in HR. High-grade
+serous ovarian cancer (HGS-OVCa), a disease characterized by a high frequency of familial
+and somatic BRCA mutations, was selected as a model in which to evaluate the synthetic
+lethal relationship between PARP1/2 and CDK12 based on its susceptibility to olaparib after
+carboplatin treatment. The loss of CDK12 function may sensitize HGS-OV cells to PARP1/2
+inhibitors because it reduces the expression of key DNA repair genes such as BRCA1, FANCI,
+FANCD2, and ATR, rendering the cell deficient in HR.88, 89 Consequently, the SSBs induced
+by PARP1/2 inhibition are not effectively repaired, leading to cell death.
+
+5. CONCLUSION
+
+For a long time, attempts to treat patients with tumors could be likened to “tilting at windmills”
+due to the heterogeneity of cancer and related diseases. While treatments with classical
+chemotherapeutics often initially provide good outcomes, different patterns of resistance appear
+in many patients. In addition, these drugs are characterized by high levels of general toxicity
+and severe side effects. However, developments in genetics and genomic technologies have made
+it possible to explore the genetic basis of diverse tumors, leading to the identification of novel
+molecular targets whose specific inhibition offers the potential for more effective treatment that
+can overcome resistance. In recent years, many drugs targeting specific cancer-related proteins
+have been developed, several of which have been approved for clinical use. Although no CDK
+inhibitor has yet been approved for cancer therapy several phase III clinical trials involving
+such agents are underway. There has been quite a large gap between the development of the first
+CDK inhibitors and their use in phase II/III trials for several reasons including their low therapeutic
+indices (especially in monotherapy) and a lack of robust criteria for selecting patients
+who are likely to respond well to such therapies. Hopefully, these problems could potentially
+be avoided by exploiting SL. Studies on this phenomenon, which was first demonstrated in
+yeasts before being explored further in cell lines and model organisms, have revealed a range of
+gene–gene interactions that could potentially be exploited to develop novel targeted therapies
+that will make it possible to effectively treat previously incurable tumors and provide more
+effective therapies, perhaps based on CDK inhibition, with fewer side effects for other cancers.
+

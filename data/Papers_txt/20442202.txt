@@ -1,0 +1,965 @@
+CUX1: target of Akt signalling and mediator of
+resistance to apoptosis in pancreatic cancer
+
+S Ripka,1 A Neesse,1 J Riedel,1 E Bug,1 A Aigner,2 R Poulsom,3 S Fulda,4
+J Neoptolemos,5 W Greenhalf,5 P Barth,6 T M Gress,1 P Michl1
+
+ABSTRACT
+Background and aims The transcription factor CUX1 is
+known as a regulator of cell differentiation and cell cycle
+progression. Previously, CUX1 was identified as
+a modulator of invasiveness in various cancers. Based on
+expression profiles suggesting a role for CUX1 in
+mediating chemoresistance, the aim of this study was to
+characterise the effect of CUX1 on apoptosis as well as
+its regulation by signalling pathways modulating drug
+resistance in pancreatic cancer.
+Methods The effect of CUX1 on TRAIL- (tumour necrosis
+factor-related apoptosis-inducing ligand) and druginduced
+apoptosis was analysed using overexpression
+and knock-down strategies. Regulation of CUX1 by
+phosphatidylinositol-3-kinase (PI3K)/Akt signalling was
+examined at the mRNA and protein level. The effect of
+CUX1 knock-down by nanoparticle-complexed small
+interfering RNA (siRNA) in vivo was analysed in a murine
+xenograft model. Furthermore, CUX1 RNA and protein
+expression was evaluated in human pancreatic cancer
+and adjacent normal tissues.
+Results Knock-down of CUX1 resulted in significantly
+enhanced TRAIL- and drug-induced apoptosis, associated
+with increased PARP (poly ADP-ribose polymerase)
+cleavage and caspase activity. Vice versa,
+overexpression of CUX1 inhibited apoptosis. CUX1
+expression was induced by activation of Akt/protein
+kinase B signalling, and decreased by PI3K inhibitors. The
+antiapoptotic effect of CUX1 was associated with
+upregulation of BCL2 and downregulation of tumour
+necrosis factor a. CUX1 was significantly overexpressed
+in pancreatic cancers, as analysed by in situ hybridisation
+and immunohistochemistry. In vivo, silencing of CUX1 by
+intratumourally administered polyethyleniminecomplexed
+siRNA led to reduced tumour growth and
+increased apoptosis in pancreatic cancer xenografts.
+Conclusion CUX1 was identified as an important
+mediator of tumour cell survival in pancreatic cancer
+in vitro and in vivo.
+
+INTRODUCTION
+Pancreatic cancer is a devastating disease with
+a dismal prognosis, representing the fifth leading
+cause of cancer-related deaths in the Western world.
+Histologically, ductal adenocarcinomas of the
+pancreas (PDAC) account for >95% of all exocrine
+pancreatic cancers. PDAC is almost uniformly fatal,
+with a 5-year survival rate of <5%.1 For advanced
+stages of the disease, a large number of single and
+combined radiotherapeutic or chemotherapeutic
+regimens have been tested during the past decades,
+and at most achieve palliation and/or modest, if
+any, prolongation of survival.2 This is largely due to
+
+the high level of chemoresistance of this tumour
+entity. In this appalling situation new therapeutic
+targets to overcome chemoresistance are urgently
+needed.2
+The transcription factor CUX1, also known as
+CUTL1 or CDP (CCAAT displacement protein),
+belongs to a family of homoeobox transcription
+factors involved in the regulation of cell proliferation,
+embryonic development and cell differentiation.3
+4 CUX1 is present in all metazoans and
+is expressed as multiple isoforms. It contains up
+to four evolutionarily conserved DNA-binding
+domains, three of which are known as Cut repeats
+and one as a Cut homeodomain (HD).5
+Transcriptional activation of CUX1 leads to
+increased cellular proliferation and cell cycle
+progression in various cell systems.6e8 In vivo,
+knockout studies revealed a phenotype characterised
+by reduced growth, retarded differentiation
+of the lung epithelia, hair follicle defects, reduced
+male fertility and deficient Tand B cell function.9e11
+In contrast, mice transgenic for Cux1 showed
+organomegaly and multiorgan hyperplasia.12
+Recent reports suggest an important role for
+CUX1 in tumourigenesis and tumour progression.4
+Goulet et al described a tissue-specific CUX1
+isoform that appears to be strongly expressed in
+some breast tumours and, when overexpressed,
+inhibited tubule formation of breast cancer cells in
+vitro, indicating that CUX1 might enhance dedifferentiation
+of tumours.13 We could show that
+CUX1 stimulates tumour cell migration and invasiveness
+in vitro and in vivo, and acts as an
+important effector of transforming growth factor
+b signalling.14 15 The important role of CUX1 in
+promoting cell motility and invasiveness is underlined
+by the fact that CUX1 expression is strongly
+associated with a less differentiated phenotype and
+decreased survival in invasive breast cancer.14 Given
+the role of CUX1 as a transcriptional regulator, we
+could identify several downstream targets of
+CUX1, such as the Wnt family member WNT5A,
+which mediate the proinvasive effects of CUX1 in
+various tumour cells.16 17
+Interestingly, analysis of gene expression profiles
+available in the literature revealed the CUX1 is
+increased in carcinomas resistant to chemotherapeutic
+drugs such as oxaliplatin-resistant ovarian
+cancers as compared with drug-sensitive tumours.18
+Furthermore, CUX1 was found to be decreased
+after chemotherapy-induced apoptosis.19 Based on
+these data, we were interested to discover whether
+CUX1 interferes with tumour cell survival and
+resistance to apoptosis, which could help to explain
+the striking association of CUX1 expression with
+
+See Commentary, p 1014
+
+< Additional figures and a table
+are published online only. To
+view these files please visit the
+journal online (http://gut.bmj.
+com).
+1
+Department of
+Gastroenterology and
+Endocrinology, University
+Hospital, Philipps-University,
+Marburg, Germany
+2
+Department of Pharmacology
+and Toxicology,
+Philipps-University, School of
+Medicine, Marburg, Germany
+3
+Cancer Research UK, London
+Research Institute, London, UK
+4
+University Childrens Hospital,
+Ulm University, Germany
+5
+Department of Surgery,
+University of Liverpool,
+Liverpool, UK
+6
+Institute of Pathology,
+Philipps-University, School of
+Medicine, Marburg, Germany
+
+Correspondence to
+Dr Patrick Michl, Department of
+Gastroenterology, University of
+Marburg, Baldinger Strasse,
+D-35043 Marburg, Germany;
+michlp@med.uni-marburg.de
+
+Revised 10 November 2009
+Accepted 23 December 2009
+Published Online First
+4 May 2010
+
+Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720 1101
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+enhanced tumour progression and poor prognosis we had
+observed before in breast cancer.14 In this study, we could show
+a significant impact of CUX1 on tumour cell survival in pancreatic
+cancer cells in vitro and in vivo, and identified CUX1 as a transcriptional
+target of phosphatidylinositol-3-kinase (PI3K)/Akt
+signalling.
+
+MATERIALS AND METHODS
+Materials and cell lines
+Recombinant human TRAIL (tumour necrosis factor-related
+apoptosis-inducing ligand) and insulin-like growth facor 1 (IGF1)
+were obtained from R&D Systems (Minneapolis, Minnesota,
+USA). The PI3K inhibitor LY294002 was purchased from Cell
+Signalling Technology (Beverly, Massachusetts, USA). PANC1
+and HEK293 cell lines were obtained from the ATCC (Rockville,
+Maryland, USA). ImimPC1 cells were kindly provided by FX Real
+(Centro Nacional de Investigaciones Oncológicas, Madrid,
+Spain). Cells were maintained in Dulbecco`s modified minimal
+essential medium (Gibco, Invitrogen, Carlsbad, California, USA)
+supplemented with 10% fetal calf serum (Gibco), 100 mg/ml
+streptomycin (Sigma-Aldrich, St Louis, Missouri, USA) and
+100 U/ml penicillin (Sigma). All cell lines were grown at 378C in
+5% CO2. 5-Fluorouracil (5-FU) was purchased from Sigma and
+gemcitabine was obtained from Lilly (Bad Homburg, Germany).
+
+Plasmids and small interfering RNA (siRNA) oligonucleotides
+Myc-tagged full-length human CUX1 in pMX vectors and
+C-terminal CUX1 in pXJ vectors were a kind gift of A Nepveu
+(McGill University, Canada). The AKT2/pcDNA4 expression
+plasmid was a kind gift of A Schulze (Cancer Research UK,
+London Research Institute, UK). Plasmids were transfected into
+PANC1 and HEK293 cells using Transfast transfection reagent
+(Promega, Madison, Wisconsin, USA).
+CUX1 was transiently suppressed by using two different
+oligonucleotides (hCUX1_1 and hCUX1_2) as described previously.14
+All assays were confirmed using two different siRNA
+sequences to minimise the risk of possible off-target effects.
+siRNA oligonucleotides were purchased from Ambion (Austin,
+Texas, USA). Both silencing sequences resulted in a knock-down
+efficiency >70% (supplementary figure 1). PANC1 cells were
+transfected using Transmessenger transfection reagent (Qiagen,
+Hilden, Germany) according to the manufacturers instructions.
+To optimise transfection efficacy, cells were transfected with
+siRNA twice, with an interval of 24 h. ImimPC1 cells were
+transfected using XtremeGene (Roche Applied Science,
+Mannheim, Germany) according to the manufacturer’s
+instructions. As non-silencing controls, silencer-negative control
+siRNAs from Ambion were used.
+
+Quantitative real-time PCR (RT-PCR)
+RNA was extracted using the RNeasy Mini Kit (Qiagen), and
+first-strand cDNA was synthesised using random hexamer
+primers and Superscript II reverse transcriptase (Invitrogen).
+Quantitative RT-PCR analysis was performed with an Applied
+Biosystems 7500 Fast Real time PCR using the SYBR Green PCR
+Master Mix kit (Applied Biosystems, Wellesley, Massachusetts,
+USA) according to the manufacturer’s instructions. Sequencespecific
+primer pairs were designed using the PrimerExpress
+software (Applied Biosystems). The ribosomal protein RPLP0
+(NM_001002) was used as internal standard. Primer sequences
+for CUX1 and RPLP0 are shown in supplementary table 1.
+Apoptosis pathway-focused gene expression profiling
+comprising 84 genes was performed using the RT2 Profiler PCR
+
+Array System (SuperArray Bioscience, Frederick, Maryland,
+USA) according to the manufacturer’s instructions. A list of the
+genes analysed in this profiler is available online (<http://www.
+sabiosciences.com/rt_pcr_product/HTML/PAHS-012A.html>).
+
+Immunoblotting
+Cells were incubated in lysis buffer (50 mM HEPES (pH 7.5),
+150 mM NaCl, 1 mM EGTA, 100 mM NaF, 10 mM Na4P2O7,
+10% glycerol, 1% Triton X-100) supplemented with a cocktail of
+protease inhibitors (Complete, Roche Applied Science). Proteins
+were separated by 10% sodium dodecylsulfateepolyacrylamide
+gel electrophoresis (SDSePAGE) and transferred onto polyvinylidene
+difluoride (PVDF) membranes (Millipore, Billerica,
+Massachusetts, USA). Immunoblots were probed with primary
+antibodies against CUX1 (custom-made rabbit polyclonal antibody
+as previously described14) caspase-3, cleaved caspase-3,
+poly ADP-ribose polymerase (PARP), bcl-2 (Cell Signalling
+Technology), pAKT (Cell Signalling Technology) and b-actin
+(Sigma-Aldrich) and subsequently incubated with peroxidaseconjugated
+secondary antibodies (Amersham Biosciences, Freiburg,
+Germany). Blots were detected by ECL chemiluminescence
+(Amersham).
+
+Apoptosis assays
+Apoptosis was assessed in three ways: (1) by fluorescenceactivated
+cell sorting (FACS) analysis to determine DNA fragmentation
+of propidium iodide-stained nuclei20; (2) using the
+Cell Death Detection ElisaPLUS for quantification of histoneassociated
+DNA fragments (Roche Diagnostics); and (3) by the
+DeadEnd Fluorometric TUNEL System (Promega) according to
+the manufacturer’s instructions. Using the DeadEnd TUNEL
+(terminal deoxynucleotide transferase-mediated dUTP nick end
+labelling) assay, the labelled DNA was visualised directly by
+fluorescence microscopy.
+
+Caspase activity
+Caspase-3 and caspase-7 activities were measured using the
+luminescent assay Caspase-Glo3/7 (Promega), according to the
+manufacturer’s instructions. The assay provides a luminogenic
+caspase-3/7 substrate, which contains the tetrapeptide sequence
+DEVD. Luminescence is proportional to the amount of caspase
+activity present.
+
+Tumour necrosis factor a (TNFa) ELISA
+TNFa secretion by PANC1 cells over 24 h with or without
+knock-down of CUX1 was measured in the cell culture supernatant
+using a TNFa ELISA (BioSource Europe, Nivelles,
+Belgium) according to the manufacturer’s instructions.
+
+In vivo experiments
+All animal experiments were approved by the local government
+authorities and were performed according to the guidelines
+of the animal welfare committee. Twenty tumours were induced
+in 10 female NMRI nu/nu mice (left and right flank each)
+by subcutaneous injection of 106 CAPAN1 cells/0.1 ml of
+phosphate-buffered saline (PBS) each. After the tumours had
+reached a volume of w60 mm3
+, mice were randomised into two
+groups and 10 mg polyethylenimine (PEI)-complexed siRNA
+against CUX1 or PEI-complexed non-silencing control siRNA,
+dissolved in 50 ml of PBS, were injected intratumourally (three
+times a week over 3 weeks, 10 tumours per group). PEIesiRNA
+complexes were based on PEI F25-LMW21 and were generated as
+described previously.22 Tumours were measured during the
+course of treatment, and, after the animals had been sacrificed,
+
+1102 Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+tumours were paraffin embedded and immunohistologically
+evaluated for necrotic areas (H&E staining), apoptosis (M30
+CytoDEATH antibody, Roche) and CUX1 expression (mouse
+monoclonal anti-CUX1, Abcam, Cambridge, UK).
+
+In situ hybridisation (ISH)
+ISH for hCUX1 mRNA was performed as described previously.14 23
+The human CUX1 probe (nucleotides 330e1040) was PCR
+amplified and cloned into the KpnI and SphI sites of the
+pGEM3Z vector (Promega). Multiple tissue arrays (MTAs)
+comprising 49 tumour samples and paired normal control tissues
+were prepared at the Department of Surgery, University of
+Liverpool, UK, according to the guidelines of the local ethics
+committee. Expression within the tumour epithelium was
+scored by two investigators blinded to the H&E sections as
+negative or positive, as described previously.14 As a positive
+control, ACTB (b-actin) mRNA was detected on a near serial
+section for each tissue.
+
+Immunohistochemistry
+For immunohistochemical analysis, an independent set of eight
+human pancreatic adenocarcinoma tissues and normal pancreatic
+tissues were provided by the Institute of Pathology of the
+University of Marburg according to the guidelines of the local
+ethics committee. Immunohistochemical analysis was performed
+as previously described.24 In brief, paraffin sections were stained
+after antigen retrieval (microwave in antigen-unmasking solution,
+Vector Laboratories, Burlingame, California, USA) with rabbit
+polyclonal anti-CUX1 (1:200), as described previously.14Antibody
+binding was visualised using a biotinylated secondary antibody,
+avidin-conjugated peroxidase (ABC method; Vector Laboratories),
+3,39
+-diaminobenzidine tetrachloride (DAB) as a substrate, and
+H&E as counterstain.
+
+Statistical analysis
+For the in vitro experiments, statistical analyses were performed
+using the double-sided unpaired Student t test after Bonferroni
+correction for multiple testing, where appropriate. Differences in
+tumour growth in the mouse xenografts were analysed using
+paired t test/Wilcoxon matched pairs test.
+
+RESULTS
+Knock-down of CUX1 enhances TRAIL- and drug-induced
+apoptosis in pancreatic cancer cell lines
+We first evaluated the effect of CUX1 on basal and TRAILinduced
+apoptosis in two different pancreatic cancer cell lines,
+PANC1 and ImimPC1. Knock-down of CUX1 by specific siRNAs
+significantly induced basal apoptosis rates in both cell lines, as
+determined by FACS analysis of the sub-G1 population (figure 1A,
+B). ImimPC1 cells were more sensitive than PANC1 cells to
+knock-down of CUX1, resulting in a significant increase in
+apoptosis without any apoptotic stimulus. Further, knock-down
+of CUX1 significantly enhanced TRAIL-induced apoptosis,
+whereas treatment with TRAIL alone had only a minor effect on
+apoptosis induction (figure 1A,B). The use of two independent
+CUX1-specific siRNA oligonucleotides, which had been validated
+previously,14 revealed comparable results (data not
+shown). The effects of CUX1 siRNA on apoptosis were
+confirmed by quantification of histone-associated DNA fragments
+using a specific ELISA (supplementary figure 2) and by
+TUNEL staining, which both revealed very similar results
+(supplementary figure 3). All assays verified that knock-down of
+CUX1 by specific siRNAs significantly enhanced basal and
+TRAIL-induced apoptosis.
+TRAIL is known to induce the death receptor pathway of
+apoptosis via binding to its cognate surface receptors (extrinsic
+
+Figure 1 (A and B) Knock-down of
+CUX1 increases TRAIL (tumour necrosis
+factor-related apoptosis-inducing ligand)-
+induced apoptosis. Fluorescenceactivated
+cell sorting (FACS) analysis of
+PANC1 (A) and ImimPC1 (B) cells,
+transiently transfected with CUX1 small
+interfering RNA (siRNA) (siCUX1) or nonsilencing
+control siRNA (siC), and
+subsequently treated with 100 ng/ml
+(PANC1) or 75 ng/ml (ImimPC1) TRAIL
+for 20 h. DNA fragmentation was
+quantified by FACS analysis of propidium
+iodide-stained DNA in sub-G1 phase
+(M1). Results are representative for four
+independent experiments and are shown
+as the mean6SD. *p<0.05 compared
+with siC cells; **p<0.05 compared with
+siC+TRAIL cells. (C) Knock-down of
+CUX1 enhances drug-induced apoptosis,
+as detected by ELISA for histoneassociated
+DNA fragments. PANC1 cells
+transiently transfected with siCUX1 or
+siC were treated with gemcitabine
+(80 mg/ml) or 5-fluorouracil (5-FU; 50 mg/
+ml) for 20 h. Quantification of histoneassociated
+DNA fragmentation using
+a specific ELISA was measured at OD 405 nmeOD 492 nm. Results are representative for three independent experiments and are shown as the mean6SD.
+*p<0.05 compared with siC control cells, **p<0.05 compared with siC+gemcitabine; ***p<0.05 compared with siC+5-FU cells. (D) Knock-down of
+CUX1 leads to increased poly ADP-ribose polymerase (PARP) cleavage. After transfection of CUX1 (siCUX) or control (siC) siRNA, PANC1 and ImimPC1
+cells were treated with TRAIL or gemcitabine for 20 h. PARP protein was analysed by immunoblotting with anti-PARP, with cleaved PARP detected as
+smaller band below the uncleaved form. CUX1 levels were assessed by immunoblotting to confirm the knock-down (similar results in ImimPC1 cells are not
+shown). The blot was reprobed with the b-actin antibody to assess equality of loading.
+
+Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720 1103
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+pathway). By comparison, chemotherapeutic drugs characteristically
+trigger apoptosis via induction of DNA damage and
+activation of the intrinsic apoptosis pathway. To test the effect
+of CUX1 in drug-induced apoptosis, we treated PANC1
+cells6CUX1 siRNA with gemcitabine or 5-FU, two drugs
+commonly used in pancreatic cancer patients. Similar to TRAILinduced
+apoptosis, knock-down of CUX1 sensitised both cell
+lines to apoptosis induced by gemcitabine or 5-FU (figure 1C).
+
+CUX1 siRNA-induced apoptosis is associated with enhanced
+PARP cleavage and activation of effector caspases
+To delineate further the downstream events in CUX1-modulated
+apoptosis, we analysed characteristic features of apoptosis such
+as cleavage of PARP and activation of caspases.
+Downregulation of CUX1 led to enhanced PARP cleavage,
+after treatment with both TRAIL and various drugs including
+gemcitabine (figure 1D). Similar effects of CUX1 could be
+observed on activation of effector caspase-3 and caspase-7.
+Knock-down of CUX1 led to decreased levels of uncleaved
+caspase-3 accompanied by an increase of cleaved caspase-3 in
+both cell lines after treatment with TRAIL (figure 2A). In
+analogy to differences between PANC1 and ImimPC1 cells seen
+in FACS and TUNEL assays, CUX1 knock-down alone was
+sufficient to induce a marked cleavage of caspase-3 in ImimPC1
+cells. In contrast, PANC1 cells further required induction of
+apoptosis by TRAIL (figure 2A), indicating that ImimPC1 cells
+are more susceptible to undergo spontaneous apoptosis after
+CUX1 withdrawal. In addition to detecting differences in
+caspase-3 cleavage by immunoblotting, we analysed activation
+of caspase-3 and caspase-7 using a specific assay which measures
+cleavage of a luminogenic caspase-3/7 substrate. In this assay it
+could be confirmed that caspase-3/7 activity was stimulated by
+knock-down of CUX1 in both PANC1 (figure 2B) and ImimPC1
+cells (figure 2C). siRNA for CUX1 significantly enhanced TRAILinduced
+activation of caspase-3/7 in both cell lines (figure 2B, C).
+These results indicate that downregulation of CUX1 by
+siRNA effectively enhances the sensitivity of pancreatic cancer
+cell lines to apoptosis induced by different stimuli that trigger
+apoptosis via the extrinsic (TRAIL) or intrinsic (gemcitabine and
+5-FU) pathway of apoptosis.
+
+Expression of CUX1 protects from TRAIL-induced apoptosis
+To exclude the possibility that only knock-down of endogenous
+CUX1 affects apoptosis, for example by withdrawing a transcription
+factor required for basal cellular maintenance, we examined
+whether overexpression of CUX1 protects from TRAIL-induced
+apoptosis. We first chose HEK293 cells, known to be transfectable
+with high efficiency, to verify that transient CUX1 overexpression
+was able to rescue HEK293 cells from TRAIL-induced
+apoptosis (figrue 3A). To confirm the CUX1-induced rescue from
+apoptosis also in pancreatic carcinoma cells, we analysed PARP
+cleavage after transient overexpression of C-terminal CUX1 in
+PANC1 cells. After CUX1 overexpression, TRAIL-induced PARP
+cleavage was markedly reduced. Furthermore, we used PANC1
+clones stably overexpressing CUX1: in CUX1-overexpressing
+clones, TRAIL-induced apoptosis was significantly reduced
+compared with mock-transfected clones, as determined by DNA
+fragmentation assays (figure 3C). This indicates that CUX1 is
+able to rescue cells from TRAIL-induced apoptosis.
+
+Apoptosis pathway-focused gene expression profiling identifies
+CUX1-regulated genes
+To identify CUX1 target genes involved in apoptosis, we used
+a commercial pathway profiler based on quantitative RT-PCR
+comprising 84 genes involved in the regulation of apoptosis.
+A description of all 84 genes analysed in this profiler is available
+online (http://www.sabiosciences.com/rt_pcr_product/
+HTML/PAHS-012A.html). ImimPC1 cells transfected with
+CUX1 siRNA or non-silencing control siRNA were used to
+obtain RNA. The assay was performed three times for each
+condition and statistical analysis was performed with the
+software accompanying the PCR profiler. Genes that were
+significantly regulated by CUX1 are shown in figure 4A.
+Interestingly, all genes repressed by CUX1 are involved in the
+TNF signalling pathway, including TNFa itself, TNFSF7,
+a member of the TNF superfamily, and TNFRSF9, a member of
+the TNF receptor superfamily, as well as BIRC3, which has
+been shown to be induced by TNFa.
+25 In addition to genes
+downregulated by CUX1, we identified the antiapoptotic
+mitochondrial membrane protein BCL2 as significantly upregulated
+by CUX1.
+
+Figure 2 Knock-down of CUX1
+increases activity of caspase-3 and
+caspase-7. (A) After knock-down of
+CUX1 with small interfering RNA
+(siRNA), PANC1 and ImimPC1 cells
+were treated with TRAIL (tumour
+necrosis factor-related apoptosisinducing
+ligand) for 20 h. Caspase-3
+levels were detected by immunoblotting
+using antibodies against uncleaved and
+cleaved caspase-3. The blot was
+reprobed with the b-actin antibody to
+control for equal loading. (B and C)
+Caspase-3/7 activity was analysed with
+the Caspase-Glo3/7 assay using
+a specific substrate in PANC1 (B) and
+ImimPC1 (C) cells. Results are
+representative for three independent
+experiments and are shown as the
+mean6SD. *p<0.05 compared with
+control cells; **p<0.05 compared to
+non-silencing control siRNA (siC)
+cells+TRAIL.
+
+1104 Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+To confirm the regulation of BCL2 by CUX1 at the protein
+level, we performed immunoblots with or without CUX1
+siRNA. Knock-down of CUX1 led to a marked decrease in BCL2
+protein levels in both PANC1 and ImimPC1 cells (immunoblot,
+figure 4B; semiquantitative densitometry, supplementary figure 4),
+corroborating the profiler result at the protein level and
+suggesting that CUX1 protects cells from apoptosis by modulating
+BCL2 levels as a downstream effector.
+The effect of CUX1 on the levels of secreted TNFa could be
+verified by a specific ELISA. Knock-down of CUX1 significantly
+increased TNFa levels in the supernatant of PANC1 cells
+collected over 24 h. This indicates that CUX1 is able to suppress
+TNFa expression (figure 4C).
+These results suggest that CUX1 initiates a transcriptional
+programme which enhances expression of prosurvival factors
+and decreases expression of proapoptotic genes, thereby shifting
+the balance of proapoptotic and antiapoptotic genes towards cell
+death.
+
+CUX1 is regulated by the anti-apoptotic IGF/PI3K/Akt signalling
+cascade
+After demonstrating the protective effects of CUX1 on
+apoptosis, we speculated that CUX1 expression is modulated by
+upstream signalling pathways regulating cell survival and resistance
+to apoptosis. One of the cardinal signalling cascades in this
+context is the Akt/protein kinase B (PKB)-dependent prosurvival
+pathway. Various ligands such as IGF1 activate receptor tyrosine
+kinases such as IGF1R, which leads to activation of PI3K. PI3K
+in turn activates Akt/PKB, which induces effector cascades
+resulting in enhanced survival and resistance to apoptosis in
+multiple cancers.26
+Incubation of ImimPC1 cells with IGF1 resulted in a significant
+upregulation of the CUX1 mRNA level which could be
+inhibited by co-incubation with the PI3K inhibitor LY294002
+(figure 5A). These effects could be confirmed at the protein level
+
+by immunoblotting: IGF1 markedly increased CUX1 protein
+levels in both PANC1 and ImimPC1 cells, which was accompanied
+by an increase in phosphorylated Akt/PKB (figure 5B;
+semiquantitative densitometry, supplementary figure 5). PI3K
+inhibition reduced CUX1 protein levels associated with
+decreased phosphorylation of Akt/PKB. Co-incubation with
+both IGF1 and LY294002 partly reversed the inhibition induced
+by LY294002 alone (figure 5B).
+To confirm involvement of Akt/PKB downstream of PI3K, we
+transiently overexpressed AKT2 in PANC1 cells. Overexpression
+of AKT2 increased CUX1 protein levels, confirming direct
+involvement of Akt/PKB in the upstream regulation of CUX1
+(figure 5C; semiquantitative densitometry, supplementary
+figure 6). To examine the relevance of CUX1 as a downstream
+effector in PI3K/Akt-induced resistance to apoptosis, we modulated
+CUX1 expression either directly by siRNA or by inhibiting
+PI3K upstream of CUX1 with LY294002. CUX1 levels inversely
+correlated with apoptosis in PANC1 cells, measured by histonebound
+DNA fragmentation (figure 5D). Interestingly, the siRNAinduced
+decrease in CUX1 was further reduced by PI3K inhibition,
+resulting in a further increase in apoptosis. Similarly reduced CUX1
+levels, regardless of whether they resulted from direct CUX1
+inhibition or from PI3K inhibition, led to comparable apoptosis
+rates (figure 5D). In addition, we used PANC1 cells stably overexpressing
+the transcriptionally active C-terminal CUX1
+compared with mock-transfected control cells. PI3K/Akt inhibition
+by LY294002 resulted in significantly increased apoptosis in
+mock-transfected cells. However, this effect was markedly
+diminished in CUX1-overexpressing cells (figure 5E). These
+experiments suggest that CUX1 plays a major role as a downstream
+effector of PI3K/Akt-induced protection from apoptosis.
+
+CUX1 is highly expressed in pancreatic cancer tissues
+To examine the clinical relevance of CUX1 expression in human
+tissues, we performed ISH experiments using a CUX1-specific
+
+Figure 3 CUX1 expression rescues
+cells from TRAIL (tumour necrosis
+factor-related apoptosis-inducing
+ligand)-induced apoptosis. (A) HEK293
+cells were transiently transfected with
+a full-length CUX1 expression plasmid
+or an empty vector. Apoptosis was
+induced with TRAIL (50 ng/ml) for 20 h.
+DNA fragmentation was measured by
+using Cell Death Detection ElisaPLUS.
+Results are representative for three
+independent experiments and are
+shown as the mean6SD. *p<0.05
+compared with mock-transfected cells;
+**p<0.05 compared with mocktransfected
+cells+TRAIL.
+(B) Overexpression of CUX1 leads to
+decreased poly ADP-ribose polymerase
+(PARP) cleavage. PANC1 cells were
+transiently transfected with the
+transcriptionally active C-terminal CUX1
+expression plasmid or an empty vector
+and treated with TRAIL for 20 h. PARP
+protein was analysed by
+immunoblotting with anti-PARP, with
+cleaved PARP detected as a smaller
+band below the uncleaved form. CUX1 overexpression was confirmed by immunoblotting. The blot was reprobed with the b-actin antibody to assess
+equality of loading and is representative for three independent experiments. (C) PANC1 cells stably overexpressing CUX1 or an empty vector were
+treated with TRAIL (50 ng/ml) for 20 h. DNA fragmentation was measured by using Cell Death Detection ElisaPLUS. Results are representative for three
+independent experiments with two different clones each and are shown as mean6 SD. *p<0.05 compared with control cells.
+
+Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720 1105
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+riboprobe in multiple tissue arrays containing 49 matched pairs
+of pancreatic cancer and adjacent normal pancreatic tissues.
+CUX1 mRNA expression within the tumour epithelium was
+scored as negative or positive by two investigators (RP and PM)
+blinded to the H&E sections, as described previously.14 Figure 6A
+depicts CUX1 ISH (left panel) and corresponding H&E staining
+(right panel) of three representative positive tumour tissues. A
+total of 31/49 (63%) of the tumour specimens were scored
+positive for CUX1 mRNA as compared with 15/49 (30%) of
+benign pancreatic tissues (figure 6B). This indicates that CUX1 is
+highly overexpressed in pancreatic cancer tissues. To confirm
+CUX1 expression at the protein level, we performed immunohistochemistry
+with a CUX1-specific antibody in an independent
+series of eight pancreatic cancer and normal pancreatic
+tissues. In this series, we could confirm high expression levels of
+CUX1 protein in 5/8 cancers compared with normal pancreas
+(figure 6C). In tumour tissues, we saw a predominant staining of
+the epithelial tumour cells. However, some cells within the
+adjacent stroma also appeared to be positive. In normal pancreas
+tissues, we detected only a faint staining of normal ducts and, to
+a lesser extent, in acinar cells (figure 6C).
+
+Therapeutic targeting of CUX1 by PEI-complexed siRNA reduces
+tumour growth and increases apoptosis in vivo
+Based on the high expression levels of CUX1 in pancreatic
+cancers and given the striking in vitro effects of CUX1 knockdown,
+we aimed to investigate the therapeutic efficacy of the
+
+specific knock-down of CUX1 expression in vivo. For the
+protection and delivery of siRNA oligonucleotides in vivo, we
+used PEI to form nanoscale complexes, which contained either
+siRNA oligonucleotides directed against CUX1 (specific treatment
+group) or non-silencing oligonucleotides (control group).
+For our in vivo experiments, we used the CUX1-positive cell
+lines CAPAN1 known to form subcutaneous xenograft tumours
+reproducibly in nu/nu mice. CAPAN1 cells treated with siRNA
+against CUX1 showed similar in vitro effects on apoptosis to
+those described above for PANC1 and ImimPC1 cells (supplementary
+figure 7). After establishment of subcutaneous
+tumours, CUX-specific PEIesiRNA complexes or non-silencing
+control PEIesiRNA complexes were injected intratumourally
+three times per week over 3 weeks. Tumour size was measured
+regularly at the time points indicated in figure 7A. After sacrificing
+the mice, tumours were stained for H&E and CUX1
+expression and assessed for apoptosis using the M30 antibody
+which detects cleaved cytokeratin-17.
+Treatment with CUX1-specific PEIesiRNA complexes resulted
+in a significantly decreased tumour volume, as depicted in figure
+7A. This was accompanied by a marked reduction in CUX1
+expression compared with the control group (tumours treated
+with non-specific PEI-complexed siRNAs), as detected by
+immunohistochemistry (figure 7B) and quantitative RT-PCR
+(figure 7C). Furthermore, we observed a marked increase in
+apoptotic cells in CUX1 PEIesiRNA-treated tumours compared
+with the control tumours, as detected by staining with the M30
+antibody (figure 7D). These results confirm our in vitro data and
+demonstrate that reducing CUX1 expression impairs tumour
+growth and enhances apoptosis in vivo. As a proof of concept, we
+could show that therapeutic targeting of CUX1 by nanoparticlecomplexed
+siRNA in vivo reduces tumour growth and is associated
+with increased apoptosis.
+
+DISCUSSION
+In this study, we could demonstrate that CUX1 plays an important
+role in protecting pancreatic cancer cells from apoptosis
+induced by various stimuli such as TRAIL and chemotherapeutic
+drugs, engaging both the extrinsic and the intrinsic apoptosis
+pathways. The prosurvival effect of CUX1 was associated with
+upregulation of antiapoptotic proteins such as BCL2 and downregulation
+of proapoptotic proteins such as TNFa, thereby
+favouring an antiapoptotic state. Furthermore, we identified
+CUX1 as a downstream effector of PI3K/Akt signalling,
+indicating an important role for CUX1 in PI3K/Akt-mediated
+resistance to apoptosis. In vivo, targeting CUX1 by siRNA led to
+increased apoptosis and reduced tumour growth in murine
+xenograft models. The important role of CUX1 in pancreatic
+cancer progression is evidenced by its high expression levels in
+pancreatic cancer samples as compared with matched normal
+pancreatic tissue.
+Our data are in accordance with reports in the literature
+suggesting that CUX1 might play a role in modulating
+thymocyte cell survival. By constructing a hypomorphic allele of
+CUX1, Sinclair et al generated mutant mice lacking the CUX1
+HD. Homozygous mice had dramatically reduced thymic cellularity
+due to enhanced apoptosis, with a preferential loss of CD4
+(+)CD8(+) thymocytes. In contrast to the lymphoid demise,
+however, these mice demonstrated myeloid hyperplasia.11
+Alcalay et al investigated the effect of a truncated version of
+CUX1 lacking Cut repeat-1 (Cux1 CR1) on the progression of
+polycystic kidney disease (PKD) by crossing the mutant Cux1
+CR1 in a PKD mouse model (Cys1cpk mice).27 Interestingly, Cux1
+
+Figure 4 CUX1 modulates transcription of apoptosis-regulating genes.
+(A) ImimPC1 cells were transfected with CUX1 small interfering RNA
+(siCUX1) RNA or control small interfering RNA (siC) and expression
+profiling of 84 apoptosis pathway-focused genes was performed using
+the RT2 Profiler PCR Array System. Results are shown as the expression
+ratios between siC/siCUX1-treated cells and are representative for three
+independent experiments. (B) Regulation of BCL2 protein analysed by
+immunoblotting 48 h after knock-down of CUX1 by siRNA in PANC1 and
+ImimPC1 cells. The blot was reprobed with the b-actin antibody to assess
+equality of loading. The blot is representative for three independent
+experiments. (C) Tumour necrosis factor a (TNFa) protein levels in the
+supernatant of PANC1 cells, collected over 24 h, was detected by
+specific ELISA after transfection with CUX1 siRNA or siC. Data are
+representative for three independent experiments and expressed as the
+mean 6 SEM. *p<0.05 compared with control siRNA-transfected cells.
+
+1106 Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+CR1, which lacked CR1 but still contained CR2, CR3 and the
+HD, accelerated progression of PKD which was associated with
+strong proliferation but also with enhanced apoptosis in cystic
+epithelial cells.27 Most probably, the increased apoptosis seen in
+
+this mouse model is a secondary effect due to higher cell turnover.
+Our data using CUX1 expression plasmids suggest that the
+C-terminal fragment of CUX1 encompassing CR2, CR3 and the
+HD is clearly protecting from apoptosis.
+
+Figure 6 CUX1 is highly expressed in
+pancreatic cancer tissues. (A) A total of
+49 pancreatic tumour tissues and 49
+paired adjacent normal pancreatic
+tissues were probed with a 35S-labelled
+CUX riboprobe by in situ hybridisation
+(ISH). Three representative sections of
+pancreatic cancer tissues are depicted:
+CUX1 expression visualised by dark-field
+microscopy (left panel) and
+corresponding H&E sections (right
+panel). (B) Comparison of CUX1
+expression in pancreatic cancer tissue
+versus adjacent normal tissue, detected
+by ISH and scored as negative or
+positive, shown as a percentage of
+positive tissues. (C) Representative
+immunohistochemical stainings of one
+normal pancreatic tissue and one
+pancreatic cancer tissue using the rabbit
+polyclonal anti-CUX1 antibody. NP,
+normal pancreas; PDAC, ductal
+adenocarcinomas of the pancreas.
+
+Figure 5 CUX1 mRNA expression is
+regulated by insulin-like growth factor 1
+(IGF1) and phosphatidylinositol-3-kinase
+(PI3K). (A) ImimPC1 cells were treated
+with IGF1 (10 ng/ml) and/or the PI3K
+inhibitor LY294002 (50 mM) for 24 h.
+CUX1 mRNA was quantified by
+quantitative real-time PCR (RT-PCR).
+CUX1 mRNA levels were normalised to
+RPLP0 expression as the housekeeping
+gene. *p<0.05 compared with
+untreated control cells. Results are
+expressed as the mean6SD and are
+representative for three independent
+experiments. (B) Phospho-Akt and
+CUX1 levels were detected by
+immunoblotting following treatment
+with IGF1 and LY294002 for 15 min
+(pAkt) or 20 h (CUX1). The blots were
+reprobed with the b-actin antibody to
+control for equal loading. The blot is
+representative for three independent
+experiments. (C) PANC1 cells were
+transiently transfected with Akt2-
+pcDNA4 expression plasmid or empty
+control plasmid. CUX1 and phospho-Akt
+levels were detected by immunoblotting after 24 h in 5% serum. b-Actin was used as a marker for equal loading. (D) Apoptosis correlates with CUX1
+levels modulated either by PI3K inhibition or by CUX1 small interfering RNA (siRNA) knock-down. PANC1 cells transiently transfected with hCUX1
+siRNA (siCUX1) or control siRNA (siControl) were incubated with the PI3K inhibitor LY294002 (50 mM) for 24 h. DNA fragmentation was quantified
+using Cell Death Detection ElisaPLUS. CUX1 and b-actin expression was analysed by immunoblotting. Results are representative for three independent
+experiments. (E) CUX1 rescues cells from apoptosis induced by PI3K inhibition. PANC1 cells stably overexpressing C-terminal CUX1 were incubated
+with LY294002 (50 mM) for 24 h. Apoptosis was quantified by measuring caspase-3 and caspase-7 activities using the luminescent assay CaspaseGlo3/7.
+Results are representative for three independent experiments and are shown as the mean6SD. *p<0.05 compared with untreated empty
+vector-transfected control cells.
+
+Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720 1107
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+Recently, Truscott et al described proteolytic cleavage of
+CUX1 by caspases at its C-terminus. This cleavage was observed
+in the absence of apoptotic stimuli and was associated with
+increased DNA binding activity, activation of proproliferative
+target genes of CUX1 and accelerated entry into S-phase.28 In
+that study, which was performed in fibroblasts and T cells,
+caspase activity led to enhanced proliferation even in the
+absence of apoptosis. The significance of these findings in the
+presence of apoptotic stimuli remains to be elucidated. It may be
+speculated that, depending on the cellular context, initial
+apoptotic stimuli resulting in activation of distinct caspases
+might also lead to stimulation of CUX1 activity as a prosurvival
+feedback mechanism.
+Our results indicate that CUX1 is a downstream target of
+PI3K/Akt signalling, one of the cardinal prosurvival pathways
+mediating resistance to apoptosis in most malignancies
+including gastrointestinal carcinomas.26 We could show that
+activation of PI3K/Akt signalling by ligands such as IGF1 led to
+transcriptional upregulation of CUX1 at the mRNA and protein
+level which could be blocked by inhibition of PI3K. Similar
+effects were seen after transfection of constitutively active Akt2,
+which has been shown to play an important role in pancreatic
+cancer progression.29 Modulating CUX1 levels either directly by
+siRNA or by inhibition of PI3K activity led to comparable effects
+on CUX1 levels as well as on apoptosis. This suggests that
+CUX1 is a major mediator of PI3K/Akt-induced tumour cell
+survival. We have not yet addressed which effector pathway
+downstream of Akt is utilised for the transcriptional regulation
+of CUX1. Several phosphorylation targets of Akt have been
+implicated in the regulation of apoptosis, such as FOXO1,30
+IKK31 and CREB,32 which are worthwhile candidates to investigate
+for interactions with the CUX1 promoter.
+To analyse downstream effectors of CUX1 mediating its
+prosurvival actions, we employed a quantitative RT-PCR-based
+
+screening approach for key targets known to be involved in the
+modulation of apoptosis. We found that CUX1 significantly
+upregulates the antiapoptotic protein BCL2 which is localised to
+the mitochondrial membrane and inhibits membrane permeabilisation
+by interacting with other, partly proapoptotic
+members of the same protein family.33 High levels of BCL2 have
+been associated with a more aggressive malignant phenotype
+and/or drug resistance to various categories of chemotherapeutic
+agents in haematological malignancies and solid tumours.33
+Transcriptional upregulation of BCL2 may well explain the drugresistent
+phenotype induced by CUX1 observed in our cell
+systems. In addition, our quantitative RT-PCR screen also
+revealed significant downregulation of several genes of the TNF
+superfamily including TNFa. It is well known that TNFa plays
+a dual role in modulating cancer progression. Depending on the
+cellular context, it may be able to promote cell growth and
+invasion by activating nuclear factor-kB (NF-kB) signalling.34 35
+On the other hand, if NF-kB activation is not successful, TNFa
+has been shown to be a potent inducer of cell death by inducing
+activation of caspase-8 and sustained JNK (Jun N-terminal
+kinase) activation.36 The apoptosis-inducing effect of TNFa has
+been confirmed in various cancers including pancreatic cancer.37 38
+Further studies are underway to decipher the effects of CUX1-
+induced TNFa downregulation in pancreatic cancer.
+To evaluate the clinical significance of CUX1 in human
+pancreatic cancer specimens, we performed ISHs using a CUX1-
+specific probe on a large cohort of pancreatic cancer tissues and
+paired adjacent normal pancreatic tissue analysed as MTAs.
+Our data indicate that CUX1 is overexpressed in the majority
+of pancreatic cancer tissues compared with normal pancreas
+tissues. Previously, we showed strong expression of CUX1 in
+a large series of breast cancer tissues.14 In this series, CUX1
+expression was inversely correlated with patient survival,
+indicating a significant impact of CUX1 expression on tumour
+
+Figure 7 Intratumoural application of
+polyethylenimine (PEI)-complexed small
+interfering RNA (siRNA) reduces tumour
+growth associated with increased
+apoptosis. (A) Subcutaneous CAPAN1
+xenografts were injected intratumourally
+with PEI-complexed siRNA against
+CUX1 or non-silencing control siRNA
+(three times a week over 21 days, 10
+tumours per group). Tumour volume was
+determined regularly until day 21 after
+treatment initiation. Tumour volume was
+normalised to the tumour volume on day
+1 and is shown as mean6SEM. p<0.05
+indicates a significant difference
+between both groups as determined by
+paired t test/Wilcoxon matched pairs
+test. (B) Representative sections of
+xenograft tumours treated with
+PEIesiRNA against hCUX1 or nonsilencing
+control stained with anti-CUX1
+mouse monoclonal antibody. Original
+magnification 3200. (C) Quantitative
+real-time PCR (RT-PCR) of CUX1 mRNA
+levels in CUX1 PEIesiRNA-treated
+tumours versus control PEIesiRNAtreated
+tumours, normalised to RPLP0
+expression as the housekeeping gene. *p<0.05 compared with control PEIesiRNA-treated cells. Results are expressed as the mean6SD. (D+E)
+Proportion of apoptotic cells per visual field in sections of tumours treated with PEIesiRNA against CUX or control PEIesiRNA, as measured using the
+M30 antibody which detects cleaved cytokeratin 17. Two representative pictures (original magnification x200) are shown (D). Five visual fields per
+tumour and 10 tumours per group were quantified and shown as mean6SD (E).
+
+1108 Gut 2010;59:1101e1110. doi:10.1136/gut.2009.189720
+
+Pancreas
+
+ on September 2, 2024 at ShanghaiTech University. Protected by copyright. http://gut.bmj.com/ Gut: first published as 10.1136/gut.2009.189720 on 4 May 2010. Downloaded from
+progression.14 Since most patients with breast cancer underwent
+multiple chemotherapies during the course of their
+disease, it may be inferred that inverse correlation of CUX1
+with survival is also related to its possible impact on drug
+resistance. In our current MTA collection of pancreatic cancer
+specimens, data on the clinical follow-up were also available.
+However, we could not observe a significant correlation with
+survival (data not shown). Most probably this is due to the fact
+that overall survival is considerably shorter in pancreatic cancer
+compared with breast cancer, precluding the detection of
+a statistically significant difference in survival. At the protein
+level, we previously had observed strong CUX1 expression in
+a small series of pancreatic cancer tissues.14 In our current
+series, we could confirm the high expression levels of CUX1
+protein in pancreatic tumours compared with normal pancreatic
+tissues. Taken together, these expression data suggest
+a significant impact of CUX1 in the progression of various
+carcinomas including pancreatic cancer.
+Based on the high expression of CUX1 in pancreatic cancer
+tissues, we sought to determine whether therapeutic targeting
+of CUX1 impacts on tumour growth and apoptosis in vivo. By
+using a xenograft model, we could show that therapeutic
+application of CUX1 siRNA in subcutaneous tumours reduced
+tumour growth and increased the rate of apoptosis in the
+tumours. This indicates that CUX1 plays an important role in
+promoting tumour cell survival in vivo. Interestingly, therapeutic
+targeting of CUX1 expression also significantly enhances
+apoptosis in vivo, resulting in decreased tumour growth.
+In summary, our data indicate that CUX1 represents an
+important survival factor downstream of PI3K/Akt, which
+orchestrates a transcriptional programme mediating resistance
+to apoptosis in pancreatic cancer. If therapeutic targeting of
+transcription factors becomes technically more feasible, for
+example by optimising strategies for systemic delivery of
+siRNAs, CUX1 would be a promising candidate. Moreover,
+screening experiments are currently underway in our group to
+identify further downstream effectors of CUX1, mediating
+its effects on tumour cell survival. These effectors can be
+explored as druggable targets to overcome the highly drugresistant
+phenotype of pancreatic cancer, which determines
+the current appalling outcome of patients suffering from this
+tumour.
+

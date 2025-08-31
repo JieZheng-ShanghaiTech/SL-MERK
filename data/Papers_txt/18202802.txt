@@ -1,0 +1,664 @@
+Abstract. The tumor suppressor protein p53 restricts
+proliferation in response to DNA damage or the deregulation
+of mitogenic oncogenes, by leading to the induction of
+various cell cycle checkpoints, apoptosis or cellular
+senescence. Consequently, p53 mutations increase cell
+proliferation and survival and in some settings promote
+genomic instability and resistance to certain anti-cancer drugs.
+It is very important to identify chemotherapeutic agents that
+activate in a p53-independent manner for the development of
+treatments for p53-deficient tumors. Pectenotoxin-2 (PTX-2),
+isolated from marine sponges has been reported to display
+significant cytotoxicity to p53-deficient cancer cell lines. In
+this study, we compared the anti-cancer activity of PTX-2 in
+order to further test the status of p53 using two well-known
+hepatocarcinoma cell lines, p53-deficient Hep3B and p53-
+wild-type HepG2. MTT assay indicated that Hep3B cells were
+highly susceptible, whereas HepG2 cells were more resistant
+to this compound which was connected with the induction of
+apoptotic cell death in p53-deficient Hep3B cells, though not
+in HepG2 cells. The apoptosis induced by PTX-2 in Hep3B
+cells was associated with the down-regulation of antiapoptotic
+Bcl-2 members (Bcl-2 and Bcl-xL) and IAP family
+proteins, the up-regulation of pro-apoptotic Bax protein and
+
+tumor necrosis factor-related apoptosis-inducing ligand
+(TRAIL)-receptor 1/receptor 2 (DR4/DR5) and mitochondrial
+dysfunction. PTX-2 activated caspases (caspase-3,
+-8 and -9) and the blockade of caspase-3 activity by the
+caspase-3 inhibitor prevented the PTX-2-induced apoptosis in
+Hep3B cells. Additionally, the transcription factor early
+growth response-1 (Egr-1) gene was transcriptionally
+activated and the levels of non-steroidal anti-inflammatory
+drugs (NSAID)-activated gene-1 (NAG-1) protein were also
+elevated in PTX-2-treated Hep3B cells. Although further
+studies are needed to prove that an increased expression of
+Egr-1 by PTX-2 directly leads to NAG-1 induction and then
+apoptosis induction in p53-deficient Hep3B cells, the results
+of this study suggest that PTX-2 may be a good candidate for
+the development of a potential anti-tumorigenic agent in p53-
+deficient tumors.
+
+Introduction
+
+Apoptosis (programmed cell death), plays an important role
+in regulating the number of cells during development in the
+homeostatic cell turnover in adults and in many other settings.
+However, most cancer cells can block apoptosis, which allows
+them to survive despite the genetic and morphologic
+transformations. Apoptotic cells are characterized by several
+unique features, including cell shrinkage, chromatin
+condensation, DNA fragmentation, cell surface expression of
+phosphatidylserine and membrane blebbing (1-3). In general,
+apoptosis can be initiated in two ways: by an extrinsic or
+intrinsic pathway. Depending on the nature of the substance
+and the type of cells, apoptosis may take place via either
+pathway. In the former case, plasma membrane death
+receptors are involved. The apoptosis signal is provided by the
+interaction between the ligand and death receptor. Changes in
+the mitochondrial integrity by a broad range of physical and
+chemical stimuli, however, can trigger the intrinsic pathway of
+
+ONCOLOGY REPORTS 19: 517-526, 2008 517
+
+Induction of apoptosis by pectenotoxin-2 is mediated with
+the induction of DR4/DR5, Egr-1 and NAG-1, activation of
+caspases and modulation of the Bcl-2 family in p53-deficient
+Hep3B hepatocellular carcinoma cells
+
+DONG YEOK SHIN1,2, GI YOUNG KIM3, NAM DEUK KIM4, JEE HYUNG JUNG4,
+SE-KWON KIM5
+, HO SUNG KANG2 and YUNG HYUN CHOI1,6
+
+1Department of Biochemistry, Dongeui University College of Oriental Medicine, Busan 614-052; 2Department of Molecular
+Biology, Pusan National University, Busan 609-735; 3Faculty of Applied Marine Science, Cheju National University,
+Jeju 690-756; 4Department of Pharmacy and Pusan Cancer Research Center, Pusan National University, Busan 609-735;
+5Department of Chemistry and Marine Bioprocess Research Center, Pukyong National University, Busan 608-737;
+6Department of Biomaterial Control (BK21 program), Dongeui University Graduate School, Busan 614-052, Korea
+
+Received September 27, 2007; Accepted November 21, 2007
+
+_________________________________________
+
+Correspondence to: Dr Yung Hyun Choi, Department of
+Biochemistry, Dongeui University College of Oriental Medicine,
+Busan 614-052, Korea
+E-mail: choiyh@deu.ac.kr
+
+Key words: pectenotoxin-2, hepatocellular carcinoma, p53,
+apoptosis
+
+517-526 9/1/08 14:36 Page 517
+apoptosis (4-6). Besides the morphological and biological
+changes, other biomarkers and events could also be used for
+the precise determination of the type of apoptosis.
+Accumulating data indicate that many chemopreventive
+and/or chemotherapeutic agents can cause tumor cell death
+through the induction of apoptosis, which is the preferred
+way of managing cancer. Therefore, the induction of
+apoptotic cell death is an important mechanism in the anticancer
+properties of many anti-cancer drugs.
+The tumor suppressor p53 gene plays a major role in
+preventing tumorigenesis, by responding to both cellular stress
+and DNA damage and the mutation of p53 is frequently
+associated with oncogenesis (7,8). Intracellular concentrations
+of p53 are robustly increased by stresses such as DNA
+damage, ionizing radiation, UV radiation, hypoxia, growth
+factor withdrawal, oncogene activation and exposure to
+cytotoxic agents (8,9). Numerous studies have demonstrated
+that p53 directly activates the transcription of a number of
+genes including cyclin-dependent kinase inhibitor p21
+(WAF1/CIP1), the major mediator of p53 cell-cycle
+inhibitory capacity and the apoptotic genes (9,10). However,
+it is not yet completely understood how the activation of p53
+initiates apoptosis. In some cell lines, its activation leads to
+the induction of pro-apoptotic Bax expression, which allows
+the release of sequestered pro-apoptotic proteins and
+subsequent permeabilization of the outer mitochondrial
+membrane (11,12). Pro-apoptotic Bax also antagonizes antiapoptotic
+Bcl-2 and other anti-apoptotic molecules,
+facilitating apoptosis through this pathway. Thus, it is very
+important to point out that even p53-lacking cells undergo
+apoptosis when treated with some drugs, leading to the
+possibility that several other mechanisms may be taking
+place that need to be identified. For example, cell lines derived
+from hepatocellular carcinoma, such as Hep3B, have been
+shown to have mutations in the p53 gene (13), making them
+highly insensitive to drugs that act through p53-dependent
+apoptosis pathways. The opposite is observed in hepatoma
+cells such as HepG2, which have no reported mutations in
+p53 (14), being at least in this aspect, closer to normal
+hepatocytes and are a useful model for studies on chemotherapeutic
+drugs.
+Previous studies indicate that marine organisms are proving
+to be a novel and rich source of bioactive compounds due to
+their potential pharmacological activities. Among them,
+marine sponges have been used as a main source for this study
+of hitherto unknown biological activities of natural marine
+products (15,16). Investigations into components of marine
+organisms have proven that many are not general cytotoxic
+agents, but rather are targeted towards specific cellular or
+biochemical events and therefore hold strong potential as
+anti-microbial, anti-cancer or anti-inflammatory agents (17-19).
+Through the screening of marine natural compounds that
+inhibit cancer cell proliferation, we previously reported that
+pectenotoxin-2 (PTX-2) isolated from marine sponges,
+Poecillastra sp. and Jaspis sp., exhibited selective cytotoxicity
+against several cell lines (20) and activated an intrinsic
+pathway of apoptosis in p53-deficient tumor cells compared to
+those with functional p53 both in vitro and in vivo (21).
+However, the molecular mechanisms of its anti-proliferative
+action on malignant cell growth are not completely known. To
+
+further explore the mechanism of its anti-cancer activity and to
+test whether the status of p53 in liver cancer cells correlates
+with their chemosensitivities to PTX-2, we chose two wellknown
+hepatocarcinoma cell lines, p53-deficient HepG2 and
+p53-wild-type Hep3B. Our study revealed that Hep3B cells
+were much more susceptible to PTX-2 than HepG2 cells,
+which was connected with the induction of apoptotic cell death
+in Hep3B cells, though not in HepG2 cells. The apoptosis
+induced by PTX-2 in Hep3B cells was associated with the
+modulation of the Bcl-2 family, activation of caspases and
+loss of mitochondrial membrane potential (MMP, ΔΨm).
+PTX-2 also activated the transcription factor early growth
+response-1 (Egr-1) gene expression in a transcriptional level
+and induced the tumor necrosis factor-related apoptosisinducing
+ligand (TRAIL)-receptor 1/receptor 2 (DR4/DR5)
+and the nonsteroidal anti-inflammatory drugs (NSAID)-
+activated gene-1 (NAG-1).
+
+Materials and methods
+
+Cell culture and cell viability assay. Human hepatocarcinoma
+HepG2 and Hep3B cells were purchased from the American
+Type Culture Collection (Rockville, MD, USA). Both cell
+lines were cultured in Dulbecco's modified Eagle's medium
+(DMEM) containing 100 units/ml penicillin/streptomycin and
+supplemented with 10% heat-inactivated fetal bovine serum
+(FBS, Gibco BRL, Gaithersburg, MD, USA) at 37˚C and 5%
+CO2. PTX-2 was prepared as described previously (20) and
+dissolved in dimethyl sulfoxide (DMSO) as a stock solution at
+1 mg/ml concentration and stored in aliquots at -20˚C.
+Measurement of cell viability was determined using the 3-(4,5-
+dimethylthiazol-2-yl)-2,5-diphenyl-tetrazolium bromide
+(MTT, Sigma Chemical Co., St. Louis, MO, USA) assay,
+which is based on the conversion of MTT to MTT-formazan
+by mitochondrial enzyme.
+
+Measurement of apoptosis by annexin-V FITC and PI double
+staining. The magnitude of the apoptosis elicited by PTX-2
+treatment was determined using an Annexin-V fluorescein
+isothiocyanate (FITC) apoptosis detection kit (BD
+Pharmingen, San Diego, CA, USA). Briefly, the cells were
+washed with phosphate-buffered saline (PBS) and resuspended
+in annexin-V-binding buffer containing 10 mM
+HEPES/NaOH, pH 7.4, 140 mM NaCl and 2.5 mM CaCl2,
+according to the manufacturer's protocol. Aliquots of the cells
+were incubated with annexin-V FITC, mixed and incubated
+for 15 min at room temperature in the dark. Propidium
+iodide (PI) at a concentration of 5 μg/ml was added to
+identify the necrotic cells. The apoptotic cells (V+/PI-
+) were
+measured by a fluorescence-activated cell sorter analysis in
+flow cytometry (Becton Dickinson, San Jose, CA, USA).
+
+Nuclear staining with DAPI. After treating the cells with
+PTX-2 for the indicated times, the cells were harvested,
+washed in ice-cold PBS and fixed with 3.7% paraformaldehyde
+(Sigma) in PBS for 10 min at room temperature. The fixed cells
+were washed with PBS and stained with a 4,6-diamidino-2-
+phenylindile (DAPI) solution for 10 min at room temperature.
+The cells were washed two more times with PBS and analyzed
+via a fluorescent microscope (Carl Zeiss, Germany).
+
+SHIN et al: INDUCTION OF APOPTOSIS BY PECTENOTOXIN-2 518
+
+517-526 9/1/08 14:36 Page 518
+RNA extraction and reverse transcription-PCR. The total RNA
+was prepared using an RNeasy kit (Qiagen, La Jolla, CA,
+USA) and primed with random hexamers to synthesize the
+complementary DNA using AMV reverse transcriptase
+(Amersham Corp., Arlington Heights, IL, USA) according to
+the manufacturer's instructions. A polymerase chain reaction
+(PCR) was carried out using a Mastercycler (Eppendorf,
+Hamburg, Germany) with the primers. The primer sequences
+were as follows: Egr-1 forward (5'-CCC TAA GCT GGA
+GGA GAT GAT G-3'), Egr-1 reverse (5'-TCA TGC TCA
+CTA GGC CAC TGA C-3'), glyceraldehyde-3-phosphate
+dehydrogenase (GAPDH) forward (5'-CGG AGT CAA CGG
+ATT TGG TCG TAT-3') and GAPDH reverse (5'-AGC CTT
+CTC CAT GGT GGT GAA GAC-3'). The following
+conditions were used for the PCR reactions: 1 x (94˚C for
+3 min); 35 x (94˚C for 45 sec; 58˚C for 45 sec; and 72˚C for
+1 min) and 1 x (72˚C for 10 min). The amplification products
+obtained by PCR were separated electrophoretically on a 1%
+agarose gel and visualized by ethidium bromide (EtBr, Sigma)
+staining.
+
+Gel electrophoresis and Western blot analysis. The cells were
+harvested, lysed and the protein concentrations were
+quantified using a Bio-Rad protein assay (Bio-Rad Lab.,
+Hercules, CA, USA), according to the procedure reported by
+the manufacturer. For Western blot analysis, an equal amount
+of protein was subjected to electrophoresis on SDSpolyacrylamide
+gel and transferred to a nitrocellulose
+membrane (Schleicher & Schuell, Keene, NH, USA) by
+electroblotting. The blots were probed with the desired
+antibodies for 1 h, incubated with the diluted enzyme-linked
+secondary antibody and visualized by enhanced chemiluminescence
+(ECL) according to the recommended procedure
+(Amersham). The primary antibodies were purchased from
+Santa Cruz Biotechnology Inc. (Santa Cruz, CA, USA) and
+Calbiochem (Cambridge, MA, USA). The peroxidase-labeled
+donkey anti-rabbit immunoglobulin and peroxidase-labeled
+sheep anti-mouse immunoglobulin were purchased from
+Amersham.
+
+Measurement of the loss of mitochondrial membrane
+potential (MMP, ΔΨm). To measure the MMP, the dualemission
+potential-sensitive probe, 5,5 V, 6,6 V-tetrachloro-1,1
+V,3,3 V-tetraethyl-imidacarbocyanine iodide (JC-1, Sigma),
+was used. After treatment with PTX-2, the cells were scraped
+from the bottom of the wells and aliquots of 5x105 cells were
+placed into FACS tubes. Cells were then stained with 2 mg/l
+JC-1 at 37˚C for 20 min and then analyzed using flow
+cytometry (Becton Dickinson).
+
+Measurement of caspase activity. The enzymatic activities of
+the caspases induced by PTX-2 were assayed using
+colorimetric assay kits according to the manufacturer's
+protocol (R&D Systems, Minneapolis, MN, USA). Briefly,
+the cells were lysed in a lysis buffer for 30 min on an ice bath.
+The lysed cells were centrifuged at 12,000 x g for 10 min
+and 100 μg of the protein was incubated with 50 μl of a
+reaction buffer and 5 μl of the colorimetric tetrapeptides, AspGlu-Val-Asp
+(DEVD)-p-nitroaniline (pNA) for caspase-3, IleGlu-Thr-Asp
+(IETD)-pNA for caspase-8 and Leu-Glu-His-Asp
+
+(LEHD)-pNA for caspase-9, respectively, at 37˚C for 2 h. The
+optical density of the reaction mixture was quantified
+spectrophotometrically at a wavelength of 405 nm.
+
+Transfections and luciferase assay for the detection of Egr-1
+activity. The human Egr-1 promoter-containing plasmids were
+generously provided by Dr K.W. Kim (College of Pharmacy,
+Seoul National University, Korea) (22). For transfection, in
+brief, cells were plated onto 6-well plates at a density of 3x105
+cells/well. The cells were washed twice with a serum-free
+Optimem medium (Gibco BRL) and then 500 μl of fresh
+serum-free medium was added. The plasmid/polymer complex
+was added to each dish and then incubated for 10 h at 37˚C in
+a 5% CO2 incubator. After 10 h, 1 ml of fresh Optimem
+medium containing 20% FBS was added to each well and
+treated with 10 ng/ml PTX-2 for the indicated times.
+Luciferase activity was measured using a TD-20/20
+luminometer (Turner Designs Instrument Co., San Francisco,
+CA, USA).
+
+Results
+
+Inhibition of cell viability by PTX-2 in p53-deficient Hep3B
+cells. We used an MTT assay to evaluate the anti-proliferative
+activity of PTX-2 on HepG2 and Hep3B cells and found
+that p53-deficient Hep3B cells were much more susceptible
+than HepG2 cells, which contain wild-type p53 (Fig. 1A).
+After 24 h of treatment with 10 ng/ml PTX-2 (no toxic effect
+was observed after 8 h in both cell lines), most HepG2 cells
+were viable, whereas Hep3B showed ~50% of viability.
+When treated with 10 ng/ml PTX-2 for 36 and 48 h
+incubation, the cell viability of Hep3B was 20 and 8%,
+respectively. However, there was no significant inhibition
+effect on HepG2 cells. Additionally, treated Hep3B cells with
+PTX-2 were rounded up and more dispersed without
+aggregation in a time-dependent manner. In contrast, there was
+no markedly morphological change in PTX-2 treated HepG2
+cells (Fig. 1C).
+
+Induction of apoptosis by PTX-2 in p53-deficient Hep3B cells.
+To investigate whether the viability decrease in Hep3B cells
+was due to the induction of apoptosis, nuclear morphology of
+PTX-2-treated cells was analyzed with DAPI staining. As
+shown in Fig. 1D, the nuclei of Hep3B cells, but not in HepG2
+cells, exposed to PTX-2 exhibited condensed and fragmented
+chromatin and the effects were dose-dependent. Therefore,
+flow cytometry analysis with annexin V and PI staining was
+used to determine the magnitude of apoptosis elicited by
+PTX-2. As shown in Fig. 1B, the annexin V-positive cells
+were increased time-dependently in the PTX-2-treated Hep3B
+cells compared with the untreated control cells. Hep3B cells
+treated with 10 ng/ml PTX for 36 and 48 h, the apoptosis
+was 25 and 30%, respectively, however, there was no
+significant increase in HepG2 cells (Fig. 1B). These results
+demonstrated that the cytotoxic effects observed in response to
+PTX-2 are associated with the induction of apoptotic cell death
+in p53-deficient Hep3B cells.
+
+Modulation of Bcl-2 and IAP family proteins by PTX-2 in
+p53-deficient Hep3B cells. To elucidate mechanisms
+
+ONCOLOGY REPORTS 19: 517-526, 2008 519
+
+517-526 9/1/08 14:36 Page 519
+underlying PTX-2-induced apoptosis, we investigated the
+levels of Bcl-2 and IAP family proteins by Western blotting.
+When Hep3B cells were treated with PTX-2, a clear decrease
+in anti-apoptotic Bcl-2 and Bcl-xL protein expression was
+observed in a time-dependent manner (Fig. 2). In the case of
+pro-apoptotic protein Bax, there was a time-dependent upregulation
+observed in Hep3B cells treated with PTX-2.
+However, PTX-2 did not significantly affect the Bcl-2 family
+proteins in HepG2 cells (Fig. 2). The levels of IAP family
+proteins such as XIAP, cIAP-1 and cIAP-2 after PTX-2
+treatment were down-regulated in Hep3B cells treated with
+PTX-2 in a time-dependent manner. Though the XIAP
+expression was slightly down-regulated by PTX-2 treatment,
+we could not detect any change in either cIAP-1 or cIAP-2
+HepG2 cells.
+
+Activation of caspase by PTX-2 in p53-deficient Hep3B cells.
+The expression levels and activities of caspase-3, -8 and -9 in
+HepG2 and Hep3B cells that had been exposed to PTX-2 were
+measured in order to determine if PTX-2-induced apoptosis is
+associated with the activation of caspase. As shown in Fig. 3A,
+Western blot data showed that the levels of pro-caspase-3, -8
+and -9 proteins were slightly decreased or remained unchanged
+
+in PTX-2-treated Hep3B cells. However, the levels of active
+subunits of the caspase expression were increased in a timedependent
+manner. In order to further quantify the proteolytic
+activation of caspases in Hep3B cells, the lysates equalized for
+protein from the cells treated with PTX-2 were assayed for
+their activity using an in vitro assay with a colorimetric assay
+kit. We found that PTX-2 caused a time-dependent increase
+in proteolytic activities of caspases, especially caspase-3
+(Fig. 3B). However, the expression levels and activities of
+those caspases in the PTX-2-treated HepG2 cells were
+relatively unaffected.
+
+Inhibition of PTX-2-induced apoptosis by the caspase-3
+inhibitor. In order to show that the activation of caspase-3 is
+a key step in the PTX-2-induced end-stage apoptotic events in
+Hep3B cells, cells were pretreated with z-DEVD-fmk (50 μM),
+a cell-permeable caspase-3 inhibitor, for 1 h, followed by a
+treatment with 10 ng/ml PTX-2 for 24 h. The blockade of the
+caspase-3 activity by a pre-treatment of the cells with zDEVD-fmk
+prevented the PTX-2-induced chromatin
+condensation, inhibition of cell viability and increase in the
+sub-G1 population suggesting that PTX-2-induced apoptosis is
+associated with caspase-3 activation (Fig. 4).
+
+SHIN et al: INDUCTION OF APOPTOSIS BY PECTENOTOXIN-2 520
+
+Figure 1. Inhibition of cell viability and induction of apoptosis by pectenotoxin-2 (PTX-2) in p53-deficient hepatocarcinoma Hep3B cells. HepG2 and Hep3B
+cells were seeded at an initial density of 2.5x105 cells per 60-mm plate, incubated for 24 h and treated with 10 ng/ml PTX-2 for the indicated times. (A) The
+level of cell viability was measured using MTT assay. Each point represents the mean ± SD of three independent experiments. (B) The cells grown under the
+same conditions as (A) were collected and stained with FITC-conjugated annexin-V and PI for flow cytometry analysis. The apoptotic cells were determined
+by counting the % of annexin V(+), PI(-) cells and the % of annexin V(+), PI(+) cells. The results are expressed as the mean ± SD of three independent
+experiments. (C) After incubation with 10 ng/ml PTX-2 for the indicated times, the cells were sampled and examined by an inverted microscope.
+Magnification, x200. (D) The cells grown under the same conditions as (C) were fixed, stained with DAPI and the nuclear morphology was photographed
+with fluorescence using a blue filter. Magnification, x400.
+
+517-526 9/1/08 14:36 Page 520
+ONCOLOGY REPORTS 19: 517-526, 2008 521
+
+Figure 2. Effects of PTX-2 on the expression of Bcl-2 and IAP family proteins in HepG2 and Hep2B cells. The cells were incubated with 10 ng/ml PTX-2 for
+the indicated times, lysed and equal amounts of proteins were then separated by SDS-polyacrylamide gels and transferred to nitrocellulose membranes. The
+membranes were probed with the indicated antibodies and detected by ECL. To confirm an equal loading, the blots were stripped of the bound antibodies and
+reprobed with the anti-actin antibody.
+
+Figure 3. Activation of caspases by PTX-2 in p53-deficient Hep3B cells. (A) After treatment with 10 ng/ml of PTX-2 for the indicated times, the cells were
+lysed and the cellular proteins were separated by SDS-polyacrylamide gels and transferred into nitrocellulose membranes. The membranes were probed with
+the anti-caspase-3, -8 and -9 antibodies. The proteins were visualized using an ECL detection system. Actin was used as the internal control. (B) The cell
+lysates from the cells treated with PTX-2 were assayed for in vitro caspase-3, -8 and -9 activity using DEVD-pNA, IETD-pNA and LEHD-pNA, respectively,
+as substrates. The released fluorescent products were measured. The results are expressed as the mean ± SD of three independent experiments.
+
+517-526 9/1/08 14:36 Page 521
+Loss of MMP by PTX-2 in p53-deficient Hep3B cells. In order
+to determine whether PTX-2-induced apoptosis is associated
+with the loss of MMP, we measured MMP in PTX-2-treated
+HepG2 and Hep3B cells using a fluorescent cationic dye JC-1.
+As shown in Fig. 5, the loss of MMP induced by PTX-2
+increased in Hep3B cells after 8 h and the values of MMP
+loss in Hep3B cells reached ~15-18% at 36 and 48 h,
+respectively, evidencing the increased depolarization of the
+MMP with increased PTX-2 treatment times. However, when
+HepG2 cells were cultured with PTX-2, a significant
+enhancement in PTX-2-induced loss of MMP was not noted.
+These data indicated that PTX-2 induced mitochondrial
+dysfunction, which eventually activated the caspase cascade
+in the apoptosis signaling of p53-deficient Hep3B cells.
+
+Activation of Egr-1 in PTX-2-treated p53-deficient Hep3B
+cells. To investigate whether PTX-2-induced growth inhibition
+and apoptosis is associated with Egr-1 activation, HepG2 and
+Hep3B cells were treated with PTX-2 for various times and the
+mRNA and protein levels were measured by RT-PCR and
+
+SHIN et al: INDUCTION OF APOPTOSIS BY PECTENOTOXIN-2 522
+
+Figure 4. Inhibition of PTX-2-induced apoptosis by caspase-3 inhibitor, z-DEVD-fmk, in Hep3B cells. (A) Hep3B cells were treated with z-DEVD-fmk (50 μM)
+for 1 h before a challenge with 10 nM PTX-2 for 24 h. The cells were observed under inverted microscopy (magnification, x200) or stained with DAPI for 10 min
+and photographed with a fluorescent microscope using a blue filter (magnification, x400). (B and C) The cells were grown under the same conditions as (A)
+and evaluated for cell viability and the sub-G1 DNA content using MTT assay and a flow cytometer, respectively. The data are reported as a mean ± SD of
+three independent experiments.
+
+Figure 5. Effect of PTX-2 treatment on mitochondrial membrane potential
+(MMP, ΔΨm) in HepG2 and Hep3B cells. Cells were treated with 10 ng/ml
+PTX-2 for the indicated times to follow the extent of apoptosis by
+determination of MMP using JC-1 reagent. Cells were analyzed on a
+FACScan cytometer and the data shown are representative of three
+independent experiments with similar findings. The results are expressed as
+the mean ± SD of three independent experiments.
+
+517-526 9/1/08 14:36 Page 522
+Western blot analyses. As shown in Fig. 6A and B, PTX-2
+induced the expression of Egr-1 mRNA and protein in Hep3B
+cells, however, the temporal expression of mRNA and proteins
+is different. Egr-1 mRNA is maximally induced within 4 h
+after treatment with PTX-2 and levels then decline 8 to 48 h
+after treatment, whereas the induction of Egr-1 protein
+increases after the 8 h treatment period. It was also investigated
+whether the effects of the PTX-2 on transactivation in cells
+transfected with constructs containing the Egr-1 promoter
+insert. As shown in Fig. 6C, PTX-2 treatment induced
+transactivation in only Hep3B cells transfected with Egr-1 in
+a time-dependent manner.
+
+Induction of NAG-1 and DR4/5 by PTX-2 in p53-deficient
+Hep3B cells. Since previous reports have linked the apoptotic
+activity of anti-cancer drugs to the induction of both Egr-1
+and NAG-1, it was also compared with the effect of PTX-2 on
+the protein levels of NAG-1 in HepG2 and Hep3B cells. The
+
+results in Fig. 7 show that PTX-2 time-dependently induced
+the expression NAG-1 protein in Hep3B cells, however, the
+levels of NAG-1 protein in HepG2 cells remained unchanged.
+Then, we attempted to see the involvement of the death
+receptors such as DR4 and DR5 in PTX-2-induced apoptosis
+in Hep3B cells. As shown in Fig. 7, the immunoblotting data
+indicate that the levels of DR4 protein were induced within 2 h
+after treatment and continuously expressed within 48 h and
+the levels of DR5 were increased after 24 h of treatment with
+PTX-2 in p53-deficient Hep3B cells. However, the expression
+levels of DR4 and DR5 in the PTX-2-treated HepG2 cells
+were relatively unaffected.
+
+Discussion
+
+Generally, wild-type-p53-containing cells, such as HepG2, are
+more susceptible to cytotoxic chemical agents and radiation,
+closely resembling what is observed in non-tumorigenic
+
+ONCOLOGY REPORTS 19: 517-526, 2008 523
+
+Figure 6. Activation of Egr-1 by PTX-2 in p53-deficient Hep3B cells. (A) HepG2 and Hep3B cells were treated with 10 ng/ml PTX-2 for the indicated times
+and the total RNA was isolated and reverse-transcribed. The resulting cDNAs were subjected to PCR with the Egr-1 and GAPDH primers and the reaction
+products were subjected to electrophoresis in a 1% agarose gel and visualized by EtBr staining. GAPDH was used as the internal control. (B) The cells under
+the same conditions as (A) were lysed and equal amounts of proteins were then separated by SDS-polyacrylamide gels and transferred to nitrocellulose
+membranes. The membranes were probed with the Egr-1 antibody and detected by ECL. To confirm equal loading, the blot was stripped of the bound
+antibody and reprobed with the anti-actin antibody. (C) Cells were transfected with Egr-1-luc and then treated with 10 ng/ml PTX-2. The cells were collected
+and luciferase activity was determined as described under Materials and methods. Results are expressed as a mean ± SD for three determinations for each
+treatment group.
+
+517-526 9/1/08 14:36 Page 523
+cells. On the other hand, cells containing deletions or
+mutations in p53, such as Hep3B, are normally more resistant
+to drugs (13,14). However, in the present study, PTX-2 was
+markedly toxic to p53-deficient Hep3B cells whereas HepG2
+cells were much more resistant to PTX-2, which suggests
+that PTX-2 acts by a cytotoxic mechanism that seems to be
+p53-independent. The cytotoxic effects of PTX-2 in Hep3B
+cells were associated with the induction of apoptotic cell
+death confirmed by the characteristic morphological changes
+i.e. chromatin condensation and annexin-V-based assay
+(Fig. 1). Our previous report also showed that PTX-2 induced
+a more toxic effect on p53-deficient cancer cells both in vitro
+and in vivo than wild-type-p53-containing cancer cells,
+strengthening the idea that p53 was not necessary for the
+toxicity mediated by this compound (21), although the
+mechanisms that could explain these observations remain to
+be clarified. Therefore, to test why p53-deficient cancer cells
+are more chemosensitive to PTX-2, we compared the cellular
+responses of Hep3B and HepG2 after treatment with PTX-2.
+In general, there are two main apoptosis pathways
+mediated according to their initiator caspase: the death
+receptor (extrinsic) pathway/caspase-8 and the mitochondrial
+(intrinsic) pathway, in which various signals can trigger the
+release of harmful proteins by mitochondria into the
+cytoplasm, leading to the activation of caspase-9 and the
+downstream cleavage of caspases such as caspase-3, -7 or -6
+(3-6). The death receptor (extrinsic) pathway is triggered by
+ligand-induced aggregation of death receptors, such as Fas
+and DR4/5, whereas the mitochondrial (intrinsic) pathway is
+activated in response to cytotoxic drug-induced cellular stress.
+Mitochondria are involved in a variety of key events leading to
+apoptosis, such as the release of caspase activators, changes in
+electron transport, loss of MMP, the production of reactive
+oxygen species and participation in the regulation of Bcl-2
+family proteins (3,6,23). In the present study, we characterized
+
+the apoptotic pathway induced by PTX-2 and observed that the
+levels of anti-apoptotic Bcl-2 and Bcl-xL protein expression
+were down-regulated in Hep3B but not in HepG2 cells. The
+pro-apoptotic Bax expression, on the other hand, was
+markedly up-regulated in Hep3B in a time-dependent manner,
+thus shifting the Bax/Bcl-2 and Bax/Bcl-xL ratio in favor of
+apoptosis (Fig. 2). The PTX-2 treatment was able to downregulate
+the expression of IAP family proteins, inhibitors of
+caspases, such as XIAP, cIAP-1 and cIAP-2 (Fig. 2). This
+compound also caused the proteolytic activation of caspases
+such as caspases-3, -8 and -9 in Hep3B cells, though not in
+HepG2 cells in a time-dependent manner (Fig. 3). However,
+under the same conditions, z-DEVD-fmk, a specific caspase-3
+inhibitor, prevented the PTX-2-induced apoptosis by blocking
+not only the morphological changes, but also the inhibition of
+cell viability (Fig. 6). This indicates that caspase-3 plays an
+important role in PTX-2-induced apoptosis in p53-deficient
+Hep3B cells and PTX-2 induces apoptosis of Hep3B cells in
+caspase-dependent pathways. In the intrinsic pathway, MMP
+can be regulated by Bcl-2 family proteins (6,23). These
+proteins are capable of forming either homo-oligomers or
+heterodimers with one another and appear to play distinct
+roles in governing MMP. Pro-apoptotic Bax, which can form
+homo-oligomers in the outer mitochondrial membrane in
+response to apoptotic stimuli, constitutes a gateway for outer
+mitochondrial membrane permeabilization. By contrast, antiapoptotic
+Bcl-2 can block MMP induced by Bax (23). As
+shown in Fig. 5, we observed that PTX-2 increased the loss
+of MMP in p53-deficient Hep3B cells without changing in
+HepG2 cells. These results indicate that PTX-2 activates
+caspase-3 by increasing permeability of mitochondria
+membrane and thereby activating capase-9. We also found
+that PTX-2 induced the levels of DR4 and DR5 (Fig. 7),
+suggesting that the increase in DR4/5 and Bax levels probably
+contributed to the activation of caspase-8 in Hep3B cells.
+
+SHIN et al: INDUCTION OF APOPTOSIS BY PECTENOTOXIN-2 524
+
+Figure 7. Effects of PTX-2 on the levels of DR4, DR5 and NAG-1 expression in HepG2 and Hep2B cells. The cells were incubated with 10 ng/ml PTX-2 for
+the indicated times, lysed and equal amounts of proteins were then separated by SDS-polyacrylamide gels and transferred to nitrocellulose membranes. The
+membranes were probed with the indicated antibodies and detected by ECL. Actin was used as the internal control.
+
+517-526 9/1/08 14:36 Page 524
+NAG-1, as a novel molecular target of anti-carcinogenic
+agents, has recently been actively investigated. NAG-1 is a
+distant member of the transforming growth factor-ß (TGF-ß)
+superfamily that has shown vital anti-tumorigenic activity and
+was identified from the cyclooxygenase-2 (COX-2) inhibitor
+indomethacin-treated HCT-116 colon cancer cells (24).
+However, NAG-1 induction in colon cancer cells by NSAID
+treatment would induce apoptosis and lead to a cyclooxygenase
+(COX)-independent anti-tumorigenic effect (25). Jang et al
+(26) suggested that overexpression of the death receptor would
+couple with NAG-1 induction to cause apoptosis. Moreover,
+ectopic expression of NAG-1 induced apoptosis through the
+induction of DR4 and DR5 expression in gastric cancer cells
+(26). Besides NSAID, other novel pro-apoptotic and antitumorigenic
+agents that also cause NAG-1 overexpression
+suggesting pro-apoptotic activity of NAG-1 may provide a
+molecular basis in explaining chemopreventive agentmediated
+anti-tumorigenesis (27-29). Nevertheless, the
+knowledge that NAG-1 is an important target of NSAID and
+other novel chemotherapeutic agents, the mechanism of its
+regulation is not clearly understood. Several upstream
+transcriptional factors have been suspected of causing the
+induction of NAG-1 in response to drug treatments. One of
+the candidates involved in the regulation is p53. NAG-1
+promoter has two p53 binding sites and Wilson et al (30)
+reported that genistein, a naturally occurring isoflavonoid
+found in soy products, possesses a p53-dependent induction
+of NAG-1 in colorectal cancer cells. However, epicatechin
+gallate, one of the catechins in green tea, was reported to
+induce NAG-1 expression in the same colorectal cancer cell
+lines via a p53-independent activation of the activating
+transcription factor ATF-3 (31). On the other hand, Baek et al
+(32) reported that troglitazone (a peroxisome proliferatoractivated
+receptor-γ ligand)-induced expression of NAG-1 is
+essentially regulated by the increased expression of the
+transcription factor Egr-1, which is a member of the
+immediate-early gene family. They also demonstrated that two
+Egr-1 binding sites have been identified in transactivating
+NAG-1 expression, of which mutation of these sites could
+cause a dramatic reduction of NAG-1 promoter activity (32).
+Egr-1 is involved in the regulation of cell growth and
+differentiation in response to signals such as mitogens, growth
+factors and stress stimuli (33-35). Egr-1 has been proposed as
+a tumor suppressor gene and its induction is both p53-
+dependent and p53-independent. Recently, Lim et al (36)
+reported that quercetin, a flavonoid molecule ubiquitously
+present in nature, induced the expression of NAG-1 through
+Egr-1 and p53 transactivation, during quercetin-induced
+apoptosis of human colon carcinoma cells. Thus, we further
+examined whether or not the involvement of Egr-1 and
+NAG-1 induction during PTX-2 induced apoptosis in p53-
+deficient Hep3B cells. In the present study, PTX-2 markedly
+up-regulated the levels of DR4 and DR5 in p53-deficient
+Hep3B cells (Fig. 7), which was associated with not only the
+transactivation of Egr-1 but also the induction of NAG-1
+protein (Fig. 6). Thus, our results in part suggest that the
+induction of Egr-1 and NAG-1 seems to be critical for PTX-2-
+induced apoptosis in a p53-independent manner.
+In summary, we have demonstrated that PTX-2 markedly
+inhibits p53-deficient Hep3B hepatocellular carcinoma cell
+
+growth and induces apoptosis whereas p53-wild-type HepG2
+cells were much more resistant to PTX-2. These results
+suggest that PTX-2 acts via a cytotoxic mechanism that
+seems to be p53-independent. Regarding the apoptotic
+mechanism of PTX-2, we postulate that in the case of Hep3B
+cells, the mechanism probably begins with the activation of
+the extrinsic pathway by increasing the expression of death
+receptors such as DR4 and DR5 and caspase-8 was probably
+the first element recruited by the extrinsic pathway triggered
+by the binding of the death ligand to its receptor. Then the
+downregulation of another apoptosis inhibitor could trigger
+apoptosis through the mitochondria. More notably, the novel
+NAG-1 pathway had been proven to be one of the molecular
+targets that mediate the cytotoxic actions of PTX-2. Egr-1
+may be another transcriptional factor that is responsible for
+the PTX-2-induced apoptotic action, although its correlation
+with NAG-1 regulation could not be confirmed. The present
+study explains in part the molecular basis for using PTX-2 as
+a potential anti-tumorigenic agent in p53-deficient tumors.
+

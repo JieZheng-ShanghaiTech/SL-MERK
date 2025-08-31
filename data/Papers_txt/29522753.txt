@@ -1,0 +1,642 @@
+Contents lists available at ScienceDirect
+
+Experimental Cell Research
+
+journal homepage: www.elsevier.com/locate/yexcr
+
+ATM inhibition induces synthetic lethality and enhances sensitivity of PTENdeficient
+breast cancer cells to cisplatin
+
+Ke Lia,b,1
+, Huaying Yanc,1
+, Wenhao Guod
+, Mei Tangb
+, Xinyu Zhaob
+, Aiping Tongb
+, Yong Pengb
+,
+Qintong Lie
+, Zhu Yuanb,⁎
+aKey Laboratory of Bio-Resource and Eco-Environment of Ministry of Education, College of Life Sciences, Sichuan University, Chengdu 610065, Sichuan, China
+b Laboratory of Tumor Biotherapy and Cancer Center, West China Hospital, West China Hospital, Sichuan University, 17 People's South Road, Chengdu 610041, China
+c
+Department of Functional Imaging, Sichuan Provincial Women's and Children's Hospital, 290# Sha Yan West Two Street, Jinyang Road, Wuhou District, Chengdu
+610031, China
+dDepartment of Abdominal Oncology, Cancer Center and State Key Laboratory of Biotherapy, West China Hospital, West China Medical School, Sichuan University, No.
+37, Guoxue Road, Chengdu 610041, Sichuan Province, China
+eDepartment of Pediatrics, West China Second University Hospital, Key Laboratory of Birth Defects and Related Diseases of Women and Children (Sichuan University),
+Ministry of Education, Sichuan University, Chengdu 610041, China
+
+ARTICLE INFO
+
+Keywords:
+ATM inhibition
+PTEN
+Synthetic lethality
+Cisplatin
+Breast cancer
+
+ABSTRACT
+
+PTEN deficiency often causes defects in DNA damage repair. Currently, effective therapies for breast cancer are
+lacking. ATM is an attractive target for cancer treatment. Previous studies suggested a synthetic lethality between
+PTEN and PARP. However, the synthetically lethal interaction between PTEN and ATM in breast cancer
+has not been reported. Moreover, the mechanism remains elusive. Here, using KU-60019, an ATM kinase inhibitor,
+we investigated ATM inhibition as a synthetically lethal strategy to target breast cancer cells with PTEN
+defects. We found that KU-60019 preferentially sensitizes PTEN-deficient MDA-MB-468 breast cancer cells to
+cisplatin, though it also slightly enhances sensitivity of PTEN wild-type breast cancer cells. The increased cytotoxic
+sensitivity is associated with apoptosis, as evidenced by flow cytometry and PARP cleavage. Additionally,
+the increase of DNA damage accumulation due to the decreased capability of DNA repair, as indicated by γH2AX
+and Rad51 foci, also contributed to this selective cytotoxicity. Mechanistically, compared with PTEN wildtype
+MDA-MB-231 cells, PTEN-deficient MDA-MB-468 cells have lower level of Rad51, higher ATM kinase activity,
+and display the elevated level of DNA damage. Moreover, these differences could be further enlarged by
+cisplatin. Our findings suggest that ATM is a promising target for PTEN-defective breast cancer.
+
+1. Introduction
+
+Breast cancer is one of the most malignant gynecologic cancers, and
+often causes injury to women worldwide [1–3]. Breast cancer is a
+highly heterogeneous disease [4], and many breast cancer subtypes
+have been identified based on their morphological features, response to
+treatment, and clinical outcome [2,4]. The most common breast cancer
+subtype is hormone receptor-positive (HR+) disease [5], which constitutes
+75% of all breast cancers [6]. Triple-negative breast cancer
+(TNBC) is another breast cancer subtype with high rate of tumor recurrence
+and metastasis, which is characterized by lack of estrogen
+receptor, progesterone receptor and Her-2 receptor [2,4,7]. The major
+cause of metastasis and recurrence in TNBC may be due to lack of
+
+molecular targets for targeted therapy [2]. Therefore, identification of
+some important molecular targets and development of the corresponding
+small molecular inhibitors is of significance for treating breast
+cancer.
+PTEN is a tumor suppressor gene located on chromosome 10q23
+[2,8]. Loss of PTEN is a frequent event in breast cancer. Notably, PTEN
+loss in triple-negative breast cancer is higher than other breast cancer
+subgroups [2,9,10]. Furthermore, Loss of PTEN is associated with aggressive
+behavior and poor prognosis [2,11]. PTEN is a lipid phosphatase
+with a canonical role in inhibiting phosphatidylinositol 3-kinase
+(PI3K)-AKT pathway. Recent reports have shown that PTEN has a
+new nuclear function, including transcriptional regulation of the
+RAD51 gene, whose product is essential for homologous recombination
+
+https://doi.org/10.1016/j.yexcr.2018.03.006
+Received 16 January 2018; Received in revised form 4 March 2018; Accepted 5 March 2018
+
+⁎ Corresponding author at: Laboratory of Tumor Biotherapy and Cancer Center, West China Hospital, West China Hospital, Sichuan University, 17 People's South Road, Chengdu
+610041, China.
+1 These authors contributed equally to this work.
+E-mail address: yuanzhu@scu.edu.cn (Z. Yuan).
+
+Experimental Cell Research 366 (2018) 24–33
+
+Available online 06 March 2018 0014-4827/ © 2018 Elsevier Inc. All rights reserved.
+
+T
+(HR) repair of DNA breaks [12], and regulation of cell cycle checkpoints
+[13], suggesting that PTEN plays an important role in regulating
+DNA damage repair during the DNA damage response (DDR).
+The DNA damage response (DDR) is essential to maintain genomic
+stability in the face of ongoing insult from environmental and endogenous
+DNA damage [14,15]. The DDR transduces DNA damage
+signals for DNA repair and to cell cycle checkpoints that stalled cell
+progress until DNA repair is completed [15]. During the DNA damage
+response, PI3-Kinase related kinases (PIKKs) are responsible for recruiting
+DNA repair proteins and activate cell cycle checkpoints. These
+PIKKs mainly includes ATM (ataxia telangiectasia mutated), ATR (ATM
+and Rad3 related) and DNA-PKcs (DNA-dependent protein kinase catalytic
+subunit) [16]. The response to DNA double strand breaks (DSBs)
+and collapsed replication forks is particularly critical for cell survival as
+these types of damage are difficult to repair [16]. Thus, tumor cells are
+inherently vulnerable to these exogenous DNA damage and DDR inhibition.
+This largely explains therapeutic efficacy of radiotherapy and
+DNA damage-based chemotherapeutics, and also help to develop and
+explore DDR-enzyme inhibitors for anti-cancer therapy.
+ATM functions to regulate DSBs repair directly or indirectly through
+cell cycle checkpoint control, and inhibition or absence of ATM increases
+radiosensitivity and chemosensitivity [17–20]. Thus, ATM is an
+attractive target for tumor radiosensitization or DNA-damaging chemosensitization.
+Recently, small-molecule inhibitors that disrupt ATM
+function and sensitize tumor cells to radiation and chemotherapeutic
+agents has been developed and explored [19]. One of the first specific
+ATM inhibitors was KU-55933, which binds competitively to the ATPbinding
+pocket of the ATM kinase [21]. Recently, another ATM inhibitor,
+CP466722, was also described [22]. KU-60019 is a novel,
+second-generation, and highly specific ATM kinase inhibitor that blocks
+radiation-induced DNA damage response [23].
+A hallmark of breast cancer is their genomic instability [24], which
+often leads to accumulation of lethal DNA damage [25]. It is well
+known that radiotherapy and DNA-damaging chemotherapy for cancer
+is based on this principle, though it is accompanied by unwanted side
+effects on normal tissue [25]. Furthermore, genomic instability is often
+caused by defects in DNA damage repair (DDR) pathways [25].
+Therefore, targeted therapy based on inhibiting the DDR in cancers
+offers the potential for a greater therapeutic window by tailoring
+treatment to patients with tumors lacking specific DDR functions [25].
+That is, it offers the potential for targeted therapies to exploit the
+concept of synthetic lethality, i.e., loss of one cellular pathway results in
+high reliance on another pathway that is not essential under normal
+settings. This principle is best exemplified by the use of PARP inhibitors
+(olaparib) to target DNA repair-deficient tumors [26,27]. In addition, a
+previous study showed that fanconi anemia (FA)/BRCA pathway-deficient
+tumor cells are hypersensitive to ATM inhibitor [28], indicating
+ATM inhibitor could induce synthetic lethality in fanconi anemia (FA) /
+BRCA pathway-deficient tumor cells. Recently, ATM inhibition induces
+synthetic lethality in PTEN-deficient HCT116 colon cancer cells and
+PC3 prostate carcinoma cells [29]. However, the ability of ATM inhibitor
+for inducing synthetic lethality in PTEN-deficient breast cancer
+cells has not yet been reported.
+These observations, combined with the previous reports that PTEN
+deficiency leads to defects in DNA repair, promoted us to hypothesize
+that ATM inhibitor KU-60019 induces synthetic lethality and enhances
+sensitivity of cisplatin to PTEN-deficient breast cancer cells. To test the
+hypothesis, we first selected several breast cancer cell lines with different
+PTEN status including MDA-MB-231, T47D, MCF-7 (PTEN wildtype,
+PTEN WT) as human breast cancer cell models, and MDA-MB-468
+(PTEN deletion, PTEN -/-) as human triple-negative breast cancer cell
+model, respectively. Then we used these cell lines to test the effects of
+ATM inhibitor KU-60019 and / or ciplatin on breast cancer proliferation.
+As expected, we observed that KU-60019 enhances sensitivity of
+cisplatin in both PTEN-wild type and PTEN-deficient breast cancer cells.
+Importantly, we found that KU-60019 induces synthetic lethality in
+
+PTEN-deficient MDA-MB-468 breast cancer cells, and that the cytotoxic
+activity of the combination of KU-60019 and cisplatin is higher than
+that in PTEN-wild type MDA-MB-231 breast cancer cells. We further
+tried to elucidated the action mechanism for synthetic lethality, and
+found that increase of ATM kinase activity and decrease of DNA repair
+ability caused by PTEN-deficiency is the main reason for the synthetically
+lethal interaction between PTEN and ATM. To our knowledge, we
+provide novel molecular evidence for synthetic lethal interaction between
+PTEN and ATM in breast cancer, and a new potentially therapeutic
+strategy for breast cancer, especially for PTEN-deficient triplenegative
+breast cancer.
+
+2. Materials and methods
+
+2.1. Reagents and chemicals
+
+MTT, dimethyl sulfoxide (DMSO), PI and DAPI were purchased from
+Sigma (St Louis, MO). RIPA buffer were purchased from Beyotime
+Biotechnology, China. The following antibodies were used: anti-ATM,
+anti-phospho-ATM (Ser-1981), anti-Chk1, anti-Chk2, anti-phosphoChk1
+(Ser-317), anti-phospho-Chk2 (Thr-68), anti-Rad51, anti-γH2AX
+(Abcam, Cambridge, MA); anti-PARP (46D11) (Cell signaling technology),
+anti-GAPDH (Abways technology, China). Rhodamine (TRITC)
+AffiniPure Goat anti-Rabbit IgG was from Santa Cruz Biotechnology;
+ATM inhibitor KU-60019 was obtained from Selleck (USA). KU-60019
+was dissolved in DMSO and diluted to appropriate concentrations with
+cell culture media.
+
+2.2. Cell culture and treatments
+
+Human MDA-MB-231, T47D, MCF-7 and MDA-MB-468 cells were
+obtained from the ATCC (Manassas, VA). Cells were cultured in DMEM
+medium (GIBCO). All culture medium were supplemented with 10%
+FBS, penicillin (100 units/mL) and streptomycin (100 μg/mL), respectively,
+at 37 °C in a humidified atmosphere containing 5% CO2. For
+single treatment, cells were left untreated or treated with KU-60019 or
+cisplatin for an indicated period of time. For combination treatments,
+cells were treated with KU-60019 in combination with cisplatin for
+48 h. After treatments, cells were harvested and used for the following
+experiments including MTT assay, Colony formation assays, flow cytometric
+analysis, immunofluorescence microscopy and western blotting
+analysis.
+
+2.3. Cell viability and apoptosis assays
+
+Cell viability was assessed by MTT assay [30,31]. Briefly, cells were
+plated in 96-well plates at 5 × 103 cells /well and incubated at 37 ℃ in
+5% CO2, 95% humidity air for 24 h, and then cells were treated as
+described above. MTT was added to the medium (0.5 mg/mL) and incubated
+at 37 ℃ for 4 h. The resulting insoluble formazan was dissolved
+with DMSO and measured at 570 nm using a spectrophotometer. Data
+represent the average of three wells, and the experiment was repeated
+three times. Apoptosis was assessed by flow cytometry analysis and
+detecting the cleavages of PARP.
+
+2.4. Flow cytometry analysis
+
+Apoptosis was analyzed by flow cytometry using the apoptosis detection
+Kit (Tianjin Sungene Biotech Co., Ltd., China) as described
+previously [31]. Briefly, cells were harvested and pelleted at 4 °C with
+1000 rpm for 5 min, then suspended in 200ul binding buffer, added
+with 5 μl Annexin V-FITC and propidium iodide (PI) solution, treated
+for 10 min in room temperature without light. The samples were analyzed
+by the use of a flow cytometer (ESP Elite, Coulter, Miami, FL).
+
+K. Li et al. Experimental Cell Research 366 (2018) 24–33
+
+25
+2.5. Colony formation assays
+
+Colony formation assays were conducted as described previously
+[30,32]. Briefly, MDA-MB-231 and MDA-MB-468 cells treated with KU60019
+and/or cisplatin for 48 h were harvested and plated in triplicate
+at 500 cells/well in 6-well plates and cultured for 10 days. Then the
+treated cells were washed twice in PBS, fixed in cold methanol, and
+stained with 2% crystal violet. After incubation at room temperature for
+20 min, the 6-well plates were washed twice in double-distilled H2O
+and dried, and colonies containing more than 50 cells were counted. All
+of the experiments were repeated three times, and the average values
+were reported.
+
+2.6. Western blot
+
+Protein samples were mixed with loading buffer (100 mM Tris-HCl,
+pH 6.8, 2% SDS, 100 mM dithiothreitol, 0.01% bromphenol blue, and
+10% glycerol), heated at 100 °C for 5 min, and loaded onto a 12% SDSPAGE
+in electrophoresis buffer containing 25 mM Tris-HCl, pH 8.3,
+250 mM glycine, and 0.1% SDS. Protein was then transferred to PVDF
+using the Trans-Blot semidry system (Bio-Rad). The membranes were
+immunoblotted with primary antibodies as described under “Reagents
+and chemicals.”
+
+2.7. Indirect immunofluorescence microscopy
+
+MDA-MB-231 and MDA-MB-468 cells were left untreated or treated
+with KU-60019 or cisplatin, and incubated in a 5% CO2 incubator at
+37 °C for 24 h. After fixation with methanol at − 20 ℃, the cells were
+immunostained with monoclonal anti-γ-H2AX (Ser-139) or anti-Rad51
+antibodies and subsequently with rhodamine (TRITC) affinipure goat
+anti-rabbit IgG and counterstained with DAPI (Invitrogen). The fluorescence
+images were visualized with a Zeiss LSM510 Meta upright
+confocal microscope. Quantification analysis was performed using
+ImageJ software.
+
+2.8. Statistical methods
+
+The statistical analysis was performed with SPSS software (version
+17.0 for Windows). Results are presented as mean ± S.D. Analysis of
+variance and the Tukey-Kramer multiple-comparison test were used in
+comparisons. P < 0.05 was considered to be statistically significant.
+
+3. Results
+
+3.1. Verification of ATM inhibitor KU-60019 and PTEN status in breast
+cancer cells
+
+Previous studies have shown that KU-55933 was first identified as a
+specific inhibitor of the ATM kinase [21,23]. Compared with KU55933,
+KU-60019, the structure of which is shown in Fig. 1A, was recently
+reported to be an improved inhibitor of the ATM kinase. Similarly, we
+observed that KU-60019 effectively inhibited cisplatin-induced phosphorylation
+of ATM (S1981) at 5μmol/L (Fig. 1B).
+Considering that PTEN deficiency is associated with aggressive behavior
+and poor prognosis [2,11], we selected several breast cancer cell
+with different PTEN status, as cell models to investigate the differential
+effects of KU-60019 plus cisplatin on the cell proliferation. These breast
+cancer cell lines includes MDA-MB-231 (PTEN WT), T47D (PTEN WT),
+MCF-7 (PTEN WT) and MDA-MB-468 (PTEN deletion, PTEN -/-), whose
+PTEN status were confirmed by western blot (Fig. 1C and D).
+
+3.2. PTEN-deficient breast cancer cells display increased cytotoxic
+sensitivity against KU-60019 and cisplatin
+
+To assess whether KU-60019 inhibits proliferation and enhances the
+
+anti-proliferative effects of cisplatin, we first treated MDA-MB-231 and
+MDA-MB-468 cells with cisplatin for 48 h at different concentration,
+and found that the dose of IC50 of cisplatin is about 6 μg/mL and 2 μg/
+mL, respectively (Fig. 2A). Then, in the following in vitro experiments,
+we treated tumor cells with cisplatin at a suboptimal dose (2 μg/mL or
+5 μg/mL), with a 48-h interval. After treatment, viability of cells was
+detected by MTT assay. As shown in Fig. 2, compared with the control
+group, either cisplatin or KU-60019 significantly inhibited the cell
+viability of PTEN wild-type MCF-7, T47D and MBA-MB-231 breast
+cancer cells and PTEN-deficient MDA-MB-468 breast cancer cells
+(Fig. 2B, C and D). Treatment with KU-60019 plus cisplatin further
+significantly reduced the cell viability. Importantly, the inhibition
+percentage of cell proliferation in PTEN-deficient MDA-MB-468 was
+61.3% (P < 0.01), which was higher than that (39.8%) in PTEN wildtype
+MBA-MB-231 cells (Fig. 2D).
+Based on the observation that PTEN status plays an important role
+in the cytotoxic activity of cisplatin plus KU-60019, we mainly selected
+PTEN wild-type MBA-MB-231 and PTEN-deficient MDA-MB-468 cells in
+the following experiments to elucidate the underlying action mechanism
+for the effect of ATM inhibition on cisplatin sensitivity.
+
+3.3. PTEN-deficient breast cancer cells displays increased suppression of
+long-term cell viability by KU-60019 and cisplatin
+
+Considering that MTT assay was used to measure the viability and
+short-term survival (up to 72 h) of cells, we measured the long-term
+survival of MBA-MB-231 and MDA-MB-468 cells after treatments with
+KU-60019 and cisplatin by colony-formation assays. Similar to the results
+above, the reduced viability of MBA-MB-231 and MDA-MB-468
+cells was further confirmed by colony formation assays (Fig. 3). Notably,
+the colony number of PTEN-deficient MDA-MB-468 cells treated
+with KU-60019 and cisplatin is significantly less than that of PTEN
+wild-type MBA-MB-231 cells.
+
+Fig. 1. Confirmation of ATM inhibitor KU-60019 and PTEN status in breast cancer cells
+(A) Structure of KU-60019. (B) Inhibition effect of KU-60019 was confirmed by Western
+blotting. MDA-MB-231 breast cancer cells were untreated or were treated with 5 μg/mL
+cisplatin in the presence or absence of 5 μM KU-60019 for 48 h, and then the levels of
+total and phosphorylated ATM were detected by Western blotting. GAPDH was used as a
+loading control. (C) PTEN status of MDA-MB-231 and MDA-MB-468 breast cancer cells
+was confirmed by Western blotting using anti-PTEN antibody. GAPDH was used as a
+loading control. (D) PTEN status of MCF-7 and T47D breast cancer cells was confirmed by
+Western blotting using anti-PTEN antibody. GAPDH was used as a loading control.
+
+K. Li et al. Experimental Cell Research 366 (2018) 24–33
+
+26
+Taken together, these results showed that ATM inhibitor KU-60019
+can enhance the anti-proliferation effects of cisplatin on breast cancer,
+furthermore, the anti-proliferation effects of cisplatin plus KU-60019 on
+PTEN-deficient breast cancer cells is stronger than that on PTEN wildtype
+breast cancer cells, implying that the survival of PTEN-deficient
+breast cells rely more heavily on ATM than PTEN wild-type breast
+cancer cells.
+
+3.4. KU-60019 and cisplatin inhibits cell proliferation by inducing apoptosis
+
+Apoptosis plays an important role in reduction of cell viability by
+ATM inhibition and/or cisplatin [29,33]. Similarly, we found a significant
+increase in the percentage of apoptotic MBA-MB-231 cells and
+MBA-MB-468 breast cancer cells treated with KU-60019 and/or cisplatin
+for 48 h, as evidenced by the flow cytometry analysis. Furthermore,
+the apoptotic percentage of PTEN-deficient MDA-MB-468 cells
+was significantly higher than that of PTEN wild-type MDA-MB-231 cells
+(Fig. 4A-C), which is consistent with the above results of proliferation
+inhibition. These results indicated that, compared with PTEN wild-type
+MDA-MB-468 cells, the survivals of PTEN-deficient breast cells rely
+more heavily on ATM dependency. Previous studies have shown that an
+early transient burst of poly(ADP-ribosyl)ation of nuclear proteins is
+required for apoptosis, followed by cleavage of poly(ADP-ribose)
+polymerase (PARP), catalyzed by caspase-3 [34,35]. Based on these
+observations, we detected the cleavage of PARP in both PTEN wild-type
+MDA-MB-231 cells and PTEN-deficient MDA-MB-468 cells after treatment
+with KU-60019 and/or cisplatin. As shown in Fig. 4D, cisplatin
+results in PARP cleavage. However, combination of KU-60019 and
+cisplatin further caused PARP cleavage. Taken together, these results
+suggested that caspase-3-mediated PARP cleavage pathway might be
+associated with ATM inhibition and/or cisplatin-induced apoptosis.
+
+3.5. ATM inhibition promotes cisplatin-induced DNA damage accumulation
+
+Since cisplatin can cause DNA damage [36,37], we investigated if
+
+Fig. 2. PTEN-deficient MDA-MB-468 breast cancer
+cells display increased cytotoxic sensitivity against
+KU-60019 and cisplatin. MTT was carried out to
+analyze the survival of breast cancer cells. (A) Effect
+of cisplatin at different concentrations on survival of
+MDA-MB-231 and MDA-MB-468 cells. Cells were
+treated with cisplatin at different concentrations for
+48 h, then used to analyze the survival by MTT assay.
+(B) Effect of cisplatin /KU-60019 on survival of MCF7
+cells. MCF-7 Cells were treated with cisplatin and/
+or KU-60019 for 48 h, then used to analyze the survival
+by MTT assay. The percentage of survival was
+calculated. In each experiment, the medium-only treatment
+(untreated) indicates 100% cell viability. Bars,
+mean; error bars, S.D. (n = 3; *p < 0.05). (C) Effect
+of cisplatin /KU-60019 on survival of T47D cells.
+T47D Cells were treated with cisplatin and/or KU60019
+for 48 h, then used to analyze the survival by
+MTT assay. The percentage of survival was calculated.
+In each experiment, the medium-only treatment (untreated)
+indicates 100% cell viability. Bars, mean; error
+bars, S.D. (n = 3; n s, no statistically significant difference).
+(D) Effect of cisplatin / KU-60019 on cell
+survival of MDA-MB-231 and MDA-MB-468. The
+percentage of survival was calculated. In each experiment,
+the medium-only treatment (untreated)
+indicates 100% cell viability. Bars, mean; error bars,
+S.D. (n = 3; ** p < 0.01；##p < 0.01).
+
+Fig. 3. Colony formation assays were further used to evaluate the viability of MDA-MB231
+and MDA-MB-468 cells. (A) Combination of cisplatin and KU-60019 resulted in
+significant inhibition of clone formation of MDA-MB-231 cells compared with the cisplatin-treated
+group. (B) Combination of cisplatin and KU-60019 resulted in significant
+inhibition of clone formation of MDA-MB-468 cells compared with the cisplatin-treated
+group. (C) The clones of MDA-MB-231 and MDA-MB-468 cells were further counted. Bars,
+mean; error bars, S.D. (n = 3; *p < 0.05; ##p < 0.01).
+
+K. Li et al. Experimental Cell Research 366 (2018) 24–33
+
+27
+ATM inhibition affects cisplatin-induced DNA damage response by γH2AX
+staining. As expected, cisplatin or KU-60019 alone produced
+some typical γ-H2AX foci in both PTEN wild-type MDA-MB-468 cells
+and PTEN-deficient MDA-MB-468 cells. In contrast, untreated breast
+cancer cells display little γ-H2AX foci (Fig. 5). Importantly, KU-60019
+significantly augmented cisplatin-induced DNA damage in PTEN-deficient
+MDA-MB-468 cells, whereas it slightly (but not significantly) increase
+the DNA damage accumulation in PTEN-WT MDA-MB-231 cells,
+as evidenced by γ-H2AX staining (Fig. 5B and D). These results indicated
+that ATM inhibition promoted cisplatin-induced DNA damage
+accumulation, while PTEN deficiency further potentiates the effect of
+ATM inhibition on cisplatin-induced DNA damage, finally causing more
+DNA damage accumulation.
+
+3.6. ATM inhibition impairs DNA damage repair in cisplatin-induced DNA
+damage response
+
+Previous studies have shown that ATM is responsible for recruiting
+DNA repair proteins during DDR, contributing to HR-mediated DNA
+repair [15,20,25,38]. Thus, we hypothesized that ATM inhibition
+would partly impair DNA damage repair, which will further increase
+accumulation of cisplatin-induced DNA damage. To confirm if DNA
+
+damage accumulation was caused by defective HR repair due to the
+inhibition of ATM activation, an immunofluorescence assay was conducted
+to assess RAD51 foci formation, which is indicative of functional
+HR repair activity. As shown in Fig. 6, cisplatin or KU-60019 alone
+produced some typical Rad51 foci in both PTEN wild-type MDA-MB231
+cells and PTEN-deficient MDA-MB-468 cells (Fig. 6). Importantly,
+ATM inhibitor KU-60019 significantly reduced HR-mediated DNA repair
+efficiency, as indicated by the decreased number of RAD51 foci in
+cells treated with cisplatin and KU-60019 in both cells (Fig. 6). Notably,
+numbers of RAD51 foci in PTEN-deficient MDA-MB-468 cells were
+significantly lower than that in PTEN-WT MDA-MB-231 cells when
+treated with KU-60019 plus cisplatin (Fig. 6B and D). These observations
+support our hypothesis that ATM inhibition causes the reduction
+of HR-mediated DNA repair efficiency, while PTEN deficiency further
+impairs HR-mediated DNA repair, finally leading to the accumulation of
+DNA damage.
+
+3.7. Mechanistic rationale to selectively target PTEN-deficient tumor cells
+with ATM inhibitor KU-60019 and cisplatin
+
+Our data suggest a synthetically lethal interaction between PTEN
+and ATM in breast cancer cell lines. However, the mechanism for this
+
+Fig. 4. KU-60019 and cisplatin inhibit cell proliferation by inducing apoptosis (A) MDA-MB-231 cells were treated with KU-60019 and/or cisplatin for 48 h, then used to measured
+apoptosis by flow cytometry analysis. (B) MDA-MB-468 cells were treated as described in A, then the treated cells were used for analysis of apoptosis by flow cytometry. (C) Apoptotic
+cells were further counted, and the results were presented as bar graphs. Bars, mean; error bars, S.D. (n = 3; **p < 0.01). (D) Western blotting was conducted to detect PARP cleavage in
+MDA-MB-231 and MDA-MB-468 cells following treatment with the KU-60019 and/or cisplatin for 48 h.
+
+K. Li et al. Experimental Cell Research 366 (2018) 24–33
+
+28
+Fig. 5. KU-60019 promotes cisplatin-induced DNA damage accumulation. An immunofluorescence assay was conducted to monitor γ-H2AX damage foci formation. (A) KU-60019 and /or
+cisplatin results in formation of γ-H2AX damage foci in MDA-MB-231 cells. The representative pictures of γ-H2AX foci were shown. Arrows, some typical γ-H2AX foci. (B) Quantification
+of KU-60019/cisplatin-induced γ-H2AX foci in MDA-MB-231 cells. The percentage of γ-H2AX foci-positive cells (at least 100 total cells) was counted. Bars, mean; error bars, S.D. (n = 3; n
+s, no statistically significant difference). (C) KU-60019 and /or cisplatin results in formation of γ-H2AX damage foci in MDA-MB-468 cells. The representative pictures of γ-H2AX foci were
+shown. Arrows, some typical γ-H2AX foci. (D) Quantification of KU-60019/cisplatin-induced γ-H2AX foci in MDA-MB-468 cells. The percentage of γ-H2AX foci-positive cells (at least 100
+total cells) was counted. Bars, mean; error bars, S.D. (n = 3; **p < 0.01).
+
+K. Li et al. Experimental Cell Research 366 (2018) 24–33
+
+29
+Fig. 6. KU-60019 augments DSB repair defects. An immunofluorescence assay was conducted to monitor RAD51 foci formation and determine whether DNA damage accumulation is due
+to a decreased HR repair capacity. DAPI (blue) was used for counterstaining. (A) KU-60019 reduced cisplatin-induced Rad51 foci in MDA-MB-231 cells. The representative pictures of
+Rad51 foci were shown. Arrows, some typical Rad51 foci. (B) Quantification of KU-60019/Cisplatin-induced Rad51 foci in MDA-MB-231 cells. The percentage of Rad51 foci-positive cells
+(at least 100 total cells) was counted. Bars, mean; error bars, S.D. (n = 3; *p < 0.05). (C) KU-60019 reduced cisplatin-induced Rad51 foci in MDA-MB-468 cells. The representative
+pictures of Rad51 foci were shown. Arrows, some typical Rad51 foci. (D) Quantification of KU-60019 /Cisplatin-induced Rad51 foci in MDA-MB-468 cells. The percentage of Rad51 focipositive
+cells (at least 100 total cells) was counted. Bars, mean; error bars, S.D. (n = 3; **p < 0.01).
+
+K. Li et al. Experimental Cell Research 366 (2018) 24–33
+
+30
+interaction remains elusive. Toward this end, we decided to detect the
+expression change of DNA damage response (DDR)-related molecules
+between PTEN wild-type and PTEN-deficient breast cancer cells. It has
+previously been reported that PTEN-deficient cells exhibit abnormal
+homologous recombination (HR)–mediated DNA repair through loss of
+expression of Rad51 [12,29,39]. Similarly, we found that the expression
+level of endogenous Rad51 in PTEN-deficient MDA-MB-468 cell lines
+was lower than that in PTEN-wild type MDA-MB-231 cell lines
+(Fig. 7A). By contrast, the level of γ-H2AX, an indicator of DNA damage,
+in PTEN-deficient MDA-MB-468 cells was higher than that in
+PTEN wild-type MDA-MB-231 cells (Fig. 7A). We further detect DDRrelated
+molecules between PTEN wild-type MDA-MB-231 and PTENdeficient
+MDA-MB-468 breast cancer cells in the absence or presence of
+cisplatin, and found that, in PTEN-deficient MDA-MB-468 cell lines, the
+expression levels of phospho-ATM, phospho-Chk2 and phospho-H2AX
+(γ-H2AX) were higher, while Rad51 was lower, than those in PTENwild
+type MDA-MB-231 cell lines (Fig. 7B). The expression differences
+of these proteins were further enlarged between the two cells in response
+to cisplatin (Fig. 7B). Furthermore, we found that, in PTEN wildtype
+MDA-MB-231 and PTEN-deficient MDA-MB-468 cells treated with
+KU-60019 and cisplatin, KU-60019 significantly abrogated cisplatininduced
+phosphorylation of Chk1 and Chk2 (Fig. 7C), and caused further
+down-regulation of Rad51 as well as up-regulation of γ-H2AX
+(Fig. 7D), indicating that KU-60019 plus cisplatin-induced changes of
+DDR-related molecules, which reflected reduction of DNA repair and
+increase of DNA damage accumulation, might be the reason for KU60019
+sensitizes breast cancer cells to cisplatin.
+
+4. Discussion
+
+Breast cancer is one of the most malignant gynecologic cancers
+which often cause cancer mortality [2,3]. Hormone receptor-positive
+(HR+ ) cancer is the most common breast cancer subtype [5,6], while
+triple-negative breast cancer (TNBC) is another breast cancer subtype
+with high rate of tumor recurrence, metastasis and the poorest clinical
+outcomes [4,7]. Previous studies have shown that PTEN deletion often
+occurs in breast cancers, with reduced PTEN protein found in 31–48%
+of breast cancers [40,41]. Furthermore, PTEN deficiency is associated
+with aggressive behavior and poor prognosis in triple-negative breast
+cancers [2,11]. Interestingly, recent reports showed an important nuclear
+function of PTEN in DNA double strand break repair [12,29,42].
+Synthetic lethal approach is a promising therapy strategy for cancer
+treatment [39,43,44]. Based on the “Synthetic lethal” concept, PARP
+
+inhibitor olaparib is approved by FDA to be used to treat BRCA1 or
+BRCA2 mutation tumors [43]. Previous studies have shown that ATR
+inhibitor AZD-6738 induces synthetic lethality and overcomes chemoresistance
+in TP53- or ATM-defective chronic lymphocytic leukemia,
+colorectal, lung and gastric cancer cells [44–47]. Similarly, ATM inhibitor
+induces synthetic lethality in fanconi anemia (FA) / BRCA
+pathway-deficient tumor cells [28]. Recently, McCabe et al. found that
+ATM inhibition also induces synthetic lethality in PTEN-deficient
+HCT116 colon cancer cells and PC3 prostate carcinoma cells [29].
+However, the synthetic lethal interaction between ATM and PTEN has
+not been reported in breast cancer cells. The present study was designed
+to investigate whether an ATM inhibitor KU-60019 induces synthetic
+lethality and enhances sensitivity of cisplatin to PTEN-deficient breast
+cancer cells, and to further elucidate the action mechanism for synthetic
+lethality.
+Several observations have been made in this work concerning inhibition
+of proliferation by KU-60019 and/or cisplatin in breast cancer
+cells, as evidenced by MTT assay (Fig. 2), colony formation assays
+(Fig. 3). Interestingly, the anti-proliferation effects of KU-60019 and
+cisplatin on PTEN-deficient breast cancer cells is significantly stronger
+than PTEN wild-type breast cancer cells (Figs. 2 and 3), indicating a
+synthetic lethal interaction between PTEN and ATM in PTEN-deficient
+breast cancer cells.
+The reduction of cell viability by ATM inhibition and/or cisplatin
+was also associated with induction of apoptosis [29,33]. Similar to
+these observations, KU-60019 and/or cisplatin resulted in a significant
+increase in the percentage of apoptotic MBA-MB-231 cells and MBAMB-468
+breast cancer cells, as evidenced by the flow cytometry analysis
+(Fig. 4-C) and detection of PARP cleavage (Fig. 4D). Collectively, these
+data showed that apoptosis contributed to the anti-proliferation of
+breast cancer cells by KU-60019 and/or cisplatin.
+Our data that the anti-proliferation efficiency by KU-60019 and/or
+cisplatin in PTEN-deficient MBA-MB-468 cells is higher than PTEN
+wild-type MBA-MB-231 cells (Figs. 2–4) promoted us to further explore
+the action mechanism. We found that the increase of DNA damage
+accumulation and reduction of DNA damage repair also contributed to
+the anti-proliferation effects by KU-60019 and/or cisplatin, as indicated
+by γ-H2AX staining (Fig. 5) and Rad51 foci (Fig. 6). Importantly, the
+accumulation of DNA damage in PTEN-deficient MBA-MB-468 cells is
+higher, while the reduction degree of DNA repair is lower, than those in
+PTEN wild-type MBA-MB-231 cells (Figs. 5 and 6).
+Mechanistically, we found that, compared with PTEN wild-type
+MDA-MB-231 cells, PTEN-deficient MDA-MB-468 cells have lower level
+
+Fig. 7. PTEN-deficient MDA-MB-468 cells have elevated expression
+levels of DNA damage response-related molecules, reduced
+levels of RAD51, and activation of ATM. (A) Western blotting for
+endogenous Rad51 was performed to determine whether there
+was a difference of HR-mediated DNA repair capacity between
+PTEN-deficient MDA-MB-468 cell line and PTEN wild-type MDAMB-231
+cell line. GAPDH was used as a loading control. (B)
+Western blotting for PTEN, Rad51, γ-H2AX, p-Chk2, ATM and pATM
+was performed to determine how cisplatin affects the DDR
+pathway between PTEN-deficient MDA-MB-468 cell line and
+PTEN wild-type MDA-MB-231 cell line. MDA-MB-231 and MDAMB-468
+cells were untreated or treated with cisplatin for 48 h,
+and then used to measure the expression changes of DDR-related
+molecules. GAPDH was used as a loading control. (C) Western
+blotting for ATM, p-ATM, p-Chk2, Chk2, p-Chk1 and Chk1 was
+performed to determine how cisplatin/KU-60019 affect the DDR
+pathway between PTEN-deficient MDA-MB-468 cell line and
+PTEN wild-type MDA-MB-231 cell line. MDA-MB-231 and MDAMB-468
+cells were untreated or treated with cisplatin/ KU-60019
+for 48 h, and then used to measure the expression changes of
+DDR-related molecules. GAPDH was used as a loading control. (D)
+Western blotting for Rad51 and γ-H2AX was performed to determine
+whether the reduction of DNA damage accumulation in PTEN-deficient MDA-MB-468 cells is due to a decreased HR repair capacity. PTEN-deficient MDA-MB-468 and PTEN wildtype
+MDA-MB-231 cells were untreated or treated with cisplatin/KU-60019 for 48 h, and then used to measure the expression changes of Rad51 and γ-H2AX. GAPDH was used as a
+loading control.
+
+K. Li et al. Experimental Cell Research 366 (2018) 24–33
+
+31
+of Rad51 expression (Fig. 7A), which is similar to the previous reports
+that PTEN-deficient cells exhibit defective DNA repair through loss of
+RAD51, an indicative of HR-mediated DNA repair [12,29,39]. Furthermore,
+PTEN-deficient MDA-MB-468 cells were observed to have
+higher constitutive ATM kinase activity than PTEN wild-type MDA-MB231
+cells, as indicated by the phosphorylation of ATM and its substrate
+Chk2 (Fig. 7B), indicating that ATM as a target in PTEN-deficient breast
+cancers is better than PTEN wild-type breast cancers. The differences of
+ATM kinase activity in the two cell lines were further augmented by
+cisplatin (Fig. 7B). Similar to this observation, the differences of
+phosphorylation of H2AX (γ-H2AX), the indicative of DNA damage
+[29,31], were also observed (Fig. 7B). Furthermore, KU-60019 significantly
+abrogated cisplatin-induced phosphorylation of Chk2 and
+Chk1 (Fig. 7C), and further caused down-regulation of Rad51 as well as
+up-regulation of γ-H2AX (Fig. 7D). Taken together, our data explain at
+the molecular level why PTEN-deficient MDA-MB-468 cells display the
+elevated levels of DNA damage, the decreased capability of DNA repair
+and the increased cytotoxic sensitivity against KU-60019 and cisplatin,
+compared to PTEN wild-type MDA-MB-231 cells.
+In summary, we have shown that ATM inhibitor KU-60019 induces
+synthetic lethality in PTEN-deficient MDA-MB-468 breast cancer cells,
+and enhances sensitivity of cisplatin in both PTEN-wild type and PTENdeficient
+breast cancer cells. We have further demonstrated a requirement
+for ATM in the maintenance of cell survival in the presence of
+increased DNA damage secondary to PTEN deficiency. The preferentially
+selective sensitivity of PTEN deficient breast cancers to ATM
+inhibitor KU-60019 and cisplatin suggests that this may represent a
+novel approach to targeted breast cancer therapy. To our knowledge,
+we provide a novel therapeutic strategy for breast cancer, especially for
+PTEN-deficient triple-negative breast cancer.
+

@@ -1,0 +1,641 @@
+Abstract
+Interactions between the novel Chk1 inhibitor MK-8776 and the HDAC inhibitor (HDACI) vorinostat were examined in human leukemia cells harboring wild-type (wt) or deficient p53. MK-8776 synergistically potentiated vorinostat-mediated apoptosis in various p53-wild type (wt) or -deficient leukemia cell lines, while p53 knock-down by shRNA sensitized p53-wt cells to lethality of this regimen. Leukemia cell lines carrying FLT3-ITD were also sensitive to the MK-8776/vorinostat regimen. Synergistic interactions were associated with inhibition of Chk1 activity, interference with the intra-S phase checkpoint, disruption of DNA replication, and down-regulation of proteins involved in DNA replication (e.g.,CDT1) and repair (e.g., CtIP and BRCA1), resulting in sharp increases in DNA damage, reflected by enhanced γH2A.X formation, and apoptosis. Moreover, leukemia cells expressing kinase-dead Chk1 (D130A) or Chk1 shRNA were significantly more sensitive to HDACIs compared to their wild-type counterparts, and displayed down-regulation of CtIP and BRCA1 phosphorylation following HDACI exposure. Finally, the MK-8776/vorinostat regimen was active in primary AML blasts, particularly against the CD34
++
+/CD38
+-
+/CD123
++
+population enriched for leukemia-initiating cells. In contrast, identical regimens were relatively sparing toward normal cord blood CD34
++
+cells. Together, these findings indicate that the novel Chk1 inhibitor MK-8776 markedly potentiates HDACI lethality in leukemia cells displaying various genetic backgrounds through mechanisms involving disruption of the intra-S checkpoint, DNA replication, and DNA repair. They also argue that leukemic cells, including those bearing oncogenic mutations associated with poor prognosis e.g., p53 deletion/mutation or FLT3-ITD, may also be susceptible to this strategy.
+Keywords:
+Chk1 inhibitor, HDAC inhibitor, S phase, DNA damage/repair, leukemiaIntroduction
+Histone deacetylase inhibitors (HDACIs) modify chromatin structure, and by extension, gene expression, leading to cell death or differentiation(
+1
+). They also kill transformed cells through additional mechanisms(
+1
+), including ROS-related oxidative injury, chaperone (e.g., Hsp90) function disruption, and pro-apoptotic protein up-regulation (e.g., Bim), among others. Recently, attention has focused on HDACI-mediated interference with the DNA damage checkpoint/repair machinery(
+1
+). While HDACIs induce DNA damage (e.g., double-stranded breaks; DSBs)(
+2
+), HDACI-mediated down-regulation of checkpoint and/or repair proteins(
+3
+) may cooperate with direct actions (e.g., oxidative damage of DNA)(
+4
+) to promote cell death.
+The DNA damage response (DDR) is a versatile response to genomic DNA damage. It consists of cell cycle checkpoints, DNA repair, a transcriptional program, and apoptosis(
+5
+). A critical function is to ensure cell cycle arrest via checkpoint activation following DNA damage, permitting repair of lesions or triggering apoptosis if they are irreparable, thereby preserving genomic integrity(
+5
+). DNA damage activates distinct, albeit overlapping and cooperating checkpoint pathways which block S-phase entry (the G1/S or G1 checkpoint), delay S-phase progression (the S-phase checkpoint), or prevent mitotic entry (the G2/M-phase checkpoint)(
+5
+). Checkpoints are activated via signaling networks consisting of sensors (multi-protein complexes e.g., MRN and 9-1-1), proximal transducers (PI3K-like kinases e.g., ATM and ATR), signal amplifiers/mediators (e.g., BRCA1, claspin, FANCD2), distal transducers (i.e., Chk1 and Chk2), and effector proteins including Cdc25s, cdc2/Cdk1, Cdk2, p53 and p21
+CIP1
+(
+5
+). In general, Chk1 is activated by single strand DNA (ssDNA) via ATR, whereas Chk2 is activated by double-strand breaks (DSB) through ATM(
+5
+). Aside from checkpoint responses to exogenous genotoxic insults (e.g., chemotherapy or ionizing radiation), the ATR/Chk1-mediated intra-S phase checkpoint pathway plays a central role in monitoring chromosome replication (designated the DNA replication checkpoint) and governing the S-phase DNA repair machinery (specifically homologous recombination, HR)(
+6
+) to ensure accurate genomic DNA duplication. These findings provide a theoretical basis for the notion that Chk1 inhibition (e.g., by Chk1 inhibitors or shRNA) itself induces DNA damage by disrupting DNA replication(
+7
+). Because transformed cells exhibit defective checkpoints(
+5
+), the DDR (and specifically Chk1) have become attractive targets for therapeutic intervention. Numerous Chk1 inhibitors have recently been developed to enhance the activity of DNA-damaging agents or radiation(
+5
+). MK-8776 (formerly SCH900776)(
+8
+) is a novel specific Chk1 inhibitor currently under clinical development in combination with DNA-damaging agents (e.g., cytarabine) in acute myelogenous leukemia (AML)(
+9
+).
+Currently, little information exists concerning the impact of checkpoint disruption (particularly the intra-S phase checkpoint) on HDACI responses of transformed cells. Recent evidence suggests that the HDACI vorinostat triggers marked alterations in DNA replication culminating in DNA damage in transformed cells(
+10
+). The ability of HDAC and Chk1 inhibitors to target DNA replication raises the possibility that Chk1 inhibitors might promote HDACI activity via disruption of the intra-S phase checkpoint. To test this possibility, effects of MK-8776, a selective Chk1 inhibitor that targets the replication checkpoint(
+11
+), on vorinostat lethality have been examined in human leukemia cells, including those carrying wild-type (wt) or mutant p53, an important determinant of Chk1 inhibitor sensitivity(
+12
+). The present results indicate that MK-8776 synergistically increases vorinostat lethality in leukemia cells, including those bearing defective p53 or expressing FLT3-ITD, in association with disruption of the intra-S checkpoint and multiple proteins involved in DNA replication, DSB end-resection, and HR repair. They also suggest that this strategy may selectively target leukemia cells, including primitive progenitors enriched for leukemia-initiating cells.Materials and Methods
+Cells and cell culture
+Human leukemia cell lines U937 (myelomonocytic M4-M5, histiocytic, p53-null(
+13
+), FLT3-wt(
+14
+)), MV4-11 (myelomonocytic M5, biphenotypic, p53 mutated(
+15
+), FLT3-ITD)(
+14
+), and MOLM-13 (monocytic M5a, p53 wild type(
+16
+), FLT3-ITD(
+14
+)) were purchased from ATCC (American Type Culture Collection, Rockville, MD), and maintained as previously described(
+17
+). OCI-AML-3 (myeloid M4, p53 wild type(
+18
+)) and FLT3-wt(
+14
+) cell line was obtained from DSMZ, Braunschweig, Germany), and maintained in alpha MEM medium containing 20% FBS. These cells were authenticated using basic short tandem repeat profiling within 6 months at the end of the studies. Experiments utilized logarithmically growing cells (3-6 × 10
+5
+cells/ml).
+Bone marrow (BM) or peripheral blood (PB) samples were obtained with informed consent from patients with histologically documented AML undergoing routine diagnostic procedures with Virginia Commonwealth University IRB approval (#HM 12517). Mononuclear cells were isolated and characterized (e.g., blasts > 70% and viability > 95%) as described previously(
+19
+). All experiments were performed at density of 1 × 10
+6
+cells/ml. Normal human cord blood (CB) CD34
++
+cells were isolated as previously described(
+19
+).
+Drugs and chemicals
+The selective Chk1 inhibitor MK-8776 and the pan-HDAC inhibitor vorinostat (formerly SAHA) were provided by Merck (Whitehouse Station, N.J.). The structures of MK8776 and vorinostat are shown in
+Suppl Fig. S1A
+. SBHA was purchased from Calbiochem. Reagents were formulated in DMSO and stored at -20°C. Stock solutions were diluted with serum-free RPMI medium prior to ensure final DMSO concentrations less than 0.1%.
+Flow cytometry
+Apoptosis was evaluated by flow cytometry utilizing annexin V-FITC/PI staining as described previously(
+20
+). In some cases, loss of mitochondrial membrane potential and cell death were assessed by double staining with 3,3-dihexyloxacarbocyanine (DiOC
+6
+) and 7-AAD as before(
+20
+).
+For analysis of the CD34
++
+/CD38
+-
+/CD123
++
+population, mononuclear cells isolated from AML patient bone marrows were blocked by TruStain FcX on ice for 10min, stained with C34-PE, CD38-PE/Cy7 and/or CD123-APC (Biolegend, San Diego, CA) on ice for 30min followed by staining with annexin V- FITC and 7AAD at room temperature in the dark for 15min. The percentage of apoptotic (annexin V
++
+) cells in the CD34
++
+/CD38
+-
+/CD123
++
+population was determined using a FACSCanto flow cytometer (BD Biosciences).
+Cell cycle analysis of DNA content by propidium iodide (PI) staining was performed by flow cytometry using Modfit LT2.0 software (Topsham, ME) as described previously(
+21
+).
+Click-iT™ EdU CellCycle 488-Red (7-AAD) Assay Kit (Invitrogen) was used to monitor DNA replication via incorporation of the thymidine analogue 5-ethynyl 2-deoxyuridine (EdU) into genomic DNA during DNA synthesis.
+Plasmids, shRNA, and transfection
+Wild type (Chk1
+wt
+) and kinase-dead Chk1 (Chk1
+KD
+, D130A), cloned into the pEYFP-N1 vector, were provided by Dr. Yolanda Sanchez (Dartmouth)(
+22
+). SureSilencing shRNA plasmids (neomycin resistance) were purchased from SABioscience (Frederick, MD), including shChk1 (human CHEK1, GTGAGAAGTTGGGCTATCAAT), shTP53 (human TP53, GGAAGACTCCAGTGGTAATCT), and negative control shRNA (shNC, GGAATCTCATTCGATGCATAC). U937 were stably transfected with these constructs using the Amaxa Nucleofector (Amaxa GmbH, Cologne, Germany), and clones expressing GFP-Chk1 or down-regulated Chk1 or TP53 were selected by G418 (U937, 400 μg/ml).
+Immunoblotting
+Samples from whole-cell lysates were prepared, and 30 μg of protein per condition were subjected to Western blot analysis as previously described(
+17
+). Blots were reprobed with anti-β-actin (Sigma) or anti-α-tubulin (Oncogene Inc., San Diego, CA) to ensure equal protein loading. Primary antibodies included: anti- p53, anti-phospho-cdc2 (Tyr15/Thr14), anti-phospho-Cdk2 (Tyr15/Thr14), anti-Cdt1, and anti-CtIP (Santa Cruz Biotech, Santa Cruz, CA); anti-p21
+WAF1/CIP1
+(Transduction Laboratories, Lexington, KY); anti-cleaved caspase 9 (Asp315), anti-cleaved caspase 3 (Asp175), anti-Chk1, anti-phospho-Chk1 (S296), anti-phospho-BRCA1 (Ser1524), anti-Chk2, anti-phospho-Cdk2 (Thr68), anti-phospho-p53 (Ser15), and anti-phospho-p53 (Ser20) (Cell Signaling, Beverly, MA); anti-PARP (Biomol, Plymouth Meeting, PA); anti-phospho-BRCA1 (Ser1423; Abcam, Cambridge, MA); anti-acetylated α-tubulin (K40; Sigma, St. Louis, MO); anti-acetylated histone H3, and anti-phospho-histone H2A.X (Ser139; Millipore, Billerica, MA).
+Statistical analysis
+Values represent the means ± SD for at least three independent experiments performed in triplicate. The significance of differences between experimental variables was determined using the Student's t test or One-way ANOVA with Tukey-Kramer Multiple Comparisons Test. The significance of
+P
+values was < 0.05 (*), < 0.01 (**), or < 0.001 (***) wherever indicated.Results
+MK-8776 interacts synergistically with HDACIs in both p53 wild-type and deficient leukemia cells
+Responses to Chk1 inhibitors, including MK-8776, combined with DNA damaging agents(
+12
+) or radiation(
+23
+) largely depend upon p53 status, with p53-deficient tumor cells more sensitive than p53-wt cells(
+8
+). Effects of MK-8776 on leukemia cells harboring either wt or deficient p53 were first examined. Leukemia cells carrying wt p53 (e.g., OCI-AML-3(
+18
+) and MOLM-13(
+16
+)) exhibited moderate p53 expression, whereas those bearing mutant p53 (e.g., MV-4-11 cells which carry point mutations at codon 344 (
+15
+)) had higher p53 expression (
+Fig. 1A
+, upper panel). Expression of p53 was not detected in U937 cells which is functionally p53 null due to a large deletion in the p53 gene(
+13
+). As shown in
+Fig. 1A
+(lower panel), sensitivities to MK-8776 varied in different cell lines. MV-4-11 and MOLM-13 cell lines, both harboring the FLT3-ITD mutation, which is frequently observed in AML(
+14
+), were relatively more sensitive to MK-8776 than U937 and OCI-AML-3 cells, which do not carry FLT3-ITD(
+14
+).
+Open in a separate window
+Figure 1
+MK-8776 synergistically interacts with HDACIs to induce apoptosis in leukemia cell lines with various genetic backgrounds
+(A) U937, MV-4-11, OCI-AML-3, and MOLM-13 cells were characterized by immunoblotting analysis (upper-panels). Dose responses to MK-8776 were then examined in these lines by Annexin-V-FITC/PI staining and flow-cytometry (lower-panel). (B) Cells were exposed (48 h for OCI-AML-3; 24 h for others) to MK-8776 +/- 1.5μM vorinostat, apoptosis was measured. (C) Alternatively, immunoblotting was performed to detect cleavage of caspase-9 and PARP. CF = cleaved fragment. (D) After 24 h-exposure to 500nM MK-8776 +/- HDACIs, a soft-agar assay was performed to assess the colony-forming capacity of U937 cells.
+Co-administration of minimally toxic concentrations of MK-8776 with vorinostat or SBHA significant increased lethality in all lines, although effects were less pronounced in OCI-AML-3 cells bearing wt-p53 but without FLT3-ITD
+(
+Fig. 1B
+). Median Dose Effect analysis yielded CI values substantially less than 1.0, indicating synergism (
+Suppl Table 1
+; CI value ≤ 0.40 in U937, ≤ 0.25 in MV-4-11, ≤ 0.75 in OCI-AML-3, and ≤ 0.70 in MOLM-13), including in MK-8776-resistant OCI-AML-3 cells (
+Fig. 1A
+and
+Suppl Fig. S1B
+). Synergism between MK-8776 and vorinostat was also observed in HL-60 cells (
+Suppl Fig. S1C
+), a promyelocytic leukemia line which, like U937 cells, lacks p53 expression because of major deletions in the p53 gene(
+16
+) and does not express FLT-ITD(
+14
+). In separate studies, sequential administration of MK-8776 for 24 hr before or after HDACIs yielded analogous results in U937 cells, while prior HDACI exposure was more effective in p53-wt OCI-AML-3 cells, but in no case superior to simultaneous administration (data not shown). In all lines, MK-8776/HDACI co-administration sharply increased caspase-3 (not shown) and -9 cleavage and PARP degradation (
+Fig. 1C
+and
+Suppl Fig. S1D
+). While MK-8776 alone minimally reduced colony formation, it substantially enhanced HDACI inhibitory effects in U937 (
+Fig. 1D
+and
+Suppl Fig. S1E
+) and other cell lines (data not shown).
+HDACIs enhance Chk1 inhibition by MK-8776 through down-regulation of Chk1
+Effects of MK-8776 ± HDACIs on Chk1 and its downstream signaling cascade were then examined. As reported(
+8
+,
+11
+), MK-8776 diminished Chk1 autophosphorylation (Ser296,
+Fig. 2A
+and
+Suppl Fig. 2A
+) and downstream Cdc25C phosphorylation (Ser216,
+Suppl Fig. S2B
+). Interestingly, MK-8776 also modestly reduced Chk1 total protein levels, particularly in p53-deficient cells (e.g., U937 and MV4-11). The pan-HDACIs SBHA or vorinostat, which strikingly increased acetylation of both histone H3 and α-tubulin (
+Suppl Fig. S1F
+)
+due to class I and II HDAC inhibition respectively, down-regulated Chk1 particularly in p53-wt leukemia cells (e.g., OCI-AML-3 and MOLM-13), a phenomenon consistent with recent reports(
+24
+). Notably, these events were clearly greater with combined MK-8776/HDACI administration (
+Fig. 2A
+and
+Suppl Fig. S2A
+). As shown in
+Fig. 2B
+(upper panel) and
+Suppl Fig. S2C
+, qPCR analysis demonstrated that HDACI +/- MK-8776 also modestly but clearly reduced Chk1 mRNA levels. Moreover, as Chk1 is a known ubiquitination-proteasome system substrate(
+25
+), addition of the proteasome inhibitor MG-132 clearly reversed Chk1 protein down-regulation and autophosphorylation (Ser296) in MK-8776/HDACI-treated cells (
+Fig. 2B
+lower panel and
+Suppl Fig. S2D
+)
+. In contrast, the pan-caspase inhibitor Boc-D-fmk failed to prevent Chk1 down-regulation by MK-8776/vorinostat (see
+Fig. 4B
+), suggesting a caspase-independent event. Moreover, Cdc2/Cdk1 and Cdk2 represent two major Chk1 targets in cell cycle regulation(
+5
+). Whereas MK-8776 or HDACIs alone exhibited little effect, MK-8776/HDACI co-administration markedly reduced inhibitory Tyr14/Thr15 phosphorylations of Cdk2, and to a much more limited extent, of cdc2/Cdk1 in all lines, associated with Cdc25A accumulation and diminished Cdc25C Ser216 phosphorylation (
+Suppl Fig. S2A
+).
+Open in a separate window
+Figure 2
+HDACIs enhance Chk1 inhibition by MK-8776, while genetic disruption of Chk1 increases S phase population and sensitizes cells to HDACIs
+(A) Cells were exposed to MK-8776 +/- 1.5μM vorinostat for 24 h, after which total and autophosphorylated (Ser296) Chk1 were monitored. (B) OCI-AML-3 cells were incubated with 500 nM MK-8776 +/- 1.5 μM vorinostat for 16 h, after which Chk1 mRNA levels were determined by qPCR (upper panel). OCI-AML-3 cells were incubated with 500 nM MK-8776 + 1.5 μM vorinostat in the presence or absence of 300 nM MG-132 for 16 h, after which total Chk1 levels were monitored by immunoblotting analysis (lower panels). (C) U937 cells were stably transfected with GFP-Chk1
+wt
+or GFP-Chk1
+KD
+(inset), and then exposed to 500nM MK-8776 +/- 1.5μM vorinostat for 24 h, after which 7AAD
++
+cells was determined in the GFP-positive population (right panel; ns, P = 0.5374; **, P = 0.0019; ***, P = 0.0003), and cells cycle analyzed (left panel). (D) Chk1 was knocked down by shRNA (shChk1, two clones designated F8 and D2; shNC, a scrambled sequence negative control) in U937 cells. Expression of Chk1 and Cdt1 was monitored after 16 h-exposure to 1.5μM vorinostat. Alternatively, cell cycle analysis was performed.
+Open in a separate window
+Figure 4
+MK-8776/HDACIs down-regulate Cdt1 and induce DNA damage, in association with disruption of the CtIP/BRCA1 pathway that mediates DNA repair via HR
+(A) Cells were treated with MK-8776 +/- 1.5μM vorinostat for 16h and subjected to immunoblotting for Cdt1. (B) U937 cells were treated with 500nM MK-8776 + 1.5μM vorinostat for 16 h in the presence or absence of 20μM Boc-D-fmk; shChk1 or shNC U937 cells were exposed to 1.5μM vorinostat for 16 h. After drug treatment, immunoblotting analysis was performed to monitor expression of the indicated proteins. (C) Cells were treated as described in Fig 4A, after which immunoblotting was performed to monitor DSB (γH2A.X expression and Chk2 Thr68 phosphorylation) and expression and/or phosphorylation of the DNA repair proteins CtIP and BRCA1.
+Genetic disruption of Chk1 function induces S phase arrest and sensitizes cells to HDACIs
+To validate the functional role of Chk1 in MK-8776 and HDACI lethality, U937 cells were transfected with wild type Chk1 (Chk1
+wt
+) or a kinase-dead Chk1 mutant (Chk1
+KD
+, D130A) (
+Fig. 2C
+, inset). Whereas Chk1
+KD
+did not modify MK-8776 activity, it significantly increased HDACI and MK-8776/HDACI lethality (
+Fig. 2C
+right panel, Chk1
+wt
+vs Chk1
+wt
+, 36.5% vs 23.2% or 65.3% vs 49.4% for vorinostat alone or in combination with MK-8776, P = 0.0019 and 0.0003 respectively, and
+Suppl Fig. S3A
+). Chk1
+KD
+induced S phase arrest (
+Fig. 2C
+, left panel, and
+Suppl Fig. S3B
+), analogous to MK-8776 effects in Chk1
+wt
+control. Interestingly, whereas HDACIs induced G
+2
+/M arrest in both Chk1
+WT
+and Chk1
+KD
+cells, HDACI treatment induced a further increase in the S-phase population only in Chk1
+KD
+cells (P = 0.0373 vs untreated control), accompanied by a clear increase in the sub-diploid fraction (
+Fig. 2C
+, left panel and
+Suppl Fig. S3B
+). Moreover, U937 cells transfected with a construct encoding a Chk1 shRNA displayed a marked reduction in Chk1 protein
+(
+Fig. 2D
+; upper panel), and exhibited, albeit to a lesser extent, increased sensitivity to HDACIs (
+Fig. 2D
+lower panel and
+Suppl Fig. S3C
+).
+MK-8776/HDACI co-administration disrupts the intra-S phase checkpoint and DNA replication
+Cell cycle analysis performed in cells exposed to MK-8776 +/- HDACIs prior to pronounced apoptosis revealed that MK-8776 induced S phase arrest in U937 (P = 0.002 vs untreated control), AML-3 (P = 0.0143), MOLM-13 cells (P = 0.019,
+Fig. 3A
+and
+Suppl Fig. S3D
+) and MV4-11 cells (data not shown), accompanied by increased EdU incorporation (
+Fig. 3B
+and
+Suppl Fig. S4A
+), reflecting DNA synthesis(
+26
+), probably due to increased DNA replication initiation/elongation after Chk1 inhibition(
+7
+). Notably, HDACI co-administration sharply decreased the S-phase population in all lines (vs MK-8776 alone, P = 0.0007, 0.0163, and 0.0025 for U937, OCI-AML-3, and MOLM-13, respectively), accompanied by an increased sub-diploid fraction (
+Fig. 3A
+and
+Suppl Fig. S3D
+). Moreover, HDACI also substantially diminished the EdU
++
+population in MK-8776-treated cells (
+Fig. 3B
+and
+Suppl Fig. S4A
+). Notably, MK-8776/HDACIs markedly down-regulated Cdt1 (
+Fig. 4A
+and
+Suppl Fig. S3E
+), a protein essential for replication (origin) licensing (
+27
+). Of note, this event occurred independent of caspase activation (
+Fig. 4B
+, upper panel). Furthermore, Chk1 knockdown by shRNA mimicked MK-8776 in attenuating HDACI-induced expression of Cdt1 (
+Fig. 4C
+, lower panel and
+Suppl Fig. S3F
+). Together, these results argue that HDACI/ MK-8776 co-administration interferes with the intra-S phase checkpoint and DNA replication in leukemia cells.
+Open in a separate window
+Figure 3
+MK-8776/HDACIs abrogate intra-S-phase checkpoint and DNA replication
+Cells were treated with MK-8776 +/- 1.5μM vorinostat for 16 h. (A) Cell cycle analysis. (B) EdU Incorporation (values indicate the percentage of EdU
++
+cells.
+Chk1 inhibition in combination with HDACIs promotes DNA damage in association with down-regulation of multiple proteins involved in DSB repair via HR
+MK-8776 modestly increased γH2A.X expression (
+Fig. 4D
+and
+Suppl Fig. S4B
+), a biomarker of double-stranded break (DSB)(
+28
+), as reported before for other Chk1 inhibitors(
+7
+). Notably, HDACI co-administration strikingly promoted MK-8776-mediated γH2A.X expression (
+Fig. 4D
+and
+Suppl Fig. S4B
+). MK-8776 also markedly induced Chk2 Thr68 phosphorylation, a specific DDR marker in response to DSBs(
+28
+), an event enhanced by HDACIs (
+Fig. 4D
+and
+Suppl Fig. S4B
+). Moreover, combined treatment markedly diminished CtIP expression (
+Fig. 4D
+and
+Suppl Fig. S4C
+), a key protein responsible for resection of DSB ends to generate single-stranded DNA (ssDNA)(
+29
+) and essential for DSB repair via HR during S-phase DNA replication(
+30
+), via a caspase-independent mechanism (
+Fig. 4B
+). It also substantially diminished Ser1423 and Ser1524 phosphorylation of BRCA1(
+31
+) (
+Fig. 4D
+and
+Suppl Fig. S4C
+), a CtIP binding partner(
+32
+), also implicated in HR-mediated DSB repair(
+32
+). Consistently, Chk1 knock-down down-regulated CtIP and prevented BRCA1 phosphorylation (Ser1423), accompanied by increased γH2A.X expression and Chk2 phosphorylation (Thr68), following HDACI exposure (
+Fig. 4C
+and
+Suppl Fig. S4D
+).
+p53 knock-down increases p53-wt leukemia cell susceptibility to MK-8776 alone or in combination with HDACIs
+As p53-wt cells are generally more resistant than p53-deficient cells to Chk1 inhibitor-based regimens(
+12
+,
+23
+), the effects of MK-8776 +/- HDACIs on p53 expression and phosphorylation were examined. In p53-wt cells (OCI-AML-3 and MOLM-13), MK-8776 inhibited p53 phosphorylation at Ser20 (
+Fig. 5A
+and
+Suppl Fig. S5A
+)
+, a Chk1/Chk2-phosphorylating site which enhances its tetramerization, stability and activity(
+33
+). Interestingly, MK-8776 markedly increased Ser15 phosphorylation, a site phosphorylated by ATM/ATR which stabilizes p53 by impairing MDM2 binding and preventing proteasomal degradation(
+34
+). In accord, MK-8776 clearly increased p53 protein levels. Notably, HDACI co-administration largely abolished p53 phosphorylation on both serine 15 and 20 residues, accompanied substantially diminished p53 protein levels. To assess the functional significance of p53 in these responses, p53 was knocked down by shRNA in OCI-AML-3 cells, resulting in down-regulation of p53 and its downstream target p21
+CIP1
+(
+Fig. 5B
+). As reported(
+35
+), p53 knockdown cells were significantly less sensitive to the MDM2 antagonist Nutlin-3a (
+Suppl Fig. 5B
+). In sharp contrast, p53 knock-down significantly increased susceptibility to DNA damage (
+Fig. 5C
+and
+Suppl Fig. S5C
+) and apoptosis (
+Fig. 5D
+and
+Suppl Fig. S5D
+) induced by either MK-8776 or HDACIs individually (P < 0.05 or P < 0.01), and particularly in combination (P < 0.001).
+Open in a separate window
+Figure 5
+HDACIs diminish p53 Ser15 phosphorylation induced by MK-8776, and p53 shRNA sensitizes in p53-wt leukemia cells to this regimen
+(A) p53
+wt
+leukemia cells were treated with MK-8776 +/- 1.5μM vorinostat for 16h, after which total and phosphorylation (Ser 15 and Ser20) of p53 were monitored by immunoblotting. (B) p53 was knocked down by shRNA (shChk1, two clones designated E4 and D3; shNC, a scrambled negative control) in AML-3 cells. (C-D) Cells were then treated with 300nM MK-8776 +/- 1.5μM vorinostat, after which DNA damage (γH2A.X, C) or apoptosis (Annexin
++
+, D) were monitored by immunoblotting and flow-cytometry respectively.
+The MK-8776/HDACI regimen is active against primary leukemia cells, including primitive CD34
++
+/CD38
+-
+/CD123
++
+cells, but is relatively less-toxic to normal CD34
++
+hematopoietic cells
+Parallel studies were performed in primary AML blasts and CD34
++
+/CD38
+-
+/CD123
++
+sub-populations enriched for primitive leukemia-initiating cells(
+36
+). Whereas treatment with either MK-8776 or HDACIs minimally induced apoptosis, determined by Annexin V-FITC/PI staining, combined exposure substantially increased cell death (e.g., up to 60%) in bone marrow mononuclear cells from patients with AML (
+Fig. 6A
+and
+Suppl Fig. S6A
+). Similar results were obtained in cells double-stained with 7-AAD and DiOC
+6
+(reflecting mitochondrial membrane potential, data not shown). In contrast, the identical regimen exerted minimal toxicity toward normal cord blood CD34
++
+cells (
+Fig. 6B
+and
+Suppl Fig. S6B
+). Similar results were obtained from five additional AML bone marrow (
+Suppl Fig. S6C
+) and two cord blood samples (
+Suppl Fig. S6D
+). Interestingly, non-toxic concentrations of MK-8776 (500-700nM) substantially increased HDACI lethality (annexin V
++
+) in primitive CD34
++
+/CD38
+-
+/CD123
++
+leukemia progenitor populations (
+Fig. 6C
+and
+Suppl Fig. S5E
+). Potentiation of HDACI lethality by MK-8776 was observed in five (of nine) AML bone marrow samples from which the CD34
++
+/CD38
+-
+/CD123
++
+population was identifiable (i.e., > 0.1% of total mononuclear cells;
+Suppl Fig. S6E
+). Together, these findings raise the possibility that leukemic cells, including primitive progenitors, may be particularly susceptible to this strategy.
+Open in a separate window
+Figure 6
+The MK-8776/HDACI regimen is active against primary AML cells including CD34
++
+/CD38
+-
+/CD123
++
+primitive population, while spare normal CD34
++
+cells
+(A-B) Primary blasts from two patients with AML (A) and normal CB CD34
++
+cells (B) were exposed (24h) to 500nM MK-8776 +/- 1.5μM vorinostat, after which Annexin-V/PI uptake was monitored by flow-cytometry. (C) Bone marrow mononuclear cells from a primary AML sample were stained with CD132-APC, CD38-PerCP, CD34-PE, and Annexin-V-FITC, after which the percentage of apoptosis was determined in the primitive CD34
++
+/CD38
+-
+/CD123
++
+population.Discussion
+DNA damage checkpoints protect both normal and transformed cells from genotoxic stress, including that triggered by cytotoxic agents(
+5
+). While HDACIs kill transformed cells (
+1
+), attention has recently focused on HDACI-induced DNA damage in neoplastic cells, including leukemia cells(
+2
+). Consequently, interference with Chk1 function might also potentiate HDACI lethality in leukemia. The observation that leukemia cells expressing a kinase-dead Chk1 or Chk1 shRNA were significantly more sensitive to HDACIs supports this concept. However, as Chk1 inhibitors induce DNA damage by themselves(
+2
+), it is equally plausible that such damage, and resulting lethality, may be amplified by HDACIs. Indeed, the present results demonstrate highly synergistic interactions between the Chk1 inhibitor MK-8776 and HDCAIs (e.g., vorinostat) in multiple leukemia cell lines harboring various genetic abnormalities (e.g., wt or deficient/deleted p53, and FLT3-ITD), as well as in primary AML blasts, including primitive leukemic progenitors.
+Chk1 has well-established roles in the DDR, particularly in cell cycle checkpoints(
+5
+). To date, the primary rationale for Chk1 inhibitor development has been to enhance genotoxic agent efficacy by abrogating checkpoints(
+5
+). Recently, new insights into additional Chk1 roles have emerged, including involvement in origin firing(
+37
+), DNA replication, initiation and elongation, and regulation of the intra-S(
+7
+) or DNA replication checkpoint in response to replication stress(
+5
+). The present results argue that disruption of Chk1 function in S phase or during DNA replication contributes to MK-8776/HDACI synergism. Specifically, MK-8776 inhibited autophosphorylation (Ser296), which governs basal Chk1 activity(
+11
+), accompanied by S-phase accumulation of cells (i.e., intra-S phase checkpoint(
+5
+)), suggesting that basal Chk1 activity is required for S phase progression(
+38
+). Interestingly, MK-8776 also down-regulated Chk1, an event potentiated by HDACI co-administration. Of note, HDACIs down-regulate Chk1 via both transcriptional and post-translational mechanisms(
+3
+,
+24
+). The observation that the proteasome inhibitor MG-132 partially reversed Chk1 down-regulation and attenuation of Ser296 autophosphorylation by MK-8776/HDACIs implicates an ubiquitin-proteasome-mediated event(
+25
+). Moreover, qPCR analysis revealed that Chk1 down-regulation by MK-8776/HDACIs might also involve transcriptional repression. In any case, potentiation of MK-8776-mediated Chk1 inhibition or down-regulation by HDACIs was accompanied by a striking increase in apoptosis.
+It is also possible that MK-8776 arrests cells in S phase, and that cells actively undergoing DNA replication may be particularly susceptible to HDACIs that impair DNA repair(
+3
+) and induce DNA damage(
+2
+). This concept is supported by that the finding that MK-8776 enhanced increased EdU incorporation, whereas HDACI co-administration sharply increased apoptosis accompanied by a diminished EdU-positive population. Vorinostat has been shown to produce profound alterations that induce replication-mediated DNA damage(
+10
+). Significantly, MK-8776/HDACIs markedly down-regulated Cdt1, a replication factor protein essential for origin licensing(
+39
+), a prerequisite for DNA replication initiation(
+27
+). It is therefore likely that anti-leukemic synergism between MK-8776 and HDACIs stems from multiple interactive mechanisms involving disruption of the intra-S phase checkpoint induced by replication stress.
+HDACIs also disrupt the DNA repair machinery by inhibiting or down-regulating multiple DNA repair proteins(
+3
+). In addition to Chk1(
+24
+), HDACIs also down-regulate various DNA repair proteins, particularly those involved in homologous recombination (HR) which preferentially repairs DNA in the S phase(
+40
+), including BRCA1 pathway components(
+3
+). Here, MK-8776/HDACI co-administration diminished BRCA1 Ser1524 and Ser1423 phosphorylation, which are critical for proper DSB responses(
+31
+). Moreover, MK-8776 or genetic Chk1 disruption also markedly down-regulated CtIP, a DNA end resection protein essential for processing DSBs into ssDNA to trigger DSB repair via HR(
+29
+,
+30
+). Interestingly, CtIP acts, through BRCA1 binding(
+32
+), as a molecular switch directing cells toward HR as they enter S phase(
+32
+). Notably, these events were markedly enhanced by co-administration of HDACIs which induce CtIP acetylation and degradation(
+41
+). Studies designed to assess the functional significance of perturbations in BRCA1, CtIP, and Cdt1 in the lethality of this regimen are underway.
+Although p53 loss or mutation is relatively uncommon in AML, it strongly influences AML outcome and represents an important adverse prognostic factor(
+42
+). Moreover, whereas p53 loss or mutation occurs infrequently at presentation (e.g., 5 - 10%), primarily in patients with 17p monosomy, it is considerably more common in therapy-related AML (t-AML; e.g., 40% to 50%)(
+43
+). Interestingly, MK-8776 induced marked p53 phosphorylation at Ser15 which stabilizes p53 by preventing MDM2 binging and proteasomal degradation(
+34
+). Consistent with this observation, MK-8776 clearly increased p53 protein levels. However, HDACIs blocked p53 Ser15 phosphorylation and upregulation triggered by MK-8776. Interestingly, cell decisions to induce p53-mediated DNA repair or apoptosis may depend upon the degree of DNA damage(
+44
+). The notion of a cytoprotective role for p53 in this setting is supported by the evidence that p53 shRNA knock down rendered cells significantly more sensitive to the MK-8776/HDACI regimen. These findings raise the possibility that while a Chk1/HDAC inhibitor strategy might be particularly effective in relapsed/refractory AML characterized by p53 defects, it may also be active in early stage AML harboring wt p53.
+Patients with FLT3-ITD AML have more aggressive disease and a significantly worse prognosis than those with wild-type disease(
+45
+). Notably, MV-4-11 and MOLM-13 cell lines carrying FLT3-ITD(
+14
+) were more sensitive to MK-8776 than cell lines bearing wt FLT3 (U937 and OCI-AML-3(
+14
+)). In this context, recent evidence indicates that FLT3-ITD-expressing AML cells exhibit aberrant repair of DSBs via the two major DSB repair pathways e.g., HR and nonhomologous end-joining (NHEJ)(
+45
+). Collectively, these considerations raise the possibility that the current regimen may be effective against FLT3-ITD leukemia cells, a clinically high-risk AML group. However, given the relatively small number of cell lines examined here, definitive conclusions regarding the contribution of FLT3 mutations and p53 status to sensitivity to this strategy cannot presently be drawn.
+Transformed cells commonly exhibit defective checkpoint responses(
+5
+). HDACI selectivity has been attributed to impaired DNA repair in transformed cells(
+4
+). The present observations suggest that the MK-8776/HDACI regimen may preferentially target leukemic versus normal hematopoietic cells. Recently, it has been suggested that Chk1 inhibitors may diminish HDACI selectivity in certain normal cell lines e.g., HFS(
+46
+), an SV40-transformed human foreskin fibroblast line(
+47
+). However, MK-8776/HDACI toxicity toward normal cord blood CD34
++
+cells was minimal. In contrast, primary leukemic blasts and CD34
++
+/CD38
+-
+/CD123
++
+sub-populations enriched for primitive leukemia-initiating cells responsible for AML patients relapse(
+36
+), were highly susceptible to the MK-8776/HDACI regimen. In this context, cytokinetically quiescent G
+0
+myeloma cells are highly sensitive to Chk1 inhibitor-based regimens(
+21
+). Moreover, the Chk1 inhibitor AZD7762, in combination with genotoxic agents (e.g., ara-C), was shown to target CD34
++
+/CD38
+-
+/CD123
++
+leukemic progenitors, but not normal hematopoietic progenitors(
+36
+). The capacity of Chk1 inhibitors to target cancer stem cells (CSC) has also been described in non-small-cell lung(
+48
+) and pancreatic cancer cells(
+49
+). Interestingly, the Chk1-mediated DDR may be more robust in CSC than non-stem cells(
+49
+). In contrast, normal stem cells (e.g., embryonic stem cells, ESCs) fail to activate Chk1 in response to DNA replication stress(
+50
+). Thus, the present results provide evidence that regimens combining Chk1 with HDACIs may target AML CSC.
+In summary, the present findings argue that while Chk1 inhibition potentiates the anti-leukemic activity of HDACIs, it equally possible that multiple events mediated by HDACIs amplify the lethal consequences of Chk1 disruption (
+Fig. 7
+). Significantly, while leukemia cells with deficient-p53 display greater susceptibility to MK-8776 compared to those with wt- p53, MK-8776/HDACI synergism occurs in both p53 wt and deficient cells. Finally, leukemia cells harboring the FLT3-ITD mutation (including those with wt-p53) are sensitive to this regimen, as are primary AML samples, particularly the CD34
++
+/CD38
+-
+/CD123
++
+population enriched for primitive leukemia-initiating cells, but not normal CD34
++
+hematopoietic cells. Thus, while current approaches employing Chk1 inhibitors focus on enhancing conventional genotoxic agent activity, a strategy employing Chk1 inhibitors (e.g., MK-8776) to improve the anti-leukemic activity of HDACIs warrants further attention in AML. Accordingly, studies designed to test this concept are underway.
+Open in a separate window
+Figure 7
+A mechanistic model of interactions between MK-8776 and HDACIs in leukemia cells bearing wild type or deficient p53
+MK-8776 inhibits Chk1 autophosphorylation (Ser296) that is required for maintaining basal Chk1 activity during DNA replication in S phase. This action is enhanced by HDACIs, leading to disruption of the intra-S phase checkpoint in response to DNA replication stress. MK-8776/HDACI interactions may also be related to down-regulation/inactivation of multiple proteins involved in origin licensing of DNA replication initiation (e.g., Cdt1) and S-phase-related HR repair of DSB (i.e., the CtIP/BRCA1 pathway), resulting in pronounced DNA damage and apoptosis. Numbers (1 – 6) indicate potential sites targeted by HDACIs in interactions with MK-8776.Supplementary Material
+1
+Click here to view.
+(8.2M, doc)Acknowledgements
+The authors thank Dr. Yolanda Sanchez (Dartmouth) for providing the wild type (Chk1
+wt
+) and kinase-dead Chk1 (Chk1
+KD
+, D130A) in the pEYFP-N1 vector.
+Grant Support
+This work was supported by the National Institutes of Health (Grants CA093738, P50 CA130805, Y. Dai, S. Shuang, L. Zhou, H. Lin, and S. Grant; CA100866, P50 CA142509, Y. Dai, S. Shuang, X-Y Pei, and S. Grant), and the Leukemia and Lymphoma Society of America (Grant 6238-12, Y. Dai and S. Grant). Plasmid preparation was carried out at the VCU Macromolecule Core Facility, supported, in part, with the funding from NIH-NCI Cancer Center Core Grant 5P30CA016059-29.Footnotes
+Authors’ Contributions
+Conception and design: Y. Dai, S. Grant
+Development of methodology: Y. Dai, S. Chen
+Acquisition of data (provided animals, acquired and managed patients, provided facilities, etc.): Y. Dai, S. Chen, M. Kmieciak, L. Zhou, H. Lin, X-Y. Pei
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis): Y. Dai, S. Chen, M. Kmieciak
+Writing, review, and/or revision of the manuscript: Y. Dai, S. Grant
+Administrative, technical, or material support (i.e., reporting or organizing data, constructing databases): Y. Dai, S. Chen, M. Kmieciak
+Study supervision: Y. Dai, S. Grant
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.

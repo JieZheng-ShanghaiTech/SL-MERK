@@ -1,0 +1,1176 @@
+Abstract
+CARP-1/CCAR1, a perinuclear phosphoprotein, is a regulator of cell growth and apoptosis signaling. Although CARP-1 is a regulator of chemotherapy-dependent apoptosis, it is also a part of the NF-κB proteome and a co-activator of steroid/thyroid nuclear receptors as well as β-catenin signaling. Our yeast two-hybrid screen revealed CARP-1 binding with the anaphase-promoting complex/cyclosome E3 ubiquitin ligase component APC-2 protein. CARP-1 also binds with anaphase-promoting complex/cyclosome co-activators Cdc20 and Cdh1. Following mapping of the minimal epitopes involved in CARP-1 binding with APC-2, a fluorescence polarization assay was established that indicated a dissociation constant (
+K
+d
+) of 480 n
+m
+for CARP-1/APC-2 binding. Fluorescence polarization assay-based high throughput screening of a chemical library yielded several small molecule antagonists of CARP-1/APC-2 binding, termed CARP-1 functional mimetics. CFM-4 (1(2-chlorobenzyl)-5′-phenyl-3′
+H
+-spiro[indoline-3,2′-[1,3,4]thiadiazol]-2-one), a lead compound, binds with and stimulates CARP-1 expression. CFM-4 prevents CARP-1 binding with APC-2, causes G
+2
+M cell cycle arrest, and induces apoptosis with an IC
+50
+range of 10–15 μ
+m
+. Apoptosis signaling by CFM-4 involves activation of caspase-8 and -9 and caspase-mediated ubiquitin-proteasome pathway-independent loss of cyclin B1 and Cdc20 proteins. Depletion of CARP-1, however, interferes with CFM-4-dependent cell growth inhibition, activation of caspases, and apoptosis. Because CFM-4 also suppresses growth of drug-resistant human breast cancer cells without affecting the growth of human breast epithelial MCF-10A cells, elevating CARP-1 by CFM-4 and consequent apoptosis could in principle be exploited to further elucidate, and perhaps effectively target, often deregulated cell cycle pathways in pathological conditions, including cancer.
+Keywords:
+Apoptosis, Cell Cycle, E3 Ubiquitin Ligase, Protein-Protein Interactions, Signal Transduction, APC-2, CARP-1/CCAR1, Cdc20, Cyclin B1, Small Molecule InhibitorsIntroduction
+A range of intracellular as well as extracellular signals are known to target the cell division cycle and apoptosis pathways and function to maintain homeostasis in normal tissues. The pathways regulating the cell division cycle as well as apoptosis are frequently altered in inflammation-associated disorders such as cancers (
+1
+–
+3
+). The regulators of mitotic control and/or apoptosis signaling therefore remain important targets for current and future intervention strategies for such disorders (
+4
+). Although a host of biochemical components that function to regulate apoptosis as well as cell division cycle pathways are known, it is likely that many crucial regulators that link these pathways have yet to be discovered. In this context, identification of additional perhaps novel regulators of cell division and/or apoptosis signaling, and knowledge of their mechanism(s) of action, would be instrumental in further defining pathways for control of cell growth in normal and pathological conditions.
+We had previously reported identification and characterization of a peri-nuclear protein termed CARP-1/CCAR1 that functions to regulate chemotherapy-dependent apoptosis signaling (
+5
+). Depletion of CARP-1 confers resistance to apoptosis induced by chemotherapeutic agents such as adriamycin or Iressa (
+6
+,
+7
+). CARP-1 functions in a biphasic manner as a co-activator of signaling by steroid receptors and tumor suppressor p53 (
+7
+). CARP-1 expression enhances CDKI p21
+WAF1CIP1
+levels and apoptosis while attenuating expression of mediators of cell cycle and/or proliferation such as c-Myc, cyclin B, topoisomerase IIα, p21Rac1, and mitogen-activated protein kinase (MAPK)/extracellular signal regulating kinase (ERK) 1/2 regulator MEK2 (
+6
+). CARP-1 is a serine and tyrosine phosphoprotein that possesses multiple nonoverlapping apoptosis-inducing subdomains (
+6
+,
+8
+). CARP-1 Tyr
+192
+regulates apoptosis signaling by EGF receptors, whereas CARP-1-dependent apoptosis involves activation of stress-activated protein kinase (SAPK) p38α/β, and caspase-9 (
+6
+).
+The APC/C
+4
+is a multiprotein complex with E3 ubiquitin ligase activity (
+9
+,
+10
+). APC/C is inhibited by activation of the mitotic spindle checkpoint during the cell division cycle. APC/C-targeting/activating molecules such as securin, polo-like kinase, aurora kinase, and SnoN are potential oncogenes (
+11
+) that often promote dysregulation of APC/C. APC/C is composed of at least 12 subunits, which contain tetratricopeptide repeat proteins (APC-3 and -5–8), a cullin homology protein (APC-2), and a ring-H2 finger domain protein (APC-11). APC/C requires two WD40 repeat-containing co-activators, Cdc20 and Cdh1, to recruit and select various substrates at different stages of the cell cycle. APC/C
+Cdc20
+promotes metaphase/anaphase transition by ubiquitinating and degrading securin, an inhibitor of separase that participates in degradation of the chromatin cohesion complex. APC/C
+Cdc20
+also ubiquitinates cyclin-B1 and accelerates its loss during late mitosis to promote exit from M phase. In addition, APC/C targets various cell cycle regulatory molecules, including spindle-associated proteins, DNA replication inhibitors, and mitotic kinases. Alterations in APC/C complex proteins have been noted in breast and colon cancer cells as well as primary colon cancers (
+12
+), whereas endogenous as well as synthetic inhibitors targeting APC/C-activating oncogenes or the APC/C complex have also been recently described (
+13
+–
+15
+).
+Because CARP-1 is regulator of cell growth and survival signaling by EGF receptors, nuclear hormone receptors, and β-catenin (
+6
+,
+7
+,
+16
+), we speculated that it was involved in additional cell growth regulatory pathways. A yeast two-hybrid (Y2H) screen revealed CARP-1 interaction with the APC-2 protein. High throughput screening of a chemical library yielded multiple small molecule inhibitors (SMIs) of CARP-1/APC-2 binding, termed CFMs. CFMs inhibit cell growth in part by inducing cell cycle arrest and apoptosis. These molecules or their derivatives have potential for therapeutic application because they do not inhibit growth of the immortalized, nontumorigenic human breast epithelial MCF-10A cells but suppress growth of drug-resistant breast cancer cells.EXPERIMENTAL PROCEDURES
+Materials
+DMEM, Ham's F-12 medium, and fetal bovine serum (FBS) were purchased from Invitrogen. Various CFMs (see
+Fig. 4
+below) were obtained from ChemDiv, San Diego, and Ryan Scientific, Inc., Mt. Pleasant, SC. Clinical grade ADR was from the Harper Hospital Pharmacy, Wayne State University, Detroit, MI. The pan-caspase inhibitor Z-VAD-fmk and caspase-9 inhibitor Z-LEHD-fmk were purchased from EMD Chemicals. Caspase-8 inhibitor Z-IETD-fmk and caspase-6 inhibitor Ac-VEID-CHO were obtained from R&D Systems and Enzo Life Sciences, Inc., respectively. The anti-estrogen TAM, anti-actin, anti-FLAG tag, and anti-Cdh1 antibodies were purchased from Sigma, and Velcade (Bortezomib) was obtained from Millennium (Cambridge, MA). The ON-Target plus siRNAs for knockdown of CARP-1, APC-2, Cdc20, Cdh1, and Bim proteins and the DharmaFECT transfection reagent for siRNA transfections were purchased from Dharmacon Inc., Thermo Fisher Scientific, Lafayette, CO. The affinity-purified, anti-CARP-1 (α1 and α2) polyclonal antibodies have been described previously (
+5
+). Antibodies for GST tag, Myc tag, cyclin B1, p38, phospho-p38, caspase-3, -8, and -9, Bim, Bax, Bid, Bad, phospho-Bad, Bcl2, PARP1, p21
+WAF1/CIP1
+, and Bcl
+XL
+were purchased from Cell Signaling (Beverley, MA). Anti-Cdc20, anti-APC-2, and anti-STAT3 antibodies were obtained from Santa Cruz Biotechnology (Santa Cruz, CA), and anti-HA tag antibodies were from Covance (Berkeley, CA). The antibodies for UbcH10 and p27
+Kip1
+were purchased from Millipore Corp. (Billerica, MA) and Novocastra Laboratories (Buffalo Grove, IL), respectively. The ProBond resin for affinity purification of His-TAT-HA-tagged peptide was purchased from Invitrogen, and the GST-tagged proteins were purified using glutathione-Sepharose beads (Amersham Biosciences). The plasmid pCMV-SPORT6 having human NEMO (IKKγ) or Deleted in breast cancer (Dbc)-1 (
+17
+) cDNAs were purchased from ATCC (Manassas, VA), and the plasmids having human APC-2, Cdc20, or Cdh1 cDNAs (
+18
+) were obtained from Addgene (Cambridge, MA).
+Open in a separate window
+FIGURE 4.
+Identification of small molecular antagonists of CARP-1 binding with APC-2.
+A
+, FPA for CARP-1-APC-2 binding. Increasing concentrations of fluorescein-tagged A-epitope peptide (CARP-1(951–980)) were incubated with the indicated quantities of the GST-APC-2(685–754) proteins in assay buffer containing 0.01% Triton X-100. GST-NEMO(221–317) was included as a negative control.
+mP
+, millipolarization units.
+B
+, chemical structures of inhibitors of CARP-1 binding with APC-2 identified from HTS.
+CFM
+, CARP-1 functional mimetic;
+CFM-1
+, (
+Z
+)-5(5-bromo-7-methyl-2-oxoindolin-3-ylidene)-2-thioxothiazolidin-4-one;
+CFM-4
+, 1(2-chlorobenzyl)-5′-phenyl-3′
+H
+-spiro[indoline-3,2′-[1,3,4]thiadiazol]-2-one;
+CFM-5
+, 5-bromo-1-phenethyl-5′-phenyl-3′
+H
+-spiro[indoline-3,2′-[1,3,4]thiadiazol]-2-one.
+C
+, CFM-4 and CFM-5 bind CARP-1.
+Left panel
+, His-TAT-HA-tagged A-epitope peptide was affinity-purified and immobilized on beads, incubated with or without CFMs, and then allowed to bind with affinity-purified GST-APC-2(685–754) as under “Experimental Procedures.”
+Right panel
+, GST-APC-2(685–754) peptide was affinity-purified and immobilized on beads, incubated with or without CFMs, and then allowed to bind with affinity-purified His-TAT-HA-tagged A-epitope peptide. The complexes were analyzed by SDS-PAGE followed by WB with the noted antibodies. Presence of the respective fusion proteins is indicated by an
+arrowhead
+on the
+left side
+of each blot.
+D
+, wild-type MDA-MB-468 HBC cells were either untreated or treated with CFM-4 for noted dose and time. Protein complexes were subjected to IP using the indicated antibodies. Immunoprecipitates or the respective cell lysates were analyzed by WB with noted antibodies as in
+Fig. 1
+. Presence of endogenous CARP-1 and APC-2 proteins is indicated by an
+arrowhead
+on the
+left side
+of each blot, although the approximate location of various molecular mass markers is indicated on the
+right side
+of each blot.
+kDa
+, kilodalton.
+Cloning of cDNAs and Affinity Purification of Various Fusion Proteins
+The plasmid for expression of myc-His-tagged wild-type CARP-1 has been described before (
+5
+). Expression plasmids encoding myc-His-tagged CARP-1 mutant proteins, including the plasmid for expression of siRNA-resistant CARP-1, CARP-1 having in-frame deletion of amino acids 896–978 (that harbor APC-2-interacting epitope), as well as GST-tagged APC-2 (wild-type and mutant) proteins were generated by standard molecular biological and cloning manipulations and are summarized in
+Fig. 2
+,
+A
+and
+B
+, and
+supplemental Fig. 5
+A
+, below
+. The ORFs of Cdc20, Cdh1, p38SAPK, Dbc-1, and p53 were PCR-amplified using specific sense and antisense oligonucleotides for the respective cDNA and the respective expression plasmids or the reverse-transcribed cDNAs as templates. The PCR-amplified cDNAs of Cdc20, Cdh1, p38, and p53 were then separately subcloned downstream of the GST to obtain recombinant plasmids for expression of respective GST-tagged proteins. The PCR-amplified ORF of Dbc-1, however, was subcloned downstream of the FLAG epitope to obtain a recombinant pcDNA3 plasmid for expression of FLAG-tagged Dbc-1. In addition, recombinant pGEX/4T plasmids were generated by inserting the PCR-amplified cDNA fragment of APC-2 and NEMO proteins for expression of GST-APC-2(685–754) and GST-NEMO(221–317) proteins. The APC-2-binding epitope of CARP-1 (A-epitope) from position 951 to 980 was synthesized as 90-mer each of the sense and antisense oligonucleotides. An additional pair of 90-mer each of the sense and antisense oligonucleotides was synthesized for expression of the scrambled version of the A-epitope (N-GKHKLASVRLRTELTKYNVSKQLCLRLVLF-C). The oligonucleotide pair encoding the wild-type or scrambled A-epitope was annealed and ligated downstream of the HA epitope in the pTAT/HA vector (
+8
+) for expression of wild-type or scrambled His-TAT-HA-CARP-1(951–980) peptides, respectively. All the recombinant plasmids were sequenced to confirm the accuracy and validity of various inserts/epitopes. The recombinant pGEX and pTAT/HA plasmids were utilized to transform
+Escherichia coli
+(BL-21) DE3 strain, and independent
+E. coli
+isolates expressing respective proteins were obtained. Expression of GST or His-TAT-HA-tagged proteins was induced by isopropyl 1-thio-β-
+d
+-galactopyranoside followed by affinity purification of recombinant proteins from bacterial lysates utilizing glutathione-Sepharose or Probond resin, respectively, using manufacturer suggested protocols essentially as described (
+8
+).
+Open in a separate window
+FIGURE 2.
+CARP-1(896–978) interacts with APC-2.
+Schematic of CARP-1 and its mutants (
+A
+) and APC-2 and its mutants (
+B
+) that interact with APC-2 and CARP-1 proteins, respectively.
+Numbers above
+or at the
+side of each bar
+indicate amino acids of the respective proteins. +, positive interaction; −, no interaction.
+CS
+, Cold shock domain;
+SAP
+, DNA binding domain;
+CH
+, Cullin homology domain; α1 and α2, epitopes for CARP-1 α1 and α2 polyclonal antibodies, respectively.
+C
+, COS-7 cells were transfected with plasmid encoding GST-tagged APC-2 alone or in combination with vector plasmid pcDNA3, plasmid for myc-His-tagged CARP-1 (WT), or plasmid for myc-His-tagged CARP-1(Δ896–978) protein as indicated. Protein complexes were subjected to IP using anti-STAT3 or anti-Myc tag antibodies. Immunoprecipitates or protein lysates were subjected to WB with anti-GST antibodies as in
+Fig. 1
+. The membrane with immunoprecipitates was then probed with anti-Myc tag antibodies (
+lower blot
+). Presence of the transfected proteins in
+C
+is indicated by an
+arrowhead
+on the
+left side
+of each blot, whereas the approximate location of various molecular weight markers is indicated on the
+right side
+of the respective blot.
+Cell Lines and Cell Culture
+Routine maintenance and culture of MDA-MB-231, MDA-MB-468 (both lack estrogen receptor and have mutant p53), SKBR-3, BT474, MDA-MB-453 (all lack estrogen receptor, have mutant p53, and overexpress Her-2), MCF-7, and T47D (both have estrogen receptor and wild-type p53) HBC cells (
+19
+) were carried out as described previously (
+5
+,
+6
+,
+8
+). Human prostate cancer PC3 and LnCAP cells, human colon cancer HCT-116, human pancreatic cancer PANC-1 and BxPC-3, Burkett lymphoma Raji, diffuse large B-cell lymphoma WSU-DLCL2, follicular lymphoma WSU-FSCCL cells, human cervical cancer HeLa, human mesothelial Met5a, human pleural malignant mesothelioma (MPM), murine MPM AB12 cells (
+20
+), and the green monkey kidney COS-7 cells were cultured following previously described protocols (
+20
+,
+21
+). The immortalized nontumorigenic human breast epithelial MCF-10A cells have been described before (
+22
+). MCF-7 cells that are resistant to adriamycin (MCF-7/Adr/Vp) or tamoxifen (MCF-7-TAM) were obtained from Drs. Douglas Ross (University of Maryland, Baltimore) and Kaladhar Reddy (Pathology Department, Wayne State University, Detroit, MI), respectively, and were maintained essentially following methods described before (
+23
+,
+24
+). The stable sublines were generated by transfecting the MDA-MB-468 cells with the vector or the recombinant pcDNA3/CARP-1 (Δ896–978)-myc-His plasmid followed by selection in the presence of 800 μg/ml neomycin using described methods (
+5
+). In addition, the wild-type MDA-MB-468 HBC cells were cultured in the absence of serum for 72 h or in the presence of 1 μ
+m
+nocodazole for 24 h to enrich cells in G
+0
+/G
+1
+or G
+2
+M phases, respectively (
+25
+). The cell lysates were then subjected to IP and WB analyses as below.
+Immunoprecipitation, Western Blot, MTT, and Apoptosis Assays
+Logarithmically growing cells were either untreated or treated with different agents for various time periods. The cells were lysed to prepare protein extracts. IP was carried out by incubating ∼1 mg of the protein lysate with appropriate antibodies, and the immunoprecipitates or cell lysates were then electrophoresed on 9–12% SDS-polyacrylamide gels and transferred to nitrocellulose membranes. The membranes were subsequently probed with various antibodies to determine the expression/presence of the corresponding proteins. The cell growth inhibition was assessed by using MTT assay. Briefly, MTT was dissolved in sterile 1× PBS to prepare a stock solution of 5 mg/ml. The solution was subsequently filtered through a 0.2-μm filter and stored at 2–8 °C. 4–5 × 10
+2
+cells were seeded in 96-well plates. After 72 h of incubation with or without different agents, MTT stock solution was added to each culture being assayed to equal one-tenth the original culture volume, followed by incubation of cells at 37 °C for another 2 h. At the end of the incubation, the media were removed, and cells were treated with 100–200 μl of DMSO to solubilize the dye. The assessment of the live cells was derived by measuring the absorbance of the converted dye at a wavelength of 570 nm.
+Apoptosis levels were determined by utilizing either DNA fragmentation-based ELISA or TUNEL kits (Roche Diagnostics) essentially following the manufacturer's suggested protocols. For apoptosis ELISA, 4–5 × 10
+2
+cells were seeded in 96-well plates and treated essentially as indicated in the MTT assay above. Untreated as well as treated cells were lysed, and levels of mono- and oligonucleosomal DNA fragments in the lysates were determined by measuring the absorbance of each sample at 405 nm and 495 nm wavelengths. The “enrichment factor” indicating the level of apoptosis was calculated essentially by the manufacturer's suggested formula. For TUNEL labeling, the cells were treated with various agents, fixed, labeled, and photographed essentially as detailed in immuno-localization protocols described before (
+8
+). Activation of caspases was measured by utilizing the ApoAlert Caspase profiling plate (Clontech) essentially following the manufacturer's suggested guidelines. Cell lysates derived from vehicle DMSO (Control) or CFM-4-treated cells were added to the wells that had immobilized fluorogenic caspase-3, caspase-8, caspase-9, or caspase-2 substrates. The fluorescence released from the activated caspase-dependent cleavage of respective substrate was detected by a plate reader at the excitation and emission wavelengths of 380 and 460 nm, respectively.
+Fluorescence Polarization Assay
+Although several formats for FPA are indicated in the published literature (
+26
+), the assays using 96-well plates or higher density plates are often and routinely employed. Optimization of FPA for HTS involves several steps, including the determination of
+K
+d
+values, optimization of the buffer conditions, incubation and measurement times, and determination of the DMSO tolerance of the assay. Our goal was to minimize variation and to aim for adequate signal/background without adversely affecting the sensitivity of the assay. The fluorescence polarization values in millipolarization were measured to determine changes in the millipolarization (mp) (Δmp = mp of bound peptide − mp of free peptide) and the
+K
+d
+and
+K
+i
+constants of the binding. A 30-mer CARP-1 peptide that contained APC-2-binding epitope (A-epitope peptide) was commercially synthesized (US Biologicals), labeled with fluorescein at the N terminus, and purified to >98% purity. Increasing concentrations of A-epitope peptide were incubated with the indicated quantities of the affinity-purified GST-APC-2(685–754) protein in assay buffer (25 m
+m
+Tris, pH 7.4, 50 m
+m
+NaCl, 5 m
+m
+MgCl
+2
+, 0.1 m
+m
+EDTA) containing 0.01% Triton X-100. Affinity-purified GST-NEMO(221–317) was included as a negative control. The Δmp was measured by excitation at 485 nm and emission at 538 nm.
+In Vitro Binding of SMIs
+The CFM-4 and -5 were separately dissolved in DMSO to obtain a stock of 20–50 m
+m
+. For
+in vitro
+binding experiments, we utilized affinity-purified GST-APC-2(685–754) and His-TAT-HA-tagged A-epitope (WT) peptide. Ten nanograms of the His-TAT-HA-tagged A-epitope (WT) peptide was first allowed to bind with nickel-nitrilotriacetic acid beads (ProBond, Invitrogen), and then the reaction was incubated with DMSO (control), 100 μ
+m
+CFM-4, or 100 μ
+m
+CFM-5 for 30 min at RT. The reactions were then subjected to three washes with the binding buffer (50 m
+m
+NaH
+2
+PO
+4
+, pH 7.5, plus 500 m
+m
+NaCl), followed by incubation with 10 ng of affinity-purified GST-APC-2(685–754) peptide for 30 min at RT. The reactions were washed again three times with PBS, eluted, and analyzed on an SDS-PAGE followed by WB with anti-GST antibodies. A similar strategy was performed by immobilizing the GST-APC-2(685–754) peptide with GST beads. The beads were washed, incubated with DMSO or the CFMs, and the reactions washed again. The reactions were then allowed to incubate with affinity-purified A-epitope peptide, and the complexes were analyzed by SDS-PAGE followed by WB with anti-HA tagged antibodies.
+Yeast Two-hybrid Screen
+The pNLex(NLS) expression vector (
+27
+), which contains the yeast
+HIS3
+gene and the coding sequences for the LexA DNA-binding domain, was used to express the CARP-1 bait. The full-length CARP-1 coding sequence was excised from the plasmid encoding myc-His-tagged wild-type CARP-1 (
+5
+) and fused in-frame C-terminal to the LexA DNA-binding domain of pNLex(NLS). The correct orientation and in-frame fusion were confirmed by restriction mapping and DNA sequencing. This bait plasmid containing the LexA-CARP-1 fusion was introduced into yeast strain RFY206, which has the
+lacZ
+reporter plasmid pSH18–34 (
+28
+). The expression of the fusion protein was confirmed by WB analysis using both anti-CARP-1 (α2) and anti-LexA antibodies (data not shown). The human primary prostate tumor cDNA library cloned into pJG4-5 plasmid was obtained from OriGene Technology Inc. (Rockville, MD) and maintained in yeast strain RFY231, which contains
+LEU2
+reporter gene (
+29
+). Y2H screening was performed as described previously (
+28
+,
+29
+). To check whether CARP-1 bait alone would activate the reporter gene
+LEU2
+, the bait strain was mated with the RFY231 strain containing the empty pJG4-5 vector (
+27
+). The number of total diploid-forming units and Leu
++
+colonies were counted. The ratio of Leu
++
+colonies to total diploid-forming units was 2 × 10
+−7
+, indicating that the background was sufficiently low and that the CARP-1 bait was appropriate for the Y2H assay. The yeast strain expressing CARP-1 bait was mated with the prey strain containing the library, and 3 × 10
+6
+diploid-forming units were plated onto −leucine plates. One hundred ninety two Leu
++
+colonies were picked and screened for their galactose-dependent reporter activity. Among the 53 galactose-dependent Leu
++
+colonies, restriction digestion of the cDNA inserts revealed nine unique clones. The prey plasmids were isolated from these nine clones, and the specificity of the interactions was tested by re-introducing the plasmids into fresh yeast and conducting two-hybrid assays with the original bait (LexA-CARP-1) and a number of unrelated proteins (
+supplemental Fig. 1
+). Three clones were nonspecific and were not sequenced. The cDNAs in the six specific clones were sequenced. Four of the clones encoded HSP5A (
+{"type":"entrez-protein","attrs":{"text":"NP_005338","term_id":"16507237","term_text":"NP_005338"}}
+NP_005338
+), one encoded filamin-C (
+{"type":"entrez-protein","attrs":{"text":"NP_001120959","term_id":"188595687","term_text":"NP_001120959"}}
+NP_001120959
+), and one encoded APC-2 (
+{"type":"entrez-protein","attrs":{"text":"NP_037498","term_id":"7019327","term_text":"NP_037498"}}
+NP_037498
+).RESULTS
+CARP-1 Binds with APC/C Subunits APC-2, Cdc20, and Cdh1
+Our previous studies have demonstrated that CARP-1 is phosphorylated by diverse signaling pathways (
+6
+,
+19
+,
+30
+) and that CARP-1 inhibited cell growth in part by its interactions with 14-3-3/Stratifin (
+5
+) and the PDZ-domain TAZ proteins (
+30
+). Findings from other laboratories indicate that CARP-1 regulates ADR-dependent signaling by functioning as a co-activator of tumor suppressor p53 (
+7
+), whereas several proteomic-based studies indicate CARP-1 is a target of phosphorylation by the ataxia telangiectasia mutated kinase as well as EGF signaling (
+31
+,
+32
+). Additional high throughput proteomic analyses revealed CARP-1 binds with the SAPK/MAPK p38 (
+33
+) and the NEMO/IKKγ (
+34
+). However, the nature and context of CARP-1 phosphorylation by ATM or EGF signaling, as well as its interactions with NEMO and p38 proteins, and their roles in CARP-1-dependent signaling have not been clarified. In light of the foregoing, we wished to elucidate CARP-1-dependent signaling mechanisms that regulate cell growth, and we speculated that CARP-1 functions in part by interacting with other key cellular proteins to transduce cell growth and apoptosis signaling. As a first step to test this possibility, we conducted a Y2H screen and identified proteins that interact with CARP-1 (“Experimental Procedures”). One protein that bound specifically to CARP-1 in confirmation Y2H assays was the APC/C E3 ubiquitin ligase component and cullin-homology domain protein APC-2 (
+supplemental Fig. 1
+).
+Additional co-IP-WB experiments were performed to confirm CARP-1 binding with APC-2 protein. Cell lysates from HBC and HeLa cells were subjected to IP using anti-CARP-1 (α2) antibodies followed by WB with anti-APC-2 antibodies. Alternatively, the cell lysates were also subjected to IP using anti-APC-2 antibodies followed by WB with anti-CARP-1 (α2) antibodies. As expected, APC-2 and CARP-1 proteins were present in the immunoprecipitates derived from anti-CARP-1 and anti-APC-2 antibodies, respectively, demonstrating binding of the cellular CARP-1 and APC-2 proteins (
+Fig. 1
+). Next, we mapped the epitopes of CARP-1 and APC-2 proteins that are involved in their mutual binding. For this purpose, we transfected COS-7 cells with various plasmids encoding myc-His-tagged CARP-1 (wild-type and mutant proteins) in combination with plasmids encoding either GST-tagged wild-type or mutant APC-2 proteins (constructs summarized in
+Fig. 2
+,
+A
+and
+B
+). Cell lysates were subjected to IP with anti-Myc or anti-GST antibodies followed by their WB analyses with anti-GST or anti-Myc antibodies, respectively. These experiments revealed that CARP-1(896–986) peptide harbored the epitope that interacts with APC-2 protein (
+Fig. 2
+A
+), and an in-frame deletion of the 896–978-amino acid region of CARP-1 resulted in loss of its interaction with APC-2 (
+Fig. 2
+C
+). CARP-1, however, interacted with the C-terminal 685–754-amino acid region of APC-2 that is located within the cullin-homology domain of APC-2 (
+Fig. 2
+B
+). The APC-2-interacting epitope of CARP-1, termed A-epitope, was further mapped to amino acids 951–980 of the CARP-1 protein (
+supplemental Figs. 2
+A
+and 3
+A
+).
+Open in a separate window
+FIGURE 1.
+CARP-1 interacts with APC-2.
+Protein complexes from ∼1 mg of total proteins derived from wild-type HBC or HeLa cells were subjected to IP using anti-CARP-1 (
+A
+) or anti-APC-2 (
+B
+) antibodies. Immunoprecipitates or 50 μg of the respective cell lysate/lane were analyzed by WB with noted antibodies as described under “Experimental Procedures.” Presence of the respective endogenous proteins in
+A
+and
+B
+is indicated by an
+arrowhead
+on the
+left side
+of each blot. Approximate location of various molecular mass markers is indicated on the
+right side
+of each blot in
+A
+and
+B. kDa
+, kilodalton.
+The APC/C is composed of a dozen different subunits and has essential functions within and outside of the cell cycle (
+35
+). Association of co-activators Cdc20 and Cdh1 determines APC/C activity during specific cell cycle phases and is tightly regulated. The activity of the APC/C
+Cdc20
+peaks during the late prophase to anaphase to allow smooth transition from spindle assembly checkpoint. The APC/C
+Cdh1
+, however, has peak activity during late anaphase to late G
+1
+phase of cell cycle. Given that CARP-1 binds with APC-2, we first clarified whether CARP-1 associated with APC/C throughout the cell cycle. Co-IP-WB experiments were performed by utilizing protein lysates derived from wild-type HBC cells. In addition, the COS-7 cells were transfected with plasmid encoding myc-His-tagged CARP-1 in combination with the GST vector plasmid or the plasmids encoding GST-tagged Cdc20 or Cdh1 proteins. The COS-7 cell lysates were utilized for a separate co-IP-WB experiment. CARP-1 interacted with both Cdc20 and Cdh1 proteins (
+Fig. 3
+A
+). We further clarified the molecular basis of CARP-1 binding with Cdc20 and Cdh1 proteins by conducting another co-IP-WB experiment. Cdh1 interacted with the CARP-1 as well as the CARP-1 mutant that lacked the APC-2-interacting epitope (
+Fig. 3
+B
+). In fact, Cdh1 interacted with the 603–898-amino acid region of CARP-1 (
+Fig. 3
+C
+). Mutagenesis studies revealed that like Cdh1, Cdc20 also interacted with an epitope within CARP-1(761–898) protein (data not shown). Data in
+Fig. 3
+,
+A–C
+suggest that CARP-1, in addition to being a member of the APC/C, could function as a scaffold to facilitate assembly/activity of APC/C during various phases of the cell cycle.
+Open in a separate window
+FIGURE 3.
+CARP-1 interacts with Cdc20 and Cdh1.
+A
+, protein complexes derived from wild-type MDA-MB-468 HBC cells (
+upper blot
+) or COS-7 cells transfected with noted plasmids (
+lower blot
+) were subjected to IP using indicated antibodies, followed by WB of the immunoprecipitates or respective cell lysates as in
+Fig. 1
+. Cdh1-interacting epitope of CARP-1 is distinct from its APC-2-binding epitope. COS-7 cells were transfected with plasmids encoding myc-His-tagged wild-type (
+WT
+) CARP-1, its Δ896–978 mutant (
+B
+), or different CARP-1 mutants (
+C
+) in combination with plasmid expressing GST-Cdh1. The cell lysates were subjected to IP-WB using indicated antibodies as in
+Fig. 1
+.
+D
+, apoptosis signaling regulates CARP-1 binding with APC-2. Protein complexes derived from wild-type untreated (
+NT
+), serum-starved (
+ST
+), or nocodazole-treated (
+NZ
+) HBC cells were subjected to IP using indicated antibodies. Immunoprecipitates or cell lysates were analyzed by WB with noted antibodies essentially as in
+Fig 1
+. Presence of the endogenous or the transfected proteins in
+A–D
+are indicated by an
+arrowhead
+on the
+left side
+of each blot except that the GST-tagged Cdc20 and Cdh1 are indicated in the respective lane of the
+lower blot
+of
+A
+. Approximate location of various molecular mass markers is indicated on the
+right side
+of each blot.
+kDa
+, kilodalton.
+Whether cell cycle or apoptosis signaling also regulate CARP-1 binding with APC-2 was investigated next by growing the HBC cells in the absence of serum or in the presence of nocodazole as described under “Experimental Procedures.” A number of studies have previously demonstrated synchronization of eukaryotic cells in G
+0
+/G
+1
+or G
+2
+M phases of cell cycle following their culture in the absence of serum or in the presence of nocodazole, respectively. Nocodazole treatment has also been found to stimulate apoptosis in HBC cells (
+25
+). Indeed, although serum deprivation or nocodazole treatment caused elevated CARP-1, only the presence of nocodazole resulted in stimulation of apoptosis as evidenced by elevated levels of cleaved poly(ADP-ribose) polymerase and caspase-3 proteins (
+Fig. 3
+D
+). Analysis of the immune complexes derived by utilizing CARP-1 antibodies revealed moderately elevated levels of APC-2 in lysates of the nocodazole-treated cells when compared with APC-2 levels in lysates from normally growing controls or their serum-starved counterparts (
+Fig. 3
+D
+). Thus, although both the serum starvation or nocodazole treatment likely induced signaling for cell cycle arrest/synchronization, the increased binding of CARP-1 with APC-2 appears to be due to the apoptosis signaling that is concomitantly induced in HBC cells by the presence of nocodazole. A similar increase in CARP-1 binding with APC-2 was also noted in ADR-treated HBC cells (
+supplemental Fig. 2
+). The data in
+Figs. 1
+​
+1
+–
+3
+collectively suggest that CARP-1 is a key member of the APC/C proteome, and apoptosis signaling regulates CARP-1 binding with APC-2.
+SMIs of CARP-1-APC-2 Binding Suppress Cell Growth
+The APC/C is a crucial regulator of various cell cycle checkpoints, and because these checkpoints are often compromised in many cancers, APC/C remains a hotly pursued target for therapeutic intervention (
+13
+–
+15
+). The SMIs that could target (bind) CARP-1 or APC-2 and, in turn, regulate CARP-1-dependent signaling could potentially lead to the discovery and development of novel inhibitors of growth of cells that often have dysregulated APC/C. As a first step to this goal, we generated plasmids for expression of His-TAT-HA-tagged A-epitope and GST-tagged APC-2(685–754) proteins, and affinity-purified the fusion proteins from the bacterial lysates as detailed under “Experimental Procedures” (
+8
+,
+39
+). The cell-free interaction of the A-epitope with APC-2(685–754) was then determined by co-incubating the affinity-purified proteins in a binding buffer. Equal amount of GST-tagged APC-2(685–754) protein was incubated with buffer, A-epitope (WT), or A-epitope (Scrambled) peptides followed by IP of the complexes with anti-GST antibodies. The complexes were then subjected to SDS-PAGE analysis followed by WB of the membrane with anti-HA tag antibodies. This experiment revealed binding of the wild-type A-epitope peptide, but not its scrambled version, with the affinity-purified GST-APC-2(685–754) protein (data not shown) and thus suggested a direct binding of CARP-1 with APC-2.
+We next determined the kinetics of CARP-1 binding with APC-2 and investigated whether this binding could be exploited to identify SMIs of CARP-1-APC-2 interaction. For this purpose, we developed an FPA utilizing the affinity-purified GST-APC-2(685–754) protein and the fluorescein-tagged A-epitope peptide as detailed under “Experimental Procedures.” The GST-APC-2(685–754) binding with the A-epitope peptide had a
+K
+d
+of 485 n
+m
+(
+Fig. 4
+A
+) and 104 n
+m
+(data not shown) in the presence and absence, respectively, of detergent. The affinity-purified GST-tagged NEMO(221–317) protein that does not bind with A-epitope peptide did not show any shift in polarization signal (ΔmP). The signal to background ratio of ∼6 underscored robustness of this assay. Because the quality (precision) and suitability of the FPA for HTS are usually defined by the Z′ factor (
+26
+,
+40
+), we utilized the positive and negative control mean signals (μc+ and μc−, respectively) and their standard deviations (σc+ and σc−) to calculate the Z′ factor using the equation Z′ = 1 − (3(σc+ + σc−)/(μc+ − μc−)). The Z′ factor was 0.83 and 0.65 for the 10 and 1 n
+m
+GST-APC-2(685–754), respectively. The Z′ factor, however, was 0.87 when the detergent was absent from the binding reaction (data not shown). Thus, a
+K
+d
+of 480 n
+m
+and a consistent Z′ factor of >0.5 suggested suitability of this assay for single compound HTS.
+Several active compounds were identified (
+Fig. 4
+B
+) by comparing compound-treated mP values with those of the uninhibited control wells from a chemical library of ∼10,000 compounds. Dose-response assays were then conducted on the active compounds to measure
+K
+i
+values to select a lead compound for further analyses. Because these compounds could potentially bind with CARP-1 and modulate cell growth, we named them as CFMs. The compounds CFM-1, -4, and -5 displayed an IC
+50
+of 4.1, 0.75, and 1.4 μ
+m
+, respectively, in the FPA. We next clarified whether CFMs bind with CARP-1 or APC-2. For this purpose, we conducted
+in vitro
+binding experiments as detailed under “Experimental Procedures.” As expected, the GST-APC-2(685–754) bound with the immobilized A-epitope peptide in the reaction that was preincubated with DMSO, whereas preincubation of the immobilized A-epitope peptide with CFM-4 or CFM-5 abrogated its binding with GST-APC-2(685–754) peptide (
+Fig. 4
+C, left panel
+). Preincubation of immobilized GST-APC-2(685–754) protein with CFM-4 or CFM-5, however, failed to abolish its binding with the A-epitope peptide (
+Fig. 4
+C
+,
+right panel
+). These data suggest that CFM-4 and -5 bind with CARP-1 A-epitope and consequently prevent its binding with APC-2
+in vitro
+. Whether CFMs also interfere with endogenous interactions of CARP-1 with APC-2 was clarified next. HBC cells were either untreated or treated with escalating doses of CFM-4 for 12 h. IP of cell lysates with anti-CARP-1 (α2) antibodies followed by WB with anti-APC-2 antibodies revealed binding of CARP-1 with APC-2 declined in the presence of CFM-4 in a dose-dependent manner, whereas the levels of CARP-1 but not APC-2 increased in the presence of CFM-4 (
+Fig. 4
+D
+). Taken together, the data in
+Fig. 4
+suggest that CFM-4 and -5 bind with CARP-1, and CFM-4 interferes with endogenous interaction between CARP-1 and APC-2.
+To test whether CFMs that interfere with CARP-1 binding with APC-2 modulate cell growth, we utilized HBC, colon, prostate, pancreatic cancer, MPM, and lymphoma cells, as well as the immortalized mammary epithelial MCF-10A cells. The cells were either treated with vehicle (DMSO) or various doses of the respective compound for a period of 72 h, and the percentage of live/viable cells for each compound was determined relative to the untreated controls as described under “Experimental Procedures.” As shown in
+Fig. 5
+and
+supplemental Fig. 4
+, each of the SMI suppressed cell growth in a dose-dependent manner with the exception of CFM-1, which elicited activity toward select MPM cells. Of note is the fact that although all the compounds inhibited HBC cell growth, the cells displayed relative increased sensitivity to the 20 μ
+m
+dose of CFM-4 when compared with the similar dose of CFM-1 and -5. This is also consistent with the IC
+50
+values of these SMIs in the
+in vitro
+binding FPAs where CFM-4 displayed an IC
+50
+of 0.75 μ
+m
+when compared with the IC
+50
+values of 4.1 and 1.4 μ
+m
+for CFM-1 and CFM-5, respectively. Although CFM-4 inhibited proliferation of a variety of cells, including the drug (ADR or TAM)-resistant MCF-7 HBC cells, it failed to attenuate growth of the immortalized, nontumorigenic MCF-10A cells (
+Fig. 5
+) suggesting that CFM-4 is selective in targeting cancer cells and therefore may have a suitable safety profile with low toxicities.
+Open in a separate window
+FIGURE 5.
+CFMs inhibit HBC, prostate, and colon cancer cell growth but do not inhibit growth of immortalized, nontumorigenic mammary epithelial MCF-10A cells.
+Cell viability was determined by MTT assay following treatments of cells with vehicle/DMSO (Control) or indicated time and doses of various CFMs. The
+columns
+in each
+histogram
+indicate percent of live/viable cells relative to their vehicle/DMSO-treated controls and represent the means of three to four independent experiments;
+bars
+, S.E.
+The extent CARP-1 binding with APC-2 regulates cell growth was investigated next by utilizing stable HBC sublines expressing vector or the CARP-1(Δ896–978)-myc-His (
+Fig. 6
+A
+). Cells were either treated with vehicle (DMSO), ADR, or CFM-4, followed by determination of viable/live cells as above. Both the agents suppressed growth of the wild-type as well as the vector- and CARP-1(Δ896–978)-expressing cells (
+Fig. 6
+B
+). Interestingly, cells expressing CARP-1(Δ896–978) were generally more sensitive to inhibition by both the agents. In particular, treatment with a 10 μ
+m
+dose of CFM-4 resulted in a greater loss of viability of CARP-1(Δ896–978) cells when compared with their similarly treated wild-type or vector-transfected counterparts. Because APC/C E3 ubiquitin ligase is well known to target UPP-dependent degradation of many cellular proteins, it is possible that CARP-1 is also a substrate of APC/C. If so, the absence of the APC-2-binding epitope in CARP-1(Δ896–978) would likely prevent its degradation by APC/C and sensitize the cells to the inhibitory effects of agents that function in part by elevating cellular CARP-1 levels. Although it remains to be clarified whether CARP-1 is a substrate for APC/C E3 ubiquitin ligase, blockage of UPP has previously been found to elicit CARP-1 increase (
+20
+), and apoptosis-promoting signaling by ADR (
+5
+,
+7
+) and CFM-4 (see below) nonetheless enhance CARP-1 levels.
+Open in a separate window
+FIGURE 6.
+CARP-1 binding with APC-2 regulates cell growth by ADR or CFM-4.
+A
+, cell lysates (50 μg/lane) from each of the stable neomycin-resistant sublines expressing vector or CARP-1(Δ896–978) were analyzed by WB for levels of CARP-1(Δ896–978) and actin proteins by utilizing anti-Myc tag and actin antibodies, respectively, as described under “Experimental Procedures.”
+B
+, cells were treated with indicated doses of CFM-4 or ADR for noted times and were subjected to MTT assay for determination of their viabilities as in
+Fig. 5
+.
+Columns
+represent means of three independent experiments;
+bars
+, S.E.
+CARP-1 Is Required for CFM-4-dependent Cell Growth Inhibition
+Because APC/C E3 ubiquitin ligase functions to regulate cell cycle and CFM-4 binds with CARP-1 to inhibit its binding with APC-2, we determined whether our SMIs interfere with cell cycle progression. Flow cytometric analysis revealed that like ADR, CFM-1 or CFM-4 treatments induced G
+2
+M cell cycle arrest (
+Fig. 7
+A
+). The APC/C
+Cdc20
+E3 ubiquitin ligase regulates turnover of the mitotic cyclin B1 and Cdc20 during the G
+2
+M phase and exit to mitosis, whereas APC/C
+Cdh1
+E3 ligase targets Cdc20 as well as SKP1-cullin 1-F-box ligase to accomplish exit from mitosis and transition to G
+0
+/G
+1
+phases. Attenuation of SKP1-cullin 1-F-box ligase by APC/C
+Cdh1
+, in turn, results in elevated levels of CDKIs p21
+WAF1/CIP1
+and p27
+KIP1
+(
+35
+,
+41
+). ADR, however, has been shown to promote mitotic crisis in part by stimulating caspase-6-dependent premature degradation of cyclin B1 (
+42
+). Because CARP-1 has previously been found to negatively regulate cyclin B1 levels (
+5
+) and Velcade (UPP inhibitor) exposure caused elevated CARP-1 (
+20
+), it was possible that prevention of CARP-1 binding with APC-2 in the presence of CFM-4 resulted in elevated CARP-1. To investigate this possibility, we tested whether CFM-4 binding with CARP-1 modulated CARP-1 levels. We found that exposure to CFM-4 stimulated CARP-1 levels but depleted cyclin B1 at 6 h and subsequent treatment periods (
+Fig. 7
+B
+). Although levels of APC-2 were unaffected, CFM-4 exposure resulted in a modest decline in Cdh1 levels (
+Fig. 7
+B
+), whereas Cdc20 levels were significantly reduced (see below). Interestingly, CFM-4 treatments modulated CDKI levels in a biphasic manner. Levels of both the p21
+WAF1/CIP1
+and p27
+KIP1
+CDKIs were elevated when cells were exposed to CFM-4 for the 0.5–1.0-h time periods (
+Fig. 7
+B
+). This may likely be due to the initial response of the cells to stress following exposure to CFM-4. The presence of CFM-4 for periods of 3 h and beyond resulted in decline in the levels of both the CDKIs. This loss of CDKI expression could be due to attenuation of APC/C
+Cdh1
+activity following modest reduction in the Cdh1 levels as well as inability of CARP-1 to bind with APC-2 over prolonged periods of treatments with CFM-4. CFM-4 treatments also resulted in elevated CARP-1 and reduced cyclin B1 levels in drug (ADR or TAM)-resistant MCF-7 cells (
+Fig. 7
+C
+) but not in MCF-10A cells (
+Fig. 7
+D
+). Thus, coincident increase of CARP-1 and loss of cyclin B1 in the presence of CFM-4 is consistent with previously noted negative regulation of cyclin B1 following elevated expression of CARP-1.
+Open in a separate window
+FIGURE 7.
+CFM-4 suppresses cell growth in part by elevating CARP-1 and diminishing cyclin B1 levels.
+A
+, cells were treated with the indicated agents for noted times, labeled with propidium iodide, and sorted by flow cytometry. Histogram and
+table below
+represent cell numbers in various phases of cell cycle.
+B–D
+, indicated
+c
+ells were either untreated (−), treated with DMSO (
+Contro
+l (DMSO)), or treated (+) with noted time and dose of respective agents. The cell lysates (50 μg/lane) in
+B–D
+were analyzed by WB for levels of CARP-1, cyclin B1, Cdh1, APC-2, CDKIs p21
+WAF1/CIP1
+, p27
+KIP1
+and actin proteins as under “Experimental Procedures.”
+The
+in vitro
+binding experiments in
+Fig. 4
+indicate that CFM-4 and -5 bind with CARP-1 and, together with the data demonstrating cell growth suppression by these SMIs, suggest that CARP-1 is required for their growth inhibitory function. To test this possibility, we first transfected HBC cells with CARP-1 or the scrambled siRNAs, and the cells were then either untreated or treated with CFM-4 followed by determination of levels of CARP-1 and cyclin B1 proteins. As shown in
+Fig. 8
+A
+, CARP-1 siRNA caused significantly reduced levels of CARP-1 when compared with CARP-1 levels in the cells transfected with scrambled siRNAs. CFM-4 treatment stimulated CARP-1 expression in cells transfected with scrambled siRNAs but not in the CARP-1 siRNA-transfected cells. CFM-4 treatments also resulted in a greater reduction of cyclin B1 levels in the cells transfected with the scrambled siRNAs, whereas knockdown of CARP-1 interfered with loss of cyclin B1 after treatment with CFM-4. These data suggest that the CFM-4 presence results in increased CARP-1 and diminished cyclin B1 proteins, whereas loss of CARP-1 interferes with CFM-4-dependent expression of cyclin B1. In a separate experiment, cells were similarly transfected with CARP-1 siRNA or scrambled siRNAs followed by treatment with CFM-4 essentially as in
+Fig. 8
+A
+, and cell viabilities were determined by the MTT assay. As shown in
+Fig. 8
+B
+, CFM-4 suppressed growth of the cells transfected with scrambled siRNAs, whereas CARP-1 knockdown blocked CFM-4-dependent inhibition of cell growth. The blockage of HBC cells growth in the presence of CFM-4 following knockdown of CARP-1 was reversed in the cells expressing siRNA-resistant variant of CARP-1 (
+supplemental Fig. 5
+). These data suggest that CARP-1 expression is necessary for CFM-4 inhibition of cell growth and that this SMI functions in part by inducing CARP-1 levels while attenuating cyclin B1 expression. CFM-4 also induced cyclin B1 loss in prostate and pancreatic cancer cells (
+supplemental Fig. 6
+) and together with data in
+Fig. 7
+underscore cyclin B1 targeting as an important mechanism of cell growth suppression by this SMI. Because CFM-4 functions in part by modulating APC/C
+Cdh1
+activity as demonstrated by loss of CDKIs in
+Fig. 7
+B
+, we next examined whether depletion of individual APC/C components such as APC-2, Cdc20, or Cdh1 will interfere with CFM-4 effects. Because CFM-4 failed to alter APC-2 levels, we first examined whether siRNA-mediated depletion of APC-2 will interfere with CFM-4 effects. Transfection of HBC cells with APC-2 siRNAs resulted in a 2–3-fold reduction in APC-2 levels over a period of 72–96 h (data not shown). Depletion of APC-2 intriguingly attenuated growth of both the HBC and HeLa cells (data not shown). siRNA-mediated depletion of Cdc20 also attenuated cell growth and was consistent with a previous study that demonstrated blockage of mitotic exit and induction of apoptosis following knockdown of Cdc20 (
+43
+). We therefore chose to target Cdh1 in HBC cells to determine whether and to what extent depletion of Cdh1 will interfere with CFM-4 effects. As shown in
+Fig. 8
+C
+, the presence of Cdh1 siRNA significantly reduced levels of Cdh1 when compared with Cdh1 levels in the cells transfected with scrambled siRNAs. CFM-4 treatment also caused a modest decline in Cdh1 expression in cells transfected with scrambled siRNAs that is consistent with data in
+Fig. 7
+B
+. CFM-4 treatment however stimulated robust cleavage of PARP1 in cells transfected with scrambled siRNAs, whereas knockdown of Cdh1 diminished cleavage of PARP1 in CFM-4-treated cells. In a separate experiment, cells were similarly transfected with Cdh1 or scrambled siRNAs followed by treatment with CFM-4 essentially as in
+Fig. 8
+C
+, and cell viabilities were determined by the MTT assay. As shown in
+Fig. 8
+D
+, CFM-4 suppressed growth of the cells transfected with scrambled siRNAs whereas Cdh1 knockdown blocked CFM-4-dependent inhibition of HBC cell growth.
+Open in a separate window
+FIGURE 8.
+CARP-1 is required for cell growth inhibition by CFM-4, and cyclin B1 loss in the presence of CFM-4 is accomplished independent of UPP.
+Knockdown of CARP-1 or Cdh1 blocks CFM-4 effects. Cells were transfected with 100 n
+m
+each of the scrambled CARP-1 siRNAs (
+A
+and
+B
+) or Cdh1 siRNAs (
+C
+and
+D
+) for 72 h and were then either untreated or treated with CFM-4 for noted time and dose. Cell lysates were subjected to WB as in
+Fig. 7
+B
+(
+A
+and
+C
+) or subjected to MTT assay for determination of their viabilities (
+B
+and
+D
+).
+Columns
+in
+B
+and
+D
+represent means of three independent experiments;
+bars
+, S.E. * and #,
+p
+= <0.01 relative to CFM-4-treated, scrambled siRNA-transfected cells.
+E
+, CFM-4 targets cyclin B1 independent of UPP. The cells were either treated with DMSO (control) or with noted dose and time of indicated agents. Cell lysates were then analyzed by WB as in
+A
+. Presence of various proteins is indicated by an
+arrowhead
+on the
+left side
+of each blot.
+In light of the fact that the UPP is known to target cyclin B1 and Cdc20 during G
+2
+M phase and exit of cells from mitosis (
+44
+–
+46
+), we next examined the extent to which the UPP was involved in CFM-4-dependent loss of cyclin B1 and Cdc20. For this purpose, cells were treated with Velcade, CFM-4, or a combination of both, and the cell lysates were analyzed for expression of CARP-1, cyclin B1, Cdc20, and activated caspase-3. CFM-4 caused a robust increase in CARP-1 levels, whereas treatment with Velcade resulted in a modest increase in CARP-1 levels. Velcade-dependent increase in CARP-1 levels is consistent with our earlier observations in HBC and MPM cells (
+20
+). The presence of Velcade, however, failed to interfere with CFM-4-dependent loss of cyclin B1 or Cdc20 proteins (
+Fig. 8
+E
+). Thus, although CFM-4 functions in part by antagonizing CARP-1 binding with the APC/C, depletion of cyclin B1 and Cdc20 proteins in the presence of this agent is likely independent of the UPP.
+CFM-4 Suppresses Cell Growth in Part by Inducing Apoptosis
+In light of our data in
+Fig. 7
+A
+showing significant accumulation of CFM-4-treated cells in the sub-G
+0
+phase, and the fact that cells undergoing apoptosis often accumulate in the sub-G
+0
+fractions, we next ascertained the extent of apoptosis stimulation by these agents by utilizing an ELISA-based DNA fragmentation assay. The data revealed significantly elevated levels of apoptosis in the cells that were treated with CFM-4 or ADR (
+Fig. 9
+A
+). It is of note that whereas both CFM-1 and CFM-4 suppressed viabilities of HBC cells (
+Fig. 5
+), only treatments with CFM-4 induced apoptosis (
+Fig. 9
+A
+). The intrinsic mitochondrion-mediated and the extrinsic extracellular receptor-activated apoptosis-signaling pathways are transduced by activation of various caspases that promote eventual breakdown of cellular proteins, organelles, and plasma membrane. Caspase-8 is often activated by extrinsic signals, whereas intrinsic apoptosis signals target mitochondria leading to activation of caspase-9. We next determined whether apoptosis stimulation by CFM-4 involved activation of caspase-8 or -9 or both. WB analysis of cell lysates derived from CFM-4-treated cells revealed cleavage of caspase-9 and -8 (
+Fig. 9
+B
+), suggesting that this SMI likely functions by activating both extrinsic and intrinsic apoptosis-signaling pathways. We further profiled activation of caspases in the presence of CFM-4 by utilizing a fluorescence-based quantitative assay as detailed under “Experimental Procedures.” CFM-4 exposure caused activation of caspases-3, -8, -9, and -2 (
+Fig. 9
+C
+). Consistent with the requirement of CARP-1 in CFM-4-dependent cell growth inhibition, we also found that CARP-1 knockdown interfered with CFM-4-dependent activation of caspases, in particular caspases-3, -8, and -9 (
+Fig. 9
+C
+). Pretreatment of cells with Z-IETD-fmk or Z-LEHD-fmk, the pharmacological inhibitors of caspase-8 or caspase-9, respectively, abolished activation of these caspases by CFM-4. The presence of caspase-8 inhibitor also attenuated CFM-4-dependent activation of caspase-9. Blockage of caspase-9, however, did not affect activation of caspase-8 by CFM-4 (
+Fig. 9
+C
+). These data suggest that CFM-4 activates caspase-8 prior to activating caspase-9. Additional WB analysis revealed elevated levels of CARP-1, cleavage of caspase-target poly(ADP-ribose) polymerase, and reduced levels of cyclin B1 and Cdc20 proteins in CFM-4-treated cancer cells (
+supplemental Fig. 6
+).
+Open in a separate window
+FIGURE 9.
+CFM-4 suppresses cell growth in part by inducing apoptosis that involves caspase-dependent targeting of cyclin B1 and Cdc20 proteins.
+A
+, cells were either treated with DMSO (
+control
+) or with indicated agents for noted times, and the cell lysates were subjected to measurement of DNA fragmentation by ELISA.
+Columns
+represent means of three independent experiments;
+bars
+, S.E.
+B
+, cells were either untreated (−) or treated (+) with CFM-4 for noted dose and time. Cell lysates were then analyzed by WB as in
+Fig. 7
+B
+above for levels of pro and activated caspase-9 and -8 and actin proteins that are indicated on the
+left side
+of each blot.
+C
+, cells were either transfected with scrambled siRNA, CARP-1 siRNA as in
+Fig. 8
+A
+, treated with caspase-8 inhibitor, or caspase-9 inhibitor prior to treatments with CFM-4 as indicated. Activities of the noted caspases were profiled as under “Experimental Procedures.”
+Columns
+in
+histogram
+represent fold activities of caspases relative to the corresponding controls and are derived from means of two independent experiments;
+bars
+, S.E.
+D
+, CFM-4 inhibition of cyclin B1 and Cdc20 levels is dependent on caspase activation. Cells were treated with vehicle (DMSO, −), CFM-4 (+), indicated caspase inhibitor, or a combination of both for noted time and dose. Cell lysates were then analyzed by WB as in
+Fig. 7
+B
+. Presence of various proteins is indicated by an
+arrowhead
+on the
+left side
+of the respective blot.
+We next examined the extent that CFM-4 signaling required activities of caspases to regulate levels of cyclin B1 and Cdc20 proteins. Cells were pretreated with a pharmacological pan-caspase inhibitor Z-VAD-fmk or a specific caspase-6 inhibitor Ac-VEID-CHO followed by their exposure to CFM-4. WB analysis of the cell lysates derived from the untreated and treated cells revealed that pretreatment of cells with the pan-caspase or caspase-6 inhibitors blocked CFM-4-dependent loss of cyclin B1 and Cdc20 proteins (
+Fig. 9
+D
+). The levels of E2 ubiquitin ligase UbcH10, however, were not affected in the cells that were treated either with CFM-4 alone or in combination with caspase inhibitors. The presence of Z-VAD-fmk also blocked the ability of CFM-4 to suppress cell growth (
+supplemental Fig. 6
+E
+). These data suggest that CFM-4 inhibits cell growth in part by caspase-dependent targeting of key cell cycle regulatory proteins to promote G
+2
+M arrest. Thus, the data in
+Figs. 8
+and
+​
+and9
+9
+collectively demonstrate that cell growth inhibitory signaling by CFM-4 targets cyclin B1 and Cdc20 proteins in a manner that is independent of the UPP while requiring activation of initiator caspase-8 and -9.
+Our previous studies have indicated involvement of p38 MAPK/SAPK and apoptosis signaling in transducing CARP-1-dependent growth inhibitory effects (
+6
+,
+8
+). Because CFM-4 elevated CARP-1 levels (
+Figs. 7
+,
+B
+and
+C
+, and
+​
+and8,
+8
+,
+A
+and
+E
+), we further investigated the extent to which CFM-4 treatments activated p38. As shown in
+Fig. 10
+A
+, treatment of cells with CFM-4 resulted in activation (phosphorylation) of p38. Although p38 activation occurred as early as 6 h and was sustained through 24 h, the levels of total p38 began to decline by 12 h of CFM-4 treatment possibly because of ensuing apoptotic cell death. We further determined whether and to what extent any of the Bcl2 family of anti- and/or pro-apoptotic proteins were involved in transducing CFM-4-dependent apoptosis signaling. CFM-4 treatments failed to modulate levels of Bcl
+2
+, Bcl
+XL
+, Noxa, and Puma proteins in different cells (data not shown). Levels of the pro-apoptotic protein Bim, however, were altered following exposure of cells to CFM-4 in a time-dependent manner. Specifically, levels of Bim
+EL
+declined significantly following 12- or 24-h treatments; a concomitant increase in the levels of the pro-apoptotic BH3-only, Bim
+s
+isoform was noted in CFM-4-treated cells (
+Fig. 10
+A
+). Emerging evidence (
+47
+–
+51
+) indicates Bim is activated during chemotherapy (paclitaxel)-induced apoptosis (
+47
+) and targets the all pro-survival Bcl2 family of proteins (
+48
+) at the mitochondrial membrane. Bim is also known to bind with Bax and promote Bax translocation to the mitochondria to induce cytochrome
+c
+release and subsequent activation of caspase-9 to trigger the intrinsic apoptosis cascade. Although CFM-4 treatments failed to stimulate Bax expression (data not shown), it is likely that activated Bim
+s
+targets pro-survival Bcl2 family proteins directly or functions to facilitate Bax translocation to mitochondria and consequent activation of caspase-9 and -3. Because blockage of caspase-8 interfered with activation of caspase-9 and -3 in the presence of CFM-4 (
+Fig. 9
+C
+), and the fact that activated caspase-8 is known to target the pro-apoptotic protein Bid to facilitate generation of truncated Bid (tBid) to subsequently target mitochondria for activation of caspase-9, we investigated whether CFM-4 exposure also promoted generation of tBid. As shown in
+Fig. 10
+B
+, exposure of cells to CFM-4 resulted in a modest increase in tBid levels suggesting that activation of caspase-9 by this compound is accomplished in part by the caspase-8 pathway. siRNA-mediated depletion of Bim, however, prevented loss of cyclin B1 in the presence of CFM-4, whereas loss of Bim failed to interfere with CFM-4-dependent CARP-1 increase (
+Fig. 10
+C
+). Together, the data in
+Figs. 8
+​
+8
+–
+10
+suggest that although CFM-4 elevates CARP-1 to enhance apoptosis, Bim expression and activation of caspases are required for targeting of cyclin B1. Thus, SMIs such as CFM-4 that antagonize CARP-1 binding with APC-2 suppress cell growth in part by activating caspases to stimulate apoptosis as well as caspase-dependent targeting of cyclin B1 and Cdc20 proteins (
+Fig. 11
+).
+Open in a separate window
+FIGURE 10.
+CFM-4 exposure results in activation of pro-apoptotic p38, Bim, and Bid proteins, and loss of Bim blocks CFM-4-dependent depletion of cyclin B1.
+A–C
+, cells were treated with DMSO (0 or −) or with CFM-4 (+) for noted time and dose except that in
+C
+cells were transfected with 100 n
+m
+of each of the indicated siRNAs for 96 h followed by their treatments with DMSO (−) or CFM-4 (+). At the end of treatment periods, 50 μg of each lysate was analyzed by WB essentially as in
+Fig. 7
+B
+. The presence of different proteins on the radiogram is indicated by
+arrowhead
+on
+left side
+of each blot.
+Open in a separate window
+FIGURE 11.
+Schematic of mechanism of action of CFM-4.DISCUSSION
+CARP-1 is a peri-nuclear phosphoprotein that is thought to have broad roles in apoptosis signaling and transcriptional regulation (
+5
+–
+8
+). A number of studies to date indicate CARP-1 involvement in cell growth signaling by tumor suppressor p53 (
+7
+), protein kinase A (
+30
+), the steroid/thyroid receptor superfamily (
+7
+), β-catenin (
+16
+), and DNA damage-inducing chemotherapeutics (
+5
+,
+7
+). Proteomic based studies further revealed that CARP-1 interacts with the SAPK p38 (
+33
+) and the NF-κB upstream kinase subunit NEMO/IKKγ (
+34
+). Together with the fact that retroviral or TAT-mediated expression of various nonoverlapping peptides of CARP-1 suppressed growth of HBC and lymphoma cells
+in vitro
+and
+in vivo
+(
+8
+,
+21
+), we speculated that CARP-1 likely functions in part by interacting with a number key cell growth and apoptosis transducers in a context and signal-dependent manner. To test this possibility, we performed a Y2H screen using CARP-1 as a bait and found that the C-terminal region of CARP-1 binds with an epitope within the cullin homology domain of the APC-2, a subunit of the APC/C E3 ubiquitin ligase. Following mapping of the respective epitopes involved in CARP-1-APC-2 binding and the determination of their binding kinetics (
+K
+d
+)
+in vitro
+by an FPA, we conducted an additional screen of a chemical library and identified several SMIs of CARP-1-APC-2 binding. The lead compound CFM-4 antagonizes CARP-1 interaction with APC-2 by binding with CARP-1, causes elevated levels of CARP-1, and induces G
+2
+M arrest and apoptosis in a dose- and time-dependent manner.
+CARP-1 and its paralog Dbc-1 are large multidomain nuclear or perinuclear proteins that play roles in promoting apoptosis (
+52
+). Like CARP-1, Dbc-1 also regulates activities of estrogen receptor and p53 proteins, apoptosis signaling by ADR, and is also a component of the NF-κB proteome (
+17
+,
+34
+,
+53
+,
+54
+) Alignment of the CARP-1 and Dbc-1 proteins revealed that the APC-2-binding epitope of CARP-1 was significantly homologous to the epitope within the C-terminal region of Dbc-1 (
+supplemental Fig. 3
+B
+). Additional co-IP-WB experiments further revealed that FLAG-tagged Dbc-1 interacted with GST-APC-2, p38, and p53 proteins (
+supplemental Fig. 3
+C
+). Dbc-1, however, did not interact with NEMO and is consistent with previous study showing IKKβ interaction with Dbc-1 (
+34
+). Whether Dbc-1 binds with the cullin homology domain epitope of APC-2, the endogenous binding of Dbc-1 and APC-2 is constitutive or regulated by cell cycle and/or apoptosis signaling, and the SMIs identified in this study that also prevent Dbc-1 interaction with APC-2 remain to be clarified.
+The SMIs that we have identified represent a novel class of pharmacological agents with potential utility in elucidating the cell cycle and apoptosis-signaling pathways. All the SMIs that we identified antagonize binding of CARP-1 with APC-2, albeit with varying dissociation kinetics (
+K
+d
+), whereas CFM-4 and CFM-5 do so by binding with CARP-1. It remains to be determined whether CFM-1 also binds with CARP-1. The fact that both CFM-1 and CFM-4 elicited G
+2
+M cell cycle arrest, although only CFM-4 stimulated CARP-1 levels, activated caspases, and induced apoptosis (
+Figs. 7
+and
+​
+and9),
+9
+), suggests that CARP-1 binding with APC-2 is involved in the regulation of cell cycle. Because APC/C
+Cdc20
+E3 ubiquitin ligase is known to finely regulate M-phase (
+45
+,
+46
+), inhibition of CARP-1 binding with APC-2 by CFM-4 likely modulates APC/C
+Cdc20
+functions to interfere with G
+2
+M progression. In this context, inhibition of UPP by Velcade was previously found to promote G
+2
+M arrest and apoptosis (
+20
+). Together with the fact that Velcade exposure caused a modest increase in CARP-1 levels (
+Fig. 8
+E
+) and antagonism of CARP-1 binding with APC-2 by CFM-1 or CFM-4 also induced G
+2
+M arrest further support the involvement of CARP-1 in modulating APC/C E3 ubiquitin ligase function to regulate the cell cycle. The SMIs like CFM-1 inhibit cell growth by inducing cell cycle arrest without a significant increase in apoptosis. Whether CFM-1 inhibitory effects involve CARP-1 stimulation, modulation of APC/C function, and/or loss of cyclin B1 are not known. Further studies will be necessary to clarify whether the absence of apoptosis in CFM-1-treated HBC cells (
+Fig. 9
+A
+) is due in part to the differential uptake and/or cellular metabolism of CFM-1. To the extent CFM-1 effects are largely cytostatic and prolonged cell cycle arrest in the presence of CFM-1 will lead to eventual cellular senescence or apoptosis also needs to be clarified.
+Whether CARP-1, like Cdc20, is a substrate of APC/C or a co-activator, or both, is not clear. A potential APC/C co-activator property of CARP-1 can be inferred from the following observations. First, ectopic expression of CARP-1 results in loss of cyclin B1 and increased expression of CDKI p21
+WAF1/CIP1
+(
+5
+). Increased CARP-1, in turn, will bind APC-2 and activate APC/C
+Cdc20
+function to induce depletion of cyclin B1, whereas elevated activities of APC/C
+Cdh1
+will culminate into increased levels of CDKI p21
+WAF1/CIP1
+. Second, because apoptosis signaling by ADR also involved elevated CARP-1 expression (
+5
+), it is likely that ADR-dependent apoptotic effects involve CARP-1-mediated stimulation of APC/C activities, consequent loss of cyclin B1, and increased levels of CDKI p21
+WAF1/CIP1
+. Finally, CFM-4 binding with CARP-1 prevents CARP-1 from associating with APC-2 and thus interferes with APC/C activities. Loss of CDKIs p21
+WAF1/CIP1
+and p27
+KIP1
+following treatment of cells with CFM-4 for periods longer than 3 h, as noted in
+Fig. 7
+B
+, is consistent with attenuation of the APC/C
+Cdh1
+function/activities. The extent of APC/C
+Cdc20
+activity also compromised in the presence of CFM-4 is not clear. CFM-4 nonetheless stimulates CARP-1 expression and caspase-dependent apoptosis signaling to target Cdc20 and cyclin B1 expression (
+Figs. 8
+E
+and
+​
+and9
+9
+D
+). Depletion of Cdc20 and/or cyclin B1 likely interferes with the ability of cells to exit mitosis and thus contribute to G
+2
+M arrest and eventual elimination of cells by apoptosis.
+In addition to promoting cell cycle arrest, CFM-4 inhibited cell growth in part by inducing apoptosis. With the exception of MCF-10A cells, treatments with CFM-4 inhibited the growth of a variety of cancer cells (
+Fig. 5
+) in part by inducing CARP-1 levels and diminishing cyclin B1 (
+Fig. 7
+), as well as by promoting apoptosis as evidenced by activation of caspases-8, -9, and -3 (
+Fig. 9
+). The facts that these CFMs antagonize CARP-1 binding with APC-2 and the ability of CFM-4 to suppress cell growth was dependent on CARP-1 (
+Figs. 6
+and
+​
+and8)
+8
+) suggest that CARP-1 levels likely play an important role in regulating apoptosis signaling by these compounds. Furthermore, because pretreatment of cells with pan-caspase or the caspase-6 inhibitor interferes with loss of cyclin B1 and Cdc20 proteins by CFM-4 (
+Fig. 9
+D
+), it would suggest that the caspase-dependent loss of the key regulators of the G
+2
+M and mitotic phases contributes in promoting cell cycle arrest. Caspase targeting of cyclin B1 in the presence of CFM-4 corroborates previous studies where caspase-6 was found to regulate cleavage of cyclin B1 during ADR-induced mitotic catastrophe (
+42
+). Although UPP is well known to target cyclin B1 and Cdc20 during M phase (
+46
+), the presence of Velcade failed to block loss of both cyclin B1 and Cdc20 in CFM-4-treated cells (
+Fig. 8
+E
+). Because the presence of pan-caspase inhibitor Z-VAD-fmk blocked CFM-4-dependent loss of cyclin B1 and Cdc20 (
+Fig. 9
+D
+), it is likely that, similar to cyclin B1, activated caspases also promote the degradation of Cdc20 following induction of apoptosis signaling by CFM-4. The extent of apoptosis induction by CFM-4 involves caspase-dependent targeting of Cdc20, the type of caspase(s) in addition to and upstream of caspase-6, and the presence of caspase-targeted motif(s) within the Cdc20 protein have yet to be elucidated. Given that Cdc20 is often considered as a potential oncogene, and the fact that tumor suppressor p53 has been documented to inhibit Cdc20 (
+36
+), caspase-mediated targeting of Cdc20 in the presence of CFM-4 may point to a novel mechanism of cell cycle regulation as well as tumor suppression.
+Previous studies have revealed involvement of CARP-1 in apoptosis signaling by a variety of stimuli. Apoptosis induction in response to DNA-damaging anthracycline toxins ADR or etoposide stimulated CARP-1 levels (
+5
+). Expression of CARP-1 or its apoptosis-promoting peptides inhibited cell growth in part by activating p38 SAPK/MAPK and caspases-9 and -3 (
+6
+,
+8
+,
+21
+). Recent studies have further revealed an important role of CARP-1 binding with the LIM domain of the Zyxin protein in transducing UV-C-induced apoptosis that also involved activation of caspase-3 (
+37
+). The facts that CFM-4 stimulated CARP-1 levels (
+Fig. 7
+B
+) whereas apoptosis by CFM-4 involved activation of p38 (
+Fig. 10
+A
+), and caspases (
+Fig. 9
+,
+B
+and
+C
+), underscore the involvement of CARP-1 in regulating apoptosis signaling and consequent cell growth in the presence of compounds such as CFM-4 or DNA damage-inducing insults. Because both ADR (
+5
+) and CFM-4 (this study) require CARP-1 for cell growth suppression, it is, however, unclear whether and to what extent apoptosis stimulation by CFM-4 also involves damage to the DNA in a manner analogous to ADR. Nevertheless, binding of CARP-1 with APC-2 seems to play an important role in regulating cell growth because expression of CARP-1 lacking its APC-2-binding epitope sensitizes cells to inhibition by CFM-4 or ADR (
+Fig. 6
+). Treatment of cells with CFM-4, however, induced levels of truncated Bid as well as pro-apoptotic BH3-only Bim
+s
+protein (
+Fig. 10
+,
+A
+and
+B
+). Activation of tBid and/or Bim likely promoted mitochondrial targeting and subsequent activation of caspases-9 and 3. Depletion of Bim, however, failed to interfere with the CFM-4-induced increase in CARP-1 levels and activation of caspase-3, but it blocked cyclin B1 loss (
+Fig. 10
+C
+) suggesting that Bim activation and mitochondrial targeting are likely downstream of CARP-1. The fact that CFM-4 caused activation of caspase-8, and activated caspase-8 in turn is known to directly activate caspase-3 as well as pro-apoptotic Bid (tBid), it may be that CFM-4-dependent activations of caspase-8 and -3 are early events that lead to mitochondrial targeting by tBid and/or Bim
+s
+to support “feedback” activation of caspase-3 and other downstream caspases to target poly(ADP-ribose) polymerase, Cdc20, and cyclin B1. Because caspase-8 is a key initiator caspase for apoptosis by the CD95 system (
+38
+), elucidation of the mechanism(s) of caspase-8 activation by our novel small molecular antagonists of CARP-1/APC-2 binding, such as CFM-4, will enhance our understanding of the extrinsic apoptosis-signaling pathway. This knowledge could have implications for more effective utilization of many therapeutics that function in part by activating intrinsic and/or extrinsic apoptosis signaling.Supplementary Material
+Supplemental Data:
+Click here to view.Acknowledgments
+We gratefully acknowledge the assistance of Amro Aboukameel and Yan Jiang in performing certain cell viability and co-IP-WB assays, respectively.*
+This work was supported by a seed money grant from the Office of the Vice-President of Research, Wayne State University, grants from the Susan G. Komen Breast Cancer Foundation (to A. K. R.), and the Medical Research Services of the Department of Veterans Affairs (to A. K. R. and A. W.).
+The on-line version of this article (available at
+http://www.jbc.org
+) contains
+supplemental Figs. 1–6
+.4
+The abbreviations used are:
+APC/C
+anaphase-promoting complex
+UPP
+ubiquitin proteasome pathway
+CFM
+CARP-1 functional mimetic
+SMI
+small molecule inhibitor
+FPA
+fluorescence polarization assay
+HTS
+high throughput screening
+IP
+immunoprecipitation
+WB
+Western blotting
+HBC
+human breast cancer
+MPM
+malignant pleural mesothelioma
+CDKI
+cyclin-dependent kinase inhibitor
+Y2H
+yeast-two-hybrid
+TAT
+trans-activation of transcription tag
+NEMO
+NF-κB essential modulator
+ADR
+adriamycin
+TAM
+tamoxifen
+MTT
+3(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide
+Z
+benzyloxycarbonyl
+fmk
+fluoromethyl ketone
+tBid
+truncated Bid
+UPP
+ubiquitin proteasome pathway.

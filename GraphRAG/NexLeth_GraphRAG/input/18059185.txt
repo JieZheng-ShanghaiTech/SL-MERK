@@ -1,0 +1,736 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=kcbt20
+
+Cancer Biology & Therapy
+
+ISSN: 1538-4047 (Print) 1555-8576 (Online) Journal homepage: www.tandfonline.com/journals/kcbt20
+
+Response and determinants of cancer cell
+susceptibility to PI3K inhibitors: Combined
+targeting of PI3K and Mek1 as an effective
+anticancer strategy
+
+Ker Yu, Lourdes Toral-Barza, Celine Shi, Wei-Guo Zhang & Arie Zask
+
+To cite this article: Ker Yu, Lourdes Toral-Barza, Celine Shi, Wei-Guo Zhang & Arie Zask (2008)
+Response and determinants of cancer cell susceptibility to PI3K inhibitors: Combined targeting
+of PI3K and Mek1 as an effective anticancer strategy, Cancer Biology & Therapy, 7:2, 310-318,
+DOI: 10.4161/cbt.7.2.5334
+
+To link to this article: https://doi.org/10.4161/cbt.7.2.5334
+
+Published online: 04 Feb 2008.
+
+Submit your article to this journal
+
+Article views: 553
+
+View related articles
+
+Citing articles: 4 View citing articles
+307 Cancer Biology & Therapy 2008; Vol. 7 Issue 2
+
+While small molecule inhibitors of the phosphatidylinositide3-kinase
+(PI3K) are expected to impact the development of new
+cancer therapy, the tumor types and underlying cellular pathways
+determining inhibitor response remain poorly defined. In this
+report, we have studied anti-proliferative effects of the PI3K inhibitors
+WAY-266176 and WAY-266175 in a panel of histologically
+diverse cancer cells. Inactivation of PI3K caused potent growth
+suppression in some cells (MDA468, BT549, MDA361, MCF7,
+LNCap, PC3MM2) but minimal suppression in others (MDA231,
+MDA435, DU145, HCT116, A549), which correlated with a
+differential down-regulation of cyclin D1, c-Myc, and induction of
+apoptosis. A heightened PI3K/AKT/mTOR signaling was linked
+to the sensitive phenotype but did not generally predict inhibitor
+response. Interestingly, the resistant cells all displayed an elevated
+phospho-ERK that remained elevated after serum deprivation. In
+HCT116 cells, activation mutations in the PI3K catalytic subunit
+PIK3CA and Ki-Ras correlated with a resistant phenotype, which
+was partially sensitized by homologous replacement with the
+wild-type Ki-Ras but not by deletion of cellular PTEN. Depletion
+of Mek1 via siRNA in resistant cells enhanced PI3K inhibitorinduced
+growth suppression. Moreover, a profoundly augmented
+growth suppression and apoptosis were achieved in resistant cells
+by combination treatment with WAY-266176/WAY-266175 and
+Mek1 kinase inhibitor CI-1040 or UO126. The combination
+therapy efficiently inhibited mitogenic signaling and reduced
+expression of cyclin D1 and c-Myc. Our results identify deregulation
+of the Ras/Raf/Mek/ERK pathway as a dominant determinant
+in cancer cell resistance to PI3K inhibitors and highlight combined
+targeting of PI3K and Mek1 as an effective anticancer strategy.
+
+Introduction
+
+The class‑1a PI3‑kinases (PI3K) catalyze the production of lipid
+second messenger phosphatidylinositol‑3,4,5‑triphosphate (PIP3),
+which is required for activation of a wide range of cellular func‑
+tions of growth and survival.1 The serine/threonine kinase AKT and
+mTOR are essential mediators of the PI3K signaling pathways. AKT
+and mTOR collectively confer dominant survival signal and promote
+cell growth via respective downstream substrates that directly partici‑
+pate in apoptosis, cell cycle progression, and cellular translation.2‑4
+Deregulated PI3K/AKT/mTOR signaling pathway is widely impli‑
+cated in human cancer (reviewed in refs. 5–7). These alterations
+include the mutational activation of the p110a catalytic subunit
+of PI3K (PIK3CA),8‑11 loss of the tumor suppressor gene PTEN,
+a PIP3 phosphatase that inhibits the PI3K signaling (reviewed in
+refs. 5 and 7), as well as constitutive PI3K expression and/or AKT
+activation in numerous cancer types.12‑18 Together, these clinical data
+establish a central involvement of the PI3K pathway in tumor growth
+and resistance to chemotherapy.
+While small molecule inhibitors of the PI3K/AKT/mTOR path‑
+ways are expected to impact the development of novel cancer therapy,
+the tumor types and underlying complexity of the biochemical
+pathways determining inhibitor response remain poorly defined. It
+has been previously suggested that the mTOR inhibitor rapamycin
+and analogs are particularly effective against a subset of tumors that
+harbor PTEN‑deficiency and/or heightened AKT activation.19‑21
+Similarly, the known PI3K inhibitors appear to kill certain cancer
+cells with activated PI3K/AKT status.22‑24 Wortmannin‑derived
+PI3K inhibitors PWT‑458 and PX‑866 efficiently suppress PI3K
+signaling in vivo and elicit promising anticancer efficacy in preclin‑
+ical xenograft tumors harboring the PTEN loss or constitutive PI3K
+activation.25,26 Furthermore, a dual inhibitor of PI3K and mTOR
+elicits a greater antitumor efficacy in the PTEN‑negative glioma.27
+On the other hand, many cancer cell lines are intrinsically resistant
+to mTOR inhibition by rapamycin analogs, and the classical PI3K
+inhibitors are not known as broad spectrum inhibitors of cancer
+cell growth. Intriguingly, a heightened AKT activation fails to
+sensitize ovarian tumor cells that are already resistant to mTOR
+inhibitors.28 Thus, while these previous observations highlighted a
+
+Research Paper
+
+Response and determinants of cancer cell susceptibility to PI3K inhibitors
+
+Combined targeting of PI3K and Mek1 as an effective anticancer strategy
+
+Ker Yu,1,* Lourdes Toral-Barza,1 Celine Shi,1 Wei-Guo Zhang1 and Arie Zask2
+
+1Discovery Oncology and 2Discovery Medicinal Chemistry; Wyeth Research; Pearl River, New York USA
+
+Abbreviations: PI3K, phosphatidylinositide-3-kinase; PIP3, inositol 1,4,5-trisphosphate; mTOR, target of rapamycin; PTEN, phosphatase and
+tensin homolog; Mek1, mitogen activated protein kinase kinase 1; ERK, extracellular signal-regulated kinase; PARP, Poly (ADP-ribose) poly‑
+merase; 17-HWT, 17-hydroxywortmannin; DMSO, dimethyl sulfoxide; PBS, phosphate buffered saline; IC50, inhibition concentration 50
+Key words: PI3K, Ras, Mek1, kinase inhibitor, anticancer
+
+*Correspondence to: Ker Yu; Discovery Oncology; Wyeth Research; 401 North
+Middletown Road; Pearl River, New York 10965 USA; Tel.: 845.602.4814; Fax:
+845.602.5557; Email: yuk@wyeth.com
+Submitted: 10/13/07; Revised: 11/17/07; Accepted: 11/21/07
+Previously published online as a Cancer Biology & Therapy E-publication:
+www.landesbioscience.com/journals/cbt/article/5334
+Cancer cell response to PI3K inhibitors
+
+www.landesbioscience.com Cancer Biology & Therapy 308
+
+critical dependence on the PI3K/AKT/mTOR pathway in
+a subset of cancers, the activity status of the pathway per
+se may not generally predict inhibitor response in broad
+tumor types.
+It is well known that malignant tumors typically acquire
+numerous genetic alterations to support tumor growth,
+and cooperation among various redundant biochemical
+pathways may differentially determine the outcome of
+PI3K inhibitor therapy. Hence, biochemical and molecular
+understanding of the cancer cell sensitivity and resistance
+is necessary in development of effective PI3K inhibitor
+therapies. In this report, we have studied the functional
+effects of new PI3K inhibitors in a panel of histologically
+diverse cancer cells. We found that while the phosphoryla‑
+tion of AKT was completely suppressed in all tested cell
+lines, potent inhibition of growth was only observed in a
+subset of cancer cells. A heightened PI3K/AKT activation
+was linked to the sensitive phenotype but did not generally
+predict inhibitor response. We have identified the aberrant
+Ras/Raf/Mek/ERK signaling as a dominant determinant
+of cancer cell resistance to PI3K inhibitors and highlight
+combined targeting of PI3K and Mek1 pathways as an
+effective anticancer therapy.
+
+Results
+
+WAY-266176 and WAY-266175 are potent and covalent
+inhibitors of PI3K in vitro and in vivo. As we recently
+reported,32 WAY‑266176 and WAY‑266175 (WAY‑176
+and WAY‑175) are furan ring‑opened 17‑HWT irrevers‑
+ible inhibitors of PI3Ka and isoforms. Both inhibitors are
+>20‑fold selective over mTOR and are inactive against a
+panel of protein kinases. Importantly, the serum half‑life
+for 17‑HWT, WAY‑176 and WAY‑175 are 0.3 h, 2.3 h and
+>24 h, respectively. The sharply improved serum stability
+of WAY‑176/WAY‑175 resulted in sustained PI3K suppres‑
+sion and anticancer efficacy in cell culture and in tumor
+model in vivo.32 In the Rat1‑IGF1 stimulation model, both
+WAY‑176 and WAY‑175 potently inhibited PI3K signaling
+(Fig. 1A). To confirm that these inhibitors covalently target
+PI3K in cancer cells, we performed inhibitor wash‑out
+assay with WAY‑176, 17‑HWT and a reversible inhibitor
+LY294002 in the PTEN‑negative U87MG glioma cells.
+Inhibitors were added to cells for 1 h and then washed out
+for 1 h and 3 h. Immunoblot analysis indicated that while
+all three inhibitors suppressed PI3K signaling markers, the
+phosphorylated forms of AKT, GSK3, S6K1 and 4EBP1,
+at the end of 1 h drug incubation, no inhibitory effect
+was seen for LY294002 in the wash‑out samples (Fig.
+1B). In contrast, both wash‑out samples of WAY‑176‑ and
+17‑HWT‑treated cells retained a nearly complete (1 h
+wash‑out) and substantial (3 h wash‑out) suppression of PI3K
+signaling markers (Fig. 1B). A similarly retained inhibitory activity
+in the wash‑out assay was seen for WAY‑175 (not shown). Thus, like
+17‑HWT, WAY‑176/WAY‑175 covalently inhibited cellular PI3K.
+A single bolus IV injection of WAY‑176 (5 mg/kg) into nude mice
+bearing U87MG glioma xenografts resulted in a rapid and sustained
+suppression of PI3K signaling in the tumor for at least 6 h (Fig. 1C).
+
+Together, these data further establish WAY‑176 and WAY‑175 as
+potent and covalent inhibitors of PI3K in vitro and in vivo.
+Activation of the PI3K/AKT signaling pathway contributes to
+susceptibility to PI3K inhibitors. To gain insight into the tumor
+types that might be particularly susceptible to PI3K inhibitors, we
+studied a panel of commonly used tumor cell lines. Expression of
+PTEN, phospho‑AKT and phospho‑S6K1, two prominent signaling
+
+Figure 1. WAY-176 and WAY-175 are potent and covalent inhibitors of PI3K in vitro
+and in vivo. (A) Rat1 cells were plated in 6-well culture plates, serum starved for 24
+h and stimulated with IGF1 without or with the indicated doses of WAY-176 and
+WAY-175. Total lysates were prepared and subjected to immunoblotting analysis with
+P-AKT (S473), P-S6K (T389), and P-ERK (T202/Y204) as described in Materials and
+Methods. (B) U87MG cells in full growth medium were treated with the indicated
+inhibitors for 1 h and harvested immediately (no wash out). In parallel sets, treated
+cells were washed thoroughly and incubated without inhibitors for additional 1 h
+(1 h) or 3 h (3 h). Lysates were analyzed similarly as (A) with P-AKT (S473, T308),
+P-GSK3 (S9/21) and 4EBP1. (C) Nude mice bearing U87MG xenograft tumors were
+dosed with vehicle (PBS) or 5 mg/kg WAY-176. At the indicated times tumors were
+dissected. Tumor lysates were prepared as described in Materials and Methods, and
+subjected to immunoblotting analysis with P-AKT (S473), AKT, and P-GSK3 (S9/21). V,
+vehicle-treated; T, WAY-176-treated.
+Cancer cell response to PI3K inhibitors
+
+309 Cancer Biology & Therapy 2008; Vol. 7 Issue 2
+
+markers of the PI3K/AKT/mTOR pathway, were analyzed by
+immunoblotting using total cellular lysates prepared from serum
+starved‑ and serum‑stimulated cells (Fig. 2A). Growth inhibition
+IC50 values of WAY‑176 and WAY‑175 against each cell line were
+determined in a 4‑day growth assay in which cells were exposed to
+various concentrations of the inhibitors once on day 1 (Fig. 2B).
+While WAY‑175 was more potent than WAY‑176 in growth assays
+due to its superior serum stability, both inhibitors displayed a similar
+inhibition profile with variable IC50 values ranging from low ng/mL
+to high mg/mL (Fig. 2B). Interestingly, the sensitive cells included
+those breast and prostate lines possessing functional loss of PTEN
+
+(MDA468, BT549, LNCap and
+PC3MM2) or mutational activa‑
+tion of the PI3K catalytic subunit
+PIK3CA (MDA361, MCF7).10
+The resistant cells included breast
+MDA231, melanoma MDA435,
+prostate DU145, colon HCT116
+and lung A549. Notably, these
+cells are not known to harbor
+genetic alterations in the PI3K/
+AKT pathway except for HCT116,
+which contains the PIK3CA muta‑
+tion.33 It is also noteworthy that
+the sensitive MCF7 expressed a
+low level of phospho‑AKT, whereas
+resistant DU145, HCT116 and
+A549 expressed moderate levels of
+phospho‑AKT that were reduced
+upon serum deprivation. Thus, a
+heightened PI3K/AKT signaling
+is linked to the sensitive pheno‑
+type but does not generally predict
+inhibitor response.
+Differential modulation of cell
+cycle factors and death markers
+in sensitive versus resistant cells.
+To study the cellular mechanism
+that may account for the differen‑
+tial sensitivity, we next performed
+immunoblot analysis on a subset
+of sensitive (LNCap, MDA361,
+PC3MM2) and resistant (DU145,
+MDA231, HCT116) cells after
+exposure to various concentra‑
+tions of WAY‑176, WAY‑175 and
+LY294002 (5 mg/mL) for 6 h (Fig.
+3). Phospho‑AKT was downregu‑
+lated in all cells indicating that
+PI3K was suppressed in both the
+sensitive and resistant lines (Fig.
+3A). Significantly, we observed
+a rapid and nearly complete or
+substantial inhibition of cyclin D1
+and c‑Myc in the sensitive LNCap
+and MDA361 cells in response
+to WAY‑176, WAY‑175 and
+LY294002, which correlated with the inhibition of phospho‑AKT
+(Fig. 3A; Fig. 3B), left and middle panels). In contrast, both cyclin
+D1 and c‑Myc were poorly or partially inhibited in the resistant
+DU145 and MDA231 cells even at higher inhibitor concentra‑
+tions, which did not correlate with the inhibition of phospho‑AKT
+(Fig. 3A; Fig. 3B, left and middle panels). Since both cyclin D1
+and c‑Myc are well established positive regulators of growth and
+proliferation, the observed differential suppression of these proteins
+may be critical factors underlying the differential susceptibility
+of cancer cells to PI3K inhibitors. It was further shown that
+PI3K inhibition in LNCap and MDA361 cells resulted in a rapid
+
+Figure 2. PI3K/AKT/mTOR pathway deregulation correlates with susceptibility to PI3K inhibitors. (A) Indicated
+cancer cell lines were plated in 10 cm culture plates for 24 h, then washed and refed with fresh media with or
+without 10% serum for 24 h. Total lysates were prepared as described in Materials and Methods. Equal amounts
+of total lysates were subjected immunoblotting with PTEN, P-AKT (S473), AKT, and P-S6K (T389). (B) Indicated
+cancer cell lines were plated in 96-well culture plates at predetermined cell density (1,000 to 10,000 cells per
+well) for 1 day, treated with vehicle or various doses of WAY-176 and WAY-175 (0.06-15 mg/mL) for 3 days.
+Growth inhibitions were determined as described in Materials and Methods. IC50 values were determined (mean
+of triplicate) and plotted.
+Cancer cell response to PI3K inhibitors
+
+www.landesbioscience.com Cancer Biology & Therapy 310
+
+induction of apoptosis as indicated by the
+caspase‑mediated PARP cleavage in these
+cells 6 h post exposure to the inhibitors
+(Fig. 3B, right panel). Inhibition of PI3K
+in the resistant DU145 and MDA231
+cells did not cause PARP cleavage (Fig.
+3B, right panel). We conclude from these
+data that although the PI3K biochemical
+pathway is inactivated by the inhibitors
+in all studied cell lines, suppression of
+growth in the sensitive cancer cells is
+accompanied by a rapid and potent inhi‑
+bition of cell cycle factors and induction
+of apoptosis.
+Resistant cancer cells display constitutively
+phosphorylated ERK and are
+sensitized by homologous replacement
+of mutant Ki-Ras with the wild-type
+Ki-Ras but not by PTEN deletion. Our
+data thus far suggested a link between
+deregulated PI3K/AKT signaling and
+susceptibility to PI3K inhibitors in
+certain cancer cells. However, the rela‑
+tively poor suppression of growth in the
+PIK3CA mutant HCT116 as well as the
+lack of correlation of phospho‑AKT with
+sensitivity in several additional cell lines
+indicated that the activity status of the
+PI3K pathway per se does not predict
+sensitivity (Fig. 2). The Ras/Raf/Mek/
+ERK signaling is frequently activated
+in colon and other major cancers, and
+may influence cellular response to PI3K
+inhibition. To test this possibility we
+conducted immunoblot analysis of the
+expression and phosphorylation status of ERK in the same panel of
+cell lines (Fig. 4A). We found that the resistant MDA231, MDA435,
+DU145, HCT116 and A549 all exhibited an elevated phospho‑ERK
+that remained elevated even after serum deprivation. In contrast,
+the sensitive MDA361, MCF7, BT549, LNCap and PC3MM2 all
+expressed low or barely detectable levels of phospho‑ERK. Notably,
+the sensitive MDA468 expressed high phospho‑ERK that was
+down‑regulated upon serum deprivation. The data in Figure 4A indi‑
+cate that in addition to the PI3K pathway activation, the activity status
+of cellular Ras/Raf/Mek/ERK is inversely correlated with sensitivity
+to PI3K inhibitors. While the mechanism for elevated phospho‑ERK
+in DU145 cells is not known, MDA231, MDA435, HCT116 and
+A549 are known to harbor mutations in components of the Ras/Raf/
+Mek/ERK pathway.33 We next compared HCT116 with its isogenic
+line HKH, in which the mutant Ki‑Ras is replaced by the wild‑type
+gene.30 WAY‑175 dose response data from four independent assays
+demonstrated a 4.7‑fold reduction in IC50 in the HKH cells relative
+to HCT116 cells (Fig. 4B, left panel) indicating that mutant Ras
+plays a role in the cellular resistance. As expected, HKH expressed
+a reduced level of phospho‑ERK as compared with HCT116 (Fig.
+4B, right panel). Interestingly, WAY‑175/WAY‑176 and LY294002
+all substantially inhibited c‑Myc expression in the Ras‑wild‑type
+
+HKH cells but not in the Ras‑mutant HCT116 cells even at higher
+inhibitor concentrations (Fig. 4B, right panel). To assess the effects of
+PTEN status on sensitivity in these cells, we conducted similar assays
+on the HCT116‑derived isogenic PTEN‑knockout cell pair (Fig.
+4C, left panel). Surprisingly, in contrast to the observation with the
+restoration of wild‑type Ras, WAY‑175 dose response obtained with
+CR259 cells (PTEN‑/‑) was nearly identical to that of CR208 cells
+(PTEN+/+, vector control) (Fig. 4C, right panel). Thus, we conclude
+from the data in Figure 4 that deregulation of the Ras/Raf/Mek/ERK
+signaling significantly reduces susceptibility of the cancer cells to
+PI3K inhibitors.
+Depletion of Mek1 sensitizes resistant cancer cells to PI3K
+inhibitors. To further define the role of Ras/Raf/Mek/ERK signaling
+in resistance to PI3K inhibitors, we depleted cellular Mek1, a key
+effector kinase that phosphorylates ERK, via siRNA in the resistant
+DU145, HCT116 and A549 cells. A substantial reduction (DU145
+and HCT116) or a nearly complete knockdown (A549) of Mek1
+expression could be confirmed (Fig. 5A). Both the control siRNA‑
+and the Mek1 siRNA‑transfected cells were analyzed for growth
+inhibition response after exposure to various doses of WAY‑175 and
+WAY‑176. Depletion of Mek1 significantly sensitized these cells to
+WAY‑175 (Fig. 5B). The reduction in WAY‑175 IC50 values in the
+
+Figure 3. Differential modulation of cell cycle factors and apoptosis in the sensitive versus resistant cancer
+cells. (A) Indicated cell lines were plated in 6-well culture plates for 24 h, treated with the indicated doses
+of WAY-176, WAY-175 and LY294002 in full growth media for 6 h. Total lysates were prepared in LDS
+lysis buffer and subjected to immunoblotting with P-AKT (S473) and AKT. (B) Total lysates as in (A) were
+subjected to immunoblotting with cyclin D1, c-Myc and PARP. Arrows indicate the PARP fragment resulted
+from caspase-mediated cleavage.
+Cancer cell response to PI3K inhibitors
+
+311 Cancer Biology & Therapy 2008; Vol. 7 Issue 2
+
+Mek1 depleted cells relative to the control cells were 6.6 fold in
+DU145 (Fig. 5B, left panel), 18.3 fold in HCT116 (Fig. 5B, middle
+panel), and 27.2 fold in A549 (Fig. 5B, right panel). A similar sensi‑
+tization was seen for WAY‑176 (not shown).
+A profoundly augmented growth suppression and apoptosis
+induced by combination treatment with kinase inhibitors of Mek1
+and PI3K. Because deregulation of the Ras/Raf/Mek/ERK pathways
+is prevalent in major solid cancers and induces resistance to the
+PI3K inhibitor therapy, we next studied the combination anti‑tumor
+activity employing kinase inhibitors of Mek1 and PI3K (Fig. 6). In
+HCT116 cells, cotreatment with a suboptimal dose of the Mek1
+
+inhibitor UO126 (5 mg/mL) or CI‑1040
+(1 mg/mL) resulted in a dramatic sensitiza‑
+tion to growth suppression by WAY‑175
+(Fig. 6A, left panel). The normalized IC50
+values for WAY‑175, WAY‑175+UO126
+and WAY‑175+CI‑1040 were 1.7 mg/mL,
+0.11 mg/mL and 0.09 mg/mL, respectively.
+The Mek1 inhibitors similarly sensitized
+response to WAY‑176 (Fig. 6A, right panel).
+The normalized IC50 values for WAY‑176,
+WAY‑176+UO126 and WAY‑176+CI‑1040
+were 7.6 mg/mL, 0.53 mg/mL and 0.47
+mg/mL, respectively. Similar results were
+obtained with additional cell lines of colon,
+lung, breast and prostate (not shown). Cell
+cycle analysis indicated that while a subop‑
+timal dose of either WAY‑175 (1 mg/mL) or
+WAY‑176 (7 mg/mL) alone increased cells in
+G0/G1, the corresponding combinations with
+CI‑1040 (1 mg/mL) resulted in a substantial
+rise in the sub‑G1 population (Fig. 6B).
+To determine the mode of cell death, we
+measured caspase 3 activity in the cells treated
+with the single inhibitors or various combi‑
+nations (Fig. 6C). While a suboptimal dose
+of UO126 (5 mg/mL) or CI‑1040 (1 mg/mL)
+alone was inactive, both Mek1 inhibitors
+greatly enhanced the levels of active caspase
+3 when combined with WAY‑175 (Fig. 6C,
+left panel) or WAY‑176 (Fig. 6C, right
+panel) at 24 h post treatment. Together these
+data demonstrate a profoundly augmented
+suppression of growth and rapid induction
+of apoptosis resulting from a combined
+targeting of Mek1 and PI3K.
+Inhibition of mitogenic signaling by
+combined targeting of PI3K and Mek1. We
+wished to examine the effects of combina‑
+tion therapy on cellular mitogenic signaling
+markers that may reflect the enhanced
+suppression of growth. We performed
+immunoblot analysis of HCT116 cells that
+were treated singly with a low dose of
+WAY‑175 (0.1 mg/mL), CI‑1040 (1 mg/mL)
+or combination of the two inhibitors (Fig.
+7A). As expected CI‑1040 alone inhibited
+phospho‑ERK but had minimal effect on the signaling markers
+of the PI3K/AKT/mTOR pathway. WAY‑175 alone inhibited
+phospho‑AKT but only weakly inhibited the phosphorylation of
+S6K1, 4EBP1 and GSK3, and caused minimal suppression of cyclin
+D1 and c‑Myc. Interestingly, combination treatment with CI‑1040
+and WAY‑175 resulted in a further reduction in the phosphorylated
+forms of S6K1, 4EBP1 and GSK3. These biochemical changes were
+accompanied by substantially reduced expression of both cyclin D1
+and c‑Myc (Fig. 7A). We also examined the protein levels of cyclin
+D1 and c‑Myc in the control‑ and Mek1‑siRNA transfected cells
+without or with 6 h exposure to the low dose WAY‑175 (Fig. 7B). It
+
+Figure 4. Deregulated Ras/Raf/Mek/ERK pathway confers cellular resistance to PI3K inhibitors.
+(A) Total lysates of the indicated cancer cells were subjected to immunoblotting with P-ERK (T202/
+Y204) and ERK. WAY-175 IC50 values of the corresponding cell lines are listed below the blot
+image. (B) Left panel, growth inhibition curves of the isogenic HCT116 (Ras mutant) versus HKH (Ras
+wild-type) in response to WAY-175. Cells were plated in 96-well plates for 1 day, treated with vehicle or
+various doses of WAY-175 for 3 days. Growth inhibitions were assayed as described in Materials and
+Methods. Mean of four experiments are shown. Right panel, immunoblotting of HCT116 and HKH cell
+lysates, harvested after 16 h treatment with PI3K inhibitors, with P-ERK, ERK and c-Myc. (C) Left panel,
+immunoblotting of the isogenic CR208 (PTEN+/+) and CR259 (PTEN-/-
+) cell lysates with PTEN, P-AKT
+(S473), and P-S6K (T389). Right panel, growth inhibition curves of CR208 versus CR259. Cells were
+plated, treated, and analyzed similarly as in (B).
+Cancer cell response to PI3K inhibitors
+
+www.landesbioscience.com Cancer Biology & Therapy 312
+
+was apparent that 0.1 mg/mL of WAY‑175 caused greater suppression
+of both cyclin D1 and c‑Myc in the Mek1‑depleted DU145 (Fig. 7B,
+left panel), HCT116 (Fig. 7B, middle panel) and A549 (Fig. 7B,
+right panel) as compared with the corresponding WAY‑175‑treated
+control cells. Taken together, the results in Figures 6 and 7 strongly
+indicate that in the resistant cells, combined targeting of Mek1 and
+PI3K can efficiently inactivate mitogenic signaling pathways and
+suppress cell cycle factors cyclin D1 and c‑Myc, which are likely
+critical for the broad sensitization to the combination therapy.
+
+Discussion
+
+Due to its prevalent deregulation in human cancer, the PI3K
+signaling pathway represents a rational target for cancer treatment.
+WAY‑176 and WAY‑175 are potent PI3K inhibitors with prom‑
+ising in vivo anticancer efficacy.32 In this report, we have employed
+WAY‑176 and WAY‑175 to study cancer cell response to PI3K inhibi‑
+tion. We found that while phospho‑AKT was efficiently inhibited in
+all tested cells, potent growth suppression only occurred in a subset
+
+of cancer cells. Consistent with the notion of “pathway addiction”,
+several cell lines harboring mutations in components of the PI3K/
+AKT/mTOR pathway were highly susceptible to these inhibitors
+as indicated by potent suppression of growth and rapid induction
+of apoptosis. WAY‑176, WAY‑175 and LY294002 all substantially
+decreased expression of cyclin D1 and c‑Myc in the sensitive LNCap
+and MDA361 cells, whereas a much weaker suppression of these
+proteins was observed in the resistant DU145 and MDA231 cells.
+These data suggest that expression of cyclin D1 and c‑Myc in these
+cells is dependent on PI3K, and may be relevant biomarkers for
+growth inhibitory response to PI3K inhibitors. While majority of the
+sensitive cell lines displayed a heightened PI3K/AKT signaling, the
+phospho‑AKT levels did not always correlate with susceptibility to
+PI3K inhibition. Interestingly, HCT116 cells that contain activation
+mutations in both PIK3CA and Ki‑Ras displayed a relatively resistant
+phenotype, which was not sensitized by deletion of cellular PTEN.
+Thus, while these findings together further establish the depen‑
+dence of PI3K signaling for cell growth in certain cancer cells, the
+activity status of the PI3K pathway per se will not generally predict
+inhibitor response.
+It is apparent from the current study that deregulated Ras/
+Raf/Mek/ERK plays an important role in cellular resistance to
+PI3K inhibitors. We observed that the resistant cells all displayed
+an elevated and constitutively phosphorylated ERK presumably
+resulting from mutations and/or deregulation in components of the
+Ras/Raf/Mek/ERK pathway.33 In HCT116 cells activation mutation
+in the Ki‑Ras appeared to be dominant over the activation of PI3K
+in determining response. Consistent with this assessment, homolo‑
+gous replacement of mutant Ras in these cells with the wild‑type
+Ras enhanced sensitivity, whereas deletion of cellular PTEN did not.
+The enhanced growth suppression in the Ras‑wild‑type HKH cells
+correlated with a substantial reduction in c‑Myc expression. The role
+of Ras/Raf/Mek/ERK pathway in resistance was further supported by
+the knockdown studies on Mek1, a key effector kinase of the pathway.
+siRNA mediated depletion of Mek1 in resistant DU145, HCT116
+and A549 cells uniformly sensitized these cells for growth inhibition
+by PI3K inhibitors, which was accompanied by a further decrease
+in the levels of cyclin D1 and c‑Myc compared to the control cells.
+Previous studies on the mTOR inhibitors have linked PTEN‑loss or
+heightened AKT activation to inhibitor sensitivity.19‑21 Interestingly,
+an activated AKT fails to sensitize ovarian tumor cells that are already
+resistant to mTOR inhibitor rapamycin.28 Thus, these observations
+collectively highlight redundant biochemical pathways of PI3K and
+Ras/Raf/Mek/ERK in deregulation of key cell cycle machinery that
+may critically determine a poor growth inhibitory response to PI3K
+pathway inhibitors.
+Oncogenic mutations in the Ras genes are highly common in
+human malignancies, and can often lead to deregulated signaling
+of both Raf/MEK/ERK and PI3K pathways.34,35 It is well estab‑
+lished that these biochemical pathways cooperate to promote tumor
+growth, survival, and resistance to chemotherapy.36‑38 In the current
+study, combination treatment with the kinase inhibitors of PI3K and
+Mek1 resulted in an augmented suppression of growth in the PI3K
+inhibitor‑resistant HCT116 colon cells. Further studies revealed
+a similar sensitization in additional colon cell lines and other
+tumor types including breast, prostate and lung (not shown).
+Biochemical studies indicated that the combination therapy
+
+Figure 5. Depletion of Mek1 sensitizes resistant cancer cells to PI3K inhibition.
+(A) Cells of DU145, HCT116 and A549 were transfected with the
+luciferase control siRNA or Mek1 siRNA for 3 days. Total lysates were
+subjected to immunoblotting with Mek1. (B) One day after siRNA transfection,
+cells were replated in 96-well plates for 2 days, treated with various
+doses of WAY-175 for additional 3 days. Growth inhibitions were assayed
+as described in Materials and Methods.
+Cancer cell response to PI3K inhibitors
+
+313 Cancer Biology & Therapy 2008; Vol. 7 Issue 2
+
+potentiated dephosphorylation of several key components of
+mitogenic signaling including phospho‑S6K1, phospho‑4EBP1
+and phospho‑GSK3, which together negatively impact cellular
+machinery of protein synthesis and gene transcription. Lastly, we
+found that the levels of cyclin D1 and/or c‑Myc were substantially
+down‑regulated in resistant cancer cells in response to combination
+therapy. Together, these observations provide cellular and biochem‑
+ical evidence supporting combination treatment with inhibitors of
+PI3K and Mek1 in broad tumor types.
+
+In summary, results from the
+current study have provided insight
+into the cellular and biochemical
+pathways that regulate cancer cell
+response to PI3K inhibitor therapy.
+These findings will be useful in
+future development of clinical
+strategies that target PI3K and
+Raf/Mek/ERK pathways for cancer
+treatment.
+
+Materials and Methods
+
+Chemicals. The natural product
+wortmannin was obtained from
+fermentation broths of the fungal
+culture ZIMV298 of the Wyeth
+microbial collection. 17‑HWT,
+WAY‑266175 and WAY‑266176
+were synthesized (as described
+previously in ref. 29). LY294002
+and UO126 were obtained from
+CalBiochem. CI‑1040 was synthe‑
+sized by Wyeth Discovery Synthetic
+Chemistry. All chemicals used for
+buffers and assays were obtained
+from Sigma unless specified.
+Cell culture. Cell lines of
+Rat1, U87MG, MDA‑MB‑468,
+BT549, MCF7, MDA‑MB‑361,
+MDA‑MB‑231, MDA‑MB‑435,
+LNCap, DU145, HCT116
+and A549 were obtained from
+American Type Culture Collection
+(ATCC). PC3MM2 was obtained
+from Dr. Carolyn Discafani,
+Wyeth Discovery Oncology. The
+isogenic lines HCT116 (parent)
+and HKH (mutant Ki‑Ras replaced
+with the wild‑type Ki‑Ras)30 were
+obtained from Dr. Kim Arndt,
+Wyeth Discovery Oncology. The
+HCT116‑derived isogenic PTEN
+knockout cell lines CR208 (vector
+control) and CR259 (PTEN‑/‑)
+were kindly provided by Dr. Bert
+Vogelstein and Dr. Carlo Rago
+(Johns Hopkins University). All
+cells were maintained in a 37°C
+incubator with 5% CO2, and were
+cultured using standard cell culture methods.
+Mek1/2 depletion via RNA interference. DU145, HCT116 and
+A549 cells were plated in 10 cm culture dish at 30–50% confluence.
+One day after plating, cells were transfected with 80 nM siRNAs of
+the luciferase (control) or Mek1 (CCCGCAAUCCGGAACCAGA
+UCAUAA)31 using lipofecatmine 2000 reagent (Invitrogen). Cells
+were replated 24 h later in the 96‑well culture plates for growth assays
+(see below), or 6‑well culture plates for immunoblotting at 72 h post
+transfection.
+
+Figure 6. Augmented growth suppression and apoptosis induced by combination treatment with kinase inhibitors
+of Mek1 and PI3K. (A) HCT116 growth inhibition curve in response to WAY-175 (left panel) or WAY-176
+(right panel) in combination with Mek1 inhibitors. Cells were plated in 96-well plates (1,000 cells per well) for 1
+day, treated with vehicle, various doses of WAY-175 or WAY-176 alone, or with CI-1040 (1 mg/ml) or UO126
+(5 mg/ml). A set of wells were treated with CI-1040 or UO126 alone. Cells were exposed to the inhibitors for
+3 days. Growth inhibitions were assayed as described in Materials and Methods. For calculation of normalized
+IC50 values, growth inhibitions in the combination treatment groups were normalized against the value obtained
+with the corresponding Mek1 inhibitor alone. (B) Cell cycle analysis. HCT116 cells were treated for 24 h with
+vehicle, WAY-175 (1 mg/ml), WAY-176 (7 mg/ml), CI-1040 (1 mg/ml), combination of WAY-175 and CI-1040,
+or combination of WAY-176 and CI-1040. Treated cells were harvested and analyzed for cell cycle profile as
+described in Materials and Methods. Percent of cells in G0/G1 and sub-G1 are plotted. (C) Caspase assays of
+cells treated with inhibitors. HCT116 cells were plated and treated similarly as in (B). Caspase 3/7 activities were
+measured 24 h later as described in Materials and Methods.
+Cancer cell response to PI3K inhibitors
+
+www.landesbioscience.com Cancer Biology & Therapy 314
+
+Tumor cell growth assays. Cells were plated in 96‑well
+culture plates at 1000 to 3000 cells per well. One day following
+plating, cells were treated with various doses of WAY‑266175
+or WAY‑266176 alone or with a low constant dose of CI‑1040
+(1 mg/mL) or UO126 (5 mg/mL). In all combination assays,
+the single and combination treatments were performed in the
+same 96‑well plate along with control wells treated with vehicle
+(DMSO) or alone with the same dose of CI‑1040 or UO126
+included in combination. For assays of siRNA‑transfected
+DU145, HCT116 and A549, cells were replated in 96‑well plates
+24 h post transfection. Inhibitors were added to cells 2 days after
+replating (3 days after transfection). Three days after exposure
+to inhibitors, viable cell densities were determined by MTS
+assay. The assays were performed using an assay kit (Promega)
+following the protocol supplied with the kit. The assay results
+were read in a 96‑well plate reader by measuring absorbance at
+490 nm. The effect of each treatment was calculated as percent
+of control growth relative to the vehicle DMSO‑treated cells
+grown in the same culture plate.
+Cell cycle analysis and apoptosis assay. For cell cycle
+analysis, cells were seeded in 96‑well culture plates at 10,000
+cells/well for 24 h. Cells were then exposed to various inhibi‑
+tors for 24 h. Following treatment, cells were harvested, washed
+with PBS, and fixed overnight at ‑20°C in 70% ethanol. Cells
+were washed, stained with propidium iodide, and analyzed for
+cell cycle profile (acquired 5000 cells/well) on Guava PCA‑96
+instrument (Guava Technologies) according to the Guava Cell
+Cycle Protocol. Apoptosis was also measured 24 h post inhibitor
+treatment using Apo‑ONE Caspase‑3/7 assay kit (Cat # G7791,
+Promega). Assay mix was added to cells and incubated at room
+temperature for 3 h with gentle mixing using a plate shaker.
+The fluorescence of each well was read using the Victor plate
+reader (Wallac‑PerkinElmer). Each experimental plate contains
+blank wells (without cells) as background fluorescence that
+was subtracted from all wells to obtain experimental values.
+Data are expressed as relative fluorescent units (RFLU) or as
+Apo‑ONE units.
+Protein lysates and immunoblotting. For total cell lysates
+of xenograft tumors and in vitro cultured tumor cells grown in
+serum‑stimulated or serum‑depleted conditions, cells from culture
+dishes or xenograft tumors (dissected and minced) were lysed
+in lysis buffer (25 mM Hepes, pH 7.5, 100 mM NaCl, 20 mM
+b‑glycerophosphate, 1.5 mM MgCl2, 0.5 mM EGTA, 0.25 mM
+EDTA 1% NP‑40, 10 mM Na3VO4, 10 mg/ml Aprotinin, 10
+mg/mL Leupeptin, 1 mM PMSF, 1 mM Microcystin LR and 0.1%
+2‑mercaptoethanol). Crude lysates were sonicated and clarified
+by centrifugation. For in vitro cell culture treatment with various
+inhibitors, total cellular lysates were prepared using NuPAGE‑LDS
+sample buffer (Invitrogen). Crude lysates were sonicated and then
+clarified by centrifugation. Equal amounts of proteins were subjected
+to immunoblotting analysis using NuPAGE electrophoresis system
+(Invitrogen). Antibodies for PTEN, P‑AKT (S473 and T308),
+total AKT, P‑S6K (T389), P‑GSK3 (S9/21), P‑ERK (T202/Y204),
+P‑4EBP1 (T46), 4EBP1, cyclin D1 and Mek1 were obtained from
+Cell Signaling Technology. Antibodies for c‑Myc and PARP were
+obtained from Santa Cruz Biotechnology. b‑actin antibody was
+from Chemicon International. Immunoblots were probed with
+
+primary and secondary antibodies following manufacturer’s instruc‑
+tions and detected using enhanced chemiluminescence (Amersham
+Pharmacia).
+PI3K inhibition in xenograft tumors. U87MG glioma cells were
+implanted subcutaneously in female nude mice. When tumor size
+reached 400 mm3, they were randomized into treatment groups.
+The tumor bearing mice were dosed once with either PBS or
+WAY‑266176 (formulated in PBS) intravenously (IV). At the indi‑
+cated times post dosing, tumors were dissected. Total protein lysates
+were prepared, quantified, and subjected to immunoblotting (as
+described previously in ref. 25).
+Acknowledgments
+We thank Drs Bert Vogelstein and Carlo Rago (Johns Hopkins
+University) for providing the PTEN‑knockout cell lines, Judy Lucas
+for technical assistance on the in vivo experiments. We thank Drs
+James Gibbons, Semiramis Ayral‑Kaloustian, Robert T. Abraham
+and Tarek Mansour for many helpful discussions and generous
+support.
+
+Figure 7. Combination therapy profoundly inhibits mitogenic signaling and cell
+cycle factors. (A) HCT116 cells were plated in 6-well plates for 24 h, treated
+with vehicle, the indicated doses of WAY-175, CI-1040, or combination for 16
+h. Total lysates were prepared in LDS lysis buffer and subjected to immunoblotting
+analysis with P-AKT (S473), P-ERK (T202/Y204), P-4EBP-1 (T46), P-S6K (T389),
+P-GSK3 (S9/21), cyclin D1 and c-Myc. (B) Cells of DU145, HCT116 and A549
+were plated and transfected with the indicated siRNAs similarly as in (Fig. 5A).
+After 3 days, cells were treated with WAY-175 for 6 h. Total lysates were subjected
+to immunoblotting with Mek1, cyclin D1, and c-Myc.
+Cancer cell response to PI3K inhibitors
+
+315 Cancer Biology & Therapy 2008; Vol. 7 Issue 2

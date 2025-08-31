@@ -1,0 +1,581 @@
+210 INTERNATIONAL JOURNAL OF ONCOLOGY 43: 210-218, 2013
+
+Abstract. Poly(ADP-ribose) polymerase inhibitors (PARPi)
+are currently evaluated in clinical trials in combination with
+topoisomerase I (Top1) inhibitors against a variety of cancers,
+including colon carcinoma. Since the mismatch repair component
+MLH1 is defective in 10-15% of colorectal cancers we
+have investigated whether MLH1 affects response to the Top1
+inhibitor irinotecan, alone or in combination with PARPi. To
+this end, the colon cancer cell lines HCT116, carrying MLH1
+mutations on chromosome 3 and HCT116 in which the wildtype
+MLH1 gene was replaced via chromosomal transfer
+(HCT116+3) or by transfection of the corresponding MLH1
+cDNA (HCT116 1-2) were used. HCT116 cells or HCT116+3
+cells stably silenced for PARP-1 expression were also analysed.
+The results of in vitro and in vivo experiments indicated
+that MLH1, together with low levels of Top1, contributed to
+colon cancer resistance to irinotecan. In the MLH1-proficient
+cells SN-38, the active metabolite of irinotecan, induced lower
+levels of DNA damage than in MLH1-deficient cells, as shown
+by the weaker induction of γ-H2AX and p53 phosphorylation.
+The presence of MLH1 contributed to induce of prompt
+Chk1 phosphorylation, restoring G2/M cell cycle checkpoint
+and repair of DNA damage. On the contrary, in the absence
+of MLH1, HCT116 cells showed minor Chk1 phosphorylation
+and underwent apoptosis. Remarkably, inhibition of PARP
+
+function by PARPi or by PARP-1 gene silencing always
+increased the antitumor activity of irinotecan, even in the
+presence of low PARP-1 expression.
+
+Introduction
+
+Colorectal cancer (CRC) is the second most common cause
+of cancer-related death in many industrialized countries.
+Although the addition of oxaliplatin or of the topoisomerase
+I (Top1) inhibitor irinotecan to 5-fluorouracil (5-FU)/
+leucovorin regimen has greatly improved survival (1), treatment
+failure frequently occurs. Resistance to Top1 poisons has
+been generally attributed to overexpression of efflux pumps
+and low expression or mutations of Top1 (2). Strategies to
+counteract resistance to Top1 poisons include their combination
+with poly(ADP-ribose) polymerase (PARP) inhibitors
+(PARPi) (3-7). PARP-1 is the oldest member of a family of
+enzymes that synthesizes and transfers ADP-ribose polymers
+to acceptor proteins (including PARP-1 itself) using NAD+
+as a substrate. PARP-1 has a key role in the surveillance and
+maintenance of genome integrity, sensing DNA breaks and
+signalling damage to DNA repair pathways (8). The interaction
+of poly(ADP-ribosyl)ated PARP-1 with specific domains
+of Top1 results in disjoining of Top1-DNA cleavable complex
+and favours resealing of strand breaks by the ligase activity of
+Top1 (9). Thus, PARPi would remove the antagonistic effect
+exerted by poly(ADP-ribose) on the mechanism of action of
+Top1 poisons, contributing to the formation of persistent DNA
+breaks (10). Another explanation for the synergism between
+PARPi and irinotecan implies the intervention of the base excision
+repair (BER) in the repair of the DNA damage induced by
+the Top1 poison (5).
+The MMR that eliminates replication errors and maintains
+genomic stability can be defective in familial or sporadic CRC
+and contributes to drug resistance/sensitivity (11). MMR is
+composed of several proteins forming different heterodimers:
+MutSα (MSH2/MSH6) recognizes single base mismatches, as
+
+Influence of MLH1 on colon cancer sensitivity
+to poly(ADP-ribose) polymerase inhibitor
+combined with irinotecan
+
+LUCIO TENTORI1*, CARLO LEONETTI4*, ALESSIA MUZI1
+, ANNALISA SUSANNA DORIO1
+,
+MANUELA PORRU4
+, SUSANNA DOLCI2
+, FEDERICA CAMPOLO2
+, PATRIZIA VERNOLE3
+,
+PEDRO MIGUEL LACAL5
+, FRANÇOISE PRAZ6,7 and GRAZIA GRAZIANI1
+
+Departments of 1
+System Medicine, 2
+Biomedicine and 3
+Science and Technology of Education, University of Rome ‘Tor
+Vergata’, I-00133 Rome; 4
+Experimental Preclinical Laboratory, Regina Elena National Cancer Institute,
+I-00158 Rome; 5
+Laboratory of Molecular Oncology, Istituto Dermopatico Dell'Immacolata (IDI), Istituto di Recovero e
+Cura a Carattere Scientifico (IRCCS)’, I-00167 Rome, Italy; 6
+INSERM, UMR_S 938, Saint-Antoine Research Centre,
+F-75012 Paris; 7
+UPMC Univ Paris 06, UMR_S 938, Saint-Antoine Research Centre, F-75012 Paris, France
+
+Received January 16, 2013; Accepted March 1, 2013
+
+DOI: 10.3892/ijo.2013.1932
+
+Correspondence to: Dr Grazia Graziani, Department of System
+Medicine, University of Rome ‘Tor Vergata’, Via Montpellier 1,
+I-00133 Rome, Italy
+E-mail: graziani@uniroma2.it
+
+*
+Contributed equally
+
+Key words: colon cancer, chemotherapy, drug resistance, DNA
+repair, poly(ADP-ribose) polymerase, mismatch repair
+TENTORI et al: MLH-1, PARP-1 AND SENSITIVITY OF COLON CANCER TO IRINOTECAN 211
+
+well as 1-bp insertion-deletion loops, whereas MutSβ (MSH2/
+MSH3) primarily recognizes 2-4-bp insertion-deletion loops;
+MutLα, (MLH1/PMS2), forms a ternary complex with a MutS
+heterodimer that binds to mismatches during replication,
+recruiting other proteins to complete the repair process (11).
+MutSα and MutLα also contribute to signal transduction pathways
+which lead to growth arrest or cell death induced by the
+methylating agent temozolomide (TMZ) (12,13).
+While the influence of MutSα and MutLα function in
+TMZ-induced sensitivity is known, the role of MLH1 in CRC
+susceptibility to irinotecan is controversial (6,14-19). On the
+other hand, MLH1-deficiency confers resistance to cisplatin or
+carboplatin, but not to oxaliplatin (20).
+Aims of the present study were to clarify whether MLH1
+loss of function affects colon cancer sensitivity to irinotecan
+and whether lack of PARP-1 expression/activity has different
+outcome depending on MLH1 status.
+
+Materials and methods
+
+Cell lines and transfection. The colon cancer HCT116 cell line
+has a hemizygous nonsense mutation in the MLH1 gene located
+on chromosome 3 (21). The MLH1-proficient HCT116/3-6
+cell line (HCT116+3) was created by microcell chromosome
+transfer of a single normal human chromosome (22) and
+kindly provided by Dr Giancarlo Marra (Institute of Molecular
+Cancer Research, University of Zürich, Switzerland). The
+HCT116 1-2 and HCT116 0-1 cells were generated by transfection
+with the full-length wild-type MLH1 cDNA cloned into
+the pcDNA3.1/Hygro vector or with the empty control vector,
+respectively (15). Cell lines were cultured in DMEM (SigmaAldrich,
+Milan, Italy), supplemented with 10% fetal calf
+serum, 2 mM L-glutamine and antibiotics. The HCT116+3
+cells were cultured in the presence of 400 µg/ml geneticin
+(Sigma-Aldrich), the HCT116 1-2 and HCT116 0-1 cells in the
+presence of 100 µg/ml hygromycin (Sigma-Aldrich).
+Stable silencing of PARP-1 in HCT116+3 cells (HCT116+3
+SiP) was obtained by co-transfection of the pBS-U6-SiP912
+vector and the pBabe vector, carrying the puromycin resistance
+gene. HCT116+3 cells, transfected with pBabe vector
+only, were used as control (HCT116+3 Babe). The HCT116 SiP
+and Babe cell lines were previously described (23). Cells were
+maintained in the presence of 1 µg/ml puromycin (SigmaAldrich).Drugs
+for in vitro studies. SN-38 (2.5 mM, Alexis), TMZ
+(100 mM, Sigma-Aldrich) and 7-hydroxystaurosporine
+(UCN-01, 100 nM, Sigma-Aldrich) stock solutions were
+prepared by dissolving the drugs in dimethyl sulfoxide. The
+final concentration of dimethyl sulfoxide was always <0.5%
+(v/v) and did not contribute to toxicity. The PARP inhibitor
+GPI 15427 [10-(4-methyl-piperazin-1-ylmethyl)-2H-7-oxa-1,2-
+diazabenzo[de]anthracen-3-one, Eisai, Baltimore, MD, USA]
+stock solution (1 mM) was prepared by dissolving GPI 15427
+in 70 mM PBS without potassium (24).
+
+Cell growth assays. Cell proliferation of colon cancer cell lines
+was evaluated by colony formation assay. Cells were seeded in
+triplicate into 6-well plates (2x102
+/well) and, after overnight
+incubation, treated with SN-38, TMZ or GPI 15427. Cells were
+
+cultured to allow colony-formation; after 10 days colonies
+were fixed, stained with 2% methylene blue in 95% ethanol
+and counted. Only colonies comprising >50 cells were scored
+as survival colonies. Chemosensitivity was evaluated in terms
+of IC50, i.e., the concentration of the drug capable of inhibiting
+cell growth by 50%.
+
+Flow cytometry analysis. Apoptosis and cell cycle perturbations
+induced by the drugs were evaluated by flow cytometry
+analysis of the DNA content. Untreated or drug treated cells
+(1x106
+) were washed with PBS and fixed in 70% ethanol at -20˚C
+for ≥18 h. Cells were then centrifuged, suspended in 1 ml of a
+solution containing 0.1% (w/v) sodium citrate, 0.1% Triton-X
+(v/v), 50 µg/ml propidium iodide, 10 µg/ml RNase and incubated
+in the dark at 37˚C for 15 min. The fluorescence was
+measured on a linear scale using a FACScan flow cytometer
+and the CellQuest software. Data collection was gated using
+forward light scatter and side scatter to exclude cell debris
+and aggregates. Apoptotic cells were represented by a broad
+hypodiploid peak easily distinguishable from the diploid DNA
+content in the red fluorescence channel. For cell cycle analysis,
+the Mod-Fit software version 3.0 was used (Becton-Dickinson,
+San Jose, CA, USA).
+
+Western blot analysis. For immunoblot analysis the following
+primary antibodies were used: rabbit polyclonal anti-human
+phosphorylated p53 (Ser15) (Cell Signaling Technology;
+Beverly, MA, USA; 1:1,000 dilution); rabbit polyclonal
+anti-human phosphorylated Chk2 (Thr68) (Cell Signaling
+Technology; 1:1,000); rabbit polyclonal anti-human β-tubulin
+(clone H-235; Santa Cruz Biotechnology Inc., Santa Cruz, CA,
+USA; 1:400); rabbit polyclonal anti-human γ-H2AX (phosphoS139)
+(Abcam, Cambridge, UK; 1:1,000); mouse monoclonal
+antibody anti-human Chk1 (G4, Santa Cruz Biotechnology
+Inc; 1:500); rabbit monoclonal anti-human phosphorylated
+Chk1 (Ser345) (133D3, Cell Signaling Technology; 1:1,000);
+mouse monoclonal anti-human MLH1 (clone G168-15, BD
+Biosciences, San Jose, CA, USA; 1/500); mouse monoclonal
+anti-calf PARP-1 (clone C2-10; Trevigen, Gaithersburg, MD,
+USA; 1:2,000 dilution); mouse monoclonal anti-human Top1
+(clone C-21 BD Biosciences; 1:500). Anti-rabbit and antimouse
+secondary antibodies (Sigma-Aldrich) were used at the
+appropriate dilutions. Signals were quantified using a Kodak
+densitometer (Rochester, NY, USA).
+
+PARP activity assay. Cells (5x106
+) were lysed in 0.5 ml of a
+buffer containing 0.1% Triton X-100, 50 mM Tris-HCl pH 8.0,
+0.6 mM EDTA, 14 mM β-mercaptoethanol, 10 mM MgCl2
+and protease inhibitors. Proteins (25 µg) were incubated with
+2 µCi 32P-NAD+
+ (GE Healthcare, Milan, Italy), 100 µM NAD+
+,
+50 mM Tris-HCl, 10 mM MgCl2, 14 mM β-mercaptoethanol,
+in the presence (maximally stimulated activity) or absence
+(basal activity) of 10 µg nuclease-treated salmon testes
+DNA. After 15 min at 30˚C the reaction was stopped adding
+ice-cold trichloroacetic acid 20% (v/v). The radioactivity
+associated with the acid-insoluble material, corresponding
+to poly (ADP-ribosyl)ated proteins, was counted on a liquid
+scintillation counter. PARP activity was evaluated as fmol of
+32P-NAD+
+/µg of protein and data were presented as the ratio
+between maximally stimulated and basal activity.
+212 INTERNATIONAL JOURNAL OF ONCOLOGY 43: 210-218, 2013
+
+Immunofluorescence microscopy of γ-H2AX. Cells were
+grown on poly-L-lysine coated glass coverslips and treated
+with SN-38. After 24 h, slides were washed twice with PBS
+and fixed in 4% (w/v) paraformaldehyde in PBS for 30 min.
+Cells were permeabilised with 0.1% Triton X-100 in PBS for
+2 min, incubated in 2.5% goat serum-PBS for 20 min and
+with rabbit anti-γ-H2AX polyclonal antibody for 2 h (Abcam,
+1:250 in 2.5% goat serum-PBS). After washing in PBS, cells
+were incubated with goat anti-rabbit-Alexa 488 secondary
+antibody (Molecular Probes, Eugene, OR, USA; 1:2,000) for
+1 h. Slides were counterstained by vectashield antifade solution
+containing 4,6 diamidino-2-phenylindole (DAPI, Vector
+Laboratories, Burlingame, CA, USA) and examined with a
+fluorescent microscope (Nikon Eclipse, E600, Yokohama,
+Japan). Images were analysed with the Arkon FISH program
+(Nikon). For quantitative analysis, foci were counted by eye
+during the microscopic and imaging process using a x100
+objective. Cells with ≥5 foci were considered positive for
+γ-H2AX expression (28).
+
+In vivo studies. The intramuscular transplantation procedure
+was performed as previously described (6). Tumor cells (3x106
+)
+were inoculated intramuscularly (i.m.) in male athymic CD-1
+mice (nu/nu genotype, 6/group; Charles River, Calco, Milan,
+Italy). Xenograft growth was monitored by measuring tumor
+nodules with calliper every 2-3 days for 3 weeks and volumes
+were calculated according to the following formula: [(width)2
+x length]/2. Irinotecan (Campto®, Aventis, Milan, Italy) was
+
+administered intraperitoneally (i.p) at 5 mg/kg/dx5d; treatment
+started when nodules reached 300 mm3
+. The animals
+were euthanized when their tumors reached a volume of ~1500
+mm3
+. All procedures involving mice and care were performed
+in compliance with our institutional animal care guidelines
+and with international directives (directive 2010/63/EU of
+the European parliament and of the council; Guide for the
+Care and Use of Laboratory Animals, United States National
+Research Council, 2011). The study was approved by the ethics
+committee of the University of Rome ‘Tor Vergata’.
+
+Results
+
+Analysis of MLH1 and Top1 expression and of sensitivity to
+Top1 inhibitor in HCT116 colon cancer cells transfected with
+the wild-type MLH1 cDNA or with chromosome 3. In order
+to evaluate the influence of MLH1 and Top1 or both in the
+susceptibility to the Top1 poison we initially performed immunoblot
+analysis of Top1 in the parental HCT116 cell line (devoid
+of MLH1 protein as a result of mutation in the MLH1 gene
+located on chromosome 3), in an HCT116 clone transfected
+with a control vector (HCT116 0-1) or with a vector expressing
+the wild-type MLH1 cDNA (HCT116 1-2) and in HCT116 cells
+in which MLH1 was introduced by transfer of chromosome 3
+(HCT116+3). Our results indicated that HCT116, HCT116 0-1
+and HCT116 1-2 expressed high and comparable levels of Top1
+protein. On the other hand, HCT116+3 cells showed very low
+Top1 expression (Fig. 1A). Then we analysed the sensitivity
+
+Figure 1. Analysis of MLH1 or Top1 expression and of sensitivity to SN-38 in HCT116 derived cell lines. (A) Analysis of MLH1 and Top1 expression. Cell
+lysates from parental HCT116 cells, HCT116 1-2 cells, transfected with MLH1 cDNA, and HCT116 0-1 cells, transfected with the empty control vector, or
+HCT116+3 cells, in which MLH1 had been introduced by chromosome transfer, were electrophoresed and analysed for the expression of MLH1, Top1 and
+tubulin. Histograms represent the ratios between the optical densities (OD) of Top1 and those of tubulin. The results are representative of one out of two
+experiments with similar results. (B) In vitro chemosensitivity. Tumor cell susceptibility to SN-38 or TMZ was assessed by colony-formation assay and
+the results were expressed as IC50. Only colonies comprising >50 cells were scored as survival colonies. Data are means [± standard deviation (SD)] from
+three independent experiments. The results of statistical analysis by Student's t-test of the differences in sensitivity are as follows: SN-38, HCT116 0-1 vs.
+HCT116 1-2, **P=0.003; TMZ, HCT116 0-1 vs. HCT116 1-2, ***P<0.0001; SN-38, HCT116 vs. HCT116+3, **P=0.002; TMZ, HT116 vs. HCT116+3, ***P<0.0001.
+TENTORI et al: MLH-1, PARP-1 AND SENSITIVITY OF COLON CANCER TO IRINOTECAN 213
+
+of MLH1-deficient and -proficient cells to SN-38, the active
+metabolite of irinotecan and to the methylating agent TMZ, as
+a control for MLH1 functional proficiency. In fact, MLH1 is
+required for the processing and cytotoxicity of O6
+MethylG/T
+mispairs generated by TMZ. The results, expressed as IC50,
+indicated that the MLH1-deficient HCT116 0-1 and HCT116
+
+cells were more sensitive to SN-38 as compared to MLH1-
+proficient HCT116 1-2 and HCT116+3 cells (Fig. 1B). The
+lower constitutive expression of Top1 might contribute to the
+higher SN-38 resistance of HCT116+3 cells compared with
+HCT116 1-2 cells (Fig. 1A). In HCT116 and HCTT116+3 cells
+the breast cancer resistance protein (BCRP), an ATP binding
+
+Figure 2. Sensitivity to SN-38 of HCT116 or HCT116+3 cells treated with a PARPi or stably silenced for PARP-1 expression. (A) Analysis of PARP-1 expression
+(left) and activity (right). Immunoblot analysis was performed in HCT116 or HCT116+3 clones transfected with the pBabe vector (HCT-116 Babe or HCT116+3
+Babe) or with the pBabe and pBS-U6-SiP912 vectors (HCT-116 SiP or HCT116+3 SiP). Cellular extracts were electrophoresed and analysed for the expression
+of PARP-1 or tubulin. Total cellular PARP activity was measured in cell extracts, in the absence (basal activity) or in the presence of nuclease-treated
+DNA (maximally stimulated activity) and 32P-NAD+
+. The results were expressed as means (± SD) of stimulated and basal activity ratios of three independent
+experiments. The results of statistical analysis by Student's t-test of the differences in PARP activity ratios are as follows: HCT116 Babe vs. HCT116+3 Babe, ***P<0.0001; HCT116 Babe vs. HCT116 SiP, ***P<0.0001; HCT116+3 Babe vs. HCT116+3 SiP, ***P<0.0001; HCT116 SiP vs. HCT116+3 SiP; NS, not significant.
+(B) Comparison of HCT116 or HCT116+3 sensitivity to SN-38, as single agent or in combination with a PARPi, with that of PARP-1 silenced HCT116 or
+HCT116+3 cells. Control HCT116 or HCT116+3 (Babe) or PARP-1 silenced (SiP) cells were exposed to graded concentrations of SN-38 (S) and analysed by
+colony-formation assay. In the case of Babe cells SN-38 was also combined with the PARPi GPI 15427 (Pi), at a concentration (0.3 µM) capable of significantly
+inhibiting cellular PARP activity (70-75% inhibition of the synthesis of ADP-ribose polymers) and devoid of a significant growth inhibitory effect (<15%).
+The results were expressed as IC50. Data are means (± SD) from three independent experiments. The results of statistical analysis by Student's t-test of the
+differences in sensitivity are as follows: HCT116 Babe treated with SN-38 vs. HCT116 Babe treated with SN-38+PARPi, **P=0.004; HCT116 Babe treated with
+SN-38 vs. HCT116 SiP treated with SN-38, *
+P=0.04; HCT116 Babe treated with SN-38+PARPi vs. HCT116 SiP treated with SN-38, *
+P=0.01; HCT116+3 Babe
+treated with SN-38 vs. HCT116+3 Babe treated with SN-38+PARPi, ***P<0.0001; HCT116+3 Babe treated with SN-38 vs. HCT116+3 SiP treated with SN-38, ***P<0.0001; HCT116+3 Babe treated with SN-38+PARPi vs. HCT116+3 SiP treated with SN-38, *
+P=0.02; HCT116 SiP treated with SN-38 vs. HCT116+3
+SiP treated with SN-38; NS, not significant. (C) Analysis of in vivo chemosensitivity of HCT116+3 Babe and SiP cells in mice treated with irinotecan. Mice
+were inoculated i.m. with Babe (n=6) or SiP (n=6) HCT116+3 cells and treated with irinotecan (as indicated in Materials and methods). Statistical analysis by
+Student's t-test indicated that the growth of SiP grafts is significantly inhibited by irinotecan compared with untreated control grafts (***P<0.001 from day 13
+onward); differences between the volumes of tumor nodules of untreated or drug treated mice injected with HCT116+3, NS, not significant.
+214 INTERNATIONAL JOURNAL OF ONCOLOGY 43: 210-218, 2013
+
+cassette transporter, which is regarded as an important determinant
+of resistance to camptothecins, was, instead, equally
+expressed (6). On the contrary, MLH1 proficiency conferred
+sensitivity to TMZ to a similar extent in both cellular models
+(Fig. 1B).
+
+Lack of PARP-1 activity increases the sensitivity to irinotecan
+in MLH1-proficient and -deficient HCT116 cells. We then
+evaluated the influence on tumor sensitivity to SN-38 of downregulation
+of PARP function by PARP-1 gene silencing and
+by pharmacological inhibition of poly(ADP-ribose) synthesis
+using PARPi. To this end HCT116 and HCT116+3 were stably
+silenced for PARP-1 expression (SiP clones) by transfection of
+a siRNA vector targeting specific sequences of PARP-1, which
+is responsible for >90% of the cellular poly(ADP-ribosyl)
+ating activity. Control clones were obtained by transfection
+of the pBabe vector only (Babe clones). Immunoblot analysis
+and PARP activity assay (Fig. 2A) revealed lack of PARP-1
+expression and negligible synthesis of poly(ADP-ribose) in
+SiP clones. Moreover, HCT116 Babe cells showed significantly
+higher levels of PARP-1 expression and activity compared
+with HCT116+3 Babe cells.
+Then, control Babe clones were tested for their susceptibility
+to the anti-proliferative effects of SN-38 in combination
+with a PARPi and the results compared to those obtained in
+their SiP counterparts. Pharmacological inhibition of PARP
+
+activity by GPI 15427 significantly increased sensitivity to
+SN-38 both in MLH1-deficient and in MLH1-proficient cells, as
+indicated by the IC50 values of SN-38 in the presence of PARPi
+that were ~6-fold lower than those of SN-38 used as single
+agent (Fig. 2B). PARP-1 silenced clones were ~2-4-fold more
+susceptible to the Top1 poison than control clones (Fig. 2B).
+The enhancing effect mediated by PARPi or PARP-1 gene
+silencing was more pronounced in the less sensitive HCT116+3
+cells (Fig. 2B). Noteworthy, in vivo studies showed that lack of
+PARP-1 expression in HCT116+3 SiP cells resulted in a higher
+tumor growth inhibition induced by irinotecan compared with
+HCT116+3 Babe cells (Fig. 2C). Analysis of the doubling
+times, evaluated on the basis of the growth kinetics of each
+clone, indicated that SiP clones possessed doubling times in
+the same range of those observed in PARP-1 proficient clones
+(22-26 h). Therefore, the distinct chemosensitivity profiles of
+Babe and SiP clones did not depend on different proliferation
+rates.
+According to the results of colony formation assay, immunoblot
+analysis of histone H2AX phosphorylation (γ-H2AX),
+as an indicator of DSB, showed that treatment with SN-38
+induced histone phosphorylation at higher level in HCT116
+Babe than in HCT116+3 Babe cells and in PARP-1 silenced
+clones with respect to their PARP-1 proficient controls
+(Fig. 3A). Immunofluorescence analysis of γ-H2AX foci in
+cells treated with SN-38 confirmed the results of immunonFigure
+3. Analysis of DNA damage induced by SN-38 in HCT116 or HCT116+3 cells control or stably silenced for PARP-1 expression. (A) Immunoblot analysis
+of γ-H2AX expression in SN-38 treated cells. Cells were treated with SN-38 (1.2 and 2.5 nM) for 24 h and analysed for the expression of γ-H2AX or tubulin.
+Histograms represent the ratios between the OD of γ-H2AX in SN-38 treated groups and tubulin. The results are representative of one out of two experiments
+with similar results. (B) Immunofluorescence analysis of γ-H2AX foci (green) in untreated or SN-38 treated cells. Nuclei were stained with DAPI (blue). The
+percentage of cells with ≥5 γ-H2AX foci of one representative out of two experiments is presented (50 cells counted for each experiment).
+TENTORI et al: MLH-1, PARP-1 AND SENSITIVITY OF COLON CANCER TO IRINOTECAN 215
+
+oblot analysis of γ-H2AX expression (Fig. 3B). The data also
+showed that the increment of γ-H2AX expression and foci
+formation resulting from the comparison of HCT116+3 SiP
+with HCT116+3 Babe cells was higher than that deriving from
+HCT116 SiP and HCT116 Babe comparison (Fig. 3).
+Since MLH1 is known to be involved in DNA damageinduced
+checkpoint, signalling the control of G2/M arrest
+by methylating agents like TMZ through phosphorylation of
+Chk1 (25-27), we have investigated whether treatment with
+SN-38 might induce different kinetics of induction of Chk1
+phosphorylation and cell cycle perturbations depending on
+the presence of MLH1 and/or PARP-1. The results of immunoblot
+analysis of Chk1 phosphorylation revealed that SN-38
+treatment induced an earlier Chk1 phosphorylation (3 h) in
+MLH1-proficient cells than in MLH1-deficient cells (Fig. 4A).
+At a later time-point (6 h) the highest level of Chk1 phosphorylation
+was detected in cells silenced for PARP-1, regardless of
+MLH1 expression (Fig. 4A). Cell treatment with SN-38 did not
+result in Chk2 phosphorylation (data not shown). Cell cycle
+
+analysis at 24 h after treatment showed a dose-dependent cell
+accumulation at the G2/M phase (Fig. 4B for HCT116+3 Babe
+and Sip cells; data not shown for HCT116 Babe and Sip cells).
+At 72 h after treatment the percentage of cells in the G2/M
+phase decreased in both Babe cell lines, whereas both PARP-1
+silenced cells underwent G2/M arrest (Fig. 4B for HCT116+3
+Babe and SiP cells; data not shown for HCT116 Babe and SiP
+cells).
+In HCT116 MLH1-deficient Babe and SiP clones treatment
+with SN-38 induced a dose-dependent and marked increase
+of p53 phosphorylation and of the percentage of apoptotic
+cells; this effect was more pronounced in PARP-1 silenced
+cells (Fig. 5). On the other hand, in HCT116+3 Babe and SiP
+cells only marginal level of p53 phosphorylation and apoptosis
+were detected (Fig. 5). Treatment of HCT116+3 Babe
+and SiP cells with a non-toxic concentration of the Chk1
+inhibitor UCN-01 reduced the G2/M cell accumulation (data
+not shown) favouring apoptosis induction by SN-38 in both
+cell lines (Fig. 5B).
+
+Figure 4. Analysis of Chk1 phosphorylation and cell cycle in Babe and SiP HCT116 and HCT116+3 cells treated with SN-38. (A) Immunoblot analysis of Chk1
+phosphorylation. HCT116 and HCT116+3 Babe or SiP cells were treated with SN-38 (1.2 and 2.5 nM) for 3 and 6 h; cell lysates were electrophoresed and
+analysed for the expression of phosphorylated Chk1 (P-Chk1) or Chk1. Histograms represent the ratios between the OD of phosphorylated Chk1 (after subtraction
+of OD values of untreated controls) and Chk1 in SN-38 treated groups (3 h, light grey columns; 6 h, dark grey columns). The results are representative of
+one out of two experiments with comparable results.(B) Cell cycle analysis. HCT116+3 Babe or SiP cells were treated with SN-38 (2.5-10 nM) and analysed
+by flow cytometry. The results are indicated as percentages of cells in the different phases of cell cycle at 24 h (left) and 72 h (right) after treatment and are the
+means (- SD) from three independent experiments. G1 phase, white columns; S phase, light grey columns; M phase, dark grey columns.
+216 INTERNATIONAL JOURNAL OF ONCOLOGY 43: 210-218, 2013
+
+Discussion
+
+Germline mutations of MMR genes or epigenetic inactivation
+of MLH1 may be present in CRC and influence the clinical
+behavior (28,29). While the lack of function of MLH1 and
+the presence of microsatellite instability have been associated
+with lower response to 5-FU (30), the predictive impact of the
+MLH1 functional status for irinotecan, as single agent or in
+combination with PARPi, needs to be clarified. Using a panel
+of human colon cancer cell lines derived from HCT116 and
+characterized by different patterns of MLH1, Top1 and PARP-1
+expression, we investigated the influence of these proteins on
+colon cancer cell response to irinotecan, as single agent or
+in combination with PARPi. To study the impact of MLH1
+expression on colon cancer cell chemosensitivity we used
+cell lines in which the defective gene product was restored by
+chromosome transfer or by transfection of the corresponding
+wild-type cDNA. The results indicated that MLH1-proficiency
+and low Top1 expression resulted in reduced sensitivity to
+irinotecan, but pharmacological inhibition of PARP activity or
+silencing of PARP-1 gene increased the susceptibility of colon
+
+cancer cells to the Top1 poison. Interestingly, cells with lower
+levels of PARP-1 protein could still be sensitized to irinotecan
+by PARPi.
+DNA damage consequent to Top1 poisoning derives from
+stabilization of the cleavable complex formed by Top1 and
+DNA, with formation of a transient single strand DNA nick.
+When the stabilized drug-DNA-Top1 complex collides with
+replication or transcription machineries, it leads to replication
+fork stalling and eventually DSB. Before DSB generation, the
+repair of DNA damage induced by Top1 inhibitors includes
+proteasomal degradation of Top1, hydrolysis of the phosphodiester
+bond, between the 3'-end of DNA and a tyrosine
+residue of Top1, by the tyrosyl DNA phosphodiesterase-1 and
+removal of Top1-cleavable complex by the endonucleases
+XPF-ERCC1 (2). In MLH1-proficient cells SN-38 induced a
+lower level of DNA damage with respect to MLH1-deficient
+cells, as evidenced by the weak induction of γ-H2AX and
+p53 phosphorylation. The presence of MLH1 contributed to
+induce prompt Chk1 phosphorylation, restoring G2/M cell
+cycle checkpoint and repair of DNA damage. On the contrary,
+in the absence of MLH1, HCT116 cells showed minor Chk1
+
+Figure 5. Analysis of p53 activation (A) and apoptosis induction (B) in MLH1-deficient HCT116 Babe and SiP cells treated with SN-38. (A) HCT116 and
+HCT116+3 Babe or SiP cells were treated with the indicated concentrations of SN-38 for 6 h; cell lysates were electrophoresed and analysed for the expression
+of phosphorylated p53 (P-p53) or tubulin. Histograms represent the ratios between the OD of phospho-p53 in SN-38 treated groups and tubulin. The results are
+representative of one out of two experiments with similar results. (B) Apoptosis was analysed by flow cytometry in HCT116 and HCT116+3 Babe or SiP cells
+at 72 h after treatment with SN-38. In the case of HCT116+3 Babe and SiP cells SN-38 was also tested in combination with 100 nM UCN-01 (striped columns).
+Histograms represent the mean percentage values (± SD) of apoptotic cells from three independent experiments. The results of statistical analysis by Student's
+t-test of the differences in sensitivity to apoptosis induction are as follows: left histogram, 2.5 nM SN-38 HCT116 Babe vs. HCT116 SiP, *
+P=0.02; 5 nM SN-38,
+HCT116 Babe vs. HCT116 SiP, ***P=0.004; 10 nM SN-38 HCT116 Babe vs. HCT116 SiP; NS, not significant; right histogram, HCT116+3 Babe, 2.5 nM SN-38
+vs. 2.5 nM SN-38+UCN-01, **P=0.002; 10 nM SN-38 vs. 10 nM SN-38+UCN-01, **P=0.005; HCT116+3 SiP, 2.5 nM SN-38 vs. 2.5 nM SN-38+UCN-01, **P=0.002; 10 nM SN-38 vs. 10 nM SN-38+UCN-01, **P=0.003.
+TENTORI et al: MLH-1, PARP-1 AND SENSITIVITY OF COLON CANCER TO IRINOTECAN 217
+
+phosphorylation and underwent apoptosis. Actually, inhibition
+of Chk1 by UCN-01 decreased G2/M cell accumulation
+induced by the Top1 poison in MLH1-proficient cells and triggered
+apoptosis. Treatment with SN-38 did not result in Chk2
+phosphorylation (data not shown) likely for the presence of
+mutations in the Mre11 gene. The consequent lack of Mre11
+protein (31) and very low expression of RAD50 cause destabilization
+of the MRN complex, which is required for Chk2
+phosphorylation by ATM in response to DSB (32).
+Low levels of Top1 protein are known to confer a moderate
+level of resistance to camptothecins due to the formation of
+a small amount of DNA-Top1 cleavable complexes (2). Since
+HCT116+3 cells expressed lower level of Top1 protein with
+respect to HCT116 cells, this might have contributed to the
+poorer response of HCT116+3 cells to irinotecan. In fact, the
+sensitivity to SN-38 of HCT116 1-2 cells transfected with the
+MLH1 cDNA differed to a lesser extent from that of HCT116
+control cells, which showed comparable Top1 expression. Our
+data indicated that when a defective gene product is replaced
+by chromosome transfer the expression of other proteins
+involved in tumor drug response may change and influence
+tumor chemosensitivity.
+Pharmacological inhibition or stable gene silencing
+of PARP-1 increased sensitivity to SN-38 both in MLH1-
+proficient and -deficient cells. Notably, the enhancing effect
+deriving from abrogation of PARP-1 function was particularly
+evident in the HCT116+3 derived line and translated into an
+increased in vivo response of HCT116+3 SiP to irinotecan.
+Tumor chemosensitization mediated by lack of function of
+PARP-1 is likely due to the decrease of DNA repair mediated
+by the BER system. PARP-1 contributes to the repair of Top1
+mediated damage promoting the recruitment of XRRC1 and
+tyrosyl DNA phosphodiesterase-1 with removal of Top1 from
+DNA (5). These results are consistent with the reported higher
+toxicity of Top1 poisons in cervical cancer or in melanoma
+cells stably silenced for PARP-1 (33,34). On the other hand, the
+transient silencing of PARP-1 in an ovarian cancer cell line did
+not result in chemosensitisation to Top1 poisons (35). During
+the preparation of this study, a report was published indicating
+that the PARPi veliparib synergized with irinotecan in vitro
+in HCT116 cells (36). In our study we showed, for the first
+time, that the chemosensitising effect induced by pharmacological
+inhibition of PARP or by PARP-1 gene silencing can
+be achieved even in the presence of low Top1 levels and in the
+case of both MLH1-proficient and MLH1-deficient tumors.
+In PARP-1 silenced cells devoid also of MLH1 expression
+SN-38 induced more DNA damage than in MLH1-proficient
+SiP cells, causing a remarkable p53 phosphorylation and apoptosis
+induction. In MLH1-deficient SiP cells the Top1 poison
+also induced a delayed (compared with MLH1-proficient SiP)
+but robust Chk1 phosphorylation, suggesting that MLH1
+might influence the kinetics of induction rather than the extent
+of Chk1 post-translational modifications.
+Interestingly, the low levels of PARP-1 expression in
+HCT116+3 cells did not hamper the chemosensitising effect
+mediated by the PARPi GPI 15427 in combination with
+SN-38. These results are different from those obtained in MEF
+lines derived from PARP-1-/- mice that could not be sensitized
+to topotecan by the PARPi veliparib (35). However, in MEF
+cells PARP-1 was totally lacking, whereas in HCT116+3 cells
+
+PARP-1, even though expressed at lower levels than in HCT116
+cells, was sufficient to allow the chemosensitising effect by
+GPI 15427.
+In conclusion, these data indicated that MLH1, together
+with low levels of Top1, contributes to colon cancer resistance
+to Top1 poisons. Remarkably, inhibition of PARP-1 function
+always increases the antitumor activity of irinotecan even in
+the presence of low PARP-1 expression.
+

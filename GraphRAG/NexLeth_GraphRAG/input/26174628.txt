@@ -1,0 +1,810 @@
+Abstract
+This study describes the characterization of a novel kinase inhibitor,
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+, which inhibits CDK4/6 and PI3K-δ and exhibits potent activity against mantle cell lymphomas (MCLs) both
+in vitro
+and
+in vivo
+. We examined the effects of PD0332991 and ON 123300 on cell cycle progression, modulation of the Rb and PI3K/AKT pathways, and the induction of apoptosis in MCL cell lines and patient-derived samples. When Granta 519 and Z138C cells were incubated with PD0332991 and
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+, both compounds were equally efficient in their ability to inhibit the phosphorylation of Rb family proteins. However, only
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+inhibited the phosphorylation of proteins associated with the PI3K/AKT pathway. Cells treated with PD0332991 rapidly accumulated in the G
+0
+/G
+1
+phase of cell cycle as a function of increasing concentration. Although
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated cells arrested similarly at lower concentrations, higher concentrations resulted in the induction of apoptosis, which was not observed in PD 0332991-treated samples. Mouse xenograft assays also showed a strong inhibition of MCL tumor growth in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated animals. Finally, treatment of ibrutinib-sensitive and resistant patient-derived MCLs with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+also triggered apoptosis and inhibition of the Rb and PI3K/AKT pathways, suggesting that this compound might be an effective agent in MCL, including ibrutinib-resistant forms of the disease.
+Keywords:
+mantle cell lymphoma, CYCLIN D, CDK4, RB, PI3K, targeted therapyIntroduction
+Mantle cell lymphoma (MCL) is a well-defined and aggressive B-cell non-Hodgkin’s lymphoma that is genetically characterized by the t(11;14)(q13;q32) chromosomal translocation which results in constitutive over-expression of CYCLIN D1
+1
+–
+3
+. CYCLIN D1 over-expression is considered to be a hallmark of MCL, and is closely correlated with the proliferative rate of these malignant cells
+4
+. Because CYCLIN D1 over-expression has been shown to be the most common feature of MCL, PD0332991 (palbococlib), a selective CDK4/6 inhibitor
+5
+, has been tested in Phase I/II clinical trials as a targeted therapy for MCL. Unfortunately, as a single agent, PD0332991 was reported to be cytostatic and hence, resulted in only stabilization of the disease with very few objective clinical responses
+6
+,
+7
+. Despite these shortcomings, this agent has been found to sensitize MCL cells to other cytotoxic drugs due to the fact that MCLs frequently exhibit lesions in other signaling pathways including those mediated by the B-cell receptor (BCR), phosphatidylinositol 3 kinase (PI3K), WNT, NOTCH and TGF-β
+8
+,
+9
+Of these, dysregulated PI3K signaling is one of the most widely studied and represents an attractive druggable target.
+Class I PI3Ks are the major activators of the AKT serine-threonine kinase and are sub-divided into class IA and IB kinases
+10
+. Of the three class IA subtypes, PI3K-α, PI3K-β, and PI3K-δ, both the α and δ isoforms play critical roles in immune signaling of normal cells. While PI3k-δ is lineage restricted, expressed at high levels in B-lymphocytes and transmits signals from the BCR, PI3K-α plays a ligand-independent role in this process. Furthermore, both isoforms are mediators of agonist-independent, constitutive BCR signaling that occurs in MCL
+11
+–
+13
+. Studies have shown that MCLs constitutively activate the PI3K-AKT-mammalian target of rapamycin (mTOR) pathway and that this signaling module plays a key role in the aggressive blastoid variant of the disease
+13
+–
+15
+. Furthermore, in the case of refractory disease, both PI3K-α and PI3K-δ are also involved in ligand-independent activation of this pathway
+13
+. Ibrutinib (PCI-32765, Imbruvica
+®
+), an inhibitor of the Burton's tyrosine kinase (BTK), has been remarkably successful in the treatment of chronic lymphocytic leukemia (CLL) and has recently been approved for the treatment of certain refractory or relapsed MCL cases. Notably, this drug effectively induces complete remission in approximately 21% of these patients
+16
+and is thought to do so, in part, by indirectly inhibiting PI3K-δ mediated signals. As a result, several PI3K-δ inhibitors are now in various stages of clinical trials for the treatment of MCL and other B-cell malignancies
+17
+,
+18
+. In spite of ibrutinib’s efficacy, acquired resistance to the drug is beginning to emerge in the clinic. Whole exome sequencing has revealed the presence of a single point mutation in the BTK ibrutinib binding site, C481S, which results in enhanced BTK and AKT activities in ibrutinib-treated patients with relapsed MCL
+19
+. Furthermore, subsets of patients that exhibit primary resistance or respond temporarily to the drug underscore the need to overcome alternate mechanisms of ibrutinib-resistance
+19
+.
+Owing to the near complete dysfunction of the CYCLIN D1/CDK4/Rb pathway and activation of the PI3K/AKT pro-survival pathway in most MCLs, recent studies have focused on combination therapies targeting both signaling modules. These studies have shown that treatment of MCL cells with PD0332991 induces G
+1
+arrest of cells and sensitizes them to selective PI3K-δ inhibitors, such as GS-1101 (idelalisib, CAL-101)
+20
+. It is hypothesized that cells that are blocked in G
+1
+by CDK4/6 inhibition allows for sustained inhibition of PI3K-δ that is unlikely to be overcome by compensation of other PI3K isoforms
+19
+,
+20
+.
+Towards the goal of inhibiting both CYCLIN D/CDK4/Rb and PI3Kδ in MCL, we recently developed a dual inhibitor of both pathways,
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+21
+, and examined its effects on the growth and apoptosis of MCL cell lines. Our studies show that unlike PD0332991, treatment with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+was cytotoxic and induced apoptosis of MCL cell lines and patient-derived MCLs. Our studies also show that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+was effective in reducing the tumor burden in mouse xenograft models of MCL in the absence of adverse side effects.Materials/Subjects and Methods
+MCL Patient Samples
+Primary human lymphoma samples were obtained either as part of standard excisional biopsy or from peripheral blood samples from patients at the Icahn School of Medicine at Mount Sinai with informed and written consent for tissue banking following a protocol approved by the Institutional Review Board (MSSM IRB#11-1669) and in accordance with the Declaration of Helsinki. Specimens were processed to viable, sterile single-cell suspensions. Briefly, lymph node tissue was diced and forced through a metal sieve in a laminar flow hood into RPMI medium. Peripheral blood mononuclear cells or disaggregated mantle cell lymphoma biopsy cells were pelleted by low-speed centrifugation, resuspended in media composed of 90% fetal bovine serum (FBS) and 10% DMSO (Sigma), frozen slowly in the vapor phase of liquid nitrogen in multiple cryovials, and stored in liquid nitrogen.
+Cell Lines
+Cell lines were obtained from ATCC and cultured in Dulbecco’s Modified Eagle Medium (DMEM) or RPMI (Life Technologies) supplemented with 10% FBS and penicillin-streptomycin at 37°C under humidified conditions and 5% CO
+2
+. All cell lines tested negative for mycoplasma. To determine GI
+50
+values, cells were seeded at a density of 2.5×10
+3
+cells-0.1ml
+−1
+per well of a 96-well plate. The compounds were added 24 hrs post-plating at the indicated concentrations. Cell counts were determined from duplicate wells 96 hrs post-treatment. The total number of viable cells was determined using the Cell Titer Blue assay in conjunction with the GloMax plate reader (Promega).
+Reagents and Antibodies
+TNF-a was purchased from R&D Systems (catalog #210-TA/CF).
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+was obtained from Onconova Therapeutics, Inc. PD0332991, U0126 and QNZ were purchased from Selleckchem. Antibodies directed against PARP (catalog #9542), CASPASES 3 (catalog #9665), 7 (catalog #9492) and 9 (catalog #9502), phospho-Rb
+Ser780
+(catalog #9307), Rb (catalog #9309), phospho-mTOR
+Ser2481
+(catalog #2974), mTOR (catalog #4517, phospho-4EBP1 (catalog #9459), 4EBP1 (catalog #9644), phospho-S6RB (catalog #2211), S6RB (catalog #2317), phospho-FOXO1 (catalog #9461), phospho-ERK (catalog #4370), ERK (catalog #9107), phospho-MEK (catalog #9154), MEK (catalog #4694), phospho-NF-κB p65
+Ser536
+(catalog #3033), and phospho-Rb
+Ser807/811
+(catalog #9308) were obtained from Cell Signaling Technologies. GAPDH (catalog #SC-47724), AKT (catalog #SC-1618), p130 (catalog #SC-317), CDK4 (catalog #SC-260), CDK2 (catalog #SC-163), CYCLIN D1 (catalog #SC-8396), NF-κB p65 (catalog #sc-8008) and p21-specific (catalog #SC-756) antisera were purchased from Santa Cruz Biotechnology. The phospho-AKTSer473 antibody was purchased from R&D Systems (catalog #AF-887). Phospho-p130 antiserum was obtained from Abcam (catalog #AB68136).
+Kinase Assays and Western Blot Analysis
+Kinase assay were performed as described earlier using recombinant proteins
+21
+. For whole cell extracts derived from cell lines, cells were grown as indicated and lysed in NP-40 cell lysis buffer (20mM Tris, pH 7.4/ 250nM NaCl/ 5nM EDTA/ 50mM NaF/ 1nM Na
+3
+VO
+4
+/ 1% NP40/ 0.02% NaN
+3
+) (Invitrogen). Patient derived samples were incubated with amonium chloride to remove red blood cells and the remaining cells lysed in RIPA buffer (25mM Tris-HCl, pH 7.5/ 150mM NaCl/ 1mM EDTA/ 1mM EGTA/ 1% NP40/ 1% SDS/ 2.5mM sodium pyrophosphate/ 1nM β-glycerophosphate/ 1mM Na
+3
+VO
+4
+/ 1mM leupeptin). Proteins were resolved by SDS-PAGE, transferred to nitrocellulose membranes and subjected to Western blot analysis using the indicated antibodies. Proteins were visualized using an Odyssey imaging system (LI-COR Biosciences).
+Flow Cytometric Analysis
+To determine cell cycle distribution, ethanol fixed cells were washed with phosphate buffered saline (PBS), resuspended in PBS and incubated with RNase and propidium iodide at 37°C for 20 min. DNA content was measured using a FACS Calibur (BD Biosciences) and the data analyzed using FlowJo (Treestar). Annexin V staining of patient-derived material was performed using the FITC-Annexin V Apoptosis Detection Kit I (BD Biosciences). All data were acquired using a LSRFortessa (BD Biosciences) and analyzed using Cytobank (
+https://www.cytobank.org/
+).
+Animal Studies
+To determine the maximum tolerated dose of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+, female CD-1 mice (10–12 weeks of age) were injected intraperitonially (ip) with a single dose of 100mg/kg or 200 mg/kg of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+. Signs of toxicity and body weights were monitored and recorded over the next 7 days. In a second study, 200mg/kg
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+was administered via ip injection for 5 consecutive days. Signs of toxicity and body weights were monitored and recorded over the next 10 days. n=3 per group.
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+plasma level concentrations were determined using female CD-1 mice (10–12 weeks of age). Mice were treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+(50mg/kg) dissolved in water via ip injection or oral gavage (po). Mice were euthanized at 10 minutes, 30 minutes, 1 hour, 2 hours, 4 hours and 8 hours post-administration. Blood was collected by heart puncture into heparinized tubes containing 10µl of 0.5 M EDTA and plasma was obtained following centrifugation for 10 minutes at 10,000 rpm. Plasma samples were analyzed by liquid chromatography/mass spectrometry (LC/MS) (Agilent 1200 HPLC /Agilent Triple Quad). Area Under the Curve (AUC) was calculated according to the trapezoidal rule: (1/2)(C
+1
++C
+2
+)(t
+1
+−t
+2
+). n=2 per time point.
+For unblinded tumor xenograft assays, 1×10
+7
+Z138C cells were implanted subcutaneously into female nu/nu mice (12 weeks of age). Tumors were allowed to reach 100mm
+3
+in size before the animals were randomly assigned to treatment groups. Five mice per group were treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+(100mg/kg) or vehicle (water) daily or every alternate day in two independent experiments. Tumor volumes and bodyweights were recorded as indicated. Tumor volumes were calculated using the following equation: (4/3)((L+W)/4)
+3
+.
+All experiments were performed under protocols approved by the Icahn School of Medicine at Mount Sinai’s Institutional Animal Care and Use Committee according to federal and institutional guidelines and regulations. Animals were purchased from Charles River Laboratories.
+Statistical Analysis
+Statistical analysis was performed using a standard, unpaired, two-tailed Student’s
+t
+test. Data are graphed as mean ± SD. Results were considered significant as p≤0.05.Results
+Derivation of a small molecule inhibitor of MCL growth
+We recently synthesized a large number (approximately 3,000) of novel ATP mimetics, some of which contained the basic backbone shown in
+Fig. 1A
+and exhibited potent CDK4 inhibitory activity
+21
+. These compounds were tested in
+in vitro
+tissue culture growth inhibitory (GI
+50
+) assays against a panel of cell clines representing a variety of tumor types. This screen revealed that one of these compounds, ON0123300, exhibited 10–100-fold higher cytotoxicities against MCL cell lines as compared to those of other tumors (
+Table 1
+). Subsequent testing of this compound by Reaction Biology Corp (Malvern, PA) for activity against a series of 285 functional kinases revealed that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+is a multi-kinase inhibitor
+21
+, with highest activity against CDK4 and ARK5 (
+Table 2
+), two kinases intimately associated with growth, survival and metastasis of human tumor cells
+22
+,
+23
+. In addition to these kinases, this compound was shown to inhibit PI3K-δ, with an IC
+50
+of 144nM (
+Table 2
+). The kinase inhibition profile of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+along with the synthetic procedures used to synthesize
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+have been published earlier
+21
+.
+Open in a separate window
+Figure 1
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+is a multi-kinase inhibitor
+(A)
+Structure of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+.
+(B)
+Calculation of IC
+50
+values against CDK4/CYCLIN D1 and
+(C)
+PI-3 Kinase δ by
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+. Recombinant proteins were incubated with the indicated concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and subjected to
+in vitro
+kinase assays as described in the methods section. Values obtained were plotted as a function of log drug concentration. IC
+50
+values were determined by plotting sigmoidal non-linear regression curves with a variable slope.
+Table 1
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+GI
+50
+values in human tumor cell lines.
+Cell Line
+Tumor Type
+GI
+50
+(µM)
+Z138C
+MCL
+0.025
+GRANTA-519
+MCL
+0.035
+DLD-1
+Colorectal
+0.100
+SW480
+Colorectal
+0.100
+COLO-205
+Colorectal
+0.200
+HCT-15
+Colorectal (MDR high)
+0.400
+MIA-PaCa-2
+Pancreatic
+0.250
+SNU-5
+Gastric
+0.200
+SNU-398
+Gastric
+0.300
+MDA-MB-231
+Breast (Triple Negative)
+0.200
+MDA-MB-157
+Breast (Triple Negative)
+0.250
+BT-474
+Breast (ER+HER2+)
+0.250
+SK-BR-3
+Breast (HER2+)
+0.600
+MCF-7
+Breast (ER+)
+0.150
+BT-20
+Breast
+0.100
+Open in a separate window
+Table2
+Kinase inhibition profile of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+.
+Kinase
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+IC
+50
+(nM)
+PD0332991 IC
+50
+(nM)
+CDK4/CYCLIN D1
+3.87
+5.36
+CDK6/CYCLIN D1
+9.82
+3.76
+ARK5
+4.95
+>5,000
+FGFR1
+26.0
+>10,000
+PDGFRβ
+26.0
+>10,000
+PI3K-δ
+144.0
+>10,000
+Open in a separate window
+Inhibition by CDK4 kinase activity by
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+To confirm the observation that CDK4 and PI3K-δ are targets of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+, we independently tested its activity in
+in vitro
+kinase assays using recombinant CDK4 and PI3K-δ (
+Fig. 1B & C
+). Our results showed that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+is a potent inhibitor of CDK4, with an IC
+50
+of 3.8nM, with little inhibitory activity against CDKs 1,2,5 and 8 (data not shown). As a positive control, we used PD0332991, a commercially available CDK4 inhibitor, which is highly selective towards CDK4 and CDK6 and is currently in various phases of clinical trials
+5
+,
+7
+. Kinase inhibition assays showed that PD0332991 showed similar inhibition of CDK4 with an IC
+50
+of 5.36nM (
+Table 2
+). However, when these assays were performed using PI3K-δ,
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+inhibited the kinase with an IC
+50
+of 144nM while PD0332991 failed to show any inhibitory activity (
+Figure 1C
+and
+Table 2
+).
+Effect of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and PD0332991 on cell cycle progression and induction of apoptosis of MCL cells
+We next examined the effect of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and PD0332991 treatment on the cell cycle progression of MCL cell lines. For these studies, Z138C cells were cultured in the presence of increasing concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+or PD0332991 for 24 hours. The cells were then harvested and subjected to propidium iodide staining and flow cytometric analysis.
+Figure 2A
+shows the distribution of cells in various phases of the cell cycle. DMSO-treated cells served as negative controls. In the absence of drug, the majority of cells were in the G
+1
+phase of the cell cycle with smaller percentages of the population in the S and G
+2
+phases (
+Fig. 2A
+). As expected, a rapid accumulation of the cells in the G
+1
+phase of the cell cycle was evident following treatment with PD0332991 (
+Fig. 2A
+), with little or no accumulation of cells in the sub-G
+1
+phase. While cells treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+also accumulated in the G
+1
+phase at lower concentrations (0.1–1.0µM), at higher concentrations of the compound, a large proportion of the cells progressed through the S and G
+2
+/M phases of the cell cycle and eventually accumulated in the sub-G
+1
+phase, suggesting an induction of apoptosis (
+Fig. 2A
+).
+Open in a separate window
+Figure 2
+Modulation of the cell cycle and induction of apoptosis in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated MCL cell lines
+(A)
+Z138C cells were treated with vehicle (DMSO) or increasing concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+or PD0332991 for 24 hours, stained with propidium iodide and subjected to flow cytometric analysis.
+(B)
+Granta and
+(C)
+Z138C cells were treated with vehicle (V) or increasing concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+or PD0332991 for 24 hours. Whole cell extracts were subjected to western blot analysis using antibodies directed against the indicated proteins. GAPDH is shown as a loading control. Images representative of 4 independent experiments are shown.
+To determine whether higher concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+induced apoptosis in MCL cells, the levels of caspases 3, 7 and 9 as well as PARP cleavage were determined by Western blot analysis. The results presented in
+Figure 2B and C
+show that while there is no evidence of apoptosis in PD0332991-treated cells, we could readily see PARP cleavage in cells treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+at concentrations greater than or equal to 2.5µM for 24 hrs. We also observed decreases in the levels of full-length forms of caspases 3, 7 and 9, which are cleaved into their active forms upon the onset of apoptotic cell death.
+Because
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+induced growth arrest and cell death over a 96 hr period at concentrations of 25–50nM, we repeated these studies using lower concentrations of the compound. These studies showed that incubation of the Granta 519 and Z138C cell lines with PD0332991 for 72–96 hrs did not show any PARP cleavage, while similar incubation of these cells with identical concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+readily resulted in PARP cleavage (data not shown). These results confirm previous studies
+5
+,
+20
+,
+24
+and suggest that while PD0332991 induces effective growth arrest of MCL cell lines, it is not accompanied by apoptosis. On the other hand, while
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+triggers growth arrest at lower concentrations in a manner similar to PD0332991, at higher concentrations, this compound induces apoptosis of MCL cell lines.
+Status of cell cycle regulatory proteins in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated cells
+It is now well established that the Retinoblastoma family of proteins (pRb, Rb2/p107 and p130) are primary targets of CDK4
+7
+. It is therefore highly likely that phosphorylation of Rb family proteins is inhibited due to inhibition of CDK4 in MCL cells treated with PD0332991 or
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+. To determine the effects of PD0332991 and
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on Rb and its related proteins, Granta 519 and Z138C cells were treated with increasing concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+or PD0332991 for 24 hours. Whole cell extracts were subjected to western blot analysis using antibodies directed against Rb and p130 and their phosphorylated forms as well as CDK4, CDK2 and p21. The results of this study, presented in
+figure 3
+, showed that both compounds (
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+as well as PD0332991) inhibited the phosphorylation of pRb and p130 in a dose- dependent manner. Although the levels of CYCLIN D1 declined as a function of ON0123300 concentration, these results are in agreement with previous studies showing that inhibition of PI3K/AKT/mTOR signaling leads to loss of CYCLIN D1 expression
+14
+,
+15
+. p107 levels were extremely low in both cell lines, making it difficult to determine the effects of both ON0123300 and PD0332991 on its phosphorylation status (data not shown). While the levels of CDK4 and CDK2 were unaffected in cells treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and PD0332991, we consistently observed loss of p21 levels in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+treated cells, which was not readily seen in cells treated with PD0332991, which appears to be a consequence of PI3K pathway inhibition described below. These results suggest that both PD0332991 as well as
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+inactivate the Rb pathway in the two MCL cell lines studied here with equal efficiency.
+Open in a separate window
+Figure 3
+Inhibition of the CDK4/CYCLIN D/Rb pathway by
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+(A)
+Granta 519 and
+(B)
+Z138C cells were treated with increasing concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+or PD0332991 for 24 hours. Western blot analysis was performed as described in
+Fig. 2
+. Images representative of 4 independent experiments are shown.
+Effect of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on the PI3K/AKT/mTOR pathway
+Because
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+inhibits PI3K-δ the phosphorylation status of members of PI3K pathway in cells treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and PD0332991. As predicted, there was no discernable change in the phosphorylation status of AKT, mTOR, 4EBP1 and S6 ribosomal protein (S6RB) in PD0332991-treated Granta519 and Z138C cells (
+Figure 4
+). However, we readily detected inhibition of AKT Ser473 phosphorylation, which is mediated by members of the PI3K family
+25
+,
+26
+, in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated cells. Inhibition of AKT phosphorylation subsequently resulted in an inhibition of mTOR phosphorylation at Ser2481, a site that is phosphorylated by AKT
+25
+. Similarly, phosphorylation of downstream AKT/mTOR targets, 4EBP1 and S6RB
+27
+,
+28
+, were inhibited in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated cells. In addition, we also noted inhibition of FOXO1 phosphorylation, which is also known to be a target of mTOR
+29
+, in cells treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+(
+Figure 4
+). Dephosphorylation of FOXO1 positively regulates the transcriptional activity of this growth suppressor protein, which has been shown to activate apoptotic pathways and cell cycle arrest
+30
+. Together, these studies provide a molecular basis for the observed induction of apoptotic pathways seen in cells treated with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+.
+Open in a separate window
+Figure 4
+Inhibition of PI3K-mediated signaling by
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+(A)
+Granta 519 and
+(B)
+Z138C cells were treated with increasing concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+or PD0332991 for 24 hours and subjected to western blot analysis as described in
+Fig. 2
+. Images representative of 4 independent experiments are shown.
+Effect of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on the MAP kinase and NF-kB Pathways
+Because
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+is a multi-kinase inhibitor, it is possible that some of its anti-tumor activity might be associated with its ability to inhibit MAPK and/or NF-kB pathways. To test this possibility, we examined the phosphorylation status of MEK and ERK1 & 2 kinases whose activation is mediated by growth factor receptors. These studies, presented in
+supplemental Fig. 1
+, show that neither
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+nor PD0332991 has any effect on the phosphorylation status of MEK or ERK kinases, whereas U0126, a known MEK inhibitor that served as a positive control, potently inhibited MEK and ERK phosphorylation in Granta 519 and Z138 cell lines.
+We next examined the effects of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and PD0332991 on the phosphorylation status of p65 (NF-kB), a recently identified druggable target in MCL
+31
+, in exponentially growing Z138 cells and observed no change in the phosphorylation status of this protein (
+Supplemental Figure 2A
+). As a positive control, we used HeLa cells that were treated with 5ng/ml of TNF-α which are known to activate the NF-kB pathway in response to this chemokine. Following treatment with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+or PD0332991, cells were incubated with TNF-α for 5 min and the level of p65 NF-kB phosphorylation examined by Western blot analysis. These studies, presented in
+supplemental figure 2B
+, show that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and PD0332991 had little or no effect on the phosphorylation status of p65, while QNZ (EVP4593), a known inhibitor of the NF-kB pathway induced strong inhibition of p65 phosphorylation.
+Effect of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on primary patient-derived MCL viability
+To test the effects of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on primary tumor samples, we collected peripheral blood by apheresis from MCL patients with leukemic disease. Two samples, one sensitive to ibrutinib (MEM1), and a second sample from a patient with ibrutinib-resistant MCL (MEM2), were used in these studies. The cells were treated with increasing doses of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+and the level of apoptosis measured using Annexin V staining.
+Figure 5A
+shows the increase in Annexin V positive cells of both samples following exposure to
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+for 24 hrs. While the onset of apoptosis in both the ibrutinib-sensitive and resistant samples was observed in cells treated with as little as 500nM of the compound, nearly 100% of cells stained Annexin V+ in the presence of 5µM
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+(
+Fig 5A
+).
+Open in a separate window
+Figure 5
+Effect of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on primary patient-derived MCLs
+(A)
+Induction of apoptosis in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated ibrutinib-sensitive (MEM1) and resistant (MEM2) MCLs. Cells were treated with the indicated concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+for 18 hrs. The level of Annexin V staining was measured using flow cytometric analysis. (B) Inhibition of the CDK4/Rb and AKT pathways in
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated ibrutinib-sensitive (MEM1) and resistant (MEM2) primary MCLs. Cells were treated with increasing concentrations of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+for 18 hrs., and western blot analysis was performed as described in
+Fig. 2
+.
+We also analyzed the levels of Rb and AKT phosphorylation in these samples.
+Figure 5B
+shows that both primary MCL samples exhibited reductions in the levels of Rb and AKT phosphorylation. Furthermore, the phosphorylation of S6RB was also inhibited, suggesting inhibition of the PI3K-AKT-mTOR pathway (
+Fig 5B
+)
+28
+. These studies are in agreement with those presented for the Granta 519 and Z138C MCL cell lines and confirm that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+effectively blocks both the CDK4/Rb and AKT/PI3K pathways that are critical for MCL growth and survival.
+Safety Pharmacology and
+in vivo
+efficacy
+We next performed studies to determine the maximum tolerated dose of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+in mice. Three CD-1 mice were injected intraperitonially (ip) with 100 or 200 mg/kg of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+. Signs of toxicity and body weights were monitored and recorded over the next 7 days. No signs of toxicity or weight loss were observed with a survival rate of 100%. A second study, whereby 200mg/kg
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+was administered for 5 consecutive days, showed that this dosing regimen did not exhibit any signs of toxicity and had a survival rate of 100% for at least 10 days post-administration (data not shown). We also performed LC/MS to determine the pharmacokinetics of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+in the plasma. These studies show that the area under the curve (AUC) values were 7.18 and 2.78µg/ml/hr in mice that received the drug via ip injection and oral gavage (po), respectively, which reflect concentrations of 16.71 (ip) and 6.47µM/ml/hr (po) in the plasma. Because the plasma concentration of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+was higher in animals that received the compound via ip injection, we used this route of administration for subsequent mouse xenograft assays.
+To determine the
+in vivo
+efficacy of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+, we used a nude mouse model of mantle cell lymphoma where Z138 cells were injected into nude mice and allowed to grow to approximately 100mm
+3
+in size. Mice with tumor xenografts were randomly assigned into 2 treatment groups (n=5 per group) and treated daily with either water (vehicle) or
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+(100mg/kg) on a daily basis. Body weights and tumor volumes from two independent studies were recorded and plotted as a function of time (
+Figure 6
+).
+Figure 6B
+shows a representative image of tumors in control and
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated mouse cohorts on day 14 of experiment #2. As seen here and in
+figure 6A
+, treatment with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+significantly inhibited (p<0.05) tumor growth over a 2-week period, suggesting that this compound is a potent inhibitor of MCL proliferation
+in vivo
+. In addition, daily treatment with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+did not cause a significant reduction in the total body weights of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated animals (
+Fig 6C
+). (The increase in the body weights of the untreated animals is likely attributable to the rapid growth of tumors). These results, in addition to those obtained
+in vitro
+, suggest that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+is an effective therapeutic agent in MCL with minimal associated toxicity.
+Open in a separate window
+Figure 6
+Effect of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on the growth of MCL cells in a mouse xenograft model
+(A)
+Mean tumor volumes of control- and
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated mouse cohorts, n=5 per group, in two independent experiments. p<0.05 for both experiments
+(B)
+Representative image of tumors in control and
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated mice. White arrows mark tumors in the flanks.
+(C)
+Body weights of control- and
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated mouse cohorts. Error bars represent ±SD.Discussion
+The pathogenesis of MCL is characterized by cell cycle dysregulation, with CYCLIN D1 overexpression being a hallmark of this disease. Cyclin D1 complexes with its catalytic partners, cyclin-dependent kinases (CDKs) 4 and 6, driving retinoblastoma (Rb) protein phosphorylation and G
+1
+cell-cycle progression
+32
+. Initial studies with PD0332991 (palbococlib), a selective small molecule inhibitor of CYCLIN D- associated CDK4/6 inhibitor activity
+5
+, demonstrated potent inhibition of Rb phosphorylation and G
+0
+/G
+1
+cell cycle arrest in the absence of any associated apoptosis
+24
+. In accordance, the drug was cytostatic in a Phase I/II clinical trial for MCL and resulted in disease stabilization with an 18% overall response rate
+6
+. Although PI3K signaling is activated in MCL, in a Phase I trial, idelalisib (GS-1101), a selective PI3K-δ inhibitor, was also modestly effective as a single agent in patients with refractory disease
+33
+. In spite of these outcomes, PD0332991 has been shown to sensitize MCL cell lines to PI3K-δ inhibition, in part, by enhancing the effect of the loss/reduction of AKT phosphorylation when the cells are arrested in the G
+1
+phase
+17
+,
+19
+,
+20
+.
+In this communication, we examined the effects of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+, a dual inhibitor of CDK4 and PI3K-δ on MCL cell growth and compared its activity with PD0332991, a highly specific CDK4/6 inhibitor. Our results show that while both inhibitors induce G
+1
+arrest of MCLs, only
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+elicits an apoptotic response from these tumor cells. The G
+1
+arrest mediated by the two compounds studied here is clearly due to inhibition of phosphorylation of members of the Rb family, a direct result of CDK4 and CDK6 inhibition by both compounds. Our results also show that in contrast to PD0332991,
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+acts as a potent inhibitor of the PI3K/AKT/mTOR pathway, leading to the activation of apoptotic pathways, as assayed by caspase activation and PARP cleavage. Our results also show that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+treatment results in inhibition of FOXO1 phosphorylation, a target of mTOR (
+Figure 4
+). Dephosphorylation of FOXO1 is known to regulate the transcriptional activity of this protein, which has been shown to activate apoptotic pathways and cell cycle arrest
+15
+,
+30
+. Together, these studies provide a molecular basis for the observed induction of apoptosis
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+-treated cells.
+Safety studies in mice suggest that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+is orally bio-available and is minimally toxic when administered orally or intraperitoneally. The
+in vivo
+efficacy of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+was examined using Z138 cells grown as xenografts in nude mice. These studies, presented in
+Figure 6
+, showed that treatment of these tumor-bearing mice with
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+markedly inhibited tumor growth over a 14-day period, further suggesting that this compound could be a possible candidate for the initiation of clinical trials. Previous studies have demonstrated that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+readily crosses the blood-brain barrier
+34
+,
+35
+, and considering the fact that a small percentage of MCL patients experience lymphomatous spread to the meninges and central nervous system
+36
+, this agent could also be useful for patients with CNS involvement.
+Recent studies have shown that constitutive activation of BCR signaling via PI3 kinases is essential for the proliferation of a large portion of MCLs, particularly in relapsed or refractory disease
+37
+. This observation was further supported by the finding that ibrutinib, a covalent inhibitor of BTK, has a profound effect on disease progression of MCL patients
+16
+. MCLs that acquire resistance to or relapse from treatment with ibrutinib due to the BTK
+C481S
+mutation, as well as those that exhibit primary resistance to the drug show increased AKT and ERK activition
+19
+,
+38
+. Interestingly, these drug-resistant MCLs exhibit a bias in CDK4-driven proliferation, which is sensitive to combined inhibition of the CDK4 and PI3K pathways
+19
+. We examined the effects of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+on primary tumor samples that were derived from MCL patients who either responded to ibrutinib or who acquired resistance following ibrutinib treatment. Both cell types were sensitive to the pro-apoptotic effects of
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+as measured by increased Annexin V staining and reductions in the levels of phospho-Rb, phospho-AKT and S6RB phosphorylation, consistent with inhibition of the mTOR pathway. These results suggest that
+{"type":"entrez-nucleotide","attrs":{"text":"ON123300","term_id":"2214659616","term_text":"ON123300"}}
+ON123300
+is likely to be an effective treatment option for both ibrutinib-responsive and resistant patients.Supplementary Material
+1
+Click here to view.
+(628K, pdf)Acknowledgements
+We thank Chen Ren for assistance with LC/MS studies. This work was supported by grants from the NIH (P01CA-130821), (NIH-RO1-CA-158209) and Onconova Therapeutics Inc to EPR.
+EPR is an equity holder, board member and a paid consultant of Onconova Therapeutics, Inc. In addition, EPR and MVRR are named inventors on pending and issued patents filed by Temple University. MVRR is a stockholder and paid consultant of Onconova Therapeutics Inc. SCC and SJB are paid consultants of Onconova Therapeutics Inc.Footnotes
+Conflict-of-interest disclosure:
+All other authors declare no conflicts of interest.
+Supplementary Information
+accompanies this paper on the Leukemia website (
+http://www.nature.com/leu
+)

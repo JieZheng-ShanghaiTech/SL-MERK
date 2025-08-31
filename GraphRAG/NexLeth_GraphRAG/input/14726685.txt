@@ -1,0 +1,737 @@
+Knockdown of Chk1, Wee1 and Myt1 by RNA Interference Abrogates
+G2 Checkpoint and Induces Apoptosis
+
+ABSTRACT
+
+Mammalian cells undergo cell cycle arrest in response to DNA damage due to the
+existence of multiple checkpoint response mechanisms. One such checkpoint pathway
+operating at the G1 phase is frequently lost in cancer cells due to mutation of the p53
+tumor suppressor gene. However, cancer cells often arrest at the G2 phase upon DNA
+damage, due to activation of another checkpoint pathway that prevents the activation of
+Cdc2 kinase. The kinases, Chk1, Wee1, and Myt1 are key regulators of this G2 checkpoint,
+which act directly or indirectly to inhibit Cdc2 activity. Here we show that RNA
+interference (RNAi)-mediated downregulation of Wee1 kinase abrogated an
+Adriamycin®-induced G2 checkpoint in human cervical carcinoma Hela cells that are
+defective in G1 checkpoint response. Wee1 downregulation sensitized HeLa cells to
+Adriamycin®-induced apoptosis. Downregulation of Chk1 kinase in Hela cells also
+caused a significant amount of cell death independent of DNA damage. In contrast, Myt1
+downregulation abrogated Adriamycin®-induced G2 arrest but did not cause substantial
+apoptosis. Reduction in Wee1, Chk1, or Myt1 levels did not sensitize normal human
+mammary epithelial cells (HMEC) cells to Adriamycin®-induced apoptosis unlike the situation
+in Hela cells. Our study reveals distinct roles for Chk1, Wee1, and Myt1 in G2
+checkpoint regulation. The data reported here support the attractiveness of Wee1 and
+Chk1 as molecular targets for abrogating the G2 DNA damage checkpoint arrest, a situation
+that may selectively sensitize p53-deficient tumor cells to radiation or chemotherapy
+treatment.
+
+INTRODUCTION
+
+The cell division cycle is a tightly regulated set of events that ensures proper duplication
+of DNA and segregation of genetic materials. Progression of the cell cycle is controlled by
+a series of cyclin-dependent kinases (CDKs), which in turn are tightly regulated by several
+mechanisms. First, CDK (CDK1, 2, 4, 6) activity requires binding to a regulatory subunit,
+cyclin (cyclin A, B, D, E, H). Cyclins are expressed only at specific points during the cell
+cycle. Second, CDK activity is directly regulated through phosphorylation-mediated mechanisms.
+Third, CDKs are negatively regulated through specific interaction with proteins
+such as p14 (INK4a), p15 (INK4b), p21CIP1, and p27Kip2; collectively know as CDK
+inhibitors (CDIs). Thus, CDK activity, in response to specific signals, is regulated by
+modulation of cyclin levels, CDK phosphorylation, and CDI levels.1-3
+When normal cells are subjected to DNA damage, cell cycle checkpoint pathways are
+activated that can arrest cells in both the G1 and G2 phases. Checkpoint arrest allows cells
+to repair damaged DNA in order to ensure maintenance of genomic integrity. Without
+these checkpoints, cells could accumulate undesired mutations, which could eventually
+lead to unregulated cell growth, cancer, or death.4 Indeed, most cancer cells are defective
+at the G1 checkpoint control due to nonfunctional p53/Rb pathways.1 In addition to its
+role in checkpoint control, p53 also regulates programmed cell death. p53 can initiate
+apoptosis by transcriptionally activating proapoptotic Bcl-2 family members and repressing
+antiapoptotic Bcl-2 proteins. p53 deficient tumor cells therefore are more resistant to
+apoptosis than normal cells. One potential therapeutic approach is to exploit this G1
+checkpoint deficiency by abrogating the functional G2 checkpoint in tumor cells to
+enhance their apoptotic response to DNA damage. Combination of DNA damage and G2
+checkpoint abrogators is likely to be selective for tumor cells, since DNA damage in the
+absence of a G2 checkpoint could be more harmful to G1 checkpoint-deficient cancer cells
+than to normal cells, which still have a functional G1 checkpoint response. Indeed, small
+molecular weight G2 checkpoint abrogators, such as caffeine and UCN-01, have shown
+promising results in sensitizing p53-deficient cells to apoptosis.5,6
+
+www.landesbioscience.com Cancer Biology & Therapy 305
+©
+
+2004
+
+Landes
+
+Bioscience.
+
+Do
+
+Not
+
+Distribute
+
+The CDK responsible for the G2/M transition is Cdc2.7 In addition
+to regulation through its association with cyclin B, both activating
+and inactivating phosphorylations are required to modulate Cdc2
+activity. In mammalian cells, the activating phosphorylation of Cdc2
+at threonine 161 (T161) in the T-loop is catalyzed by Cdc2 activating
+kinase, (CAK; Cdc7/cyclinH) and CAK activity is quite constant
+throughout the cell cycle.8 The inhibitory phosphorylations of
+threonine 14 (T14) and tyrosine 15 (Y15) at the ATP-binding pocket
+are mediated by Wee1 and Myt1 kinases.9-13 Wee1 is the major
+kinase phosphorylating the Y15 site. While Myt1 preferentially
+phosphorylates the T14 site, it can also phosphorylate the Y15 site.
+At the onset of mitosis, inhibitory phosphates at T14 and Y15 sites
+of Cdc2 are removed by the dual-specific phosphatase Cdc25C14-16
+triggering Cdc2 activation and progression of mitotic events.
+Most cancer cells have lost their G1 checkpoint and therefore
+only arrest at the G2 phase of the cell cycle when subjected to DNA
+damage. This G2 arrest correlates with an increase of Cdc2 inhibitory
+phosphorylation at the T14 and Y15 sites.17 Upon DNA damage,
+the PI3K-like protein kinases, ataxia-telangiectasia-mutated (ATM)
+and the ATM- and Rad3-related protein kinase (ATR) are activated.18-22
+Activated ATM/ATR kinases subsequently phosphorylate and
+activate Chk1/Chk2 kinases.23-26 Both Chk1 and Chk2 are known
+to phosphorylate Cdc25C on serine 216 (S216) and this phosphorylation
+makes Cdc25C functionally inactive.23,27 In addition,
+Chk1 has also been reported to phosphorylate and increase the
+kinase activity of Wee1.28-31 Thus either Cdc25C inactivation
+and/or Wee1/Myt1 activation could contribute to G2 cell cycle
+arrest in response to DNA damage. Mutations of both the T14 and
+Y15 sites of Cdc2 to alanine and phenylalanine respectively, lead to
+an activated form of Cdc2 that cannot be inhibited by phosphorylation.
+Expression of this constitutively active Cdc2 mutant causes premature
+mitosis even in the presence of damaged DNA.32-34 Inhibition
+of Wee1, Myt1 and Chk1 can directly or indirectly reduce phosphorylation
+of Cdc2 on the T14 and Y15 sites and cause premature
+mitosis due to abrogation of the G2 checkpoint. Therefore, Wee1,
+Myt1 and Chk1 could be envisioned as potential target(s) for cancer
+therapeutic intervention. It is noteworthy that small molecular G2
+checkpoint abrogators, such as UCN-01 and caffeine, are now
+known to inhibit certain checkpoint regulatory kinases, although
+they are not truly selective for these kinase targets. For example,
+UCN-01 was first identified as protein kinase C (PKC) inhibitor but
+later found to inhibit both Chk1 and Chk2.35,36 Caffeine, on the
+other hand, can inhibit ATM/ATR, which are upstream regulators
+of Chk1 and Chk2 kinases.37,38
+Here, we have used an RNA interference (RNAi)-mediated gene
+knockdown approach to investigate the comparative roles of Wee1,
+Chk1, and Myt1 kinases in the G2 checkpoint pathway in Hela versus
+normal human mammary epithelial cells (HMEC), which lack or
+express functional p53 alleles, respectively. Our data suggest that
+downregulation of Wee1 sensitizes Hela cells to DNA
+damaging-induced apoptosis. Downregulation of Chk1 is lethal in
+Hela cells independent of DNA damage but not in HMEC cells.
+While downregulation of Myt1 was found to abrogate the
+Adriamycin® induced G2 checkpoint, no appreciable apoptosis was
+observed as occurred in the case of Chk1 or Wee1 downregulation.
+
+MATERIALS AND METHODS
+
+Cell Culture and siRNA Transfection. Hela cells were grown in DMEM
+medium supplemented with 10% FBS and 20 µg/ml gentamicin. Human
+
+mammary epithelial cells (HMEC) cells were purchased from Clonetics
+(CC-0228) and grown in MEG medium as recommended. Transfections
+were carried out by plating 10,000-20,000 cells per well on 12-well plates
+or 100,000 cells per 10-cm dish. Invitrogen’s oligofectamine reagent was
+used for transfection of siRNA duplexes. For each transfection, 0.1 nmol of
+each siRNA and 2 µl Oligofectamine (12-well plates) and 0.6 nmol of each
+siRNA and 9 µl Oligofectamine (10-cm dishes) were used following protocols
+suggested by the manufacturer.
+SiRNA Oligos and RT-PCR. The siRNA duplex oligos were purchased
+from Dharmacon. The sense strand sequence of the oligos employed in the
+study are as follows: Chk1 oligo#1, aagcagucgcagugaagauug; Chk1 oligo#2,
+aaccagaugcucagagauucu; Wee1 oligo#1, aaugauuccuguggugaagac; Wee1
+oligo#2, aacguauuggaaugauuccug; Wee1 oligo#3, aacuccgggguaguucucucu;
+Myt1 oligo#1, aaccuggauucucccucaaga; Myt1 oligo#2, aagcguuccaugucaccauuc;
+control oligo, aaagcccagccuucgaucaac. The control oligo was
+designed using a random sequence bearing no significant homology to any
+published gene or EST sequence as tested by BLAST analysis. Hela cells
+were harvested two days after siRNA transfection and total RNA was prepared
+with Invitrogen’s Trazol method (Invitrogen, Cat#15596-026). Semiquantitative
+RT-PCRs were performed using Ambion’s QuantumRNA kit
+(Cat# 1716) with 18S as internal standards. PCR primers for Chk1 were:
+forward-gatatgaagcgtgccgtagac, reverse-ggctgagaactggagtacttc; for Wee1
+were: forward-gaagcagagttgaaggatctc, reverse-cttcctcttgtcacagtgttc; and for
+Myt1 were: forward-gtccttcttccagcagagctt, reverse-cagcatcatgacaaggacaga.
+The primers were custom synthesized at GibcoBRL.
+Antibodies and Immunoblots. A polyclonal antibody against Cdc2
+(sc-747) and monoclonal antibodies against Chk1 (sc-8408), Wee1
+(sc-5285), and vimentin (sc-6260) were purchased from Santa Cruz. A
+phospho-specific antibody against Cdc2Yp15 and antibodies against Myt1
+were obtained from Onyx Pharmaceuticals.13,31,39 For immunoblot analysis,
+attached Hela cells were harvested by addition of 10 mM EDTA in PBS for
+5 min. Both floating and attached cells were combined and centrifuged at
+2,000 rpm for 5 min to collect the cell pellet. For HMEC cells, 0.25-mg/ml
+trypsin (Clonetics, cc-5012) was used to remove attached cells from the cell
+culture dish. Both floating and attached cells were combined in the same
+manner as described above for Hela cells. Cell pellets were incubated in
+50-to100 µl ice-cold lysis buffer [50 mM Hepes, pH7.4, 250 mM NaCl,
+0.1% NP-40, 10 mM β-glycerophosphate, 1 mM NaF, 1 mM EDTA, 0.1
+mM Na3VO4, 40 µl/ml complete proteinase cocktail (Roche, Cat#
+1697498)] for 30 min on ice. Cell lysates were centrifuged at 10,000 rpm
+for 5 min to collect the cell supernatants.
+Clonogenic Cell Growth. Hela cells (10,000 cells/well) were plated on
+12-well plates and transfected as described above. One day after transfection,
+cells were trypsinized and 1/20 of the total cell population was plated
+into individual wells of a 6-well plate and grown for 10 days in DMEM with
+10% FBS and 20 µg/ml gentamicin. Cells were then stained with 0.25%
+commassie blue in 10% acetic acid and 40% methanol for 20 min. After
+staining, plates were washed three times with water and air-dried.
+Cell Counting. Cells were transfected with the indicated siRNAs. Two
+days after transfection, cells were treated with 250 nM Adriamycin®. Cells
+were grown for an additional period of two days (Hela cells) or 10 days
+(HMEC cells) after addition of Adriamycin®. Both floating and attached
+cells were then collected separately and counted on a Coulter Counter.
+Apoptosis Assays. Apoptotic DNA fragmentation was quantitated by an
+ELISA assay. Hela cells were first plated on 12-well plates and transfected
+with indicated siRNAs as described above. Transfected cells were trypsinized
+the next day and replated after diluting 4-fold into 96-well plates. Two days
+post-transfection, i.e, 1 day after plating on 96-well plates, the cells were
+treated with 250 nM Adriamycin® in dimethyl sulfoxide (DMSO) or
+mock-treated with DMSO alone. Eighteen hours after DNA damage, cells
+were analyzed for apoptosis using the cell death detection ELISA plus (Roche,
+Cat# 1 774 425). Cells were also analyzed by a flow cytometry-based assay
+using an annexin V-PE apoptosis detection kit (BD PharMingen, Cat# 559763).
+This assay detects cells in the early stages of apoptosis through specific binding
+of labeled annexin V protein to the externalized phosphatidylserine molecules
+
+G2 CHECKPOINT ABROGATION
+
+306 Cancer Biology & Therapy 2004; Vol. 3 Issue 3
+©
+
+2004
+
+Landes
+
+Bioscience.
+
+Do
+
+Not
+
+Distribute
+
+www.landesbioscience.com Cancer Biology & Therapy 307
+
+on the outer leaflet of the plasma membrane in unfixed apoptotic cells. For
+this assay, Hela cells in 100-mm dishes were transfected with the indicated
+siRNA duplexes and two days after transfection, cells were treated with
+Adriamycin® for 18 hrs. Cells were harvested in 10 mM EDTA in PBS for
+5 min. Both floating and attached cells were combined prior to cell staining
+with the annexin V-PE kit as per manufacturer’s protocol.
+Cell Cycle Analysis. Hela cells were plated, transfected, and treated as
+for the annexin V-PE apoptosis assay. Adherent cells were collected from
+tissue culture dishes by treatment with 10 mM EDTA in PBS for 5 min.
+Cell pellets were resuspended in 0.5 ml PBS with 0.1% FBS and dropwise
+added to 75% ice-cold ethanol overnight. The fixed cells were then centrifuged
+at 2,000 rpm for 5 min, washed once in PBS containing 0.1% FBS, and
+then treated with 0.5 ml PBS containing 0.2 mg/ml RNAse A and 50 µg/ml
+propidium iodide (PI) for 30 min at 37˚C. Cells were passed through a 5
+ml strainer-capped tubes and cell cycle distribution was analyzed as previously
+described31 with the modification of using a BD LSR flowcytometer.
+
+RESULTS
+
+Downregulation of Wee1, Chk1 and Myt1 by siRNA. In order to
+knockdown Wee1 expression, three pairs of siRNA based on the human
+Wee1 sequence were designed and synthesized. The siRNAs were first individually
+transfected into HeLa cells using Invitrogen’s oligofactamine
+reagent. As shown in Figure 1, all three Wee1 siRNAs significantly reduced
+Wee1 mRNA as measured by semi-quantitative RT-PCR. Similar experiments
+with Myt1 and Chk1 specific siRNA also yielded suppression of the
+respective mRNA levels. Of the two Chk1 siRNAs tested, the Chk1#2 oligo
+proved to be more effective than the Chk1#1oligo in reducing Chk1 mRNA
+levels (Fig. 1). Chk1#2 siRNA was used for all subsequent experiments. The
+two Myt1 siRNAs appeared equally effective in eliminating Myt1 specific
+mRNA. In fact, no Myt1 mRNA was detected in cells transfected with
+either of the specific siRNA duplexes (Fig. 1) and therefore we arbitrarily
+chose the Myt1#2 siRNA for subsequent experiments.
+The effects of siRNA treatment on respective protein levels were evaluated
+by immunoblots. Although the reduction at the mRNA level was significant
+with each individual Wee1 siRNA (Fig. 1), the reductions in Wee1 protein
+levels were incomplete (data not shown). In an attempt to achieve a more
+complete reduction of Wee1 protein level, we tested the combination of all
+
+three Wee1 siRNAs. Immunobloting showed that Wee1 protein was consistently
+reduced by over 90% when a combination of three Wee1 siRNAs were
+transfected together (Fig. 2A). Therefore, a pool of these three siRNAs was
+used for subsequent experiments. As shown in Figure 2, expression of the
+Chk1, Wee1, and Myt1 proteins were specifically reduced by their corresponding
+siRNA duplexes. Among the seven siRNAs tested in the above
+experiment, greater than 90% downregulation of the target protein was
+achieved by all siRNAs either singly or in combination. Similar results were
+also obtained with primary human mammary epithelial cells (Fig. 2B).
+Reduction of Wee1, Myt1, and Chk1 protein lasted for a minimum of 5 days
+post-transfection in Hela cells (data not shown).
+Knockdown of Wee1, Myt1 and Chk1 Reduced Cdc2-Y15
+Phosphorylation in Hela Cells. We observed that treatment with Chk1
+siRNA and to a lesser extent with Wee1 siRNA caused a dramatic mobility
+shift of Myt1 (Fig. 2A). Slower migration of Myt1 on SDS-PAGE was
+reported to be associated with mitosis.13 These observations indicate that
+treatments of Wee1 and Chk1 siRNA altered the cell cycle distribution of
+Hela cells. Since Wee1 and Myt1 directly phosphorylate Cdc2 on Y15 and
+
+G2 CHECKPOINT ABROGATION
+
+Figure 1. Detection of human Wee1, Chk1, and Myt1 RNA expression in
+siRNA-treated Hela cells by semi-quantitative RT-PCR. Hela cells were transfected
+with control or the indicated siRNA in 12-well plates. Two days after
+transfection, cells were harvested, and total RNA was prepared with
+GibcoBRL’s trazol method. Semi-quantitative RT-PCR was then performed to
+measure the amount of target downregulation with 18S as internal control.
+
+Figure 2. Effect of DNA damage and Wee1, Chk1, or Myt1 downregulation
+on Cdc2-Y15 phosphorylation. Cells were transfected with the indicated
+siRNA using oligofectamine reagent as described in the material and
+method section. Two days after transfection, cells were treated with 250 nM
+Adriamycin® overnight. The cells were then harvested for immunoblotting
+with the indicated antibodies. (A) Hela cells (B) HMEC cells.
+
+A
+
+B
+©
+
+2004
+
+Landes
+
+Bioscience.
+
+Do
+
+Not
+
+Distribute
+T14 sites and Chk1 indirectly affects Cdc2 phosphorylation,
+the status of Cdc2 phosphorylation in response to the knockdown
+of Wee1, Myt1, and Chk1 was evaluated. The Cdc2-Y15
+phosphorylation was reduced by Wee1, Myt1, or Chk1 knockdown
+in Hela cells, while Wee1 knockdown was by far the most
+efficient in producing this effect (Fig. 2A). Furthermore, a
+combination of Wee1 and Chk1 siRNA completely eliminated
+the Cdc2-Y15 phosphorylation, but a combination of Wee1
+and Myt1 did not generate a synergistic decrease of the Cdc2-Y15
+phosphorylation. In contrast, Myt1 downregulation significantly
+reduced Cdc2-T14 phosphorylation (data not shown). These
+results are consistent with the current model that Wee1 (directly)
+and Chk1 (indirectly, via its action on Cdc25), modulate the
+phosphorylation of Cdc2-Y15. In contrast, Myt1 mainly regulates
+the phosphorylation of Cdc2-T14 and has a less important role
+in the phosphorylation of Cdc2-Y15.
+Upon DNA damage induced by treatment of HeLa cells
+with 250 nM Adriamycin®, the Cdc2-Y15 phosphorylation
+increased in control siRNA-transfected cells as anticipated due
+to the G2 arrest (Fig. 2A). Chk1 knockdown blocked the
+Adriamycin®-induced increase of Cdc2-Y15 phosphorylation
+although the basal Cdc2- Y15 phosphoryaltion levels were
+modestly decreased by Chk1 knockdown. Simultaneous knockdown
+of Wee1 and Chk1 expression completely eliminated
+both the basal and the Adriamycin®-induced phosphorylation
+of Cdc2-Y15 (Fig. 2A). These results demonstrate that Chk1
+plays an essential role in response of Hela cells to DNA damage.
+Interestingly, knockdown of Wee1 expression partially
+blocked the increase of Cdc2-Y15 phosphorylation due to
+Adriamycin® treatment although the basal levels of Cdc2-Y15
+phosphorylation were significantly lower when compared to
+control cells (Fig. 2A). Similarly, Myt1 knockdown did not
+block the increase of Cdc2-Y15 phosphorylation in response to
+Adriamycin®, although it lowered the basal phosphorylation of
+Cdc2-Y15 to an extent similar to that observed with Chk1
+knockdown. A double knockdown of Wee1 and Myt1 expression
+completely prevented the increase of Cdc2-Y15 phosphorylation
+by Adriamycin®. These data suggest that Wee1 and
+Myt1 have a partially redundant role in the cellular response to
+Adriamycin®. Our results clearly indicate distinct roles for Chk1,
+Wee1, and Myt1 in regulation of Cdc2-Y15 phosphoryaltion in
+response to the DNA damaging agent Adriamycin®.
+Our attempts to study the phosphorylation status of
+Cdc2-Y15 in HMEC cells yielded inconclusive results due to
+weak signals on Cdc2-Y15 immunoblots (Fig. 2B; data not
+shown). Collectively, our data demonstrate that downregulation
+of Wee1, Chk1, and Myt1 can reduce Cdc2-Y15 phosphorylation to various
+degrees while the total Cdc2 expression is not changed by any RNAi in Hela
+cells. Downregulation of Wee1, the major kinase that phosphorylates Cdc2
+on Y15, produces the most significant reduction of Cdc2-Y15 phosphorylation.Downregulation
+of Wee1, Chk1, and Myt1 Abrogates the G2 Checkpoint
+in Hela Cells. Since Wee1, Chk1, and Myt1 all play roles at the G2/M
+transition, the effects of their downregulation on cell cycle distribution were
+analyzed by flow cytometry. As shown in Figure 3, both Wee1 and Myt1
+siRNA abrogated Adriamycin®-induced G2 arrest. In control siRNA treated
+cells, as expected the population of G1 cells decreased from 60.6% to 1.5%
+
+upon Adriamycin® treatment. However, in Wee1 and Myt1 siRNA treated
+cells, the G1 population remained at 55% and 60%, respectively, even in the
+presence of Adriamycin®. The effect of Chk1 on cell cycle distribution was
+difficult to evaluate since Chk1 siRNA treatment resulted in a large population
+of cells with less than G1 DNA content (Fig. 3).
+It is worth noting that Wee1 siRNA treatment increased the amount of
+cells with DNA content less than G1, the apoptotic cell population, in the
+presence of Adriamycin®. Furthermore, the combination of Wee1 and Myt1
+siRNA increased the frequency of apoptosis under basal conditions and
+further increased the fraction of apoptotic cells in response to Adriamycin®
+treatment. These flow cytometry analysis data are generally in agreement
+
+G2 CHECKPOINT ABROGATION
+
+Figure 3. Effects of Wee1, Chk1, and Myt1 siRNAs on Hela cell
+cycle distribution and the preG1 peak in the presence or absence
+of Adriamycin® treatment. Hela cells were plated in 10 cm dishs.
+Two days after transfection, the cells were treated with 250 nM
+Adriamycin® or a corresponding volume of DMSO. The cells were
+then harvested for cell cycle analysis 18 hrs after Adriamycin®
+treatment.
+
+308 Cancer Biology & Therapy 2004; Vol. 3 Issue 3
+©
+
+2004
+
+Landes
+
+Bioscience.
+
+Do
+
+Not
+
+Distribute
+
+with results obtained by other apoptotic assays in Wee1 or Myt1 siRNA
+treated cells (Fig. 5). Chk1 siRNA transfected cells displayed a high percent
+of cells with DNA content less than G1. These data are consistent with the
+notion that Chk1 is required for Hela cell survival. The size of the pre-G1
+peak increased for Wee1 transfected cells after DNA damage but not to an
+extent corresponding to the percentage of apoptosis shown in Figure 5C.
+This could be due to incomplete DNA degradation at an early stage of
+apoptosis, such that the DNA content of the apoptotic cells was not significantly
+less than the G1 population.40
+Abrogation of the G2 checkpoint by knockdown of Wee1 and Myt1 is
+consistent with decreased phosphorylation of Cdc2-Y15 in the presence of
+Adriamycin® (Fig. 2A). However, we were surprised to find that Myt1
+downregulation abrogated the G2 checkpoint to the same extent as Wee1
+siRNA, although Cdc2-Y15 phosphorylation is clearly higher in the Myt1
+siRNA treated cells compared to that observed in the Wee1 siRNA treated
+cells. One possible explanation for this finding is that Myt1 siRNA activates
+Cdc2 to the same extent as the Wee1 siRNA because phosphorylation of
+T14 in Cdc2 is also blocked by Myt1, but not by Wee1 siRNA. Our data
+clearly establish that both Wee1 and Myt1 siRNA can abrogate the G2
+checkpoint in response to DNA damage in Hela cells.
+Effects of Chk1 and Wee1 Downregulation on Apoptosis. The effect of
+siRNA on cell viability was investigated. We observed that Chk1 siRNA
+treatment significantly increased the number of floating cells (a 70%
+increase over the control) four days after transfection in Hela cells (Table 1).
+
+The floating cells were detected as early as two days after Chk1 siRNA treatment
+(data not shown). In contrast, floating cells were not detected in Chk1
+siRNA treated HMEC cells although the Chk1 protein was effectively
+downregulated (Fig. 2B). The HMEC cells were monitored up to 12 days
+with no significant increase in floating cells. Wee1 siRNA produced little
+effect (5% floating cells over the control) while Myt1 siRNA also had a
+limited effect in Hela cells (12% over the control) (Table 1). We tested
+Adriamycin® at a concentration which did not induce massive cell death in
+Hela cells (8% over the control, Table 1). Adriamycin® further increased the
+incidence of floating cells in Chk1 siRNA treated cells. Interestingly
+Adriamycin® dramatically increased the incidence of floating cells in both
+Wee1 siRNA and Myt1 siRNA treated cells (40% and 26%, respectively
+over the control) (Table 1). These results demonstrate that Wee1 siRNA
+produces the most dramatic sensitization of Hela cells to Adriamycin®
+induced cell death. Similar experiments were performed with HMEC cells.
+Downregulation of Wee1, Chk1, and Myt1 by siRNA did not significantly
+sensitize HMEC cells to Adriamycin® treatment (Table 1).
+To determine the long-term effects of suppression of G2 regulators on
+cell growth, transfected Hela cells were grown in 6-well plates for 10 days as
+described by the clonogenic assay procedure in Materials and Methods. As
+shown in Figure 4, cells treated with Chk1 siRNA formed significantly
+fewer colonies than cells transfected with control siRNA. Myt1 siRNA treatment
+also resulted in fewer colonies compared to the control, but allowed
+more colony growth than Chk1 siRNA treatment. In contrast, transfection
+of Wee1 siRNA had a minor effect on colony formation. The colony-formation
+data correlate well with previously described data summarized in
+Table 1, further supporting the induction of cell death by Chk1 siRNA.
+To investigate whether the observed cell death was due to apoptosis, two
+types of assays were conducted. In an ELISA assay designed to detect apoptotic
+DNA fragmentation, Wee1 or Myt1 suppression alone did not cause a
+significant incidence of apoptosis, whereas Chk1 downregulation triggered
+massive apoptosis (Fig. 5A). Wee1 downregulation significantly sensitized
+Hela cells to apoptosis in the presence of Adriamycin® (Fig. 5A and B). The
+above results were corroborated by a second assay based on annexin V-binding
+to membrane phosphatidylserines designed to detect early apoptotic cells.
+This experiment confirmed that Chk1 siRNA alone, in the absense of DNA
+damaging agent, induced apoptosis while Wee1 siRNA significantly sensitized
+Hela cells to apoptosis, but only in response to Adriamycin®. The extent of
+apoptosis in the Adriamycin® treated cell population cannot be accurately
+calculated due to a fluorescence signal shift in annexin-negative cells after
+Adriamycin® treatment. However, by comparison of control and Wee1
+siRNA transfected cells in the absence or presence of Adriamycin® as
+reference, the percentage of apoptotic cells was estimated. Adriamycin®
+treatment increased the incidence of apoptosis in Wee1 siRNA transfected
+cells from 17% to 50%, compared to negligible increases in cells transfected
+with either Chk1 or Myt1 (68% to 73% and 24% to 26% respectively)
+(Fig. 5C).
+
+DISCUSSION
+
+The aim of this study was to compare the roles of the three G2
+checkpoint regulators, Wee1, Chk1, and Myt1, in regulation of the
+G2 checkpoint by using an RNA interference-mediated gene knockdown
+approach. We were able to significantly reduce the expression of
+Wee1-, Chk1-, and Myt1- kinases as judged by semi-quantitative
+RT-PCR and immunoblots. Our data demonstrate that downregulation
+of Wee1 sensitizes Hela cells but not normal HMEC cells to
+apoptosis in response to Adriamycin®. Chk1 downregulation alone
+is lethal in Hela cells but not in normal HMEC cells in the absence
+of DNA damage. Myt1 knockdown can abrogate Adriamycin®-
+induced G2 arrest, but does not lead to cell death.
+Wee1 was first identified in S. pombe from a genetic screen for wee
+mutants that undergo mitosis and cell division at a reduced size compared
+with wild type.41,42 It encodes a protein kinase that phosphorylates
+
+G2 CHECKPOINT ABROGATION
+
+Table 1 EFFECT OF SIRNA TREATMENT ON CELL ATTACHMENT
+
+Treatment Control Wee1 Chk1 Chk1/Wee1 Myt1 Myt1/Wee1
+
+DMSO 94.3 90.6 32.4 40.9 82.3 73.3
+
+Adriamycin 86.6 50.1 16.7 21.4 56.5 43.3
+
+DMSO 86 81.9 81 79 78.9 73.2
+
+Adriamycin 63.3 67.4 64.7 64.1 56 62.4
+
+Hela or HMEC cells were transfected with the indicated siRNA as described in Materials and Methods. Two
+days after transfection, cells were treated with 250 nM Adriamycin® or DMSO. Two days after
+Adriamycin®treatment, both floating and attached Hela cells were harvested separately and counted
+with a Coulter counter. Total cells were calculated from the combination of floating cells and attached
+cells. The percentage of attached cells was expressed as the attached cells divided by the total cells. HMEC
+cells were harvested ten days after Adriamycin®treatment and counted the same as for Hela cells.
+
+Figure 4. Effect of siRNA treatment on Hela cell colony formation. Hela cells
+were transfected with the indicated siRNA in 12-well plates. One day after
+transfection, cells were trypsinized and both floating and attached cells
+were combined. One twentieth of original cells were replated on 6-well
+plate. Cells were then grown for another 10 days before fixing and staining.
+
+www.landesbioscience.com Cancer Biology & Therapy 309
+©
+
+2004
+
+Landes
+
+Bioscience.
+
+Do
+
+Not
+
+Distribute
+and inhibits Cdc2.43 Wee1 can be phosphorylated
+by Chk1 kinase28 and both Wee1 and
+Cdc25 have been implicated in DNA damage-induced
+G2 checkpoint control.29 Human
+Wee1 was first identified by complementation
+of fission yeast wee1/mik1 deficient
+cells.44 Consistent with its role as initially
+defined in yeast, Wee1 overexpression causes
+G2 arrest and mutation of Cdc2Y15 to F in
+yeast and T14 to A and Y15 to F in mammalian
+Cdc2 cause premature mitosis. When
+cells are subjected to DNA damage, Chk1 can
+phosphorylate Wee1 and phosphorylated
+Wee1 interacts with 14-3-3.30,31,45 This interaction
+can increase Wee1 protein stability and
+kinase activity, thereby keeping Cdc2 in its
+inactive state.
+Wee1 has also been implicated in apoptosis.
+It has been reported that Wee1 overexpression
+can suppress granzyme-induced apoptosis.46
+Wee1 can also protect cells from HIV Vprinduced
+apoptosis.47 Furthermore, Wee1
+protein is cleaved in Fas ligand induced
+apoptosis48,49 and the Wee1 protein is
+reduced in HIV Vpr-induced apoptosis,47
+implying a role of this kinase in apoptosis.
+Depletion of Wee1 by siRNA in Hela cells
+alone has been reported to cause apoptosis
+(the apoptotic cells population increased from
+18% to 30% three days after siRNA treatment).47
+Our data are consistent with the published
+results, as we observed an increase in the
+apoptotic fraction from 6% to 17% under
+similar conditions. However, we noted that
+the sensitizing effect of Wee1 downregulation
+in response to Adriamycin® is much more dramatic. Clearly, we
+have demonstrated that Wee1 siRNA abrogates the G2 checkpoint
+and sensitizes Hela cells to apoptosis in response to DNA damaging
+induced by Adriamycin®.
+Chk1 siRNA treatment alone without DNA damage causes
+apoptosis in Hela cells but not in HMEC cells. This observation
+indicates that cancer cells and normal cells may have differential
+sensitivity to Chk1 downregulation. Therefore, downregulation of
+Chk1 may selectively induce apoptosis in cancer cells. Alternatively,
+Chk2 or C-TAK150 may exert a partially redundant function in
+HMEC but not in Hela cells. CHK1 is required for DNA damage
+checkpoint but is not an essential gene for normal cell growth in
+yeast.51,52 However, previous studies in higher eukaryotes also support
+an essential function of Chk1 in cell proliferation or viability. First,
+knockout of the drosophila and mouse homologues were embryonic
+
+lethal.24,53 Second, Chk1-/- ES cells could not be generated, suggesting
+that Chk1 is required for cell proliferation.24,54 Furthermore, downregulation
+of Chk1 using anti-sense and ribozyme approaches also
+caused significant cell death in the absence of DNA damage in
+mammalian cells.55 However, other studies indicate that Chk1 inhibition
+might not be lethal in mammalian cells. It was shown that Chk1
+downregulation abrogated radiation-induced S and G2 checkpoints56,57
+but had no significant effect on cell death. Another study
+carried out with Chk1 and Chk2 peptide inhibitors derived from the
+Chk1/Chk2 phosphorylation sequence in Cdc25,58 showed no
+increase of cell death although the peptide inhibitors abrogated DNA
+damage-induced G2 checkpoint.
+There are several possible reasons to explain the apparent discrepancies
+on whether Chk1 is an essential gene in higher eukaryotes. One
+possible difference is the completeness of Chk1 downregulation.
+
+G2 CHECKPOINT ABROGATION
+
+Figure 5A and B. Wee1 downregulation sensitizes
+Adriamycin® induced apoptosis in Hela cells. (A)
+Apoptosis detection by measurment of DNA fragmentation
+in 96-well plates. Each OD reading is an
+average of duplicate 96-well plate ELISA assays from
+two siRNA transfections. (B) Fold of apoptosis with vs.
+without 250 nM Adriamycin® treatment. The fold
+change is an average of two independent experiments
+as described in (A).
+
+310 Cancer Biology & Therapy 2004; Vol. 3 Issue 3
+©
+
+2004
+
+Landes
+
+Bioscience.
+
+Do
+
+Not
+
+Distribute
+
+The Chk1 siRNAs utilized in the published studies are targeted to
+regions different from our Chk1 siRNAs.56,57 The extent of Chk1
+downregulation appears complete in our study and in the study
+reported by Zhao et al57 but not in the report by Sorensen et al.56 A
+second possible difference could be due to the time point selected for
+analysis. While Sorensen et al. harvested cells 30 to 36 hrs after transfection,
+we normally harvested cells 64 to 68 hrs after transfection.
+In our experiments, floating cells, presumably dead cells, are not visible
+at 28 hrs but appear at 44 hrs after siRNA transfection (data not
+shown). Furthermore, the Cdc25C peptide inhibitors may only
+inhibit the phosphorylation of Cdc25C by Chk1 and Chk2. Those
+peptides might not efficiently inhibit Cdc25A because they are
+based on the Cdc25C sequence surrounding the phosphorylation
+site S216, which has only 40% sequence homology with the Cdc25A
+
+S123 that is the phosphorylation site
+recognized by Chk1.
+If Chk1 is essential for Hela cells, the
+next key question is why Chk1-deficiency
+in HMEC cells did not cause cell death.
+One possible explanation lies with the
+p53 status of these cells. Hela cells do
+not have functional p53 and DNA
+damage only causes G2 arrest. HMEC
+cells, on the other hand, have wild-type
+p53 and can arrest at both the G1 and
+G2 phases of the cell cycle after DNA
+damage. Chk1 siRNA treatment of
+Hela cells renders a loss of both G1 and
+G2 checkpoints whereas HMEC cells
+may retain a normal G1 checkpoint in
+response to the same treatment. It has
+been reported that Chk1-deficiency
+alone can increase Cdc25A to super-physiological
+levels.56,57 The high level of
+Cdc25A may contribute to the G2
+checkpoint abrogation in Chk1 siRNA
+treated cells. Therefore, Chk1 siRNA
+selectively kills tumor cells. Chk1 downregulation
+abrogates G2 checkpoint in
+tumor cells while damaged DNA can be
+repaired in normal cells because of the
+existence of a G1 checkpoint. Another
+explanation for the difference in
+response between Hela and HMEC cells
+is that Hela cells grow much faster than
+HMEC cells. The rapid cell cycling of
+Hela cells might render them more sensitive
+to Chk1 siRNA downregulation
+compared to HMEC cells.
+In mammalian cells both T14 and
+Y15 are phosphorylated. The T14 phosphorylation
+is catalyzed by the membrane-associated
+kinase, Myt1.13 The
+role of this kinase in the G2/M transition
+is not very clear. Downregulation of Myt1
+in mammalian cells with ribozyme and
+anti-sense was not successful in the past59
+and unpublished data). Drosophila
+Myt1 downregulation has been achieved
+using a siRNA approach.59 In that study,
+the authors found that dMyt1 reduction
+increased the rate of cell proliferation and decreased Cdc2T14 phosphorylation.
+They also reported that a reduction of Cdc2Y15 phosphorylation
+is only observed by downregulation of both dMyt1 and
+dWee1, but not by dWee1 downregulation alone. Our data show
+that the human Myt1 kinase is successfully downregulated using a
+siRNA approach. The human Myt1 reduction alone caused cell
+death as shown by less colony formation (Fig. 4) and a higher incidence
+of apoptosis cells (Fig. 5C) in the absence of DNA damage.
+The extent of apoptosis, however, is much less than that induced by
+Chk1 siRNA alone. Adriamycin® treatment of cells transfected with
+Myt1 siRNA, increases their apoptotic frequency, but not to the extent
+observed in Wee1 siRNA treated cells (Fig. 5A and B). Collectively,
+the data generated in our study point to distinct cellular functions of
+Wee1, Myt1, and Chk1.
+
+G2 CHECKPOINT ABROGATION
+
+Figure 5C. Apoptosis measured by flowcytometry for annexin V-PE staining.
+
+www.landesbioscience.com Cancer Biology & Therapy 311
+
+C
+©
+
+2004
+
+Landes
+
+Bioscience.
+
+Do
+
+Not
+
+Distribute
+
+In summary, among the three potential G2 checkpoint abrogation
+targets tested in this report, Wee1 is likely to be the most promising
+kinase of pharmacological intervention based on multiple observations.
+First, Wee1 downregulation alone did not cause significant cell death
+compared to Chk1 and Myt1. Secondly, Wee1 siRNA treatment
+dramatically sensitized cancer cells but not normal cells to apoptosis
+in response to Adriamycin®. Therefore, the combination of a Wee1
+inhibitor with a DNA damaging agent may serve to selectively kill
+cancer cells. Since downregulation of Chk1 alone killed Hela cells,
+but not HMEC cells, Chk1 may also represent a viable target.
+Studies aimed at functional knock down of these targets in tumorbearing
+animals are warranted to compare the relative merits of these
+potential anti-cancer drug targets.

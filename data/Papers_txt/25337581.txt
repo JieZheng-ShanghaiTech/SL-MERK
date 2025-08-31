@@ -1,0 +1,434 @@
+Abstract
+Background:
+Cells harboring
+BRCA1/BRCA2
+mutations are hypersensitive to inhibition of poly(ADP-ribose) polymerase-1 (PARP-1). We recently showed that interference with PARP-1 activity by NU1025 is strongly cytotoxic for
+BRCA1
+-positive BT-20 cells but not
+BRCA1
+-deficient SKBr-3 cells. These unexpected observations prompted speculation that other PARP-1 inhibitor(s) may be more cytotoxic towards SKBr-3 cells. In addition, interference with the DNA damage signaling pathway
+via
+(for instance) Ataxia telangiectasia mutated (ATM) kinase inhibition may induce synthetic lethality in DNA repair-deficient breast cancer cells and pharmacological interference with ATM activity may sensitize breast cancer cells to PARP-1 inactivation.
+Methods:
+We determined drug cytotoxicity in human MCF-7 and SKBr-3 breast cancer cells using the CellTiterGLO Luminescent cell viability assay and a Tecan multi-label, multitask plate counter to measure generated luminescence. Changes in cell cycle progression were monitored by flow cytometric measurement of DNA content in cells stained with propidium iodide.
+Results:
+Unlike NU1025, AZD2461, a new PARP-1 inhibitor, markedly reduced the numbers of living MCF-7 and SKBr-3 cells. ATM kinase inhibition (CP466722) was also cytotoxic for both MCF-7 and SKBr-3 cells. Furthermore, AZD2461 enhanced the cytotoxicity of CP466722 in both cell lines by inducing apoptosis, and concurrent inhibition of ATM and PARP-1 reduced cell proliferation more strongly than either single treatment.
+Conclusions:
+Our data show that inhibition of PARP-1 by AZD2461 is synthetically lethal for NU1025-resistant MCF-7 and SKBr-3 breast cancer cells. They also indicate that DNA damage signaling is essential for survival of both SKBr-3 and MCF-7 cells, especially after inactivation of PARP-1.
+Keywords:
+Apoptosis, Caspase-3, Cell cycle, DNA repair, DNA damage, Poly(ADP-ribose) polymerasesINTRODUCTION
+DNA is error-prone in all organisms. Fortunately, mammalian cells have evolved mechanisms that detect and signal DNA injury, collectively called the DNA damage response (DDR).
+1
+Ataxia telangiectasia mutated (ATM) protein kinase is an apical factor in DDR. Various chemicals and physical agents (e.g., ionizing radiation) that generate double-strand breaks (DSBs) strongly activate ATM kinase and induce downstream pathways that prevent doubling of the genetic information and cell division.
+2
+However, ATM kinase, a Ser/Thr protein kinase, is mutated in the human genetic instability syndrome ataxia telangiectasia. Thus, patients bearing mutations in the
+ATM
+gene display defects in responses to DNA injury due to lack of signaling of DNA damage.
+2
+To survive DNA strand breaks, cells must rapidly sense and respond to them. Thus, mammalian cells have evolved several repair mechanisms. DNA single-strand breaks (SSBs) are repaired by base excision repair (BER),
+3
+whereas DNA regions containing chemical adducts are corrected by nucleotide excision repair (NER).
+4
+Poly(ADP-ribose) polymerase-1 (PARP-1), an extremely sensitive nuclear sensor of SSBs, mediates their signaling and is also involved in BER.
+5
+,
+6
+Efficient repair of DNA DSBs is particularly important, as even a few unrepaired DSBs are thought to be harmful for cells.
+7
+Thus, 3 distinct DSB repair processes have also evolved - homologous recombination (HR), non-homologous end-joining (NHEJ), and single strand annealing (SSA) - which differ in several aspects, particularly regarding the kinetics and fidelity. The most reliable and error-free is HR.
+8
+BRCA1, encoded by the
+breast cancer susceptibility type
+1 gene, plays a crucial role in responses to DSBs.
+9
+,
+10
+Importantly,
+BRCA1
+/
+2
+-mutant
+11
+,
+12
+cells are hypersensitive to inactivation of PARP-1.
+13
+,
+14
+Hence, pharmacological inhibition of PARP-1 in
+BRCA1
+/
+2
+-deficient or mutant breast cancer cells is synthetically lethal and can be exploited in the therapy of breast cancer patients harboring mutations in these genes.
+15
+For these purposes PARP-1 inhibitors have been developed and several are currently under clinical trials.
+We recently showed that inhibition of PARP-1 activity by NU1025 is strongly cytotoxic for
+BRCA1
+-positive BT-20 cells, but not
+BRCA1
+-deficient SKBr-3 cells
+16
+Remarkably, interference with PARP-1 activity potentiated the cytotoxicity of C-1305, a unique topoisomerase II inhibitor, solely in BT-20 cells. These results prompted speculation that other PARP-1 inhibitors, particularly those tested in clinical trials, may be more efficacious against
+BRCA1
+-deficient SKBr-3 breast cancer cells than NU1025. In the presented study we examined the anti-proliferative and pro-apoptotic action of AZD2461, a novel PARP inhibitor already under clinical evaluation, in human MCF-7 and SKBr-3 breast cancer cells. These cell lines differ in the functional status of several key factors involved in the recognition of DNA damage (e.g., p53) and regulation of distinct genes involved in HR (e.g.,
+BRCA1
+and
+RAD51C
+). MCF-7 cells express both
+TP53
+and
+BRCA1
+tumor suppressors
+17
+but DNA damage responses in them are impaired due to mutation in the
+RAD51C
+gene, a paralog of RAD51.
+18
+In contrast, in the
+ErbB2
+-amplified SKBr-3 cells
+TP53
+is mutated (175
+Arg→His
+)
+19
+and BRCA1 is not functional as a result of reduced expression to an undetectable level.
+20
+Transcription of the
+BRCA1
+tumor suppressor is regulated by multiple effectors including hormones
+via
+specific receptors, e.g., the glucocorticoid receptor (GA).
+21
+,
+22
+The unliganded glucocorticoid receptor promotes expression of
+BRCA1
+through GA binding protein β (GABPβ), a subunit of the
+ets
+-domain transcription factor GABP.
+23
+Loss of
+BRCA1
+expression in SKBr-3 cells is due to GABPβ deficiency resulting from aberrant regulation of the GABPβ promoter by an NRF-1-containing complex.
+20
+Unexpectedly, the interference with PARP-1 activity by AZD2461 was cytotoxic for both cell lines. However, of 2 inhibitors used only CP466722 abolished the activity of ATM kinase in them. CP466722 strongly affected proliferation of MCF-7 and (less strongly) SKBr-3 cells. In addition, inhibition of PARP-1 by AZD2461 enhanced the cytotoxic action of CP466722. Based on these results we conclude that the sensitivity of
+BRCA1
+/
+2
+-deficient and -proficient breast cancer cells to pharmacological interference with PARP-1 activity strongly depends on the kind of inhibitor used. Moreover, our results strongly indicate that inhibition of PARP-1 is synthetically lethal not only in
+BRCA1
+/
+2
+-deficient cells but also in cells with defects in other components of the DNA repair machinery.MATERIALS AND METHODS
+1. Drugs and chemicals
+AZD2461, an inhibitor of PARP-1
+24
+and 2 ATM kinase inhibitors (KU55933 and CP466722)
+25
+,
+26
+were obtained from AXON Medchem BV (Groningen, Netherlands), prepared as stock solutions in DMSO and stored at −20°C until use. AZD2461 and KU55933 have been developed by AstraZeneca (London, UK) and CP466722 by Pfizer Inc. (New York, NY, USA).
+2. Cells and treatment
+Human MCF-7 and SKBr-3 primary breast carcinoma cell lines were purchased from the American Type Culture Collection (ATCC, Manassas, VA, USA).
+20
+MCF-7 cells were grown as a monolayer in phenol red-free Dulbecco’s medium supplemented with 10 % fetal calf serum at 37°C under an atmosphere containing 8% CO
+2
+SKBr-3 cells were cultivated in DMEM medium with 10% fetal calf serum.
+27
+Twenty-four hours after plating (at 60–70% confluence), the cells were treated with the ATM kinase inhibitors CP466722 (at concentrations ranging from 5 μM to 50 μM), KU55933 at a final concentration of 10 μM, and AZD2461 at concentrations ranging from 5 μM to 50 μM. The durations of the treatments are indicated in
+Figures 1
+–
+5
+.
+Open in a separate window
+Figure 1.
+Pharmacological interference with ataxia telangiectasia mutated kinase activity is lethal for human MCF-7 and SKBr-3 breast cancer cells. Exponentially growing human breast cancer cells were plated in 96-well microtiter plates and at 24 hours after plating were treated with CP466722 at a final concentration ranging from 5 μM to 50 μM for 48 hours or 72 hours. The numbers of viable cells were determined directly after the treatment using the CellTiter-Glo assays. Each data point represents the mean ± SD (bars) of replicates from at least 3 independent experiments, each performed in quadruplicate. Results were analyzed using GraphPadPrism software. (A) CP466722 strongly reduces proliferation of MCF-7 and SKBr-3 cells. Dose-response curves calculated by nonlinear regression analyses and IC50 values determined from them are shown. (B) Differential cytotoxicity of the specific ATM inhibitors CP466722 and KU55933 towards human breast cancer cells. The statistical significance of the observed reductions in cell numbers following treatment were calculated using Dunnett’s and Bonferroni’s Multiple Comparison test. Asterisks located directly above individual bars denote statistically significant differences between the corresponding treatment and the control. Asterisks located directly at the end of a line connecting two bars denote statistically significant differences between the indicated treatments. Single asterisks (*) denote significant differences at the P < 0.05 level. Double asterisks (**) denote significant differences at the P < 0.01 level. Triple asterisks (***) denote significant differences at the P < 0.001 level.
+Open in a separate window
+Figure 5.
+Monitoring of changes in chromatin structure in SKBr-3 breast cancer cells after inhibition of ataxia telangiectasia mutated kinase and Poly(ADP-ribose) polymerase-1. A, apoptosis; M, mitosis; MC, mitotic catastrophe.
+3. Detection of chromatin changes in individual cells by fluorescence microscopy
+Cells grown in 35 mm Petri dishes were treated with CP466722, AZD2461 or a combination of the 2 for the indicated durations then washed 3 times in phosphate buffered saline (PBS). The washed cells were immediately fixed in 3.7% paraformaldehyde in PBS, then washed four times in PBS and stained with Hoechst 33258 dissolved in PBS at a final concentration of 1.5 μg/mL.
+28
+The stained cells were inspected under an Eclipse TE300 inverted fluorescence microscope (Nikon Corporation, Tokyo, Japan).
+4. Determination of numbers of living cells
+Numbers of viable human breast cancer cells and their sensitivities to the tested drugs at various concentrations were determined by measuring luminescent signals correlated with cellular ATP levels, generated using a CellTiter-Glo kit (Promega Corporation, Madison, WI, USA), as previously described.
+29
+The assays were performed at least in quadruplicate, and the cells’ luminescence was measured using an Infinite M200PRO multi-label plate counter (Tecan Group Ltd., Männersdorf, Switzerland). Each data point presented in
+Figures 1
+–
+2
+; and
+Figure 4
+represents the mean ± SD (bars) of replicates from at least 3 independent experiments. Effects of the combined CP66722 or KU55933 and AZD2461 treatments are shown in
+Figure 4
+.
+Open in a separate window
+Figure 2.
+Effects of pharmacological inactivation of Poly(ADP-ribose) polymerase-1 by AZD2461 in human breast cancer cells with different deficits in DNA repair mechanisms. Human MCF-7 and SKBr-3 breast cancer cells were plated as described in
+Figure 1
+. Cells were treated with CP466722 and KU55933 at indicated concentrations. The data were analysed as described in detail in
+Figure 1
+. Each data point represents the mean ± SD (bars) of replicates from at least 3 independent experiments, each performed in quadruplicate. Results were analyzed using GraphPadPrism software. Dose-response curves calculated by nonlinear regression analyses and IC50 values determined from them are shown.
+Open in a separate window
+Figure 4.
+Pharmacological interference with Poly(ADP-ribose) polymerase-1 activity potentiates the efficacy of ataxia telangiectasia mutated (ATM) kinase inhibitors in MCF-7 (A and B) and SKBr-3 (C and D) cells. Human MCF-7 and SkBr-3 breast cancer cells were plated as described in
+Figure 1
+. Cells were treated with the inhibitors of ATM kinase (KU55933 and CP466722), AZD2461 alone, or their combination at indicated concentrations. The data were analyzed as described in detail in
+Figure 2
+. The statistical significance of the observed reductions in cell numbers following treatment was calculated using Dunnett’s and Bonferroni’s Multiple Comparison test. Asterisks located directly above individual bars denote statistically significant differences between the corresponding treatment and the control. Asterisks located directly at the end of a line connecting two bars denote statistically significant differences between the indicated treatments. Single asterisks (*) denote significant differences at the P ä 0.05 level. Double asterisks (**) denote significant differences at the P ä 0.01 level. Triple asterisks (***) denote significant differences at the P ä 0.001 level.
+5. Measurement of DNA concentration in single cells by flow cytometry
+DNA contents of single cellswere measured by flow cytometry following Vindelov et al.
+30
+with slight modifications as described elsewhere.
+31
+Briefly, the adherent cells were detached from the substratum by limited trypsinization then all cells were harvested by centrifugation and washed in PBS. Aliquots of 1 × 10
+6
+cells were stained with propidium iodide as previously described and their fluorescence was measured using a FACScan flow cytometer (Becton Dickinson, Franklin Lakes, NJ, USA) after at least 2 hours incubation at 4°C in the dark. The DNA concentration in the harvested cells was evaluated using ModFITLT cell cycle analysis software (Verity Software House, Topsham, ME, USA) and DNA histograms were generated using the CellQuest software package (Becton Dickinson).
+6. Electrophoretic separation of proteins and immunoblotting
+Total cellular proteins dissolved in SDS sample buffer were separated on 8% or 10% SDS slab gels, transferred electrophoretically to polyvinylidenedifluoride membrane (PVDF); (GE Healthcare UK Ltd, Little Chalfont, Buckinghamshire, UK; formerly Amersham Biosciences) and immunoblotted as previously described.
+16
+Equal protein loading was confirmed by Ponceau S staining. To determine the phosphorylation status of selected proteins, antibodies recognizing site-specific phosphorylated forms were diluted to a final concentration of 1:1000 in 1% BSA in Tris-saline-Tween-20 buffer.
+16
+In some cases, blots were used for sequential incubations. Immune complexes were detected after incubation with appropriate horseradish peroxidase-coupled secondary antibodies using chemiluminescent ECL Plus western blotting reagents from GE Healthcare, followed by exposure of the blots to film or analysis using ChemiSmart5100 apparatus (PEQLAB, Biotechnologie GmbH, Erlangen, Germany).
+7. Analysis of interactions using the CalcuSyn method
+The first was the combination index (CI) method of Chou and Talalay.
+32
+The CalcuSyn software package (Version 2.0, Biosoft, Cambridge, UK), which is based on this method and takes into account both potency (median dose [Dm] or IC
+50
+) and the shape of the dose-effect curve (the
+m
+value), was used to calculate the CI. The program automatically graphs its output and produces reports of summary statistics for all of the drugs considered, together with a detailed analysis of their interactions including the CI. A combination is considered to be synergistic if CI < 1, additive if CI = 1, and antagonistic if CI > 1. For this analysis, data were obtained on the effects of the combined CP466722 and AZD2461 treatments at each tested concentration. The fraction of cells affected and the corresponding CIs were calculated for each concentration.
+8. Statistical analyses
+Statistical analyses were performed using GraphPad Prism software (GraphPad Software, Inc., La Jolla, CA, USA) and significance levels were evaluated using Bonferroni’s and Dunnett’s multiple comparison tests. Differences between treatments were deemed to be extremely significant, very significant, significant and not significant if their P values (according to Bonferroni’s comparison test) were < 0.001, < 0.01, 0.01 < P < 0.05, and > 0.05, respectively. In the figures such differences are indicated by 3 asterisks (***), 2 asterisks (**), 1 asterisk (*), and no asterisks, respectively.RESULTS
+1. Pharmacological interference with ataxia telangiectasia mutated kinase activity by CPP466722 inhibits proliferation of examined cancer cells and is more effective in SKBr-3 cells
+Previous reports (summarized in the Introduction) suggest that cells deficient in
+BRCA1
+expression could potentially be most sensitive to ATM inhibition. Accordingly, SKBr-3 cells were more strongly affected by pharmacological depletion of ATM activity using CP466722 than MCF-7 cells. The cytotoxic action of this agent was both concentration- and time-dependent (
+Fig. 1A
+).
+Continuous treatment for 48 hours caused very significant reductions in numbers of viable SKBr-3 cells at a final concentration of 50 μM (
+Fig. 1B
+). After longer treatment (72 hours) very significant reductions in SKBr-3 cell numbers were also observed at a lower (C
+E
+= 10 μM) CP466722 dose. Exposure for 48 hours to the lowest CP466722 doses (C
+E
+= 5 μM and 10 μM) was less cytotoxic for MCF-7 cells (
+Fig. 1B
+). Nevertheless, at the highest dose their viability was reduced by 80% after 48 hours and 90% after 72 hours. In contrast, proliferation of SKBr-3 and MCF-7 cells was almost completely unchanged after 48 hours or 72 hours exposure to KU55933, another selective ATM inhibitor. Further, the anti-proliferative efficiencies of the 2 ATM inhibitors towards SKBr-3 cells at the same dose (C
+E
+= 10 μM) significantly differed (
+Fig. 1B
+).
+2. Inhibition of Poly(ADP-ribose) polymerase-1 induces synthetic lethality in MCF-7 and SKBr-3 cells
+Interference with PARP-1 activity using AZD2461 was cytotoxic to both the SKBR-3 line and (less strongly) MCF-7 line, reducing numbers of viable cells in a concentration- and time-dependent manner (
+Fig. 2
+). The finding that AZD2461 induced synthetic lethality in both cell lines, previously shown to be NU1025-resistant, indicates that even
+BRCA1
+/
+2
+-deficient or mutant breast cancer cells have differing sensitivity to pharmacological PARP-1 inhibitors.
+3. Poly(ADP-ribose) polymerase-1 inhibition by AZD2461 induces accumulation of MCF-7 cells and weaker accumulation of SKBr-3 cells in the G
+2
+phase
+To determine effects of the tested drugs on cell cycle progression in human MCF-7 and SKBr-3 cells, exponentially growing cells were exposed to them both separately and in combination at a final concentration of 10 μM for 48 hours. Cells were then harvested and the DNA concentration in single cells was measured by flow cytometry. PARP-1 inhibition by AZD2461 increased proportions of MCF-7 cells in the G2 phase at the expense of proportions in the S-phase, and had similar (but weaker) effects on SKBr-3 cells (
+Fig. 3
+). In contrast, after exposure of MCF-7 and SKBr-3 cells to CP466722 proportions of cells in the G1 phase slightly increased. However, following concurrent inhibition of ATM kinase and PARP-1, proportions of MCF-7 cells in the G2 phase were 3-fold higher than in controls, while the changes in SKBr-3 cells were less pronounced (
+Fig. 3
+).
+Open in a separate window
+Figure 3.
+Inactivation of ataxia telangiectasia mutated kinase and Poly(ADP-ribose) polymerase-1 differentially affects cell cycle progression in MCF-7 and SKBr-3 cells. Exponentially growing human MCF-7 and SKBr-3 breast cancer cells were treated with AZD2461, CP466722, or their combination at indicated concentrations for 48 hours. Cells were harvested immediately after treatment and stained with propidium iodide. DNA content in single cells was measured by flow cytometry. DNA concentrations were evaluated using ModFIT software. DNA histograms obtained from a representative experiment were prepared using Cell Quest software.
+These results indicate that pharmacological inactivation of PARP-1 alone has different effects on the cell cycle progression in the 2 human breast cancer cell lines considered in this study.
+4. Interference with Poly(ADP-ribose) polymerase-1 activity enhances cytotoxic action of ataxia telangiectasia mutated kinase inhibitors in both tested breast cancer cell lines by inducing apoptosis
+In the second phase of the investigations we determined the sensitivity of the breast cancer cells to the combination of both types of drugs. Simultaneous inhibition of ATM kinase and PARP-1 activity was much more cytotoxic than inactivation of only one target (
+Fig. 4
+). Interference with PARP-1 activity strongly enhanced the action of KU55933; after treatment for 48 hours, the number of living MCF-7 cells was reduced by 50%, and after 72 hours by 45% (
+Fig. 4A
+and
+​
+and4B).
+4B
+). Concurrent administration of the PARP-1 inhibitor and CP466722 was much more effective at the higher dose (CE =10 μM) of the ATM inhibitor. Notably, after longer treatment (72 hours) with this drug combination no further increase in cytotoxicity was observed.
+Moreover, analyses of DNA profiles revealed that the abundance of hypoploid cells increased after concurrent PARP-1 and ATM kinase inhibition for 48 hours, indicating that the drug combination induced programmed cell death. This effect was much more pronounced in SKBr-3 cells than in MCF-7 cells, possibly due to the apoptosis-resistance of MCF-7 cells caused by disruption of the
+CASP3
+gene. This hypothesis was confirmed by determination of caspase-3 activity in SKBr-3 cells (data not shown). In conclusion, interference with PARP-1 and ATM kinase activity potentiated caspase-3 activation.
+5. Chromatin changes after inhibition of poly(ADP-ribose) polymerase-1 in human SKBr-3 breast cancer cells
+We used in situ monitoring techniques to monitor the changes in cell density and chromatin structure following the inhibition of ATM kinase and PARP-1 in examined breast cancer cells. MCF-7 and SKBr-3 cells were strongly affected by the inhibition of ATM kinase and PARP-1 (
+Fig. 5
+) and their density decreased substantially. Both apoptotic, mitotic and G
+2
+-arrested SKBr-3 cells were detected in the samples after treatment with AZD2461 (
+Fig. 5
+). Concurrent inhibition of ATM kinase and PARP-1 caused much more pronounced reduction in the cell density.
+6. Poly(ADP-ribose) polymerase-1 inhibition by AZD2461 induces DNA damage response in breast cancer cells
+Finally, we determined the changes in the functional status and expression of some key proteins after single treatment of SKBr-3 cells with the inhibitors and their combinations. An increase in the site-specific phosphorylation of 53BP1 and MRE11 proteins was observed after treatment for 24 hours with AZD2461 but not after exposure to CP466722 (
+Fig. 6
+). After combined treatment the phosphorylation of 53BP1 protein decreased. In contrast, the phosphorylation of MRE11 protein was enhanced after concurrent inhibition of PARP-1 and ATM in SKBr-3 cells. These data show that the functional status of key DDR regulators mediated by phosphorylation of their specific sites was differentially modulated after separate and combined exposure to ATM and PARP inhibitors.
+Open in a separate window
+Figure 6.
+Poly(ADP-ribose) polymerase-1 inhibition induces site-specific phosphorylation of 53BP1 and MRE11 proteins in human SKBr-3 breast cancer cells. Whole cell lysates prepared from untreated control SKBr-3 cells and cells exposed for 24 hours to either one inhibitor alone or both inhibitors in tandem were separated on SDS-slab gels (8% or 10%) and analyzed by immunoblotting using indicated antibodies. Equal protein loading and quality of protein electro-transfer were confirmed by Ponceau S staining.
+7. Ataxia telangiectasia mutated inhibitors and AZD2461 synergistically interact
+Our observation that treating MCF-7 and SKBr-3 cells with a PARP-1 inhibitor enhances the cytotoxic action of both examined ATM inhibitors prompted us to investigate the interactions between the 2 types of inhibitors using the CalcuSyn software package. The calculated CI was less than 1 for all combinations of compounds tested in MCF-7 cells, indicating that AZD2461 at C
+E
+= 10 μM synergistically interacts with CPP466722 at C
+E
+= 10 after 48 hours (
+Table
+).
+Table.
+Synergistic interaction between CP499722 and AZD2461 in MCF-7 cells
+CI
+MCF-7
+SKBr-3
+Drug combination
+48 hr
+72 hr
+48 hr
+72 hr
+CP466722 (5 μM) + AZD2461 (10 μM)
+0.896
+1.468
+1.423
+2.151
+CP466722 (10 μM) + AZD2461 (10 μM)
+0.643
+1.142
+1.261
+1.243
+Open in a separate window
+CI, combination index.DISCUSSION
+Tumor suppressor genes play key regulatory roles in blocking cell division when DNA is damaged, broken or mutated, and initiating repair of DNA lesions. In heavily damaged cells some tumor suppressor proteins, e.g., p53, also trigger programmed cell death, thereby destroying them. Thus, tumor suppressor genes are crucial components of the machinery that maintains genomic stability and avoids the multiplication of cells harboring mutations or other defects.
+As mentioned above, of 3 known DSB repair pathways HR is the most important due to its high fidelity.
+8
+BRCA1
+/
+2
+, the most frequently mutated genes in hereditary breast and ovarian cancer,
+33
+are crucial players in DDR through facilitating the accurate repair of DSBs.
+12
+Cells with mutations or deficiencies in either gene accumulate defects in DNA indicative of the absence of HR-mediated repair. Furthermore,
+BRCA1
+/
+2
+-deficient cells are hypersensitive to inhibition of PARP-1.
+13
+,
+14
+These important findings have been therapeutically exploited for treatment of patients with hereditary breast cancers. However, HR is an extremely complex process with distinct phases regulated by a number of proteins in addition to
+BRCA1/BRCA2
+. Therefore, deficits in DDR may be generally considered as foundations for synthetic lethality.
+17
+In this study 2 human breast cancer cell lines (human estrogen receptor-responsive MCF-7 and SKBr-3) differing in the functional status of important tumor suppressors were used. MCF-7 cells express
+BRCA1
+, but harbor mutations in the
+RAD51C
+gene, encoding a protein required for RAD51 foci formation
+34
+and the checkpoint response to DNA damage.
+34
+,
+35
+In contrast, SKBr-3 cells overexpress
+ERB2
+and are
+BRCA1
+-deficient. The 2 cell lines also differ in
+TP53
+status, as MCF-7 cells express wt p53 while SKBr-3 cells have a missense R175H mutation in the
+p53
+gene.
+19
+This gain-of-function mutation induces conformational changes in the p53 protein that inactivate ATM kinase, promote cell survival and impair some cellular functions.
+36
+The functional status of ATM kinase is essential for DDR, and mutations in the
+ATM
+gene cause ataxia telangiectasia (AT), a rare inherited genomic instability syndrome.
+37
+The oncogenic p53 mutants interact with the nuclease MRE11 and inhibits the binding of MRN complex to DSBs.
+36
+This indicates that suppression of ATM expression and activity by intrinsic cellular mechanisms or small-molecule inhibitors may enhance sensitivity to PARP inhibition,
+38
+,
+39
+and the differences in responses of these tumor suppressor genes may explain why both examined cell lines are primed for the establishment of synthetic lethality.
+Our results show that both MCF-7 and SKBr-3 cells are sensitive to CP466722, an inhibitor of ATM kinase, and AZD2461, a new PARP-1 inhibitor that is under clinical investigation. AZD2461 induced synthetic lethality in both tested breast cancer cell lines that are insensitive to the PARP-1 inhibitor NU1025 even at higher doses (up to C
+E
+= 200 μM).
+16
+Moreover, CP466722 was synthetically lethal for MCF-7 and SKBr-3 cells that are resistant to KU55933, another specific inhibitor of ATM kinase.
+A key question to address is why BRCA1-proficient MCF-7 cells are sensitive to pharmacological interference with PARP-1 activity. As discussed above, deficiencies in not only BRCA1, but also in DNA damage signaling
+38
+,
+39
+and components of the DSB repair machinery
+40
+–
+42
+generally render cancer cells sensitive to PARP-1 inhibitors. During cellular processes such as DNA replication,
+7
+transcription or recombination SSBs are generated that are usually repaired by BER. However, exposure to a PARP-1 inhibitor blocks BER, and SSBs are converted into DSBs. In HR-competent cells accumulating DSBs are repaired by HR and cells survive. However, in HR-deficient cells increasing levels of DSBs are lethal. In principle, they might be repaired by NHEJ, which is active throughout the cell cycle and accurately repairs “clean” DSBs, i.e., broken strands with compatible ends and undamaged terminal nucleotides. DNA termini harboring damaged nucleotides or mismatched termini may also be joined by NHEJ but this is associated with loss of nucleotides and increases in genomic instability.
+43
+However a novel role of PARP in NHEJ regulation through retention of Ku 70 at DSBs was very recently discovered.
+40
+,
+44
+Thus, in HR-deficient cells PARP inhibition leads to accumulation of DSBs and is synthetically lethal.
+Furthermore, defects or deficiency in BER components (e.g., DNA polymerase β and XRCC1) confer hypersensitivity to PARP inhibitors.
+45
+Germline mutations in several genes encoding other proteins involved in DSB repair (
+inter alia PALB2, EMSY, MRE11
+, and
+RAD51
+) have been reported and shown to confer susceptibility to synthetic lethality.
+46
+RAD51
+and various paralogs are required for genomic integrity and have been identified as breast cancer susceptibility genes.
+47
+Monoallelic germline mutations in one of these paralogs,
+RAD51C
+, is also associated with increased risks of ovarian cancer.
+48
+,
+49
+Thus, PARP inhibitors have potentially broad applications.
+Both cell lines examined in our study display deficits in DNA repair machinery. SKBr-3 cells are
+BRCA1
+-deficient and harbor gain-of-function mutations in the
+p53
+gene. In contrast, in MCF-7 cells
+RAD51C
+is mutated resulting in disruption of foci formation and perturbationof DNA repair.
+41
+Speculatively, SKBr-3 cells may be more sensitive to PARP inhibition than MCF-7 cells harboring wild type p53 tumor suppressor protein, due to BRCA1 deficiency and
+TP53
+mutation.
+Remarkably, cancer cells can develop resistance to PARP-1 inhibitors and BRCA-targeted therapies
+via
+several known mechanisms, including: generation of secondary mutations in
+BRCA1
+/
+2
+genes that restore the open reading frame in ovarian cancer patients
+50
+; upregulation of the
+ABC
+gene encoding P-gp protein following long-term treatment with PARP inhibitors
+51
+; and loss of 53BP1 expression. In addition, in a subset of
+BRCA1
+mutant patients mutations in the C-terminal part of BRCA1 (BRCT domain) reportedly generated a protein that could not fold and was subject to accelerated proteolytic degradation.
+52
+HSP90-mediated stabilization of the BRCA1 mutant conferred PARP inhibitor resistance but administration of an HSP90 inhibitor restored sensitivity to PARP inhibition.
+52
+Recently, several genetic modulators of PARP-inhibitor responses have been identified such as
+ATM, MRE11A, NBS1, PTEN
+, and
+EWSR1_FLI1
+translocation.
+53
+It seems that distinct inhibitors need different PARP-response modulators and the sensitivity of cells to PARP-1 inhibitors depends on their functional status.Acknowledgments
+The work was supported by a grant from “Österreichische Krebshilfe.” We thank Dr. I. Herbacek for performing the flow cytometric measurements and Ms. Tamara Wenko for preparation of images.Footnotes
+CONFLICTS OF INTEREST
+No potential conflicts of interest were disclosed.

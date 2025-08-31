@@ -1,0 +1,769 @@
+Summary
+CDDO-Me has been shown to exert potent anti-inflammatory activity for chronic kidney disease and antitumor activity for several tumors, including melanoma, in early clinical trials. To improve CDDO-Me response in melanoma, we utilized a large-scale synthetic lethal RNAi screen targeting 6,000 human druggable genes to identify targets that would sensitize melanoma cells to CDDO-Me. Based on screening results, five unique genes (
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+) significantly potentiated the growth-inhibitory effects of CDDO-Me and induced apoptosis in A375, a BRAF mutated melanoma line (P<0.001). These five genes were then individually validated as targets to potentiate CDDO-Me activity, and related downstream signaling pathways of these genes were analyzed. In addition, the levels of phosphorylated Erk1/2, Akt, GSK-2, and PRAS40 were dramatically decreased by downregulating each of these five genes separately, suggesting a set of common mediators. Our findings indicate that GNPAT, SUMO1, SPINT2, FLI1, and SSX1 play critical roles in synergy with inflammation pathways in modulating melanoma cell survival, and could serve as sensitizing targets to enhance CDDO-Me efficacy in melanoma growth control.
+Keywords:
+CDDO-Me, Synthetic lethal siRNA screening, Melanoma, Inflammation, Drug TargetIntroduction
+Melanoma is one of the most aggressive forms of cancer. In the United States, the incidence of melanoma is increasing at a rate faster than that of any other cancer (
+1
+). Surgical treatment remains the mainstay of therapy for patients with early-stage, nonmetastatic disease. Chemotherapy and immunotherapy have been studied for treating melanoma, but most chemotherapeutic and small molecule agents tested to date have had limited effects on overall survival, often due to chemoresistance mechanisms (
+2
+,
+3
+); responses to immunotherapy can be dramatic, but are limited to date to small subpopulations of patients. After years of testing therapeutic approaches with limited effects in metastatic melanoma patients, the discovery of activating BRAF mutations in ~50% of all melanomas has proved to be revolutionary in the therapeutic management of advanced disease. Potent small molecule inhibitors of mutant BRAF and the immunotherapy agent Ipilimumab have initially demonstrated promising clinical activity. However, only a small percentage of patients currently receive durable benefit from immunotherapy, and despite initial high response rates, resistance to the small molecule targeted agents eventually develops.
+Inflammation has long been proposed as supporting anti-apoptotic molecular mechanisms in cancer development and maintenance. Melanoma is one of tumor types strongly associated with inflammation, as it is known for heterogeneous expression of proinflammatory cytokines and producing reactive oxygen (ROS) and nitrogen species (RNS) (
+4
+-
+6
+). Several studies have shown that the inhibition of inflammation and oxidative stress in melanoma cells released the block of apoptosis and enhance the efficacy of chemotherapy (
+7
+,
+8
+). Thus, the development of novel anti-inflammatory agents, and their administration in combination with chemotherapeutic agents, represents a promising treatment approach for melanoma.
+CDDO-Me [2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oic acid methyl ester], a semisynthetic oleanane triterpenoid, is an orally available, first-in-class antioxidant inflammation modulator, which is also named as RTA-402 or Baroxylone-Methyl (BM). CDDO-Me has been shown to inhibit nuclear factor κB (NF-κB) activity and suppress the
+de novo
+synthesis of inflammatory enzymes, such as inducible nitric oxide synthase (iNOS) and inducible cyclooxygenase-2 (COX-2) (
+9
+-
+11
+). In addition to its anti-inflammatory property, CDDO-Me induces differentiation, inhibits cell proliferation, and selectively induces apoptosis in a variety of cancer cells (
+12
+-
+14
+). CDDO-Me has completed a phase II trial in patients with chronic kidney disease (
+15
+), and promising clinical trials in pancreatic cancer and lymphoid malignancies are currently underway (
+16
+,
+17
+).
+Due to its potent anti-inflammatory activity, we hypothesized that CDDO-Me would reduce oxidative stress and increase the apoptotic potential in melanoma cells, resulting in growth inhibition. To improve CDDO-Me efficacy in melanoma cells, we utilized a large-scale synthetic lethal RNA interference (RNAi) screen to identify secondary targets involving in growth regulation when inflammation is attenuated by CDDO-Me. RNAi is a powerful tool to identify targets engaged in specific biological processes in human cancer cells. RNAi provides a systematic analysis of molecular alterations in cancer cells, and how the alteration of a specific gene affecting melanoma cells responding to treatments, which target known signal pathways involved in tumor development and growth (
+18
+). Numerous studies have demonstrated the value of such RNAi screens in human cells in identifying important genes for cell growth, apoptosis, chemoresistance and chemosensitivity resulting in discovering novel anticancer drug targets (
+19
+-
+24
+). Products of genes whose silencing selectively enhances the sensitivity of cancer cells to conventional chemotherapy make attractive drug targets.
+In this study, we used a first-generation high-throughput siRNA library targeting ~6,000 druggable human genes to screen new targets whose knockdown could enhance the CDDO-Me–mediated growth inhibition in human melanoma cells. We further analyzed a subset of unconventional targeted genes from siRNA screens and validated them as potential secondary targets to enhance the efficacy of CDDO-Me in melanoma. Our findings provide novel and important information on the molecular mechanisms of melanoma growth control and support the development of innovative therapeutic strategies targeting inflammation in a clinically relevant genetic subclass of melanoma.Materials and Methods
+Drug
+CDDO-Me was provided by Reata Pharmaceuticals (TX, USA) to Dr. Elizabeth A. Grimm's laboratory as a research tool for related grant studies. The purity (≥99.5) of CDDO-Me was confirmed by LC-MS (Reata Pharmaceuticals). A further quantity was generously provided by Dr Michael Andreef at MD Anderson Cancer Center (TX, USA). CDDO-Me was dissolved in DMSO as 10 mM stocks.
+Cell Lines and Cell Culture
+Human melanoma cell lines representing various stages of disease and with known somatic mutational status were used in our studies, including SB2 (early primary, mutated BRAF), WM35 (early primary, mutated BRAF), WM793 (advanced primary, mutated BRAF), A375 (metastatic, mutated BRAF), MeWo (metastatic, mutated p53), SK-Mel-2 (metastatic, mutated N-Ras), TXM-40 (metastatic, mutated BRAF), three early passage lines of metastatic melanoma cell lines from our surgical specimens initiated in our laboratory (Mel-1, -2, and -3), as well as normal skin fibroblasts (BJ), normal epidermal melanocytes (NHEMs), epidermal keratinocytes (NHEKs), and immortalized keratinocytes (HaCaT cells). All cell lines, except for NHEMs and NHEKs, were grown in RPMI 1640 supplemented with 10% fetal bovine serum, 100 μg/mL glutamine, 100 units/mL penicillin, and 100 units/mL streptomycin (Invitrogen, Carlsbad, CA). NHEMs and NHEKs were cultured according to the ATCC instructions. All cells were grown at 37°C in an atmosphere of 5% CO
+2
+. Cell lines were validated by short tandem repeat DNA fingerprinting using the AmpF/STR Identifiler PCR Amplification Kit according to the manufacturer's instructions (Applied Biosystems, Foster City, CA; cat 4322288) and analysis was performed by the MD Anderson Cancer Center Characterized Cell Line Core.
+siRNAs and siRNA Library Design
+The siRNA Screening was conducted at the Center for Targeted Therapy (Department of Experimental Therapeutics at MD Anderson Cancer Center). The siRNA library used in our studies comprised 24,000 siRNAs targeting the 6,000 known druggable genes, which was a gift from Dharmacon (Thermo Scientific, Huntsville, AL). siRNAs against each gene were designed, synthesized and validated by Dharmacon. These siRNAs are known as ON-TARGETplus siRNAs with specific chemical modification on both strands to enhance target specifity and dramatically reduce off-target effects. Each mRNA was targeted by a pool of siRNAs consisting of a combination of four siRNA duplexes directed at different regions. The commercialized drug target siRNA Libraries that are similar to the one used in our studies can be found in the Pre-defined siRNA Libraries at Thermo Scientific.
+High-throughput siRNA Library Screen
+Human metastatic melanoma A375 cells were seeded the day before siRNA transfections at 1,000 cells per well in 384-well plates. The library was screened using four siRNAs/well as a pool at 10 nM each. For a single well of a 384-well plate, 1.5 μL of siRNA and 1 μL of DharmaFect-3 (Thermo Scientific) were each incubated separately with 25 μL of RPMI 1640 medium for 10 min and then mixed together for 20 min at room temperature. The raw data including replicates, statistical interpretation, and common gene names are all provided in Supplemental data. Five microliters of the mixture were then applied to the cells plated in 25 μL of complete RPMI1640 medium. We added CDDO-Me at the dose of IC
+20
+or control medium to cells 4 h after transfection to allow adequate time for transfection to occur without interference from the effects of CDDO-Me, as this streamlined the fully automated work flow. Three days later, the number of viable cells was measured using a CellTiter-Blue cell viability assay (Promega, Madison, WI) for evaluation of tumor cell viability. Each siRNA transfection was done in triplicate, spanning three independent 384-well plates. Normalized values were averaged for three plates to obtain average fold increase in cell death relative to control for each siRNA treatment.
+In our studies, four siRNAs targeting the polo-like kinase (PLK1), kinesin family member-11 (KIF11), coatomer protein complex, subunit beta-2 (COPB2), and thymocyte selection–associated high mobility group box (TOX) served as positive control to monitor the efficiency of siRNA transfection. For our screen and validation experiments, we optimized the experimental conditions to ensure these siRNAs reduced cell viability 60% to 90% in A375 cells (
+Supplementary Figure 1S
+). In contrast, the universal nontargeting control siRNA (si-NSC) or siRNA for orthopedia homeobox gene (si-OTP) served as negative controls to monitor the off-target effects, and were used to optimize the experimental conditions to ensure these siRNAs did not induce any measurable reduction in cell viability in our screening, which were then also included in all assays. With these positive and negative controls, our siRNA library screening platform was effectively and tightly controlled.
+The
+Z
+′ factor was calculated to validate the suitability and robustness of the assay for high-throughput screening (
+25
+).
+Z
+′ factor is defined as the screening window coefficient and is reflective of both the signal dynamic range and the variability in sample data measurements. For each test plate, the
+Z
+′- and Z-factor scores were computed. The scores measured the separation between the negative and positive controls (
+Z
+′ factor) and between the test wells and positive controls (
+Z
+factor). A high
+Z
+′ factor indicated good separation between the two types of controls, whereas a high
+Z
+control indicated good separation between the positive controls and typical test wells—most of which should be similar to the negative control—thus ensuring that positive siRNA hits were easily recognized. The test wells within each plate were normalized by subtracting the test well average and dividing by the standard deviation of the test wells on that plate. This normalization reduced the effects of differences in magnitude and variability between plates.
+Ingenuity Pathway Analysis (IPA)
+In order to investigate possible biological interactions of the identified gene targets, datasets representing gene-specific siRNA with altered cell viability inhibition derived from siRNA library screening were imported into the Ingenuity Pathway Analysis (IPA) tool (
+http://www.ingenuity.com
+). The basis for the IPA program is the Ingenuity Pathway Knowledge Base, which is derived from known functions and interactions of genes published in the literature. Thus, the IPA tool allows the identification of biological networks, global functions, and functional pathways of a particular dataset. The complete dataset containing gene identifiers (GenBank accession numbers) and corresponding inhibition values (
+P
+values) were uploaded into the application. Each gene identifier was mapped to its corresponding gene object in the Ingenuity Pathway Knowledge Base. Each gene product was assigned to functional (e.g., “cellular growth and proliferation”) and subfunctional (e.g., “colony formation”) categories. The biological functions that were most significant to the dataset were identified using Fisher's exact test to calculate
+P
+values. The criteria applied for the search of major biological function and signaling pathway categories were the genes with the highest differential inhibition and the
+P
+values of significance.
+Transient Transfection
+DharmaFect-3 transfection reagent (Thermo Scientific) was used to transiently transfect the siRNA duplexes in our experiments. DharmaFect-3 (0.3 μL) and 100 nmol of siRNA oligonucleotides were mixed, and the mixture was added to each well of a 96-well plate with 0.1 mL of medium in the presence or absence of CDDO-Me at the IC
+20
+(20% inhibitory concentration) dose.
+For the individual siRNA validation experiments, we used Dharmacon On-TargetPlus set of 4 siRNAs for each gene. Two sets of siRNAs targeting different areas of the mRNA were selected to test for each gene. Human melanoma cells were plated in 6-well plates at 1 × 10
+5
+cells/well and cultured overnight at 37°C in 2 mL of RPMI medium. The next day, each well was transfected with 20 nM siRNA for FLI1, GNPAT, SPINT2, SSX1, or SUMO1 with 3.2 μL Lipofectamine RNmix. The transfection of 20 nM non-target si-RNA and transfection reagent only served as the controls. The total RNA and protein from each treated sample were extracted. The mRNA levels of
+FLI1, GNPAT, SUMO1, SPINT2
+, and
+SSX1
+were then analyzed by RT-PCR with specific primers, and the protein levels of these five genes were analyzed by Western blotting and immunohistochemistry staining with specific antibody.
+Cell Viability Assay
+Cell viability was determined by MTT [3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide] assay (Roche Diagnostics, Indianapolis, IN). Melanoma cells plated in 96-well plates (5,000 cells per well) were treated with 0.5 nM siRNAs in the presence or absence of CDDO-Me. Cell viability was determined 72 h after treatment. Each experiment was carried out in triplicate wells. The IC
+20
+and IC
+50
+values, defined as the concentration needed for a 20% or 50% reduction in absorbance, were calculated from the survival curves.
+Apoptosis Assay
+Apoptosis was measured by flow cytometry using propidium iodide (PI) staining–based fluorescence-activated cell sorting (FACS) as described previously (
+26
+). Melanoma cells plated in six-well plates (200,000 cells per well) were treated with 20 nM siRNAs in the presence or absence of 50 nM CDDO-Me. At 72 h after treatment, cells were fixed, permeabilized with 70% ethanol, and washed with PBS. Apoptosis was analyzed by flow cytometry and calculated in terms of the numbers of sub-G1 cells.
+Western Blot Analysis
+Melanoma cells plated in six-well plates (200,000 cells per well) were treated with 20 nM siRNAs in the presence or absence of 50 nM CDDO-Me. At 72 h after treatment, cells were lysed in buffer containing 50 mM Tris (pH 7.9), 150 mM NaCl, 1% NP-40, 1 mM EDTA, 10% glycerol, 1 mM sodium vanadate, and protease inhibitor cocktail (Roche). Proteins were separated by 8% SDS-PAGE gels, transferred to a Hybond ECL nitrocellulose membrane (GE Healthcare Biosciences), and blocked in 5% dry milk in PBS. Western blots were probed with antibodies to GNPAT, SPINT2, FLI1, SSX1 (polyclonal abs, Abnova, Taiwan), SUMO1 (Abnova, Taiwan, and Cell Signaling Technology, Beverly, MA), caspase-3, caspase-9, PARP, Erk1/2, PI3K, Akt, GSK-3 and PRAS40 (Cell Signaling Technology, Beverly, MA), as well as p50, p65, β-Actin (Santa Cruz, CA). The protein bands were visualized by enhanced chemiluminescence (Amersham Biosciences, Piscataway, NJ).
+Immunohistochemical Studies
+(IHC)
+We used an IHC protocol, described by us previously (
+6
+), to detect the protein levels of FLI1, SSX, GNPAT, and SPINT2 (polyclonal abs, Abnova, Taiwan) after treating with specific siRNAs. The dilutions of primary antibodies used for IHC are FLI1 (1:100), SSX 1(1:50), GNPAT (1:50), and SPINT2 (1:50).
+Reverse Transcription PCR (RT-PCR)
+To determine the specific mRNA levels in melanoma cells, we performed first-strand cDNA synthesis with 400 ng of total RNA by using a GeneAmp RNA PCR kit (Applied Biosystems) according to the manufacturer's protocol. A 2-μL cDNA product (~32 ng input RNA) was used for each 25- μL PCR reaction and followed the protocol of the GeneAmp RNA PCR kit. The PCR protocol consisted of initial denaturation at 95°C for 5 min; 30 cycles of 95°C for 45 s, 57°C for 45 s, and 72°C for 60 s; primer extension at 72°C for 1 min; and a final extension at 72°C for 10 min. We analyzed 20 μL of PCR product on a 1% agarose gel. The RT-PCR primers for FLI1 are 5’-ATCAGCCAGTGAGGGTCAAC-3’ and 5’-GAATTGCCACAGCTGGATCT-3’ (
+27
+). The RT-PCR primers for GNPAT, SPINT2, and SSX1 were designed by our laboratory: 5’-GCACCACCACGGCTTAGCAAA-3’ and 5’-AGGCACCCGACATTCGTAGCA-3’ for GNPAT; 5’-CAAGGCCTTTGATGATATTGC-3’ and 5’-CCATGCCCATGTTCGTGAA-3’ for SSX1; 5’-GCACCTGGCGGACCCTC-3’ and 5’-GCGTTGGCGGTGCAGTATTCT-3’ for SPINT2.
+Statistical Analysis
+The
+t
+test was used to compare values of test and control samples.
+P
+< 0.05 was considered a statistically significant difference. The experiments were performed three times, and mean values and standard deviations were calculated. IC
+50
+and IC
+20
+values of CDDO-Me were calculated using CurveExpert 1.3 software. Statistica 6.1 software (StatSoft Inc, Tulsa, OK) was used for the statistical analyses.RESULTS
+Inhibition of human melanoma cell growth by CDDO-Me
+In order to determine whether CDDO-Me functions as anti-inflammatory and anticancer agent in human melanoma, and to evaluate the sensitivities of melanoma cell lines to CDDO-Me treatment, we used the MTT assay to examine the effect of CDDO-Me alone on the survival inhibition of human melanoma cell lines (SB2, WM35, WM793, A375, MeWo, Skmel2) that represent various clinical stages of melanoma. Normal skin fibroblast cells (BJ fibroblast), and the immortalized keratinocytes (HaCaT) served as non-melanoma controls. Treatment with CDDO-Me alone dose-dependently inhibited the viability of melanoma cells (
+Figure 1
+). All six tested melanoma cell lines had lower IC
+50
+than BJ fibroblast and HaCaT (
+Figure 1
+). At a concentration of 0.4 μM, CDDO-Me distinctly inhibited about 60~80% of cell viability in 6 tested melanoma cells, but only 20~30% of cell viability in BJ fibroblast and HaCaT (
+Figure 1
+). These data suggests that CDDO-Me is a selective agent for suppression of human melanoma cell growth, which is consistent with the lack of
+in vivo
+toxicity seen in the clinical trials for CDDO-Me (
+15
+-
+17
+,
+28
+). Further detail background of tested cell lines and corresponding CDDO-Me IC
+20
+and IC
+50
+were shown in
+supplementary data Table 1S
+.
+Open in a separate window
+Figure 1
+Dose-dependent inhibition of melanoma cell growth by CDDO-Me
+Human melanoma cells at various stages (SB2, WM35, WM793, A375, MeWo, and Skmel2), normal skin cell lines (BJ), and immortalized keratinocytes (HaCaT cells) plated in 96-well plates (5,000 cells per well) were treated with CDDO-Me at the indicated doses. After 72 h, cell viability was determined by MTT assay. The percent cell viability in each treatment group was calculated relative to cells treated with medium only. Each experiment was carried out three times, and the means were used for determination of IC
+20
+and IC
+50
+values. Each bar denotes mean ± SD of three experiments.
+High-throughput (HT) synthetic lethal siRNA screening for modulators of CDDO-Me response in melanoma cells
+In order to identify genes that enhance the response of melanoma cells to CDDO-Me treatment, we developed a high-throughput siRNA library along with a fully automated transfection system for performing genome-scale screening to identify new melanoma targets. Our siRNA screenings were mainly conducted in A375 cell line, which has been shown to gain sensitivity to cisplatin after attenuating cellular oxidative stress (
+7
+-
+8
+).
+Our screening results showed that of the 6,000 siRNA pools, transfection of 525 pools markedly increased the sensitivity of CDDO-Me >60% by inhibition of cell viability (
+supplementary data
+). Statistical analysis of the siRNA screening data confirmed that 35 siRNA pools significantly modulated the response to CDDO-Me in A375 cells. As shown on the top panel of Heatmap (
+Figure 2a
+, red text), 20 specific siRNA pools significantly potentiated the melanoma cell-killing effect of CDDO-Me (
+P
+< 0.001), which increased cell growth inhibition by 1.31 to 7.48-fold as compared with the nontarget siRNA control,
+si-NSC
+(
+Table 1
+, top panel). These data indicate that the listed 20 genes targeted by these siRNA pools are significant hits to potentiate anti-growth effects of CDDO-Me in melanoma cells. Moreover, our siRNA screening identified 15 siRNA pools that significantly attenuated the effect of CDDO-Me in melanoma cells (
+Figure 2a
+, bottom panel, blue text). The genes related to these 15 siRNA pools are considered potential targets for driving resistance to CDDO-Me. These results suggest that the genes identified by our siRNA screens may serve crucial roles in modulating cell survival and CDDO-Me sensitivity.
+Open in a separate window
+Open in a separate window
+Figure 2
+Identification of modulators for CDDO-Me response in melanoma cells by synthetic lethal siRNA screen
+(a)
+Heatmap of 35 specific siRNAs and related genes that can significantly modulate the response to CDDO-Me in A375 cells. The rotio (siRNA ± CDDO-Me/si-NSC control) of the cell viability of each gene (siRNA) is shown in three replicates. The downregulation of 20 genes on the top panel of heatmap (red text) could significantly potentate the anti-growth activity of CDDO-Me in A375 cells (
+P
+<0.001), whereas the downregulation of 15 genes on the bottom panel (blue text) could significant reverse the antigrowth activity of CDDO-Me (
+P
+<0.001).
+(b) T
+he IPA studies determine that 35 genes identified by siRNA screen participate in 17 canonical signaling pathways.
+(c)
+Functional network analysis by IPA. The top scoring signaling network regulating cell development, growth, and proliferation composed of multiple genes, which include 15 genes identified from our synthetic lethal RNAi screening (red-colored). Nodes represent genes, with their shape representing the functional class of the gene product, and the edges indicate the biological relationship between the nodes.
+Table 1
+Target genes identified as modulators of CDDO-Me efficacy in melanoma cells.
+Top 20 genes (siRNAs significantly potentate CDDO-Me in A375 cells
+Description
+p-
+Value (1 × 10
+−4
+)
+Fold Changes
+GNPAT
+Glyceronephosphate O-acyltransferase
+2.82
+7.48
+SUMO1
+SMT3 suppressor of inif two 3 homolog 1 (S. cerevisiae)
+5.74
+4.23
+HOXC9
+Homeabox C9
+1.02
+3.49
+SPINT2
+Serine peptidase inhibitor. Kunitz type, 2
+1.24
+3.32
+HLCS
+Holocarboxylase synthelase
+5.77
+3.30
+GMPR
+Guanosine monophosphate reductase
+4.67
+3.08
+FLII
+Friend leukemia virus integration 1
+3.61
+3.07
+SSX1
+Synovial sarcoma, X breakpoint 1
+2.89
+2.99
+FOXK2
+Forkhead box- K2
+3.68
+2.33
+ATP2A2
+ATPaxe, Ca
+2-
+Iransporimg cardiac, muscle, slow switch 2
+3.00
+2.31
+PDCD61P
+Programmed cell death 6 interacting protein
+0.781
+2.07
+ITGAX
+Itegrin, alpha X (complement component 3 receptor & subunit)
+2,02
+1.94
+IRX4
+Iroquois homeobox 4
+4.99
+1.87
+RBPSUIIL
+Recombination signal binding protein for immunoglobulin kappa J region-like
+0.502
+1.76
+KIF5A
+Kinesin family member 5A
+3.81
+1.72
+NKX2-8
+NK2 homoebox 8
+5.49
+1.54
+UPP1
+Uridine, phosphorylase 1
+4.52
+1.52
+SETDB1
+SET domain, bifurcated 1
+2.70
+1.48
+SLX1
+SLX1 homeobax 1
+4.39
+1.38
+II2AFY
+II2A histone family, member Y
+4 63
+1.31
+Open in a separate window
+Top general molecular and cellular function for 35 genes identify by siRNA screen
+IPA
+p-
+Value
+Number of identified genes
+Cell death
+1.49 × 10
+−3
+–4.71 × 10
+−2
+5
+Cell niLiiphalugv
+1.49 × 10
+−3
+–3.95 × 10
+−2
+3
+Cellular assembly and organization
+1.49 × 10
+−3
+–3.37 × 10
+−2
+4
+Cellular growth und. prolifeiiition
+1.49 × 10
+−3
+–4.66 × 10
+−2
+4
+DNA repication and repair
+1.49 × 10
+−3
+–2.98 × 10
+−2
+1
+Open in a separate window
+Top interaction signaling networks for 35 genes identify by siRNA screen
+IPA Score
+Number of identified genes
+Cell development, cell growth and proliferation
+11
+15
+Developmental disorder
+Organismal development
+2~3
+3
+Nervous system development, and function
+Tissue morphology
+Reproductive system development and function
+Visual system development and function
+Metabilic disease
+2
+1
+Genetic disorder
+Lipid metabolism
+Open in a separate window
+Biological functions and interaction pathways of the identified genes
+We next used Ingenuity Pathway Analysis (IPA) software to analyze the biological functions and interaction pathways for those 35 genes identified by previous siRNA screens as modulators of CDDO-Me response in melanoma cells. As summarized in
+Table 1
+(middle panel), the top five molecular and cellular functions were regulated by 35 genes involved in cell death (five genes), cell morphology (four genes), cellular assembly and organization (four genes), cellular growth and proliferation (three genes), and DNA replication and repair (one gene), with
+P
+values ranging from 1.49 × 10
+−3
+to 4.66 × 10
+−2
+. IPA also showed that the identified 35 genes participated in 17 canonical signaling pathways (
+Fig. 2b
+). Among these signaling pathways, several are known to play crucial role in inflammation and regulation of melanoma development and progression, including TREM1 signaling, JAK/Stat signaling, hypoxia signaling, nitric oxide signals, and IL-8 signaling (
+Fig. 2b
+). Further study of IPA on potential interaction networks for the 35 genes showed that most of the genes were characterized in several major signaling networks (
+Table 1
+, bottom panel). Notably, there are 15 identified genes related to one major signaling network corresponding to biological functions regulating cell development, cell growth, and proliferation (Bottom panel of
+Table 1
+, and
+Figure 2c
+). The downregulation of these 15 genes separately could significantly increase the anti-growth activity of CDDO-Me in A375 cells (
+Figure 2a
+). The locations of these 15 genes and potential connections were demonstrated in the signaling networks generated from IAP (
+Figure 2c
+). The interested targets, FLI1, GNPAT, SPINT2, and SUMO1, in our following studies, are characterized into this group of genes (
+Figure 2c
+). As demonstrated in
+Figure 2c
+, SUMO1 appears to be a key node due to its interaction with multiple critical factors in the signaling networks. Moreover, the IPA study also reveal several crucial nodes in the network, which may play critical roles in regulating these 15 genes and synergizing with inflammation signaling pathway in human melanoma cells. These factors included ERK, EGFR, MYC, IL-15, AKT1, JNK (
+Figure 2c
+). The raw data for the hits map, as well as in-depth statistical analysis, are provided in
+Supplemental data
+.
+Validation of GNPAT, SUMO1, SPINT2, FLI1, and SSX1 genes as modulators for CDDO-Me sensitivities in melanoma cells
+In order to validate the genes whose inhibition by siRNA led to the synthetic lethal effect identified by our siRNA screen, we first selected five genes,
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+, for target validation in various melanoma cell lines. These five genes were selected in part because, to our knowledge, none had been studied previously as targets to inhibit the growth of melanoma cells. Moreover, FLI1, GNPAT, SPINT2, and SUMO1 have been characterized into the signaling network regulating cell growth and proliferation in our IPA studies. First, we analyzed the endogenous protein levels represented by these five genes in additional human melanoma cells and normal controls, human melanocytes and keratinocytes, by Western blotting. SUMO1, SPINT2, and FLI1 were expressed in all tested melanoma cell lines, whereas their expression levels were substantially lower in normal melanocytes and/or keratinocytes (NHEM and/or NHEK) (
+Figure 3a
+). GNPAT was expressed in all tested melanoma cells, but undetectable in normal NHEM and NHEK by our Western blots (
+Figure 3a
+). SSX1 was highly expressed in melanoma cells WM793, A375, SK-Mel-2, and TXM40, and lower protein levels were also detected in SB2 and MeWo. However, we could not detect expression of SSX1 in NHEM and NHEK by Western blot as compared with other melanoma cells (
+Figure 3a
+). These results indicate that SUMO1, SPINT2, FLI1, SSX1, and GNPAT are upregulated in melanoma cells compared to normal skin cell control, NHEM and NHEK. Thus, they may represent potential candidates as molecular markers and therapeutic targets.
+Open in a separate window
+Open in a separate window
+Figure 3
+Endogenous expression of GNPAT, SUMO1, SPINT2, FLI1, and SSX1 proteins in melanoma cells, and the silencing of these genes by siRNAs
+(a) The proteins levels of these five genes in various human melanomacell lines, normal human melanocytes (NHEM), and normal human keratinocytes (NHEK) were analyzed by western blot using specific antibodies to these five proteins. β-Actin served as loading controls. Each experiment was carried out three times. Blots shown are representatives from three experiments.
+(b) and (c)
+The effectiveness and specificity of siRNAs against
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+to downregulate targeting gene expression were demonstrated on both mRNA and protein levels by RT-PCR (b), western blot (b), and IHC (c) in A375 cells. In (
+c
+), two sets of siRNAs targeting different areas of the mRNA were selected to test for each gene.
+Under optimized experimental conditions, we were able to downregulate > 75% of GNPAT, SUMO1, SPINT2, FLI1, and SSX1 levels in human melanoma cells by specific siRNAs, respectively, after 24-h transfection. The effectiveness and specificity of our siRNAs against
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+were clearly demonstrated on both mRNA and protein levels by RT-PCR and Western blot in A375 cells (
+Figure. 3b
+). Furthermore, two sets of siRNAs targeting different areas of the mRNA for each genes were applied in target validation. As shown in the IHC data in
+Figure 3c
+, both sets siRNAs could specifically and efficiently downregulate each gene expression in A375 cells as compared with controls. All of our siRNA studies were strictly conducted with two negative controls, the treatment with transfection reagent only and the non-target si-NSC, to monitor the specificity of each siRNA against individual genes.
+In order to validate the synthetic lethal screening results, we transfected four representative human melanoma cells, SB2, A375, MeWo, and WM793, with siRNAs to selectively silence SUMO1, SPINT2, FLI1, SSX1, and GNPAT expression in the presence or absence of 50 nM CDDO-Me. According to the IC
+20
+and IC
+50
+of CDDO-Me in several melanoma cells (
+Figure 1
+, and
+supplementary Table 1S
+), 50 nM CDDO-Me resulted in ~ 10% of growth inhibition for several melanoma lines, which allowed us to demonstrate the greatest degree of synthetic lethal effect for each secondary target from siRNA screening. The cell viability was determined by MTT assay after 72-h treatment. Notably, silencing these genes inhibited the cell survival 25% to 60% of all four tested melanoma cells as compared with negative controls (si-NSC and transfection reagent only) (
+Figure 4a
+). Moreover, GNPAT, SPINT2, or SUMO1 siRNA potentiated the anti-proliferative effect of CDDO-Me, as seen by the greater decrease of cell viability compared with the treatments with specific targeted gene siRNA only (
+Figure 4a
+). The SSX1 siRNA only decreased about 40% to 60% of cell viability in A375, MeWo, WM793 cells as compared with negative controls (
+Figure 4a
+). The combination of SSX1 siRNA and CDDO-Me further decreased about 80% – 90% of cell viability in A375, MeWo, WM793 cells (
+Figure 4a
+). This indicates that the downregulation of SSX1 sensitizes A375, MeWo, and WM793 cells to CDDO-Me. Although SSX1 siRNA inhibited 80% of cell viability in SB2 cells compared with negative controls, it did not show any significant effect on sensitizing SB2 cells to CDDO-Me (
+Figure 4a
+). The FLI1 siRNA did not show any significant effect on inhibiting cell proliferation in WM793 cells by the treatment of siRNA alone or combination with CDDO-Me (
+Figure 4a
+). The silencing of FLI1 by siRNA showed slight inhibitory effects on SB2, A375, and MeWo cells. However, FLI1 siRNA combined with CDDO-Me showed a greater growth inhibitory effect (30~40%) in A375 and MeWo compared with siRNA treatment only (
+Figure 4a
+). These results confirmed that SUMO1, SPINT2, FLI1, SSX1, and GNPAT are modulators of CDDO-Me response in human melanoma cells.
+Open in a separate window
+Figure 4
+The effect of knockdown of
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+on cell growth and the efficacy of CDDO-Me in human melanoma cells
+Melanoma cell lines plated in 96-well plates were transfected with siRNA pools (100 nM) targeting
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+for 4 h, followed by treatment with CDDO-Me at 50 nM (
+a
+) or the indicated doses (
+b
+). After 72 h, cell viability was determined by MTT assays. The percent of cell viability in each treatment group was normalized to negative control, cells treated with si-NSC. Each experiment for cell viability assay was carried out three times. Each bar denotes mean ± SD of three experiments. CM, CDDO-Me; D-FECT 3, transfection reagent.
+For further target validation, we assessed the effects of three siRNAs targeting
+SUMO1, FLI1
+and
+SSX1
+on the IC
+50
+values of CDDO-Me for growth inhibition. We transfected A375 cells with the three siRNAs (100 nM) for 4 h. respectively, and then treated with CDDO-Me at various doses. The silencing of
+SUMO1, FLI1
+or
+SSX1
+by specific siRNAs markedly enhanced the sensitivity of A375 cells to CDDO-Me and decreased its IC
+50
+values by comparison with the negative control si-NSC treatment (
+Fig. 4b
+). Taken together, these results confirmed our data from the synthetic lethal siRNA screening and showed that these genes are candidate targets to sensitize human melanoma cells to CDDO-Me.
+Gene silencing of GNPAT, SUMO1, SPINT2, FLI1 and SSX1 enhanced apoptosis induced by CDDO-Me
+To determine whether the enhancement of the growth- inhibitory effects of CDDO-Me induced by knockdown of
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+genes is associated with an increase of apoptosis in melanoma cells, we evaluated the effect of silencing
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+genes on the induction of apoptosis by a FACS analysis with PI staining in A375, WM793 and MeWo cells. As the example shown in
+Figure 5a
+, the SUMO1 siRNA substantially increased the percentage of apoptotic cells to 18.72% and 35.01% in A375 and WM793 cells, respectively, compared with negative control si-NSC (7.59% and 7.01%). Further quantification of the effects of five siRNAs (
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+) on the induction of apoptosis in A375 and MeWo cells is shown in
+Figure 5b
+. The silencing of
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+by specific siRNAs increased the amount of apoptotic cells (solid black bars,
+Figure 5b
+) compared with negative controls, si-NSC and D-FECT 3. The silencing of
+FLI1, GNPAT
+and
+SPINT2
+substantially increased the activity of CDDO-Me to induce apoptosis (slanting line bars,
+Figure 5b
+) compared with the treatment with CDDO-Me only (gray bars,
+Figure 5b
+). The silencing of
+SUMO1
+potentiated CDDO-Me to induce apoptosis in A375 cells, but not in MeWo cells. However, the silencing of
+SSX1
+did not show any significant effect on enhancing the activity of CDDO-Me with respect to induction of apoptosis in both A375 and MeWo cells compared with treatment using CDDO-Me only (
+Fig. 5b
+). Collectively, our data show that respectively downregulating the
+GNPAT, SUMO1, SPINT2
+, and
+FLI1
+can enhance CDDO-Me-mediated apoptosis induction in some melanoma cells.
+Open in a separate window
+Open in a separate window
+Figure 5
+The effect of knockdown of
+GNPAT, SUMO1, SPINT2, FLI1, and SSX1
+genes on the apoptosis induction in human melanoma cells
+The human melanoma cell lines were transfected with specific siRNA targeting
+GNPAT, SUMO1, SPINT2, FLI1, and SSX1
+genes or a non-targeting control (si-NSC) for 72 hours. (
+a
+) and (
+b
+) The apoptotic cells were analyzed by FACS assay with PI staining. (
+a
+) The apoptosis was presented by relative percentage of sub-G0/G1 apoptotic cells after the silencing of SUMO1 in A375 and WM793 cells. (
+b
+) The quantitative presentation of the percentage of apoptotic population in A375 and MeWo cells after siRNAs silencing
+GNPAT, SUMO1, SPINT2, FLI1, and SSX1
+. (
+c
+) The western analyses of caspase-3, caspase-9, PARP, and their cleavage isoforms for the protein lysate samples, which were prepared from A375, WM793, MeWo, and SK-Mel-2 cells treated with siRNAs targeted
+GNPAT, SUMO1, SPINT2, FLI1, and SSX1.
+si-NSC served as negative controls. β-Actin served as the loading control. Blots shown are representatives from three experiments.
+The activation of caspases is an important event in apoptosis. To determine whether the apoptosis induced by siRNAs targeting
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+genes is related to the caspase-dependent apoptotic pathways, we further analyzed the effects of these siRNAs on the activation of three key apoptosis-related molecules (caspase-3, caspase-9 and PARP) in four melanoma cell lines, WM793, A375, MeWo and SK-Mel-2, by western blot (
+Fig. 5c
+). Cleavage of caspase-3, caspase-9 and PARP was detected in the cells treated with 100 nM siRNAs targeting
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+genes by comparison with the negative control treated with si-NSC, as indicated by the increased intensity of the cleaved isoform bands in the western blots (
+Fig. 5c
+). These results demonstrate that the increased apoptosis induced by the siRNA silencing of any of these five genes is mediated by the activation of the caspase-dependent apoptotic pathway in some melanoma cells.
+Endogenous GNPAT, SUMO1, SPINT2, FLI1 and SSX1 affect important downstream kinase signaling pathways
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+were identified as modulators to enhance the efficacy of CDDO-Me in human melanoma cells. Although these five genes are belonged to several signaling pathways that are not directly related, it is assumed that they could affect the similar signaling molecules, which are likely to be the key mediators of CDDO-Me sensitivity in melanoma cells. Therefore, we attempted to identify the major kinases regulated by endogenous
+GNPAT, SUMO1, SPINT2, FLI1
+or
+SSX1
+in melanoma cells. The mitogen-activated protein kinases (MAPKs) and the Akt signaling pathways are of particular interest in our studies. First, we used specific siRNAs to downregulate
+GNPAT, SUMO1, SPINT2, FLI1
+, or
+SSX1
+genes expression in four melanoma cell lines, A375, MeWo, SK-Mel-2, and WM793, each containing different somatic mutations representing the spectrum of melanoma. Next, the levels of phosphorylation of several key molecules involving in the MAPK and Akt signaling pathways were analyzed by western blot. Treatment of 100 nM siRNAs targeting each of
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+genes markedly decreased the levels of phosphorylated Erk1/2 (
+Fig. 6a
+), whereas the protein levels of total Erk1/2 and p38 were not changed in all four tested melanoma cell lines (
+Fig. 6a
+). Moreover, the treatment of these five siRNAs dramatically reduced the phosphorylation of Akt and its downstream effectors, GSK-3 and PRAS40, whereas the levels of total Akt remained unchanged (
+Figure 6b
+). Interestingly, in all four tested melanoma cells, the siRNAs targeting
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+did not affect the levels of phosphorylated PI3K (
+Fig. 6b
+), suggesting that these five genes were downstream of PI3K. Our data identified Erk1/2 and Akt as the common key kinases regulated by
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+. This indicates that the enhancement of activity of CDDO-Me by siRNAs targeting
+GNPAT, SUMO1, SPINT2, FLI1
+and
+SSX1
+genes may be mediated by inactivating the MAPK- and Akt-dependent cell survival signaling pathways in melanoma cells.
+Open in a separate window
+Open in a separate window
+Figure 6
+The effect of knockdown of
+GNPAT, SUMO1, SPINT2, FLI1, and SSX1
+genes on MAPK and Akt signaling pathways
+The human melanoma cell lines were transfected with a siRNA targeting
+GNPAT, SUMO1, SPINT2, FLI1, and SSX1
+genes or a non-targeting negative siRNA control (si-NSC). After the 72-hour treatment, the protein levels of Erk1/2 (
+a
+), p38 (
+a
+), Akt (
+b
+), PRAS40 (
+b
+), GSK-3 proteins (
+b
+), and their active phosphorylated forms were analyzed by western blot using specific antibodies to these proteins. β-Actin was used as loading controls. Blots shown are representatives from three experiments. (
+c
+) The effects of CDDO-Me on the levels of Erk1/2, Akt, p38, phosphorylated Erk, phosphorylated Akt, phosphorylated PRAS40, phosphorylated GSK-3α, and phosphorylated PI3K.
+We further examined the effects of CDDO-Me on MAPK and Akt signaling pathways in A375, MeWo, SK-Mel-2, and WM793 cells. As shown in
+Figure 6c
+, 50 nM or 200 nM of CDDO-Me did not show any significant effects on the levels of phosphorylated Erk, Akt, PRAS40, GSK-3α, and PI3K, in all four melanoma cell lines. Therefore, in previous experiments of synthetic lethal effects of siRNAs and CDDO-Me, 50 nM CDDO-Me did not cause a substantial downregulation of MAPK and Akt signaling pathways, whereas these two pathways was significantly affected by siRNAs against
+GNPAT, SUMO1, SPINT2, FLI1
+or
+SSX1
+. It indicated that the downregulation of MAPK and Akt signlaing may synergy with suppression of inflammation by CDDO-Me resulting in growth inhibition of melanoma cells.DISCUSSION
+CDDO-Me is a potent antioxidant and anti-inflammatory agent which has been shown to inhibit the growth of various tumors as a single therapeutic or in combination with other chemotherapeutics in preclinical and Phase I clinical studies (
+16
+,
+17
+,
+28
+). CDDO-Me strongly inhibits iNOS and COX-2 signaling through a unique mechanism that directly suppresses the activation of key transcription factors, such as NF-κB and STAT3 (
+29
+-
+30
+). The inhibition of IκBα kinase by CDDO-Me leads to inactivation of NF-κB, and further results in the suppression of NF-κB–regulated gene products and enhancement of apoptosis induced by TNF and other chemotherapeutic agents (
+29
+-
+31
+). Moreover, CDDO-Me also suppresses Akt, mTOR, and MAPK kinase pathways and promotes p38 activation in human cancer cells (
+32
+). Its role in cancer prevention is widely studied and the most recent publication showed this effect on PyMT mouse model delaying carcinogenesis in extremely aggressive model of ER- breast cancer (
+33
+). This particular study suggests novel multifunctional drug characteristics of CDDO-ME that target diverse signaling pathways in both tumor and stromal cells. As demonstrated by several clinical studies, CDDO-Me possesses outstanding clinical tolerability and potent activity in many models of inflammatory disease (
+15
+-
+17
+,
+28
+). This drug is also under development as an oral, once-daily therapeutic agent for common inflammatory and autoimmune conditions, including chronic kidney disease as well as rheumatoid arthritis. Recently, a phase I clinical trial for CDDO-Me in advanced solid tumors and lymphomas was completed at MD Anderson Cancer Center. The results of this study showed that a complete tumor response occurred in a mantle cell lymphoma patient, and a partial response was observed in an anaplastic thyroid carcinoma patient (
+28
+). Interestingly, five metastatic melanoma patients experienced disease stabilization for 4 to 10 months in this study. A biological anti-tumor effect of CDDO-Me in melanoma was noted. Therefore, the identification of secondary target to enhance CDDO-Me activity will lead to developing combination therapy with a greater therapeutic efficacy in melanoma.
+Metastatic melanoma is considered highly radiation- and chemotherapy resistant. and is strongly associated with inflammation, as melanoma cells are known to secrete high levels of proinflammatory cytokines and produce reactive oxygen species and reactive nitrogen species (
+4
+-
+6
+). Accumulated data support the hypothesis that attenuation of inflammation would relieve an apoptosis blockage, thereby permitting growth inhibition that previously was not feasible due to the oxidative and nitrosative stress pathways (
+7
+,
+8
+,
+34
+,
+35
+). Due to its strong inhibition of inflammation, CDDO-Me represents a novel therapeutic for melanoma. In our study, we systemically evaluated the efficacy of CDDO-Me alone as a melanoma growth inhibitor in various human melanoma cell lines. In order to further enhance the efficacy of CDDO-Me in melanoma cells, we utilized a synthetic lethal screen based on a high-throughput large-scale siRNA library to identify functionally relevant genes that could potentiate the response of human melanoma cells to CDDO-Me.
+Although the utility of genome-scale siRNA library screens has been well established in several human cancers models, relatively few genome-scale screens have been performed using human melanoma cells. In this study, we queried a druggable siRNA library of ~24,320 synthetic siRNAs targeting 6,080 genes to identify genes involved in cell survival and chemosensitivity of A375 cells in the presence of a subeffective concentration of CDDO-Me. We selected this melanoma cell line to perform our HT siRNA screen due to the fact that our previous studies have well established it as an
+in vitro
+melanoma model to study the regulation of inflammatory signaling (
+7
+,
+8
+,
+36
+).
+To our knowledge, this is the first report in which siRNA library screening has been used to identify melanoma therapeutic targets and chemosensitivity enhancers. Our data demonstrate the feasibility of the high-throughput siRNA screen strategy for discovering genes and signaling pathways that are linked to melanoma tumorigenesis and chemoresistance mechanisms.
+The results of our high-throughput synthetic lethal siRNA screen led to the identification of 35 genes as modulators for CDDO-Me sensitivity. From these 35 genes, we selected
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+for further analysis due to their ability to significantly enhance the activity of CDDO-Me in melanoma cells and their novelty as drug targets. Our IPA studies reveal that
+GNPAT, SUMO1, SPINT2
+, and
+FLI1
+have integral links to the signaling pathways that have been well documented as crucial to cell growth, cell proliferation, and tumorigenesis. The target validation further confirmed that the silencing of each of these five genes could substantially increase the sensitivity of multiple melanoma cells to CDDO-Me. Our findings therefore suggest that endogenous synthesis of these five proteins is essential for tumor cell growth and drug resistance, although further
+in vivo
+validation studies are needed. In these five genes, GNPAT and SPINT2 demonstrated a relatively high degree of consistency of the inhibitory effect on cell growth and the ability to enhance the efficacy of CDDO-Me among various melanoma cell lines (
+Figure 4a
+and
+​
+and5b).
+5b
+). These two validated genes might present valuable anticancer targets for human melanoma.
+Development of
+GNPAT, SUMO1, SPINT2, FLI1
+, or
+SSX1
+as potential melanoma therapeutic targets was also encouraged by evidence citing overexpression of these five genes in a variety of human cancer cell lines. GNPAT (glyceronephosphate O-acyltransferase) is a peroxisomal membrane enzyme essential for ether phospholipid synthesis, which is critical for cell growth and cell membrane biogenesis (
+37
+). The expression of GNPAT has been observed in ovarian cancer cell lines (
+38
+). SUMO1 is an enzyme that functions in a manner similar to ubiquitin, which binds target proteins as part of a post-translational modification system. The sumoylation process is important in the growth, death, viability, dynamics, and structure of cells. SUMO1 is highly expressed in various cancer cell types, including cervical, prostate, breast, and lung (
+39
+). SPINT2 has been implicated involving in the development of serous ovarian carcinoma, endometrioid carcinoma, and ovarian cancer, and the expression of SPINT2 has been reported in clear-cell adenocarcinoma, colon cancer, endometrioid carcinoma, lung cancer, and serous papillary carcinoma (
+40
+). FLI1 plays a critical role in regulating cell growth, apoptosis, colony formation, differentiation, transformation, morphology, proliferation, and outgrowth, which are related to many human diseases, including rheumatoid arthritis, bleeding, bone cancer, Ewing's sarcoma, and other cancers, and it is expressed in macrophage cancer and myeloma cell lines (
+41
+). SSX1 belongs to the family of highly homologous synovial sarcoma X breakpoint proteins, which may function as transcriptional repressors. The proteins of this family are capable of eliciting humoral and cellular immune responses in cancer patients that present potentially useful targets in cancer vaccine–based immunotherapy. SSX1 is involved in cell growth, cell migration, and tumorigenesis, and it is expressed in melanoma and sarcoma cell lines (
+42
+).
+In this study, we first time identified important kinase signaling affected by the knockdown of
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+genes in melanoma cells. We found that treatment of siRNAs targeting these five genes led to an inactivation of the MAPK and Akt signaling pathways, which were crucial mediators of proliferation and survival in cancer cells. Our current study shows that siRNA targeting
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+genes each markedly inhibited phosphorylation of the Erk1/2 and Akt proteins. The correlation of GNPAT, SUMO1, SPINT2, FLI1, and SSX1 with MAPK and Akt signaling pathways is still unclear. Since MAPK and Akt signaling pathways are not the primary targets for siRNAs against
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+, they most likely are affected by these siRNAs through intermediate pathways. Based on the IPA analysis (
+Figure 2c
+), several key factors, including EGFR, MYC, and IL-15 were identified to interact with our five gene pathways, which may be the linkers between these five genes and MAPK and Akt signaling pathways. Further studies will be required to resolve the specifics of these connections. Interestingly, the treatments of siRNAs (20 nM) targeting these five genes did not affect the expression of NF-κB p50 and p65 proteins (
+Supplementary data, Figure S2
+).
+To date, efforts to employ kinase inhibitors as therapeutics for melanoma has resulted in the mutated B-RAF inhibitor, Vemurafenib (PLX4032), to have dramatic short term biological response in patients. Most other kinase inhibitors, including those to MAPK and Akt signaling pathways, failed in
+in vitro
+and
+in vivo
+studies as single agents against melanoma.Interestingly, the low dose of 50 nM CDDO-Me did not show any significant effect on downregulating MAPK and Akt signaling in tested melanoma cells. Thus, the inactivation of Erk1/2 and Akt, which was mainly induced by siRNAs targeting
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+genes, may be a major contributor for enhancing the efficacy of CDDO-Me in human melanoma cells. We speculated that the downregulation of Erk and Akt only may not be sufficient to inhibit melanoma cells growth. However, combined with anti-inflammation CDDO-Me, the downregulation of
+GNPAT, SUMO1, SPINT2, FLI1
+, or
+SSX1
+, will lead to notable synthetic lethal effect and significant downregulation of melanoma growth. Our studies provide a framework for pursuing unique combinations for therapeutic potential in the future.
+In conclusion, the candidate genes
+GNPAT, SUMO1, SPINT2, FLI1
+, and
+SSX1
+identified by our siRNA screens are promising targets for the development of treatments, especially in the presence of anti-inflammatory agents such as CDDO-Me. Our findings provide new insights into the development of novel melanoma treatments by targeting inflammation in combination with approaches of inhibiting potential druggable gene products.​
+Significance
+CDDO-Me as a single agent has been shown to exert anti-inflammatory and antitumor activity in early clinical trials. Our study identifies five unique sensitizing targets (GNPAT, SUMO1, SPINT2, FLI1, and SSX1) for CDDO-Me in metastatic melanoma by a large-scale synthetic lethal RNAi screening, resulting in identifying useful signaling pathways to enhance apoptosis in melanoma. Our study provides novel translational insights for the control of inflammation-associated cancers.Supplementary Material
+Supp Fig S1-S2 & Table S1
+Click here to view.
+(1.0M, ppt)
+Supp Material
+Click here to view.
+(28K, doc)Acknowledgment
+Yong Qin, Wuguo Deng, and Suhendan Ekmekcioglu contributed equally to the work described in this manuscript. This work was partially supported by grants from the Dr. Miriam and Sheldon G. Adelson Medical Research Foundation and the National Institutes of Health, Melanoma Specialized Program of Research Excellence (NIH P50 CA093459) and Institutional Core Grant NIH CA16672 (Characterized Cell Line Core). We thank Dr. Bradley M. Broom and Ms. Jiexin Zhang in the Department of Bioinformatics and Computational Biology and Dr. Geoffrey A. Bartholomeusz in the Department of Experimental Therapeutics at M. D. Anderson Cancer Center for generously providing statistical analysis and siRNA Screening Service, respectively. We also thank Ms. Sandra A. Kinney for her excellent technical assistance for our experiments. We are grateful to Leslie A. Loddeke in the Department of Melanoma Medical Oncology at M. D. Anderson Cancer Center for proof reading and editing the manuscript.Abbreviations used
+siRNA
+small interfering RNA
+CDDO-Me
+2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oic acid methyl ester
+NF-κB
+nuclear factor κB
+iNOS
+inducible nitric oxide synthase
+COX-2
+inducible cyclooxygenase-2
+NHEM
+normal human epidermal melanocytes
+NHEK
+normal human epidermal keratinocyte
+IPA
+Ingenuity Pathway Analysis
+PBS
+phosphate-buffered saline
+FACS
+fluorescence-activated cell sorting
+PARP
+poly(ADP-ribose)polymerase
+GNPAT
+glyceronephosphate O-acyltransferase
+SUMO1
+SMT3 suppressor of mif two 3 homolog 1
+SPINT2
+serine peptidase inhibitor, Kunitz type, 2
+FLI1
+Friend leukemia virus integration 1
+SSX1
+synovial sarcoma, X breakpoint 1

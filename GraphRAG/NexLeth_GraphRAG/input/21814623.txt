@@ -1,0 +1,627 @@
+Abstract
+The retinoblastoma protein, pRb, is a key regulator of cell proliferation, differentiation, apoptosis, as well as checkpoint and stress responses. The function of Rb is often inactivated in many types of cancers, a feature that can potentially be used to target this specific subset of cancers. However little is known about how the loss of Rb function can be exploited in cancer therapies. In this review, we overview the functions of Rb, and discuss a genetic screen that led to the finding that inactivation of TSC2 and Rb induces synergistic cell death in both Drosophila developing tissues and human cancer cells. The mechanisms for synergistic cell death involve the accumulation of cellular stress, suggesting that inactivation of TSC2 and chemotherapeutic agents that result in induction of cellular stress can potentially be combined to treat cancers harboring inactivated Rb.
+Keywords:
+Rb, E2F, TSC2, mTOR, synthetic lethality, cellular stress, ROSIntroduction
+Isolation of the
+Rb
+gene [
+1
+,
+2
+], encoding the first known tumor suppressor, was based on the observation that a subset of retinoblastomas exhibit deletions in the q14 region of chromosome 13 [
+3
+]. Some osteosarcomas, including those in patients without retinoblastoma, were also found to have alterations at this locus, which implicated
+Rb
+in the pathogenesis of cancer in general [
+4
+].
+Rb
+was subsequently found to be lost at high frequency in small cell lung cancers (SCLCs) and, to a lesser degree, in bladder cancers but was actually present in the majority of cell lines derived from colon and breast carcinomas as well as melanomas [
+5
+]. Although these initial results showed that actual
+Rb
+deletion may not be involved in all cancers, the pRb gene product was nevertheless recognized as a critical regulator of cell proliferation and transformation. In the following decades of research, pRb inactivation has become established as a critical event for tumorigenesis [
+6
+].
+Mammalian Rb and E2F family proteins
+pRb, p107, and p130 are now known to comprise a family of “pocket proteins” that share structural features (
+Figure 1
+). The C-terminal domains of these proteins consist of conserved, bipartite hydrophobic pockets that are responsible for interaction with most endogenous binding partners and viral oncoproteins [
+7
+]. A spacer within the pockets is not as well conserved, and these regions contain binding sites for cyclin/ cdk complexes in p107 and p130 but not pRb [
+8
+,
+9
+]. The activity of pocket proteins is regulated by phosphorylation, and pRb contains numerous sites that are targeted by Cyclin D/ Cdk4, Cyclin E/Cdk2, and Cyclin A/Cdk2 during the G1and S phases of the cell cycle [
+10
+-
+13
+]. In general, phoshorylation of pRb correlates with cell cycle progression and is reversed by phos-phatases during mitosis [
+14
+]. pRb is a stable protein that is present in both proliferating and non-proliferating cells but expression of the other pocket proteins is dynamic: p130 is most abundant in quiescent, differentiated cells and in early G1 [
+15
+] and p107 expression increases in mid to late G1 [
+15
+].
+Open in a separate window
+Figure 1
+Pocket protein structure.
+A
+. The general structure of mammalian Rb family proteins is conserved. The C-terminal pocket domains are divided by variable spacer regions. The spacers of p107 and p130 but not pRb harbor Cdk-binding sites. Asterisks denote known kinase target sites.
+B
+. Drosophila pocket proteins reflect the structure of mammalian counterparts.
+pRb has established functions as a tumor suppressor and cell cycle regulator, but also has important roles in differentiation and apoptosis. These functions are mediated by its interaction with different proteins, more than 100 of which have been identified [
+16
+], but the best-studied of these is the E2F family of transcription factors. There at least eight distinct E2F isoforms in mammals (
+Figure 2
+). E2F function generally requires dimerization with DP family proteins and DNA binding [
+17
+-
+19
+], although two atypical E2F family members, E2f7 and E2f8, function as transcriptional repressors independent of DP binding. Interestingly, a critical target of these atypical E2Fs is
+E2f1
+during the S and G2 phases of the cell cycle [
+20
+].
+Open in a separate window
+Figure 2
+E2F and DP family structures.
+A
+. All E2F family members have a DNA binding domain (DBD). Activator-type E2Fs (E2F1-3) possess Cdk-binding sites near their N-termini, and both activator- and repressor-type E2Fs harbor C-terminal Rb family binding domains. Atypical E2Fs (E2F6-8) do not bind Rb family proteins, and all E2Fs except E2F7-8 have a dimerization domain (Dim) that mediates interaction with the DP family.
+B
+. DP family proteins all have domains for both DNA binding and E2F dimerization. C. Drosophila E2Fs consist of one activator, dE2F1, and one repressor, dE2F2. Both proteins bind DNA, heterodimerize with the lone dDP, and interact with RBF but only dE2F2 binds RBF2.
+Binding of pRb to E2Fs inhibits the expression of target genes, notably those involved in cell cycle (e.g.
+Cyclin E1
+and
+Cyclin A1
+) and DNA replication [
+21
+]. pRb is the main pocket protein that binds activator-type E2Fs (i.e. E2f1, E2f2, and E2f3), but pRb, p107, and p130 all interact with repressor-type E2Fs (E2f4 and E2f5) [
+22
+]. E2f6 and E2f7-8 are atypical E2Fs that do not interact with pocket proteins. The interactions of repressor-type E2Fs with pocket proteins are thought to be important for cell cycle inhibition during early G1, and activator-type E2Fs are observed to displace the repressors as cells approach the G1/S checkpoint [
+23
+].
+Drosophila Rb and E2F
+The Rb and E2F families are evolutionarily conserved. For example the fruitfly
+Drosophila melanogaster
+has two Rb isoforms,
+Rbf
+and
+Rbf2
+, and two E2Fs,
+dE2f1
+and
+dE2f2
+[
+24
+-
+28
+]. dE2f1 has been shown to functions primarily as a transcriptional activator [
+29
+,
+30
+], while dE2f2 is thought to act as a repressor [
+30
+]. Additionally, Rbf can bind to either dE2f1 or dE2f2 [
+30
+] while Rbf2 has only been found to interact with dE2f2 [
+26
+]. Thus flies present a simpler yet well-conserved model system in which Rb/E2f biology can be studied using a genetic approach (see below). Additionally, there is functional conservation between fly and mammalian pocket proteins, E2Fs and cell cycle regulators: Rbf activity during G1 represses
+Drosophila
+E2F target genes important for DNA replication and cell cycle progression [
+31
+].
+pRb at the center of cell cycle regulation
+Early experiments using retroviral-mediated infection of tumor cells with exogenous
+Rb
+showed reductions of cell proliferation, growth in soft agar, and tumorigenic potential in mice [
+32
+]. Meanwhile pRb was found to associate with the large T antigen (TAg) of SV40 [
+33
+] and other polyoma viruses [
+34
+], the E7 protein of HPV [
+35
+], and the adenoviral E1A protein [
+36
+], showing that inhibition of pRb activity is the likely mechanism of transformation by these DNA tumor viruses. Numerous other studies showed that TAg competes with E2F and other endogenous proteins to bind pRb [
+37
+-
+39
+] and that pRb phosphorylation during late G1 [
+40
+] permits entrance into S-phase [
+41
+]. These studies established a foundation for much of our current understanding of pRb function and the other pocket proteins, both of which were identified on the basis of the conserved ability to bind the SV40 TAg and adenoviral E1A proteins [
+42
+,
+43
+].
+pRb function cooperates with cyclin-dependent kinase inhibitors (CKIs). p16
+Ink4a
+is one of two critical tumor suppressors encoded by the
+Cdkn2a
+gene, the other being p14
+Arf
+. p16 was originally identified based on its ability to physically interact with and inhibit Cdk4, thus promoting the activity of pRb [
+44
+], and the inhibitory function of p16 on the cell cycle was subsequently demonstrated to require
+Rb
+[
+45
+]. The p53-inducible gene
+Cdkn1a
+encodes another CKI, p21
+Cip1/Waf1
+, which binds to and inhibits the kinase activity of Cdk2. p21 thus also protects pRb from hyperphosphorylation by G1 cyclins [
+46
+,
+47
+]. Additionally the
+Cdkn1b
+gene product p27
+Kip1
+, which is functionally and structurally related to p21, was shown to inhibit both Cdk4 and Cdk2 thereby promoting pRb activity [
+48
+,
+49
+]. Importantly, the Rb protein family is essential for cell cycle arrest in response to a variety of signals including CKI activity [
+50
+].
+Transcriptional repression by pRb
+More recently pRb has been found to regulate transcriptional repression and cell cycle progression, at least in part, by affecting DNA methylation [
+51
+] and histone modification [
+52
+]. Recruitment of LXCXE motif-containing histone deacetylases (HDACs) by pRb to SWI/SNF complexes repress E2f1-mediated
+Cyclin E
+expression during G1, whereas HDACs are not important for the ability of these complexes to repress
+Cyclin A
+during S-phase [
+53
+]. Additional studies showed that histone acetylation is important for E2F target gene expression [
+23
+], and histone acetyltransferases (HATs) are recruited to target genes by activator E2F complexes at the G1/S transition [
+54
+]. These experiments suggest a model for pRb function that involves dynamic chromatin-assisted repression of specific E2F target genes.
+Role of pRb in maintaining genome stability
+The ability of pRb to repress the expression of E2F target genes has implications for the cell cycle beyond DNA replication during S-phase (
+Figure 3
+). Various microarray analyses have identified E2F target genes that are known to be involved in DNA damage response, the spindle checkpoint, and mitosis [
+55
+,
+56
+] suggesting that one of the key functions of pRb is to maintain genome fidelity prior to cell division. Indeed
+Rb
+inactivation in mouse or human fibroblasts resulted in E2f1-induced expression of Mad2, a checkpoint regulator that senses improper microtubule attachment to kinetochores during mitosis. This accumulation of Mad2 leads to mitotic defects, ultimately resulting in abnormal ploidy [
+57
+]. More recent experiments in
+Drosophila melanogaster
+showed improper chromatin condensation in the absence of the
+Rb
+gene ortholog
+Rbf
+, owing to reduced recruitment of the Condensin II complex component dCAP-D3 [
+58
+]. This group subsequently linked abnormal Condensin II function to chromosomal instability in human retinal cells [
+59
+]. Additionally, Condensin II dysfunction was independently implicated in experiments using cells derived from mice that were engineered to express an
+Rb
+knock-in allele that lacks its LXCXE-interacting motif. Importantly these
+Rb
+alleles were observed to enhance tumorigenesis in
+Trp53-/-
+mice, and lymphoma cells from these animals are aneuploid [
+60
+]. Another related study showed that
+Rb-/-, p107-/-, p130-/-
+triple-knockout MEFs accumulate double-strand breaks and undergo G2 arrest upon mitogen deprivation. Addition of mitogens allows the G2-arrested triple knockout cells to resume proliferation without fully repaired DNA, leading to aneuploidy [
+61
+]. These reports show that pRb is a critical regulator of different phase of the cell cycle, and its functions outside of the G1/S transition are also important for tumor suppression.
+Open in a separate window
+Figure 3
+E2F functions. The Rb and E2F families work together to ensure genome fidelity during multiple phases of the cell cycle. While some E2F target genes are directly involved in DNA replication, others are important for the orderly progression through mitosis. In the absence of pRb function E2F hyperactivity can induce cell death directly by affecting apoptotic target gene expression, or indirectly by promoting the response to DNA damage and inhibiting responses to oxidative and ER stress. Several checkpoint and stress response targets of E2F discussed in this review are indicated in parentheses.
+Rb
+and cell death
+Rb
+also has critical roles in a variety of cellular processes outside of the cell cycle. pRb has long been known to repress E2F-mediated cell death, as suggested by experiments using
+E2f1
+knockout mice which were shown to develop tumors in a variety of tissues within 1-2 years [
+62
+]. A litany of subsequent experiments have demonstrated the ability of E2f1 to induce apoptosis by both p53-dependent and -independent mechanisms in different model systems [
+63
+]. Importantly p53 stabilization is induced by E2f1-mediated expression of p14
+Arf
+, which functions to inhibit the polyubiquitination and degradation of p53 by Mdm2 [
+64
+]. p53 accumulation induces the transcription of an array of pro-apoptotic genes [
+65
+]. Additionally, E2f1 has been shown to have roles in DNA damage response by promoting p53 phosphorylation and activation independent of p14
+Arf
+[
+66
+]. E2f1 can directly affect expression of the transcription factor p73 [
+67
+-
+69
+], which itself controls apoptotic gene targets shared by but not requiring its paralog p53 [
+70
+]. E2f1 has also been shown to directly induce the transcription of pro-apoptotic genes independent of the p53 family such as
+Apaf-1
+[
+71
+], thereby promoting apical caspase activity via apoptosome assembly, and several effector caspases including Caspase 3 and Caspase 7 [
+72
+]. Finally, E2f1 affects target genes that antagonize mitochondrial membrane integrity such as
+Bad, Bid
+and
+Bak
+[
+73
+]. Thus E2F1 has multiple roles not only in proliferation and transformation, but also apoptosis in mammalian cells.
+Interesting and unexpected functions have been attributed to pRb by recent studies, including the activation of transcription during apoptosis [
+74
+] as well as differentiation [
+75
+]. The ability of pRb to promote either arrest or apoptosis seems to be context dependent, with apoptosis being favored in proliferating cells. In proliferating cells treated with the DNA-damaging agent doxorubicin, hyperphosphorylated pRb was found to be in a complex with E2f1 and the histone acetyltransferase P/CAF bound to the transcriptionally-active Caspase 7 and
+p73
+promoters. Intact
+Rb
+was shown to be important for this DNA damage-induced apoptotic phenotype both
+in vitro
+and
+in vivo
+[
+74
+]. While the ability of pRb to promote transcription of apoptotic target genes is a novel finding, conserved pRb and E2F functions during cell death are known to depend on developmental cues. Studies in
+Drosophila
+show that the activator E2F, dE2f1, can either promote or antagonize apoptosis through the
+Smac/Diablo
+ortholog
+Hid
+depending on both tissue type and the position of cells within tissues during fly development [
+76
+-
+79
+]. Though experiments in mammalian cells indicate that
+Smac/Diablo
+expression is generally induced by activator E2Fs [
+80
+,
+81
+],
+E2f1-/-, E2f2-/-, E2f3-/-
+triple-knockout
+(E2f1-3
+TKO) retinas still exhibit apoptosis during development due to decreased expression of the p53 deacetylase
+Sirt1
+[
+81
+]. Thus the activator E2Fs may also have an important cell survival role in retinal progenitor cells. Another study found similar results using independently-derived, conditional
+E2f1-3
+TKO mice. These experiments showed that progenitor cells, but not differentiated cells, in the intestine can proliferate in the absence of activator E2Fs but accumulate DNA damage and undergo apoptosis, although in this case the phenotype was observed to be p53-independent [
+82
+]. These experiments indicate that activator E2Fs are not required for the proliferation of some undifferentiated cell types, but rather are important for survival. Thus cellular context is a critical determinant of whether activator E2Fs have pro- or anti-apoptotic functions, a distinction that has important consequences for the role of
+Rb
+deficiency in tumorigenesis.Rb inactivation in cancers
+In addition to their well-documented roles in retinoblastoma, inherited
+Rb
+mutations are thought to cause a number of different tumors. Osteosarcoma, for example, is commonly observed in retinoblastoma survivors [
+83
+]. Susceptibility to small cell lung carcinoma (SCLC) has also been attributed to germline
+Rb
+mutation and retinoblastoma survivors are also at increased risk for this and several other cancers [
+84
+]. The frequency of
+Rb
+loss in SCLC is extremely high (>80%), but is much less common in non-small cell lung cancer (NSCLC) [
+85
+]. Other cancers display somatic loss of
+Rb
+less frequently than SCLC but still in significant proportions, including bladder, espophageal, liver, brain, breast, and prostate cancers, as well as chronic myelogenous leukemia (CML) but less so in other leukemias.
+Rb
+loss is perhaps involved in disease progression in some cancers rather than initiation, which has been suggested for retinoblastoma and SCLC [
+86
+], as the majority of these diseases are not associated with inheritance but rather have lost
+Rb
+sporadically and at lower frequency. Indeed a recent study found that
+Rb
+deletion is associated with more advanced forms of prostate cancer (CaP) due to E2f1-dependent expression of
+Androgen receptor (AR)
+[
+87
+].
+Importantly the deletion of
+Rb
+is not necessary for tumorigenesis in many cancers, as pRb function is affected by other genetic alterations. Studies have shown activator E2Fs to be overexpressed or amplified in some tumor cells, such as
+E2f3
+in CaP [
+88
+] and bladder cancer [
+89
+], which likely overwhelms the regulatory activity of pRb. Additionally, functional inactivation of pRb due to loss of cooperating tumor suppressors such as
+p16
+Ink4a
+is also common. The molecular alterations in SCLC vs. NSCLC illustrate the cooperation between these genes, as the great majority of NSCLC tumors display either
+p16
+loss or overexpression of
+Cyclin D
+[
+85
+]. Further, the inverse correlation of
+p16
+and
+Rb
+loss is observed in a wide range of other tumors and suggests that inactivation of the pRb pathway is nearly universal in cancer [
+90
+]. However this functional inactivation is unlikely to simply phenocopy the effect of
+Rb
+loss. For example, cooperating mutations in
+Trp53
+are more frequent in SCLC than in NSCLC [
+91
+]. It is possible that cell types differ in the relative expression of pRb and p16, and these differences could affect how loss of function mutations in either tumor suppressor impact tumorigenesis. Consistent with this, it was shown that loss of
+Rb
+but not
+p16
+results in the accumulation of DNA double strand breaks induced by deregulated E2f1 [
+92
+]. In addition, hyperphosphorylated Rb may have a function regulating apoptosis depending on the cellular context [
+74
+]. Nevertheless as loss of p53 activity is also generally required for tumorigenesis, functional pRb inactivation must also cooperate with other alterations that affect p53 such as concomitant loss of p14
+Arf
+due to deficiency at the
+Ink4a
+locus.
+The cooperation of
+Rb
+and
+p53
+in tumor suppression is observed in mouse models of cancer. Although Rb-/-mice die during embryogenesis [
+93
+-
+95
+],
+Rb
++/-
+animals develop neuroendocrine tumors displaying loss-of-heterozygosity with high penetrance and have shortened life-spans [
+96
+], which prevents the assessment of
+Rb
+involvement in other cancers. However
+Rb
++/-
+, Trp53
++/-
+mice exhibit a slightly broader tumor spectrum and further shortened lifespans. Although Rb
++/-
+mice do not develop retinoblastoma, the incidence of retinal dysplasia in
+Rb
++/-
+, Trp53
++/-
+mice was observed to be dramatically increased [
+97
+]. Interestingly subsequent studies showed that
+Rb
+mutation cooperates with loss of either
+p107
+or
+p130
+in the development of retinoblastoma in mice [
+98
+]. A multitude of later studies have shown that conditional deletion of
+Rb
+in a range of tissues leads to apoptotic as well as hyperplastic phenotypes, but that concomitant
+Trp53
+deletion often results in actual tumor growth [
+99
+].
+Rb
+-/-
+, E2f1
+-/-
+double-knockout mice exhibit significant suppression of apoptosis in multiple tissues and survive somewhat longer than
+Rb
+-/-
+alone [
+100
+]. Additionally
+E2f1
+-/-
+extends life-span and reduces tumor incidence in Rb+/-mice and these animals exhibit a phenotype similar to E2f1
+-/-
+on its own [
+101
+]. These studies demonstrated that E2f1 is important for tumorigenesis downstream of
+Rb
+loss, most likely due to expression of target genes involved in cell proliferation because
+E2f1
+-/-
+mice also exhibit defective apoptosis in different tissues and develop tumors themselves [
+62
+]. Therefore inhibition of E2f1-induced cell death is a critical function of pRb during mouse development, and loss of this function is correlated with tumorigenesis when cooperating mutations such as
+Trp53
+abrogate cell death. While many apoptotic E2f1 target genes have been established, an understanding of how intersecting signaling pathways affect E2F-mediated apoptosis could provide novel therapeutic targets for cancers in which pRb is inactivated.Strategies for targeting Rb-deficient cancers
+Rb
+status as a marker of drug sensitivity
+Given the range of mechanisms by which the pRb pathway is deregulated in different cancers, e.g.
+Rb
+locus alteration/deletion,
+p16
+loss or
+Cyclin D
+amplification, and activator E2F overexpression, it is likely that exploiting the dependence of tumors on different modes of pRb inactivation will require a multitude of therapeutic options. One such strategy is to use
+Rb
+status as a prognostic indicator or predictor of therapy outcomes. In addition to the aforementioned association of advanced CaP with loss of
+Rb
+[
+87
+], reduced pRb expression was correlated with more aggressive forms of breast carcinoma, including p53- and ER-negative tumors [
+102
+]. Experiments using p16-negative breast cancer cells showed that knockdown of
+Rb
+, while promoting the proliferation of cells in culture and xenografted tumors, confers sensitivity to DNA-damage induced by cisplatin or ionizing radiation (IR). However
+Rb
+knockdown was seen to desensitize cells to Tamoxifen, and a gene expression signature used to indicate disrupted pRb function in a cohort of ER-positive tumor samples correlated with recurrence after Tamoxifen treatment [
+103
+]. Later studies also found that loss of pRb expression correlated with patient response to adjuvant antimetabolite treatment with 5-fluorouracil (5-FU) and methotrexate, and knockdown of
+Rb
+breast cancer cells enhanced their sensitivity to these same drugs [
+104
+]. Therefore deciphering
+Rb
+status or pRb pathway disruption is potentially useful in predicting responses of breast cancer patients to different forms of therapy. However given that actual loss of
+Rb
+expression is not frequently observed in these tumors more sophisticated methods for detecting reduced pRb activity are likely to be required, some of which have already been approved for use in the clinical setting as diagnostic tools [
+105
+].
+Targeting
+Rb
+loss in cancers by synthetic lethality
+A concept that could be useful in developing novel therapies for Rb-deficient cancers is synthetic lethality, which generally occurs when tumor cells with particular genetic alterations become reliant on the functions of distinct, cooperating genes that confer protection against cell death. Identification of such genes could provide targets whose selective inactivation would induce death specifically in cells that harbor the relevant alteration but not in normal cells. This kind of intervention would theoretically have less severe side effects than cytotoxic agents that are currently employed [
+106
+]. However, identifying relevant targets is a major challenge in developing this therapeutic strategy.
+Identification of Rb synthetic lethal mutations through genetic screens
+A method for identifying potential genes whose inactivation is synthetically lethal in combination with
+Rb
+deficiency is to use genetic screens in animal models. We have taken advantage of the
+Drosophila melanogaster
+system in our lab, which combines a well-conserved
+Rb/E2F
+signaling pathway with established genetic tools that allow for relatively efficient and unbiased screening of large numbers of genes
+in vivo
+. One such “forward” genetic screening approach [
+107
+] utilizes Ethyl-methanesulfonate (EMS)-induced mutagenesis and mosaic clone analysis to identify novel genes that cooperate with
+Rb
+during fly development [
+77
+,
+78
+,
+108
+]. An interesting gene that came out of our screen is the fly ortholog of
+Tsc2
+, an important regulator of mTOR.
+Inactivation of TSC2 and Rb lead to synergistic cell death in both flies and human cancer cells
+Tsc2
+is one of two tumor suppressors, the other being
+Tsc1
+, whose loss of function causes tuberous sclerosis complex (TSC) [
+109
+,
+110
+], a syndrome characterized by the presence of benign tumors called hamartomas in different tissues [
+111
+]. The TSC1 and TSC2 proteins form a heterodimer that stimulates GTP hydrolysis by the small G protein Rheb, a crucial activator of mTOR in a rapamycin-sensitive complex termed TORC1 [
+112
+-
+115
+]. TORC1 affects a variety of cellular processes including ribosome biogenesis and cap-dependent mRNA translation, lipid synthesis, and autophagy [
+116
+].
+We showed that simultaneous inactivation of the fly
+Rb
+and
+Tsc2
+orthologs causes synergistic cell death during larval eye development, leading to adults with significantly reduced double-mutant eye tissue. This synergistic cell death is dependent on the deregulation of both the TORC1 effector dS6k and dE2f1-mediated transcriptional activation, as well as increased stress signaling [
+78
+]. Importantly, this synergistic lethality observed in flies is conserved in mammals, as inactivation of Tsc2 using short hairpin RNA (shTSC2) specifically kills
+Rb
+-deficient cancer cells under stress conditions and inhibits cancer cell growth in both soft agar and mouse xenografts. Cell death induction by shTSC2 depends on
+Rb
+deficiency because re-expression of wildtype
+Rb
+suppresses shTSC2-induced death in Rb-mutant cancer cells while knockdown of both Rb and Tsc2 is required for synergistic death in Rb-wildtype cancer cells.
+Mechanisms by which Rb and TSC2 inactivation leads to synergistic cell death induction
+What are the mechanisms that lead to synergistic cell death when both Rb and Tsc2 are inactivated? TSC tumor suppressors are known to be central mediators of energy- and nutrient-sensing signaling pathways that are generally altered in cancers. AMPK, which is activated by low cellular ATP levels [
+117
+], phosphorylates and activates Tsc2 so that cells can respond to energy deficiency by inhibiting the TORC1 pathway. In addition, Tsc2 is activated in response to low oxygen levels to regulate TORC1 activity [
+118
+-
+120
+] and Tsc2 is required for the survival of cells cultured in the absence of glucose [
+117
+]. Therefore regulation of TORC1 activity by the TSC proteins is required for cell survival under adverse conditions such as hypoxia and nutrient deprivation that are expected to be encountered by cells during different stages of tumorigenesis [
+116
+].
+We found that inactivation of Tsc2 leads to increased cellular stress in Rb-mutant cancer cells, including the accumulation of reactive oxygen species (ROS) and an induction of the unfolded protein response (UPR) [
+78
+]. It is possible that the increased ROS is due to deregulated mTOR activity, which increases the rates of protein synthesis and mitochondrial oxidative phosphorylation [
+121
+]. In support of this, inhibition of mTOR activity by rapamycin or inhibition of protein synthesis by G418 significantly decreases the accumulation of ROS and decreased the level of cell death induction [
+78
+]. Importantly, reducing the level of ROS, either by antioxidant treatment or expression of ROS scavenger enzymes, significantly decreases cell death and restores growth in soft agar. These observations provide strong support for the notion that ROS induction contributes to the synergistic cell death phenotype.
+In addition to ROS induction, inactivation of Tsc2 also has a conserved function of reducing the activation of Akt, a strong survival factor, by mTOR in a complex referred to as TORC2 [
+122
+,
+123
+]. Aside from the potential titration of mTOR, TORC1 signaling has also been shown to inhibit Akt activation through p70/S6k-mediated phos-phoryation of both the TORC2 component Rictor [
+124
+,
+125
+] and the PI3K-activator IRS-1 [
+126
+,
+127
+]. Despite decreased Akt survival signaling, enforced expression of activated forms of Akt are unable to rescue the cell death phenotype induced by Rb and TSC2 co-inactivation in either cultured cells or flies. Therefore, although PI3K/Akt survival signaling has been shown to antagonize an E2f1-mediated cell death program [
+128
+], our experiments suggest that cell death induced by Rb and TSC2 inactivation is not the result of decreased Akt signaling. These observations are consistent with the notion that increased ROS contributes to cell death due to Rb and TSC2 inactivation. Independent studies indicate that although Akt signaling can suppress cell death induced by a variety of signaling pathways, ROS-mediated cell death is an exception because Akt inhibits the transcription factor FoxO, which results in reduced expression of vital ROS scavengers and increased sensitivity to oxidative stress [
+129
+]. However Akt has also been shown to promote NF-κB activity, which also directs the expression of ROS scavenging enzymes [
+130
+,
+131
+]. As the induction of NF-κB by Akt may only be important in certain contexts such as TNFa treatment [
+130
+], it is possible that reduced Akt activity could contribute to Rb and Tsc2 inactivation-induced synthetic lethality in some cell types.
+ER stress is also induced upon inactivation of Tsc2 in Rb-mutant cancer cells. Interestingly, overexpression of Bip/Grp78, an ER resident and molecular chaperone involved in the unfolded protein response, decreases ER stress and inhibits shTSC2-induced death in Rb mutant cancer cells. Conversely, knockdown of Grp78 significantly increased the sensitivity of Rb-wildtype cancer cells to shTSC2-induced death (Li et al., unpublished results). These observations suggest that ER stress also plays an important role in the synergistic cell death induced by inactivation of Rb and TSC2. Further studies will be needed to establish the relationship between the induction of ROS and ER stress.
+There is an abundance of evidence that shows that Tsc2 inactivation leads to the induction of multiple types of cellular stresses, including ROS, ER stress, and energy stress. So why is loss of Tsc2 on its own generally insufficient to cause cell death, and how does the loss of Rb sensitize cells to Tsc2 inactivation? It appears that the stress-response mechanisms such as induction of ROS scavenging enzymes and Grp78 provide some protective effects. Interestingly, previous studies have implicated E2f1 as a key regulator of genes involved in cellular stress responses, including the ROS scavenger
+SOD2
+[
+132
+], the ER chaperone
+Grp78
+[
+133
+], and the cellular energy regulator
+AMPKα2
+[
+128
+]. Indeed, we found that SOD2 levels are regulated by pRb and the inability to upregulate SOD2 expression in response to shTSC2 contributes to the increased sensitivity of
+Rb-
+mutant cancer cells to synergistic death induction [
+78
+]. Furthermore, we found that upregulation of Grp78 in response to cellular stress induced by Tsc2 knockdown also requires
+Rb
+(Li et al., unpublished results), which also contributes to the sensitivity of Rb-mutant cells to shTSC2-induced cell death. These results indicate that pRb regulates the expression of targets that normally function to control the level of cellular stresses and are therefore critical for the ability of cells to adapt to a variety of cellular stresses. The inability to induce such genes renders Rb-mutant tumors susceptible to shTSC2-induced cell death.
+It should be mentioned that TSC2 inactivation also inhibits autophagy, which is a dynamic cellular bulk-degradation process that is activated in response to environmental stress in order to preserve vital nutrients, conserve energy production, or remove damaged organelles [
+134
+]. The ULK1-Atg13-FIP200 complex is involved in the early stages of autophagosome formation, and is inhibited by TORC1-mediated phosphorylation of ULK1 and Atg13. Inhibition of TORC1 activity by amino acid starvation or rapamycin treatment results in the dissociation of TORC1 from and dephosphorylation of this complex [
+135
+,
+136
+]. Although its role in tumorigenesis is controversial several studies suggest that autophagy is an important mechanism of survival for cells in some aggressive tumors [
+137
+-
+139
+]. As autophagy is thought to allow cells to cope with ER stress, ROS, and damaged organelles to prevent genomic instability and tumorigenesis [
+139
+], it is possible that the impairment of autophagy contributes to the sensitivity of
+Rb-
+deficient tumor cells to Tsc2 inactivation.
+In summary, synthetic lethality induced by inactivation of both Rb and Tsc2 involves a combination of the induction of cellular stresses in conjunction with an impairment of the adaptive mechanisms that are critical for cell survival (
+Figure 4
+). It is possible that agents or treatments that increase cellular stress or decrease responses to stress can further enhance the sensitivity of Rb-mutant cells to Tsc2 inactivation. In this regard, it is interesting to note that current cancer therapies, which often cause DNA damage by inhibiting DNA replication or mitosis, also induce high levels of other forms of cellular stress. It will be interesting to test if these conventional cancer treatments can be combined with Tsc2 inactivation to increase the killing of Rb-mutant cancers. Indeed, Tsc2- or Tsc1-null cells, which exhibit reduced PI3K signaling through Akt [
+126
+,
+127
+], were shown to be sensitive to apoptosis induced by the DNA damaging agents camptothecin and etoposide, and this effect was blocked by rapamycin [
+127
+]. Thus Tsc2 inactivation does appear to sensitize cells to some existing chemotherapeutic drugs.
+Open in a separate window
+Figure 4
+A model for cell death induced by Rb and TSC2 inactivation. Rb-deficient cancer cells are sensitive to death in part due to impairments in the responses to various forms of stress, including the accumulation of ROS and misfolded protein. These cells therefore are particularly sensitive to deregulation of TORC1 activity, which is an inherently energy-intensive and stress-inducing signaling pathway. Because the TSC proteins play a central role in mediating TORC1 inhibition by various signaling cues, their inactivation can cause catastrophic metabolic deregulation in the absence of compensatory stress responses.Conclution
+The inherent genomic instability of tumor cells presents a variety of challenges to developing effective therapies for treating cancers of different tissue origin and underlying molecular etiology, thus it stands to reason that current and future treatment regimens should be multifaceted. It is imperative for preclinical research to continually provide both insight into the genetic context of drug sensitivity, as well as novel targets for rational drug discovery, such that oncology in the future will have an arsenal of tools to deploy in the ongoing war against cancer. We propose that synthetic lethality will have an important role to play as therapeutic intervention becomes more sophisticated and personalized medicine advances the notion of tailoring specific treatments for individual patients. Further studies into the cooperative functions of particular genes has the potential to not only identify promising new targets for exploitation but to elucidate mechanisms underlying treatment efficacy, or lack thereof.Acknowledgments
+This work is supported in part by grants from the National Institute of Health [R01CA149275, R01 GM074197, P01AT004418] and a grant from DOD [W81XWH-10-1-0077] to WD.

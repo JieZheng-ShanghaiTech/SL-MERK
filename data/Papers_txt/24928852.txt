@@ -1,0 +1,1106 @@
+Companion Diagnostics and Cancer Biomarkers
+
+Chemogenetic Evaluation of the Mitotic Kinesin CENP-E
+Reveals a Critical Role in Triple-Negative Breast Cancer
+
+Pei-Pei Kung1
+, Ricardo Martinez2
+, Zhou Zhu2
+, Michael Zager3
+, Alessandra Blasina2
+, Isha Rymer2
+, Jill Hallin2
+,
+Meirong Xu2
+, Christopher Carroll2
+, John Chionis2
+, Peter Wells2
+, Kirk Kozminski3
+, Jeffery Fan2
+, Oivin Guicherit2
+,
+Buwen Huang1
+, Mei Cui2
+, Chaoting Liu2
+, Zhongdong Huang2
+, Anand Sistla4
+, Jennifer Yang2
+, and
+Brion W. Murray2
+
+Abstract
+Breast cancer patients with tumors lacking the three diagnostic markers (ER, PR, and HER2) are classified as
+triple-negative (primarily basal-like) and have poor prognosis because there is no disease-specific therapy
+available. To address this unmet medical need, gene expression analyses using more than a thousand breast
+cancer samples were conducted, which identified elevated centromere protein E (CENP-E) expression in the
+basal-a molecular subtype relative to other subtypes. CENP-E, a mitotic kinesin component of the spindle
+assembly checkpoint, is shown to be induced in basal-a tumor cell lines by the mitotic spindle inhibitor drug
+docetaxel. CENP-E knockdown by inducible shRNA reduces basal-a breast cancer cell viability. A potent,
+selective CENP-E inhibitor (PF-2771) was used to define the contribution of CENP-E motor function to basallike
+breast cancer. Mechanistic evaluation of PF-2771 in basal-a tumor cells links CENP-E–dependent
+molecular events (e.g., phosphorylation of histone H3 Ser-10; phospho-HH3-Ser10) to functional outcomes
+(e.g., chromosomal congression defects). Across a diverse panel of breast cell lines, CENP-E inhibition by PF2771
+selectively inhibits proliferation of basal breast cancer cell lines relative to premalignant ones and its
+response correlates with the degree of chromosomal instability. Pharmacokinetic–pharmacodynamic efficacy
+analysis in a basal-a xenograft tumor model shows that PF-2771 exposure is well correlated with increased
+phospho-HH3-Ser10 levels and tumor growth regression. Complete tumor regression is observed in a patientderived,
+basal-a breast cancer xenograft tumor model treated with PF-2771. Tumor regression is also observed
+with PF-2771 in a taxane-resistant basal-a model. Taken together, CENP-E may be an effective therapeutic
+target for patients with triple-negative/basal-a breast cancer. Mol Cancer Ther; 13(8); 2104–15. 2014 AACR.
+
+Introduction
+
+Breast cancer is many diseases coarsely stratified into
+distinct patient populations using three immunohistochemistry
+tumor markers: estrogen receptor (ER), progesterone
+receptor (PR), and the human epidermal growth
+factor receptor-2 (HER2/neu, erbB2; refs. 1, 2). The segment
+that does not express any of these markers (triple-negative
+breast cancer, TNBC) constitutes 10% to 20% of all patients
+with breast cancer, often premenopausalwomen andmembers
+of specific ethnic groups such as African decent (3).
+Genomic analysis has refined the classification of breast
+cancer with the majority of TNBC tumors classified as
+basal-like (4). Basal tumor cells are further segmented into
+basal-a and basal-b (claudin-low). Understanding breast
+cancer tumor biology has powered dramatic improvements
+in survival for patients with therapies that target
+their specific disease biology. ER-positive breast cancer has
+effective therapies such as ER antagonists (e.g., tamoxifen,
+FDA-approved in 1977) and estrogen biosynthesis inhibitors
+(aromatase drugs, FDA-approved in the 1990s). HER2-
+driven disease has effective therapies: trastuzumab (FDAapproved
+in 1998), lapatinib (FDA-approved in 2007),
+pertuzumab (FDA-approved 2012), and kadcyla (FDAapproved
+2013). In contrast, "triple-negative" breast has no
+approved targeted therapies and as a consequence, patient
+prognosis remains poor (5).
+Recent clinical studies suggest that patients with
+TNBC respond to standard chemotherapy cytotoxic
+
+Authors' Affiliations: 1
+Oncology Chemistry, 2
+Oncology Research Unit, 3
+Pharmacokinetics, Dynamics and Metabolism, and 4
+Pharmaceuticals
+Science, Pfizer Worldwide Research and Development, La Jolla Laboratories,
+San Diego, California
+Note: Supplementary data for this article are available at Molecular Cancer
+Therapeutics Online (http://mct.aacrjournals.org/).
+Current address for R. Martinez: Eli Lilly and Company, Indianapolis, IN;
+current address for C. Carroll: Arena Pharmaceuticals, Inc., San Diego, CA;
+current address for Z. Huang: Halozyme Therapeutics Inc., San Diego CA;
+current address for M. Zager: Johnson & Johnson, San Diego, CA; current
+address for K. Kozminski: Ferring Research Institute Inc., San Diego, CA;
+current address for J. Yang: Johnson & Johnson, San Diego, CA.
+P.-P. Kung and R. Martinez contributed equally to this article.
+Corresponding Author: Brion W. Murray, Pfizer Worldwide Research and
+Development, La Jolla, Pfizer Inc., 10777 Science Center Drive, San Diego,
+CA 92121. Phone: 858-622-6038; Fax: 858-526-4240; E-mail:
+brion.murray@pfizer.com
+doi: 10.1158/1535-7163.MCT-14-0083-T
+2014 American Association for Cancer Research.
+
+Molecular
+Cancer
+Therapeutics
+
+2104 Mol Cancer Ther; 13(8) August 2014
+
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+regimens (e.g., taxanes; ref. 6), which are also the backbone
+to most breast cancer treatments. Taxanes block the
+microtubule contribution to mitotic spindles, alter chromosomal
+segregation, block the cell-cycle progression,
+and therefore inhibit cell proliferation. Unfortunately, the
+clinical benefit for patients with TNBC is not durable (6).
+In addition, taxanes are known as spindle poisons because
+they inhibit functions conserved in normal physiology
+and cause severe toxicities (e.g., neutropenia, neuropathy;
+refs. 7, 8) A better approach would be if this process could
+be selectively modulated in cancer cells. From both efficacy
+and tolerability perspectives, improved TNBC therapies
+are needed.
+Genomic analysis of a broad array of breast cancer
+samples identified CENPE as a candidate gene for targeting
+TNBC. CENP-E is a component of the kinetochore
+complex critical to chromosome congression and alignment
+in mitosis as part of the spindle assembly checkpoint
+(SAC, mitotic checkpoint; refs. 9–11). CENP-E uses an
+ATPase activity (motor function) to slide nonaligned
+chromosomes along mitotic spindles toward the equatorial
+plate (metaphase plate) and establish metaphase
+before chromosome segregation. A potent, specific,
+small-molecule inhibitor of CENP-E motor function
+(PF-2771) was synthesized and used to characterize the
+CENP-E motor function in tumor cells and models. These
+studies provide support for a significant role of CENP-E in
+the basal-a/TNBC.
+
+Materials and Methods
+
+Cell lines
+Cell lines described in this work were obtained from
+ATCC. Cell cultures were expanded by serial passaging
+and stocks frozen after 3 to 5 passages.
+
+Chromosomal instability index analysis
+Chromosomal instability (CIN) index is a measure of
+deviation from a diploid state (aneuploidy). To quantify
+the degree of global copy-number change in each cell line
+(16 lines analyzed), a CIN index was calculated from
+genome-wide SNP array data by taking into account both
+the length and amplitude of changes as following:
+
+CIN ¼
+PL
+i¼1 li
+ai j j
+PL
+i¼1 li
+;
+
+where li and ai are the length and mean amplitude (on log2
+scale) of each copy-number segment, respectively, and L
+corresponds to total number of segments in the genome
+(chromosomes 1 to 22 and X). Perfectly diploid cells have a
+CIN score of zero.
+
+Inducible small hairpin RNA studies
+Basal-like breast cancer HCC1806 cells that were engineered
+with small hairpin RNA (shRNA) constructs were
+exposed to doxycycline (1 mg/mL) to induce their expression
+(CENP-E specific, GCAGAGAGTGTGGATTCTCAG;
+KIF11 shRNA as a positive control; nontargeting,
+
+CAACAAGATGAAGAGCACCAA, luciferase shRNA).
+Purified mRNA (Illustra RNAspin Mini Isolation Kit; GE
+Healthcare Lifesciences) was converted into cDNA
+(qScript cDNA SuperMix; Quanta BioSciences) and analyzed
+by qPCR in triplicate (hydrolysis probes and Master
+Mix purchased from Applied Biosystems). HCC1806 cell
+viability was measured after the shRNA induction. Cells
+were seeded the day before doxycycline addition, incubated
+with shRNA for 3 days after addition of eight
+doxycycline concentrations, PBS washed, trypsinized,
+stained with 0.4% trypan blue (Invitrogen), and counted
+under microscope.
+
+Biochemical assay of CENP-E enzymatic activity
+Microtubule-activated CENP-E kinesin ATPase activity
+was measured spectrophotometrically by coupling the
+hydrolysis of ATP to ADP to NADH oxidation (decrease
+in 340 nm absorbance) through the activities of pyruvate
+kinase (PK) and lactate dehydrogenase (LDH). Reactions
+contained 2 mmol/L phosphoenolpyruvate, 0.28 mmol/L
+NADH, 5 mmol/L MgCl2, 1 mmol/L DTT, 15 mmol/L
+taxol, 0.7 mmol/L MT (preformed porcine microtubules;
+Cytoskeleton Inc.), 50 mmol/L ATP, 10 U/mL PK, and 10
+U/mL LDH in 15 mmol/L PIPES buffer (pH 7.0). Reactions
+were initiated with a 20 nmol/L CENP-E addition
+(Human: 1-342; WT) at 30C. The IC50 values were determined
+by a nonlinear, least squares fit of the data to the
+four-parameter dose–response curve equation (GraphPad
+Prism). PF-2771 kinesin biochemical selectivity
+toward other kinesins (Cytoskeleton Inc.) was tested in
+triplicate at both 1 and 10 mmol/L PF-2771 in a variant of
+the CENP-E enzymatic assays that had the following
+enzyme concentrations: 200 nmol/L chromokinesin
+motor domain, 200 nmol/L Eg5 motor domain, 226
+nmol/L MCAK motor domain. PF-2771 biochemical
+mechanism was determined by measuring CENP-E enzymatic
+activity as a function of ATP and PF-2771 concentrations
+(0, 2.5, 5, 10, 20, 30, 45 nmol/L PF-2771; 1,000, 500,
+250, 125, 62.5, 31.2, 15.6, 7.81, 3.90, 1.95, 0.977 mmol/L
+ATP).
+
+Cell proliferation assays
+PF-2771 was added to cells seeded in 96-well plates. The
+number of cells seeded (1,000–3,000) depended on growth
+characteristics of each cell type and normalized proliferation
+rates. Ten different concentrations of compound
+used were based on a half-log increment between 1
+nmol/L and either 1 or 25 mmol/L. Cells were incubated
+at 37C for 7 days before assessing viability with the
+CellTiter-Glo reagent (Promega). Untreated control cells
+were 80% to 90% confluent after 7 days of culture. Data
+were fitted into a sigmoidal curve-fitting program to
+calculate IC50 values.
+
+Cellular ELISA assay for phosphorylation of histone
+H3-Ser10
+Cells were seeded in a 96-well plate in RPMI-1640
+media supplemented with 10% fetal bovine serum (FBS)
+
+CENP-E Motor Function in Triple-Negative Breast Cancer
+
+www.aacrjournals.org Mol Cancer Ther; 13(8) August 2014 2105
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+and 1% penicillin-streptomycin at 37C with 5% CO2 until
+80% to 90% confluence. Cells were then treated with PF2771
+at desired concentrations for 8 to 9 hours. PhosphoHH3-Ser10
+was measured in triplicate using the PathScan
+phospho-HH3-Ser10 Sandwich ELISA Kit (Cell Signaling
+Technology). Data were exported and analyzed using a
+four-parameter IC50 (GraphPad Prism). In 20% FBS, PF2771
+is 48% unbound (free fraction).
+
+Analysis of cell-cycle proteins in tumor cells
+MDA-MB-468 cells were treated with PF-2771
+(75 nmol/L) for 72 hours. Lysates (with protease and
+phosphatase inhibitors added) were resolved by NUPAGE
+gels (Invitrogen), transferred to nitrocellulose
+membranes, and probed using antibodies for actin and
+cyclin B (Santa Cruz Biotechnology Inc.), AuroraB/AIM1,
+phospho-AuroraA(T288)/B(T232)/C(T198; Cell Signaling
+Technology; cat. #2914; 1:500 dilution), phosphoHH3-Ser10,
+cleaved PARP (all from Cell Signaling Technology;),
+anti-phosphohistone-H2AX Ser139 (Millipore),
+securin (Abcam), anti-BubR1 (Bethyl Laboratories, Inc.),
+and 1:500 dilution anti-CENP-E (cat. #AKIN04-A, Cytoskeleton
+Inc.) overnight at 4C. HRP-conjugated secondary
+antibodies (GE Healthcare) were incubated (2 hours,
+room temperature), detected using a chemiluminescent
+substrate (Pierce SuperSignal West Dura; Thermo Fisher
+Scientific), and imaged (Alpha Innotech imager; Cell
+Biosciences).
+Flow cytometry
+Analysis of cell-cycle distribution of cells was performed
+by flow cytometry. A MDA-MB-468 cell culture
+containing 1 to 2
+106 cells was treated with the inhibitor
+(100 nmol/L) for 96 hours. The cells were fixated in 70%
+ethanol and stained with propidium iodine using the
+Cycletest Plus Kit (Becton Dickinson). The samples were
+analyzed on a Becton Dickinson FACSCalibur Instrument.
+The proportion of cells in G1, S, G2–M, aneuploidy or
+nongated (sub-G1) was determined using CellQuest v. 2.0
+software (Becton Dickinson).
+In vivo tumor model studies
+HCC1806 tumor cells (3
+106
+) were implanted in the
+mammary fat pad of CB17/lcr.Cg-PrkdcscidLystbg female
+mice (Charles River Laboratories). PF-2771 was administered
+intraperitoneally (i.p.) to groups of 12 mice at 3, 10,
+and 30 mg/kg every day for 14 days and at 100 mg/kg
+every day for 4 days followed by 3 days off and then
+another 4-day cycle. Tumor volumes were recorded twice
+weekly by calipers with the final measurement taken 3
+days after the last dose. Tumor growth inhibition (TGI)
+was calculated using the formula 100
+(1  DT/DC),
+where DT (treated) and DC (control) are the mean tumor
+volume changes between 1 day after the last dose and the
+first-day treatment. Time-to-progression endpoint and
+associated tumor growth delay determinations were calculated
+using median days to reach to two doublings of
+initial tumor size. Statistical comparisons were made
+using one-way ANOVA with Dunnett posttests. Other
+
+tumor models had similar methodology except where
+noted. PDX-AA1077 is a patient-derived xenograft model
+developed from tumor tissue from a triple-negative
+patient engrafted to the mammary glands of NSG female
+mice to create passage 1 tumor-bearing mice. Surgically
+resected tumor tissue was cut into 2- to 4-mm3 fragments
+and subcutaneously implanted into the flank of SCID-bg
+mice (Charles River Laboratories). Mice with palpable
+tumors (passage 6) were randomized before dosing. An
+HCC1599 tumor cell line xenograft model was established
+from tumor fragments of established tumors and reimplanted
+into flank of female SCID mice. When average
+tumor size reached 250 mm3
+, animals were randomized
+into five groups of 10 mice. Animals were treated with
+vehicle (daily dosing), 10 mg/kg docetaxel (once per week
+dosing), 25 mg/kg docetaxel (once per week dosing), 20
+mg/kg paclitaxel (twice per week dosing), or 100 mg/kg
+of PF-2771 (every day, i.p.).
+
+PK/PD analysis
+Plasma drug concentrations and the pharmacodynamic
+endpoint (PD) tumor phospho-HH3-Ser10 responses in
+SCID mice bearing orthotopically implanted HCC1806
+xenograft tumors (300–500 mm3
+) were evaluated for vehicle
+or a single intraperitoneal dose of PF-2771. Tumors and
+plasma were collected at 1, 4, 8, 24, or 32 hours after dose (3
+mice per time point). For plasma pharmacokinetics,
+mouse plasma was collected in heparinized vacutainers
+following intracardiac puncture. Plasma concentrations
+of PF-2771 were measured quantitatively with liquid
+chromatography–tandem mass spectrometry. The mass
+spectrometry was performed using electrospray ionization
+in the positive mode with multiple reaction monitoring
+(MRM). The plasma-free fraction of PF-2771 in SCID
+mouse plasma was measured using the equilibrium dialysis
+technique. Samples were extracted with 200 mL of
+acetonitrile containing an internal standard and analyzed
+by liquid chromatography—tandem mass spectrometry.
+The free fraction in plasma (fu) was calculated by the
+equation fu ¼ Rbuffer/Rplasma, where Rbuffer and Rplasma
+represent the ratio of PF-2771. In mouse plasma, the free
+fraction of PF-2771 is calculated to be 0.022.
+
+Results
+
+CENP-E expression is highest in basal-like subtype
+among breast cancer patients
+Gene expression in samples from 1,163 patients with
+breast cancer and 160 normal breast tissue samples were
+analyzed to identify dysregulated genes (public database;
+ref. 12). Although CENPE mRNA is significantly elevated
+across all segments of breast cancer relative to normal
+tissue, it is the highest in the basal-a subtype (P ¼ 2.22 1067
+by two-tailed t test, fold change ¼ 2.93; Fig. 1A).
+Analysis of breast cancer patient survival data reveals that
+the level of CENPE expression is strongly negatively
+correlated with disease-specific survival (P ¼ 3.68 107
+by log-rank test; Fig. 1B), indicating that CENP-E
+likely is involved in breast cancer biology. These patterns
+
+Kung et al.
+
+2106 Mol Cancer Ther; 13(8) August 2014 Molecular Cancer Therapeutics
+
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+are subsequently corroborated using an independent
+cohort from The Cancer Genome Atlas (TCGA; ref. 4).
+An evaluation of other mitotic regulators showed that
+their expression was also upregulated but the biology of
+CENP-E pointed to its potential driver role as a kinesin in
+cancer cells. To establish preclinical model systems,
+CENP-E protein expression was shown to be present in
+three basal-a breast cancer cell lines (HCC70, HCC1806,
+and MDA-MB-468). The response of CENP-E to spindle
+inhibitor treatment was evaluated in these cell lines (100
+nmol/L docetaxel; 16 hours). CENP-E protein accumulates
+and the tumor cells undergo mitotic arrest (Fig. 2).
+Phosphorylation of BubR1 and HH3 were evaluated to
+provide mechanistic evidence for the activation of the
+SAC. Docetaxel treatment induced phosphorylation of
+serine residue 10 of histone H3 as well as BubR1 (supershifted
+bands in the SDS-PAGE; Fig. 2). Next, an inducible
+shRNA approach is used to characterize the consequences
+
+of CENP-E protein depletion on the in vitro viability of
+HCC1806 basal-like breast tumor cells. The CENP-E
+shRNA causes an 83% to 88% reduction of CENP-E
+mRNA 24 and 48 hours after transfection of cells (Supplementary
+Fig. S1A) and a greater than 90% reduction in
+CENP-E protein levels compared with the untransfected
+cells (Supplementary Fig. S1B). Upon doxycycline induction
+of specific CENP-E shRNA, only 20% of the HCC1806
+tumor cells remain viable after 72 hours (Supplementary
+Fig. S1C). From this analysis, CENP-E is hypothesized to
+be critical in basal-a breast cancer cell biology.
+
+PF-2771 is a potent, noncompetitive, selective
+inhibitor of CENP-E motor function
+Because CENP-E is known to have both catalytic
+(ATPase motor activity) and noncatalytic functions (13),
+a more specific approach than shRNA knockdown is
+needed to study CENP-E ATPase motor function. To
+
+A 9
+
+B
+8.5
+
+8
+
+7.5
+
+7
+
+6.5
+
+6
+
+5.5
+
+Normal Basal-a Basal-b Her2 LumA LumB
+
+0.0 0.2 0.4 0.6 0.8 1.0
+0 2,000 4,000 6,000
+Disease-specific survival in days
+8,000
+
+Probability mRNA expression, log2
+High expression (top 1/3)
+Low expression (bottom 1/3)
+
+Figure 1. CENPE expression in
+breast tissues. A, genomic
+evaluation of CENP-E transcript
+level in breast cancer segments
+and adjacent normal tissue. B,
+CENP-E mRNA level is negatively
+related to disease-specific survival
+in breast cancer. Kaplan–Meier
+disease-specific survival analysis
+of patients with breast cancer
+stratified according to CENP-E
+expression.
+
+CENP-E Motor Function in Triple-Negative Breast Cancer
+
+www.aacrjournals.org Mol Cancer Ther; 13(8) August 2014 2107
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+facilitate this analysis, the potent, selective inhibitor PF2771
+was synthesized, (Fig. 3, Supplementary Methods).
+This molecule inhibits CENP-E motor activity with an IC50
+of 16.1  1.2 nmol/L (n ¼ 18) and a Hill slope of 0.94.
+Kinetic analysis of PF-2771 inhibition conducted as a
+function of ATP and PF-2771 concentrations is consistent
+with it being noncompetitive toward ATP (1/velocity
+vs. 1/[ATP] at varied [PF-2771] lines do not converge at
+the 1/v axis). PF-2771 does not inhibit the ATPase activities
+of highly related kinesins (0% inhibition of Eg5/KSP,
+chromokinesin, and MCAK at both 1 or 10 mmol/L PF2771).
+PF-2771 is inactive toward a panel of 74 protein
+kinases (all <23% inhibition with 1 mmol/L PF-2771, <40%
+with 10 mmol/L PF-2771; Supplementary Table S1). The
+characterization of PF-2771 as a selective inhibitor of
+CENP-E motor activity enables its use as a probe of
+CENP-E biology in more complex systems.
+
+PF-2771 is a specific CENP-E inhibitor critical to
+basal-like breast cancer tumor cell survival
+Appropriate breast cancer contexts for studying PF2771
+were initially identified by measuring the sensitivity
+
+of breast cell lines to inhibition of CENP-E motor activity.
+The antiproliferative potency of PF-2771 (EC50 after 72
+hours of treatment) was measured in 16 cell lines that span
+the following breast segments: normal breast epithelial
+cells, premalignant, basal-a, basal-b (claudin-low), luminal,
+and HER-2 positive (Fig. 4 and Supplementary Table
+S2). Cell line models lacking the receptors the define
+TNBC (HER-2, ER, and PR) encompass both basal-a and
+basal-b models. PF-2771 potency varies by three orders of
+magnitude across one cell line (0.01 to >10 mmol/L). All six
+cell lines sensitive to PF-2771 (EC50 < 0.1 mmol/L) are
+basal-like with five of these in the basal-a subset. In
+contrast, the normal and premalignant cell lines are not
+sensitive to PF-2771 treatment (EC50 > 5 mmol/L). These
+results suggest that CENP-E motor activity is necessary
+for breast cancer cell proliferation but dispensable for
+normal breast cell proliferation. Because PF-2771 is a
+potent inhibitor of basal-a tumor cell growth, two representative
+cell lines were selected for mechanistic analyses
+(MDA-MB-468 and HCC1806).
+The molecular consequences of PF-2771 treatment in
+basal-a breast cancer cells were subsequently characterized
+to determine if they are consistent with CENP-E
+inhibition. CENP-E is known to be required for cell-cycle
+progression from metaphase to anaphase (13). Phosphorylation
+of the histone H3 Ser-10 (HH3-Ser10) is used as a
+marker of CENP-E motor function because it is mediated
+by Aurora-B, coincident with chromosomal condensation,
+and decreases upon transition to anaphase (PF-2771 is not
+an Aurora-B inhibitor, Supplementary Table S1; ref. 14).
+The EC50 for the elevated phospho-HH3-Ser10 was determined
+to be 21 and 22 nmol/L in MDA-MB-468 and
+HCC1806 cells, respectively. The elevation of HH3-Ser10
+phosphorylation is well correlated with inhibition of
+tumor cell proliferation (EC50, 14–20 nmol/L) as well as
+inhibition of ATPase motor activity in a biochemical assay
+(IC50, 16 nmol/L). A broader analysis of cellular effects of
+PF-2771 was undertaken by investigating other mitotic
+checkpoint proteins that are directly or indirectly associated
+with CENP-E (15, 16). PF-2771 treatment (75 nmol/L)
+of MDA-MB-468 tumor cells for 8 hours increases levels of
+phosphorylated BubR1, Aurora-B, securin, and cyclin B
+(Fig. 5). These results are consistent with PF-2771–dependent
+induction of mitotic arrest and the engagement of the
+SAC. At 24 hours after treatment of PF-2771, these markers
+of mitosis decrease, whereas increases in gH2AX (DNA
+damage) and cleaved PARP (apoptosis) proteins are
+observed.
+The functional effects of PF-2771 treatment on tumor
+cells were characterized to better define the role of CENPE
+motor activity in basal-like breast cancer biology. As
+CENP-E regulates the spindle assembly cell-cycle checkpoint,
+alterations in the cell-cycle profile are evaluated.
+Treatment of basal-a breast cancer tumor cells for 6 hours
+with 100 nmol/L PF-2771 causes an increase in the G2–M
+cell population of basal-like tumor cells (43% MDA-MB468
+cells in G2–M) relative to asynchronous, untreated
+cells (24% G2–M; Supplementary Table S3). The time
+
+Figure 2. Evaluation of the effect of docetaxel treatment of basal tumor cell
+lines on SAC proteins. Docetaxel (100 nmol/L, 16 hours) induces CENP-E
+expression in breast tumor cell lines and pHH3, a molecular marker for the
+cell-cycle transition from metaphase to anaphase.
+
+Figure 3. Chemical structure of PF-2771.
+
+Kung et al.
+
+2108 Mol Cancer Ther; 13(8) August 2014 Molecular Cancer Therapeutics
+
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+course of the cell-cycle effects caused by PF-2771 treatment
+shows a rapid accumulation of cells at the G2–M
+stage followed by a large increase in the sub-G0 population
+(Supplementary Table S3). It should be noted that
+normal breast cells have a small G2–M population (G0–G1
+ 85%; ref. 17). After 96 hours, the sub-G1 cell population
+is 23% compared with 5% in control cells; consistent with
+onset of apoptosis following mitotic delay (Supplementary
+Table S3). Because this cell-cycle phenotype is not
+exclusive to CENP-E, other more specific functional
+effects were investigated such as chromosome congression—a
+process necessary for the establishment of bidirectional
+chromosome/kinetochore attachments before
+the onset of anaphase (18). Exposure of tumor cells to a
+bona fide CENP-E inhibitor should result in mitotic delay
+due to the presence of uncongressed chromosomes. Basala
+tumor cells (MDA-MB-468) were engineered to constitutively
+express the fluorescent reporter histone-2B green
+fluorescent protein (H2B-GFP) to follow chromosome
+dynamics through fluorescent live-cell video microscopy
+(Fig. 6). Vehicle-treated cells complete mitosis in
+approximately 1 hour as measured by nuclear envelope
+breakdown to onset of cytokinesis. In contrast, 100
+nmol/L PF-2771–treated tumor cells display a delayed
+metaphase–anaphase transition (3 hours) followed by
+either mitotic apoptosis or mitotic slippage with subsequent
+apoptosis (Fig. 6). In contrast, PF-2771 does not
+exhibit the characteristic phenotype associated with
+inhibition of the related kinesin EG5/KSP. EG5/KSP
+inhibitors (e.g., ispinesib) trigger the formation of
+monopolar spindles (19), a phenotype that is not
+observed in tumor cells exposed to PF-2771 (Supplementary
+Fig. S2). A chromosome congression defect is
+observed in the PF-2771–treated cells because chromosomes
+remained distant from the metaphase plate for at
+
+least twice as long as vehicle-treated cells. Taken together,
+PF-2771 modulates CENP-E dependent molecular
+markers in basal-like breast cancer cells and has the
+functional hallmarks of a selective CENP-E inhibitor.
+
+Cellular sensitivity to inhibition of CENP-E motor
+function is correlated with degree of CIN
+An evaluation of the relationship between CENP-E
+expression and PF-2771 response finds that there is no
+statistically significant difference in CENP-E mRNA
+levels between sensitive and resistant cell lines (P ¼
+0.52 by two-tailed t test). As SAC defects are found in
+cancer cells with high levels of CIN (20, 21), a plausible
+hypothesis is that tumors with this phenotype are more
+reliant on genes that regulate the SAC and therefore
+sensitive to inhibition of CENP-E motor function. Furthermore,
+high CIN tumor cells are enriched for cells with
+merotelic chromosomal attachments (lagging chromosomes;
+ref. 22). A CIN index measurement is devised to
+quantify the overall level of DNA copy-number change in
+various breast cell lines. Cell lines are divided into sensitive
+and resistant groups based on response to PF-2771
+(EC50 cutoff was 0.1 mmol/L). Tumor cell lines sensitive to
+PF-2771 have a much higher CIN index score than resistant
+ones (P ¼ 0.022 by two-tailed t test), suggesting that
+breast cancer tumors with elevated chromosomal instability
+are likely to benefit from CENP-E–targeted therapy.
+
+Inhibition of CENP-E is efficacious in tumor cell line
+and patient-derived basal-like breast cancer tumor
+models
+Three tumor models are used to investigate the role of
+CENP-E in basal-a breast cancer—HCC1806 basal-a
+tumor xenograft, PDZ-AA1077 (basal-like) patientderived
+TNBC breast cancer model, and HCC1599
+
+Figure 4. PF-2771 selectivity across
+a diverse panel of malignant and
+normal breast cell lines through the
+measurement of the inhibition of
+cell proliferation. The breast cell
+lines studied cover the following
+segments: normal/premalignant
+(gray), basal-a (orange), basal-b
+(claudin-low, green), HER-2
+(magenta), and luminal (blue).
+
+CENP-E Motor Function in Triple-Negative Breast Cancer
+
+www.aacrjournals.org Mol Cancer Ther; 13(8) August 2014 2109
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+(basal-a) taxane-resistant tumor xenograft model.
+TGI of the HCC1806 model is observed to be 24% at
+30 mg/kg (P ¼ 0.046 by t test) and 62% regression at
+100 mg/kg (P ¼ 9.4
+108 by t test) measured after
+14 days of PF-2771 treatment (Fig. 7A). Animals treated
+with PF-2771 exhibited no significant body weight loss
+(<10%; Supplementary Fig. S3) and displayed normal
+grooming and other behaviors. Single-dose treatment
+with 100 mg/kg of PF-2771 results in significant elevation
+(up to 6-fold increase) of phospho-HH3-Ser10, which was
+sustained up to 24 hours (Fig. 7B).
+To better define the role of CENP-E inhibition in the
+HCC1806 xenograft model, we quantified the temporal
+relationship between plasma concentrations of PF-2771, a
+pharmacodynamic marker for CENP-E inhibition, and
+subsequent TGI. Phosphorylation of histone H3 residue
+Ser-10 is evaluated because it is well correlated with other
+SAC functions in cellular studies of PF-2771 and is a robust
+marker of mitotic arrest and SAC activation (14). A
+detailed description of the mathematical PK/PD modeling
+methods and results can be found in the Supplementary
+Methods. Briefly, tumor cell growth and kill rates in
+the mathematical model represent the overall growth
+and death rates of cells comprising the tumor volume in
+the mouse (Supplementary Fig. S4, right). The growth
+
+rate slows as the tumor increases in volume as seen in
+the control group (Supplementary Fig. S4, center). The
+kill rate is a function of the concentration of the CENP-E
+inhibitor in the system, consistent with the hypothesis
+that inhibition of CENP-E motor function induces apoptosis.
+The in vivo EC50 of PF-2771 for phospho-HH3-
+Ser10 elevation is estimated by the mathematical model
+to be 4.1 nmol/L (free-drug concentration). The elevated
+phosphoHH3-Ser10 levels are responsive in a predicable
+fashion, consistent with a standard Hill function
+(Supplementary Fig. S4). The in vivo EC50 value is
+consistent with the in vitro cellular IC50 (11 nmol/L)
+in the HCC1806 cell line as well as the biochemical
+potency (IC50, 16 nmol/L). The modeling results also
+highlight the inability of lower PF-2771 doses (3, 10, and
+30 mg/kg) to increase the kill rate and sustain it at an
+adequate level to significantly slow (or regress) tumor
+growth. However, in the 100 mg/kg group, a significantly
+elevated kill rate is sustained during dosing, thus
+overpowering the growth rate and causing tumor
+regression. These results establish a strong correlation
+between inhibition of CENP-E motor function and efficacy
+in basal-a breast cancer.
+To study CENP-E motor function in a model that
+better reflects breast cancer patient biology, PF-2771
+was evaluated in an patient-derived TNBC model that
+is generated by directly engrafting primary human
+tumor tissue into murine mammary tissue (PDXAA1077;
+ref. 23). By genome-wide gene expression
+profiling, we confirm that the xenograft tumor is from
+basal-a breast cancer. The Pearson correlation with
+intrinsic centroids for PDZ-AA1077 are as follows:
+0.2067 (basal-like), 0.0269 (Her-2), 0.1437 (luminala),
+0.0665 (luminal-b), and 0.0165 (normal-like).
+SCID mice bearing AA1077 mammary tumors treated
+with a PF-2771 dose known to potently inhibit CENP-E
+motor function (100 mg/kg every day i.p.) exhibit
+tumor regression (99.97%; Fig. 8A). This finding provides
+additional support that inhibition of CENP-E
+motor function could be efficacious in a selected patient
+population.
+PF-2771 was used to evaluate CENP-E motor function
+inhibition relative to mitotic spindle inhibitors
+(paclitaxel and docetaxel) in the HCC1599 basal-a
+tumor model. At clinically relevant murine doses
+(24), paclitaxel (20 mg/kg twice weekly) and docetaxel
+(25 mg/kg/week) had moderate efficacy in the
+HCC1599 model (paclitaxel TGI 78%, P ¼ 2.63
+108
+by t test; docetaxel 76% TGI, P ¼ 2.74
+108 by t test).
+As such, the HCC1599 model is less responsive to taxane
+treatment compared with other breast cancer models.
+In contrast, at an effective PF-2771 dose (100 mg/kg every
+day), substantial tumor regression is observed in this
+model (64% regression, P ¼ 7.63
+109 by t
+test; Fig. 8B). These results suggest that a CENP-Einhibitor
+could be more effective than traditional chemotherapies
+for a subset of patients and that CENP-E inhibitors may be
+mechanistically distinct from spindle poisons.
+
+Figure 5. PF-2771 regulates cell-cycle markers in MDA-MB-468 TNBC
+tumor cells expected to be CENP-E dependent and induces cell-cycle
+arrest. The expression of an array of proteins was analyzed by Western
+blot analyses of lysates from MDA-MB-468 cells treated with 75 nmol/L
+PF-2771 for up to 72 hours.
+
+Kung et al.
+
+2110 Mol Cancer Ther; 13(8) August 2014 Molecular Cancer Therapeutics
+
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+Discussion
+
+A major paradigm change in the treatment of patients
+with cancer is under way—matching a targeted therapy to
+a molecular event essential to a specific tumor biology.
+When this occurs, profound clinical benefit is realized as
+observed with imatinib in BCR-ABL–dependent leukemia,
+vemurafenib and dabrafenib in Braf V600E-driven
+melanoma, and crizotinib in EML4–ALK–positive lung
+cancer. Through a combination of genomic and chemical
+biologic approaches, we characterize the kinesin CENP-E
+as critical to basal-a, TNBC. To date, CENP-E–directed
+therapies have not been broadly pursued, in part, due to
+the notion that cell-cycle inhibitors will be similar to
+classic cytotoxic agents. However, recent clinical findings
+on the cell-cycle checkpoint inhibitor palbociclib (CDK4/
+6 inhibitor) demonstrate that this type of intervention can
+be well tolerated with profound therapeutic benefit (25).
+CENP-E is a member of the kinesin super family of 650
+motor proteins that use the energy from ATP hydrolysis to
+transport cellular cargos (11, 26). CENP-E has an N-terminal
+catalytic motor domain, a discontinuous a-helical
+coiled-coil stalk domain, and a C-terminal ATP-independent
+microtubule-binding domain (10, 11). Depletion of
+CENP-E leads to mitotic arrest due to the presence of
+unaligned chromosomes (27). We show that CENP-E
+
+accumulates in basal-a breast cancer cells following taxane
+treatment. Previous studies show that CENP-E protein
+turnover occurs after the completion of mitosis (11).
+As taxanes are known to induce a mitotic arrest, lysates
+made from taxane-treated cells should, therefore, show an
+enhanced amount of CENP-E protein. Evidence for the
+therapeutic benefit of inhibiting CENP-E comes from
+previous studies of mice with one CENP-E allele (heterozygous
+for CENP-E), which exhibit decreased incidence of
+tumors induced by carcinogens or from the heterozygous
+deletion of the tumor suppressor p19ARF (28). A recent
+study reports that CENP-E protein has cellular activities
+in addition to its motor function (29). Therefore, eliminating
+or knocking down the expression of an entire CENP-E
+protein provides valuable information but lacks the resolution
+to characterize specific protein functions.
+Unlike other therapeutic targets (e.g., protein kinases),
+there are a limited number of kinesin inhibitors and even
+fewer CENP-E inhibitors available to investigate their
+biologic roles in cancer. UA62784 has been reported to
+be a CENP-E inhibitor (30), yet subsequent mechanistic
+studies show that UA62784 does not exert its cellular
+activity by inhibiting CENP-E but by binding microtubules
+tightly (31). GSK923295 is an allosteric inhibitor of
+CENP-E, which advanced to a phase I clinical trial of
+
+Figure 6. PF-2771 causes a
+chromosomal congression defect.
+MDA-MB-468 cells engineered to
+stably express H2B-GFP were
+subject to live-cell imaging.
+Representative cell images from
+the 15-hour treatment are as
+follows: vehicle 0.1% DMSO
+vehicle at 0-, 30-, and 60-minute
+time points (top); treatment with
+100 nmol/L PF-2771 at 0-, 60-, and
+120-minute time points (bottom).
+
+CENP-E Motor Function in Triple-Negative Breast Cancer
+
+www.aacrjournals.org Mol Cancer Ther; 13(8) August 2014 2111
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+unselected patients with cancer with refractory disease
+(27, 32). Although the therapy was well tolerated, the
+utility of this agent in an unselected patient population
+was modest with a single partial response reported. This
+may be due to either insufficient pharmacodynamic modulation
+of CENP-E or the selection of an incorrect patient
+population. A third CENP-E inhibitor (syntelin) has been
+reported to have moderate potency (IC50, 160 nmol/L),
+but has only been studied in cellular systems (33). As such,
+there is a need for a selective CENP-E inhibitor with a
+well-defined mechanism of action and sufficient pharmaceutical
+properties to define a patient selection hypothesis
+to test in the clinic.
+The inhibitor PF-2771 was developed to investigate the
+role of CENP-E motor function in TNBC. Biochemical
+analysis of PF-2771 is consistent with it being a potent,
+
+selective inhibitor of the CENP-E motor function. A
+detailed evaluation of PF-2771 in basal-a breast cancer
+tumor cells is consistent with specific CENP-E inhibition
+and therefore useful for studying CENP-E motor function
+in tumor models. Because tumor cell line–derived tumor
+models do not fully capture disease biology, in part,
+because they are adapted to grow in two-dimensional
+
+1,600
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+0
+0 5 10 15 20
+
+0 5 10 15 20
+
+25
+
+1,500
+
+1,250
+
+1,000
+
+750
+
+500
+
+250
+
+0
+
+Days of treatment
+
+Days of treatment
+
+Vehicle
+
+Vehicle
+
+PF-2771 100 mg/kg
+
+PF-2771 100 mg/kg every day
+Docetaxel 25 mg/kg/week
+Paclitaxel 20 mg/kg twice weekly
+
+PDX-AA1077 tumor volume (mm3 ± SEM)
+
+HCC1599 tumor volume (mm3 ± SEM)
+
+A
+
+B
+
+Figure 8. A, evaluation of PF-2771 in a patient-derived, basal-a breast
+cancer xenograft model (PDX-AA1077). SCID mice (7 mice per group)
+were treated with 100 mg/kg PF-2771 i.p. every day (*) or vehicle (&) for
+21 days with the data presented as mean  SEM. B, HCC1599 basal-like
+breast cancer tumor model evaluation of PF-2771 (&) efficacy relative
+to vehicle (&), docetaxel (~), and paclitaxel (~). Dosing was as follows:
+25 mg/kg/week docetaxel, 20 mg/kg twice weekly paclitaxel, and
+100 mg/kg every day PF-2771. Data are presented as mean  SE of
+10 mice in each group.
+
+Days of treatment
+
+Time (h)
+
+1,500
+
+1,000
+
+500
+
+0
+0 2 4 6 8 10 12 14 16
+
+Vehicle
+3 mg/kg
+10 mg/kg
+30 mg/kg
+100 mg/kg
+
+10
+
+8
+
+6
+
+4
+
+2
+
+0
+1 4 8 24 32
+
+Vehicle
+PF-2771 3 mg/kg
+PF-2771 10 mg/kg
+PF-2771 30 mg/kg
+PF-2771 100 mg/kg
+
+HCC1806 tumor volume (mm3 ± SEM)
+
+pHH3 fold change
+
+A
+
+B
+
+Figure 7. Pharmacodynamic profile and in vivo antitumor activity of PF2771
+in HCC1806 xenograft model. A, SCID mice were treated with
+vehicle (&), 3 (D), 10 (*), 30 (~) mg/kg of PF-2771 once daily for 14 days.
+SCID mice were treated with 100 mg/kg (&) of PF-2771 with the following
+schedule: once daily or with vehicle for 4 days, 3-day dosing holiday,
+another 4-day dosing cycle. Thirty mg/kg resulted in 27% TGI (P ¼ 0.046)
+and 100 mg/kg caused 62% tumor regression (P ¼ 9.5
+108
+). Data are
+presented as mean  SE of 12 mice in each group. B, SCID mice were
+treated with 3, 10, 30, and 100 mg/kg doses of PF-2771 or with vehicle.
+Tumor and plasma were collected at 1, 4, 8, 24, and 32 hours after dose.
+Phospho-HH3-Ser10 levels were assessed by ELISA assay using tumor
+lysates.
+
+Kung et al.
+
+2112 Mol Cancer Ther; 13(8) August 2014 Molecular Cancer Therapeutics
+
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+(2D) culture, we evaluated PF-2771 in a patient-derived,
+basal-a tumor model. This approach is emerging as a
+superior method to predict clinical efficacy (34). At PF2771
+doses expected to inhibit CENP-E motor function,
+complete tumor regression in the patient-derived model is
+observed, which predicts a likelihood of clinical benefit for
+this segment of breast cancer. In addition, PF-2771 demonstrates
+better efficacy as compared with taxanes in another
+triple-negative, basal-a breast tumor model (HCC1599),
+which we show to be partially insensitive to taxane treatment.
+These findings provide evidence that abrogating
+the SAC by inhibiting CENP-E motor activity may be an
+effective treatment for patients with basal-a TNBC.
+There is significant pressure to accelerate the discovery
+of new cancer therapies by conducting more effective
+clinical trials. Central to this task is determining if
+inhibition of the intended drug target is effective in
+managing disease—does modulation of a therapeutic
+target-specific molecular pharmacodynamic biomarker
+correlate with efficacy? This detailed analysis has been
+lacking for both preclinical and clinical studies of
+CENP-E inhibitors. Previously published findings show
+a lack of efficacy of a different CENP-E inhibitor
+(GSK923295) in the MX-1 breast cancer model (no
+regression observed in animals dosed with either 62.5
+mg/kg or 125 mg/kg; ref. 27). In this study, one does
+not know if an insensitive patient population (tumor
+model) was selected or if the inhibitor failed to inhibit
+CENP-E in the tumor. With the preclinical studies of PF2771,
+both of these variables are well understood. Interestingly,
+GSK932295 is reported to be selectively potent
+toward basal-b tumor cells (AACR poster, April 2009)
+and induces MX-1 cell arrest briefly without subsequent
+apoptosis (AACR-NCI-EORTC poster, October 2007)—
+strikingly different findings than we report for PF-2771.
+Inhibition of CENP-E motor function by PF-2771
+resulted in tumor regression in a HCC1806 basal-like
+breast cancer xenograft tumor model (also HCC70, data
+not shown). Importantly, the tumor regression driven
+by PF-2771 occurs concurrently with cell-cycle arrest as
+evidenced by dose-dependent elevation of phosphoHH3-Ser10
+levels. Detailed PK/PD modeling demonstrated
+that PF-2771–dependent TGI/regression is highly
+correlated with antimitotic properties expected for
+CENP-E inhibition and, thus, suggests the basis of
+efficacy.
+Analysis of PF-2771 antiproliferative cell potency
+revealed a paradox that cell line sensitivity to PF-2771 is
+poorly correlated with CENP-E gene expression. This
+relationship can be expected to be complicated because
+PF-2771 only inhibits the CENP-E motor function and
+spares the motor-independent functions (13). Nonetheless,
+there is a wide range of PF-2771 activities observed
+from potent inhibition of basal-a breast cancer cell to
+insensitivity in premalignant cells. The strong correlation
+observed between PF-2771 cell line sensitivity and CIN is
+interesting and potentially useful. When reevaluating cell
+line sensitivity to PF-2771, the contribution of CIN to the
+
+disease segment may be a critical attribute. For example,
+basal-a breast cancer is known to have high genomic
+instability (35). Although genomic instability is a hallmark
+of human cancer (36), tumor genomes vary considerably
+in the level of instability that they harbor (37) and the
+mechanisms by which they become unstable (35). Importantly,
+patients with highly unstable tumor genomes often
+have poorer prognosis (37–40). The subset of genomic
+instability known as CIN is caused by multiple mechanisms
+such as (i) faulty sister chromatid cohesion, (ii)
+defective centrosome duplication, (iii) telomere dysfunction,
+(iv) overly stable attachments of microtubules to
+chromosomes, and (v) hyperactive or hypoactive SAC
+(22). Recent studies of reduced CENP-E through the loss
+of an allele, CENP-E (þ/), report that tumor cells that do
+not arise from CIN are unaffected by CENP-E–dependent
+chromosomal missegregation (41). Our pharmacologic
+studies coupled with these genetic studies indicate that
+tumor cells with high CIN may have "induced essentiality"
+of CENP-E (related to the genetic concept of syntheticlethal;
+refs. 42, 43). The preferential cytotoxicity of PF-2771
+to tumor cells with high CIN relative could be because
+these cells rely on CENP-E to accommodate the chromosomal
+instability. An alternative hypothesis (not mutually
+exclusive) is that CENP-E supports a tumor’s use of CIN
+as a cellular mechanism to generate tumor genomic diversity,
+a trait that would favor the emergence of drug
+resistance. The clinical utility of induced essentiality has
+been demonstrated with related DNA damage repair
+machinery. Inhibiting the single-strand DNA repair
+enzyme PARP in tumors with mutations in the DNA
+damage tumor-suppressor BRCA1/2 is proving to be
+clinically effective (43). Taken together, these findings
+indicate that basal-a TNBC and other patient populations
+with chromosomal instability (44, 45) may benefit from a
+CENP-E–targeted therapy.
+PF-2771 is useful in evaluating potential safety liabilities
+of inhibiting CENP-E, a concern with inhibiting any
+cell cycle–related enzyme. We find evidence that CENPE
+inhibition could be well tolerated in patients. Normal
+breast cells are not affected by PF-2771, which supports
+the hypothesis that inhibiting CENP-E will be synthetic
+lethal to tumor cells. Multiple in vivo studies show that
+PF-2771 is well tolerated. In a recent phase I clinical
+study on a different CENP-E inhibitor, a well-known
+taxane adverse effect (neuropathy) is not listed among
+the adverse events (27). As such, CENP-E inhibitors
+have the potential to be better tolerated than taxanes
+and possibly easier to use in combination with other
+cancer therapies. Our comprehensive analysis of CENPE
+supports the hypothesis that this mitotic kinesin is a
+therapeutic target for the treatment of the triple-negative/basal-a
+segment of breast cancer with possibilities
+in other CIN-dependent cancers.
+
+Disclosure of Potential Conflicts of Interest
+P. Wells has ownership interest (including patents) in Pfizer Inc. No
+potential conflicts of interest were disclosed by the other authors.
+
+CENP-E Motor Function in Triple-Negative Breast Cancer
+
+www.aacrjournals.org Mol Cancer Ther; 13(8) August 2014 2113
+Downloaded from http://aacrjournals.org/mct/article-pdf/13/8/2104/2329197/2104.pdf by guest on 14 August 2024
+Authors' Contributions
+Conception and design: P.-P. Kung, R. Martinez, Z. Zhu, M. Zager,
+A. Blasina, O. Guicherit, M. Cui, Z. Huang, B.W. Murray
+Development of methodology: R. Martinez, Z. Zhu, A. Blasina, I. Rymer,
+J. Hallin, M. Xu, P. Wells, J. Fan, O. Guicherit, B. Huang, Z. Huang,
+B.W. Murray
+Acquisition of data (provided animals, acquired and managed patients,
+provided facilities, etc.): R. Martinez, I. Rymer, J. Hallin, M. Xu, C. Carroll,
+J. Chionis, P.Wells, K. Kozminski, J. Fan,M. Cui, C. Liu, Z. Huang, A. Sistla,
+B.W. Murray
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics,
+computational analysis): R. Martinez, Z. Zhu, M. Zager, A. Blasina,
+I. Rymer, M. Xu, C. Carroll, P. Wells, K. Kozminski, J. Fan, O. Guicherit,
+M. Cui, C. Liu, Z. Huang, B.W. Murray
+Writing, review, and/or revision of the manuscript: P.-P. Kung,
+R. Martinez, Z. Zhu, M. Zager, J. Hallin, P. Wells, B. Huang, M. Cui,
+J. Yang, B.W. Murray
+Administrative, technical, or material support (i.e., reporting or organizing
+data, constructing databases): A. Blasina, I. Rymer, C. Liu
+
+Study supervision: A. Blasina, O. Guicherit, Z. Huang, J. Yang,
+B.W. Murray
+

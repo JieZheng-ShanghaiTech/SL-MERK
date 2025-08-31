@@ -1,0 +1,783 @@
+Abstract
+DNA damage induced by reactive oxygen species and several chemotherapeutic agents promotes both p53 and poly (ADP-ribose) polymerase (PARP) activation. p53 activation is well known to regulate apoptotic cell death, whereas robust activation of PARP-1 has been shown to promote a necrotic cell death associated with energetic collapse. Here we identify a novel role for p53 in modulating PARP enzymatic activity to regulate necrotic cell death. In mouse embryonic fibroblasts, human colorectal and human breast cancer cell lines, loss of p53 function promotes resistance to necrotic, PARP-mediated cell death. We therefore demonstrate that p53 can regulate both necrotic and apoptotic cell death, mutations or deletions in this tumor-suppressor protein may be selected by cancer cells to provide not only their resistance to apoptosis but also to necrosis, and explain resistance to chemotherapy and radiation even when it kills via non-apoptotic mechanisms.
+Keywords:
+PARP, p53, ROS, apoptosisMutations in the p53 protein (encoded by TP53 in humans) are detected in approximately half of human cancers.
+1
+,
+2
+,
+3
+This tumor-suppressor protein regulates apoptosis, cell cycle and metabolism. Numerous signaling pathways converge in p53 after cellular insults, including DNA damage, oncogene activation or hypoxia. For instance, after DNA injury, p53 is activated promoting cell cycle arrest, transactivation of repairing enzymes and, if the damage cannot be repaired, apoptosis.
+4
+Under these conditions, p53 is posttranscriptionally modified, assisting in the expression of several proteins including p21, GADD45/PCNA or pro-apoptotic genes like
+BAX
+,
+PUMA
+,
+NOXA
+,
+BID
+and
+APAF-1
+.
+5
+Moreover, a directly pro-apoptotic cytosolic function has been described, directly binding to anti-apoptotic proteins (BCL-2 and BCL-XL) and directly activating BAX and BAK to induce mitochondrial outer membrane permeabilization (MOMP) and apoptosis in a transcriptional-independent manner.
+6
+Because of its broad effects in the cell, loss of p53 activity confers growth advantage and ensures survival in cancer cells by inhibiting the apoptotic response necessary for tumor suppression.
+7
+,
+8
+,
+9
+Following DNA damage, poly(ADP-ribose)polymerase-1 (PARP-1), the founding member of the PARP superfamily of proteins, is activated by DNA nicks and rapidly uses nicotinamide adenine dinucleotide (NAD) to polymerize adenosine diphosphate (ADP)-ribose and covalently modify target proteins to orchestrate DNA repair. These include chromatin structure regulators and DNA modulators like histones, HMG proteins, topoisomerases I and II, DNA helicases, single-strand break repair and base-excision repair enzymes, and different transcription factors.
+10
+,
+11
+Briefly, PARP activation promotes chromatin relaxation and the recruitment of base-excision repair proteins, including XRCC1, DNA ligase III and DNA polimerase
+β,
+that will ensure the DNA repair. For instance, several studies using either PARP inhibitors or PARP knockout (KO) mice demonstrate the important role of this protein in maintaining DNA integrity,
+12
+and several benzamide-derived PARP inhibitors are being tested to treat cancer patients.
+13
+,
+14
+One of the targets of PARP-1 is p53,
+15
+,
+16
+,
+17
+,
+18
+promoting its poly(ADP-ribosyl)ation and accumulation in the nucleus, to control its transcriptional activity. However, hyperactivation of PARP-1 after severe DNA damage can cause NAD and ATP depletion leading to a unique form of necrotic cell death named
+parthanatos
+.
+19
+,
+20
+In this process, apoptosis-inducing factor translocates from the mitochondrial intermembrane space to the nucleus, triggering chromatin condensation and DNA fragmentation.
+21
+,
+22
+This regulation is still not completely understood, but the activation of the poly(ADP-ribose) glycohydrolase (PARG) enzyme, with both exo- and endoglycosidase activities to release ADP-ribose monomers and polymers (poly(ADP-ribose) seems to have an important role as secondary messenger in
+parthanatos
+cell death.
+19
+,
+23
+Inhibition of PARP-1 activity using PARP inhibitors or in KO models confers resistance to necrosis induced by DNA-damaging agents.
+24
+Reactive oxygen species (ROS) induce DNA damage causing cleavage of DNA strands, DNA–protein cross-linking and oxidation of purines, leading to DNA-damage response and the activation of PARP-1.
+25
+Depending on the impact, can either repair the damage or activate cell death pathways.
+26
+In PARP-mediated cell death, NAD is rapidly depleted and, because this cofactor is necessary for different metabolic processes like glycolysis or the Krebs cycle, leads to ATP loss and a necrotic cell death. Upon p53 activation, the apoptotic process can be induced, leading to MOMP, caspase activation, apoptosome formation and programmed cell death. We show that apoptosis blockade is insufficient to maintain cell survival following ROS stress, but loss of p53 does maintain survival. To our knowledge, this is the first observation that p53 regulates PARP-mediated cell death.Results
+p53 loss protects against cell death induced by DNA damage
+Hydrogen peroxide (H
+2
+O
+2
+) is a ROS that has been extensively used to induce DNA damage because it can easily diffuse in all cell compartments. To assess how ROS induces cell death, we used different genotypes of mouse embryonic fibroblast (MEF) cells: WT MEF, Bax Bak double KO (DKO) MEF and p53 KO MEF. DKO MEF cannot undergo MOMP and caspase-mediated intrinsic apoptosis, thus were employed to interrogate non-apoptotic cell death.
+27
+,
+28
+In order to determine the extent of DNA damage induced by H
+2
+O
+2
+treatment (1 mM), we analyzed by confocal microscopy staining for histone H
+2
+AX phosphorylation, which occurs in the chromatin microenvironment surrounding a DNA double-strand break. As shown, short-term exposure to H
+2
+O
+2
+rapidly induced DNA damage and appearance of phosphorylated H
+2
+AX foci in all three cell lines with similar extent (
+Figure 1a
+). However, using the same concentration of H
+2
+O
+2
+for 24 h, we observed that WT and DKO cells were completely killed by this treatment, as assessed by Annexin V/ propidium iodide (PI) fluorescence-activated cell sorting (FACS) analysis (
+Figure 1b and c
+), indicating a MOMP-independent cell death induction. However, around 50% of the p53 KO cells survived (
+Figure 1b and c
+), pointing to a non-apoptotic, p53-regulated cell death. Similar results were observed in WT and p53 KO primary fibroblasts (
+Supplementary Figure 1
+). When cells were treated with lower doses of H
+2
+O
+2
+(0.5 and 0.75 mM) for 24 h, we did not observe significant cell death in DKO nor p53 KO, suggesting that a different type of cell death, like apoptosis, is occurring in WT under these conditions (
+Supplementary Figure 2A
+).
+Open in a separate window
+Figure 1
+p53 KO MEF cells, but not WT or Bax Bak DKO, survive to DNA damage induced by H
+2
+O
+2
+. (
+a
+) To assess DNA damage extent, cells were exposed to 1 mM H
+2
+O
+2
+for 30 min and immunostained using anti-phospho Histone H
+2
+AX antibody (red). Nuclei were stained using DAPI (blue) and observed under a confocal microscope. Similar DNA damage extent was observed after treatment in all three cell lines. (
+b
+) WT MEF, Bax Bak DKO and p53 KO were treated for 24 h with 1 mM H
+2
+O
+2
+. Cells were stained with fluorescent conjugates of annexin-V and propidium iodide (PI) and analyzed by FACS. Viable cells are annexin-V negative and PI negative, and cell death is expressed as 100%-viable cells. Values indicate mean values±S.E.M. All experiments were performed independently at least three times (
+N
+≥3). **
+P
+<0.01 (compared with WT MEF H
+2
+O
+2
+-treated). (
+c
+) Cell death is expressed as 100% - viable cells. Representative FACS plots are shown
+Under the microscope, WT and DKO cells showed morphological changes becoming round shaped and detached from the plate, whereas the p53 KO cells conserved their morphology, although their proliferation decreased (
+Figure 2a
+). Moreover, p53 KO cells, but not the other MEFs, were able to form colonies after H
+2
+O
+2
+exposure meaning that viable cells survived to this treatment (
+Figure 2b
+).
+Open in a separate window
+Figure 2
+After DNA damage, p53 KO cells survive conserving their clonogenic capacities. (
+a
+) Images under an optical microscope were obtained before and after 1 mM H
+2
+O
+2
+treatment for 24 h. WT MEF and DKO showed necrotic characteristics, whereas p53 KO conserved their morphology. (
+b
+) Colony formation assay. Cells were treated for 4 h with 1 mM H
+2
+O
+2
+counted and 200 cell/well were plated. After 18 days, cells were fixed and stained with a crystal violet solution. Only p53 KO cells were able to form colonies after treatment. All experiments were performed three times (
+N
+=3)
+H
+2
+O
+2
+-induced DNA damage kills through PARP-mediated necrotic cell death
+We wanted to determine whether PARP-1 was implicated in H
+2
+O
+2
+-induced cell death. When there is an extensive DNA damage, PARP-1 starts polymerizing ADP-ribose, consuming NAD and leading to a non-apoptotic cell death form known as
+parthanatos
+. This type of cell death shows NAD depletion that also leads to an ATP drop and the energetic collapse of the cell. PARP-1 KO mice are protected against transient cerebral ischemia reperfusion, and PARP-1 KO MEFs are protected against H
+2
+O
+2
+-induced cell death and DNA alkylating agents.
+21
+,
+22
+,
+29
+When WT, DKO and p53 KO cells were treated with H
+2
+O
+2
+(1 mM) for 8 h, we observed that the first two showed extensive cell death, whereas p53 KO cells were protected against this treatment (
+Figure 3a
+). A time course was performed following cell death response in the first 6 h after H
+2
+O
+2
+treatment, showing a gradual increase in WT and DKO cells and a significant protection in the p53 KO cells (
+Supplementary Figure 2B
+). We observed a rapid induction of necrosis as assessed by PI incorporation
+30
+(
+Supplementary Figure 2C
+) in all three cell lines, correlating with the observed cell death.
+Open in a separate window
+Figure 3
+H
+2
+O
+2
+induces PARP-mediated cell death, with NAD loss and ATP collapse in WT MEF and DKO, but not in p53 KO cells. (
+a
+) WT MEF, DKO and p53 KO cells were treated for 8 h with 1 mM H
+2
+O
+2
+, with or without PARP inhibitor 2
+μ
+M 4-amino-1,8-naphthalimide (4-ANI) 16 h preincubation. Cells were stained with fluorescent conjugates of annexin-V and propidium iodide (PI) and analyzed by FACS. (
+b
+) NAD was measured using a fluorimetric assay. All three cell lines were treated for 1 or 4 h with 1 mM H
+2
+O
+2
+. Results are normalized to basal NAD levels. (
+c
+) ATP was measured after the same treatment at different time points (0, 5, 15, 30, 60, 120, 240 and 480 min), with or without 2
+μ
+M 4-ANI preincubation, using CellTiter-Glo Luminescent Cell Viability Assay. All values are expressed as percentage to basal ATP levels. Values indicate mean values±S.E.M. *
+P
+<0.05, **
+P
+<0.01 (compared with H
+2
+O
+2
+treated). All experiments were performed independently at least three times (
+N
+≥3)
+In order to better understand this cell death mechanism, we used two inhibitors: the pan-caspase inhibitor qVD-OPH, which would rescue from an apoptotic cell death, and necrostatin-1, which would inhibit necroptosis. Neither of them were sufficient to rescue these cells from H
+2
+O
+2
+-induced cell death (
+Supplementary Figure 3
+). Interestingly, when all three cell lines were preincubated with the PARP inhibitor 4-amino-1,8-naphthalimide (4-ANI), they were protected from H
+2
+O
+2
+-induced death (
+Figure 3a
+) at 8 h, indicating that this process is PARP dependent.
+Prior studies have demonstrated that NAD depletion can accompany non-apoptotic, PARP-dependent cell death.
+20
+As expected, all three cell lines demonstrated a rapid decline in NAD concentration in the first hour after treatment, but p53 KO cells were able to recover, ensuring their survival (
+Figure 3b
+). When we analyzed ATP levels, we observed a rapid decay in WT and DKO cells, which could be prevented by the 4-ANI preincubation. In contrast, the p53 KO cells showed just a partial drop of ATP, and were able to recover and restore their initial levels, with or without PARP inhibitor preincubation (
+Figure 3c
+). These observations correlate with a PARP-dependent cell death that promotes the energy collapse of the cell.
+19
+,
+20
+Intriguingly, we find that loss of p53 protects against the NAD and ATP depletion associated with this cell death.
+When PARP-dependent necrosis is inhibited, apoptosis is observed
+Because both necrosis and apoptosis coexist in the cell after DNA damage, we wanted to assess whether there was any implication of the latter in H
+2
+O
+2
+-induced cell death. As commented previously, at 8 h WT MEF, DKO and, in less extent, p53 KO cells treated with H
+2
+O
+2
+in the presence of the PARP inhibitor showed protection (
+Figure 3a
+). At shorter time points, we observed protection against necrosis in the presence of 4-ANI as assessed by PI incorporation
+30
+(
+Supplementary Figure 2C
+) in all three cell lines, correlating with the observed cell death protection (
+Supplementary Figure 2B
+). But by 24 h cell death could be observed in WT MEF under the same conditions, suggesting that the apoptotic process was engaged (
+Figure 4a
+). Treatment with H
+2
+O
+2
+as a single agent showed no caspase activity in WT, but when preincubated with 4-ANI, caspase activation was observed in the first 8 h, reaching a plateau at 24 h (
+Figure 4b
+). Thus, when WT are treated with 4-ANI, there is apoptotic activation, a process that is ATP dependent.
+31
+In DKO cells, no increase in caspase activity was detected in any of these treatments as they cannot undergo MOMP to permit the apoptosome formation. In p53 KO cells, H
+2
+O
+2
+induced caspase activation, although less in extent compared with WT, and PARP inhibition slightly increased this observed activity (
+Figure 4b
+). Thus, we pretreated with 4-ANI and the pancaspase inhibitor qVD-OPH before a 24-h H
+2
+O
+2
+treatment, and observed that this combination was protecting WT against ROS-induced cell death (
+Figure 4a
+). For instance, p53 KO cells were already protected against H
+2
+O
+2
+and the preincubation with either 4-ANI alone or especially in combination with qVD-OPH slightly improved the observed survival (
+Figure 4a
+). Similar results were observed in WT and p53 KO primary fibroblasts (
+Supplementary Figure 1
+). In order to confirm these results, we performed a western blot to detect caspase-3 cleavage that would indicate the ongoing apoptotic process. We observed that WT treated with H
+2
+O
+2
+and 4-ANI showed caspase-3 cleavage and in a lower degree in p53 KO cells (
+Figure 4c
+), correlating with the previous results. As expected, caspase-3 cleavage was not detected in DKO cells. As p53 KO cells are partially protected against the rapid H
+2
+O
+2
+activation of PARP-mediated necrosis, we believe that some of the cells that overcome NAD and ATP depletion undergo apoptosis because of the cellular damage. Therefore, by inhibiting PARP-1 in p53 KO cells, we increase the percentage of necrosis-surviving cells, increasing the number of apoptotic cells. However, because p53 is a key regulator of apoptosis after DNA damage,
+5
+these cells also revealed a better survival to this process, as assessed by Bcl-2 homology domain 3 (BH3) profiling. Briefly, BH3 profiling, can measure a cell's proximity to the threshold of the mitochondrial pathway of apoptosis, measuring mitochondrial dysfunction in response to a panel of peptides derived from the BH3 domains of pro-apoptotic BH3-only proteins, defining how ‘primed' a cell is for death.
+32
+,
+33
+,
+34
+When we analyzed these cell lines, we observed that WT were more primed for apoptosis compared to p53 KO; DKO cannot undergo MOMP, consequently no response to Bim peptide was seen (
+Figure 4d
+).
+Open in a separate window
+Figure 4
+PARP inhibition induces time-delayed apoptosis in H
+2
+O
+2
+-treated cells. (
+a
+) MEFs were treated for 24 h with 1 mM H
+2
+O
+2
+, with or without a 16 h preincubation with PARP inhibitor 2
+μ
+M 4-ANI and/or the pan-caspase inhibitor 10
+μ
+M qVD-OPH. Cells were stained with fluorescent conjugates of annexin-V and propidium iodide (PI) and analyzed by FACS. **
+P
+<0.01 (compared to WT H
+2
+O
+2
++4-ANI treated). (
+b
+) Caspase activation was measured after 1 mM H
+2
+O
+2
+treatment, with or without a 2
+μ
+M 4-ANI, 16 h preincubation, at different time points (0, 15, 30, 60, 120, 240, 480 and 1440 min) using Caspase-Glo 3/7 Assay. All values are expressed as percentage to basal caspase 3/7 activity. (
+c
+) Caspase-3 activation by cleavage was detected by western blot in all three cell lines treated for 8 h with H
+2
+O
+2
+with or without 4-ANI preincubation. Actin was used as loading control. (
+d
+) Apoptotic sensitivity measured by BH3 profiling using low concentrations of Bim peptide. WT MEF are more primed, showed more sensitivity, compared to p53 KO for apoptosis. DKO showed no priming, are resistant to apoptotic cell death. *
+P
+<0.05 (compared with WT MEF). Values indicate mean values±S.E.M. All experiments were performed independently at least three times (
+N
+≥3)
+To validate these results observed with caspase activation, we checked if we could detect a subG1 population, resulting from apoptotic DNA fragmentation, performing a cell cycle analysis. Correlating with the observed caspase activation, we detected subG1 cells in WT treated with 4-ANI in combination with H
+2
+O
+2
+, but not with H
+2
+O
+2
+alone. DKO cells did not show any apoptotic feature with any of the treatments, indicating that apoptotic trigger in this context needs MOMP, cytochrome c release, the apoptosome formation and caspase activation (
+Supplementary Figure 4A
+). However, p53 KO cell analysis indicated that H
+2
+O
+2
+alone induced a small subG1 population, and when pretreated with 4-ANI the percentage of apoptotic cells increased, but in any case with the same extent as observed in WT, correlating with survival and caspase activation (
+Figures 1b
+and
+​
+and3a).
+3a
+). Treatment with the PARP inhibitor efficiently protected DKO cells against H
+2
+O
+2
+-induced cell death, but was not sufficient to rescue WT as they were undergoing apoptosis. When exposed to different chemotherapy agents, p53 KO showed protection against paclitaxel and etoposide (
+Supplementary Figures 4B and C
+). Correlating with the BH3 profiling data, DKO were resistant to all these treatments, as they cannot undergo instrinsic apoptosis (
+Supplementary Figures 4B and C
+). Thus, p53 loss protects against apoptosis, as had been previously reported by several groups.
+35
+,
+36
+These results demonstrate that both PARP-mediated cell death and apoptosis are two different processes that occur after DNA damage, in different timeframes. When necrosis is inhibited, the apoptotic response is triggered, but as p53 also regulates the apoptotic cell death after DNA damage, transactivating several proapoptotic genes and downregulating other antiapoptotic BCL-2 family members,
+5
+,
+35
+,
+36
+p53 loss inhibits apoptotic cell death.
+p53 loss protects against PARP-mediated cell death by decreasing PARP activity
+In order to better understand how p53 protects not only against apoptosis but also, especially, to PARP-mediated necrosis, we used a p53 knockdown (KD) approach. We tested several short hairpin RNA (shRNA) constructs
+37
+to efficiently KD this protein (
+Table 1
+). p53 KD was successfully achieved using several constructs; and the shRNA4 construct was the most effective in knocking down p53, so it was selected to continue this study (
+Supplementary Figure 5A
+).
+Table 1
+Gene
+Clone name
+1
+Trp53
+{"type":"entrez-nucleotide","attrs":{"text":"NM_011640","term_id":"187960038","term_text":"NM_011640"}}
+NM_011640
+.1-1908s1c1
+2
+Trp53
+{"type":"entrez-nucleotide","attrs":{"text":"NM_011640","term_id":"187960038","term_text":"NM_011640"}}
+NM_011640
+.1-1271s1c1
+3
+Trp53
+{"type":"entrez-nucleotide","attrs":{"text":"NM_011640","term_id":"187960038","term_text":"NM_011640"}}
+NM_011640
+.1-1649s1c1
+4
+Trp53
+{"type":"entrez-nucleotide","attrs":{"text":"NM_011640","term_id":"187960038","term_text":"NM_011640"}}
+NM_011640
+.1-1223s1c1
+5
+Trp53
+{"type":"entrez-nucleotide","attrs":{"text":"NM_011640","term_id":"187960038","term_text":"NM_011640"}}
+NM_011640
+.1-1013s1c1
+Open in a separate window
+In order to answer how p53 loss protects against DNA damage-induced cell death, we performed several experiments to analyze the PARP-1 protein. Its expression was first analyzed by immunoblotting and we observed that the shRNA against p53 effectively decreased its levels without decreasing PARP-1 expression (
+Figure 5a
+). Then we analyzed PARP activity and we saw that p53 KD and KO showed decreased enzymatic activity (
+Figure 5b
+). Furthermore, when we checked protein poly(ADP-ribosyl)ation (PARylation), we observed that similarly to PARP activity, p53 KD cells showed less PARylation compared with WT MEF cells, and that could be prevented by preincubating with the PARP inhibitor 4-ANI (
+Figure 5c
+). Consequently, p53 KD cells were protected against H
+2
+O
+2
+(1 mM) induced cell death (
+Supplementary Figure 5B
+). In a similar manner, p53 KO had decreased PARylation when exposed to ROS treatment (
+Figure 5c
+) correlating with the observed resistance, but when PARP-1 was overexpressed in p53 KO cells (
+Supplementary Figure 6C
+), H
+2
+O
+2
+sensitivity was restored (
+Figure 5d
+).
+Open in a separate window
+Figure 5
+p53 loss impairs PARP activity and protects against PARP-mediated cell death. (
+a
+) Western blotting analysis of PARP-1 and p53 was performed in WT MEF, MEF shRNA p53 knockdown (KD) and p53 KO cells. Actin was used as loading control. (
+b
+) PARP activity was analyzed in all three cell lines using a colorimetric PARP ELISA assay kit with Histones-coated strip wells. Results are normalized to basal WT MEF PARP activity. **
+P
+<0.01. (
+c
+) Cells were treated for 1 h with 1 mM H
+2
+O
+2
+, with or without 4-ANI preincubation, and lysates (in the presence of PARG inhibitor ADP-HPD) were obtained and analyzed by western blot, immunostaining against protein-bound poly(ADP-ribose). Actin was used as loading control. p53 KD and KO showed a decreased PARP activity and protein PARylation, protecting against PARP-mediated cell death. (
+d
+) WT MEF and p53 KO, transfected with an empty or a PARP-1 overexpressing vector, were treated for 24 h with 1 mM H
+2
+O
+2
+. PARP-1 overexpression restored p53 sensitivity to H
+2
+O
+2.
+Cells were stained with fluorescent conjugates of annexin-V and propidium iodide (PI) and analyzed by FACS. Values indicate mean values±S.E.M. Densitometry analysis represent average±S.E.M. from at least three different western blots; KD and KO results were normalized to WT MEF. *
+P
+<0.05, **
+P
+<0.01. All experiments were performed independently at least three times (
+N
+≥3)
+In summary, p53 loss partially protects against DNA damaging agents and non-apoptotic cell death by impairing PARP activity. Thus, p53 loss protects against both PARP-mediated necrotic cell death and apoptosis, ensuring cell survival in MEFs.
+p53 loss protects against PARP-mediated cell death in other cellular models
+We next wanted to determine whether loss of p53 had similar effects in other cell types. For this purpose, we used a human carcinoma cell line, HCT116, and a human breast cancer, MCF7, both expressing wild-type p53. When we compared HCT116 WT and HCT116 p53 KO, we observed that loss of p53 (
+Supplementary Figure 6A
+) impairs PARP activity and protein PARylation (
+Figure 6a
+), protecting against H
+2
+O
+2
+-induced cell death (
+Figure 6b
+), as observed previously with MEFs. With MCF7 we used another approach, inactivating p53 function using a dominant negative (DD) form of p53. Briefly, we infected the cells with a retrovirus containing a plasmid that encodes for a 89 residues short form of wt mouse p53 that dimerizes with the WT p53 present in MCF7, impairing its function.
+38
+To check p53 DD transduction efficiency, we treated parental MCF7 and MCF7 DD with the DNA intercalating drug daunorubicin, which activates p53-inducing cell cycle arrest, through p21. After 24 h of daunorubicin treatment, MCF7 overexpressed p53 and p21, whereas in MCF7 DD, although p53 was expressed at similar levels as seen in WT MCF7, p21 expression was reduced indicating that p53 function is inhibited (
+Supplementary Figure 6B
+). MCF7 DD also showed a reduction in PARylation (
+Figure 6c
+), in a similar manner as seen in MEF p53 KD. Furthermore, MCF7 were sensitive to H
+2
+O
+2
+(1 mM), but could be prevented by preincubating with the PARP inhibitor, 4-ANI; and the functional inactivation of p53 in MCF7 DD showed a similar protection as the one observed in MEF p53 KD (
+Figure 6d
+).
+Open in a separate window
+Figure 6
+p53 loss protects against PARP-mediated cell death in human colon carcinoma cells. (
+a
+) HCT 116 WT and p53 KO cells, and (
+b
+) WT MCF7 or p53 dominant-negative (DD) cells were treated for 1 h with 1 mM H
+2
+O
+2
+, with or without 4-ANI preincubation, and lysates (in the presence of PARG inhibitor ADP-HPD) were obtained and analyzed by western blot to detect protein-bound poly(ADP-ribose). Actin was used as loading control. (
+b
+and
+d
+) Cell death was analyzed at 24 h under the same treatments. Cells were stained with fluorescent conjugates of annexin-V and propidium iodide (PI) and analyzed by FACS. HCT116 p53 KO and MCF7 DD cells showed less PARylation compared with their respective WT, and were protected against H
+2
+O
+2
+-induced cell death. (
+a
+) and (
+c
+) belong to the same blot and immunodetection. Error bars indicate mean values±S.E.M. *
+P
+<0.05, **
+P
+<0.01 (compared with control cells for each cellular type). Densitometry analysis represent average±S.E.M. from at least three different western blots; results were normalized to untreated cells (ctrl) for each cellular type. All experiments were performed independently at least three times (
+N
+≥3)
+Our observations suggest that also in human carcinoma and breast cancer cells, loss of p53, or its functionality, impairs PARP activity protecting against H
+2
+O
+2
+-induced cell death.Discussion
+An important finding of this paper is that p53 can also control non-apoptotic cell death. p53 has, of course, long been understood to participate in control of apoptosis by the mitochondrial pathway.
+8
+Several studies support p53 to perform this function by transcriptional upregulation of pro-apoptotic BCL-2 family proteins like PUMA, NOXA and BAX.
+5
+,
+39
+In addition, some have posited that p53 can directly interact with BCL-2 family proteins at the mitochondria to induce apoptosis in a manner that is independent of transcription.
+6
+Both of these mechanisms of programmed cell death are dependent on BAX and BAK, like all deaths that occur via the mitochondrial apoptotic pathway. In contrast, we find that loss of BAX and BAK does not prevent death by ROS, whereas loss of p53 does, implying that p53 regulates a death that is independent of BAX and BAK, and hence, independent of apoptosis. This does not rule out, of course, the participation of p53 in apoptotic cell death induced by other agents.
+A key feature of the death induced by ROS is the extremely rapid loss of ATP and NAD. This energy loss is prevented by inhibition of PARP-1, demonstrating that the energy loss and death are PARP dependent.
+20
+,
+21
+The combination of the p53 dependence and PARP dependence of this necrotic cell death led us to ask whether PARP activity depended on p53. Indeed, we found that PARP activity at baseline and after ROS stimulation was reduced in the absence of p53. Although it was previously understood that p53 could control an apoptotic death, and PARP a necrotic death following ROS and DNA damage, this is the demonstration that there is cross-regulation of the two pathways, with p53 controlling the PARP-dependent necrotic death (
+Figure 7
+). In our studies, when there is a DNA damage like the one induced by ROS (including H
+2
+O
+2
+), PARP-1 is rapidly activated promoting NAD and ATP depletion leading to a necrotic cell death. PARP activity is indirectly activated by p53. If this PARP-mediated necrosis is inhibited, and the DNA damage cannot be repaired, p53 induces caspase-mediated apoptosis. One consequence is that in the absence or loss of function of p53, there is a double protection against PARP-mediated necrosis as well as apoptosis.
+Open in a separate window
+Figure 7
+PARP-1 and p53 regulate each other activity. One of the many targets of PARP-1 is p53, covalently modifying the latter through poly(ADP-ribosyl)ation. On the other hand, p53 also regulates PARP-1 by modulating its activity. PARP-1 controls necrosis and p53 apoptosis after DNA damage, thus both types of cell death are well regulated
+The mechanism by which p53 regulates PARP activity it is not well understood, but we detected an increase in the expression of SIRT1 in p53 KD and p53 KO (data not shown), that has been implicated in the modulation of PARP-1 activity by acetylation,
+40
+but further experiments are required to demonstrate this regulation. It has also been described that p53 modulates necrosis through cathepsin Q regulation.
+36
+However, this work used DNA damaging agents instead of ROS to induce cell death. Furthermore, commitment to death apparently occurred over days, as opposed to the 15 min at which we observed catastrophic energetic collapse in these experiments. Another recent study, explores the role of p53 promoting Permeability Transition Pore (PTP) by its interaction with cyclophilin D.
+29
+Most of the experiments described in that work use lower concentrations of H
+2
+O
+2
+that have a distinct effect on the cell death mechanism (as shown in
+Supplementary Figure 2
+), as previously described for Bax Bak DKO.
+36
+As shown in
+Supplementary Figure 7
+, Cyp D KO cells showed a modest protection compared with p53 KO cells when treated with H
+2
+O
+2
+1 mM. Moreover, when preincubated with cyclosporin A, we did not observe a significant protection in WT MEF and DKO (data not shown). Therefore, it seems likely that we are studying a mechanism of cell death quite distinct from the ones described in those reports.
+To our knowledge, p53 regulation of PARP activity and PARP-dependent necrotic cell death has not been described before. In our opinion, this provides an additional reason why p53 mutations are selected by cancer cells, as they not only would protect tumor cells against apoptosis but also to PARP-mediated cell death, contributing to DNA-damaging therapies resistance, as observed in chemotherapy or radiation therapy
+35
+,
+39
+,
+41
+There is considerable interest in combining DNA-damaging agents with PARP inhibitors for treatment of cancer. Our results suggest that some caution should be taken into consideration when using this combination in contexts where DNA damage induces death mainly by necrosis. In this situation, inhibition of PARP may actually inhibit cell death induced by the DNA-damaging agent. Cells that are particularly resistant to apoptosis may fall into this category. We would suggest that clinical results where PARP inhibitors under-perform expectations may in part be explained by this mechanism.Materials and Methods
+Cell lines and treatments
+The media used was supplemented with 10% heat-inactivated fetal bovine serum (Gibco, Carlsbad, CA, USA), 10 mM
+L
+-glutamine, 100 U/ml penicillin and 100
+μ
+g/ml streptomycin. DMEM was used for SV40 immortalized MEFs (MEF, Bax Bak DKO and p53 KO, or Cyp D KO); RPMI 1640 was used for the culture of the following breast cancer cell lines (MCF-7, MCF7 DD), and McCoy's media for human colorectal cancer cells (HCT116 WT, HCT116 p53 KO). Primary fibroblasts were cultured in IMDM supplemented with 20% heat-inactivated fetal bovine serum (Gibco), 10 mM
+L
+-glutamine, 100 U/ml penicillin, 100
+μ
+g/ml streptomycin and 10 mM of non-essential amino acids. The cells were cultured at 37 °C in a humidified atmosphere of 5% CO
+2
+.
+The shRNA to perform Trp53 KD in WT MEF were obtained from William Hahn laboratory. Five different constructs were used and the most effective knocking down Trp53 was selected: 5′-CCGGCCACTACAAGTACATGTGTAACTCGAGTTACACATGTACTTGTAGTGGTTTTT-3′. The lentiviral production and infection were performed as previously described.
+37
+Selection of positive p53 KD cells was assessed with puromycin (Sigma, St. Louis, MO, USA).
+To transduce the MCF7 cell line with the 89 residues miniprotein p53 DD encoding plasmid we used a retroviral vector as previously described,
+38
+kindly offered by Dr. DeCaprio laboratory. Selection was performed using G418 (Cellgro, Manassas, VA, USA, 0.2–0.8 mg/ml).
+Full-length PARP-1 overexpression in WT and p53 KO MEF cells was performed as previously described.
+42
+Selection of positive PARP-overexpressing cells was assessed with puromycin (Sigma).
+Ψ
+m
+BH3 profile using whole cells (WC-JC-1)
+A total of 2 × 10
+4
+cells/well of adherent MEF cells were used; and 15
+μ
+l of 0.3 or 1
+μ
+M peptides in T-EB (300 mM Trehalose, 10 mM HEPES-KOH pH 7.7, 80 mM KCl, 1 mM ethyleneglycoltetraacetic acid, 1 mM EDTA, 0.1% bovine serum albumin, 5 mM succinate) were deposited per well in a black 384-well plate (BD Biosciences, San Jose, CA, USA, #3573). Single-cell suspensions were washed in T-EB before being resuspended at 4 × their final density. One volume of the 4x cell suspension was added to one volume of a 4x dye solution containing 4
+μ
+M JC-1, 40
+μ
+g/ml oligomycin, 0.02% digitonin, 20 mM 2-mercaptoethanol in T-EB. This 2x cell/dye solution stood at RT for 5–10 min to allow permeabilization and dye equilibration. A total of 15
+μ
+l of the 2x cell/dye mix was then added to each treatment well of the plate, shaken for 15 s inside the reader, and the fluorescence at 590 nm monitored every 5 min at RT. Percentage loss of
+Ψ
+m
+for the peptides is calculated by normalization to the solvent-only control dimethyl sulfoxide (0%) and the positive control trifluorocarbonylcyanide phenylhydrazone (100%).
+32
+Cell viability assays
+MEFs, breast cancer and human carcinoma cell lines, when they reached 50–70% confluency, were treated with H
+2
+O
+2
+(1 mM or the indicated concentration) for 8 and 24 h, or otherwise indicated. When specified, a pretreatment for 16 h with the PARP inhibitor 2
+μ
+M 4-ANI and/or the 10
+μ
+M pan-caspase inhibitor qVD-OPH (Mp Biomedicals, Santa Ana, CA, USA, # OPH109) or 10
+μ
+M Necrostatin-1 (Enzo Life Sciences, Ann Arbor, MI, USA, BML-AP309) was perfomed. Cells were also treated with other chemotherapy agents: etoposide (100
+μ
+M), staurosporine (1
+μ
+M) and paclitaxel (1
+μ
+M). Cells were stained with fluorescent conjugates of annexin-V and/or PI (1
+μ
+g/ml final concentration) and analyzed on a FACSCanto machine (BD, Franklin Lakes, NJ, USA). Annexin V was prepared are previously described.
+43
+Viable cells are annexin-V negative and PI negative, and cell death is expressed as 100% - viable cells.
+Immunoblotting
+Total cell lysates were prepared in 1% 3-[(3-cholamidopropyl)dimethylammonio]-1-propanesulfonate (CHAPS) buffer (5 mM MgCl
+2
+, 137 mM NaCl, 1 mM EDTA, 1 mM ethyleneglycoltetraacetic acid, 1% CHAPS, 20 mM Tris-HCl (pH 7.5) and protease inhibitors (Complete, Roche, MAnnkin, Germany, EU)). Cells were washed twice, resuspended with 50–100
+μ
+l of CHAPS lysis buffer, and kept on ice for 30 min. Then, the cellular suspension was centrifuged at 16 100 ×
+g
+for 5 min, and the supernatant used to perform the immunoblotting analysis. For poly(ADP-ribose) detection, PARG inhibitor 0.5
+μ
+M ADP-HPD (EMD Biosciences, Billerica, MA, USA, #118415) was used in the CHAPS lysis buffer to avoid poly(ADP-ribose) degradation.
+Twenty microgram of protein was loaded on NuPAGE 10% Bis-Tris polyacrylamide gels (Invitrogen, Grand Island, NY, USA). The following antibodies were used to detect proteins on the membrane (dilution 1 : 1000): actin (Chemicon, Billerica, MA, USA, MAB1501); cleaved caspase 3 (Cell Signaling #9661, Danvers, MA, USA, ); PARP-1 (Cell Signaling, #9542); p53 (for MEFs, Calbiochem, PAb421); p53 (for HCT116/MCF7, Santa Cruz Biotechnology, Dallas, TX, USA, sc-126); anti-poly(ADP-ribose) (Trevigen, Gaithersburg, MD, USA, 4336-BPC-100); and p21 (Santa Cruz Biotechnology, sc-397).
+Immunocytochemistry and laser confocal imaging
+Cells were fixed for 10 min with 3.7% paraformaldehyde in 0.1 mol/l phosphate buffer before permeabilization with 0.1% saponin in 0.5% bovine serum albumin/phosphate-buffered saline (PBS) buffer for 5 min. Cells were incubated for 1 h with mouse monoclonal antibody anti-phospho Histone H
+2
+AX (ser 139; 1 : 200; Millipore, Billerica, MA, USA, 05-636), rinsed with PBS, and incubated for 45 min with the secondary antibody. Images were obtained by confocal microscopy. Confocal images were collected using a Leica SP5X Laser Scanning Confocal Microscope (Leica, Buffalo Grove, IL, USA) equipped with a 63 × Plan Apo oil immersion objective and a confocal pinhole set at 1 Airy unit. All the confocal images shown were single optical sections.
+ATP and caspase activity
+In a 96-well plate, 15 000 cells/well were plated and pretreated when indicated for 16 h with the PARP inhibitor 4-ANI 2
+μ
+M. Measurement of ATP and caspase 3/7 activity were performed using CellTiter-Glo Luminescent Cell Viability Assay (Promega, Madison, WI, USA, #G7573) and Caspase-Glo 3/7 Assay (Promega, #G8093), as described by the manufacturer.
+NAD measurement
+NAD was determined using a fluorimetric assay (Fluoro NAD/NADH, Cell technology, Mountain View, CA, USA, FLNADH 100-2). MEFs were treated for 1 or 4 h with 1 mM H
+2
+O
+2
+, and 2 × 10
+6
+cells were used for each NAD measurement as described by the manufacturer.
+PARP activity
+PARP activity was determined using a colorimetric PARP assay kit with Histones-coated strip wells (Trevigen, # 4677-096-K). WT MEF, MEF Bax Bak DKO and MEF p53 KO cells were lysated as described by the manufacturer and the protein measured. A measure of 40–100
+μ
+g of protein were used for each determination.
+Colony-forming assay
+WT MEF, MEF Bax Bak DKO or MEF p53 KO cells were treated for 4 h with 1 mM H
+2
+O
+2
+. Then washed with fresh media and plated in 60-mm tissue culture dishes at 200 cells per plate. After 18 days, the plates were stained with crystal violet (0.5% crystal violet in a 3 : 1 (v/v) mixture of distilled water/methanol).
+Cell cycle assay
+Cell cycle analysis was performed using PI staining. Briefly, 10
+5
+–10
+6
+cells were first washed with PBS and fixed with 100% ETOH, added slowly into the cells in a drop wise manner while vortexing. Cells were then kept at 4 °C for 30 min and washed with PBS. 5
+μ
+g/ml of RNAseA was added to each sample and incubated 37 °C for 30 min. Finally, 50
+μ
+g/ml of PI was added to each sample and analyzed on a FACSCanto machine (BD).
+Densitometry
+Densitometric analysis for western blots was assessed using ImageJ (Java-based image processing program, NIH).
+Statistical analysis
+Statistical significance of the results was analyzed using two-tailed Student's
+t
+-test using GraphPad Prism 5.0 software (San Diego, CA, USA). *
+P
+<0.05 and **
+P
+<0.01 were considered significant. S.E.M. stands for standard error of the mean.Acknowledgments
+We gratefully acknowledge funding from the Beatriu de Pinós program from la Generalitat de Catalunya in Spain (JM) and NIH grant P01CA139980. AL is a Leukemia and Lymphoma Society Scholar. We thank Dr. James DeCarpio's lab, Dr. Ruben Carrasco's lab, Nadja Kopp and Jeremy Ryan for technical assistance.Glossary
+4-ANI
+4-amino-1,8-naphthalimide
+ADP
+adenosine diphosphate
+BH3
+Bcl-2 homology domain 3
+CHAPS
+3-[(3-cholamidopropyl)dimethylammonio]-1-propanesulfonate
+DD
+dominant negative
+DKO
+double knockout
+FACS
+fluorescence-activated cell sorting
+H
+2
+O
+2
+hydrogen peroxide
+KD
+knockdown
+KO
+knockout
+MEF
+mouse embryonic fibroblast
+MOMP
+mitochondrial outer membrane permeabilization
+NAD
+nicotinamide adenine dinucleotide
+PARG
+poly (ADP-ribose) glycohydrolase
+PARP
+poly (ADP-ribose) polymerase
+PBS
+phosphate-buffered saline
+ROS
+reactive oxygen species
+ShRNA
+short hairpin RNANotes
+The authors declare no conflict of interest.Footnotes
+Supplementary Information
+accompanies this paper on Cell Death and Differentiation website (http://www.nature.com/cdd)
+Edited by M Oren

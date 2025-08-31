@@ -1,0 +1,777 @@
+Regular Article
+
+LYMPHOID NEOPLASIA
+
+ATR inhibition induces synthetic lethality and overcomes
+
+chemoresistance in TP53- or ATM-defective chronic lymphocytic
+leukemia cells
+
+Marwan Kwok,1,2,* Nicholas Davies,1,* Angelo Agathanggelou,1 Edward Smith,1 Ceri Oldreive,1 Eva Petermann,1
+Grant Stewart,1 Jeff Brown,3 Alan Lau,4 Guy Pratt,1,5 Helen Parry,1,2 Malcolm Taylor,1 Paul Moss,1,2 Peter Hillmen,6
+and Tatjana Stankovic1,2
+1
+School of Cancer Sciences, University of Birmingham, Birmingham, United Kingdom; 2
+Centre for Clinical Haematology, Queen Elizabeth Hospital
+Birmingham, Birmingham, United Kingdom; 3
+Oncology iMed, AstraZeneca Pharmaceuticals, Waltham, MA; 4
+R&D Oncology iMed, AstraZeneca
+Pharmaceuticals, Alderley Park, United Kingdom; 5
+Birmingham Heartlands Hospital, Birmingham, United Kingdom; and 6
+Section of Experimental
+Haematology, Leeds Institute of Cancer and Pathology, University of Leeds, Leeds, United Kingdom
+
+Key Points
+
+• ATR inhibition is synthetically
+lethal to TP53- or ATMdefective
+CLL cells.
+• ATR targeting induces
+selective cytotoxicity and
+chemosensitization in TP53-
+or ATM-defective CLL cells
+in vitro and in vivo.
+
+TP53 and ataxia telangiectasia mutated (ATM) defects are associated with genomic
+instability, clonal evolution, and chemoresistance in chronic lymphocytic leukemia
+(CLL). Currently, therapies capable of providing durable remissions in relapsed/
+refractory TP53- or ATM-defective CLL are lacking. Ataxia telangiectasia and Rad3-
+related (ATR) mediates response to replication stress, the absence of which leads to
+collapse of stalled replication forks into chromatid fragments that require resolution
+through the ATM/p53 pathway. Here, using AZD6738, a novel ATR kinase inhibitor, we
+investigated ATR inhibition as a synthetically lethal strategy to target CLL cells with
+TP53 or ATM defects. Irrespective of TP53 or ATM status, induction of CLL cell
+proliferation upregulated ATR protein, which then became activated in response to
+replication stress. In TP53- or ATM-defective CLL cells, inhibition of ATR signaling
+by AZD6738 led to an accumulation of unrepaired DNA damage, which was carried
+through into mitosis because of defective cell cycle checkpoints, resulting in cell death by mitotic catastrophe. Consequently,
+AZD6738 was selectively cytotoxic to both TP53- and ATM-defective CLL cell lines and primary cells. This was confirmed in vivo
+using primary xenograft models of TP53- or ATM-defective CLL, where treatment with AZD6738 resulted in decreased tumor load
+and reduction in the proportion of CLL cells with such defects. Moreover, AZD6738 sensitized TP53- or ATM-defective primary
+CLL cells to chemotherapy and ibrutinib. Our findings suggest that ATR is a promising therapeutic target for TP53- or ATMdefective
+CLL that warrants clinical investigation. (Blood. 2016;127(5):582-595)
+
+Introduction
+
+Chronic lymphocytic leukemia (CLL) is characterized by biological
+and clinical heterogeneity.1-4 Two important genes associated with
+adverse prognosis, TP53 and ataxia telangiectasia mutated (ATM),
+govern the cellular response to DNA damage, whereby CLL cells,
+having accumulated sufficient genotoxic damage, are directed to
+undergo cell cycle arrest or apoptosis.5,6 Disruption of these genes,
+through gene deletion (ie, 17p for TP53 or 11q for ATM) and/or
+mutation, confers genomic instability and chemoresistance, leading to
+an adverse clinical outcome.3,7-16
+There is increasing recognition that therapeutic failure and
+relapse associated with chemotherapy or chemoimmunotherapy
+can be attributed to selection of DNA damage response (DDR)–
+defective subclones.17,18 As a result, a paradigm shift has emerged
+toward the use of DDR-independent therapies, such as B-cell
+
+receptor (BCR) signaling inhibitors, in CLL with TP53 defects.19,20
+However, although treatment-na¨ıve del(17p) patients exhibited
+durable response to the BCR signaling inhibitor ibrutinib,21
+previously treated individuals with del(17p) or del(11q) continued
+to demonstrate inferior progression-free and overall survival
+compared with individuals without these aberrations.19,22 Furthermore,
+Bruton tyrosine kinase or PLCg2 mutations,23 clonal evolution,24
+early relapses, and Richter transformation25 following
+ibrutinib treatment have been reported predominantly in patients
+with del(17p) or del(11q). Many of these patients also acquired
+complex cytogenetics,23-25 thus underscoring the relevance of
+genomic instability to therapeutic resistance even for p53-
+independent treatments. Patients relapsing from BCR signaling
+inhibitors have limited salvage options and poor clinical outcome,
+
+Submitted May 8, 2015; accepted October 31, 2015. Prepublished online as
+Blood First Edition paper, November 12, 2015; DOI 10.1182/blood-2015-05-
+644872.
+*M.K. and N.D. contributed equally to this study.
+The online version of this article contains a data supplement.
+
+The publication costs of this article were defrayed in part by page charge
+payment. Therefore, and solely to indicate this fact, this article is hereby
+marked “advertisement” in accordance with 18 USC section 1734.
+
+© 2016 by The American Society of Hematology
+
+582 BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5
+
+i An update to this article is included at the end
+with a median survival of 3.1 months following discontinuation of
+ibrutinib as reported recently by Jain et al.25 Therefore, therapeutic
+strategies specifically targeting genomically unstable DDR-defective
+subclones may be of value for these CLL patients.
+Synthetically lethal approaches, in which collaborating pathways
+that DDR-defective cells depend on for survival are exploited for
+therapeutic targeting, offer a potential avenue to eradicate CLL cells
+with DDR defects.26,27 In this respect, we previously demonstrated the
+utility of poly (ADP-ribose) polymerase inhibition as a targeted
+therapy for ATM-defective CLL.28 However, synthetically lethal
+approaches targeting the TP53-defective CLL phenotype have
+not hitherto been investigated.
+Replication stress can arise during physiological cell cycles
+and is frequently elevated in malignant cells. It occurs when
+replication fork progression is disrupted and cells continue
+to cycle despite the presence of unreplicated DNA.29 Ataxia
+telangiectasia and Rad3-related (ATR) is a serine/threonine
+protein kinase that regulates replication initiation, preventing
+aberrant and excessive replication origin firing, which depletes the
+cellular pool of nucleotides and replication proteins. Inhibition
+of ATR therefore induces replication stress, manifested by the
+accumulation of slowed and stalled replication forks with
+unprotected single-stranded DNA that inevitably breaks. This
+results in fragmented, partially replicated sister chromatids with
+free DNA double-stranded ends (DSEs). ATR also mediates the
+response to replication stress, delaying cell cycle progression, and
+stabilizing and repairing DNA replication forks.29-31 If ATR is
+inhibited, maintenance of genome integrity becomes dependent
+on functional ATM and p53, with ATM being essential for
+homologous recombination repair (HRR) to restore replication
+fork topology, and both ATM and p53 for arresting cell cycle
+progression to permit repair.5,6 ATR, therefore, represents an
+attractive synthetically lethal target for p53 or ATM deficiency.32,33
+Evidence for this synthetically lethal interaction has been previously
+provided by deletion of ATR in p53-deficient mice34 and by inhibition
+of ATR in tumor cell lines, which resulted in selective killing
+of cells harboring p53 or ATM defects.35-37
+No study to date has addressed the impact of ATR inhibition on
+primary tumor samples or xenotransplantation models of hematologic
+malignancies with DDR defects. Here, we used AZD6738 (AstraZeneca,
+Alderley Park, United Kingdom), a novel, highly specific, and orally
+bioavailable ATR kinase inhibitor to examine the effect of ATR
+inhibition in primary CLL cells, cell lines, and primary CLL xenografts.
+We present evidence for synthetic lethality and selective cytotoxicity in
+CLL cells withTP53orATMdefects, as well as sensitization ofthese cells
+to chemotherapeutic agents and ibrutinib.
+
+Materials and methods
+
+Cells and reagents
+
+Details of cell lines and their short hairpin RNA transfections are provided in the
+supplemental Materials and Methods (available on the Blood Web site). Primary
+CLL samples (supplemental Table 1; supplemental Figure 1) were obtained from
+local hospitals with research ethics committee approval.Methods for induction of
+CLL cell proliferation69 and drugs used are detailedinthe supplementalMaterials
+and Methods and supplemental Figure 2.
+
+Western blotting and cytotoxicity assays
+
+Western blotting was carried out as previously described.38 Cytotoxicty was
+assessed by measurement of propidium iodide uptake and/or CellTiter-Glo
+
+luminescence cell viability assay (Promega, Southampton, United Kingdom) as
+described in the supplemental Materials and Methods.
+
+Primary CLL xenograft models
+
+Animal experiments were conducted in accordance with United Kingdom Home
+Office regulations. Protocol for the generation of CLL xenografts and treatment
+regimens are provided in the supplemental Materials and Methods and supplemental
+Figure 3.
+
+Cell cycle analysis and immunofluorescence microscopy
+
+Cell cycle profiles were obtained using the Accuri C6 flow cytometer (BD
+Biosciences, Oxford, United Kingdom). Foci and DNA replication tracts
+were examined using a Nikon E600 Eclipse microscope (Kingston upon
+Thames, United Kingdom) as described in the supplemental Materials and
+Methods.
+
+Statistical analysis
+
+Statistical significance was determined using GraphPad Prism (GraphPad
+Software, San Diego, CA). P # .05 was considered significant.
+
+Results
+
+ATR signaling is active in proliferating CLL cells and is
+inhibited by AZD6738
+
+The ATR pathway has been shown to be suppressed in quiescent
+lymphocytes.39 Consistent with this, we observed that ATR protein
+expression was low in resting primary CLL cells but induced when
+cells were stimulated to proliferate by coculturing with CD40 ligand
+(CD40L)–expressing murine embryonic fibroblasts and interleukin
+(IL) 21 (CD40L/IL-21). This was irrespective of p53 or ATM status
+(Figure 1A). We used phosphorylation of checkpoint kinases Chk1 and
+Chk2, which are downstream targets of ATR and ATM, respectively,
+as surrogate markers for ATR and ATM pathway activation. Upon
+treatment with hydroxyurea (HU), which induces replication stress,
+ATR-dependent Chk1 phosphorylation was observed in proliferating
+(Figure 1B, lanes 2, 3, and 10) but not quiescent (lanes 6 and 8) CLL
+cells. The background Chk2 phosphorylation in quiescent cells
+(lanes 5 and 6) likely reflected cellular stress when cryopreserved
+samples were preincubated in culture media prior to treatment. This
+was absent when fresh samples were used without preincubation
+(lanes 7 and 8). As 24-hour HU treatments (lane 4) appeared to be
+associated with S-phase checkpoint adaptation, a process in which
+Chk1 phosphorylation is lost despite persistent replication stress,40 we
+adopted 5-hour HU treatments for subsequent experiments. The
+specificity of Chk1 as a marker for ATR activation was evident by
+minimal Chk1 phosphorylation following ionizing radiation (IR),
+which generates DNA double-strand breaks and activates the
+ATM/Chk2 pathway (Figure 1C, lanes 8-11).
+To investigate the effect of AZD6738 on ATR and ATM
+pathways, we pretreated cycling primary CLL cells and cell lines
+with 1 mM AZD6738 and/or 10 mM ATM inhibitor KU-55933
+(ATMi) for 2 hours prior to HU or IR exposure. AZD6738
+treatment led to suppression of ATR signaling as indicated by a
+reduction in HU-induced Chk1 phosphorylation, independent of
+ATM status (Figure 1C, lane 4 vs 6; Figure 1D, lanes 3 vs 4, 9 vs
+10). Complete abolition of HU-induced Chk1 phosphorylation was
+evident at AZD6738 doses $3 mM (supplemental Figure 4A). The
+specificity of AZD6738 for ATR inhibition was demonstrated by
+its lack of effect on IR-induced ATM/Chk2 phosphorylation
+
+BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5 ATR TARGETING IN CLL WITH TP53 OR ATM DEFECTS 583
+(Figure 1C, lane 8 vs 10; Figure 1D, lane 5 vs 6). Importantly, in
+ATM-proficient primary CLL cells and cell line, AZD6738
+treatment resulted in ATM activation as evidenced by ATM
+phosphorylation and HU-induced Chk2 phosphorylation (Figure 1C,
+lane 4 vs 6; Figure 1D, lane 3 vs 4). This indicated dependence on
+the ATM pathway in the absence of functional ATR. Because DNA
+protein kinase (DNA-PK) was reported to have some redundant
+activity with ATR,41 we assessed the impact of DNA-PK inhibition
+in primary CLL cells. We detected no change in HU-induced Chk1
+phosphorylation upon treatment with DNA-PK inhibitor (supplemental
+Figure 4B), suggesting that such redundancy is not present
+in CLL cells.
+
+ATR inhibition is selectively cytotoxic to TP53- or
+ATM-defective CLL cells in vitro and in vivo
+
+To assess the therapeutic potential of ATR inhibition for DDRdefective
+CLL, we investigated the cytotoxic effects of AZD6738 on
+CLL cells. ATM-deficient CII-ATMsh and p53-defective Mec1 cells
+displayed significantly greater AZD6738 sensitivity (50% effective
+concentration [EC50], 1.6 mM and 1.1 mM, respectively) following
+96-hour treatment compared with ATM/p53-proficient CII-GFPsh
+cells (EC50, 8.4 mM; Figure 2A). Reintroduction of wild-type TP53
+significantly reduced the sensitivity of Mec1 cells to AZD6738 (EC50,
+
+3.2 mM vs 1.0 mM; Figure 2B). The effect was, however, limited
+because of a moderate level of wild-type p53 expression achieved by
+transfection relative to expression of the intrinsic mutant TP53 allele
+(supplemental Figure 5).
+Following 96-hour AZD6738 treatment, a panel of 29 CD40L/
+IL-21 cocultured primaryCLL samples provided additional evidence for
+selective cytotoxicity toward CLLs with DDR defects (Figure 2C-D;
+supplemental Table 1), with a significantly lower EC50 in ATMdefective
+(8.7 mM; 95% confidence interval [CI], 3.4-13.9 mM; n 5 6)
+and TP53-defective (8.2 mM; 95% CI, 3.5-12.9 mM; n 5 6) CLL
+samples compared with either ATM/TP53 wild-type CLLs (38.3 mM;
+95% CI, 28.8-47.8 mM; n 5 17) or healthy donor peripheral blood
+mononuclear cells (PBMCs; 87.6mM; 95% CI, 50.0-125.3mM; n 5 4).
+No significant difference in AZD6738 sensitivity was found when
+these samples were analyzed according to clinical stage, prior
+treatment, or IGHV mutational status (Figure 2E). As expected,
+AZD6738 had little cytotoxic effect on cells cultured without
+CD40L/IL-21, regardless of TP53 or ATM status (supplemental
+Figure 6). This suggests that AZD6738 specifically targets the
+proliferating CLL population.
+To assess the effectiveness of ATR inhibition in vivo, we used
+primary CLL xenografts. We engrafted 4 representative primary CLL
+samples carrying either del(17p) and a TP53 mutation (p.I251S or
+p.M237I) or del(11q) and an ATM mutation (p.I1407T or p.L3013Q)
+
+Figure 1. ATR signaling is activated in response to replication stress in proliferating primary CLL cells and is inhibited by AZD6738. (A) Stimulation of primary CLL
+cell proliferation by coculture with CD40L-expressing murine embryonic fibroblasts in the presence of IL-21 (CD40L/IL-21) for 4 days resulted in induction of ATR expression in
+primary CLL cells irrespective of ATM or TP53 status. Cyclin A expression is a marker of proliferating cells. Actin is the loading control. (B) Cryopreserved or fresh primary CLL
+cells cultured with or without CD40L/IL-21 (lanes 1-4 and 9 and 10, and lanes 5-8, respectively) were treated with HU. Cryopreserved samples not cocultured with CD40L/
+IL-21 were resuspended and preincubated in culture media for 24 hours prior to treatment (lanes 5 and 6), whereas fresh cells were treated immediately upon isolation from
+peripheral blood without preincubation (lanes 7 and 8). Exposure to HU (1 mM), which induces replication stress, led to Chk1 phosphorylation in primary CLL cells cocultured
+with CD40L/IL-21 (lanes 2, 3, and 10). (C) TP53/ATM wild-type (TP53/ATM-wt) primary CLL cells cocultured with CD40L/IL-21 (C) and CII cells (D), both CII-GFPsh and
+CII-ATMsh, were treated with AZD6738 (1 mM) and/or the ATM inhibitor KU-55933 (ATMi; 10 mM) for 2 hours, or left untreated, prior to exposure to HU (1 mM) or IR (6 Gy) for
+a further 5 hours. AZD6738 treatment inhibited ATR signaling as indicated by a reduction in HU-induced Chk1 phosphorylation (panel C, lane 4 vs 6; panel D, lanes 3 vs 4 and
+9 vs 10). In ATM-proficient CLL cells, this also led to ATM activation as evidenced by ATM phosphorylation and Chk2 phosphorylation (panel C, lane 4 vs 6; panel D, lane 3 vs
+4). In panels B-C, representative blots from experiments on 3 CLL samples are shown.
+
+584 KWOK et al BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5
+Figure 2. ATR inhibition is selectively cytotoxic to both ATM-defective and TP53-defective CLL cells in vitro and in vivo. (A) CII-GFPsh, CII-ATMsh (ATM-deficient),
+and Mec1 (p53-defective) cells were treated with AZD6738 for 4 days, and viability was measured using the CellTiter-Glo assay. Surviving fraction is expressed relative to
+untreated controls. AZD6738 induced significantly greater dose-dependent cytotoxicity with significantly lower AZD6738 EC50 in CII-ATMsh and Mec1 cells compared with
+CII-GFPsh cells. (B) Mec1 cells transfected with either wild-type TP53 (Mec1-p53-pcDNA3.1) or GFP (Mec1-GFP-pcDNA3.1, as control) were treated with AZD6738 for
+4 days, and viability was measured using the CellTiter-Glo assay. Surviving fraction is expressed relative to untreated controls. AZD6738-induced cytotoxicity was reduced
+with significantly higher AZD6738 EC50 in Mec1-p53-pcDNA3.1 cells compared with Mec1-GFP-pcDNA3.1 cells. (C) Carboxyfluorescein diacetate succinimidyl ester
+(CFSE)–labeled primary CLL cells with or without ATM/TP53 defects and healthy donor peripheral blood mononuclear cells (PBMCs) cocultured with CD40L/IL-21 were
+treated with AZD6738 for 4 days. Viability was measured by propidium iodide exclusion of the proliferating cell population that was identified by reduction in CFSE
+
+BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5 ATR TARGETING IN CLL WITH TP53 OR ATM DEFECTS 585
+into NOD/Shi-scid/IL-2Rgnullmice. Followingtreatment with AZD6738
+(n 5 10) or vehicle (n 5 11) for 2 weeks, tumor load was significantly
+reduced in AZD6738-treated animals compared with vehicle-treated
+controls (P # .01; Figure 2F). When analyzed separately according to
+genotype, both TP53- and ATM-defective AZD6738-treated xenografts
+showed significant reduction in tumor load (P # .05; Figure 2G).
+Furthermore, in the CLL26 xenograft where tumor cell recovery
+allowed monitoring of del(11q) cells, we observed a significant reduction
+inthe percentage of cells with del(11q) (37% vs 100%,P # .05)
+in AZD6738-treated animals compared with vehicle-treated controls
+(Figure 2H). Taken together, our in vitro and in vivo data
+demonstrate efficacy and specificity of AZD6738 for TP53- or
+ATM-defective CLL.
+
+ATR inhibition induces DNA damage and mitotic catastrophe in
+TP53- or ATM-defective CLL cells
+
+Suppression of aberrant origin firing is an important mechanism
+whereby ATR protects DNA replication forks from collapse.29-31 We
+therefore hypothesized that ATR inhibition in CLL cells would result in
+increased origin firing. To verify this, we first determined the impact of
+ATR inhibition on DNA replication in CII-ATMsh and Mec1 cells by
+DNA fiber analysis that visualizes origins of replication and replication
+fork progression (Figure 3A-C). One hour after treatment with
+AZD6738, we observed increased replication initiation as indicated
+by decreased interorigin distance (Figure 3B). We also observed
+decreased replication fork progression rates (Figure 3C), consistent
+with fork slowing or stalling and therefore increased replication stress
+upon ATR inhibition.30,31,42
+We next assessed the impact of ATR inhibition on cell cycle
+progression. In response to AZD6738, CII-GFPsh cells accumulated in
+G0/G1 consistent with G1/S cell cycle arrest (Figure 3D; supplemental
+Figure 7). In contrast, neither G1/S nor G2/M arrest was evident in
+CII-ATMsh and Mec1 cells despite replication stress (Figure 3E-F;
+supplemental Figure 7), indicating dependence on ATM and p53 for
+cell cycle regulation in the absence of ATR. These cell cycle effects
+were recapitulated in primary CLL cells upon treatment with
+AZD6738, with G1/S arrest occurring in TP53/ATM wild-type but not
+TP53-defective samples (Figure 3G-H).
+Because ATR inhibition leads to S-phase chromatid fragments,31,32
+for which effective resolution requires ATM-mediated HRR and ATM/
+p53-dependent cell cycle checkpoint activation,5,6 we reasoned that
+ATR inhibition should produce more fragmented chromatids in ATM/
+p53-defective CLL cells. Consistent with this, we observed accumulation
+of markers of DNA damage, gH2AX and 53BP1 foci, in Mec1
+and ATMi pretreated CII cells but not in CII cells without ATMi
+pretreatment, 24 and 48 hours, respectively, following exposure to
+1 mM AZD6738 (Figure 4A-E; supplemental Figure 8). Moreover,
+consistent with loss of both G1/S and G2/M checkpoints in the absence
+
+of functional ATR and ATM/p53, Mec1 and ATMi pretreated CII cells
+carrying unrepaired DNA damage progressed into mitosis, as indicated
+by dual positivity for gH2AX and the mitotic marker pH3 following
+24-hour incubation with 1 mM AZD6738 (Figure 4A-B).
+Replication stress leads to an increase in the amount of underreplicated
+regions within the genome.29 As the sister chromatids try to
+separate during anaphase, these catenated regions of DNA result in
+ultrafine DNA bridges, which often break and are transmitted to
+daughter cells at the following G1. This can be visualized as 53BP1
+nuclear bodies, which serve to protect DNA from endonuclease
+degradation and facilitate repair.43,44 We observed an accumulation of
+53BP1 bodies in ATM/p53-proficient CII cells following 48 hours of
+AZD6738 treatment (Figure 4F). This was not seen in ATM/p53-
+defective CLL cells, suggesting that formation of 53BP1 bodies was
+dependent on the ATM pathway as previously demonstrated.44 Failure
+to initiate this protective mechanism could precipitate further DNA
+damage in ATM/p53-defective cells.
+We postulated that abolition of cell cycle checkpoints because of the
+combined loss of functional ATR and ATM/p53 would permit entry
+into mitosis despite the accumulation of partially replicated chromatid
+fragments, resulting in mitotic catastrophe. To confirm this, we probed
+CLL cells for pH3 and lamin B. Cells undergoing normal mitosis stain
+positive for pH3 but lose lamin B staining. In contrast, cells undergoing
+mitotic catastrophe do not stain for pH3 but retain lamin B staining,
+whereas expression of both markers is lost when cells undergo apoptosis
+(Figure 4G). We found significant levels of mitotic catastrophe
+72 hours following 1 mM AZD6738 in Mec1 and ATMi pretreated CII
+cells, but not in CII cells without ATMi pretreatment (Figure 4H).
+Because of incomplete DNA replication in the presence of AZD6738,
+we did not observe accumulation of tetraploid cells (G2/M population)
+that can accompany mitotic catastrophe (Figure 3E-F,H).45
+In ATM/p53-proficient CII cells, we detected low-level apoptotic
+activity with AZD6738, which is likely a result of p53 activation in
+responseto replication stress (supplemental Figure 9A-B).Mec1 cells also
+exhibited low levels of apoptotic markers poly (ADP-ribose) polymerase
+and caspase cleavage (supplemental Figure 9C), but such levels were
+unlikely to account for their differential sensitivity to ATR inhibition
+compared with DDR-proficient cells. Indeed, the negligible impact of
+pan-caspase inhibitor Z-VAD-FMK on the viability of AZD6738-treated
+Mec1 cells supports this notion (supplemental Figure 9D).
+
+ATR inhibition sensitizes TP53- or ATM-defective CLL cells to
+chemotherapy and ibrutinib
+
+We reasoned that the synthetically lethal effects of ATR inhibition on
+ATM- orTP53-defective CLL cells could sensitizethese chemoresistant
+cells to chemotherapeutic agents through potentiation of DNA damage.
+We therefore assessed the impact of combining AZD6738 with
+chemotherapy in CII-ATMsh and Mec1 cells. Although resistance to
+
+Figure 2 (continued) fluorescence intensity as shown in supplemental Figure 2. Surviving fraction is expressed relative to untreated controls. AZD6738 induced significantly
+greater dose-dependent cytotoxicity in ATM/TP53-defective CLL cells than either ATM/TP53 wild-type CLL cells or healthy donor PBMCs. (D) The EC50 of AZD6738 was
+significantly lower for ATM/TP53-defective primary CLL samples than both ATM/TP53 wild-type samples and healthy donor PBMCs. A list of CLL samples assessed and their
+respective EC50 values are provided in supplemental Table 1. (E) There was no significant difference in the EC50 of AZD6738 between subgroups of CLL samples stratified
+according to Binet stage, prior treatment, and IGHV mutational status. (F) Primary CLL samples (CLL29, CLL31, CLL25, CLL26) with biallelic TP53 or ATM defects were
+engrafted into NOD/Shi-scid/IL-2Rgnull mice and treated with vehicle (n 5 11) or AZD6738 (n 5 10). Collectively, AZD6738 treatment significantly reduced tumor load
+compared with vehicle treatment in TP53/ATM-defective xenografts. (G) When analyzed separately, both TP53 and ATM defective xenografts showed significant reduction in
+tumor load following AZD6738 treatment compared with vehicle-treated controls. (H) Fluorescence in situ hybridization probes for 11q were applied on human CD451 CD191
+cells collected from the spleens of CLL26 xenografts (harboring del(11q) and L3013Q ATM mutation) treated with AZD6738 (n 5 3) or vehicle (n 5 3). Two hundred cells were
+analyzed per mouse. The proportion of CLL cells with del(11q) was significantly reduced following AZD6738 treatment compared with vehicle-treated controls. All data are
+displayed as mean 6 standard error of the mean (SEM). Statistical significance was determined using 2-way analysis of variance (ANOVA) with Bonferroni post hoc analysis
+(A,B,C,G), 1-way ANOVA (A,D), or Student t test (B,F,H). Statistical significance vs CII-GFPsh (A), Mec1-GFP-pcDNA3.1 (B), ATM/TP53 wild-type samples (*) or healthy
+donor PBMCs (†
+) (C,D), or vehicle (F-H) is indicated by *,†P , .05, **,††P , .01, and ***,†††P , .001. Nonsignificant results are denoted by n.s.
+
+586 KWOK et al BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5
+chlorambucil, fludarabine, 4-hydroperoxycyclophosphamide, or bendamustine
+monotherapy was evident even at relatively high doses, we
+discovered significant sensitization to a range of doses of these agents
+upon addition of 1 mM AZD6738 (Figure 5; Table 1). Of note,
+CII-GFPsh cells were sensitive to chemotherapy. However, addition
+
+of AZD6738 to chemotherapeutic agents led to further sensitization
+(supplemental Figure 10; supplemental Table 2).
+We then proceeded to evaluate these findings in DDR-defective
+primary CLL cells cocultured with CD40L/IL-21. AZD6738
+(1 or 3mM) enhanced sensitivity to (Figure 6A-B) and synergized
+
+Figure 3. ATR inhibition leads to increased replication
+stress and ATM/p53 dependent G1/S cell cycle arrest in
+CLL cells. (A) AZD6738 (1 mM) treatment of 1 hour led to
+increased replication stress in Mec1 (p53-defective) and
+CII-ATMsh (ATM-deficient) cells as demonstrated by DNA
+fiber analysis. Replicating DNA in cycling cells was
+sequentially labeled with CldU and IdU for 20 min each,
+after which DNA fibers were analyzed by immunofluorescence
+microscopy. Representative images are displayed.
+(B-C) AZD6738 (1 mM) treatment of 1 hour significantly
+reduced interorigin distance (B) and fork progression rate
+(C) in Mec1 and CII-ATMsh cells. (D-F) Cell cycle analyses
+on CII-GFPsh (D), CII-ATMsh (E), and Mec1 (F) cells were
+carried out following 24-hour treatment with either
+AZD6738 (1 mM or 3 mM) or RPMI media. AZD6738
+treatment induced G1/S cell cycle arrest in CII-GFPsh cells
+but not CII-ATMsh or Mec1 cells. (G-H) Cell cycle analyses
+on TP53/ATM-wt CLL samples (CLL03, CLL06, CLL07)
+(G) and TP53-defective samples (CLL32, CLL35, CLL36)
+(H) were carried out following 48-hour treatment with
+AZD6738 (3 mM or 10 mM) or RPMI media. Analyses in
+panels G-H were performed on the viable cell population
+by expressing the G0/G1, S, and G2/M populations as a
+percentage of the total viable cells. Data are displayed as
+mean 6 SEM of triplicate experiments. Statistical significance
+was determined using Student t test (B), MannWhitney
+U test (C), or 2-way ANOVA with Bonferroni post
+hoc analysis (D-H). Statistical significance vs dimethylsulfoxide
+(DMSO)–treated controls (B) or untreated controls
+(D-H) is indicated by *P , .05 and **P , .01.
+
+BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5 ATR TARGETING IN CLL WITH TP53 OR ATM DEFECTS 587
+Figure 4. ATR inhibition results in accumulation of DNA damage and mitotic catastrophe in CLL cells with ATM or p53 deficiency. CII cells pretreated for 2 hours
+with ATMi (10 mM), CII cells without ATMi pretreatment, and Mec1 (p53-defective) cells were exposed to AZD6738. (A-B) Cells treated with AZD6738 (1 mM) for 24 hours
+were colabeled with anti-gH2AX and anti-pH3 antibodies and analyzed by immunofluorescence microscopy using a 360 lens. A cell was considered gH2AX positive if .5
+gH2AX foci were present. At least 200 mitotic (phosphohistone H3 ser-10 [pH3]–positive) cells were analyzed in each sample. AZD6738 induced gH2AX foci in Mec1 and
+ATMi pretreated CII cells, but not in CII cells without ATMi pretreatment. (C) The pattern of 53BP1 labeling distinguishes 53BP1 bodies from 53BP1 foci. 53BP1 bodies are
+characterized by robust blocklike staining and indicate underreplicated DNA. 53BP1 foci are characterized by discrete punctate staining and indicate DNA damage. A cell was
+considered 53BP1 foci positive if .5 53BP1 foci were present. (D-F) Cells treated with AZD6738 (1 mM) for 48 hours were labeled with anti-53BP1 antibodies, and at least
+200 cells were then analyzed in each sample using a 360 lens. AZD6738 treatment led to an accumulation of 53BP1 foci in Mec1 and ATMi pretreated CII cells and an
+
+588 KWOK et al BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5
+with (Figure 6C-D; Table 2) chlorambucil, fludarabine, and
+4-hydroperoxycyclophosphamide in primary CLL samples with defective
+ATM or TP53 (n 5 6). However, because of prosurvival properties of
+
+the coculture system, the sensitization effect (Figure 6A-B) was less
+profound than in CLL cell lines (Figure 5A-B). Interestingly, in these
+primary CLL samples, we also found additive to synergistic interaction
+
+Figure 5. ATR inhibition sensitizes CII-ATMsh and Mec1 CLL cells to cytotoxic chemotherapy. CII-shATM (A) and Mec1 (B) cells were treated with chlorambucil,
+fludarabine, 4-hydroperoxycyclophosphamide (4HC), or bendamustine with or without coadministration of AZD6738 (1 mM). Viability was assessed 96 hours later by the
+CellTiter-Glo assay. Surviving fraction is expressed relative to untreated controls for chemotherapy treatment alone (no AZD6738) and relative to 1 mM AZD6738
+monotherapy for the cotreated samples. Addition of AZD6738 significantly enhanced sensitivity of CII-shATM and Mec1 cells to cytotoxic chemotherapeutic agents. Data are
+displayed as mean 6 SEM of triplicate experiments. Statistical significance was determined using 2-way ANOVA with Bonferroni post hoc analysis. Statistical significance vs
+no AZD6738 is indicated by *P , .05, **P , .01, and ***P , .001. (C-D) AZD6738 is synergistic with chlorambucil, fludarabine, 4HC, and bendamustine in CII-shATM (C) and
+Mec1 (D) cells across a range of effective drug doses. Combination indices (CI) were calculated using the median-effect method. Each point represents the mean CI value
+obtained from 3 independent experiments plotted against the corresponding affected fraction that is expressed relative to untreated controls. CI ,0.9 represents synergism,
+CI 5 0.9-1.1 represents additive effect, and CI .1.1 represents antagonism. The actual values are presented in Table 1.
+
+Figure 4 (continued) accumulation of 53BP1 bodies in CII cells without ATMi pretreatment. (G) Colabeling with anti-lamin B and anti-pH3 antibodies allows apoptotic CLL
+cells to be distinguished from cells undergoing mitotic catastrophe. At least 200 cells were analyzed in each sample. (H) AZD6738 exposure for 72 hours resulted in
+significantly elevated levels of mitotic catastrophe in Mec1 and ATMi pretreated CII cells. Data are displayed as mean 6 SEM of triplicate results from a representative
+experiment. Statistical significance was determined using Student t test. Statistical significance vs untreated controls is indicated by *P , .05, ** P , .01, and ***P , .001.
+
+BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5 ATR TARGETING IN CLL WITH TP53 OR ATM DEFECTS 589
+between AZD6738 and cytotoxic doses of ibrutinib46 (Figure 6C-D;
+Table 2). We addressed mechanisms behind the AZD6738-ibrutinib
+interaction. We discovered modest dose-dependent reduction in Erk/Syk
+phosphorylation with AZD6738 and dose-dependent reduction in
+HU-induced Chk1 phosphorylation with ibrutinib (supplemental
+Figure 11), suggesting that off-target effects of AZD6738 and ibrutinib
+may account for the potentiating effect at higher dose combinations
+involving 4 mM or 16 mM ibrutinib. We also observed that whereas
+AZD6738 primarily targeted cycling CLL cells for killing, ibrutinib
+affected both the cycling and noncycling populations (supplemental
+Figure 12). This could potentially account for the sensitization seen
+with 1 mM ibrutinib.
+Finally, we assessed the AZD6738-chlorambucil combination in a
+primary xenograft model with del(11q) and ATM mutation p.I407T.
+Twenty engrafted mice were treated with AZD6738, chlorambucil, the
+AZD6738-chlorambucil combination, or vehicle (n 5 5 in each arm).
+AZD6738 monotherapy resulted in significant reduction in tumor load.
+Moreover, combination treatment yielded significantly greater reductions
+in tumor load than chlorambucil monotherapy (Figure 6E-F),
+although synergism could not be appropriately assessed from this
+experiment. Collectively, our results support the combined use of ATR
+inhibitor with a range of existing therapeutic agents for CLL.
+
+Discussion
+
+In this study, we presented in vitro and in vivo data demonstrating
+efficacy of ATR inhibition in CLL with TP53 or ATM defects. This
+report is, to our knowledge, the first demonstration of a therapeutic
+approach that provides specific targeting of TP53-defective CLL cells.
+Our findings offer insight into the cytotoxic mechanism underpinning
+ATR inhibition in CLL, which is consistent with our current
+understanding of the role of ATR in resolving replication stress
+(Figure 7A).29-33,47-50 When ATR function is abolished, stalled
+replication forks with persistent single-stranded DNA are susceptible
+to nicking and collapse resulting in a partially replicated sister
+
+chromatid with a DSE that has become disengaged from the replication
+template (Figure 7B). Reengagement of the DSE with the replication
+template requires the HRR stimulatory activity of ATM. Similarly,
+functional p53 becomes required in the context of ATR inhibition for
+cell cycle arrest to permit repair of collapsed forks and HRR-directed
+reengagement of DSEs to restore replication fork geometry
+(Figure 7C). In the absence of HRR, nonhomologous end joining can
+ligate 2 independently generated partially replicated sister chromatid
+DSEs, at the expense of potential sequence deletions and aberrant
+chromosomal translocations. CLL cells with defective p53 or ATM
+accumulate collapsed forks and DSEs, whereupon lack of effective cell
+cycle regulation permits subsequent unrestricted entry into mitosis,
+resulting in mitotic catastrophe (Figure 7D).
+This mechanistic model accounts for the selective cytotoxicity of
+ATR inhibition for CLL cells with TP53 or ATM defects. Importantly,
+ATR inhibition is capable of circumventing the protective effect of
+the microenvironment, which often hinders effective clearance of
+genomically unstable, proliferating CLL populations. This is evidenced
+by the ability of AZD6738 to overcome the prosurvival signals
+provided by the CD40L/IL-21 coculture system that mimics interaction
+of CLL cells with T cells in proliferation centers and, in xenograft
+experiments, by the loss of tumor burden in murine spleens upon
+treatment with AZD6738.
+Interestingly, whereas TP53- or ATM-defective primary CLL
+samples were uniformly and substantially more sensitive to ATR
+inhibition than healthy donor PBMCs, TP53/ATM wild-type primary
+CLL cells displayed variable sensitivity toward ATR inhibition. There
+are several potential explanations for this finding. Firstly the acquisition
+of additional, as yet uncharacterized DDR defects could render some
+CLL patients sensitive to ATR inhibition even in the absence of
+defective TP53 or ATM. Secondly, such variability in sensitivity could
+be because of different amounts of endogenous DNA damage in each
+sample, reflecting varying degrees of genomic instability. ATR
+inhibition may therefore potentially be most useful in heavily pretreated
+relapsed/refractory patients, where higher levels of genomic instability
+could be attributable, in part, to enhanced replication stress. Finally,
+alternative lengthening of telomeres has been reported in CLL cells51
+
+Table 1. Combination indices of AZD6738 (1 mM) with cytotoxic chemotherapy in CII-ATMsh and Mec1 cells
+
+Drug combined with
+AZD6738 and dose (mM)
+
+CII-ATMsh Mec1
+
+Fraction affected
+Combination index
+(mean 6 SEM) Synergism* Fraction affected
+Combination index
+(mean 6 SEM) Synergism*
+
+Chlorambucil
+1 0.43 0.45 6 0.16 111 0.51 0.75 6 0.16 11
+2.5 0.54 0.48 6 0.09 111 0.61 0.49 6 0.11 111
+5 0.73 0.27 6 0.14 1111 0.71 0.29 6 0.03 1111
+10 0.89 0.16 6 0.08 1111 0.76 0.26 6 0.03 1111
+Fludarabine
+1 0.35 0.89 6 0.29 1 0.44 1.06 6 0.14 6
+2.5 0.37 0.93 6 0.28 6 0.55 0.69 6 0.14 111
+5 0.51 0.69 6 0.17 111 0.61 0.56 6 0.18 111
+10 0.71 0.55 6 0.13 111 0.72 0.34 6 0.07 111
+4-Hydroperoxycyclophosphamide
+0.25 0.40 0.75 6 0.33 11 0.48 0.97 6 0.30 6
+0.5 0.56 0.53 6 0.26 111 0.57 0.69 6 0.28 111
+1 0.73 0.36 6 0.15 111 0.68 0.42 6 0.14 111
+2 0.89 0.30 6 0.07 1111 0.78 0.26 6 0.10 1111
+Bendamustine
+10 0.24 1.08 6 0.15 6 0.39 1.10 6 0.08 6
+25 0.31 0.86 6 0.15 1 0.49 0.89 6 0.29 1
+50 0.40 0.66 6 0.15 111 0.52 0.76 6 0.18 11
+100 0.65 0.34 6 0.11 111 0.66 0.41 6 0.01 111
+*1111, strong synergism; 111, synergism; 11, moderate synergism; 1, slight synergism; 6, additive.
+
+590 KWOK et al BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5
+Figure 6. ATR inhibition synergizes with existing therapeutic agents both in ATM-defective and TP53-defective primary CLL cells. CFSE-labeled primary CLL cells
+with ATM defect (CLL22, CLL23, CLL24) (A) or TP53 defect (CLL29, CLL31, CLL32) (B) cocultured with CD40L/IL-21 were treated with chlorambucil, fludarabine, 4HC, or
+ibrutinib with or without coadministration of AZD6738 (1 mM). Viability was assessed after 96 hours by propidium iodide exclusion of the proliferating cell population as
+identified by reduction in CFSE fluorescence intensity. Surviving fraction is expressed relative to untreated controls for chemotherapy treatment alone (no AZD6738) and
+relative to 1 mM AZD6738 monotherapy for the cotreated samples. Addition of AZD6738 significantly enhanced sensitivity of ATM-defective primary CLL samples to
+chlorambucil and 4HC, and TP53-defective primary CLL samples to these therapies and also to fludarabine and ibrutinib at $1 dose combination. Data are displayed as mean
+6 SEM. Statistical significance was determined using 2-way ANOVA with Bonferroni post hoc analysis. Statistical significance vs no AZD6738 is indicated by *P , .05,
+**P , .01, and ***P , .001. (C-D) AZD6738 is synergistic with chlorambucil, fludarabine, 4HC, and ibrutinib in primary CLL samples with ATM (C) or TP53 (D) defect across a
+
+BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5 ATR TARGETING IN CLL WITH TP53 OR ATM DEFECTS 591
+and could provide an additional mechanism accounting for their
+sensitivity to ATR inhibition.52 Further work is required to explore
+these hypotheses and identify markers of sensitivity to ATR inhibition
+in CLL other than TP53 or ATM defects. With respect to TP53 or ATM
+defects, the specificity of ATR inhibition for these lesions could allow
+alteration of the subclonal landscape in favor of less genomically
+unstable DDR-proficient subclones, which are less susceptible to clonal
+evolution, thus reducing the likelihood of therapeutic resistance or
+disease relapse. The specificity of ATR inhibition for TP53-defective
+CLL cells may possibly also reduce the likelihood of Richter
+transformation because TP53 defects have been implicated in this
+process.53,54
+Inhibitors of ATR such as AZD6738 could therefore potentially
+augment current therapies for TP53- or ATM-defective CLL. This is
+likely to be attributable to potentiation by chemotherapeutic agents of
+AZD6738-induced replication stress to which TP53- or ATM-defective
+cells are distinctively susceptible. In CLL, deep remissions attained
+with chemotherapy or chemoimmunotherapy are translatable into longterm
+treatment-free survival.55,56 Hence, combination of ATR inhibitor
+with cytotoxic chemotherapy could provide a realistic salvage option
+for TP53- or ATM-defective patients relapsing from signaling
+inhibitors. The synergism of AZD6738 with chlorambucil and
+bendamustine is particularly attractive given their milder toxicity
+profiles, making these combinations potentially suitable for older or
+frailer CLL patients. Although the in vivo toxicity profile and long-term
+effects of AZD6738 remain to be established in a clinical setting, it is
+important to note the lack of detrimental effect on normal tissues
+reported in mice subjected to ATR suppression to 10% of its normal
+levels.57Corroborating this report, the AZD6738 dose used in our study
+to achieve effective tumor load reduction in TP53/ATM-defective
+xenografts was well tolerated. In addition, the discrepancy between
+sensitivity of TP53/ATM-defective CLL cells and healthy donor
+
+PBMCs to AZD6738 argues for the existence of a substantial
+therapeutic window making it suitable for clinical use. A potential
+caveat is that the prolonged use of the ATR inhibitor could allow
+accumulation of postreplicative damage in nontumor cells as well as
+ATM/p53 wild-type CLL cells.58 Hence, our current data support the
+use of ATR inhibition specifically in CLL patients with TP53 or ATM
+defects, where there is distinct reliance on ATR and sensitivity to ATR
+inhibition.
+Unexpectedly, we found, depending on the dose, additivity or
+synergism between AZD6738 and ibrutinib in DDR-defective primary
+CLL cells. The underlying mechanism of the potentiating interaction at
+higher dose combinations may involve off-target effects of AZD6738
+and ibrutinib. At clinically relevant doses (with #1 mM ibrutinib),
+however, this is likely to be accounted for by the limited overlap in the
+cellular populations that are targeted by these 2 compounds. Should
+AZD6738 be used in combination with BCR signaling inhibitors,
+consideration needs to be given to the sequence of treatment because
+signaling inhibitors, which evict CLL cells from proliferation centers,
+may render them quiescent and no longer sensitive to ATR inhibition.19
+In patients with TP53/ATM-defective CLL, we envisage daily administration
+of AZD6738 until the attainment of maximum response.
+Given the relatively high CLL proliferation rate associated with clinically
+aggressive, relapsed/refractory disease,59 andthe potent cytotoxic
+effect of AZD6738 against proliferating TP53/ATM-defective CLL
+cells, we anticipate that this could be profound and achievable over
+weeks to months. Combination with chemotherapy or other targeted
+therapies would allow simultaneous targeting of both the proliferating
+and nonproliferating populations, and both DDR proficient and
+deficient subclones. When combined with ibrutinib, AZD6738 should
+be initiated first, with ibrutinib added subsequently and dual therapy
+continued until maximum response is attained.
+
+Figure 6 (continued) range of effective drug doses. CI values were calculated using the median-effect method. Each point represents the mean CI value of 3 samples plotted
+against the corresponding mean affected fraction that is expressed relative to untreated controls. CI ,0.9 represents synergism, CI 5 0.9-1.1 represents additive effect, and
+CI .1.1 represents antagonism. The actual values are presented in Table 2. (E-F) A primary CLL xenograft (CLL25) with a biallelic ATM defect (del(11q) and 1407I.T ATM
+mutation) was randomized into 4 treatment arms (n 5 5 each): AZD6738, chlorambucil, AZD6738-chlorambucil cotreatment, and vehicle. AZD6738 treatment alone or in
+combination with chlorambucil significantly reduced tumor load relative to vehicle, and the addition of AZD6738 to chlorambucil led to a significantly greater reduction in tumor
+load relative to chlorambucil monotherapy. The relative number of CLL cells in panel F was normalized to vehicle-treated controls. Data are displayed as mean 6 SEM.
+Statistical significance was determined using 2-way ANOVA with Bonferroni post hoc analysis and is indicated by *P , .05, **P , .01, and ***P , .001.
+
+Table 2. Combination indices of AZD6738 (1 or 3 mM) with cytotoxic chemotherapy or BCR signaling inhibitor in ATM- or TP53-defective
+primary CLL cells cocultured with CD40L/IL-21
+
+Drug combined with
+AZD6738 and dose (mM)
+AZD6738
+dose (mM)
+
+ATM-defective CLL (n 5 3) TP53-defective CLL (n 5 3)
+
+Fraction
+affected
+Combination index
+(mean 6 SEM) Synergism*
+Fraction
+affected
+Combination index
+(mean 6 SEM) Synergism*
+
+Chlorambucil
+4 1 0.37 0.30 6 0.05 1111 0.27 0.47 6 0.20 111
+16 1 0.45 0.34 6 0.04 111 0.35 0.38 6 0.17 111
+16 3 0.50 0.78 6 0.29 11 0.59 0.34 6 0.08 111
+Fludarabine
+1 1 0.22 0.83 6 0.29 11 0.18 0.81 6 0.24 11
+4 1 0.29 0.77 6 0.27 11 0.27 0.56 6 0.16 111
+16 1 0.44 0.71 6 0.21 11 0.49 0.37 6 0.05 111
+4-Hydroperoxycyclophosphamide
+1 1 0.39 0.32 6 0.11 111 0.29 0.36 6 0.11 111
+4 1 0.49 0.33 6 0.10 111 0.40 0.34 6 0.13 111
+4 3 0.60 0.12 6 0.02 1111 0.71 0.22 6 0.07 1111
+Ibrutinib
+1 1 0.37 0.36 6 0.00 111 0.20 0.84 6 0.27 11
+4 1 0.47 0.46 6 0.04 111 0.27 0.83 6 0.20 11
+16 1 0.60 1.00 6 0.13 6 0.44 1.05 6 0.17 6
+*1111, strong synergism; 111, synergism; 11, moderate synergism; 1, slight synergism; 6, additive.
+
+592 KWOK et al BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5
+Finally, TP53 andATM defects are poor prognostic markers in other
+hematologic malignancies including mantle cell lymphoma,60
+T-prolymphocytic leukemia,61,62 acute myeloid leukemia,63,64 myelodysplastic
+syndrome,65 multiple myeloma,66,67 and diffuse large B-cell
+lymphoma.68 Our work on CLL provides a model of how ATR
+
+inhibition could selectively target TP53- or ATM-defective cells, and its
+use in these malignancies could be explored in future studies.
+In conclusion, ATR inhibition allows selective targeting of
+genomically unstable DDR-defective CLL cells, therefore potentially
+helping to avert clonal evolution, a major cause of treatment
+
+Figure 7. A model for synthetic lethality
+in CLL cells with ATM or p53 deficiency
+by inhibition of ATR. ATM and ATR are
+master regulators of DDR, with ATM being
+activated in response to DNA double-strand
+breaks, and ATR in response to replication
+stress. (A) Activation of the ATR pathway
+leads to cell cycle arrest mediated primarily
+through the G2/M checkpoint and repair of
+stalled replication forks. This leads to the
+resolution of replication stress. (B-C) Inhibition
+of ATR by AZD6738 directly induces
+replication stress by slowing and stalling
+replication forks. The inability of CLL cells
+to resolve stalled forks as a result of suppressed
+ATR signaling leads to collapse of
+stalled replication forks into fragmented,
+partially replicated sister chromatids with
+free DNA DSEs that necessitate repair
+through the ATM/p53 pathway. This involves
+cell cycle arrest mediated primarily through
+the G1/S checkpoint and HRR. (D) In cells
+with defective ATM or p53, inhibition of ATR
+by AZD6738 results in an intolerable accumulation
+of unrepaired DNA damage. This
+arises from impaired HRR because of defective
+ATM and/or impaired cell cycle regulation
+resulting from combined loss of
+functional ATR and ATM/p53. PCNA, proliferating
+cell nuclear antigen; Pole, DNA
+polymerase e.
+
+BLOOD, 4 FEBRUARY 2016 x VOLUME 127, NUMBER 5 ATR TARGETING IN CLL WITH TP53 OR ATM DEFECTS 593
+refractoriness and disease relapse. The ATR kinase inhibitor AZD6738
+is currently being trialed for refractory solid tumors (registered at www.
+clinicaltrials.gov as #NCT02223923). Our preclinical data provide a
+basis for similar investigations for refractory TP53/ATM-defective
+CLL.
+

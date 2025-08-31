@@ -1,0 +1,289 @@
+6
+news & views
+
+interfaces, designed to be semipermeable
+to topological charge, thus leading to
+sophisticated forms of control over mobile,
+quantized information carriers. Artificial
+spin ice could be explored as a platform for
+neuromorphic ‘memcomputing’, in which
+the material functions as an interacting,
+collective memory storage unit capable of
+computation within the memory in absence
+of a logical unit9
+. Reprogrammable band
+structures for magnons10, manipulation
+of superconductive vortices by pinning to
+magnetic monopoles4
+, and coupling of the
+magnetic ensemble to transport11 are other
+promising directions for applications. And
+the functionality for all these potential
+technological developments is strongly
+
+dependent on the capability to manipulate
+the microstate directly.
+A complex system is defined by structure
+and ensemble. Much of the appeal of
+artificial spin ices has, since the beginning,
+relied on the control of the structure2
+.
+While not quite the dynamic Maxwell’s
+demon of our dinner of pioneers, the
+technique demonstrated by Gartside and
+co-workers finally opens the way to a
+much-needed capability for static, local,
+reliable and accurate manipulation of
+the ensemble. ❐
+
+Cristiano Nisoli
+Teoretical Division and Institute for Materials
+Science, Los Alamos National Laboratory,
+
+Los Alamos, NM, USA.
+e-mail: cristiano@lanl.gov
+
+Published online: 20 November 2017
+https://doi.org/10.1038/s41565-017-0021-y
+
+References
+1. Gartside, J. C. et al. Nat. Nanotech. https://doi.org/10.1038/
+s41565-017-0002-1 (2017).
+2. Nisoli, C., Kapaklis, V. & Schifer, P. Nat. Phys. 13,
+200–203 (2017).
+3. Farhan, A. et al. Nat. Phys. 9, 375–382 (2013).
+4. Wang, Y.-L. et al. Science 352, 962–966 (2016).
+5. Möller, G. & Moessner, R. Phys. Rev. B 80, 140409(R) (2009).
+6. Zhang, S. et al. Nature 500, 553–557 (2013).
+7. Anghinolf, L. et al. Nat. Commun. 6, 8278 (2015).
+8. Nisoli, C. et al. Phys. Rev. Lett. 105, 047205 (2010).
+9. Di Ventra, M. & Pershin, Y. V. Nat. Phys. 9, 200–202 (2013).
+10. Iacocca, E. et al. Phys. Rev. B 93, 134420 (2016).
+11. Le, B. L. et al. Phys. Rev. B 95, 060405 (2017).
+
+Nature Nanotechnology | VOL 13 | JANUARY 2018 | 5–10 | www.nature.com/naturenanotechnology
+
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+
+CANCER NANOMEDICINE
+
+A synthetic lethal bullet
+
+Nanoparticles loaded with paclitaxel and nintedanib induce synthetic lethality in endometrial cancer cells.
+
+Christian Rolfo and Elisa Giovannetti
+
+Conventional chemotherapeutic drugs
+like paclitaxel and doxorubicin
+cause cell death by affecting cellular
+processes that are more active in tumours
+but that exist in normal cells as well: because
+of this, they are highly toxic, imposing limits
+to their doses. For more than twenty years,
+nanomedicine has focused on developing
+nanoparticles as simple drug-delivery
+vehicles that can drive chemotherapy drugs
+towards tumours. Now, the new frontier
+in the field is represented by the so-called
+molecularly targeted cancer therapies.
+These are potentially more effective and less
+harmful to normal cells than conventional
+chemotherapies since they are designed
+to specifically interact with receptors and
+signalling molecules that play a pivotal role
+in cancer cell proliferation, and to target key
+tumour-promoting micro-environmental
+factors. The latest formulations exploit
+synthetic lethal interactions between
+tumour-specific aberrations and additional
+molecular processes. Yet, the efficacy
+of these therapeutic molecules remains
+affected by limited targeted delivery. Now,
+reporting in Nature Nanotechnology, Ebeid
+and co-authors propose an innovative
+approach to generate ‘synthetic lethal
+bullets’ with high tumour-delivery
+efficiency, which combines conventional
+and molecularly targeted anticancer agents
+with an innovative nanoparticle technology
+aimed at shrinking endometrial tumours1
+.
+
+Drug-delivery nanoparticles consist of
+macromolecular materials coupled with an
+active principle — a drug or a biologically
+active moiety — that is dissolved, entrapped,
+or encapsulated within the macromolecular
+shell or absorbed to its surface2
+. As an
+
+example, Abraxane, or nab-paclitaxel, is the
+first commercial-drug-loaded nanoparticle
+and consists of human serum albumin
+nanoparticles containing paclitaxel. It
+appeared on the market at the beginning of
+2005, and it is now approved for different
+
++ =
+
+Microtubule stabilization
+by paclitaxel
+Decreased p38 activation by
+paclitaxel and nintedanib
+Synthetic
+lethality
+
+Nanoparticle
+Leaky tumour vasculature
+
+Mutated TP53
+cancer cells
+
+Normal vasculature
+
+G2/M checkpoint
+abrogation
+
+Mitotic catastrophe
+and cell death
+
+TPGS Paclitaxel
+PLGA Nintedanib
+
+Fig. 1 | TPGS–PLGA nanoparticles loaded with nintedanib and paclitaxel extravasate through the leaky
+tumour vasculature and reach tumour cells. Paclitaxel induces microtubule stabilization. Cancer cells
+harbouring mutations in TP53 could activate p38 to compensate p53 loss, leading to cell cycle arrest.
+p38 inhibition by nintedanib causes synthetic lethality by G2/M checkpoint abrogation, which triggers
+mitotic catastrophe in TP53 mutated cancer cells and cell death. Structure of p38 retrieved from Protein
+Data Bank: 1WFC. The authors collaborated with J. Pinto Oblitas to create the figure.
+7
+
+news & views
+
+Nature Nanotechnology | VOL 13 | JANUARY 2018 | 5–10 | www.nature.com/naturenanotechnology
+
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+
+tumour types, including breast, lung and
+pancreatic cancer.
+Traditionally, the goal of nanoparticlebased
+chemotherapy has been to decrease
+normal tissue toxicity by improving drug
+specificity to tumours. The so-called
+EPR effect (enhanced permeability and
+retention) permits passive accumulation
+into the tumour interstitium thanks to
+its defective vasculature and ineffective
+lymphatic drainage. The heterogeneity
+of vascular permeability, however, limits
+nanoparticle penetration — most large-sized
+nanoparticles achieve only a suboptimal
+delivery and lack cytotoxic effects against
+cancer cells containing certain single-gene
+mutations that could be specifically targeted.
+The elegant approach reported by
+Ebeid and co-authors pieces together this
+challenging puzzle. First, in choosing
+Food and Drug Administration-approved
+biocompatible poly(lactic-co-glycolic acid)
+(PLGA) at a monomer ratio of 75:25 and
+tocopherol polyethylene glycol succinate
+(TPGS) as surfactant, they synthesize a
+nanoparticle that allows better drug uptake
+and accumulation, while reducing drug
+efflux. TPGS acts as an inhibitor of the
+permeability glycoprotein (P-glycoprotein),
+which confers resistance by mediating
+the ATP-dependent efflux of a wide
+array of anticancer drugs3
+. Moreover,
+they encapsulate, for the first time, the
+conventional chemotherapeutic agent
+paclitaxel and the novel angiokinase
+inhibitor BIBF 1120, known as nintedanib.
+The latter is a potent triple receptor
+tyrosine kinase inhibitor that targets
+multiple tyrosine kinases and has already
+demonstrated relevant clinical activity in
+ovarian and lung cancer patients when
+combined with docetaxel or paclitaxel4,5
+.
+However, these initial trials highlighted
+the existence of adverse effects, suggesting
+the need for better criteria to select those
+patients who will take full advantage of the
+
+proposed treatment. With regard to this
+point, an additional strength of the work by
+Ebeid et al. is the choice of a combinatory
+nanoformulation that promotes synthetic
+lethality specifically in cells with mutations
+causing loss-of-function of the TP53
+gene. Synthetic lethality typically arises
+when a combination of deficiencies in the
+expression of two or more genes leads to
+cell death6
+. In this case, mechanistic insights
+obtained in vitro and in vivo indicate that
+combination of paclitaxel with nintedanib
+induces synergistic cell death. Cells with
+TP53 loss-of-function rely on the p38
+pathway to enter the G2/M checkpoint — a
+control step in the cell cycle that ensures
+DNA integrity before mitosis — and avoid
+cell death linked to the mitotic catastrophe.
+Treatment with paclitaxel stabilizes mitotic
+microtubules and its combination with
+nintedanib reduces p38 activation, which
+leads cells to bypass the G2/M checkpoint
+and induces a mitotic catastrophe.
+Endometrial cancer is one of the only two
+common cancers with increasing incidence
+and mortality and thus urgently needs
+more effective treatments such as rationally
+designed multi-drug regimens, similar to the
+one proposed in this study. Of the different
+types of endometrial cancers, one of the
+most aggressive is uterine serous carcinoma,
+where TP53 is mutated in 93% of the cases.
+However, the clinical relevance of this study
+reaches beyond the applicability of these
+findings to endometrial cancer. In fact, TP53
+is the most frequently mutated gene in all
+cancers, and a recent study demonstrated that
+its mutations are clonal, meaning that they
+occur early in tumourigenesis and are present
+in the majority of cancer cells7
+. Future studies
+on ovarian and lung cancers selected for TP53
+driver mutations could indeed pave the way
+to the development of personalized medicine
+strategies for different tumour types.
+Nanoparticles present hope for improving
+cancer treatments by acting at least at two
+
+main levels: conferring new properties to a
+pharmaceutical agent (increased stability,
+modified pharmacokinetics and decreased
+toxicity) and driving the agent directly to
+the tumour, harnessing synthetic lethal
+interactions with targeted nanoparticles.
+The nanoparticles developed by Ebeid
+and co-authors have great potential for
+anticancer drug delivery and tumour
+targeting in TP53-mutated endometrial
+cancer, because they can exploit all the
+above-mentioned effects, as illustrated in
+Fig. 1. Of course, only new experiments and
+clinical trials will tell us whether, a century
+after Paul Ehrlich’s seminal hypothesis on
+chemotherapeutic magic bullets8
+ and the
+first description of the synthetic lethality
+phenomenon by Calvin Bridges9
+, we can
+finally begin to use successful nanoparticlebased
+synthetic lethal bullets. ❐
+
+
+

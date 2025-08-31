@@ -1,0 +1,638 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=kccy20
+
+Cell Cycle
+
+ISSN: 1538-4101 (Print) 1551-4005 (Online) Journal homepage: www.tandfonline.com/journals/kccy20
+
+Chk1 inhibition after replicative stress activates a
+double strand break response mediated by ATM
+and DNA-dependent protein kinase
+
+Samuel McNeely, Chiara Conti, Tahir Sheikh, Himali Patel, Sonya Zabludoff,
+Yves G. Pommier, Gary K. Schwartz & Archie Tse
+
+To cite this article: Samuel McNeely, Chiara Conti, Tahir Sheikh, Himali Patel, Sonya Zabludoff,
+Yves G. Pommier, Gary K. Schwartz & Archie Tse (2010) Chk1 inhibition after replicative stress
+activates a double strand break response mediated by ATM and DNA-dependent protein
+kinase, Cell Cycle, 9:5, 995-1004, DOI: 10.4161/cc.9.5.10935
+
+To link to this article: https://doi.org/10.4161/cc.9.5.10935
+
+Published online: 01 Mar 2010.
+
+Submit your article to this journal
+
+Article views: 1127
+
+View related articles
+
+Citing articles: 2 View citing articles
+www.landesbioscience.com Cell Cycle 995
+
+Cell Cycle 9:5, 995-1004; March 1, 2010; © 2010 Landes Bioscience
+ Report Report
+
+*Correspondence to: Archie Tse; Email: atse@dsi.com
+Submitted: 10/23/09; Revised: 12/09/09; Accepted: 12/14/09
+Previously published online: www.landesbioscience.com/journals/cc/article/10935
+
+Introduction
+
+Genotoxic stress in proliferating cells activates a signaling network
+referred to as the DNA damage response (DDR) that
+serves to ensure genetic stability by activating cell cycle checkpoints
+and initiating DNA repair.1
+ Central to the response are
+the phosphoinositide 3-kinase related kinases (PIKKs) ataxiatelangiectasia
+mutated (ATM), ATM and Rad 3-related kinase
+(ATR), and DNA-dependent protein kinase (DNA-PK)2-5
+which function as sensors and/or proximal transducers of
+the pathway. ATR primarily responds to replication blockage
+whereas ATM and DNA-PK are involved in recognition and
+repair of DNA double strand breaks (DSBs). However, there
+is significant overlap between the pathways. For example,
+DNA-PK is involved with repair of DNA damage resulting
+from replication blockage by aphidicolin6
+ and ATM is activated
+by nucleoside analogues at concentrations insufficient for
+DSBs.7
+ Cross-talk between the PIKKs is evidenced by ATMChk1
+inhibition after replicative stress activates a
+double strand break response mediated by ATM
+and DNA-dependent protein kinase
+
+Samuel McNeely,1
+ Chiara Conti,2 Tahir Sheikh,1
+ Himali Patel,3
+ Sonya Zabludoff,4
+ Yves Pommier,2
+ Gary Schwartz1
+ and Archie
+Tse1,*
+
+Departments of 1
+Medicine; and 3
+Epidemiology and Biostatistics; Memorial Sloan-Kettering Cancer Center; New York, NY USA; 2
+Laboratory of Molecular Pharmacology; Center
+for Cancer Research; National Cancer Institute; National Institutes of Health; Bethesda, MD USA; 4
+AstraZeneca R&D Boston; Waltham, MA USA
+
+*Current address: Department of Translational Medicine and Clinical Pharmacology, Daiichi-Sankyo, Inc. Edison, NJ USA
+
+Key words: Chk1, ATM, DNA-PK, AZD7762, gemcitabine
+
+dependent ATR activation in response to ionizing radiation
+(IR)8
+ and ATR-dependent ATM phosphorylation induced by
+ultraviolet light (UV).9
+Replicative block from UV, hydroxyurea, or nucleoside analogue
+treatment activates the ATR-Chk1 pathway. Unwinding
+of DNA ahead of stalled forks generates single-stranded DNA.
+Binding of replication protein A (RPA) to single stranded DNA
+recruits ATR via the ATR-interacting protein (ATRIP)10 and the
+replication factor C (RFC)1-5-Rad17 clamp-loader which loads
+the proliferating cell nuclear antigen (PCNA)-like Rad9-Hus1-
+Rad1 (9-1-1) sliding clamp onto DNA.11,12 Rad9 binds the adaptor
+topoisomerase (DNA) II binding protein 1 (TopBP1)13 which
+stimulates ATR, resulting in phosphorylation of histone H2A
+variant H2AX at Ser139 of its carboxy terminus to form γH2AX,14
+a marker of DNA damage. γH2AX may be important for recruitment
+of repair proteins and checkpoint maintenance in response
+to DSBs15 and may also be integral for genomic stability following
+replicative stress.16 ATR activates Chk1 by phosphorylating
+
+Checkpoint kinase 1 (Chk1) regulates cell cycle checkpoints and DNA damage repair in response to genotoxic stress.
+Inhibition of Chk1 is an emerging strategy for potentiating the cytotoxicity of chemotherapeutic drugs. Here, we
+demonstrate that AZD7762, an ATP-competitive Chk1/2 inhibitor induces γH2AX in gemcitabine-treated cells by altering
+both dynamics and stability of replication forks, allowing the firing of suppressed replication origins as measured by DNA
+fiber combing and causing a dramatic increase in DNA breaks as measured by comet assay. Furthermore, we identify
+ATM and DNA-PK, rather than ATR, as the kinases mediating γH2AX induction, suggesting AZD7762 converts stalled
+forks into double strand breaks (DSBs). Consistent with DSB formation upon fork collapse, cells deficient in DSB repair by
+lack of BRCA2, XRCC3 or DNA-PK were selectively more sensitive to combined AZD7762 and gemcitabine. Checkpoint
+abrogation by AZD7762 also caused premature mitosis in gemcitabine-treated cells arrested in G1
+/early S-phase.
+Prevention of premature mitotic entry via Cdk1 siRNA knockdown suppressed apoptosis. These results demonstrate
+that chemosensitization of gemcitabine by Chk1 inhibition results from at least three cellular events, namely, activation
+of origin firing, destabilization of stalled replication forks and entry of cells with damaged DNA into lethal mitosis.
+Additionally, the current study indicates that the combination of Chk1 inhibitor and gemcitabine may be particularly
+effective in targeting tumors with specific DNA repair defects.
+996 Cell Cycle Volume 9 Issue 5
+
+In addition to its effect on checkpoints, Chk1 inhibition with
+7-hydroxystaurosporine (UCN-01) or XL844 following gemcitabine
+treatment induces γH2AX.32,33 The kinase mediating the
+increase in γH2AX and how it relates to the effect of Chk1 inhibition
+on stalled replication forks have not been elucidated.
+The current study demonstrates that AZD7762, an ATPcompetitive
+Chk1/2 inhibitor undergoing phase I trials, markedly
+induces γH2AX, abrogates cell cycle arrest, and initiates
+apoptosis in gemcitabine-treated cells. AZD7762 alters replication
+fork dynamics by allowing initiation of replicons suppressed
+by gemcitabine. Unexpectedly, we found γH2AX formation was
+mediated by ATM and DNA-PK, rather than ATR, suggesting
+AZD7762 converted forks stalled by gemcitabine into DSBs.
+Consistent with DSB formation, cells deficient in DSB repair by
+lack of BRCA2, Rad51 paralog XRCC3, or DNA-PK were more
+sensitive to combined AZD7762 and gemcitabine. These novel
+findings suggest the combination of AZD7762 and gemcitabine
+may be particularly effective in targeting tumors with specific
+DDR defects.
+
+Results
+
+The impact of Chk1 inhibition on gemcitabine sensitivity was
+examined via cell proliferation assay. AZD7762 alone did not
+affect cell proliferation (Fig. 1A) but potentiated the anti-proliferative
+effect of gemcitabine. The percentage of apoptotic
+
+it on Ser317 and Ser345.
+17 Chk1 contributes to DDR by effecting
+S-phase and G2
+/M phase arrest through its interaction with
+Cdc25 phosphatases.18 Additionally, Chk1 coordinates Rad51-
+mediated homologous recombination (HR) involved with DSB
+break repair19 and is important for the maintenance of viable replication
+structures after DNA polymerase stalling.20
+Because of its critical role in cellular response to genotoxic
+stress, disruption of Chk1 function using small molecules is a
+strategy for improving the efficacy of DNA-targeted chemotherapeutics.
+Chk1 inhibition potentiates the cytotoxicity of
+genotoxic agents in vitro and in vivo.21-27 Several Chk1 inhibitors
+are undergoing clinical evaluation in combination with
+topoisomerase I poison or the deoxycytidine analogue gemcitabine
+(2', 2'-difluoro-2'-deoxycytidine).28 Gemcitabine is phosphorylated
+intracellularly and its diphosphate form (dFdCDP)
+depletes cellular pools of dNTPs via inhibition of ribonucleotide
+reductase,29 while incorporation of gemcitabine triphosphate
+(dFdCTP) into DNA causes polymerase stalling one
+base beyond the site of addition.30 These perturbations of DNA
+metabolism prevent complete replication and activate the DNA
+damage response pathway.31 In cells treated with gemcitabine,
+Chk1 inhibition abolishes S-phase checkpoint27,32 and causes
+premature mitosis.26,27,33,34 However, a previous study indicated
+a lack of correlation between premature mitotic entry and cytotoxicity35
+bringing into question the mechanism for chemosensitization
+by Chk1 inhibitors.
+
+Figure 1. AZD7762 potentiates gemcitabine cytotoxicity. HCT116 cells were treated with gemcitabine (Gem) for 2 h, washed, and incubated with
+or without 100 nM AZD7762 for 24 h. (A) Proliferation assay. (B) Quantitation of apoptosis in cultures treated with no drug (ND), 2 µM Gem, and/or
+AZD7762 as indicated. Cultures treated with 20 µM ZVAD were included with each condition. (A and B) are means ± standard deviation (SD) for one of
+three experiments. (C) Immunoblot analysis of Chk1 and PARP. Data represent at least three experiments.
+www.landesbioscience.com Cell Cycle 997
+
+cells treated with gemcitabine and AZD7762 was likely due to
+reduced total Chk1 protein.
+We then examined the impact of AZD7762 on DDR. In cells
+treated only with gemcitabine we observed minimal induction of
+γH2AX (Fig. 2A). Incubation with AZD7762 after gemcitabine
+caused a marked increase in γH2AX. Total levels of H2AX were
+unchanged. γH2AX formation was not diminished by Z-VADFMK,
+indicating the increase in γH2AX was not related to apoptotic
+DNA fragmentation (Fig. 2A, lower). To confirm increased
+γH2AX was due to Chk1 inhibition, Chk1 siRNA-transfected
+cells were treated with gemcitabine. Chk1 siRNA recapitulated
+AZD7762 effects (Fig. 2B), resulting in γH2AX induction in
+cells treated with gemcitabine alone comparable to that in cells
+
+cells after treatment was assessed with quantitative fluorescence
+microscopy of DAPI-stained cells (Fig. 1B). Treatment with
+AZD7762 after gemcitabine increased the percentage of apoptotic
+cells from 6% to 26%. When gemcitabine-treated cultures
+were treated with or without AZD7762 and then cultured an
+additional 24 h in drug-free media, AZD7762 increased the
+percentage of apoptotic cells from 17% to 45%. Pan-caspase
+inhibitor Z-VAD-FMK reduced the number of apoptotic nuclei,
+consistent with their development being a caspase-dependent
+process. In gemcitabine-treated cells, AZD7762 increased levels
+of 89 kDa PARP cleavage product, a marker of apoptosis
+(Fig. 1C). We confirmed gemcitabine induced Ser317 and Ser345
+Chk1 phosphorylation (Fig. 1C). Decreased phospho-Chk1 in
+
+Figure 2. AZD7762 causes marked induction of γH2AX and abrogates suppression of replication origin firing in gemcitabine-treated cells. (A) HCT116
+cells were treated with or without Gem for 2 h, washed, and incubated with or without AZD7762 for 24 in the absence or presence of 20 µM ZVAD.
+(B) Cells were treated as described in (A). Additionally, cells transfected with control, Chk1 or Chk2 siRNA were included. Data represent at least three
+experiments. (C and D) DNA fiber combing analysis. (C) Experimental protocol for measuring frequency of new origins. Cells were pulsed with IdU for
+45 min and 2 µM Gem was added for the last 30 min. Cells were washed (W) and pulsed for 45 min with CldU. When present, AZD7762 was maintained
+at 100 nM for the entire experiment. (a) Image of a bidirectional replication fork firing during initial IdU pulse or (b) second CldU pulse. (D) Frequency
+of new origins. Bars represent SEM. Several slides from one biological replicate were analyzed.
+998 Cell Cycle Volume 9 Issue 5
+
+3% to 9%. Replication fork velocity was also determined.
+Gemcitabine caused a 65% reduction in fork velocity (Suppl.
+Fig. 1C). AZD7762 demonstrated only a very modest, albeit
+statistically significant, restoration of the median fork velocity
+in gemcitabine-treated cultures. Additionally, AZD7762 did not
+cause an increase in DNA replication in gemcitabine-treated cells
+in assays utilizing tritiated thymidine incorporation to measure
+DNA synthesis (data not shown). Taken together, these data suggest
+that forks emanating from disinhibited origins stalled after
+limited replication.
+ATR is the PIKK primarily involved with DDR to replicative
+stress and phosphorylates H2AX at Ser139.
+14 The contribution of
+ATR to increased γH2AX was assessed in ATRFlox cells which
+have one functional ATR allele flanked by LoxP sites that is susceptible
+to Cre recombinase-mediated deletion.38 ATR expression
+in ATRFlox cells is lower than in the HCT116 cells from
+which they were derived, likely due to LoxP sites hindering gene
+expression (Fig. 3A). Treatment with Cre recombinase further
+suppressed ATR. However, ATR suppression did not diminish
+induction of γH2AX in cells treated with gemcitabine and
+AZD7762. Rather, ATR loss resulted in increased γH2AX in cells
+treated with gemcitabine alone. Similar results were observed in
+ATR hypomorphic lymphoblasts isolated from a Seckel syndrome
+patient when compared to normal lymphoblasts (Fig. 3B). These
+data suggest ATR functions through Chk1 to prevent increased
+DNA damage leading to γH2AX induction following replicative
+stress but is not the PIKK responsible for γH2AX induction in
+cells treated with gemcitabine and AZD7762.
+We considered whether Chk1 inhibition after gemcitabine
+converted stalled forks into DSBs that might impinge upon
+ATM, the PIKK mediating the response to DSBs in S-phase
+cells. ATM is recruited and activated by the Mre11-Rad50-NBS1
+(MRN) complex39 which promotes autophosphorylation of
+Ser1981 of ATM, allowing dissolution of ATM dimers into active
+monomers.40 This results in phosphorylation of targets involved
+in DDR, including H2AX. In HCT116 cells, AZD7762 combined
+with gemcitabine induced Ser1981 phosphorylation of ATM
+(Fig. 3A). To test whether activated ATM mediated induction of
+γH2AX we compared lymphoblasts from a normal individual to
+those from an individual with ataxia-telangiectasia (AT) deficient
+for ATM. Induction of γH2AX appeared intact in AT cells (Fig.
+3B), indicating ATM is dispensable for γH2AX in these cells and
+strongly implicating DNA-PK involvement. DNA-PK is composed
+of the Ku70/Ku80 heterodimer and the catalytic subunit,
+DNA-PKcs.5,41 DNA-PK mediates non-homologous end joining
+(NHEJ) of DSBs and its activation involves autophosphorylation
+at Ser2056 and Thr2609.
+42,43 In HCT116 cells, gemcitabine followed
+by AZD7762 induced Ser2056 phosphorylation of DNA-PKcs
+(Fig. 4A) and immunofluorescence analysis indicated γH2AX
+colocalized with phospho-Ser2056 DNA-PKcs (Suppl. Fig. 2).
+DNA-PK inhibitor NU7026 diminished γH2AX induction
+in AT cells treated with both gemcitabine and AZD7762 (Fig.
+4B). We examined the effect of siRNA-mediated suppression
+of DNA-PKcs in HCT116 cells. DNA-PKcs siRNA diminished
+γH2AX induction (Fig. 4C), confirming DNA-PK was the primary
+mediator of increased DDR to Chk1 inhibition following
+
+expressing Chk1 and treated with gemcitabine and AZD7762.
+Although AZD7762 also inhibits Chk2,26 Chk2 siRNA did not
+phenocopy AZD7762 (Fig. 2B, lower), indicating the effects of
+AZD7762 were primarily due to Chk1 inhibition, consistent
+with another study demonstrating that Chk2 deficiency does not
+affect gemcitabine cytotoxicity.36
+To examine possible causes of increased DDR related to Chk1
+inhibition, we used DNA fiber combing analysis to determine
+the impact of AZD7762 on suppression of replication origin firing
+after gemcitabine. Cultures were sequentially pulse-labeled
+with IdU and CldU during drug treatment (Fig. 2C). DNA
+fibers incorporating IdU and CldU were visualized as green and
+red tracks, respectively, under immunofluorescence after labeling
+with halogenated nucleoside-specific antibodies. Newly synthesized
+DNA emanating from replication origins fired prior to
+the initial IdU pulse was labeled green (Fig. 2C, a). Contiguous
+with green tracts were red tracts of DNA synthesized as replication
+continued during the CldU pulse. Conversely, nascent DNA
+emanating from replication origins fired during the CldU pulse
+after gemcitabine was labeled only red (Fig. 2C, b). The percentage
+of new origins firing after the first pulse during various drug
+treatments was calculated by dividing the number of red-only
+tracts by the total red/green and red-only tracts. Treatment with
+AZD7762 increased the percentage of new origins from 33% to
+42% (Fig. 2D), consistent with a study indicating Chk1 regulates
+replication initiation in unperturbed S-phase.37 Gemcitabine
+suppressed the percentage of new origins to 3%. AZD7762
+partially restored origin firing suppressed by gemcitabine from
+
+Figure 3. γH2AX induction is ATR-independent and not diminished
+by ATM deficiency. (A) HCT116 or ATRFlox cells. ATRFlox cells were
+transfected with null or Cre-recombinase adenoviral vector prior to
+treatment. Cells were treated with Gem for 2 h, washed, and incubated
+with AZD7762 for 24 h. (B) Normal, AT or Seckel syndrome lymphoblasts
+were treated as in (A). Data represent at least three experiments.
+www.landesbioscience.com Cell Cycle 999
+
+< 0.05) more sensitive to the combination than their wildtype
+counterpart at gemcitabine concentrations above 0.01 µM (Fig.
+5D). These data are consistent with Chk1 inhibition following
+replicative stress converting stalled forks to DSBs that require
+both HR and NHEJ repair pathways for survival.
+To examine the interplay between checkpoint abrogation and
+enhanced DDR due to Chk1 inhibition, the effects of AZD7762
+on cell cycle progression were studied in gemcitabine-treated
+cells. Treatment with AZD7762 had no appreciable effect on
+cell cycle distribution (Fig. 6A) as determined by flow cytometry
+for DNA content and staining for mitotic marker MPM2.
+To monitor progression of S-phase cells through the cell cycle,
+asynchronous cultures were pulse-labeled with bromodeoxyuridine
+(BrdU) and the fate of BrdU-positive cells was observed
+after drug treatment. Untreated or AZD7762-treated cells traversed
+S-phase and cycled normally, eventually accumulating
+in G1
+ (Suppl. Fig. 3). Treatment with gemcitabine caused accumulation
+of cells with G1
+/early S-phase DNA content and concomitant
+reduction in the percentage of mitotic cells from 3.2%
+to 0.06% (Fig. 6A). Gemcitabine also caused the loss of mitotic
+marker phospho-Ser10-histone H3, as determined by western
+blot (Fig. 2B, upper). Gemcitabine prevented cells incorporating
+BrdU from completing S-phase (Suppl. Fig. 3). As expected,
+inhibition of Chk1 by AZD7762 after gemcitabine abrogated
+G1
+/early S-phase arrest, restoring phospho-Ser10-histone H3 (Fig.
+2B, upper). Chk1 siRNA also restored phospho-Ser10-histone
+H3 in gemcitabine-treated cells, similar to AZD7762 (Fig. 2B,
+upper), while Chk2 siRNA failed to do so (Fig. 2B, lower). In
+gemcitabine-treated cultures, AZD7762 increased the percentage
+of MPM2 positive cells from 0.12% to 12% (Fig. 6A). Notably,
+the majority of these mitotic cells had G1
+/early S-phase DNA
+
+replicative stress in HCT116 cells. However, in MKN-74 cells,
+both siRNA-mediated knockdown of DNA-PKcs and inhibition
+of ATM with KU55933 were required for diminution of γH2AX,
+indicating both PIKKs contribute to γH2AX induction in these
+cells (Fig. 4D).
+Our data supported the idea that Chk1 inhibition following
+gemcitabine converted stalled forks into DSBs. To assess the
+impact of AZD7762 on the extent of DNA damage in gemcitabine-treated
+cells, we used the comet assay. Cells were treated
+with vehicle or gemcitabine for 45 min, washed, and incubated an
+additional 16 h. In cultures also treated with AZD7762, the drug
+was added 45 min prior to gemcitabine treatment and maintained
+throughout the experiment. Cells exposed to IR and SN-38, the
+active metabolite of irinotecan, were included as positive controls
+for DSBs. Z-VAD-FMK was included during treatment to
+prevent apoptotic DNA fragmentation from contributing to the
+amount of DNA damage determined by the assay. AZD7762
+increased the amount of DNA damage in gemcitabine-treated
+cells, doubling the median TM from 17 to 33 (Fig. 5A), a level
+comparable to that caused by IR and SN-38.
+We hypothesized that cells defective in DSB repair by virtue
+of deficiency in either HR or NHEJ would be more sensitive to
+the combination of gemcitabine and Chk1 inhibitor. In a colony
+formation assay, the BRCA2-deficient VC8 cell line was more
+susceptible to treatment with gemcitabine and AZD7762 than
+its isogenic counterpart complemented with a bacterial artificial
+chromosome expressing BRCA2 (Fig. 5B). Similarly, lack of
+Rad51 paralog XRCC3 in irs1SF cells rendered them more sensitive
+than parental AA8 cells to the combination of drugs (Fig.
+5C). Mefs from severe combined immune deficiency (SCID)
+mice defective for DNA-PKcs were slightly but significantly (p
+
+Figure 4. γH2AX induction is mediated by DNA-PK in AT and HCT116 cells, and both DNA-PK and ATM in MKN-74 cells. (A–D) Cells were treated with
+Gem for 2 h, washed, and treated with AZD7762 for 24 h. (A) HCT116 cells. (B) AT lymphoblasts were incubated with DMSO or NU7026 for 1 h prior to
+treatment. Vehicle or inhibitor was maintained throughout treatment. (C) HCT116 cells were transfected with either control or DNA-PKcs siRNA prior to
+treatment. (D) MKN-74 cells were transfected with control or DNA-PKcs siRNA prior to treatment. Additionally, KU55933 or DMSO was added 1 h prior
+to treatment and maintained throughout the experiment. Data represent at least three experiments.
+1000 Cell Cycle Volume 9 Issue 5
+
+mitotic entry. We also confirmed these results with flow cytometry
+analysis of MPM2 and DNA content (data not shown).
+PARP cleavage was not observed in Cdk1-depleted cells, indicating
+premature mitosis was important for cell death. Flow
+analysis demonstrated gemcitabine induced accumulation of G1
+/
+early S-phase cells equally well in cells transfected with control
+or Cdk1 siRNA, ruling out the possibility that Cdk1 knockdown
+rescued cells from apoptosis by negating the S-phase targeting
+effect of gemcitabine.
+
+Discussion
+
+Dysregulation of cell cycle checkpoints is integral for neoplastic
+transformation of cancer cells and results in a reduced capacity to
+regulate cell cycle progression after exposure to genotoxic agents.
+One strategy for potentiation of conventional DNA-targeted therapies
+exploits the loss of checkpoints in cancer cells through the
+pharmacologic inhibition of remaining cell cycle controls. Small
+molecule inhibitors of Chk1 represent a promising class of drugs
+shown to improve the efficacy of genotoxic agents both in vitro
+and in vivo. The current study demonstrates that Chk1/2 inhibitor
+AZD7762 increases the sensitivity of cells to gemcitabine by
+abrogating suppression of replication origin firing, destabilizing
+stalled replication forks, and inducing mitotic death.
+
+content, indicating that AZD7762 induced premature mitosis.
+Consistent with premature mitosis, cells labeled with BrdU prior
+to gemcitabine treatment failed to complete DNA replication
+when treated with AZD7762 (Suppl. Fig. 3). Interestingly, very
+few mid/late S-phase cells prematurely entered into mitosis when
+treated with AZD7762 subsequent to gemcitabine. To examine
+the fate of cells entering aberrant mitosis, HCT116 cells expressing
+GFP-linked histone H2B were used with time-lapse microscopy.
+In cultures treated with AZD7762 after gemcitabine, we
+began observing the appearance of cells with condensed DNA
+entering mitosis after about 18 h (Suppl. data). These cells
+futilely attempted cytokinesis while the DNA became highly
+fragmented, suggesting that premature mitosis resulted in cell
+death. This aberrant mitosis was not observed with the other
+treatments (data not shown).
+To test whether increased apoptosis resulting from Chk1
+inhibition was due to premature mitosis, we used Cdk1 siRNA
+to prevent mitotic entry in cells treated with gemcitabine and
+AZD7762. Cells were transfected with control or Cdk1 siRNA
+for 12 h and treated with gemcitabine for 2 h followed by 24 h
+treatment with AZD7762. Cdk1 expression was diminished at
+12 h and maximally suppressed by 24 h (Fig. 6B). Cdk1 siRNA
+prevented AZD7762 from restoring phospho-Ser10-histone H3
+in gemcitabine-treated cells (Fig. 6C), indicating prevention of
+
+Figure 5. AZD7762 increases strand breaks and deficiency in HR or NHEJ sensitizes cells to gemcitabine and AZD7762. (A) Alkaline comet assay of
+HCT116 cells. Cultures were treated for 45 min with no drug or Gem, washed and incubated an additional 16 h. When present, AZD7762 was added 45
+min prior to Gem treatment and maintained throughout the experiment. (B–D) Colony formation assays. Cells were treated with Gem for 2 h, washed,
+and incubated 24 h with no drug or 100 nM AZD7762. (B) VC8 or BRCA2-complemented VC8 cells. (C) AA8 or XRCC3-deficient irs1SF cells. (D) Wildtype
+(WT) or SCID Mefs. Data are means ± SD of one from 2–5 experiments with similar results.
+www.landesbioscience.com Cell Cycle 1001
+
+enzyme and it is unclear if the experiments in the current study
+would allow sufficient time for this to occur.
+Chk1 inhibition following gemcitabine resulted in markedly
+increased γH2AX. γH2AX induction by UV- or 5-fluorouracil-induced
+replicative stress is mediated by ATR.9,14 However,
+induction of γH2AX by gemcitabine and AZD7762 was not
+diminished in cells with reduced expression of ATR, indicating
+ATR was not the major H2AX kinase and that ATR-mediated
+Chk1 activation protected against development of lesions
+impinging upon other PIKKs. Indeed, AZD7762 caused activating
+phosphorylation of ATM and DNA-PKcs. ATM phosphorylation
+was ATR-independent (Fig. 3), in contrast to that induced
+by UV.9
+ In response to IR, ATM and DNA-PK function redundantly
+in phosphorylating H2AX.47 Intact γH2AX formation in
+ATM-deficient lymphoblasts in response to gemcitabine followed
+by AZD7762 suggested γH2AX formation was mediated by
+DNA-PK. In HCT116 cells, siRNA knockdown of DNA-PKcs
+diminished γH2AX formation, while neither ATM knockdown
+nor chemical inhibition had an impact, suggesting DNA-PK
+was the mediator of γH2AX formation in these cells. However,
+
+Chk1 blocks the activation of late replicons in cells exposed to
+replicative stress.44 Using DNA fiber combing, we observed that
+AZD7762 partially restores firing of previously suppressed replication
+origins in gemcitabine-treated cells. However, in gemcitabine-treated
+cells, AZD7762 did not increase DNA synthesis or
+fork velocity. These data suggest that newly fired replicons likely
+stalled after limited replication. The incorporation of gemcitabine
+into DNA causes polymerase stalling one base beyond the site
+of addition30 resulting in masked chain termination that makes
+its excision difficult for DNA repair systems.45 Consequently,
+the inability to remove gemcitabine from DNA may present an
+impasse for the completion of DNA synthesis, even when Chk1-
+induced cell cycle controls have been inhibited. In contrast to such
+passive replication inhibition caused by a physical lesion, active
+replication inhibition by the checkpoint may be abrogated with
+Chk1 inhibition as illustrated by the restoration of DNA synthesis
+by either UCN-01 or CHIR-124 after exposure to the topoisomerase
+I poison camptothecin.46 Additionally, ribonucleotide
+reductase inhibition by gemcitabine is irreversible. Consequently,
+replenishment of dNTP pools would require synthesis of new
+
+Figure 6. AZD7762 abrogates G1
+/early S-phase arrest and induces lethal premature mitosis. (A) Flow cytometry analysis of HCT116 cells untreated or
+treated with 2 µM Gem for 2 h, washed, and treated with no drug (ND) or 100 nM AZD7762 for 24 h. Mitotic cells were detected via labeling with MPM2
+antibody and DNA content was determined with propidium iodide staining. (B) HCT116 cells were untreated or transfected with control or Cdk1 siRNA
+and collected at the indicated times post-transfection. (C) HCT116 cells were transfected with control or Cdk1 siRNA for 12 h, treated with Gem for 2 h,
+washed, and incubated with AZD7762 for 24 h. Data represent at least two experiments with similar results. (D) Model for increased DNA damage and
+cell death resulting from Chk1 inhibition following replicative stress. Double lines represent consequences of Chk1 inhibition by AZD7762.
+1002 Cell Cycle Volume 9 Issue 5
+
+cycle arrest by Chk1 inhibition allows S-phase cells to progress
+directly into mitosis with incompletely replicated DNA, resulting
+in apoptosis. The current study contributes to the growing
+evidence that Chk1 inhibition is a viable strategy for potentiation
+of DNA-targeted therapies, meriting further inquiry.
+
+Materials and Methods
+
+Chemicals. Gemcitabine was purchased from Eli Lilly
+(Indianapolis, IN). AZD7762 and KU55933 were provided
+by AstraZeneca (Waltham, MA and Cambridge, UK respectively).
+NU7026, iododeoxyuridine (IdU), and chlorodeoxyuridine
+(CldU) were purchased from Sigma-Aldrich (St. Louis,
+MO). Z-VAD-FMK was purchased from MBL International
+Corporation (Woburn, MA).
+Cell culture. HCT116 colorectal cancer cells were provided
+by Dr. Bert Vogelstein (John Hopkins University, Baltimore,
+MD) and maintained in RPMI. ATRFlox cells were purchased
+from the American Type Culture Collection (Manassas, VA)
+and maintained in McCoy’s medium. MKN-74 gastric cancer
+cells were provided by Dr. E. Tahara (Hiroshima University,
+Hiroshima, Japan) and grown in MEM. AA8 and irs1SF Chinese
+hamster cells were provided by Dr. Andrew Pierce (Memorial
+Sloan Kettering Cancer Center (MSKCC), New York, NY).
+VC8 and VC8-BRCA2-complemented Chinese hamster cells
+were provided by Dr. Maria Jasin (MSKCC). Hamster cells were
+maintained in DMEM. Normal (GM01953), ataxia-telangiectasia
+(GM01526), and Seckel syndrome (GM18367) lymphoblasts
+were purchased from Coriell (Camden, NJ) and maintained
+in RPMI. SCID and wildtype murine embryonic fibroblasts
+(Mefs) were provided by Dr. John Petrini (MSKCC) and cultured
+in DMEM. Cells were grown at 37°C, 90% humidity, and
+5% CO2
+; all media contained 1% penicillin/streptomycin and
+10% FBS (Hyclone, Logan UT), except for lymphoblasts which
+received 15% FBS and Mefs cultured with 10% Cosmic Calf
+Serum (Hyclone).
+Gene silencing by adenovirus or siRNA. ATRFlox cells were
+infected with Ad-CMV-null or Ad-CMV-Cre adenovirus (Vector
+Biolab, Philadelphia, PA) for 24 h and cultured another 48 h in
+fresh media before treatment.
+Control and Chk1 siRNAs were purchased from Dharmacon
+(Lafayette, CO) and described previously.50 CDC2/CDK1 siRNA
+(M-003224-03) was also purchased from Dharmacon. Chk2
+(SC-29271), DNA-PKcs (SC-35200) and control (SC-37007)
+siRNAs were purchased from Santa Cruz Biotechnology, Inc.,
+(Santa Cruz, CA). Transfections were performed as described.50
+Clonogenicity and proliferation assays. Colony assays were
+performed as described.23 For proliferation assays, cells were
+seeded in 96-well plates and allowed 24 h to attach. After treatment,
+cells were cultured 48 h in drug-free media and assayed with
+WST-8 (Dojindo Molecular Technologies, Inc., Gaithersburg,
+MD) as per manufacturer’s directions. Absorbance at 450 nm
+was measured on a Spectramax 340pc (Molecular Devices,
+Sunnyvale, CA).
+Immunoblotting. Immunoblotting was performed as
+described.23 Mouse monoclonal antibodies were: ATM (2C1),
+
+inhibition of γH2AX induction in MKN-74 cells required inhibition
+of ATM in addition to DNA-PKcs knockdown, indicating
+redundancy within these kinases. Thus, the relative contribution
+of ATM and DNA-PK to γH2AX formation appears to be cell
+line dependent. A possible explanation is that Mre11 is mutated
+in HCT116 cells, resulting in lowered expression of the MRN
+complex.48 While MRN deficiency does not prevent ATM activation,
+it does result in defective Chk2 phosphorylation48 and likely
+diminishes ATM’s contribution to γH2AX formation. These findings
+are consistent with a study demonstrating ATR-deficiency in
+Mefs causes increased γH2AX following exposure to aphidicolin
+mediated by DNA-PK and ATM.16
+Activation of ATM and DNA-PK suggested AZD7762 converted
+stalled forks into DSBs, consistent with studies in yeast
+showing checkpoint deficiency leads to abnormal DNA structures
+after replicative stress likely due to collapse of stalled forks.49 We
+examined whether deficiencies in pathways responsive to DSBs
+impacted survival of cells exposed to gemcitabine and AZD7762.
+AZD7762 potentiated the effects of gemcitabine in VC8 cells
+deficient for BRCA2 and irs1-SF cells deficient for Rad51 paralog
+XRCC3 suggesting HR deficiencies prevented repair of breaks
+induced by the combination of drugs. Although Chk1 is required
+for HR, we speculate the lack of epistasis between Chk1 inhibition
+and HR deficiency is due to recovery of Chk1-mediated functions
+after AZD7762 wash in the clonogenicity assay. Because
+Chk1 inhibition likely diminishes repair through HR, activation
+of DNA-PK may reflect a response of NHEJ to DSBs when
+HR is compromised. DNA-PKcs-deficient SCID Mefs exhibited
+reduced clonogenic survival when treated with AZD7762 after
+gemcitabine. However, the degree of sensitization by AZD7762
+was smaller in SCID Mefs compared to HR-deficient cell lines,
+consistent with HR being the dominant DSB repair pathway
+in S-phase cells. These data provide evidence that DNA repair
+deficiencies compromise cancer cell survival after treatment with
+combined gemcitabine and AZD7762, providing an opportunity
+to target tumors with specific DDR defects.
+Gemcitabine-treated cells incubated with AZD7762 progressed
+from G1
+/early S-phase directly into mitosis without
+completing DNA replication. Cdk1 suppression with siRNA
+prevented this aberrant mitotic entry, resulting in decreased
+apoptosis. These data argue Cdk1 activity and/or premature
+mitosis in cells with incompletely replicated DNA is important
+for increased apoptosis through Chk1 inhibition. It is worth
+noting that few mid/late S-phase cells underwent premature
+mitosis. One explantation is that an ATR/Chk1-independent
+S-phase checkpoint is activated in mid/late S-phase cells that is
+not active in G1
+/early S-phase cells. It is possible that increased
+DSBs resulting from fork collapse caused by AZD7762 in
+gemcitabine-treated mid/late S-phase cells activate the ATMdependent
+intra-S phase checkpoint that would not be susceptible
+to Chk1 inhibition.
+We propose the following model for Chk1 inhibitor chemosensitization
+after replicative stress (Fig. 6D). Chk1 inhibition
+allows firing of suppressed replication origins after replicative
+stress and destabilizes stalled forks, thereby preventing completion
+of replication and generating DSBs. Finally, abrogation of cell
+www.landesbioscience.com Cell Cycle 1003
+
+washed in PBS containing 0.05% Tween-20 and incubated with
+secondary antibodies: donkey anti-rat Alexa Fluor® 594, donkey
+anti-mouse Alexa Fluor® 488 (Molecular Probes). Slides were
+washed and mounted in Vectashield (Vector Laboratories, Inc.,
+Burlingame, CA).
+Single-cell gel electrophoresis (comet assay). Comet assay
+was performed as described previously.52 Cells incubated
+with 100 nM SN-38 for 20 h, and cells irradiated with 20
+Gy (Shepherd Mark-1 model 68 irradiator with a cesium-137
+source delivering 200 cGy/min) and harvested on ice immediately
+subsequent to exposure were included as positive controls.
+Z-VAD-FMK (20 µM) was included with all treatments. Fifty
+cells from each of three replicates were randomly selected and
+quantified using Komet 5.5 software (Kinetic Imaging, UK).
+The extent of damage was quantified by the tail moment (TM),
+defined as the product of the percent DNA in the comet tail and
+the distance between the means of tail and head fluorescence
+distributions.53
+

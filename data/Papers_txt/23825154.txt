@@ -1,0 +1,1718 @@
+© The Author 2013. Published by Oxford University Press. All rights reserved. For Permissions, please email: journals.permissions@oup.com
+
+Carcinogenesis vol.34 no.11 pp.2486–2497, 2013
+doi:10.1093/carcin/bgt240
+Advance Access publication July 3, 2013
+
+Curcumin suppresses multiple DNA damage response pathways and has potency as a
+sensitizer to PARP inhibitor
+
+Hideaki Ogiwara, Ayako Ui1
+, Bunsyo Shiotani2,3
+, Lee Zou2
+,
+Akira Yasui1
+ and Takashi Kohno*
+Division of Genome Biology, National Cancer Center Research Institute,
+Tokyo 104-0045, Japan, 1
+Department of Molecular Genetics, Institute of
+Development, Division of Dynamic Proteome, Aging and Cancer, Tohoku
+University, Sendai 980-8575, Japan and 2
+Massachusetts General Hospital
+Cancer Center, Harvard Medical School, Charlestown, MA 02129, USA
+3
+Present address: Department of Cellular and Molecular Biology, Graduate
+School of Biomedical Science, Hiroshima University, Hiroshima 739-0046,
+Japan
+*To whom correspondence should be addressed. Division of Genome
+Biology, National Cancer Center Research Institute, 5-1-1 Tsukiji, Chuo-ku,
+Tokyo 104-0045, Japan. Tel: +81 3 3542 2511; Fax: +81 3 3542 0807;
+Email: tkkohno@ncc.go.jp
+Inhibitors of poly(ADP-ribose) polymerase (PARP) are promising
+anticancer drugs, particularly for the treatment of tumors deficient
+in the DNA damage response (DDR). However, it is challenging to
+design effective therapeutic strategies for use of these compounds
+against cancers without DDR deficiencies. In this context, combination
+therapies in which PARP inhibitors are used alongside DDR
+inhibitors have elicited a great deal of interest. Curcumin, a component
+of turmeric (Curcuma longa), has been tested in clinical
+studies for its chemosensitizing potential; however, the mechanisms
+of chemosensitization by curcumin have not been fully elucidated.
+This study demonstrates that curcumin suppresses three major
+DDR pathways: non-homologous end joining (NHEJ), homologous
+recombination (HR) and the DNA damage checkpoint. Curcumin
+suppresses the histone acetylation at DNA double-strand break
+(DSB) sites by inhibiting histone acetyltransferase activity, thereby
+reducing recruitment of the key NHEJ factor KU70/KU80 to DSB
+sites. Curcumin also suppresses HR by reducing expression of the
+BRCA1 gene, which regulates HR, by impairing histone acetylation
+at the BRCA1 promoter. Curcumin also inhibits ataxia telangiectasia
+and Rad3-related protein (ATR) kinase (IC50 in vitro = 493nM),
+resulting in impaired activation of ATR-CHK1 signaling, which is
+necessary for HR and the DNA damage checkpoint pathway. Thus,
+curcumin suppresses three DDR pathways by inhibiting histone
+acetyltransferases and ATR. Concordantly, curcumin sensitizes
+cancer cells to PARP inhibitors by enhancing apoptosis and mitotic
+catastrophe via inhibition of both the DNA damage checkpoint and
+DSB repair. Our results indicate that curcumin is a promising sensitizer
+for PARP inhibitor-based therapy.
+
+Introduction
+
+Poly(ADP-ribose) polymerase (PARP) inhibitors are a promising new
+class of anticancer drugs that inhibit the enzymatic activity of PARP1
+protein, which is involved in the repair of DNA single-strand breaks
+(SSBs) (1). Inhibition of PARP1 impairs SSB repair and increases the
+number of DNA double-strand breaks (DSBs) (1). Cancer cells that
+
+lack intact BRCA1 or BRCA2 protein, exemplified by hereditary breast
+and ovarian cancers, are deficient in the DNA damage response (DDR)
+(2–5). Several clinical trials have demonstrated that PARP inhibitors
+are highly effective at killing such cancers (6–10). Inhibition of PARP
+activity is also detrimental to cancer cells whose DDR activities are
+deficient due to RNAi-mediated ablation of DDR genes other than
+BRCA1/2 (5,11). However, most human cancers contain intact DDR
+genes and retain DDR activity. Therefore, it will be challenging, but
+is nonetheless essential, to establish effective therapeutic methods for
+using PARP inhibitors against the majority of cancers, which lack DDR
+deficiencies. In such efforts, drugs that inhibit protein(s) required for
+DDR pathways will be used to potentiate the effect of PARP inhibitors.
+Three DDR pathways, including homologous recombination (HR),
+non-homologous end joining (NHEJ) and the DNA damage checkpoint,
+play important roles in allowing cancer cells to survive genotoxic
+events caused by treatment with PARP inhibitors. Two of these
+pathways are major systems devoted to the repair of DSBs: NHEJ
+joins broken DNA ends without requiring extensive sequence homology,
+whereas HR uses long stretches of homologous sequence (12–
+14). The third pathway is the DNA damage checkpoint, which arrests
+the cell cycle in the presence of DNA damage (15).
+The fundamental steps of NHEJ, synapsis and ligation,
+employ KU80/DNA-PKCS and LIG4-XRCC4-XLF, respectively
+(11,12,14,16–20). However, histone modification and chromatin
+remodeling are also required to relax chromatin and permit recruitment
+of NHEJ factors (21,22). Histone acetylation at DSB sites by the
+histone acetyltransferases (HATs) CBP, p300 and GCN5 is a critical
+step that allows accumulation of the SWI/SNF chromatin remodeling
+complex, which opens chromatin structure and thereby grants access
+to NHEJ factors (22,23).
+The HR pathway, on the other hand, restores the genomic sequence
+at a DSB by utilizing the sister chromatid as a template for repair
+(24). In HR, DSBs are first recognized by the MRE11-RAD50-
+NBS1 (MRN) complex, which is then activated by CtIP and BRCA1
+(25,26). Next, the DNA ends are resected by the MRN complex to
+allow accumulation of replication protein A (RPA) (RPA70/RPA32/
+RPA16) (27). Assembly of RAD51 on RPA-coated single-stranded
+DNA (RPA-ssDNA) leads to HR (28). RPA-ssDNA activates ataxia
+telangiectasia and Rad3-related protein (ATR), leading to phosphorylation
+of CHK1 kinase, which in turn phosphorylates RAD51 and
+thereby promotes RAD51 recruitment to damaged sites. Thus, ATRCHK1
+signaling positively regulates the HR pathway (29,30).
+DSBs also cause the activation of the ATR-CHK1 and ATM-CHK2
+DNA damage checkpoint pathways, which arrest the cell cycle to
+allow sufficient time for DNA repair to take place (31,32). Inhibition
+of the DNA damage checkpoint abrogates cell cycle arrest, leading
+to mitotic catastrophe and apoptosis while mostly sparing non-cancerous
+cells. This effect appears to be stronger in some cancer cells
+than in non-cancer cells, presumably because the more sensitive cancer
+cells contain unspecified abnormalities in DDR pathways (33–36).
+Effective sensitization to PARP inhibitor-based therapy could
+be achieved by inhibiting any of these three DDR pathways (37).
+To this end, one could use PARP inhibitors in combination with
+compounds that effectively inhibit DDR and ideally exert minimal
+toxicity in the human body. Curcumin (diferuloylmethane) is a yellow
+pigment contained in Indian saffron (Curcuma longa; turmeric) and
+has been traditionally used as a foodstuff, cosmetic and medicine.
+In addition, curcumin can inhibit a variety of enzymes, including
+HATs (35). Because it is non-toxic even at high doses, curcumin has
+been intensively tested in both preclinical and clinical trials for its
+chemopreventive potential in a variety of diseases, including cancer
+(35). In addition, recent clinical studies indicate that curcumin is
+potentially useful as a sensitizer in gemcitabine chemotherapy against
+
+Abbreviations: ATM, ataxia telangiectasia mutated; ATR, ataxia telangiectasia
+and Rad3-related protein; ATRIP, ATR interacting protein; BB, blocking
+buffer; ChIP, chromatin immunoprecipitation; CPT, camptothecin; DDR,
+DNA damage response; DMSO, dimethyl sulfoxide; DSB, double-strand
+break; GFP, green fluorescent protein; HAT, histone acetyltransferase; HR,
+homologous recombination; HU, hydroxyurea; IR, ionizing radiation; NCS,
+neocarzinostatin; NF-κB, nuclear factor-kappaB; NHEJ, non-homologous end
+joining; PARP, poly(ADP-ribose) polymerase; PI, propidium iodide; PBS,
+phosphate-buffered saline; RPA, replication protein A; siRNA, small interfering
+RNA; SSB, single-strand break; ssDNA, single-stranded DNA.
+
+2486
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+Curcumin suppresses DSB repair and DNA damage checkpoint
+
+advanced pancreatic cancers (38,39). One candidate mechanism for
+the chemosensitizing effect of curcumin in cancer cells is suppression
+of the antiapoptotic nuclear factor-kappaB (NF-κB) pathway through
+inhibition of IKKβ, an activator of NF-κB (40,41). IKKβ is involved
+in the repair of ionizing radiation (IR)-induced DSBs, and several
+other targets of curcumin, including AKT1 (37) and CBP/p300 (42),
+are also involved in the DDR. AKT1 interacts with and activates a
+NHEJ key factor, DNA-PKCS (43–45). We recently showed that CBP
+and p300 promote NHEJ, HR and the DNA damage checkpoint via
+histone acetylation at DSB sites and the promoter regions of genes
+encoding two key HR factors, BRCA1 and RAD51 (22,46). Thus,
+because it could potentially suppress multiple DDRs in cancer cells,
+curcumin is a strong candidate for an agent that could sensitize cancer
+cells to PARP inhibitors; however, this possibility has not yet been
+investigated.
+Here, we show that curcumin inhibits NHEJ and HR by suppressing
+histone acetylation at DSB sites, as well as by suppressing
+transcription of the BRCA1 gene through histone acetylation at its
+promoter region, as predicted from its inhibition of CBP and p300. In
+addition, we report a novel activity for curcumin, inhibition of ATR
+kinase, which results in impaired activation of ATR-CHK1 signaling.
+Because curcumin can simultaneously suppress two major DSB
+repair pathways, NHEJ and HR, as well as the ATR-CHK1 DNA damage
+checkpoint pathway, it holds promise as a sensitizer for PARP
+inhibitor-based cancer therapy.
+
+Materials and methods
+
+Materials
+HeLa (cervical cancer), U2OS (osteosarcoma), HT1080 (fibrosarcoma) and
+HCT116 (colorectal cancer) cells were cultured in Dulbecco’s modified
+Eagle’s medium supplemented with 10% fetal bovine serum. H1299 (nonsmall-cell
+lung carcinoma) cells were cultured in RPMI-1640 supplemented
+with 10% fetal bovine serum. These cell lines were used as representatives
+of cancers that do not have DDR deficiency as a result of BRCA1/2 mutations.
+The chemical agents used in this study were as follows: curcumin
+(Sigma: ≥94% curcuminoid content; Sabinsa: ≥95% curcuminoid content)
+and olaparib (Selleck). Curcumin from Sabinsa was used only for experiments
+to address effects on phosphorylation on checkpoint-related proteins
+(Figure 4A).
+Irradiation
+Irradiation was performed using a 60Co γ-ray source (Atomic Energy of
+Canada, Ontario, Canada) at a dose rate of 9.1 Gy/min.
+Immunofluorescence microscopy
+Cells were grown on glass cover slips, fixed with 2% (wt/vol) paraformaldehyde
+in phosphate-buffered saline (PBS) for 15min at room temperature
+and then permeabilized with 0.3% (vol/vol) Triton X-100 for 15min at
+room temperature. After fixation, cells were washed three times with PBS
+and then blocked with blocking buffer (BB: 1% bovine serum albumin,
+0.1% Triton X-100 in PBS) for 10min. Cells were incubated with primary
+antibody (diluted in BB) for 1 h at room temperature, washed with PBS and
+then incubated for 1 h at room temperature with Alexa Fluor 488-conjugated
+goat anti-mouse, Alexa Fluor 488-conjugated goat anti-rabbit, Alexa Fluor
+568-conjugated goat anti-mouse or Alexa Fluor 568-conjugated goat anti-rabbit
+secondary antibodies (Molecular Probes) diluted in BB. Cells were then
+washed three times with PBS and counter-stained with 4′,6-diamidino-2-phenylindole
+(0.4 μg/ml in PBS) to visualize DNA. The cover slips were mounted
+onto glass slides using Prolong Gold mounting agent (Invitrogen). Confocal
+images were taken using an inverted microscope (Carl Zeiss) equipped with
+a ×100 oil lens. Images were acquired using the ZEN Software 2008 (Carl
+Zeiss). All immunofluorescence experiments were repeated at least twice, and
+representative images are shown. The percentage of foci-positive cells was
+determined from >100 cells per sample, and each of these experiments was
+performed in triplicate.
+In vitro kinase assays
+The ATR kinase assays were performed essentially as described previously
+(47), with the following modifications. To analyze the inhibitory effect of
+curcumin, the ATR-ATRIP (ATR interacting protein) complex was purified
+using a two-step protocol. HEK 293E cells were transfected with FLAGATR-
+and His-ATRIP-expressing plasmids, and the ATR-ATRIP complex was
+
+purified using Ni-beads followed by elution with imidazole. Proteins eluted
+from the Ni-beads were subsequently incubated with anti-FLAG M2 beads,
+and the ATR-ATRIP complex was eluted with 200 μg/ml 3 × FLAG peptide.
+The kinase reactions were performed using purified ATR-ATRIP complex,
+GST-Rad17 and 10 μCi [γ32P]ATP
+in the presence or absence of curcumin.
+The concentration of curcumin that achieved 50% inhibition of the enzyme
+(IC50) was derived from log approximation plots. Enzyme activity was plotted
+against curcumin concentration. Data represent the means ± SD of three
+independent experiments.
+DNA damage checkpoint analysis
+Cells were exposed to 2 Gy IR from a 60Co source after exposure to the indicated
+agents for 1 h. Cells were harvested 1 h after IR exposure, washed twice
+with ice-cold PBS, fixed, permeabilized with 70% ethanol and stored at −20°C
+for at least 2 h. Fixed cells were blocked with BB (0.5% bovine serum albumin
+in PBS) for 10min at room temperature. Cells were then stained for 1 h at room
+temperature with an anti-phospho-histone H3 (Ser10) antibody diluted 1:25 in
+BB. Washes were carried out three times in PBS. For secondary staining, cells
+were incubated for 1 h at room temperature with fluorescein-isothiocyanateconjugated
+donkey anti-mouse IgG antibody (Jackson ImmunoResearch),
+diluted 1:100 in BB. After secondary antibody staining, cells were washed
+three times, incubated with 5  μg/ml propidium iodide (PI) and 200  μg/ml
+RNase I in PBS and analyzed using a Guava flow cytometer. The resulting data
+were analyzed using the GuavaSoft 2.2 software.
+Survival assays
+For clonogenic assays, cells were trypsinized, counted and plated in sixwell
+dishes (500–1000 cells/dish). Cells were incubated for 6h before drug
+treatment. Following a 14  day recovery and growth period, colonies were
+fixed in a 50% (vol/vol) methanol/0.01% (wt/vol) crystal violet solution for
+5min. Survival points were assayed in triplicate, and data are shown as the
+means ± SD. Cell viability was determined by assessing cellular adenosine
+triphosphate levels using a CellTiter-Glo kit (Promega Corporation, Madison,
+WI).
+Statistical analysis
+Drug-treatment experiments were performed in triplicate. Data are shown as
+the means ± SD. Differences between drug-treated and untreated cells were
+evaluated by Student’s t-test, and statistical differences are indicated by
+asterisks (*P < 0.05; **P < 0.01; ***P < 0.001; and ****P < 0.0001).
+Other methods are described in Supplementary Materials and methods,
+available at Carcinogenesis Online.
+
+Results
+
+Curcumin suppresses NHEJ by suppressing histone acetylation at
+DSB sites
+Curcumin acts as a chemo- and radiosensitizer (39), suggesting that
+it suppresses DSB repair; however, the underlying mechanisms are
+unknown. We first examined the effects of curcumin on the repair
+of IR-induced DSBs using a neutral comet assay, which specifically
+detects DSBs. Curcumin impaired the repair of IR-induced DSBs in
+HeLa cells in a concentration-dependent manner (Figure 1A and B).
+Next, we investigated whether NHEJ can be suppressed by curcumin
+(Figure  1C) using an NHEJ assay we developed previously (22).
+Treatment of H1299dA3-1 cells with either curcumin or NU7026,
+an inhibitor of the key NHEJ factor DNA-PKCS, led to a reduction
+in the proportion of enhanced green fluorescent protein (GFP)-
+positive cells (Figure 1D), indicating that curcumin has the ability to
+suppress NHEJ.
+Recently, we revealed that CBP and p300, two HATs targeted by
+curcumin (48), acetylate histones near DSB sites and are required
+for efficient DSB repair (22). In light of this finding, we investigated
+the impact of curcumin treatment on histone acetylation induced
+by I-SceI-mediated DSBs. Chromatin immunoprecipitation (ChIP)
+assays revealed that the acetylation levels of histone H3 K18 near
+the I-SceI site decreased upon treatment with curcumin (Figure 1E).
+In addition, curcumin treatment led to a reduction in recruitment
+of the key NHEJ factors KU70 and KU80 to DSB sites induced by
+I-SceI or laser microirradiation (Figure 1F–H). Consistent with this,
+IR-induced phosphorylation of DNA-PKCS, which is dependent on
+KU70/KU80 binding at DSB ends, was suppressed by treatment with
+curcumin (Figure 1I), as well as by knockdown of CBP or p300 (data
+
+2487
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+H.Ogiwara et al.
+
+NT
+
+0 min 180 min Time a er IR irradia on
+
+Cur
+10 µM
+
+Cur
+15 µM
+
+I-SceI
+
+I-SceI
+TK EGFP IRES Puro CMV r pA
+
+EGFP IRES Puro CMV r pA
+TK
+
+DNA-PKcs
+
+DNA-PKcs pS2056
+
+Cur (µM)
+
+IR (10 Gy)
+
+WCE
+
+0 0 10 15
+
+A B
+
+C D
+
+E F
+
+<NHEJ assay>
+
+Cur (µM)
+
+0
+
+10
+
+15
+
+G H pre post
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+No I-SceI
+DMSO
+Cur 10 µ
+M
+
+Cur 15 µ
+M
+
+DNA-PKi
+Propor on of
+GFP posi ve cells
+
+NHEJ ac vity
+(H1299dA3-1)
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+0 60 120 180
+Rela ve Intensity of
+GFP-KU70/Ku80
+
+Time (sec)
+
+KU70/KU80 recruitment
+NT
+Cur 10 µM
+Cur 15 µM
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+Rela ve tail moment
+IR-induced DSB repair
+0 min
+180 min
+
+Cur (µM)
+0 10 15
+
+**
+** **
+**
+** **
+
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+
+-+-+-+
+
+125bp 330bp 460bp
+
+Normalized
+ChIP enrichment
+
+I-SceI
+
+KU80 recruitment
+
+NT
+Cur
+
+Distance from I-SceI site
+
+**: P < 0.01 **: P < 0.01
+
+0
+0.5
+1
+1.5
+2
+2.5
+
+- +-+-+
+
+125bp 330bp 460bp
+
+Normalized
+ChIP enrichment
+
+I-SceI
+
+Acetyla on of H3 K18
+NT
+Cur
+
+Distance from I-SceI site
+
+I
+
+Fig. 1. Treatment with curcumin suppresses NHEJ by inhibiting histone H3/H4 acetylation and KU70/KU80 recruitment at DSB sites. (A and B) Suppression
+of IR-induced DSB repair by curcumin. HeLa cells were treated with 0 μM (NT) or 10 or 15 μM curcumin (Cur), and 1 h later were exposed to 20 Gy IR and
+subjected to neutral comet analyses at the indicated time points. (A) Representative comet images. (B) Efficiency of DSB repair. Comet tail moment (% DNA
+in tail × tail length) is expressed as the mean ± SD of triplicate experiments. (C and D) Suppression of NHEJ by treatment with curcumin and AKT inhibitors.
+(C) NHEJ assay system in H1299dA3-1 cells. Two I-SceI sites in opposite orientations are indicated by yellow arrowheads. CMV, cytomegalovirus promoter/
+enhancer; IRES, internal ribosome entry site; PA, poly-A signal. (D) NHEJ activity following treatment with inhibitors. H1299dA3-1 cells were transfected
+2488
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+Curcumin suppresses DSB repair and DNA damage checkpoint
+
+not shown). Neither curcumin treatment nor small interfering RNA
+(siRNA)-mediated knockdown of CBP and p300 affected the expression
+level of core NHEJ factors (data not shown) (22). These observations
+implied that curcumin suppresses NHEJ by inhibiting the HAT
+activities of CBP and p300.
+Treatment with specific inhibitors of AKT, a target of curcumin
+that may be involved in NHEJ (44,45,49), also led to a reduction
+in the proportion of enhanced GFP-positive cells (Supplementary
+Figure S1A, available at Carcinogenesis Online). A  similar reduction
+was observed when AKT1 was knocked down using siRNA
+(Supplementary Figure S1B and C, available at Carcinogenesis
+Online). However, treatment of curcumin at a concentration that suppresses
+NHEJ in vivo did not inhibit phosphorylation of AKT (i.e.
+AKT activation) in response to IR, although treatment with inhibitors
+of DNA-PKCS or AKT did reduce AKT activation (Supplementary
+Figure S1D, available at Carcinogenesis Online). Another target of
+curcumin, IKKβ, is also involved in the repair of IR-induced DNA
+damage. Treating cells with the specific IKKβ inhibitor BMS-345541
+(IKKi III), at or above the concentration that reduces cell growth by
+50% (IG50; Supplementary Figure S1E, available at Carcinogenesis
+Online), did not significantly suppress NHEJ activity (Supplementary
+Figure S1A, available at Carcinogenesis Online). Together, these
+results strongly suggest that suppression of NHEJ by curcumin
+results from inhibition of CBP and p300.
+
+Curcumin suppresses HR by transcriptional suppression of BRCA1
+We next investigated the impact of curcumin treatment on HR
+of DSBs using an in vivo GFP-based chromosomal assay. In the
+DR-GFP assay, a DSB is generated by expression of the I-SceI
+endonuclease, whose recognition site is integrated in the GFP gene
+such that digestion disrupts the gene and HR restores the intact GFP
+gene (Figure 2A) (50). Curcumin treatment reduced the proportion
+of GFP-positive cells, as did treatment with KU55933, a specific
+inhibitor of ataxia telangiectasia mutated (ATM), which is required
+for the activation of several HR-related factors (42,51) (Figure 2B).
+The proportion of repaired products, but not the proportion of cut
+products, was reduced by treatment with curcumin (Figure 2C and D;
+Supplementary Figure S2, available at Carcinogenesis Online), indicating
+that curcumin inhibits HR activity but neither DSB generation
+nor GFP transcription.
+We recently revealed that double knockdown of CBP and p300
+causes downregulation of BRCA1 expression by suppressing histone
+acetylation and recruitment of the E2F1 transcription factor to the
+BRCA1 promoter region (46). BRCA1 contributes to DNA end resection
+at DSBs as a component of the BRCA1-CtIP-MRN complex.
+This complex promotes RPA phosphorylation, leading to the binding
+of phosphorylated RPA and RAD51 to ssDNA and ultimately to
+formation of RAD51/RPA foci that undergo HR (25,26). Treatment
+with curcumin for 24 h led to the downregulation of BRCA1 protein
+and mRNA levels in HeLa and H1299 cells (Figure  2E and
+F). As in the case of siRNA-mediated CBP/p300 knockdown (46),
+
+curcumin treatment reduced the acetylation levels of histone H3 and
+the localization of E2F1 at the BRCA1 promoter region (Figure 2G;
+Supplementary Figure S3, available at Carcinogenesis Online).
+BRCA1 transcription levels change during the cell cycle: they are low
+in G0/G1 phase and high in the S and G2 phases (23,52). However,
+curcumin treatment increased the population of cells in S and G2/M
+but not in G1 (Supplementary Figure S4, available at Carcinogenesis
+Online). Therefore, the decrease in BRCA1 expression was not due to
+cell cycle changes but was instead likely to be due to the suppression
+of histone acetylation at the BRCA1 promoter region.
+BRCA1 regulates the recruitment of RPA to DSB sites by promoting
+resection of DNA ends (25,53). We recently showed that siRNAmediated
+knockdown of CBP or p300, which causes a reduction in
+BRCA1 expression, suppresses the recruitment of RPA to DSB sites
+(46). Consistent with this, curcumin treatment for 24 h also impaired
+the neocarzinostatin (NCS)-induced phosphorylation of RPA32 in
+both HeLa and H1299 cells (Figure 2H). Together, these data indicate
+that curcumin suppresses HR by downregulating the transcription of
+BRCA1.
+
+Curcumin suppresses HR and the DNA damage checkpoint by
+inhibiting ATR kinase
+In contrast to the long-term (24 h) treatment described above, short-term
+(1 h) treatment with curcumin did not affect the NCS-induced phosphorylation
+of RPA32 (Figure 3A), the proportion of cells positive for
+IR- or camptothecin (CPT)-induced RPA32/53BP1 foci (Figure 3B–D,
+Supplementary Figure S5A and B, available at Carcinogenesis Online)
+or the formation of IR-induced BRCA1 foci (Supplementary Figure S5C,
+available at Carcinogenesis Online). On the other hand, the proportion
+of cells containing IR-induced RAD51 foci was considerably reduced
+by short-term treatment with curcumin (Figure  4E; Supplementary
+Figure S5D, available at Carcinogenesis Online). These results led us to
+hypothesize that curcumin inhibits targets other than CBP/p300 HATs.
+CPT and hydroxyurea (HU) cause DSBs during DNA replication in S
+phase by inducing collapse of replication forks, and the resulting DSBs
+undergo HR (54). Consistent with this, >90% of CPT- or HU-treated
+cells containing pan-nuclear γH2AX foci also contained RAD51 foci;
+however, the proportion of such cells significantly decreased following
+treatment with curcumin (Figure 3F; Supplementary Figure S5E, available
+at Carcinogenesis Online). Curcumin also decreased the elevation
+in the amount of RAD51, but not of RPA32 and RPA70, in the chromatin-enriched
+fraction following IR treatment (Figure 3G). These results
+suggest that curcumin has the additional ability to suppress RAD51
+assembly, irrespective of DNA end resection.
+RAD51 assembly on damaged chromatin requires ATR-CHK1
+signaling in response to the formation of RPA-coated ssDNA: ATR
+kinase activates CHK1 by phosphorylating CHK1 at Ser345, and activated
+CHK1 enhances RAD51 assembly and the HR reaction (29).
+Therefore, we next investigated whether curcumin suppresses CHK1
+phosphorylation induced by DNA damage. IR-induced CHK1 phosphorylation
+was impaired by treatment with curcumin (Figure 4A),
+
+←
+with I-SceI expression plasmid and harvested 48 h after transfection. The proportion of enhanced GFP-positive cells after treatment with the indicated inhibitors
+is expressed as a ratio relative to the proportion in the non-treated (NT) sample. The results are presented by the means ± SD of triplicate experiments.
+(E and F) Curcumin suppressed histone acetylation and KU80 recruitment at I-SceI-induced DSB sites. After H1299dA3-1 cells were pretreated with 0 μM
+(NT) or 10 μM curcumin (Cur) for 30min, cells were subsequently treated with 0 μM (NT) or 10 μM curcumin (Cur) and then subjected to ChIP assay 0 h (–)
+and/or 18 h (+) after being transfected with the I-SceI expression plasmid. DNAs immunoprecipitated with antibodies against acetylated H3 K18 (H3 AceK18)
+(E) or KU80 (F) were subjected to quantitative PCR for regions 125, 330 and 460bp from the I-SceI site. The ChIP enrichment of proteins at DSBs after 18 h
+(+), normalized against the value at 0 h (–), is shown. Data represent the means ± SD. Each experiment was performed in triplicate, and the results are shown
+as the means ± SD. Asterisks indicates statistically significant differences between curcumin-treated and untreated cells, as determined by Student’s t-test
+(**P < 0.01). (G and H) Curcumin suppressed KU70/KU80 recruitment at microirradiation-induced DSB sites. H1299 cells were transfected with both plasmids
+for the expression of GFP-KU70 and GFP-KU80 and treated with curcumin for 1 h. The cells were examined at the indicated time points after 405nm laser
+microirradiation at a dose of 800 mW (500 scans at 1.6 mW/scan). At least 1000 DSBs were produced in each cell. (G) Representative fields for GFP-KU70/
+KU80 120 s after laser microirradiation. (H) Real-time recruitment of GFP-KU70/KU80. The GFP-KU70/KU80 fluorescence intensities at laser microirradiation
+sites at the indicated times, relative to the value in the NT sample after 180 s, are shown. Data represent the means ± SD. For evaluation of accumulation and
+kinetics, the mean intensity of irradiated regions was obtained after subtraction of the background intensity in the irradiated cell, and mean values of at least
+three independent experiments are given. (I) Impairment of IR-induced DNA-PKCS activation by curcumin treatment. HeLa cells treated with control (NT)
+or 10 or 15 μM curcumin (Cur) for 1h were subjected to 0 (–) or 10 Gy (+) IR and incubated for an additional 1h. The levels of DNA-PKCS and DNA-PKCS
+phosphorylated at S2056 were examined by immunoblotting.
+2489
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+H.Ogiwara et al.
+
+whereas CHK2 phosphorylation, reflecting ATM-CHK2 signaling,
+was not. A similar result was observed upon siRNA-mediated knockdown
+of ATR but not upon inhibition of ATM (Figure  4B and C).
+Impairment of CHK1 phosphorylation by curcumin was also observed
+following CPT or NCS treatment of HeLa, H1299, and HT1080 cells
+(Figure 4D). These results led us to hypothesize that curcumin inhibits
+the kinase activity of ATR.
+
+To test this idea, we performed an in vitro ATR kinase assay
+using an ATR-ATRIP complex constituted from recombinant proteins
+(47). Phosphorylation of the substrate protein RAD17 was
+suppressed by curcumin in a dose-dependent manner, with an
+IC50 of 493 nM (Figure 4E; Supplementary Figure S6, available at
+Carcinogenesis Online). To confirm further the effects of ATR inhibition
+by curcumin in vivo, we monitored DNA damage-induced
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+No I-SceI
+NT
+
+Cur 10µ
+M
+
+Cur 15µ
+M
+
+ATMi 10µM
+Propor on of
+GFP posi ve cells
+
+HR ac vity
+(HeLaDR-GFP)
+
+GFP
+
+GFP
+
+GFP
+I-SceI
+
+HR
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+NT
+
+Cur 15u
+M
+
+ATMi 10uM
+Propor on of
+repaired product
+
+HR ac vity
+(HeLa DR-GFP)
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+NT
+
+Cur 15µ
+M
+
+AT
+Mi 10µ
+M
+
+Propor on of
+uncut product
+
+DSB induc on
+(HeLa DR-GFP)
+
+RPA32
+
+RPA32pS4/S8
+
+Cur (µM)
+
+WCE (HeLa)
+
+0 10 15
+NT
+
+0 10 15
+NCS
+
+WCE (H1299)
+
+0 10 15
+NT
+
+0 10 15
+NCS
+
+Curcumin treatment for 24 hr
+
+<HR assay>
+A B C D
+
+E F
+
+Cur (µM)
+
+WCE
+
+0 10 15
+
+BRCA1
+
+BRCA1
+HeLa
+
+H1299
+
+H
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+HeLa H1299
+Rela ve expression
+
+BRCA1 mRNA
+
+NT
+Cur
+*: P < 0.05
+**: P < 0.01
+
+* **
+
+G
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+E2F1 H3
+AceK18
+
+Rela ve
+
+ChIP enrichment
+
+Occupancy at
+BRCA1 promoter
+NT
+Cur
+** **
+
+**: P < 0.01
+
+Fig. 2. Curcumin suppresses the transcriptional expression of BRCA1. (A) HR assay design. I-SceI sites are indicated by large white arrows. The locations
+of the primers for quantitative PCR, used to monitor the introduction of DSBs by I-SceI (uncut DNA) and subsequent repair (repaired DNA), are indicated by
+small blue and red arrows, respectively. (B) Suppression of I-SceI-induced HR by treatment with curcumin. HeLa DR-GFP cells, after treatment with or without
+curcumin or ATM inhibitor, were either transfected with an I-SceI expression plasmid or mock-transfected (No I-SceI). Forty-eight hours after transfection, cells
+were harvested and assayed for GFP expression by flow cytometry. The proportion of GFP-positive cells detected after inhibitor treatment is expressed as a
+ratio relative to the proportion detected in the non-treated (NT) sample. Data represent the means ± SD of triplicate experiments. (C and D) Assessment of DSB
+generation and repair. (C) Proportion of repaired product 48 h after transfection with the I-SceI expression plasmid. The proportion of repaired product detected
+after inhibitor treatment is expressed as a ratio relative to the proportion detected in the NT sample. (D) Proportion of uncut product at the I-SceI site 24 h after
+transfection with the I-SceI expression plasmid. The proportion of uncut product detected after inhibitor treatment is expressed as a ratio relative to the amount
+of uncut product present before transfection with I-SceI expression plasmid. Data represent the means ± SD of triplicate experiments. (E) Downregulation
+of BRCA1 in curcumin-treated cells. HeLa and H1299 cells were treated for 24 h and harvested, and whole-cell extracts were subjected to immunoblotting.
+(F) Reduction of BRCA1 transcript in curcumin-treated cells. HeLa and H1299 cells were treated for 24 h. The cells were harvested and subjected to quantitative
+real-time PCR for the detection of BRCA1 mRNA. Expression levels were normalized against the levels of GAPDH mRNA. Data represent the means ± SD. Each
+experiment was performed in triplicate, and the results are shown as the means ± SD. Asterisks indicate statistically significant differences between curcumintreated
+and untreated cells, as determined by Student’s t-test (*P < 0.05; **P < 0.01) (F and G). (G) Impaired histone acetylation and changes in E2F1 binding at
+the BRCA1 promoter region caused by treatment with curcumin. H1299 cells pretreated with or without curcumin for 24 h were subjected to ChIP assays. DNA
+immunoprecipitated with antibodies against acetylated H3 K18 (H3 AceK18) or E2F1 was subjected to quantitative PCR to detect the promoter region of BRCA1.
+The relative ChIP enrichment was calculated by dividing the ChIP enrichment at the BRCA1 promoter in the curcumin-treated sample by the ChIP enrichment at
+the BRCA1 promoter in the non-treated sample. Data represent the means ± SD of triplicate experiments. (H) Impact of long-term curcumin treatment on NCSinduced
+phosphorylation of RPA32. HeLa and H1299 cells pretreated with curcumin (0, 10 or 15 μM) for 24 h (long term) were treated with 0 (NT) or 500 μg/ml
+NCS and then subjected to immunoblotting 2 h later. The levels of RPA32 and RPA32 phosphorylated at Ser4/Ser8 were analyzed using the indicated antibodies.
+
+2490
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+Curcumin suppresses DSB repair and DNA damage checkpoint
+
+autophosphorylation of the Thr1989 residue of ATR, which represents
+the active state of the ATR protein (47). Consistent with the
+results of the in vitro kinase assay, phosphorylation of Thr1989
+in response to IR, HU and CPT was suppressed by curcumin in
+vivo (Figure 4F). HU induces ATR-dependent phosphorylation of
+serine residues 4 and 8 within the RPA protein (55–57). Treatment
+with curcumin reduced the proportion of HU-treated cells with
+
+phosphorylated RPA32 foci among cells that contained pannuclear
+RPA32 foci (Figure 4G; Supplementary Figure S7, available
+at Carcinogenesis Online). Consistent with this, curcumin
+treatment also reduced the fraction of phosphorylated RPA32
+induced by HU (Figure 4H). These results demonstrate that, as we
+hypothesized, curcumin suppresses HR by inhibiting the kinase
+activity of ATR.
+
+RAD51
+RPA32
+RPA70
+IR
+NT Cur
+
+H2B
+
+A
+
+B C
+
+E G
+
+0
+20
+40
+60
+80
+100
+
+NT Cur
+RPA32 foci posi ve cells
+
+with pan-nuclear 53BP1 foci (%)
+
+CPT-induced
+RPA32 foci
+
+0
+20
+40
+60
+80
+100
+
+NT Cur NT Cur
+
+CPT HU
+RAD51 foci posi ve cells
+with pan-nuclear γH2AX (%)
+
+RAD51 foci
+
+0
+10
+20
+30
+40
+50
+60
+
+NT Cur
+
+Cells with
+
+> 10 RPA32 foci (
+%)
+
+IR-induced
+RPA32 foci
+IR -
+IR +
+
+0
+20
+40
+60
+80
+100
+120
+
+NT Cur
+
+Cells with
+
+> 10 R53BP1 foci (%)
+
+IR-induced
+53BP1 foci
+IR -
+IR +
+
+0
+10
+20
+30
+40
+50
+60
+
+Cells with
+
+> 10 RAD51 foci (%)
+
+RAD51 foci
+IR -
+IR +
+
+Cur (µM)
+0 10 15
+
+Curcumin treatment for 1 hr
+
+WCE (HT1080)
+
+NT NCS
+WCE (U2OS)
+NT NCS
+
+RPA32
+
+RPA32pS4/S8
+
+WCE (H1299)
+
+NT NCS
+WCE (HeLa)
+NT NCS
+Cur
+
+D
+
+F
+
+Fig. 3. Curcumin suppresses HR at the step of RAD51 assembly. (A) Impact of short-term curcumin treatment on NCS-induced phosphorylation of RPA32.
+HeLa, H1299, U2OS and HT1080 cells pretreated with curcumin (0 [−] or 15 μM [+]) for 1 h were treated with 0 (NT) or 500 μg/ml NCS and then subjected
+to immunoblotting 2 h later. The levels of RPA32 and RPA32 phosphorylated at Ser4/Ser8 were determined using the indicated antibodies. (B and C) Impact
+of curcumin on IR-induced formation of RPA32 and 53BP1 foci. HeLa cells were treated either with control (NT) or 15 μM curcumin (Cur). One hour
+after treatment, the cells were treated with 0 (IR−) or 10 Gy IR (IR+) and incubated for 4 h before being fixed and processed for (C) RPA32 and (D) 53BP1
+immunofluorescence analysis. Representative immunofluorescence images are shown in Supplementary Figure S5A, available at Carcinogenesis Online.
+Foci-positive cells were defined as cells with >10 foci. The experiments were repeated at least twice, and representative results are shown. The percentage of
+foci-positive cells was determined from >100 cells per sample; each of these experiments was performed in triplicate, and the results are shown as the means
+± SD (B–F). (D) Impact of CPT-induced formation of RPA32 foci by curcumin. HeLa cells were treated either with control (NT) or 15 μM curcumin (Cur).
+One hour after treatment, the cells were treated with 1 μM CPT for 3 h before being fixed and processed for RPA32 and 53BP1 immunofluorescence analysis.
+Representative immunofluorescence images are shown in Supplementary Figure S5B, available at Carcinogenesis Online. The percentages of RPA32 focipositive
+cells containing pan-53BP1 foci are shown in the graph on the right. (E) Suppression of IR-induced formation of RAD51 foci by curcumin. HeLa cells
+were treated with control (NT) or 10 or 15 μM curcumin. One hour after treatment, cells were treated with 0 (IR−) or 10 Gy IR (IR+) and incubated for 4 h
+before being fixed and processed for RAD51 and γH2AX immunofluorescence analysis. Representative immunofluorescence images are shown in Supplementary
+Figure S5D, available at Carcinogenesis Online. Foci-positive cells were defined as cells with >10 RAD51 foci. (F) Suppression of CPT- and HU-induced
+formation of RAD51 foci by curcumin. HeLa cells were treated with control (NT) or 15 μM curcumin (Cur). One hour after treatment, cells were treated with
+1 μM CPT or 5mM HU for 3 h before being fixed and processed for RAD51 and γH2AX immunofluorescence analysis. Representative images are shown in
+Supplementary Figure S5E, available at Carcinogenesis Online. Percentages of RAD51-foci-positive cells with pan-nuclear gamma-H2AX (indicating cells
+damaged in S phase) are shown. (G) Decreased DNA damage-induced chromatin binding of RPA and RAD51 proteins upon treatment with curcumin. HeLa cells
+pretreated with curcumin for 1 h were treated with 0 Gy (–) or 10 Gy (+) IR and harvested 3 h after irradiation. Chromatin-enriched fractions were subjected to
+immunoblot analysis.
+
+2491
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+H.Ogiwara et al.
+
+Cur
+
+HU
+
+WCE
+
+GAPDH
+
+RPA32
+RPA32pS4/S8
+
+Cur (µM)
+
+ATM
+
+CHK2
+CHK2 pT68
+ATM pS1981
+
+CHK1
+CHK1 pS345
+IR
+0 0 10 15 20 10 15
+SIGMA Sabinsa
+0 0
+
+WCE (HeLa)
+ATMi
+Cur
+
+GAPDH
+
+ATM
+
+CHK2
+CHK2 pT68
+ATM pS1981
+
+CHK1
+CHK1 pS345
+IR
+
+WCE
+siNT siATR
+
+ATM
+
+CHK2
+CHK2 pT68
+ATM pS1981
+
+CHK1
+CHK1 pS345
+
+ATR
+IR
+
+A WCE
+
+D
+
+E G
+
+F
+
+H
+
+0
+10
+20
+30
+40
+50
+60
+
+NT Cur
+with RPA32 pS4/S8
+
+HU-induced
+pRPA32 foci
+
+B C
+
+0
+20
+40
+60
+80
+100
+
+0 200 400 600 800 1000
+Inhibi on Ra o (%)
+
+Curcumin (nM)
+
+In vitro ATR kinase Assay
+
+IC50 = 493nM
+WCE (HeLa)
+CPT NT NCS
+
+CHK1
+CHK1 pS345
+
+ATM
+ATM pS1981
+CHK2
+CHK2 pT68
+
+WCE (H1299)
+
+CPT NT NCS
+WCE (HT1080)
+CPT NT NCS
+Cur
+
+ATR
+
+ATR pT1989
+
+IR HU HU
+IP:ATR
+NT IR NT CPT CPT NT
+Cur
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+IR- IR+
+Mito c index
+
+G2/M DNA damage checkpoint
+
+DMSO
+Cur 10 µM
+Cur 15 µM
+ATMi 10 µM
+ATMi 15 µM
+
+**
+
+**
+****
+
+**: P < 0.01
+
+I
+
+Fig. 4. Curcumin suppresses activation of ATR and induction of G2/M DNA damage checkpoint. (A) Suppression of IR-induced CHK1 activation by curcumin.
+HeLa cells pretreated with dimethyl sulfoxide (DMSO, 0 μM) or curcumin from two different suppliers (Sigma: 10, 15 or 20 μM; Sabinsa: 10 or 15 μM) for 1 h
+were treated with 0 Gy (–) or 10 Gy (+) IR and subjected to immunoblotting 1 h later. (B) Suppression of IR-induced CHK1 activation by curcumin or an ATM
+inhibitor. HeLa cells pretreated with DMSO, 10 μM curcumin and/or 10 μM ATM inhibitor (KU55933) for 1 h were treated with 10 Gy IR and subjected to
+immunoblotting 1 h later. (C) Suppression of IR-induced CHK1 activation by ATR depletion. HeLa cells were treated with control (siNT) or ATR (siATR) siRNA
+for 48 h. The cells were then treated with 0 (–) or 10 Gy IR (+) and subjected to immunoblotting 1 h later. (D) Suppression of CPT- and NCS-induced CHK1
+activation by curcumin. HeLa cells pretreated with DMSO (−) or 15 μM curcumin (+) for 1 h were treated with 1 μM CPT, 500 μg/ml NCS or no additional drug
+(NT), and subjected to immunoblotting 2 h later. (E) Suppression of in vitro ATR kinase activity by curcumin. HEK293E cells were transfected with Flag-ATR- and
+His-ATRIP-expressing plasmids, and the ATR-ATRIP complex was purified. The kinase reactions were performed using purified ATR-ATRIP complex, GST-Rad17
+and adenosine triphosphate in the presence or absence of curcumin. The concentration of curcumin that achieved 50% inhibition of the enzyme (IC50) was derived
+from log approximation plots. Enzyme activity was plotted against the concentration of curcumin. Data represent the means ± SD of triplicated experiments.
+(F) Suppression of damage-induced ATR activation by curcumin. HeLa cells pretreated with DMSO (–) or 15 µM curcumin (+) for 1 h were treated with 10 Gy
+IR, 1 μM CPT, 5mM HU or no additional treatment (NT), and subjected to immunoprecipitation with anti-ATR antibody 3 h later. The levels of precipitated
+
+2492
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+Curcumin suppresses DSB repair and DNA damage checkpoint
+
+ATR-CHK1 signaling regulates not only HR but also the DNA
+damage checkpoint (31). Therefore, we next investigated whether
+curcumin also abrogates the DNA damage checkpoint. IR treatment
+reduced the proportion of cells containing phosphorylated histone
+H3 (Ser10), a mitotic marker, indicating that irradiated cells underwent
+cell cycle arrest at G2 via activation of the G2/M DNA damage
+checkpoint. This reduction in H3-Ser10 phosphorylation was
+prevented by curcumin treatment (Figure  4I). Thus, by inhibiting
+ATR, curcumin suppresses not only HR but also the DNA damage
+checkpoint.
+Curcumin inhibits the activity of IKKβ, an activator of the NF-κB
+pathway, which regulates several cellular responses against DNA
+damage. Therefore, we investigated whether the inhibition of this
+pathway might also contribute to the suppression of HR and the DNA
+damage checkpoint. Inhibition of IKKβ by treatment with a specific
+inhibitor at the IC50 did not affect activation of the G2/M DNA damage
+checkpoint or IR-induced formation of RAD51 foci (Supplementary
+Figure S1F and G, available at Carcinogenesis Online). However, this
+inhibitor significantly suppressed HR activity in the DR-GFP assay
+(Supplementary Figure S1H, available at Carcinogenesis Online),
+suggesting that the IKK-mediated NF-κB pathway enhances steps
+of HR downstream of RAD51. These results further support the idea
+that curcumin inhibits CBP/p300-mediated histone acetylation at
+DSB sites and the BRCA1 promoter region, as well as ATR-dependent
+CHK1 activation, resulting in suppression of HR and the DNA damage
+checkpoint response.
+
+Curcumin sensitizes cancer cells to PARP inhibitors
+Deficiencies in HR and the DNA damage checkpoint make cancer
+cells sensitive to PARP inhibitors (58). Therefore, we predicted that
+curcumin might act as a sensitizer for cancer cell death induced by
+PARP inhibition. Indeed, treatment with curcumin sensitized HeLa
+cells to a PARP inhibitor, olaparib, which has been extensively tested
+in clinical trials (58) (Figure 5A). The sensitization was also observed
+for another PARP inhibitor, 4-amino-1,8-naphthalimide (Figure 5A).
+We also observed sensitization to one of these PARP inhibitors in
+three other cancer cell lines (Figure 5B). HeLa cells were also sensitized
+to the DSB-inducing agents CPT and HU (Figure 5C). These
+results strongly suggest that by suppressing responses against DSBs,
+curcumin can sensitize a variety of cancer cells with intact BRCA1/2-
+mediated DDRs to PARP inhibitors.
+We next investigated the mechanism underlying curcumininduced
+sensitization to PARP inhibitors. Curcumin suppressed
+PARP inhibitor-induced CHK1 activation without affecting the activation
+of the ATM-CHK2 pathway (Figure 5D). Olaparib increases
+the proportion of γH2AX-positive cells in a concentration-dependent
+manner; these increases were more evident following combined
+treatment with curcumin (Figure  5E; Supplementary Figure S8A,
+available at Carcinogenesis Online). Cell cycle analysis revealed
+that the proportion of cells in the G2/M phase was higher in cells cotreated
+with olaparib and curcumin than in cells treated with either
+drug alone (Supplementary Figure S8B, available at Carcinogenesis
+Online). In addition, combination treatment also increased the proportions
+of sub-G1 and >4N cells, which represent cells undergoing
+death due to apoptosis and mitotic catastrophe, respectively
+(Supplementary Figure S8B, available at Carcinogenesis Online).
+Consistent with this, flow cytometry analysis of Annexin V/
+
+PI-stained cells confirmed that combined treatment with olaparib
+and curcumin increased the proportion of apoptotic cells (Figure 5F;
+Supplementary Figure S8C, available at Carcinogenesis Online). In
+addition, the proportion of morphologically abnormal micronucleated
+cells, representing cells undergoing mitotic catastrophe, also
+increased upon combined treatment (Figure  5G; Supplementary
+Figure S8D, available at Carcinogenesis Online). These results indicate
+that curcumin abrogates both DNA repair and the DNA damage
+checkpoint in response to DSBs generated by PARP inhibition,
+resulting in accumulation of DSBs and cell death via apoptosis and
+mitotic catastrophe.
+
+Discussion
+
+The results of this study demonstrate that curcumin suppresses three
+major DDRs against genotoxic events mediated by PARP inhibition:
+NHEJ, HR and the G2/M DNA damage checkpoint (Figure 6). This
+suppression results from the inhibition of CBP/p300 HATs and ATR
+kinase. The impact of curcumin on NHEJ is mediated by the suppression
+of histone acetylation at DSB sites, which prevents accumulation
+of NHEJ proteins, e.g. KU70/KU80, that are responsible
+for DNA synapsis. This is consistent with the outcome of CBP/p300
+depletion (22). In addition, it is also possible that NHEJ suppression
+by curcumin is caused by inhibition of AKT1 kinase, involved
+in the activation of DNA-PKCS along with KU70/KU80 (43,45), or
+by inhibition of IKKβ, an activator of NF-κB, which is involved in
+DDRs in a variety of ways (44). However, curcumin suppressed the
+IR-induced phosphorylation of DNA-PKCS, but not AKT, suggesting
+that NHEJ suppression by curcumin is mainly due to inhibition
+of KU70/KU80 accumulation, which is essential for DNA-PKCS
+activation. In addition, inhibition of IKKβ by a specific inhibitor,
+BMS-345541, did not suppress NHEJ activity. These results indicate
+that the suppression of the activities of the histone acetyltransferases
+CBP and p300 is a major mechanism of NHEJ suppression
+by curcumin.
+As in the case of NHEJ, the impact of curcumin on HR was also
+mediated by the suppression of histone acetylation at DSB sites. In
+addition, suppression of histone acetylation at the promoter region
+of the BRCA1 gene was also likely to be responsible: BRCA1 contributes
+to DNA end resection at DSBs by forming the BRCA1-
+CtIP-MRN complex, which promotes binding of RPA and RAD51
+to ssDNA, followed by formation of RAD51/RPA foci that undergo
+HR. These phenomena were suppressed by curcumin treatment. As
+noted above, we recently showed that the knockdown of CBP/p300
+leads to the transcriptional repression of the BRCA1 gene, associated
+with decreases in both histone acetylation and accumulation of E2F1
+transcription factor at the promoter region. Therefore, suppression of
+BRCA1 expression by curcumin is likely to be caused by inhibition
+of CBP/p300 HAT activities. In this study, inhibition of IKKβ by a
+specific inhibitor, BMS-345541, did not suppress NHEJ or the DNA
+damage checkpoint, but it did suppress HR in the DR-GFP assay
+without affecting RAD51 assembly. Therefore, IKKβ inhibition by
+curcumin might represent an additional mechanism of HR suppression,
+i.e. via inhibition of the steps of HR downstream of RAD51
+assembly. Thus, inhibition of CBP/p300-mediated histone acetylation
+at DSB sites and the BRCA1 promoter region is a major mechanism
+for the suppression of HR by curcumin.
+
+ATR and ATR-pT1989 were analyzed using the indicated antibodies. (G) Suppression of HU-induced formation of phosphorylated RPA32 foci by curcumin.
+HeLa cells were treated with DMSO (NT) or 15 µM curcumin (Cur). One hour after treatment, the cells were treated with 5mM HU for 3 h. Percentages are
+shown of cells containing foci of pan-nuclear RPA32, which were positive for RPA phosphorylated at Ser4/Ser8. Data represent the mean ± SD. The percentage
+of foci-positive cells was determined from >100 cells per sample, and each experiment was performed in triplicate. (H) Reduction in HU-induced phosphorylated
+RPA32 protein levels after treatment with curcumin. HeLa cells pretreated with DMSO (–) or 15 µM curcumin (+) for 1 h were treated with 0 (–) or 5mM
+HU (+) and then subjected to immunoblotting 3 h later. The levels of RPA32 and RPA32 phosphorylated at Ser4/Ser8 were analyzed using the indicated
+antibodies. (I) Suppression of the G2/M DNA damage checkpoint by curcumin. HeLa cells were treated with DMSO, curcumin (Cur 10 or 15 μM) or the ATM
+inhibitor KU55933 (ATMi 10 or 15 μM) for 1 h. The cells were then irradiated with 3 Gy (IR) or not irradiated (NT) and then 1 h later were stained with PI and
+antibodies against phospho-histone H3. The percentage of mitotic cells (mitotic index) was determined by flow cytometry. Data represent the means ± SD. Each
+experiment was performed in triplicate. Asterisks indicate a significant difference between curcumin-treated and untreated cells, as determined by Student’s t-test
+(**P < 0.01).
+
+←
+
+2493
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+H.Ogiwara et al.
+
+***
+****
+****
+
+1
+
+10
+
+100
+
+012
+
+Survival (%)
+
+Ola (µM)
+
+Ola sensi vity
+A
+
+D
+
+E G F
+
+B
+
+C
+
+CHK1
+
+CHK1 pS345
+
+ATM
+
+ATM pS1981
+
+Cur
+Ola
+
+CHK2
+
+CHK2 pT68
+
+WCE
+
+0
+5
+10
+15
+20
+25
+30
+35
+40
+
+-+-+-+
+
+NT Ola
+5µM
+Ola
+10µM
+
+γH2AX posi ve cells (
+%)
+DSB posi ve cells
+
+Cur
+0
+5
+10
+15
+20
+25
+30
+35
+
+-+-+-+
+
+NT Ola
+5µM
+Ola
+10µM
+
+AnnexinV posi ve cells (%)
+
+Apoptosis
+
+Necro c
+Apopto c
+
+Cur
+0
+2
+4
+6
+8
+10
+12
+
+-+-+-+
+
+NT Ola
+5µM
+Ola
+10µM
+
+Micronucleated cells (%)
+
+Mito c Catastrophe
+
+Cur
+
+**
+***
+***
+
+0.1
+1
+
+10
+
+100
+
+0 5 10 15 20
+
+Survival (%)
+
+ANI (µM)
+
+ANI sensi vity
+NT
+Cur 5 µM
+Cur 10 µM
+Cur 15 µM
+**: P < 0.01
+***: P < 0.001
+****: P < 0.0001
+
+0
+20
+40
+60
+80
+100
+120
+
+0 50 100 150 200
+
+Survival (%)
+
+HU (µM)
+
+HU sensi vity
+
+NT
+Cur 10uM
+*
+
+*: P < 0.05
+
+***
+
+1
+
+10
+
+100
+
+0 0.4 0.8
+
+Survival (%)
+
+Ola (µM)
+
+Ola sensi vity
+(HT1080)
+
+NT
+Cur 5 µM
+
+**
+
+1
+10
+
+100
+
+0 0.4 0.8
+
+Survival (%)
+
+Ola (µM)
+
+Ola sensi vity
+(U2OS)
+
+NT
+Cur 5 µM
+
+**
+
+1
+
+10
+
+100
+
+0 0.5 1 1.5 2
+
+Survival (%)
+
+Ola (µM)
+
+Olaparib sensi vity
+(HCT116)
+
+DMSO
+Cur 10 uM
+
+**
+***
+***
+
+1
+
+10
+
+100
+
+012345
+
+Survival (%)
+
+CPT (nM)
+
+CPT sensi vity
+NT
+Cur 5 µM
+Cur 10 µM
+Cur 15 µM
+**: P < 0.01
+***: P < 0.001
+
+Fig. 5. Curcumin sensitizes cancer cells to PARP inhibitors by induction of DSB accumulation, apoptosis and mitotic catastrophe. (A) Colony formation of HeLa cells
+treated with olaparib (left) or 4-amino-1,8-naphthalimide (right) and 0, 5, 10 or 15 μM curcumin. Data represent the means ± SD. Each experiment was performed
+in triplicate. Asterisks indicate a significant difference between curcumin-treated and untreated cells, as determined by Student’s t-test (*P < 0.05, **P  <  0.01;
+***P < 0.001; ****P < 0.0001) (A–C). (B) Curcumin sensitizes various cancer cells to PARP inhibitors. Colony formation of U2OS, HT1080 and HCT116 cells
+treated with varying concentrations of olaparib (Ola) and with 0 (NT), 5 or 10 μM curcumin (Cur). Survival is expressed as the percentage ± standard deviation of
+colonies formed relative to the corresponding samples treated with 0 µM olaparib. (C) Curcumin sensitizes cancer cells to CPT and HU. Colony formation of HeLa
+cells treated with CPT (left) or HU (right) with 0 (NT) or 10 μM curcumin (Cur). Survival is expressed as the percentage ± standard deviation of colonies formed
+
+2494
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+Curcumin suppresses DSB repair and DNA damage checkpoint
+
+ATR-CHK1 signaling is critical to both HR and the DNA damage
+checkpoint and is essential for survival following treatment with
+a PARP inhibitor (31,59). Our results here reveal a novel activity of
+curcumin, i.e. inhibition of the kinase activity of ATR, which regulates
+HR and the DNA damage checkpoint. Curcumin treatment suppressed
+ATR-CHK1 but not ATM-CHK2 signaling in response to treatments
+with PARP inhibitors and other DNA-damaging agents such as CPT
+and NCS. Previously, in contrast to our results, another group reported
+that curcumin treatment activates CHK1 (60,61). In those studies, the
+authors observed that CHK1 and ATM, but neither CHK2 nor ATR,
+were phosphorylated following treatment with curcumin for 24–48 h
+and that CHK1 phosphorylation was dependent on ATM activity. By
+contrast, under our experimental conditions, CHK1 phosphorylation
+and γH2AX were not induced even after a 24 h treatment, and NCSinduced
+CHK1 phosphorylation was also suppressed by a 24 h curcumin
+treatment (Supplementary Figure S9, available at Carcinogenesis
+Online). Therefore, we speculate that curcumin does indeed inhibit
+ATR-dependent CHK1 phosphorylation, but that long-term exposure
+of curcumin causes ATM activation by abrogating multiple DDR pathways
+following ATM-dependent CHK1 phosphorylation.
+
+PARP inhibitors are promising drugs for the treatment of
+BRCA1/BRCA2-associated cancers; however, to utilize PARP
+inhibitors in clinical settings, efficient therapeutic strategies are
+required, particularly for cancers in which BRCA1 and BRCA2
+mutations rarely occur (62). Sensitization to PARP inhibitors is
+predicted to occur as a result of inhibition of DDRs including
+NHEJ, HR and the DNA damage checkpoint (37). The results
+of this study indicate that curcumin suppresses all three of these
+DDRs by inhibition of CBP/p300 HATs and ATR kinase and
+thereby confers sensitivity to PARP inhibitors on cancer cells that
+retain BRCA1/2-mediated DDRs.
+Other effects of curcumin are also potentially related to sensitization.
+PARP1 is an activator of E2F1 and CBP/p300 (63), and transcription
+of the gene encoding the ATR activator Claspin, as well as
+expression of CHK1 and RAD51, is positively regulated by E2F1
+(64,65). Therefore, curcumin treatment might lead to repression of not
+only BRCA1 but also other E2F1 target genes involved in DDR pathways.
+Furthermore, in light of our finding that curcumin enhances the
+accumulation of DSBs, apoptosis and mitotic catastrophe induced by
+PARP inhibitors, curcumin-mediated inhibition of the antiapoptotic
+
+A B
+
+Olaparib
+
+PARP1
+
+NHEJ HR
+
+CBP/p300
+
+Checkpoint
+
+KU70/80
+
+BRCA1
+
+RAD51 ATR-CHK1
+
+DDR Pathways
+
+DSB Repair
+
+Survival
+
+NHEJ HR
+
+CBP/p300
+
+Checkpoint
+
+KU70/80
+
+BRCA1
+
+RAD51 ATR-CHK1
+
+Curcumin
+
+Impaired
+DDR Pathways
+
+Unrepaired DSBs
+
+Cell Death
+
+E2F1
+
+<Olaparib> <Olaparib + Curcumin>
+
+SSB
+
+DSB
+
+Olaparib
+
+PARP1
+SSB
+
+DSB
+
+CBP/p300
+BRCA1 promoter
+
+Histone
+
+Histone
+
+E2F1
+
+CBP/p300
+Histone
+
+Histone
+
+Curcumin
+BRCA1 promoter
+
+Curcumin
+
+Fig. 6. Model: How curcumin inhibits three major DNA damage responses. (A) Activation of DDRs by the PARP inhibitor olaparib. (B) Suppression of DDRs
+activated by olaparib in combination with curcumin. The PARP inhibitor suppresses repair of DNA SSBs. Unrepaired SSBs are converted to DNA DSBs by
+collapse of stalled replication forks during DNA replication. In the NHEJ pathway, curcumin inhibits CBP and p300, reducing histone acetylation at DSB
+sites, causing KU70/80 to fail to accumulate at DSBs and ultimately leading to suppression of NHEJ. Curcumin suppresses HR through reduction of CBP/
+p300-mediated histone acetylation at DSBs and at the BRCA1 promoter, resulting in reduced BRCA1 expression. Curcumin also inhibits ATR kinase, leading to
+suppression of CHK1-dependent RAD51 activation and the DNA damage checkpoint pathway. Curcumin-mediated suppression of DSB repair pathways and the
+DNA damage checkpoint results in the accumulation of DSBs and induction of cell death by apoptosis and mitotic catastrophe.
+
+relative to the corresponding samples not treated with HU or CPT (i.e. 0 µM). (D) Suppression of olaparib-induced CHK1 activation by curcumin. HeLa cells
+were pretreated with DMSO or 15 μM curcumin for 1 h; treated with DMSO, 10 μM olaparib, 15 μM curcumin or a combination of curcumin and olaparib and
+then subjected to immunoblotting 6 h later. (E) Accumulation of olaparib-induced DSBs was increased by curcumin treatment. HeLa cells were treated with
+DMSO (NT) or olaparib (5 or 10 μM) in the presence (+) or absence (−) of 10 μM curcumin for 72 h, followed by staining with antibodies against phosphohistone
+H2AX (Ser139; γH2AX) and with PI. The percentage of γH2AX-positive cells was determined by flow cytometry. Data represent the means ± SD of
+triplicate experiments. (F) Apoptosis in cells treated with curcumin and olaparib. HeLa cells were treated with DMSO (NT) or olaparib (5 or 10 μM) in the
+presence (+) or absence (−) of 10 μM curcumin for 96 h and then stained with Annexin V (conjugated to fluorescein isothiocyanate) and PI. The percentage of
+Annexin V-positive cells (early and late apoptotic cells) is represented as the mean ± SD of triplicate experiments. (G) Mitotic catastrophe in curcumin/olaparibtreated
+cells. HeLa cells were treated with DMSO (NT) or olaparib (5 μM or 10 μM) in the presence (+) or absence (−) of 10 μM curcumin for 96 h before being
+fixed and processed for nuclear staining with 4′,6-diamidino-2-phenylindole or for α-tubulin/γH2AX immunofluorescence analysis. Representative images of
+micronucleated cells are shown in Supplementary Figure S15D, available at Carcinogenesis Online. The percentages of micronucleated cells are represented as
+the means ± SD of triplicate experiments.
+
+←
+
+2495
+
+Downloaded from https://academic.oup.com/carcin/article/34/11/2486/2463887 by guest on 14 August 2024
+H.Ogiwara et al.
+
+functions of both the NF-κB pathway and the ATR-CHK1 cell-cycle
+checkpoint pathway might also play significant roles. These points
+should be further investigated to comprehensively elucidate the
+effects of curcumin on DDRs.
+Recently, specific inhibitors against ATR kinase have been identified,
+and their utility in cancer therapy will be tested in future studies
+(66,67); in particular, their safety and tolerability in humans are
+unknown and must be investigated. On the other hand, curcumin
+has been examined in several clinical studies for its anticancer and
+chemosensitizing activities (39), and its low toxicity in humans has
+been amply demonstrated (6–8,38). Considering that it suppresses not
+only ATR but also CBP/p300 HATs, which positively regulates two
+major DSB repair pathways, and also possibly enhances apoptosis
+and mitotic catastrophe, curcumin is a strong candidate for a drug
+that could be used to increase the efficacy of PARP inhibitor-based
+therapies.
+In conclusion, this study demonstrates that curcumin suppresses
+multiple DDRs, including NHEJ, HR and the G2/M DNA damage
+checkpoint, by inhibiting CBP/p300 HATs and ATR kinase. These
+DDRs are critical for recovery from DSBs generated by the actions
+of PARP inhibitors. NHEJ and HR are the two major DSB repair
+pathways involving BRCA1/2. ATR-CHK1 signaling is critical for
+the induction of cell death via apoptosis and mitotic catastrophe
+in response to persistent DSBs. Consistent with this, curcumin
+enhanced the sensitivity to PARP inhibitors of DDR-proficient
+cancer cells by inducing both apoptosis and mitotic catastrophe,
+indicating its potential utility as a sensitizer for PARP inhibitorbased
+cancer therapy. Notably, higher concentrations of curcumin
+led to greater sensitization to DNA-damaging agents and greater
+suppression of DDRs. Therefore, delivery of curcumin to tumor
+cells at high concentrations might be necessary to achieve optimal
+sensitization. Ongoing studies using animal models in our laboratory
+will determine the effects of sensitization to PARP inhibitors
+in vivo.
+
+
+

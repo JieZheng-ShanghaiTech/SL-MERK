@@ -1,0 +1,630 @@
+Abstract
+As key molecules which drive progression and chemoresistance in gastrointestinal cancers, EGFR and HER2 have become efficacious drug targets in this setting. Lapatinib is an EGFR/HER2 kinase inhibitor suppressing signaling through the RAS/RAF/MEK/MAPK and PI3K/AKT pathways. Histone deacetylase inhibitors (HDACi) are a novel class of agents that induce cell cycle arrest and apoptosis following the acetylation of histone and non-histone proteins modulating gene expression and disrupting HSP90 function inducing the degradation of EGFR-pathway client proteins. This study sought to evaluate the therapeutic potential of combining lapatinib with the HDACi panobinostat in colorectal cancer (CRC) cell lines with varying EGFR/HER2 expression and KRAS/BRAF/PIK3CA mutations. Lapatinib and panobinostat exerted concentration-dependent antiproliferative effects in vitro (panobinostat range 7.2–30nM; lapatinib range 7.6–25.8μM). Combined lapatinib and panobinostat treatment interacted synergistically to inhibit the proliferation and colony formation in all CRC cell lines tested. Combination treatment resulted in rapid induction of apoptosis that coincided with increased DNA double-strand breaks, caspase-8 activation and PARP cleavage. This was paralleled by decreased signaling through both the PI3K and MAPK pathways and increased downregulation of transcriptional targets including NFκB1, IRAK1 and CCND1. Panobinostat treatment induced downregulation of EGFR, HER2 and HER3 mRNA and protein through transcriptional and post-translational mechanisms. In the LoVo KRAS mutant CRC xenograft model, the combination demonstrated greater antitumor activity than either agent alone, with no apparent increase in toxicity. Our results offer preclinical rationale warranting further clinical investigation combining HDACi with EGFR and HER2-targeted therapies for CRC treatment.
+Keywords:
+colorectal cancer, lapatinib, LBH589, Panobinostat, EGFR, HER2, KRASINTRODUCTION
+Colorectal cancer (CRC) was the third leading cause of cancer incidence and second deadliest malignancy in the United States with an estimated 147,000 new cases and 50,000 deaths in 2009 (
+1
+). Despite advances in chemotherapeutic options for CRC, a high incidence of drug resistance and disease progression remain a major stumbling block to effective disease control. Currently, patients with metastatic disease have a 5-year survival of <10% (
+2
+–
+5
+). Many patients fail all standard therapeutic options while remaining candidates for continued therapy. There is a critical need for more effective treatment strategies for patients with metastatic CRC.
+Members of the human epidermal receptor (HER) family including the epidermal growth factor receptor (EGFR) and to a lesser extent the HER2 and HER3 play key roles in driving the oncogenic pathways important for CRC growth and proliferation, survival, angiogenesis, invasion and metastasis (
+6
+). Targeting EGFR has demonstrated efficacy in CRC patients with the use of the monoclonal antibodies cetuximab (
+7
+,
+8
+) and panitumumab (
+9
+,
+10
+). However, the therapeutic efficacy of these agents is currently limited to a subset of CRC patients and the presence of intrinsic resistance (such as
+KRAS
+mutation) or the subsequent development of resistance represents a serious therapeutic challenge (
+11
+). The identification of alternative approaches that further disrupt EGFR-dependent tumor cell growth is critical and may have significant clinical impact. The tyrosine kinase inhibitor (TKI) lapatinib (Tykerb) targets EGFR and HER2 and is approved for metastatic breast cancer and is under clinical investigation in a variety of tumor types including CRC (
+12
+,
+13
+).
+A novel class of anticancer agents that may improve the efficacy of HER-targeted agents are histone deacetylase inhibitors (HDACi). HDACi elicit their anticancer activity through the hyper-acetylation of both histone and non-histone proteins resulting in alterations in chromatin structure, transcriptional activity, gene expression changes and growth arrest and apoptosis (
+14
+–
+16
+). HDACi can also induce the acetylation of heat shock protein 90 (HSP90), which is a critical molecular chaperone involved in maintaining cellular homeostasis (
+17
+). Disruption of the HSP90 chaperone complex through acetylation results in the destabilization of client proteins critical for cancer cell survival and continued proliferation including members of the HER-family (
+18
+,
+19
+). Importantly, variation in HSP90 dependency has been reported in specific tumor subtypes that harbor HER-signaling aberrations including EGFR tyrosine kinase mutations in non-small cell lung cancer and HER2 amplification in breast cancer (
+19
+,
+20
+). In addition to protein destabilization, HDACi are reported to induce potent transcriptional effects in multiple pathways that disrupt tumor progression including HER-signaling, dNTP biosynthesis, angiogenesis, invasion and mitosis (
+21
+–
+23
+). These transcriptional effects are reported to occur through inhibition of new transcript synthesis and destabilization and accelerated decay of mature transcripts (
+22
+,
+23
+).
+Panobinostat (LBH589) functions as an HDACi targeting class I and II HDACs and has demonstrated activity in hematologic and non-hematologic tumor models and is under extensive clinical evaluation (
+24
+,
+25
+). HDACi have demonstrated synergistic anti-tumor efficacy with a variety of structurally diverse anticancer agents. Previously we reported that HDACi synergized with fluoropyrimidines in CRC cancer cells through downregulation of the fluoropyrimidine target enzyme thymidylate synthase (
+22
+) and we tested these observations in the clinical setting (
+26
+). Additional synergistic interactions with HDACi have been reported including combinations with the proteasome inhibitor bortezomib (
+27
+), and TRAIL agonist antibodies (
+28
+) and the EGFR TKI gefitinib in head and neck cancer (
+29
+). The molecular basis for these synergistic interactions is attributed to HDACi-induced changes in expression or activity of a specific drug target. Importantly, a recent study demonstrated that panobinostat induced downregulation of EGFR in mutant EGFR lung cancer cells and that combined treatment with the EGFR TKI erlotinib resulted in synergistic antiproliferative effects (
+19
+). An additional study also reported that the HDACi LAQ824 induced downregulation of HER2 in HER2-amplified breast cancer cells resulting in a synergistic interaction with trastuzumab (
+30
+).
+As EGFR and HER2 are of key importance in promoting tumor cell proliferation and survival in CRC, we tested the hypothesis that combined targeting of EGFR and HER2 by lapatinib in combination with panobinostat would have synergistic antiproliferative effects in CRC models with different mutational statuses.MATERIAL AND METHODS
+Additional details can be found in the
+Supplemental Methods
+Compounds and reagents
+Panobinostat (LBH589) was provided by Novartis Pharmaceuticals (East Hanover, NJ). Vorinostat was provided by the National Cancer Institute (Bethesda, MD). Entinostat (MS-275) and lapatinib were purchased from LC Laboratories (Woburn, MA). CellTiter
+96
+Aqueous MTS was purchased from Promega (Madison, WI). Epidermal growth factor (EGF) and (hydroxypropy)methylcellulose (HPMC) were purchased from Sigma-Aldrich (St. Louis, MO). 17-(Allylamino)-17-demethoxygeldanamycin (17-AAG) was purchased from A.G. Scientific, Inc. (San Diego, CA). Halt protease and phosphatase inhibitor cocktail was purchased from Thermo Scientific (Rockford, IL).
+Cell lines
+The human CRC cell lines DLD-1, HCT116, HT29, LoVo, and RKO were purchased from American Type Culture Collection (Lockville, MD). DLD-1, LoVo, and RKO were maintained in DMEM. HCT116 and HT29 were maintained in McCoy's 5A. H630 CRC cells were a gift from Edward Chu at the Yale Cancer Center and maintained in DMEM. Media was supplemented with 10% fetal bovine serum (Lonza, Walkersville, MD) with penicillin/streptomycin, sodium pyruvate and L-glutamine (Invitrogen, Carlsbad, CA). Cells were maintained in a humidified Forma incubator (Forma, Waltham, MA) at 37°C with 5% CO
+2
+and routinely screened for mycoplasma using the MycoALERT detection kit (Lonza).
+Growth inhibition assay and drug combination analysis
+The Cell Titer
+96
+AQueous MTS assay (Promega) was carried out according to the manufacturers guidelines and as previously described (
+22
+). IC
+50(72h)
+values were calculated from sigmoidal-dose response curves utilizing Prism (Graphpad, San Diego, CA). The combination effect was determined by the combination index (CI) method (
+31
+) utilizing Calcusyn software (Biosoft, Ferguson, MO). Fraction affected (FA) was calculated from the percent growth inhibition: FA=(100 − % growth inhibition)/100. CI values <1, synergism; 1–1.2, additive and >1.2, antagonism.
+Colony formation assay
+The colony formation assay was performed as previously described (
+32
+). Three concentrations of panobinostat were selected to induce dose-dependent decreases in colony forming capacity. Since lapatinib is considered a targeted agent, a fixed clinically meaningful dose of 3μM was used to evaluate the combined drug effect. Following a transient 24 h drug exposure, culture media was replaced with drug-free medium and cells were allowed to grow for 7–14 days. Colonies were then fixed, stained, counted and drug-treated samples compared directly to untreated controls set at 100%.
+Flow cytometric/ Sub-G
+1
+analysis
+Cell cycle and viability was determined by flow cytometric analysis of DNA content after a 24h drug exposure as previously described (
+33
+). Cells were harvested and analyzed using a Coulter® EPICS® ELITE flow cytometer (Beckman Coulter, Fullerton, CA). Cell populations were quantified using Expo32 software (Beckman Coulter). Cells with DNA content <1 were considered apoptotic. Statistical analysis consisting of a two-tailed ANOVA was performed using Prism (Graphpad).
+Immunoblotting
+Immunoblotting was preformed as previously described (
+33
+). Cell lysates were prepared using radioimmunoprecipitation assay (RIPA) buffer supplemented with Halt Protease and Phosphatase Inhibitor. Protein concentrations were quantified according to the BCA Protein Assay Kit (Pierce, Rockford IL).
+Quantitative real-time PCR (qPCR)
+RNA was isolated using TRizol according to manufacturer's instructions (Invitrogen). cDNA was reverse transcribed using 500ng RNA using qScript™ cDNA Synthesis Kit according to the manufacturer's instructions and analyzed using PerfeC
+T
+a® SYBR Green Supermix (Quanta Biosciences Inc., Gaithersburg, MD) and an Applied Biosystems 7500 PCR Detection System (Applied Biosystems Inc). Target genes (
+Supp Table 1
+) were normalized to
+GAPDH
+and quantified using the comparative Cτ method (
+34
+). Histograms and statistical analysis (2-tailed paired Student's
+t
+-test) were performed using Prism (Graphpad).
+In vivo analysis
+Xenograft experiments were conducted in male C57Bl/6 BALB/c mice (Taconic Labs, Hudson, NY) that were 6–8 weeks old. Subcutaneous LoVo CRC xenografts were established and allowed to grow until they reached ~100mm
+3
+(day 0). Animals were randomized to treatment groups: vehicle, panobinostat, lapatinib and combination of panobinostat and lapatinib (n=6, group). Panobinostat was administered at 2.5 mg/kg by intraperitoneal injection once daily (qd) for 5 consecutive days a week. Lapatinib was administered by oral gavage at 30mg/kg bi-daily (BID) for the duration of the study. Two perpendicular diameters of tumors were measured every 2 days with a digital caliper by the same investigator. Tumor volume was calculated according to the following formula: TV (mm
+3
+) = (length[mm] × (width[mm]
+2
+) / 2. Animal bodyweight was measured every 2 days as an index of toxicity.RESULTS
+IC
+50(72h)
+growth inhibitory effects of panobinostat and lapatinib in CRC cell lines
+Prior to evaluating lapatinib in combination with panobinostat, we first analyzed the antiproliferative activity of both agents separately in a panel of 6 heterogenous CRC cell lines (
+Table 1
+). DLD-1, H630, HCT116, HT29, LoVo, and RKO CRC cells were exposed to increasing concentrations of lapatinib and panobinostat for 72h and growth inhibition was measured by MTS assay. In all CRC cell lines tested, panobinostat demonstrated concentration-dependent growth inhibitory activity with IC
+50(72h)
+values ranging between 4.2–26nM (
+Table 1
+). Lapatinib exerted concentration-dependent growth inhibitory activity with IC
+50(72h)
+values ranging from 5.5–25.9μM (
+Table1
+). Consistent with our previous observations (
+35
+), the IC
+50(72h)
+values obtained for lapatinib in this short-term growth inhibition assay are representative of cells which are relatively resistant to the growth inhibitory effects of lapatinib.
+Table 1
+Mutational status of
+KRAS, BRAF
+and
+PIK3CA
+and sensitivity of lapatinib (LAP) and panobinostat (LBH589) in six CRC cell lines.
+CRC Cell Line
+Protein Expression
+1
+Mutation Status
+2
+IC
+50 (72 h)
+3
+EGFR
+HER2
+KRAS
+BRAF
+PI3KCA
+LAP (μM)
+LBH589 (nM)
+DLD-1
+++
++
+G13D
+Wt
+E454K
+13.7 ± 0.1
+26.0 ±0.4
+H630
+−
++++
+Wt
+Wt
+Wt
+11.3 ± 0.3
+5.3 ± 0.1
+HCT116
++
++
+G13D
+Wt
+H1047R
+25.9 ± 0.5
+4.2 ± 0.5
+HT29
+++
++
+Wt
+V600E
+Wt
+13.7 ± 0.4
+6.6 ± 0.1
+LoVo
++++
++
+G13D
+Wt
+Wt
+8.9 ± 0.2
+9.3 ± 0.1
+RKO
++
+−
+Wt
+V600E
+H1074R
+9.2 ± 0.5
+10.5 ± 0.2
+Open in a separate window
+1
+Previously reported (
+29
+,
+30
+)
+2
+Mutation data compiled from Cancer Genome Project database
+http://www.sanger.ac.uk/genetics/CGP/CellLines/
+.
+3
+IC
+50
+= Concentration of drug required to inhibit growth by 50% compared with vehicle treated controls and calculated in Prism 5.0 (Graphpad). Values are the mean of 4 independent experiments ± SEM.
+Panobinostat combined with lapatinib synergistically inhibits CRC cell proliferation and colony formation
+We previously determined the EGFR and HER2 protein expression in a panel of CRC cell lines and demonstrated that 4 of 5 cell lines analyzed (DLD-1, H630, HCT116, HT-29 and LoVo) had significant EGFR expression with the exception of the H630 cell line which had low EGFR expression but expressed HER2 at a significant level compared to the other CRC cell lines (
+Table 1
+) (
+35
+).
+CRC cell lines were subsequently treated with increasing concentrations of panobinostat and lapatinib alone and in combination for 72h and growth inhibition was measured by MTS assay. The median-effect analysis method (
+31
+) was utilized to evaluate the combined drug effect. Simultaneous treatment with panobinostat and lapatinib resulted in synergistic increases in growth inhibition at 0.5 FA and synergistic CI values of <1 over the majority of concentrations tested in all CRC cell lines examined (
+Fig. 1
+). Of note, this interaction was observed in cell lines harboring activating mutations in the
+KRAS
+,
+BRAF
+, and
+PIK3CA
+oncogenes. Temporal sequencing of lapatinib and panobinostat was also explored in the H630 cell line and while concomitant treatment with both agents yielded the highest fraction affected, pre-incubating cells with either agent followed by the inverse also yielded additive to synergistic effects compared to either agent alone (
+Supp Fig 1
+). In addition, two additional HDACi were also evaluated in combination with lapatinib in the H630 and LoVo cell lines. In the H630 cell line, lapatinib in combination with entinostat demonstrated synergistic interactions across the range of concentrations evaluated. In contrast, the combination with vorinostat yielded primarily additive effects and only at elevated concentrations. In LoVo cells, lapatinib combined with entinostat yielded increases in the FA and additive to synergistic interactions across most concentrations tested. Lapatinib combined with vorinostat in the LoVo cells did not demonstrate any significant increase in the FA (
+Supp Fig 2
+).
+Open in a separate window
+Fig 1
+Synergistic growth inhibitory effects of panobinostat (LBH589) combined with lapatinib (LAP) in CRC cell lines
+Growth inhibition was determined by MTS assay for 72 h. Six CRC cell lines were exposed to increasing doses of LBH589 and LAP. Data points represent mean±SD percent growth inhibition (n=3 experiments) compared to controls at 100%. The combined drug effect was analyzed using the combination index (CI) equation and presented with fraction affected (FA) for combinations. CI values <1=synergism; 1–1.2=additive; and >1.2=antagonism.
+A long-term clonogenicity assay was subsequently performed to assess the capacity of panobinostat and lapatinib combinations to cause irreversible growth arrest in 4 CRC cell lines. Combined drug analysis was performed using three increasing concentrations of panobinostat that induced dose-dependent decreases in colony forming capacity. The concentrations selected were well within clinically relevant doses (
+24
+). The selected panobinostat concentrations were also combined with 3μM lapatinib, a fixed clinically relevant dose for 24h followed by drug removal and outgrowth in drug-free medium (
+12
+). In all cell lines evaluated, increasing doses of panobinostat alone resulted in a dose-dependent suppression of colony formation (
+Fig. 2A
+). Combining 3μM lapatinib with the increasing concentrations of panobinostat resulted in significant suppression of colony formation in all four cell lines examined (
+Fig. 2A
+and
+Supp Fig 3
+).
+Open in a separate window
+Fig 2
+Panobinosat (LBH589) and lapatinib (LAP) synergistically suppress colony formation and induce apoptosis in CRC cell lines
+(A)
+DLD-1, H630, HCT116 and LoVo CRC cells were treated with LBH589 and 3μM LAP for 24h and then replaced with drug-free media for 12–15 days. Data presented as the percentage of colony formation compared to controls, mean±SEM from (n=3 experiments). Statistical significance was determined by two-way ANOVA, *p<0.05;**p<0.01,***p<0.001.
+(B)
+Percentage of cells in sub-G
+1
+at 24h are represented as the mean±SD from two independent experiments, *p<0.05;**p<0.01;***p<0.001 two-way ANOVA.
+(C)
+Western blot analysis of γ-H2A.X, caspase-8 and PARP following treatment for 18 and 24h. β-Tubulin controlled for loading.
+Lapatinib enhances panobinostat-induced apoptosis in CRC cells
+DLD-1, H630, HCT116, and LoVo CRC cells were treated with 3μM lapatinib, 10 and 15nM panobinostat and combinations for 24h and DNA content was analyzed by flow cytometry to measure the onset of apoptosis. Treatment with lapatinib did not induce any significant alterations in the percentage of cells in sub-G
+1
+(indicative of apoptosis) compared to control in any of the CRC cell lines (
+Fig. 2B
+). Treatment with 10 and 15nM panobinostat resulted in a dose-dependent increase in the percentage of cells in sub-G
+1
+in three of the four CRC cell lines. Interestingly the DLD-1 cells demonstrated resistance to panobinostat-induced apoptosis with <5% of cells in sub-G
+1
+. However, the combinations of 3μM lapatinib with both 10 and 15nM panobinostat in the DLD-1 cells increased the number of apoptotic cells in sub-G
+1
+to 24.1 and 30.1%. Significant increases in apoptosis were also observed in the H630, HCT116 and LoVo cells with the addition of 3μM lapatinib to 15nM panobinostat increasing the number of cells in sub-G
+1
+from 28.6, 24.9 and 27.5% with panobinostat alone to 52.1, 43.4 and 50.9% respectively (
+Fig. 2B
+).
+The induction of DNA double-strand breaks (DSB) and apoptosis was assessed by Western blotting for γH2A.X-ser
+139
+and activation of caspase-8 and PARP cleavage. H630 and LoVo CRC cells were treated as above for 18 and 24h. Lapatinib treatment resulted in no detectable increase in γH2A.X when compared to controls whereas panobinostat treatment alone increased γH2A.X as early as 18h in both H630 and LoVo cells. Lapatinib plus panobinostat induced γH2A.X to a greater extent in both cell lines when compared to either single agent. Lapatinib treatment alone in H630 and LoVo cells did not induce cleavage of caspase-8 or PARP (
+Fig. 2C
+). As expected, 15nM panobinostat induced low levels of PARP cleavage consistent with the low level of apoptosis occurring. However, combination treatment increased both caspase-8 and PARP cleavage at 18 and 24h in both cell lines.
+Panobinostat in combination with lapatinib synergistically inhibits the growth of LoVo xenografts in nude mice
+LoVo CRC xenografts were established as outlined in the methods. Panobinostat was administered at 2.5 mg/kg by i.p. injection once daily (qd) for five days each week and lapatinib was administered at 30 mg/kg BID by oral gavage for the duration of the study. Single-agent lapatinib and panobinostat resulted in modest tumor growth inhibition when compared to vehicle-treated controls (
+Fig. 3A
+). However, co-administration of lapatinib and panobinostat resulted in the greatest tumor growth inhibition compared to vehicle controls. At the end of the 24-day treatment period, lapatinib monotherapy resulted in a 4.1% reduction in mean tumor volume (TV) to 1075.3±163.3 mm
+3
+compared to the vehicle control group with a mean TV of 1121.7±288.9 mm
+3
+(
+Fig. 3A
+). Panobinostat monotherapy resulted in a reduction in mean TV of 23.8% to 954.6±275.9 mm
+3
+when compared to the vehicle-treated group. However, panobinostat plus lapatinib resulted in a reduction in mean TV of 49.8% to 563.2±111.6 mm
+3
+when compared to the vehicle-treated group (
+p
+<0.05). Lapatinib plus panobinostat also resulted in a highly significant increase in tumor delay (Td) with a ratio of observed:expected of 1.15, indicative of a synergistic increase in antitumor activity (
+Fig. 3B
+). Importantly, combination treatment did not cause any significant difference in bodyweight compared to monotherapy (
+p
+=0.48) (
+Fig. 3C
+).
+Open in a separate window
+Fig 3
+Panobinostat (LBH589) and lapatinib (LAP) synergistically enhance antitumor activity in LoVo CRC xenograft model
+Male
+nu
+/
+nu
+mice with subcutaneous LoVo CRC tumors (100 mm
+3
+) were treated with vehicle, LAP, LBH589 or their combination (n=6, group). 30 mg/kg LAP was administered by oral galvage twice daily and 2.5 mg/kg LBH589 was administered i.p. for 5 consecutive days per week.
+(A)
+Tumor volume (TV) is represented as mean±SEM for each group. Statistical significance was determined by two-way ANOVA, *p<0.05;**p<0.0;***p<0.001.
+(B)
+Tumor delay (Td)
+1
+=time in days to reach a tumor volume 5 times the initial volume on day 1. Expected Td
+2
+=the mean vehicle + (mean LAP) - mean vehicle) + (mean LBH589) - mean vehicle). Observed Td
+3
+=the combination of 30 mg/kg LAP and 2.5 mg/kg LBH589. Ratio
+4
+of observed:expected Td. Ratio >1 indicates synergism and <1 indicates antagonism.
+(C)
+Mouse bodyweight represented as the percent initial body weight at day 24 compared to day 1.
+HDAC inhibition modulates
+ERBB
+family gene and protein expression
+We subsequently investigated the effects of panobinostat on both HER-family gene and protein expression in CRC models. DLD-1, H630, HCT116 and LoVo cells were treated with increasing concentrations of panobinostat for 24h and the mRNA expression of
+ERBB1
+(EGFR) and
+ERBB2
+(HER2) was analyzed by qPCR. Although the DLD-1 and LoVo cells demonstrated an initial induction of
+ERBB1
+mRNA at the lower doses of panobinostat (10–25nM), treatment with 100nM panobinostat resulted in a significant reduction of
+ERBB1
+mRNA in all cell lines examined (
+Fig. 4A
+).
+ERBB2
+mRNA expression was significantly downregulated in DLD-1, H630 and LoVo cells with 100nM panobinostat (
+Fig. 4B
+).
+Open in a separate window
+Fig 4
+Panobinostat (LBH589) modulates EGFR and HER2 mRNA and protein expression
+DLD-1, H630, HCT116, and LoVo CRC cell lines were treated with LBH589 for 24h. Following treatment mRNA expression was determined for
+(A)
+ERBB1
+and
+(B)
+ERBB2
+. Histogram bars represent the mean±SD for (n=2 analyzed in triplicate).
+GAPDH
+mRNA expression was used to normalize. Statistical significance was determined by student
+t
+-test of treated samples when compared to control, *p<0.05;**p<0.01;***p<0.001.
+(C)
+Western blot analysis of the effect of LBH589 on EGFR and HER2 protein expression. Densitometric analysis was performed using Scion Image normalized to β-tubulin to control for loading.
+The effect of increasing concentrations of panobinostat on EGFR and HER2 protein expression in DLD-1, H630, HCT116 and LoVo cells was evaluated. Panobinostat treatment for 24h resulted in a dose-dependent decrease in both EGFR and HER2 protein in all cell lines examined (
+Fig. 4C
+). Importantly, at the concentration of 15nM panobinostat used for the apoptotic analyses, all cell lines demonstrated downregulation of EGFR and HER2 protein. HCT116 cells which demonstrated increased
+ERBB1
+mRNA with 15nM panobinostat, showed a 2-fold decrease in EGFR protein.
+The combination of panobinostat and lapatinib enhances the downregulation of
+ERBB1
+and
+ERBB2
+gene expression
+The effect of combined lapatinib and panobinostat treatment on both EGFR and HER2 mRNA and protein expression was analyzed. H630 and LoVo cells were treated with 3μM lapatinib and 10 and 15nM panobinostat alone and in combination for 18 and 24h. mRNA expression of
+ERBB1
+and
+ERBB2
+were analyzed by qPCR. Treatment with lapatinib alone had no significant effect on
+ERBB1
+and
+ERBB2
+mRNA expression.
+ERBB1
+and
+ERBB2
+mRNA expression was downregulated approximately 2-fold following treatment with 15nM panobinostat in the H630 cells. In the LoVo cells,
+ERBB1
+mRNA was increased 2-fold and
+ERBB2
+mRNA was downregulated 2-fold by 15nM panobinostat treatment. Combination treatment resulted in an increased downregulation of
+ERBB2
+in both cell lines than panobinostat treatment alone. In the H630 cells
+ERBB1
+mRNA was downregulated to a greater extent than panobinostat treatment alone as a result of combination treatment. Interestingly, the induction of
+ERBB1
+mRNA observed with panobinostat treatment in the LoVo cells was completely abrogated with combination treatment (
+Fig. 5A
+).
+Open in a separate window
+Fig 5
+Significant suppression of HER family and downstream signaling molecules following combination treatment with panobinostat (LBH589) and lapatinib (LAP)
+H630 and LoVo cells were treated with LBH589 and LAP for 18 and 24h and analyzed for mRNA and protein expression of HER family and downstream signaling. mRNA expression was determined for
+(A)
+ERBB1
+,
+ERBB2
+,
+CCND1
+,
+NF
+κ
+B1
+, and
+IRAK1
+. Histogram bars represent the mean±SD (n=2 analyzed in triplicate).
+GAPDH
+expression was used to normalize mRNA expression. Statistical significance was determined by student
+t
+-test of treated samples when compared to controls, *p<0.05;**p<0.01;***p<0.001.
+(B)
+H630 and
+(C)
+LoVo cell lines were evaluated for the effects of treatment on HER pathway proteins by Western blot analysis. β-Tubulin controlled for loading.
+To confirm the decrease in EGFR/HER2 signaling, we subsequently analyzed the mRNA expression of three known downstream transcriptional targets of EGFR signaling (
+36
+–
+38
+). Lapatinib treatment alone had no significant effects on
+CCND1
+and
+IRAK1
+gene expression in both the LoVo and H630 cell. However, in the LoVo cells, lapatinib treatment alone induced a 3-fold downregulation of
+NF
+κ
+B1
+mRNA expression. Panobinostat alone induced significant downregulation of
+CCND1
+,
+NF
+κ
+B1 and IRAK1
+(
+Fig. 5A
+). As expected, combination treatment enhanced the downregulation of
+CCND1
+,
+NF
+κ
+B1 and IRAK1
+gene expression greater than panobinostat alone, consistent with the enhanced disruption of HER-signaling (
+Fig. 5A
+).
+The combination of lapatinib and panobinostat suppresses signaling downstream of EGFR and HER2
+To further evaluate the enhanced effects of combination treatment, the protein expression of EGFR and HER2 and activation status of downstream signaling proteins, AKT and MAPK, was subsequently analyzed by Western blot. H630 and LoVo CRC cells were treated with 3μM LAP and 15nM panobinostat alone and in combination for 18 and 24h. Post-treatment, both cell lines demonstrated downregulation of EGFR and HER2 with combination treatment to the same or greater extent than panobinostat treatment alone (
+Fig. 5B and 5C
+). Phospho-AKT-Ser
+473
+levels were significantly repressed in both cell lines with both panobinostat and combination treatment at 18 and 24h. Analysis of phospho-p44/42-MAPK-Tyr
+204
+/Thr
+202
+shows suppression with combination treatment in the H630 at both 18 and 24h but only at 24h post combination treatment in the LoVo cells. Interestingly, in the LoVo cells, panobinostat treatment appears to cause an increase in the levels of phospho-p44/42-MAPK-Tyr
+204
+/Thr
+202
+at 18 and 24h over control levels that is abrogated by combination treatment (
+Fig. 5C
+).
+Panobinostat downregulates HER3, a known resistance marker to EGFR/HER2-targeted therapy
+It has been demonstrated that the increased expression and activation of HER3, the preferred dimerization partner for HER2, represents a mechanism of resistance to lapatinib treatment (
+39
+,
+40
+). However, HER3 expression in CRC remains to be firmly established (
+41
+). Basal HER3 mRNA and protein expression was determined for the six cell lines utilized throughout this study. All cell lines had detectable expression of
+ERBB3
+mRNA (
+Fig. 6A
+,
+left
+). HER3 protein expression was also detectable in all cell lines, with a 15-fold range of expression from the highest; HT29 to the lowest; RKO (
+Fig. 6A
+,
+right
+).
+Open in a separate window
+Fig 6
+Combined panobinostat (LBH589) and lapatinib (LAP) treatment downregulates HER3 mRNA and protein in CRC cell lines
+(A)
+Basal HER3 mRNA and protein levels were determined in six CRC cell lines. Histogram represents mean±SD (n=2 analyzed in triplicate). Protein expression was determined by Western blotting. Densitometeric analysis was performed using Scion Image and normalized to β-tubulin to control for loading. Relative protein expression is normalized to HCT116.
+(B)
+H630 and LoVo cells were treated with LBH589 for 24h and HER3 mRNA and protein analyzed. Statistical significance was determined by student
+t
+-test of treated samples when compared to respective control control, *p<0.05;**p<0.01;***p<0.001.
+(C)
+The effects of the LAP plus LBH589 at 24h on HER3 mRNA and protein expression was analyzed as above.
+We subsequently investigated the effects of panobinostat on HER3 mRNA and protein expression in H630 and LoVo CRC cells. Both cell lines demonstrated a dose dependent decrease in
+ERBB3
+mRNA expression with panobinostat treatment (
+Fig. 6B
+,
+left
+). In addition both cell lines demonstrated a significant downregulation of HER3 protein following panobinostat treatment (
+Fig. 6B
+,
+right
+). Interestingly, while EGFR and HER2 could be potently downregulated by the HSP90 inhibitor 17-AAG, HER3 protein expression remained unchanged suggesting that the mechanism of downregulation of HER3 is transcriptional (
+Supp Fig 5
+).
+To evaluate the effects of combination treatment on HER3 status, H630 and LoVo cells were treated with 3μM lapatinib and 10 and 15nM panobinostat alone and in combination for 24h and HER3 mRNA and protein analyzed. Lapatinib treatment did not modulate HER3 mRNA or protein expression at 24h in either cell line. However, combination treatment resulted in a significantly greater decrease in
+ERBB3
+mRNA and protein compared to panobinostat alone (
+Fig. 6C
+, left). This data indicates that panobinostat may be effective at disrupting the potential role of HER3 as a mechanism of resistance to HER-targeted therapy.DISCUSSION
+EGFR is over-expressed in 60–80% of CRC and is reported to play an important role in promoting the growth and progression of CRC. Based on EGFR's key role in promoting the survival and progression of CRC and the emerging evidence that HDACi downregulate receptor TK expression, the effect of targeting EGFR/HER2 in combination with HDAC inhibition in CRC cells was evaluated.
+Combining lapatinib with panobinostat resulted in synergistic decreases in CRC cell proliferation, colony formation and rapidly induced apoptosis. Mechanistic evaluation of this combination demonstrated that there was a significant enhancement of DNA damage (analyzed by γH2A.X), increased activation of caspase-8 and PARP cleavage, decreased
+ERBB1
+(EGFR) and
+ERBB2
+(HER2) mRNA and protein expression and decreased phosphorylation of AKT-ser
+139
+and MAPK-Thr
+202
+/Thy
+204
+. When tested
+in vivo
+, lapatinib plus panobinostat at therapeutically relevant doses demonstrated significantly delayed tumor growth and a reduction in tumor volume in the LoVo CRC xenograft.
+One of the most interesting observations is that CRC cell lines with a wide range of expression of EGFR and/or HER2 demonstrated a highly significant sensitization to panobinostat as a result of lapatinib treatment. This data would strongly suggest that inhibition of HER-mediated signaling overcomes a key survival or resistance mechanism to HDACi treatment. Based on the modest growth inhibition and lack of apoptosis observed with lapatinib treatment alone at lower doses (3μM), it seems plausible that cell survival and proliferation following HDACi treatment may be dependent on signaling from EGFR and/or HER2. We also confirmed a potential role for PI3K and MAPK signaling in mediating response to panobinostat treatment by combinations using specific inhibitors of MEK and PI3K and observing synergistic growth inhibitory effects (
+Supp Fig 4
+). Moreover, several cell lines utilized in this study possess activating mutations in
+RAS
+,
+RAF
+and/or
+PIK3CA
+and yet synergistic drug interactions to varying extents were observed in all cell lines. Interestingly, a recent report demonstrated that lapatinib was effective at suppressing signaling via PI3K/AKT even in the presence of activating
+PI3K
+mutations providing an explanation for our observations in
+PI3K
+mutant CRC cells (
+39
+). It would appear that concomitant treatment with lapatinib may reduce the cells ability to tolerate and survive the cytotoxic effects of panobinostat. This hypothesis is indeed supported by observations in CRC where EGFR-targeted therapies have had their greatest impact and demonstrated the most promising efficacy in combination with other structurally and functionally diverse cytotoxic agents. A number of clinical studies reported that cetuximab re-sensitized irinotecan-refractory mCRC patients to irinotecan, implicating EGFR as the mode of resistance in a subset of these patients (
+7
+,
+42
+). In addition, cetuximab and panitumumab have both improved clinical outcome in combination with oxaliplatin and irinotecan-containing regimens in
+KRAS
+wild-type patients in randomized trials (
+43
+,
+44
+). The clinical data therefore supports the role of EGFR in mediating cytotoxicity induced by chemotherapeutic agents.
+The complex interplay between EGFR and the other members of ErbB receptor family members directly influences the susceptibility of tumor cells to EGFR-targeted agents. We therefore evaluated the influence of HDACi treatment alone and in combination with lapatinib on the mRNA and protein expression of HER2 and HER3. We observed very clear cell-line specific effects on mRNA expression in response to panobinostat treatment. Downregulation of EGFR and HER2 mRNA was not a consistent observation throughout all the cell lines and induction of EGFR mRNA was noted in some cell lines. However, in all cell lines analyzed, downregulation of EGFR and HER2 protein expression was observed at concentrations where no downregulation (and even induction) of mature mRNA transcript was observed. This data strongly implies the disruption of EGFR and HER2 protein stability induced by HDACi. In addition, It is likely that the induction of mRNA observed in some cell lines represents the activation of a regulatory or feedback mechanism in an attempt to reestablish protein expression following HDACi treatment. Several studies have previously
+The expression levels and functional roles of HER2 and HER3 in CRC are not well established or described. Our previous studies and others have reported that a subset of CRC cells do express HER2 (
+35
+,
+45
+,
+46
+). This is of particular importance as HER2 is reportedly the preferred dimerization partner for other members of the HER family including EGFR and can intensify receptor-initiated signaling events (
+47
+). A recent study evaluated pertuzumab, an antibody that inhibits HER2 dimerization, in CRC cell line and xenograft models. The authors reported that pertuzumab demonstrated growth inhibitory activity as a single agent and enhanced activity when combined with the EGFR TKI erlotinib providing evidence supporting the inhibition of both EGFR and HER2 simultaneously in CRC (
+48
+). We also report that HER3 is expressed to varying extents in our CRC models and that panobinostat is effective at downregulating its expression at both the mRNA and protein level. This is of particular importance given the reported role of HER3 in mediating resistance to HER TKI therapy (
+49
+). The regulation of HER3 appears
+The mechanistic basis for the observed synergy between lapatinib and panobinostat combination appears to be multi-factorial. We provide the first report indicating that panobinostat can downregulate both EGFR and HER2 protein expression in a dose-dependent manner in a panel of CRC cell lines. We also demonstrate that HSP90 inhibition in combination with lapatinib treatment demonstrates a synergistic interaction in our CRC models (
+Supp Fig 5A
+) clearly suggesting a role for EGFR/HER2 signaling in mediating the recovery from the unfolded protein response. Interestingly, studies evaluating HDACi treatment in additional tumor types have reported significant differences in the regulation of HER-family members and the cytotoxicity that results. HDACi treatment appears to preferentially downregulate mutant EGFR in non-small cell lung cancer when compared to the wildtype protein as a result of increased dependence on HSP90 (
+19
+,
+20
+). In addition, HER2-amplified breast cancer cells appear to demonstrate increased sensitivity to HDACi treatment as a result of rapid depletion of HER2 following entinostat treatment. Tumors with specific HER-family molecular alterations such as tyrosine kinase mutation and gene amplification, have significantly differently clinicopathological characteristics associated with these alterations and are treated with distinctly different therapeutic strategies in the clinic. However, with CRC, it is well established that EGFR mutation is an extremely rare event and only a small subset possess EGFR amplification (
+50
+). Response to EGFR-targeted therapy and EGFR expression do not correlate well in colorectal cancer (even in the context of KRAS mutation) and confirmed reports of significant disease response has been observed in colorectal cancer patients whose tumors express little to no EGFR as detected by immunohistochemistry. The results of the current study would indicate that EGFR and HER2 are substrates for HSP90 in the context of CRC.
+In our CRC models, HSP90 inhibition potently downregulated EGFR and HER2 but did not downregulate HER3 protein and in fact induced
+ERBB2
+and
+ERBB3
+mRNA suggesting the presence of regulatory mechanisms possibly as a result of HER2 and EGFR protein loss (
+Supp Fig 5B and 5C
+). Induction of ErbB3 mRNA in response to HDACi treatment has been reported in NSCLC although the expression of HER3 protein in this specific study was not evaluated (
+51
+) However, panobinostat induced dose-dependent downregulation of HER3 at the mRNA and protein level. In the current study, we noted that panobinostat can downregulate
+ERBB1
+and
+ERBB2
+gene expression at clinically achievable concentrations in the majority of the CRC cell lines we tested indicating that panobinostat also elicits transcriptional effects, either through disruption of the gene transcriptional machinery, or possibly via an mRNA destabilization mechanism, in addition to the disruption of HSP90 function. The potential importance of the transcriptional component was further suggested by the combination of lapatinib with the HDACi entinostat. Entinostat is a Class I specific HDACi and does not target HDAC6 which is reported to regulate HSP90 function. The combination of lapatinib with entinostat demonstrated additive and synergistic effects in both the H630 and LoVo cell lines. However, entinostat is a structurally different HDACi belonging to the benzamide-class and it is not yet clear whether entinostat can influence protein stability via a non-HSP90 mechanisms. Currently, further analysis is underway to evaluate both the contributory mechanisms to this transcriptional effect and additional potential contributing mechanisms to the drug interaction that may include reactive oxygen species (ROS) and the potential role of EGFR and HER2 signaling in regulating the cellular response to ROS. The model that this data proposes is one where lapatinib inhibits ligand-initiated signaling from EGFR and HER2 while panobinostat simultaneously induces disruption of EGFR, HER2 and HER3 translational disruption (
+Supp Fig 6
+). The combined loss of receptor-initiated signaling and the downregulation of EGFR and HER2 expression and inhibition of replenishment through transcriptional and post-translational mechanisms results in rapid cell cycle arrest and apoptosis. These observations strongly support further clinical evaluation of HER-targeted therapies in combination with HDACi in the treatment of CRC.Supplementary Material
+1
+Click here to view.
+(850K, eps)
+2
+Click here to view.
+(5.7M, eps)
+3
+Click here to view.
+(675K, eps)
+4
+Click here to view.
+(1.5M, eps)
+5
+Click here to view.
+(813K, pdf)
+6
+Click here to view.
+(755K, eps)
+7
+Click here to view.
+(108K, docx)
+8
+Click here to view.
+(38K, xlsx)

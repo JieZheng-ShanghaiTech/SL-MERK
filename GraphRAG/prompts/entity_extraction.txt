@@ -1,0 +1,91 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.
+
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: One of the following types: [{entity_types}]
+- entity_description: Comprehensive description of the entity's attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>
+
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+ Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. When finished, output {completion_delimiter}
+
+######################
+-Examples-
+######################
+Example 1:
+
+Entity_types: [gene, protein, pathway, disease, organism]
+Text:
+In the study, TP53 mutations were found to play a significant role in breast cancer development. 
+BRCA1 and BRCA2 genes were also heavily implicated, particularly in hereditary cases. The p53 protein, encoded by the TP53 gene, is crucial in regulating the cell cycle and preventing tumor formation. 
+BRCA1 and BRCA2 proteins are involved in DNA repair, which is essential for maintaining genomic stability. 
+A malfunction in these genes can lead to the activation of oncogenic pathways such as the PI3K/AKT pathway, further driving the progression of breast cancer.
+################
+Output:
+("entity"{tuple_delimiter}"TP53"{tuple_delimiter}"gene"{tuple_delimiter}"TP53 is a gene that encodes the p53 protein, playing a critical role in regulating the cell cycle and preventing tumor formation."){record_delimiter}
+("entity"{tuple_delimiter}"BRCA1"{tuple_delimiter}"gene"{tuple_delimiter}"BRCA1 is a gene involved in DNA repair, crucial for maintaining genomic stability, especially in hereditary breast cancer."){record_delimiter}
+("entity"{tuple_delimiter}"BRCA2"{tuple_delimiter}"gene"{tuple_delimiter}"BRCA2 is a gene that works alongside BRCA1 in DNA repair, playing a key role in preventing mutations that lead to cancer."){record_delimiter}
+("entity"{tuple_delimiter}"p53 protein"{tuple_delimiter}"protein"{tuple_delimiter}"p53 protein is encoded by TP53 and is essential for controlling cell division and preventing tumor growth."){record_delimiter}
+("entity"{tuple_delimiter}"PI3K/AKT pathway"{tuple_delimiter}"pathway"{tuple_delimiter}"PI3K/AKT pathway is a signaling pathway that, when activated, can drive the progression of cancers like breast cancer."){record_delimiter}
+("entity"{tuple_delimiter}"breast cancer"{tuple_delimiter}"disease"{tuple_delimiter}"Breast cancer is a disease where malignant cells form in the tissues of the breast, often associated with mutations in TP53, BRCA1, and BRCA2."){record_delimiter}
+("relationship"{tuple_delimiter}"TP53"{tuple_delimiter}"breast cancer"{tuple_delimiter}"Mutations in the TP53 gene are significantly involved in the development of breast cancer."{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"BRCA1"{tuple_delimiter}"breast cancer"{tuple_delimiter}"BRCA1 mutations are strongly implicated in hereditary breast cancer cases."{tuple_delimiter}8){record_delimiter}
+("relationship"{tuple_delimiter}"BRCA2"{tuple_delimiter}"breast cancer"{tuple_delimiter}"BRCA2 mutations, like BRCA1, are involved in increasing the risk of hereditary breast cancer."{tuple_delimiter}8){record_delimiter}
+("relationship"{tuple_delimiter}"p53 protein"{tuple_delimiter}"TP53"{tuple_delimiter}"p53 protein is the product of the TP53 gene and plays a crucial role in preventing tumor formation."{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"PI3K/AKT pathway"{tuple_delimiter}"breast cancer"{tuple_delimiter}"The PI3K/AKT pathway, when activated due to genetic mutations, can contribute to breast cancer progression."{tuple_delimiter}7){completion_delimiter}
+#############################
+Example 2:
+
+Entity_types: [person, technology, mission, organization, location]
+Text:
+They were no longer mere operatives; they had become guardians of a threshold, keepers of a message from a realm beyond stars and stripes. This elevation in their mission could not be shackled by regulations and established protocols—it demanded a new perspective, a new resolve.
+
+Tension threaded through the dialogue of beeps and static as communications with Washington buzzed in the background. The team stood, a portentous air enveloping them. It was clear that the decisions they made in the ensuing hours could redefine humanity's place in the cosmos or condemn them to ignorance and potential peril.
+
+Their connection to the stars solidified, the group moved to address the crystallizing warning, shifting from passive recipients to active participants. Mercer's latter instincts gained precedence— the team's mandate had evolved, no longer solely to observe and report but to interact and prepare. A metamorphosis had begun, and Operation: Dulce hummed with the newfound frequency of their daring, a tone set not by the earthly
+#############
+Output:
+("entity"{tuple_delimiter}"Washington"{tuple_delimiter}"location"{tuple_delimiter}"Washington is a location where communications are being received, indicating its importance in the decision-making process."){record_delimiter}
+("entity"{tuple_delimiter}"Operation: Dulce"{tuple_delimiter}"mission"{tuple_delimiter}"Operation: Dulce is described as a mission that has evolved to interact and prepare, indicating a significant shift in objectives and activities."){record_delimiter}
+("entity"{tuple_delimiter}"The team"{tuple_delimiter}"organization"{tuple_delimiter}"The team is portrayed as a group of individuals who have transitioned from passive observers to active participants in a mission, showing a dynamic change in their role."){record_delimiter}
+("relationship"{tuple_delimiter}"The team"{tuple_delimiter}"Washington"{tuple_delimiter}"The team receives communications from Washington, which influences their decision-making process."{tuple_delimiter}7){record_delimiter}
+("relationship"{tuple_delimiter}"The team"{tuple_delimiter}"Operation: Dulce"{tuple_delimiter}"The team is directly involved in Operation: Dulce, executing its evolved objectives and activities."{tuple_delimiter}9){completion_delimiter}
+#############################
+Example 3:
+
+Entity_types: [gene, protein, pathway, disease, cell type, organism, biological process]
+Text:
+In their groundbreaking study, the researchers identified the BRCA1 gene as a critical factor in breast cancer development. 
+The protein encoded by BRCA1 plays a key role in DNA repair, and mutations in this gene can lead to a malfunction in the repair process, significantly increasing the risk of developing the disease. 
+The study also highlighted the involvement of the p53 protein in the pathway regulating cell cycle arrest and apoptosis, further underscoring the complexity of cancer progression. 
+The research was conducted using human epithelial cells, which are commonly studied in cancer research due to their relevance to tumor formation.
+#############
+Output:
+("entity"{tuple_delimiter}"BRCA1"{tuple_delimiter}"gene"{tuple_delimiter}"BRCA1 is a gene identified as critical in breast cancer development, playing a role in DNA repair."){record_delimiter}
+("entity"{tuple_delimiter}"Breast Cancer"{tuple_delimiter}"disease"{tuple_delimiter}"Breast Cancer is a disease associated with mutations in the BRCA1 gene that impair DNA repair mechanisms."){record_delimiter}
+("entity"{tuple_delimiter}"p53"{tuple_delimiter}"protein"{tuple_delimiter}"p53 is a protein involved in regulating cell cycle arrest and apoptosis, playing a significant role in cancer progression."){record_delimiter}
+("entity"{tuple_delimiter}"DNA Repair"{tuple_delimiter}"biological process"{tuple_delimiter}"DNA Repair is a biological process that involves correcting DNA damage, crucial for preventing mutations that can lead to cancer."){record_delimiter}
+("entity"{tuple_delimiter}"Cell Cycle Arrest and Apoptosis Pathway"{tuple_delimiter}"pathway"{tuple_delimiter}"This pathway regulates cell cycle arrest and apoptosis, with proteins like p53 playing key roles."){record_delimiter}
+("entity"{tuple_delimiter}"Human Epithelial Cells"{tuple_delimiter}"cell type"{tuple_delimiter}"Human Epithelial Cells are commonly studied in cancer research due to their relevance to tumor formation."){record_delimiter}
+("relationship"{tuple_delimiter}"BRCA1"{tuple_delimiter}"Breast Cancer"{tuple_delimiter}"Mutations in the BRCA1 gene significantly increase the risk of developing Breast Cancer."{tuple_delimiter}10){record_delimiter}
+("relationship"{tuple_delimiter}"p53"{tuple_delimiter}"Cell Cycle Arrest and Apoptosis Pathway"{tuple_delimiter}"The p53 protein plays a crucial role in the pathway regulating cell cycle arrest and apoptosis."{tuple_delimiter}9){record_delimiter}
+("relationship"{tuple_delimiter}"Human Epithelial Cells"{tuple_delimiter}"Breast Cancer"{tuple_delimiter}"Human Epithelial Cells are relevant to Breast Cancer research due to their role in tumor formation."{tuple_delimiter}8){completion_delimiter}
+#############################
+-Real Data-
+######################
+Entity_types: {entity_types}
+Text: {input_text}
+######################
+Output:

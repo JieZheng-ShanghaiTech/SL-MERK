@@ -1,0 +1,1070 @@
+PRECLINICAL STUDY
+
+Tumor-specific RNAi targeting eIF4E suppresses tumor growth,
+induces apoptosis and enhances cisplatin cytotoxicity in human
+breast carcinoma cells
+
+Ke Dong Æ Rui Wang Æ Xi Wang Æ Fang Lin Æ
+Jian-Jun Shen Æ Ping Gao Æ Hui-Zhong Zhang
+
+Received: 18 December 2007 / Accepted: 26 February 2008 / Published online: 10 March 2008
+ Springer Science+Business Media, LLC. 2008
+
+Abstract Background Eukaryotic initiation factor eIF4E,
+an important regulator of translation, plays a crucial role in
+the malignant transformation, progression and chemoresistance
+of many human solid tumors. The overexpression
+of this gene has been found in a variety of human malignancies
+including breast carcinoma. In the present study,
+we attempted to explore the possibility of eIF4E as a
+therapeutic target for the treatment of human breast carcinoma
+using breast carcinoma cell line (MCF-7).
+Materials and methods The survivin promoter-driven
+eIF4E-shRNA vector was constructed on the basis of
+pSUPER.retro vector. Then, we established stably transfected
+MCF-7 and MCF210 (normal human mammary
+epithelial cell) cells expressing eIF4E-shRNAs or controlshRNAs.
+Firstly, the changes of eIF4E expression were
+detected by RT-PCR and Western blot assays. Next, the
+optimal shRNA vector (eIF4E-shRNA2) was selected to
+knock down eIF4E expression and investigate the effect of
+eIF4E-shRNA on eIF4E-regulated gene expression and cell
+proliferation both in vitro and in vivo. Followingly, the
+changes of cell cycle and apoptosis in the stably transfectants
+(MCF-7) were detected by flow cytometry and
+TUNEL methods, while we also explored possible
+
+apoptosis pathways. Finally, we investigated the effect of
+shRNA targeting eIF4E on the chemosensitivity of breast
+carcinoma cells to cisplatin in vitro and in vivo. Results
+Two survivin promoter-driven eIF4E-shRNA vectors were
+successfully constructed. eIF4E-shRNA2 but not eIF4EshRNA1
+efficiently downregulated the levels of eIF4E
+expression in the stably transfected MCF-7-s2 cells but not
+in the stably transfected MCF210-s2 cells, while MCF-7-s2
+showed obvious proliferation suppression but MCF210-s2
+did not. The downregulation of eIF4E expression significantly
+reduced the levels of VEGF, FGF-2 and cyclinD1
+expression, suppressed cell growth, induced cell cycle
+arrest in G0/G1 phase and subsequent apoptosis by activating
+caspase 3 in MCF-7 cells. The results of FCM and
+TUNEL staining assays indicated that the classic apoptosis
+characters of the MCF-7 cells stably expressing eIF4EshRNA2
+manifested an apoptosis rate of 18.3%, significantly
+higher than those in the control groups (P\0.05).
+Morever, we found that downregulation of c-IAP1, c-IAP2
+and c-Myc but not Bcl-2 family proteins were involved in
+the apoptosis induced by eIF4E-shRNA2. In tumorigenicity
+assay, xenograft tumors developed from MCF-7-s2 cells
+in mice showed a significant slowdown in the growth speed
+and formation rate compared with control groups. Furthermore,
+we also testified that eIF4E-shRNA could
+synergistically enhance the cytotoxicity effects of cisplatin
+to MCF-7 cells both in vitro and in vivo. Conclusion
+Survivin promoter–driven RNA interference system could
+efficiently and specifically downregulate eIF4E expression
+in human breast carcinoma cells but not in normal human
+mammary epithelial cell cells. Thus, eIF4E might play an
+important role in chemosensitivity to cisplatin, and survivin
+promoter-driven RNAi targeting eIF4E can be used as
+adjuvant therapy for human breast carcinomas with tumor
+specificity and high efficacy.
+
+K. Dong and R. Wang are contributed equally to this study, should be
+regarded as joint First authors.
+
+K. Dong  F. Lin  J.-J. Shen  P. Gao
+Department of Clinical Diagnosis, Tangdu Hospital,
+Fourth Military Medical University, Xi’an, Shaanxi Province,
+P.R. China
+
+R. Wang  X. Wang  H.-Z. Zhang (&)
+Research Center, Tangdu Hospital, Fourth Military Medical
+University, Xinsi Road, 710038 Xi’an, Shaanxi Province, China
+e-mail: zhzsiyida@yahoo.com.cn
+
+123
+
+Breast Cancer Res Treat (2009) 113:443–456
+DOI 10.1007/s10549-008-9956-x
+Keywords RNA interference  Survivin promoter
+Eukaryotic initiation factor  eIF4E  Cancer gene therapy
+Chemosensitivity  Cisplatin
+
+Introduction
+
+Breast carcinoma is one of the most common malignancies
+affecting women around the world and one in seven
+women is predicted to develop invasive breast cancer
+during their lifetime [1]. Conventional chemotherapy regimens
+for the treatment of breast carcinoma have limited
+efficacy for their significant toxicity in the body [2]. To
+improve its horrible prognosis, we need to better understand
+the mechanism of breast carcinoma development and
+to find novel approaches to both diagnosis and treatment
+that are far more efficient than currently available techniques
+[3]. Thus, an understanding of the molecular
+mechanisms involved in breast carcinoma formation and
+progression would be helpful to develop more effective
+treatments for breast carcinoma.
+Eukaryotic initiation factor 4E (eIF4E) is a 25-kDa cap
+binding protein that plays an important role in the initiation
+of protein translation. It is the limiting component of a
+complex including several members of the eIF4 group of
+eukaryotic protein synthesis initiation factors, which usually
+regulates cap-dependent protein synthesis by binding
+to the m7GpppX cap of mRNA and regulating the
+recruitment of mRNA to ribosomes [4–7]. The most frequently
+aberrant change in the translational apparatus is the
+upregulated levels of eIF4E expression, which selectively
+affects transport of specific transcripts, increases capdependent
+translation, suppresses apoptosis and induces
+malignant transformation [8–10]. Several research groups
+have reported that the overexpression of eIF4E gene is
+associated with tumor angiogenesis in breast cancer and the
+degree of eIF4E overexpression predicts cancer recurrence
+and outcome in stage I to III breast cancer patients [11, 12].
+Morever, the eIF4E overexpression has been found in
+many other types of human malignancies, such as head and
+neck squamous carcinoma, colon carcinoma, bladder carcinoma,
+cervix carcinoma and lung cancer, suggesting that
+the upregulated level of eIF4E expression is associated
+with malignant transformation, tumorigenesis and metastasis
+of tumors [13–17]. It also has been reported that the
+upregulated levels of eIF4E expression greatly increase
+translation of some mRNAs encoding proteins contributing
+to angiogenesis and proliferation such as vascular endothelial
+growth factor (VEGF), basic fibroblast growth
+factor (FGF-2) and cyclin D1 [18, 19]. VEGF and FGF-2
+are considered to be two important stimulators of migration
+and angiogenesis, which are related to the progression and
+metastasis of breast carcinoma. Additionally, the elevated
+level of cyclin D1 expression has been found to be
+
+involved in cisplatin chemoresistance of many tumor cells,
+including breast cancer [20]. Therefore, we hypothesized
+that eIF4E would be a good molecular target for breast
+carcinoma therapy. Other researchers reported that antisense
+or small interfering RNA (siRNA) targeting eIF4E or
+cyclin D1 could suppress oncogenic properties and enhance
+chemosensitivity to cisplatin in head and neck carcinoma
+cells [21, 22], but the use of this target via downregulating
+eIF4E expression in the treatment of human cancers still
+needs to find a method with high efficacy and tumor
+specificity, which can effectively inhibit eIF4E gene
+expression in tumor cells but can not affect the eIF4E
+activity in normal cells.
+RNA interference (RNAi) is a post-transcriptional
+mechanism of gene silencing through chromatin remodeling,
+inhibition of protein translation or direct mRNA
+degradation. This technology is currently the most widely
+utilized technique in functional genomic studies and therapeutic
+gene regulation [23]. Specific gene silencing can be
+achieved in a variety of cell systems using an in vitro
+synthesized small interfering RNA (siRNA) or DNA vector-based
+shRNA [24]. siRNA-mediated silencing effect is
+transient, but DNA vector-based shRNA could achieve a
+stable supply of anti-cancer siRNA for gene therapy. To
+achieve a tumor-specific silencing of targeted gene, we
+explored the possibility of a tumor-specific promoter to
+drive shRNA expression. Survivin, a novel member of the
+inhibitors of apoptosis (IAP) protein family, is highly
+active in human cancers but is inactive in most somatic
+cells [25]. Recently, the survivin gene has been cloned by
+several independent groups and it has been found to be
+expressed at high levels in primary tumors and cancer cell
+lines but repressed in most somatic tissues [26]. The promoter
+of the suvivin gene has been subcloned by us,
+recently [27]. Deletion analysis of the survivin promoter
+identified a core promoter region of *980 bp upstream of
+the transcription start site. Transient expression assays
+revealed that the core promoter is significantly activated in
+tumor cells but is repressed in normal primary cells [28].
+Thus, we want to address whether the survivin promoter
+may be used for tumor-specific gene silencing.
+In the present report, we initially developed a novel
+tumor-specific RNAi system targeting eIF4E directly under
+the control of survivin promoter. Followingly, we performed
+Western blot analysis on a panel of four human
+breast carcinoma cell lines, revealing eIF4E overexpression
+in all four breast carcinoma cells in comparison with normal
+human mammary epithelial cell line, MCF210.
+Furthermore, we established stably transfectants (eIF4EshRNA2)
+which displayed minimal levels of eIF4E
+expression in MCF-7 cells but showed no obvious changes
+in MCF210 cells. In those stably transfected MCF-7-s2
+cells, we detected the reduced expression of growth-related
+
+444 Breast Cancer Res Treat (2009) 113:443–456
+
+123
+genes such as VEGF, bFGF and cyclinD1, while we also
+observed that those stably transfected cells showed a significant
+enhancement in chemosensitivity to cisplatin
+besides a marked proliferation inhibition and apoptosis
+induction. Taken together, all these experimental data
+provided evidences of the potential use of survivin promoter-driven
+RNAi targeting eIF4E as adjuvant therapy for
+human breast carcinoma.
+
+Materials and methods
+
+Cell lines and culture conditions
+
+A normal human mammary epithelial cell line (MCF210)
+and four human breast cancer cells (T47D, Bcap37,
+SKBR-3, MCF-7) were purchased from Cell Culture
+Center, Fourth Military Medicine University. All cells
+were cultured in RPIM-1640 medium (Gibico, USA)
+supplemented with 10% fetal calf serum and 1% penicillin–streptomycin.
+All cell lines were maintained at
+37C
+with 5% CO2.
+
+Plasmids construction
+
+The pSUPER.retro vector was provided from OligoEngine
+(Seattle, WA, USA). The survivin promoter gene (GenBank
+NM U75285) including 980 bp upstream from the transcription
+initiation site was amplified from our previously
+obtained survivin promoter plasmid by polymerase chain
+reaction (PCR). The PCR product was then subcoloned
+into the BglII and EcoRI site of pSUPER.retro vector to
+replace H1-RNA promoter. A minimal poly (A) sequence
+(50
+-TTATTTCCTAGAAAATAAAAGTAACCTAGACACAC
+AACCAAAAAACATACGCCGGCGA-30
+) was used as a
+terminal sequence. DNA template oligonucleotides corresponding
+to eIF4E gene (GenBank NM BC035166) 1711–
+1729 bp and 2021–2039 bp were designed and synthesized
+as follows: eIF4E–shRNA1 (sense, 50
+-GATCCGCG
+GCTGATCTCCAAGTTTTTCAAGAGAAAACTTGGAGAT
+CAGCCGCAGA-30
+), eIF4E-shRNA2 (sense, 50
+-GATCT
+GCAATATGGACTACGAATGTTCAAGAGACATTCGTAG
+TCCATATTGCAGA-30
+) and a non-specific shRNA, NS
+(sense, 50
+-GATCTAAGCATTAGGTACAGCATTTCAAGA
+GAATGCTGTACCTAATGCTTAGA-30
+). All of the above
+sequences were inserted into the BglII and HindIII enzyme
+sites of pSUPER.retro vector, respectively. Those recombinant
+plasmids were named pSUPER-SP-eIF4EshRNA1,
+pSUPER-SP-eIF4EshRNA2, and pSUPER-SP-NS vector,
+respectively (Fig. 1). Those recombinant vectors were
+confirmed by the digestion analysis of restriction endonuclease
+and all inserted sequences were verified by DNA
+sequencing.
+
+Transfection and selection of stable transfectants
+
+Human breast carcinoma cells (MCF-7) and normal human
+mammary epithelial cells (MCF210) were seeded at 70–
+80% confluence in 6-well plates, respectively. Then, the
+cells were transfected with those recombinant pSUPER
+vectors containing a puromycin selection marker using
+LipofectAMINE Plus (Grand Island, NY) according to the
+manufacturer’s protocols and were selected with 8 lg/ml
+of puromycin (Sigma, USA) for 14 days. Single clones
+were isolated and expanded for an additional two months in
+media containing 3lg/ml of puromycin. Name of stable
+transfectants were MCF-7-s1 or MCF210-s1(transfected
+with pSUPER-SP-eIF4EshRNA1), MCF-7-s2 or MCF210-
+s2 (transfected with pSUPER-SP-eIF4EshRNA2), MCF-7-
+NS or MCF210-NS (transfected with pSUPER-SP-NS),
+and MCF-7-pS.retro or MCF210-pS.retro (transfected with
+parental vector pSUPER.retro), respectively.
+
+RT-PCR for eIF4E mRNA
+
+Total RNA was extracted from untransfected or stably
+transfected MCF-7 cells and MCF210 cells using TRIzol
+reagent (Invitrogen, USA), respectively. RNA of 2 ll
+(1 lg/ll) was used to synthesize cDNA using Superscript
+First-Strand Synthesis Kit (Promega, USA) following the
+manufacturer’s protocols. The cDNA was used to amplify
+the eIF4E gene, while the house keeping gene b-actin was
+also amplified as an internal standard. The corresponding
+primer sequences were as follows: eIF4E, forward: 50
+-ATG
+GCGACTGTCGAACCGG-30
+, reverse: 50
+-GCTATCTTAT
+CACCTTTAGC-30
+; b-actin, forward: 50
+-AGCAACCGGGAG
+CTGGTGG-30
+, reverse: 50
+-CATTTCCGACTGAAGAGTG30.
+The cycling program was performed as follows: 1cycle
+of 94C
+for 3 min; 35 cycles of 94C
+for 40 s, 60C
+for
+40 s, 72C
+for 90 s; followed by a final elongation step of
+72C
+for 10 min. Then, RT-PCR products were electrophoresed
+through a 1.5% agarose gel with ethidium
+bromide. Signals were quantified by densitometric analysis
+using the Labworks Image Acquisition (UVP, Inc., Upland,
+CA). The inhibitory rate of eIF4E mRNA expression was
+calculated as follows: inhibitory rate = [1 - (MCF-7-s1
+or s2 eIF4E density/MCF-7-s1 or s2 b-actin density)/
+(MCF-7 eIF4E density/MCF-7 b-actin density)] 9 100%.
+
+Western blot analysis
+
+Western blot analysis was performed using a previously
+described procedure [29]. Those untransfected and stably
+transfected MCF-7 or MCF210 cells were collected and
+lysed (50 mmol/l of Tris–HCl, 150 mmol/l of NaCl,
+50 mmol/l of EDTA, 1% NP-40, 0.5 mmol/l of PMSF, and
+2 mg/ml of pepstatin A) on ice, respectively. Anti-eIF4E,
+
+Breast Cancer Res Treat (2009) 113:443–456 445
+
+123
+anti-survivin, anti-VEGF, anti-FGF-2, anti-cyclinD1, anticleaved
+caspase 3, anti-c-IAP1, anti-c-IAP2, anti-c-Myc,
+anti-Bcl-2, anti-Bcl-xl, anti-Bad, anti-pBad and anti-actin
+(Santa Cruz Biotechnology, USA) antibodies were used for
+Western blot assay. Signals were detected by enhanced
+chemiluminescence (ECL; Amersham). The levels of eIF4E
+protein expression were determined densitometrically and
+normalized to b-actin. The inhibitory rate of eIF4E protein
+expression was calculated according to above mentioned
+formula. The cells that had higher inhibitory rate of eIF4E
+expression were harvested and used for further assays.
+
+In vitro cell proliferation assay
+
+Cell viability was measured by a 3-(4,5-dimethythazolz-yl)-
+2,5-diphenyl tetrazolium bromide (MTT) assay. Four kinds
+of MCF-7 and MCF210 cells (cells without transfection,
+cells stably transfected with parental vector, non-specific
+shRNA or eIF4E–shRNA2), at 1.0 9 104 per well, were
+seeded into seven 96-well culture plates, with each plate
+having all four kinds of cells and each group consisted of 12
+parallel wells. Every day, we selected one plate from those
+plates at random for MTT assay. Every well was added 10 ll
+MTT(5 mg/ml) to each well, incubated for 4 h, 100 ll
+DMSO was added, and lysed for 15 min. After 24-h cultivation,
+optical densities of one of seven culture plates were
+determined on a microreader (Bio-Rad Co.) at 490 nm. The
+inhibitory rate of cell growth was calculated as: inhibitory
+rate = (1 - Atreated group/Auntreated group) 9 100%. All
+experiments were performed three times independently.
+
+In vitro colony formation assay
+
+For the colony formation assay, approximately 1.0 9 103
+untransfected or stably transfected MCF-7 or MCF-210
+
+cells were plated in 10-cm culture dishes, respectively.
+During this period, we fed them every 2–3 days with
+complete medium. After 18-day incubation, cells were
+fixed with methanol and stained with 0.1% crystal violet.
+Visible colonies were manually counted. All experiments
+were performed in triplicate.
+
+Analysis of cell cycle
+
+Approximately 1.0 9 104 cells of each group (untransfected
+and stably transfected MCF-7 cells) were seeded into 100 ml
+flasks and incubated until there was 80–85% confluence in
+complete medium. Then, the cells were harvested, washed
+with ice-colded PBS twice, fixed with 70% ethanol overnight
+at 4C,
+washed and resuspended in 100 ml of PBS containing
+final concentrations of 50 mg/ml RNase A for 30 min at
+room temperature. Finally, the fixed cells stained with propidium
+iodide (PI). PI-stained cells were analyzed by EPICSELITE-ESP
+Flow Cytometry (Coulter Biosciences). All of
+the samples were assayed three times, and the fraction of cell
+cycle distribution was calculated.
+
+Flow cytometry for analysis of apoptotic cells
+
+The untransfected or stably transfected MCF-7 cells were
+harvested, washed with ice-colded PBS twice, and
+resuspended in binding buffer (10 mM of Hepes, pH 7.4,
+150 mM of NaCl, 2.5 mM of CaCl2, 1 mM of MgCl2, 4%
+bovine serum albumin). Using Annexin V-fluorescein
+isothiocyanate (FITC) apoptosis detection kit (Oncogene
+Research Products, Boston, MA), cells were stained with
+Annexin V-fluorescein isothiocyanate and propidium
+iodide following the manufacturer’s protocols. After a
+15-min incubation in the dark at room temperature,
+stained cells were immediately analyzed on an Epics
+XL-MCL flow cytometer (Beckman Coulter, USA). All of
+
+Fig. 1 Schematic diagram of the recombinant pSUPER.retro vector.
+The H1-RNA promoter was replaced by survivin promoter and
+shRNA encoding template was inserted between HindIII and BglII
+enzyme sites downstream of the survivin promoter and PolyA as a
+
+termination signal. The predicted secondary structure of the pSUPERSP-shRNA
+targeting eIF4E is shown. The transcript, a short hairpin
+double-stranded RNA (dsRNA), can be further cleaved by Dicer to
+generate a 21-nucleotide siRNA binding and destroying eIF4E mRNA
+
+446 Breast Cancer Res Treat (2009) 113:443–456
+
+123
+the samples were assayed in triplicate, and the cell
+apoptosis rate calculated using the following formula:
+apoptosis rate = (Napoptotic cell/Ntotal cell) 9 100%.
+
+TdT-mediated dUTP nick end labeling (TUNEL) assay
+
+MCF-7 cells stably transfected with siRNA duplex for 48 h,
+and then with adriamycin for 24 h; the effects on cell
+apoptosis were examined by TUNEL assay. Cells were fixed
+in 4% paraformaldehyde (pH 7.4), then stained and analyzed
+for apoptosis using an In Situ Cell Death Detection Kit,
+Fluorescein (Nanjing Keygen Biotech. Co., Ltd). Fixed cells
+were permeabilized using a mixture containing 0.1% sodium
+citrate and 0.1% TritonX100 and then incubated with
+TUNEL reaction mixture containing terminal deoxynucleotidyltransferase
+and fluorescein-dUTP at 37C
+for 60 min.
+
+Measurement of caspase-3 activity
+
+Caspase-3 activity was measured using caspase colorimetric
+assay kit (Sigma, USA), according to the
+manufacturer’s instructions. In brief, cells were scraped
+into PBS, pelleted at low speed, and resuspended in lysis
+buffer for 10 min at 4C.
+Cell lysates were cleared by
+concentration and assayed for caspase-3 activity using a
+DEVDpNA peptide substrate and incubated for 6 h at
+37C.
+The activities were quantified spectrophotometrically
+at a wavelength of 405 nm. Caspase activity was
+calculated as the change in absorbance at 405 nm and
+divided by total protein concentration.
+
+Murine Xenograft Model for tumorigenicity assay
+
+The effect of eIF4E on tumorigenicity was assessed by
+subcutaneous injection of stably transfected MCF-7 cells
+into athymic nude mice. Each aliquot of 5.0 9 106 cells
+was injected into the back of BALB/c nude mice (Nu/Nu,
+female, 6–7 weeks old), which were maintained under
+pathogen-free conditions. The formation of subcutaneous
+tumors was monitored and measured with a digital caliper.
+The tumor volume formed was calculated by the following
+formula: V = 0.4 9 D 9 d2 (V, volume; D, longitudinal
+diameter; d, latitudinal diameter). At 42 days after inoculation,
+all mice were sacrificed, and s.c tumors were
+resected and fixed in 10%PBS. Animal experiments in this
+study were carried out in accordance with medicine institutional
+guidelines of Fourth Military Medical University.
+
+In vitro chemosensitivity assay
+
+In vitro, MCF-7 cell chemosensitivity to cisplatin (Sigma,
+USA) was evaluated by MTT analysis and apoptosis
+
+detection assay. Firstly, the IC50 of cisplatin to MCF-7 cells
+was examined by MTT assay according to the previously
+described methods. Then, the untransfected or stably
+transfected MCF-7 cells in the 96-wells were treated with
+various concentrations of cisplatin at 0, 2.0, 4.0, 8.0, 16.0,
+and 32.0lg/ml, respectively. After 48-h incubation, the cell
+viability and cell apoptosis was detected according to
+methods described above. The cell survival value
+index was calculated as: Survivial index = [A490(5-FU+) /
+A490(5-FU-)] 9 100%
+
+In vivo chemosensitivity to cisplatin in nude mice
+
+Xenograft tumors were developed as above. In brief, suspensions
+of 2.0 9 106 cells (MCF-7-NS and MCF-7-s2) in
+N.S (50 ll) were injected s.c. in to the back of BALB/c
+nude mice (Nu/Nu, female, 6–7 weeks old) at day 0. The
+inoculation was conducted in mice (10/group), and mice
+were treated with cisplatin (5.0 mg/kg; thrice weekly) or
+with 0.1 ml N.S (PH 7.4; thrice weekly) as described
+previously with modifications. Tumor growth was calculated
+from the average volume of tumors, and tumor
+volume was calculated as already described. At 35 days
+after inoculation, all mice were sacrificed, and s.c tumors
+were resected and fixed in 10%PBS. Animal experiments
+in this study were carried out in accordance with medicine
+institutional guidelines of Fourth Military Medical
+University.
+
+Statistical analysis
+
+Results are expressed as Means ± standard deviation (SD).
+Statistical analyses were performed using SPSS statistical
+software. Student’s t-test and one-way analysis of variance
+(ANOVA) followed by Dunnett’s multiple comparison
+tests were adopted. Values of P\0.05 were considered as
+significant and indicated by asterisks in the figures.
+
+Results
+
+The eIF4E and survivin expression in a panel of breast
+carcinoma cells and a normal mammary epithelial cell
+line
+
+The levels of eIF4E and survivin expression in breast
+cancer cell lines were determined by comparing the levels
+of survivin protein and eIF4E protein in a panel of human
+breast carcinoma cells (T47 D, Bcap37, SKBR-3, MCF-7)
+to that in a normal mammary epithelial cell (MCF210) by
+Western blot analysis. After normalization to b-actin, the
+levels of eIF4E protein expression in the breast cancer cell
+lines varied from 3.5-fold (T47D) to 6.5-fold (MCF-7).
+
+Breast Cancer Res Treat (2009) 113:443–456 447
+
+123
+These values were obtained by comparing the normalized
+level of eIF4E in MCF210 cells to that of eIF4E in other
+breast carcinoma cells (Fig. 2). Considering higher levels
+of eIF4E expression in MCF-7 cells, so we selected MCF-7
+cell line for following assays. We also detected the levels
+of survivin protein expression in those cells, as shown in
+Fig. 2, survivin was expressed at high levels in four breast
+carcinoma cells but not detected in normal mammary
+epithelial cell. All these data provided a basis for the
+survivin promoter-driven shRNA to silence eIF4E gene
+in breast carcinoma with tumor specificity and high
+efficacy.
+
+Tumor-specific downregulation of eIF4E expression by
+survivin promoter-driven shRNA
+
+To exclude off-target silencing effect mediated by specific-shRNA,
+we employed two different sequences of
+eIF4E-shRNAs in the present study. In order to evaluate
+the downregulation of eIF4E mRNA and protein expression,
+RT-PCR and Western blot analyses were performed.
+As shown in Fig. 3, the levels of eIF4E mRNA and
+protein expression in the MCF-7-s2 cells were significantly
+reduced in comparison with those in the
+untransfected MCF-7 cells, and the inhibitory rates were
+68.5% and 59.6% (P\0.05), respectively; However, the
+levels of eIF4E mRNA and protein expression in MCF7-s1,
+MCF-7-NS and MCF-7-pS.retro cells showed no
+obvious difference (P[0.05). In addition, we observed
+that there was no difference among MCF210-s1,
+MCF210-s2, MCF210-NS, MCF210-pS.retro and
+untransfected MCF210 cells (P[0.05, Fig. 4). Morever,
+no effects of RNAi were observed on the expression of
+b-actin used as an internal control. All these results
+indicated that the survivin promoter–driven RNA interference
+system could specifically downregulate eIF4E
+expression in breast carcinoma cells but not in normal
+mammary epithelial cells. Followingly, we chose pSUPER-SP-eIF4EshRNA2
+for further assays.
+
+Effects of eIF4E-shRNA on expression of other eIF4Eregulated
+genes
+
+It has been reported that the overexpression of eIF4E gene
+might induce the upregulated expression of angiogenesis
+and growth-related genes such as vascular endothelial
+growth factor (VEGF), basic fibroblast growth factor (FGF-2)
+and cyclinD1. Thus, we want to determine the effects of
+specific-shRNA targeting eIF4E on the levels of these
+proteins. As shown in Fig. 5, when compared to untransfected
+MCF-7 cells, the expression of VEGF, four FGF-2
+isoforms and cyclinD1 proteins in the eIF4E-downregulated
+MCF-7-s2 cells significantly decreased by 73.4%,
+58.6% and 83.8%, respectively (P\0.05). However, there
+was no difference in the protein expression level among
+MCF-7, MCF-7-pS.retro and MCF-7-NS cells (P[0.05).
+
+eIF4E-shRNA significantly and specifically inhibited
+in vitro cell growth
+
+In order to determine the phenotypical changes, we first
+investigated the effect of RNAi-mediated downregulation of
+eIF4E expression on MCF-7 and MCF210 cells proliferation
+in vitro. In this experiment, cellular proliferation was monitored
+by MTT assay daily for 7 days. The cell growth curve
+showed that compared with untransfected MCF-7 cells,
+MCF-7-s2 cell proliferation was significantly inhibited in a
+
+Fig. 2 Western blot analysis comparing eIF4E and survivin expression
+in various human breast carcinoma cells to MCF210, a normal
+mammary epithelial cell. The levels of eIF4E protein expression in
+four tumor cell lines varied from 3.5-fold (T47D) to 6.5-fold (MCF-7)
+compared to that in normal mammary cells. The high-level expression
+of survivin protein was detected in four tumor cell lines but not in
+normal cells. b-actin was used to normalize for any differences in
+protein loading between lanes
+
+Fig. 3 (a) eIF4E mRNA and protein expression in MCF-7 cells
+detected by semi-quantitative RT-PCR and (b) Western blot analysis.
+When compared to untransfected MCF-7 cells, the eIF4E mRNA and
+protein expression in MCF-7-s2 obviously reduced by 68.5% and
+59.6%, respectively (P\0.05), but the eIF4E mRNA and protein
+expression in MCF-7-pS.retro, MCF-7-NS and MCF-7-s1 cells
+showed no difference (P[0.05). b-actin was considered as an
+internal normalization standard. Marker: DL2000
+
+448 Breast Cancer Res Treat (2009) 113:443–456
+
+123
+time-dependent manner and the highest inhibitory rate was
+48.2 ± 1.6% on day 7 (F = 873.216, P\0.01), while MCF7-NS
+and MCF-7-pS.retro cells showed no obvious proliferation
+inhibition (P[0.05; Fig. 6a). In those MCF210 cell
+models, we found that eIF4E-shRNA2 could not induce proliferation
+inhibition in MCF210-s2 cells (P[0.05; Fig. 6b).
+All these further testified the tumor specificity of survivin
+promoter–driven RNA interference system.
+
+eIF4E-shRNA showed obviously reduced colony
+formation potential in vitro
+
+To investigate whether the potential of shRNA targeting
+eIF4E mentioned above might result in suppression of
+tumor cell colony formation in vitro, we plated untransfected
+or stably transfected MCF-7 and MCF210 cells
+in vitro, respectively. Colony formation assay was assayed
+18 days after plated. The mean values ± SD from three
+determinations are shown in Fig. 7. As expected from the
+results of MTT assay, the colony numbers obtained from
+MCF-7-s2 cells (averaged number = 342) were much
+lower than those obtained from MCF-7-NS, MCF-7-
+pS.retro and MCF-7 cells (averaged number = 788, 776
+and 812; P\0.05, Fig. 7a). However, as shown in Fig. 7b,
+there were no obvious differences among colony numbers
+obtained from MCF210, MCF210-pS.retro, MCF210-NS,
+
+Fig. 5 Effects of eIF4E-shRNA on VEGF, FGF-2 and cyclinD1
+protein expression in MCF-7 cells. The stably transfected MCF-7
+cells were harvested and analyzed for the expression of VEGF, FGF-2
+and cyclinD1 by Western blot analysis. The same blots were reacted
+with anti-b-actin antibody as loading control. When compared to
+untransfected MCF-7 cells, the expression of VEGF, FGF-2 and
+cyclinD1 proteins in MCF-7-s2 significantly decreased by 73.4%,
+58.6% and 83.8%, respectively (P\0.05), but the levels of those
+proteins expression in MCF-7-pS.retro and MCF-7-NS cells showed
+no significant difference (P[0.05)
+
+Fig. 4 (a) eIF4E mRNA and protein expression in MCF210 cells
+detected by semi-quantitative RT-PCR and (b) Western blot analysis.
+The eIF4E mRNA and protein expression showed no obvious
+difference among MCF210, MCF210-pS.retro, MCF210-NS,
+MCF210-s1 and MCF210-s2 cells. The results showed that survivin
+promoter-driven shRNA targeting eIF4E had no effect on the eIF4E
+mRNA and protein expression in normal MCF210 cells. b-actin was
+considered as an internal normalization standard. Marker: DL2000
+
+Fig. 6 Survivin promoter-driven eIF4E-shRNA specifically suppressed
+MCF-7 cell proliferation but not MCF210 cell proliferation.
+The cell proliferation of untransfected or stably transfected MCF-7
+and MCF210 cells was measured by MTT assay. (a) The cell
+proliferation of MCF-7-s2 was obviously inhibited in a timedependent
+manner, and the highest inhibitory rate was 48.2 ± 1.6%
+on day 7 (F = 873.216, P\0.01); (b) The cell proliferation of
+MCF210-s2 (the highest inhibitory = 8.65% on day 7) showed no
+obvious changes compared to control cells (F = 26.835, P [0.05).
+Data shown are the mean results ± SD of a representative experiment
+performed in triplicate. * P\0.01
+
+Breast Cancer Res Treat (2009) 113:443–456 449
+
+123
+and MCF210-s2 cells (averaged number = 886, 902, 874
+and 856; P[0.05).
+
+The effect of eIF4E-shRNA on the cell cycle of MCF-7
+cells
+
+To elucidate the mechanisms underlying the siRNAmediated
+growth inhibition, we performed cell cycle
+analysis to examine the effects of eIF4E-shRNA on the
+cell cycle of MCF-7 cells and each assay was performed
+three times. The mean values of triplicate experiments
+were shown in Fig. 8. Compared with that of untransfected
+MCF-7, MCF-7-pS.retro and MCF-7-NS cells, the
+percentage of MCF-7-s2 cells in the G1/G0 phase obviously
+increased by 14.7 ± 1.1%, while the percentage of
+MCF-7-s2 cells in S phase significantly reduced by
+13.2 ± 1.6% (P\0.05).
+
+Enhancing apoptosis of MCF-7 cells by eIF4E-shRNA
+
+We hypothesized that the growth suppression of MCF-7
+cells by RNAi-mediated downregulation of eIF4E
+
+expression was caused by apoptotic cell death. In order to
+explore this possibility, we measured levels of apoptosis in
+stably transfected MCF-7 cells and control MCF-7 cells
+using various apoptosis detection assays. Firstly, cell
+apoptosis detected by flow cytometry showed that the
+apoptosis rate of MCF-7-s2 significantly increased to
+18.3 ± 1.7% (P\0.05), while there were no differences
+in cell apoptosis among MCF-7, MCF-7-pS.retro and
+MCF-7-NS cells (2.4%, 3.2% and 4.6%; P[0.05,
+Fig. 9a), which was 3.8 ± 0.6%, 4.2 ± 1.0% and
+5.2 ± 0.7%, respectively. Secondly, the TUNEL assay for
+detection of apoptosis at a single cell level, based on
+labeling of DNA strand breaks, was performed. Results
+from analysis of the TUNEL assay revealed that eIF4EshRNA
+treatments increased apoptosis of these cells
+because the majority of MCF-7-s2 cells showed intense
+brown staining when compared to the control cells
+(Fig. 9b).
+
+The effect of eIF4E-shRNA on the activation of
+apoptotic pathways
+
+To determine further insight into the mechanism of
+eIF4E-shRNA2-induced apoptosis, we first investigated
+
+Fig. 8 Effects of eIF4E-shRNA on the cell cycle progression. The
+MCF-7-s2 and other control cells were fixed, stained and analyzed for
+PI fluorescence intensity by flow cytometry. Cell cycle distributions
+of the control and shRNA-transfected cells were determined from the
+flow cytometry data. It was shown that the percentage of MCF-7-s2
+cells (G1/G0 phase) increased by 14.7 ± 1.1%, while the percentage
+of MCF-7-s2 cells (S phase) reduced by 13.2 ± 1.6% (P\0.05)
+
+Fig. 7 Effects of eIF4E-shRNA on colony formation of MCF-7 cells
+in vitro. The untransfected or stably transfected MCF-7 and MCF210
+cells were seeded onto six-well culture plates at a concentration of
+3.0 9 102 cells/well and cultured for 17 days. The means ± SD of
+colony number was counted in three different wells at 18 days after
+seeded, and the averaged number was plotted. The number of colonies
+in the MCF-7-s2 cell group (averaged colony number = 342) was
+significantly reduced (P\0.05) compared with that seen in the other
+cell groups. The experiments were repeated thrice and similar results
+were obtained. Representative data are shown, * P\0.05
+
+450 Breast Cancer Res Treat (2009) 113:443–456
+
+123
+the involvement of caspase-3. We used anti-cleaved caspase
+3 antibodies to perform Western blot analysis and
+detected caspase 3 activity on untransfected or stably
+transfected cells (MCF-7, MCF-7-pS.retro, MCF-7-NS
+and MCF-7-s2). As shown in Fig. 10a, b, the activation of
+caspase 3 could be observed and the caspase-3 activity
+increased by 221% in MCF-7-s2 cells. Followingly, in
+order to confirm that the activation of caspases culminates
+in the apoptosis of MCF-7 cells, we employed the MTT
+assay to detect the cell viability of MCF-7-s2 cells or the
+cell viability of MCF-7-s2 treated with a pancaspase
+inhibitor. We observed that a pancaspase inhibitor could
+partially restore the cell viability of MCF-7-s2 cells,
+confirming that the cell death of MCF-7 cells induced by
+eIF4E-shRNA2 was a caspase-dependent process
+(Fig. 10c). Next, Western blot analysis was performed to
+determine whether the levels of the antiapoptotic proteins
+(c-IAP1, c-IAP2, c-Myc, Bcl-2 and Bcl-xl) and the proapoptotic
+proteins (Bad and phosphorylated BadSer136)
+were altered in the presence of eIF4E-shRNA2. MCF-7-s2
+cells stably expressing eIF4E-shRNA2 had a significant
+reduction in the levels of c-IAP1 c-IAP2 and c-Myc but
+not Bcl-2 family proteins as compared with controls
+(Fig. 10d). These results showed that downregulation of
+c-IAP1, c-IAP2 and c-Myc but not Bcl-2 family proteins
+were involved in the apoptosis induced by eIF4EshRNA2.Downregulation
+of eIF4E in the MCF-7 cells retards
+tumorigenicity in nude mice
+
+In order to confirm inhibition of eIF4E expression by
+shRNA treatment, tumor homogenates were subjected to
+Western blot analysis for eIF4E. Mean eIF4E expression in
+tumors formed from MCF-7-s2 cells was 64.5% lower than
+those in tumors formed from other control cells (Fig. 11a).
+To explore the possible effect of eIF4E-shRNA2 on tumor
+growth in vivo, s.c. tumor formation assay in nude mice
+was performed. As shown in Fig. 11b, the xenografts
+developed from MCF-7-s2 cells at 42 days (averaged
+size = 233.5 mm3
+) were significantly smaller than the
+xenografts developed from MCF-7, MCF-7-pS.retro, and
+MCF-7-NS cells (averaged size = 413.7, 434.5 and
+397.7 mm3
+). All these experimental data showed that
+RNAi-mediated downregulation of eIF4E expression
+exerted a potent growth inhibitory effect on MCF-7 cells
+in vivo.
+
+The specific downregulation of eIF4E expression
+enhances cisplatin cytotoxicity in vitro
+
+Other reports have shown that the overexpression of cyclinD1
+induced chemoresistance of human solid tumors to
+cisplatin. Our previous and others studies also showed that
+the upregulated levels of cyclinD1 expression are
+
+Fig. 9 eIF4E-shRNA significantly enhanced apoptosis of MCF-7
+cells. (I) The apoptotic rate of MCF-7 cells was detected by flow
+cytometry. The FCM results showed that the apoptotic rate of MCFs2
+obviously increased by 18.3 ± 1.7% (P\0.05); while there were
+no obvious differences in cell apoptosis among MCF-7-pS.retro,
+MCF-7-NS and untransfected MCF-7 cells (3.2%, 4.6% and 2.4%;
+
+P[0.05). (II) TUNEL assay was performed to detect apoptotic cells.
+Compared to control cells, MCF-7-s2 cells showed an increasing dark
+brown-positive signal located in nucleus. It was shown that apoptotic
+rate of the eIF4E-downreglated MCF-7 cells was significantly higher
+than the controls. (a) MCF-7; (b) MCF-7-pS.retro; (c) MCF-7-NS; (d)
+MCF-7-s2
+
+Breast Cancer Res Treat (2009) 113:443–456 451
+
+123
+associated with the overexpression of eIF4E gene, so we
+next explored whether the shRNA-mediated downregulation
+of eIF4E expression could affect the sensitivity of
+MCF-7 cells to the antitumor agent cisplatin. Firstly, we
+sought to determine the effect of eIF4E knockdown on the
+cisplatin IC50 of breast carcinoma cells in vitro. The stably
+transfected or untransfected MCF-7 cells were plated into
+96-well trays and exposed to 0–15 lg/ml cisplatin for a
+further 48 h. IC50 (12.3 lg/ml) was determined by MTT
+assay (data not shown). Compared with control cells, the
+cisplatin IC50 significantly decreased by 61.1% in MCF7-s2
+cells (Fig. 12a). As shown in Fig. 12b, we observed
+that the survival index in MCF-7-s2 cells was obviously
+decreased with the addition of 4.0 * 32.0 lg/ml cisplatin
+compared with controls (P\0.05). Furthermore, following
+cisplatin treatment, the apoptotic fraction of MCF-7-s2
+cells markedly increased in comparison with that of control
+cells (Fig. 12c).
+
+The effect of eIF4E downregulation on
+chemosensitivity to cisplatin in vivo
+
+In view of these findings in vitro, we wanted to test the
+efficacy of eIF4E-shRNA2 as an in vivo chemosensitizing
+
+strategy in a nude mouse xenograft model. To explore the
+possible effect of eIF4E downregulation on chemosensitivity
+to cisplatin in vivo, s.c tumors (MCF-7-NS or MCF7-s2)
+were formed in nude mice followed by treatment with
+cisplatin or N.S. After the treatment with cisplatin, the
+proliferation of tumors developed from MCF-7-s2 cells
+was significantly inhibited compared with that of those
+developed from MCF-7-NS cells (Fig. 13a). At 35 days
+after inoculation, we monitored tumor size as described
+above. Following 5 weeks of treatment with cisplatin or
+N.S, the average tumor size of tumor developed from
+MCF-7-s2 and MCF-7-NS was 134.5 mm3 and 208.9 mm3
+,
+respectively (Fig. 13b). The RNAi-mediated downregulation
+of eIF4E expression led to a 35.6% suppression of
+tumor proliferation. Hence, eIF4E-shRNA2 along with
+chemotherapeutic cisplatin could produce a synergistic
+cytotoxicity effect on the cell proliferation of breast carcinoma
+in vivo.
+
+Discussion
+
+Dysregulation of translation is critical to malignant transformation
+and development [30]. Eukaryotic initiation
+
+Fig. 10 Effects of eIF4E-shRNA on the activation of apoptotic
+pathways. (a) Immunoblot of untransfected and stably transfected
+MCF-7 cells. 60 mg of total protein from cell lysates was loaded per
+lane and blotted with anti-cleaved caspase-3 antibodies. Equal loading
+was confirmed by showing equal b-actin levels. (b) Caspase-3 activity
+of MCF-7-s2 cells increased by 221%. * P \0.05 versus control
+cells. (c) The stably transfected MCF-7-s2 cells were treated with and
+
+without caspases inhibitor Z-VAD(OMe)-FMK. Cell viability was
+determined by the MTT assay (* P \0.05). (d) Immunoblot of
+untransfected and stably transfected MCF-7 cells. 60 mg of total
+protein from cell lysates was loaded per lane and blotted with
+antibodies against c-Myc, c-IAP1, c-IAP2, Bad, phospho-Bad, Bcl-2
+and Bcl-xl. Equal loading was confirmed by showing equal b-actin
+levels. (1) MCF-7; (2) MCF-7-pS.retro; (3) MCF-7-NS; (4) MCF-7-s2
+
+452 Breast Cancer Res Treat (2009) 113:443–456
+
+123
+factor 4E (eIF4E) is the rate-limiting factor in cap-dependent
+translation, and its bioavailability is strictly controlled
+through its association with eIF4E-binding protein 1 (4EBP1).
+The overexpression of eIF4E gene has been reported
+to induce the upregulation of cyclin D1 [31], a potent cell
+cycle regulator as well as VEGF and FGF-2, two angiogenic
+factors associated with tumor progression, invasion
+and metastasis [32, 33]. The eIF4E gene has been shown to
+be overexpressed in breast carcinoma but not in benign
+breast tissue from noncancer patients [11]. Morever, the
+degree of eIF4E overexpression appears be important and
+can predict cancer recurrence in stage I to III breast carcinoma
+patient. Cisplatin, a chemotherapeutic drug that
+was thought to form inter- and intra-strand DNA crosslinks,
+has been used as first-line therapy to treat breast
+carcinoma, but its activity is far from satisfactory [34].
+Thus, in order to improve the prognosis of patients with
+type of refractory cancer, it is necessary to identify and
+target gene conductive to the treatment of breast carcinoma,
+such as enhancement of conventional chemotherapy.
+Chemosensitivity to cisplatin in human cancer cells has
+been reported to associate with the levels of cyclin D1
+expression and inhibiting cyclin D1 expression could
+markedly decrease multiple chemoresistance of tumor cells
+[35]. Truely, the upregulated levels of cyclinD1 expression
+
+in many human cancers are related to the overexpression of
+eIF4E gene, so we hypothesized that reducing eIF4E
+expression would downregulate cyclinD1 expression and
+enhance chemosensitivity of cancer cells to cisplatin.
+Therefore, in an attempt to prove its possibility and
+determine the potential of eIF4E as a therapeutic target, we
+employed DNA vector-based shRNA technique to downregulate
+its expression and analyzed its phenotypical
+changes in MCF-7 cells.
+Presently, the most commonly used plasmids for
+expressing shRNAs in cells contain CMV promoter and
+RNA polymerase-III-based promoters, including the U6
+and H1-RNA promoters [36–38]. These promoters synthesize
+shRNA and elicit RNAi efficiently, but they have a
+major limitation: inhibition cannot be controlled in a
+
+Fig. 12 eIF4E-shRNA promoted cisplatin-induced cytotoxicity in
+vitro. (a) The IC50 of Cisplatin in MCF-7-s2 decreased by 61.1%
+compared with that in MCF-7 cells, * P\0.05. (b) Stably transfected
+or untransfected MCF-7 cells were treated with various concentrations
+of cisplatin, respectively. Cell viability was determined by
+MTT chronometry. Cell survival index was calculated as [A490(5-FU+) /
+A490(5-FU-)] 9 100%, * P\0.05. (c) The apoptotic fraction of MCF7-s2
+cells following cisplatin exposure increased by 7.9-fold compared
+to that of MCF-7 cells following cisplatin, * P\0.05
+
+Fig. 11 Stable downregulation of eIF4E expression inhibited tumorigenicity
+in vivo. (a) Protein samples extracted from MCF-7 tumors
+of ten animals per group were analyzed using Western blot analysis
+for eIF4E expression levels. The level of eIF4E protein in MCF-7-s2
+tumor tissues significantly decreased by 64.5%. b-actin was included
+as a loading control. (b) Tumorigenicity of shRNA stably transfected
+clones in xenograft model. Ten mice were included in each group.
+Tumor volumes were measured at 42 days after the inoculation.
+Representative pictures of tumors in each group were shown
+
+Breast Cancer Res Treat (2009) 113:443–456 453
+
+123
+tissue-specific or cell-specific manner, because the CMV
+promoter and RNA Pol III promoters are constitutively
+expressed in all cell types. Thus, the use of these promoters
+to drive shRNA expression in vivo would silence a given
+gene in all cell types, and thus produce undesirable effect
+in non-target cells. Recently, a Pol II promoter-based
+shRNA construct has been reported as an alternate method
+to drive shRNA expression. Since some Pol II promoters
+possess cell- or tissue-specific property, and they can provide
+an attractive strategy for targeted gene silence in gene
+therapy to decrease the probability of off-target silencing
+and cellular toxicity [39]. Survivin promoter belongs to Pol
+II promoter and displays high activity in human cancer
+cells but not in differentiated cells. Our previous and some
+of others’ reports have shown that survivin promoter
+employed to drive therapeutic genes could achieve tumortargeted
+gene therapeutic effect [28, 40]. Unfortunately,
+there have been few reports about using survivin promoter
+
+to drive shRNA in the anti-tumor study. Thus, we wanted
+to test a strategy to downregulate eIF4E expression in a
+tumor-specific manner by constructing survivin promoterdriven
+shRNA eukaryotic expression vector.
+In the present study, we could specifically downregulate
+eIF4E expression in breast carcinoma cells (MCF-7)
+but not in normal mammary epithelial cells (MCF210)
+using DNA vector-based shRNA driven by survivin promoter.
+Morever, the downregulation of eIF4E expression
+significantly suppressed MCF-7 cell growth but had none
+effect on the MCF210 cell growth. All these results
+showed that the survivin promoter–driven RNA interference
+system can inhibit targeted gene expression with
+tumor specificity and high efficacy. To explore the
+mechanism of growth inhibition, we detected the changes
+of cell cycle in the MCF-7 cells stably expressing eIF4EshRNA2.
+Results indicated that the eIF4E downregulation
+induced an accumulation of the cells in the G0/G1 phase,
+which led to proliferation suppression of breast carcinoma
+cells. Next, we used survivin promoter-driven shRNA
+vector targeting eIF4E to explore the antitumorigenic
+effect in vivo. From tumorigenicity assay in nude mice,
+we observed that the downregulation of eIF4E expression
+obviously inhibited the tumor growth in vivo. Furthermore,
+FCM and TUNEL stain assays indicated that
+shRNA targeting eIF4E induced the increased apoptosis
+of MCF-7 cells. In the eIF4E shRNA-induced apoptosis,
+we found that downregulation of c-IAP1, c-IAP2 and
+c-Myc but not Bcl-2 family proteins were involved in that
+course, but the exact mechanism of eIF4E shRNAinduced
+apoptosis needs to be further clarified. All
+experimental data showed that the downregulation of
+eIF4E expression could give rise to growth suppression
+and lead to apoptosis induction in breast carcinoma cells.
+Since the overexpressed eIF4E exerts profound effects
+on cell growth and survival, and causes malignant transformation,
+we explored the therapeutic role of eIF4E in
+combination with chemotherapeutic drug. Cisplatin, a
+platinum-based chemotherapy drug used to treat various
+types of cancers, produces cell cytotoxicity by forming
+inter- and intra-strand DNA cross-links and the cytotoxic
+effect might result from replication inhibition by cisplatin-DNA
+adducts and induction of apoptosis [41].
+Cisplatin has also been widely applied in clinic to treat
+human breast carcinoma, but the clinical therapeutic
+results are not satisfying [42, 43]. It has been reported
+that the overexpression of eIF4E induces the upregulated
+levels of cyclinD1 expression which confers many tumors
+cisplatin resistance. Thus, we believe that inhibition of
+eIF4E expression might abolish the multidrug resistancerelated
+signaling pathways leading to decreased efflux of
+cisplatin from cells. In this study, as reported on other
+human malignancies by other researchers, results from
+
+Fig. 13 Downregulation of eIF4E expression enhanced cisplatininduced
+cytotoxicity in vivo. Mice were treated with cisplatin
+(5.0 mg/kg; thrice weekly) or with 0.1 ml N.S (pH 7.4; thrice
+weekly). (a) Tumor growth in the mice injected with MCF-7-s2 cells
+stably expressing eIF4E shRNA or MCF-7-NS cells stably expressing
+non-specific shRNA with or without cisplatin. The inoculation was
+performed in ten mice. (b) Tumor size at day 35 after the inoculation.
+Grey column, average tumor size at day 35 after the inoculation of
+MCF-7-NS or MCF-7-s2 cells in mice treated with N.S; Black
+column, average tumor size at day 35 after the inoculation of MCF-7-
+NS or MCF-7-s2 cells in mice treated with cisplatin (10/group).
+* P\0.05
+
+454 Breast Cancer Res Treat (2009) 113:443–456
+
+123
+chemosensitivity tests showed that the RNAi-mediated
+downregulation of eIF4E expression synergistically
+enhanced the cytotoxicity of cisplatin both in vitro and
+in vivo, which made us believe that cisplatin chemotherapy
+could be more effective in combination with RNAimediated
+downregulation of eIF4E expression.
+Taken together, our results suggest that the tumor-specific
+survivin promoter can drive shRNA expression to
+silence targeted gene in tumor cells but not in normal cell,
+and the use of DNA vector-based shRNA technology can
+effectively and specifically downregulate eIF4E gene
+expression, which leads to growth suppression of breast
+carcinoma cells and enhancement of chemosensitivity to
+cisplatin both in vitro and in vivo. Therefore, the combination
+of survivin promoter and shRNA will be a novel
+strategy in targeted cancer gene therapy and may become a
+promising approach for the chemosensitization of human
+breast carcinomas in the future. Further researches should
+focus on the delivery strategies that can direct eIF4EshRNA
+vectors specifically into tumor cells with low toxicity
+and high efficacy.
+
+

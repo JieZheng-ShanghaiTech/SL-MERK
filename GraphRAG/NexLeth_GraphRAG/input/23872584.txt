@@ -1,0 +1,1353 @@
+Therapeutics, Targets, and Chemical Biology
+
+A Synthetic Lethality–Based Strategy to Treat Cancers
+Harboring a Genetic Deficiency in the Chromatin Remodeling
+Factor BRG1
+
+Takahiro Oike1,2,6, Hideaki Ogiwara1
+, Yuichi Tominaga3
+, Kentaro Ito3
+, Osamu Ando3
+, Koji Tsuta4
+, Tatsuji
+Mizukami1,6, Yoko Shimada1
+, Hisanori Isomura1,2, Mayumi Komachi6
+, Koh Furuta4
+, Shun-Ichi Watanabe5
+,
+Takashi Nakano6
+, Jun Yokota2
+, and Takashi Kohno1
+
+Abstract
+The occurrence of inactivating mutations in SWI/SNF chromatin-remodeling genes in common cancers has
+attracted a great deal of interest. However, mechanistic strategies to target tumor cells carrying such mutations
+are yet to be developed. This study proposes a synthetic-lethality therapy for treating cancers deficient in the SWI/
+SNF catalytic (ATPase) subunit, BRG1/SMARCA4. The strategy relies upon inhibition of BRM/SMARCA2, another
+catalytic SWI/SNF subunit with a BRG1-related activity. Immunohistochemical analysis of a cohort of non–smallcell
+lung carcinomas (NSCLC) indicated that 15.5% (16 of 103) of the cohort, corresponding to preferentially
+undifferentiated tumors, was deficient in BRG1 expression. All BRG1-deficient cases were negative for alterations
+in known therapeutic target genes, for example, EGFR andDDR2 gene mutations, ALK gene fusions, or FGFR1 gene
+amplifications. RNA interference (RNAi)–mediated silencing of BRM suppressed the growth of BRG1-deficient
+cancer cells relative to BRG1-proficient cancer cells, inducing senescence via activation of p21/CDKN1A. This
+growth suppression was reversed by transduction of wild-type but not ATPase-deficient BRG1. In support of these
+in vitro results, a conditional RNAi study conducted in vivo revealed that BRM depletion suppressed the growth of
+BRG1-deficient tumor xenografts. Our results offer a rationale to develop BRM-ATPase inhibitors as a strategy to
+treat BRG1/SMARCA4–deficient cancers, including NSCLCs that lack mutations in presently known therapeutic
+target genes. Cancer Res; 73(17); 5508–18. 2013 AACR.
+
+Introduction
+
+Tyrosine kinase inhibitors are effective against solid tumors
+with activating mutations in tyrosine kinase genes, for example,
+the EGFR mutations and ALK fusions harbored by lung
+adenocarcinomas (1). We and others recently identified RET
+oncogene fusions in lung adenocarcinoma (2–4), supporting
+the importance of tyrosine kinase genes as therapeutic targets.
+Two other tyrosine kinase gene alterations, the FGFR1 amplification
+and the DDR2 mutation, have been identified as
+therapeutic targets in squamous cell carcinoma, which corresponds
+to another major type of non–small-cell lung carcinoma
+(NSCLC; refs. 5, 6). Meanwhile, inactivating somatic mutations
+of genes that encode subunits of the SWI/SNF chromatinremodeling
+complex, such as BRG1/SMARCA4, PBRM1/
+BAF180, ARID1A/BAF250A, and ARID2/BAF200, have attracted
+much interest as they were first identified by genome-wide
+sequencing analyses of cancer cells (7). Such mutations are
+thought to interfere with the functions of the SWI/SNF complex
+in transcription (7) and DNA double-strand break repair
+(8), which are likely to be critical for cancer development and/
+or progression. However, no therapeutic strategies have yet
+been developed for specifically targeting cancer cells harboring
+these inactivating SWI/SNF mutations.
+Synthetic-lethality therapy holds great promise. The BRCA1
+and BRCA2 genes have a synthetic-lethal relationship with the
+PARP1 gene; the growth of BRCA1- or BRCA2-deficient cancer
+cells is dependent on PARP1 function. These findings have
+been translated to the clinic through the development of PARP
+inhibitors to treat BRCA1/BRCA2–deficient tumors (9). Synthetic-lethality
+therapy has also been proposed for treatment
+of cancers deficient in genes involved in DNA mismatch repair
+and cell metabolism (10–12). Here, we developed a novel
+synthetic-lethality strategy for killing tumor cells deficient in
+the SWI/SNF subunit BRG1 (also known as SMARCA4). Indeed,
+inactivating somatic BRG1 mutations are present in several
+cancers, as reported by our group and others (13–15). Many
+lung cancers (10%–30%) exhibit reduced or absent expression
+
+Authors' Affiliations: Divisions of 1
+Genome Biology and 2
+Multistep
+Carcinogenesis, National Cancer Center Research Institute; 3
+Oncology
+Research Laboratories, Daiichi Sankyo Co., Ltd.; Divisions of 4
+Pathology
+and Clinical Laboratories and 5
+Thoracic Surgery, National Cancer Center
+Hospital, Tokyo; and 6
+Department of Radiation Oncology, Gunma University
+Graduate School of Medicine, Gunma, Japan
+Note: Supplementary data for this article are available at Cancer Research
+Online (http://cancerres.aacrjournals.org/).
+Corresponding Author: Takashi Kohno, Division of Genome Biology,
+National Cancer Center Research Institute, 5-1-1 Tsukiji, Chuo-ku, Tokyo
+104-0045, Japan. Phone: 81-3-3542-2511; Fax: 81-3-3542-0807; E-mail:
+tkkohno@ncc.go.jp
+doi: 10.1158/0008-5472.CAN-12-4593
+2013 American Association for Cancer Research.
+
+Cancer
+Research
+
+5508 Cancer Res; 73(17) September 1, 2013
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+of the BRG1 protein due to somatic truncating mutations in the
+BRG1 gene or unspecified epigenetic alterations (13, 15–18).
+Furthermore, BRG1 was recently identified as one of the most
+frequently mutated genes in medulloblastoma (19, 20) and
+Burkitt lymphoma (21).
+Each SWI/SNF complex contains either BRG1 or BRM
+(also known as SMARCA2) as its catalytic (ATPase) subunit
+(7, 22). BRG1 and BRM play complementary roles, as indicated
+by the observation that Brm-deficient mice develop
+normally but exhibit upregulated BRG1 expression in somatic
+cells (23). Brg1-null heterozygous mice spontaneously
+develop mammary tumors, and specific alleles of BRG1 are
+associated with cancer predisposition in humans (24).
+Therefore, BRG1/Brg1 acts as a tumor-suppressor gene
+(25). The complementary roles of BRG1 and BRM, coupled
+with the involvement of the SWI/SNF complex in multiple
+critical cellular functions, suggest that BRG1 and BRM might
+have a synthetic-lethal relationship; therefore, we examined
+the ability of BRM inhibition to specifically kill BRG1-deficient
+tumor cells. In addition, to address the potential
+significance of BRM-inhibitory therapies, we examined the
+characteristics of BRG1-deficient NSCLCs, including the
+mutually exclusive relationship between BRG1 deficiencies
+and mutations in therapeutic target genes (EGFR and DDR2
+mutations, ALK fusions, and FGFR1 amplifications; Fig. 1A).
+
+Materials and Methods
+
+NSCLC cohort
+Surgical specimens from 103 patients with NSCLC (51
+adenocarcinomas and 53 squamous cell carcinomas), who
+received surgical resection at the National Cancer Center
+Hospital (Tokyo, Japan), between 1997 and 2007, were analyzed
+(Table 1 and Supplementary Materials and Methods). The
+study was approved by the Institutional Review Board of the
+National Cancer Center (Tokyo, Japan).
+
+Immunohistochemical analysis of BRG1 and BRM
+Immunohistochemical analysis was conducted on tissue
+microarray sections obtained from anonymized NSCLC samples.
+The methods used for immunohistochemical staining and
+the criteria for BRG1 and BRM positivity are described in the
+Supplementary Materials and Methods. Specific staining for
+BRG1 and BRM was confirmed by immunoblot analysis of
+cancer cell lines (Supplementary Fig. S1).
+
+Examination of driver gene mutations
+Genomic DNA obtained from tumor tissues was analyzed for
+somatic mutations in the EGFR and KRAS genes using the highresolution
+melting method (26). Mutations in all DDR2 coding
+regions in squamous cell lung carcinoma samples were examined
+by targeted genome capture and massively parallel
+sequencing using an Ion PGM sequencing system (Life Technologies)
+and the HaloPlex Target Enrichment System (Agilent
+Technologies). EML4-ALK and KIF5B-ALK fusions were
+screened by immunohistochemistry using an anti-ALK antibody
+(Abcam; 5A4), followed by confirmation via reverse-transcriptase
+PCR (RT-PCR) and/or fluorescence/chromogenic in situ
+hybridization (27). RET and ROS1 fusions (in cases for which
+
+RNA samples are available) were examined by RT-PCR (2, 4).
+FGFR1 amplification was examined by conducting FISH analysis
+(28) on 69 NSCLC samples that were available for analysis
+(Supplementary Materials and Methods).
+
+Cell lines
+A427, A549, H157, H460, H520, H522, H661, H1299, H1703,
+H1819, LK2, HCC515, II-18 (NSCLC), U2OS (osteosarcoma),
+HT1080 (fibrosarcoma), HeLa (cervical cancer), WiDr, HCT116
+(colorectal cancer), HFL-1, and MRC-5 (fibroblast) cells were
+cultured in RPMI-1640 (Gibco) supplemented with 10% FBS.
+293FT cells were cultured in Dulbecco's Modified Eagle Medium
+(DMEM) supplemented with 10% FBS. A549, H1819, H661,
+H157, H1299, A427, H522, and H1703 are lung cancer cell lines
+harboring truncating BRG1 mutations, whereas H520, HeLa,
+LK2, H460, U2OS, and HT1080 carry wild-type BRG1 (13, 17).
+The BRG1 mutation status of all the cell lines used in this study
+is given in Supplementary Table S1. Alterations in BRG1 and
+other cancer-related genes were verified in the cell lines we
+examined; some of the results were previously reported (Supplementary
+Table S2; ref. 17).
+Mutations in BRG1- and BRM-coding regions in HCC515
+and II-18 cells, which do not express BRG1, and 16 primary
+tumors negative for BRG staining were examined by targeted
+genome capture and massively parallel sequencing of genomic
+DNA using an Ion PGM sequencing system and the Ion
+TargetSeq Custom Enrichment Kit (Life Technologies).
+Mutations detected were verified by Sanger sequencing of
+genomic PCR products. The effect of single-nucleotide variants
+resulting in amino acid changes in the BRG1 ATPase
+domain, expressed in HCT116 (L1163P) and WiDr (D1284N)
+colorectal cancer cells (16), was estimated using the PolyPhen
+and PolyPhen-2 programs. The substitutions in
+HCT116 cells are thought to abrogate ATPase activity, but
+those in WiDr cells are benign (Supplementary Table S3).
+
+siRNA
+ON-TARGET plus SMARTpool siRNA (Dharmacon) was
+used in this study. To knockdown the BRM protein, cells
+were transfected with siBRM (cat. no: 6597: SMARCA4) using
+Lipofectamine RNAiMAX (Invitrogen). Nontargeting siRNA
+(L-001810-10) was used as a negative control.
+
+Establishment of cells expressing doxycycline-inducible
+short hairpin BRM
+To achieve doxycycline-inducible knockdown of BRM, a
+lentiviral vector–based short hairpin RNA (shRNA)–mediated
+conditional gene-expression system [established by Wiznerowicz
+and Trono (29)] was used (Supplementary Materials and
+Methods). H1299 cells carrying a shRNA targeting BRM (H1299-
+shBRM) or shRNA targeting the GFP gene (H1299-shControl)
+were established. HeLa-shBRM and HeLa-shControl cells were
+established in the same manner.
+
+Immunoblot analysis
+Immunoblotting was conducted as previously described (8).
+The antibodies used in the present study are listed in the
+Supplementary Materials and Methods.
+
+Synthetic-Lethality Therapy for BRG1-Deficient Cancer
+
+www.aacrjournals.org Cancer Res; 73(17) September 1, 2013 5509
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+Cell survival assay
+The effect of BRM knockdown on the survival of BRG1-
+deficient (undetectable by immunoblot analysis) and BRG1-
+proficient (detectable by immunoblot analysis) cancer cells
+was evaluated using clonogenic survival assays. Because noncancerous
+fibroblasts do not form colonies on culture plates,
+the viability of these cells was determined by examining
+cellular ATP levels using the CellTiter-Glo Luminescent Cell
+Viability Assay Kit (Promega). The detailed procedures for
+these assays were described in the Supplementary Materials
+and Methods.
+
+Complementation assay
+The complementary role of BRG1 was examined in BRMdepleted
+cancer cells by transfecting cDNAs encoding wildtype
+and mutant BRG1 (BRG1K785A, which disrupts the ATPbinding
+pocket in BRG1; ref. 30) into BRG1-null H1299 cells
+(Supplementary Materials and Methods).
+
+Cell-cycle analysis
+Cells were trypsinized, centrifuged, washed in PBS, and fixed
+in ice-cold 70% ethanol. The cells were then centrifuged
+again, incubated with PBS containing 200 mg/mL RNase A and
+
+A
+BRG1 expression and other driver
+mutaons
+in surgical specimens
+
+Synthec-lethal
+relaonshipbetween
+BRG1 and BRM in vitro
+
+9.7
+5.8
+
+51.5 33.0 BRG1–/BRM+
+BRG1–/BRM–
+BRG1+/BRM–
+BRG1+/BRM+
+
+(%)
+
+BRG1(–)/BRM(+)
+
+BRG1(+)/BRM(+)
+
+C
+
+B
+
+BRG1
+
+Age
+Sex
+Smoking
+
+Diff.
+
+Histol.
+pStage
+
+Positive
+
+≥67
+Male
+Ever
+
+Poor
+
+Ad
+I
+
+Negative
+
+<67
+Female
+Never
+
+Mod
+
+Sq
+II
+
+Well
+
+III-IV
+
+BRM Positive Negative
+D
+
+EGFR Mutant wt
+KRAS Mutant wt
+ALK Fusion wt
+
+Growth of BRG(–) tumor by BRM
+depleon
+in vivo
+
+Cases →
+
+BRG1
+
+BRG1
+
+BRM
+
+BRM
+
+FGFR1 Amp wt
+
+Figure 1. BRG1 and BRM expression in surgically resected NSCLCs. A, strategy. B, proportion of specimens expressing the BRG1 and BRM proteins.
+The staining intensity of BRG1 and BRM antibodies in the tumor cell nuclei in each lung cancer sample was scored according to Fukuoka and
+colleagues (46): 0, no signal; 1, weak; 2, moderate; and 3, strong; comparable with that in salivary gland cells used as the positive control; in addition,
+the intratumoral fractions of regions with each score (0–3) were determined. The total score for each lung cancer tissue (the sum of the intensity scores
+and the fractions) was compared with that of noncancerous lung tissues (n ¼ 6). A tumor sample was judged positive (þ) or negative/weak ()
+when
+the total score was higher or lower, respectively, than the average total score of the normal lung epithelial tissues. C, representative images of
+immunohistochemical staining. Top, a BRG1-negative/BRM-positive specimen. Bottom, a BRG1/BRM–positive specimen. The stromal cells in
+both specimens were positive for BRG1 and BRM. D, BRG1/BRM protein expression and other clinicopathologic factors. Patients are characterized
+according to BRG1 and BRM staining and driver gene mutations. BRG1, a case of adenocarcinoma with a nonsense BRG1 mutation is dotted.
+FGFR1, cases not examined for FGFR1 amplification are dotted. DDR2 mutations were not detected in all cases of squamous cell carcinoma.
+wt, wild-type.
+
+Oike et al.
+
+5510 Cancer Res; 73(17) September 1, 2013 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+5 mg/mL propidium iodide, and analyzed for cell-cycle distribution
+by Guava flow cytometry (Millipore).
+
+Senescence-associated b-galactosidase staining
+Senescence-associated b-galactosidase (SA-b-gal) staining
+was conducted using the Senescence b-Galactosidase Staining
+Kit (Cell Signaling Technology). The percentage of SA-b-gal–
+positive cells was determined from three different fields per
+sample.
+
+Fluorescence microscopy
+Cells were stained with 40
+,6-diamidino-2-phenylindole
+(DAPI) and examined for senescence-associated heterochromatic
+foci (SAHF) and signs of mitotic catastrophe (Supplementary
+Materials and Methods).
+
+Long-term in vitro cell proliferation assay
+H1299-shBRM and HeLa-shBRM cells were seeded in 60-mm
+dishes (1  105 cells/dish) in media with or without 0.1 mg/mL
+
+Table 1. Patient characteristics and their association with lost/reduced BRG1/SMARCA4 expression
+
+All BRG1 lost/reduced BRG1 retained
+P
+
+Variant N (%) N (%) N (%) Univariatea Multivariateb
+
+Total patients 103 (100.0) 16 (100.0) 87 (100.0) NT NT
+Age
+Median [range]  SD 67 [44–82]  8 60 [48–78]  8 67 [44–82]  8 0.094 0.13
+>Median 52 (50.5) 5 (31.3) 47 (54.0)
+Gender
+Male 73 (70.9) 16 (100.0) 57 (65.5) 0.0053 NT
+Female 30 (29.1) 0 (0.0) 30 (34.5)
+Histologic cell type
+Adenocarcinoma 50 (48.5) 8 (50.0) 42 (48.3) 0.90 NT
+Squamous cell carcinoma 53 (51.5) 8 (50.0) 45 (51.7)
+Differentiation
+Well differentiated 38 (36.9) 2 (12.5) 36 (41.4) 0.0011 0.022
+Moderately differentiated 34 (33.0) 3 (18.8) 31 (35.6)
+Poorly differentiated 31 (30.1) 11 (68.8) 20 (23.0)
+Pathologic stage
+I 42 (40.8) 5 (31.3) 37 (42.5) 0.078 0.20
+II 28 (27.2) 8 (50.0) 20 (23.0)
+III and IV 33 (32.0) 3 (18.8) 30 (34.5)
+Smoking habit
+Never-smoker 26 (25.2) 1 (6.3) 25 (28.7) 0.057 0.17
+Ever-smoker 77 (74.8) 15 (93.8) 62 (71.3)
+EGFR mutation
+Mutant 27 (26.2) 0 (0.0) 27 (31.0) 0.0095 NT
+Wild-type 76 (73.8) 16 (100.0) 60 (69.0)
+KRAS mutation
+Mutant 10 (9.7) 0 (0.0) 10 (11.5) 0.15 NT
+Wild-type 93 (90.3) 16 (100.0) 77 (88.5)
+ALK fusion
+Positive 1 (1.0) 0 (0.0) 1 (1.1) 0.67 NT
+Negative 102 (99.0) 16 (100.0) 86 (98.9)
+FGFR1 amplification
+Positive 1 (1.0) 0 (0.0) 1 (1.1) 0.67 NT
+Negative 68 (99.0) 12 (100.0) 56 (98.9)
+BRM expression
+Lost or reduced 40 (38.8) 6 (37.5) 34 (39.1) 0.91 NT
+Retained 63 (61.2) 10 (62.5) 53 (60.9)
+Abbreviation: NT, not tested.
+a
+Association was examined by Fisher exact test.
+b
+Association was examined by logistic regression test. Variables showing associations with P < 0.1 in the univariate analysis were
+subjected to this analysis. Gender and EGFR mutation were not included; they are not suitable for this analysis because no females or
+EGFR mutants were present in the "BRG lost/reduced" group.
+
+Synthetic-Lethality Therapy for BRG1-Deficient Cancer
+
+www.aacrjournals.org Cancer Res; 73(17) September 1, 2013 5511
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+doxycycline, and then cultured. The cells were trypsinized and
+counted every 3 days, and after each count, 1  105 cells were
+reseeded in new dishes with fresh medium. Accumulated cell
+numbers were calculated at each passage, based on the total
+number of cells and the dilution ratio at the time of passage.
+The experiment was carried out in duplicate.
+
+Mouse xenograft model
+The effect of BRM ablation on the growth of H1299-shBRM
+and H1299-shControl tumor xenografts was examined in
+BALB/c-nu/nu mice (Supplementary Materials and Methods).
+All experiments were approved by the Ethical Committee on
+Animal Experiments at the National Cancer Center.
+
+Statistical analysis
+Logistic regression analysis was conducted using JMP (ver
+5.1). Fisher exact test and Student t test were conducted using
+StatMate III (ver 3.17). P < 0.05 was considered statistically
+significant. Experiments were carried out in triplicate unless
+otherwise stated.
+Results
+Characteristics of BRG1-deficient NSCLCs
+We first examined the characteristics of BRG1-deficient
+NSCLCs. Because BRG1 has been reported to play a role in
+cell differentiation (31), the examined cases were selected to
+include similar numbers of adenocarcinomas and squamous
+cell carcinomas of the three differentiation grades (well, moderately,
+and poorly differentiated; Table 1). This approach
+allowed an efficient analysis of the association between BRG1
+expression and tumor differentiation. Immunohistochemical
+analysis revealed that BRG1 protein expression was either low
+or absent in 16 of 103 (15.5%) NSCLCs (Fig. 1B and C). Low or
+absent BRG1 expression was more prevalent in poorly differentiated
+tumors (Table 1 and Fig. 1D), and was also prevalent in
+males and smokers. Mutational analysis of BRG1 and BRM in 16
+cases negative for BRG1 staining revealed that 1 case had
+nonsense BRG1 mutations (Supplementary Fig. S2), whereas
+the remaining 15 did not, implying that both genetic alterations
+and epigenetic silencing of the BRG1 gene can cause
+BRG1 deficiency, as previously reported (18). On the other
+hand, deleterious BRM mutations were not detected in these 16
+cases including 5 that were negative for BRM staining.
+
+Driver gene mutations in BRG1-deficient NSCLCs
+Next, we analyzed representative therapeutically relevant
+gene mutations (EGFR and KRAS gene mutations and ALK
+fusions) in the 103 NSCLC cases. The 16 BRG1-deficient cases
+were negative for mutations in all three driver genes, including
+the two therapeutic targets (EGFR mutation and ALK
+fusion; Fig. 1D, Table 1). We also analyzed other driver gene
+mutations, RET and ROS1 fusions (2–4), in the 9 BRG1-deficient
+cases for which tumor tissue RNA was available, but we
+detected no fusions. Recent whole-genome analyses have also
+suggested that BRG1 mutations are prevalent in tumors without
+EGFR mutations or ALK fusions (Supplementary Table S4;
+refs. 32, 33). In addition, all the BRG1-deficient cases were also
+negative for two other alterations, FGFR1 amplifications and
+
+DDR2 mutations (Fig. 1D; Table 1; Supplementary Fig. S3;
+refs. 5, 6). These findings suggest that most BRG1-deficient
+NSCLCs are not suitable for current molecularly targeted
+therapies based on tyrosine kinase inhibitors (1). Of the 16
+BRG1-deficient cases, 10 (62.5%, 9.7% of all cases studied)
+expressed BRM.
+
+BRM-dependent growth of BRG1-deficient cancer cells
+We then compared the effect of siRNA-mediated BRM
+ablation on in vitro growth of BRG1-deficient (n ¼ 10) and
+BRG1-proficient (n ¼ 8) cancer cell lines, using a clonogenic
+survival assay (Fig. 2A). Most (8 of 10) BRG1-deficient cells carry
+truncating BRG1 mutations/deletions (Supplementary Table
+S2; refs. 13, 17). Of the remaining two BRG1-deficient cell lines,
+we detected a homozygous nonsense mutation in one
+(HCC515) by targeted genome capture sequencing (Supplementary
+Fig. S2), but no BRG1 mutation in the other (II-18). On
+the other hand, BRG1-proficient cancer cells did not harbor
+such deleterious BRG1 mutations (except HCT116 cells, which
+harbor a heterozygous missense mutation that is likely to
+disrupt the BRG1 ATPase domain; ref. 15).
+We observed suppression of colony formation in all BRG1-
+deficient cells tested, but not in BRG1-proficient lines other
+than HCT116 (Fig. 2B and C). The mean values of the surviving
+fraction of cancer cell lines are summarized according to the
+BRG1 and BRM expression status in Fig. 2D. Survival of BRG1-
+deficient cells upon BRM knockdown was significantly lower
+than that of BRG1-proficient lines (P ¼ 6.3  106
+by Student t
+test). The BRM protein was undetectable, or detectable only at
+trace levels, in three BRG1-deficient cell lines, A427, H522, and
+H1703 (Fig. 2A and Supplementary Fig. S4A). These findings are
+consistent with a report showing that a fraction of lung cancer
+cells lack, or express at low levels, both BRG1 and BRM (Fig. 1B;
+ref. 14). Conceivably, the effect of siRNA-mediated BRM knockdown
+in these three cell lines was less evident than in the other
+seven. Thus, among BRG1-deficient cell lines, the suppression
+of colony formation by BRM knockdown was more prominent
+in cell lines that originally expressed the BRM protein (P ¼ 4.5
+ 109
+by Student t test; Fig. 2D).
+BRM knockdown did not affect the growth of the noncancerous
+fibroblast cell lines HFL-1 and MRC-5, which express
+both BRG1 and BRM (Fig. 3A and B). Wild-type BRG1 cDNA
+complemented the sensitivity of BRG1-deficient H1299 cells to
+BRM siRNA-mediated growth inhibition (Fig. 3C and D),
+whereas cDNA of an ATPase mutant with a disrupted ATPbinding
+pocket, BRG1K785A (30), did not (BRG1K785A is indicated
+as KA in Fig. 3C and D). These results indicated that BRG1-
+deficient cancer cells depend on BRM for growth, and that this
+phenotype is caused by a lack of BRG1 ATPase activity.
+
+BRM depletion induces senescence in BRG1-deficient
+cancer cells
+To examine the long-term effects of BRM depletion, we
+prepared H1299 (BRG1-deficient) and HeLa (BRG1-proficient)
+cells expressing either a doxycycline-inducible shRNA targeting
+BRM (H1299-shBRM and HeLa-shBRM; refs. 29, 34) or a
+nontargeting shRNA (H1299-shControl and HeLa-shControl).
+To confirm the effects of BRM knockdown, we used a different
+
+Oike et al.
+
+5512 Cancer Res; 73(17) September 1, 2013 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+BRM target site from the one used in the siRNA experiments.
+The results of the siRNA clonogenic assay were confirmed
+using this system (Supplementary Fig. S5). We next examined
+the mechanism underlying growth inhibition in H1299-shBRM
+cells. Seven days after doxycycline treatment, H1299-shBRM
+cells, but not HeLa-shBRM cells, exhibited G1 arrest with an
+enlarged and flattened morphology, suggesting senescence
+(Fig. 4A and Supplementary Fig. S6). Biomarkers of senescence
+(p21/CDKN1A expression, SA-b-gal staining, and SAHF; refs. 35,
+36) were observed in doxycycline-treated H1299-shBRM cells,
+but not in HeLa-shBRM cells (Fig. 4B and C). Doxycycline
+treatment did not affect the proportion of cells in sub-G1-phase
+
+or the number of cells exhibiting distinct nuclear lobation,
+indicating that ablation of BRM does not induce apoptosis or
+mitotic catastrophe (Fig. 4A and C; ref. 37). Senescence is an
+irreversible state of growth arrest that is maintained by p21
+(38); therefore, we examined p21 expression in H1299-shBRM
+cells in which BRM was reexpressed after doxycycline removal
+(Fig. 4D). In these cells, p21 expression was maintained at
+the level observed in BRM knockdown cells. Consistent with
+this, cells reexpressing BRM exhibited suppressed clonogenic
+growth activity. siRNA-mediated knockdown of BRM caused
+significant increases in SA-b-gal positivity and the number of
+cells in G1-phase in three BRG1-deficient NSCLC cell lines
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+HCC515
+II-18
+A549
+H1819
+H661
+H157
+H1299
+A427
+H522
+H1703
+
+A C
+
+α-Tub
+
+BRG1
+HeLa
+HCC515
+II-18
+A549
+H1819
+H661
+H157
+H129
+A427
+H522
+H1703
+9
+
+U2OS
+HT1080
+H520
+HeLa
+LK2
+WiDr
+H460
+HCT116
+−250
+−150
+−100
+− 75
+− 50
+− 37
+− 25
+− 20
+− 15
+− 10
+
+(kD)
+
+BRM
+
+B
+
+Surviving fraction
+
+BRG1-deficient
+U2OS
+HT1080
+H520
+HeLa
+LK2
+WiDr
+H460
+HCT116
+BRG1-proficient
+
+siControl
+siBRM
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+Surviving fraction
+
+P = 4.5×10–9
+
+BRG1 ––+
+
+P = 6.3×10–6
+D
+
+᧦᧦
+᧦᧦
+᧦᧦
+
+᧦᧦
+᧦᧦
+᧦᧦
+
+᧦᧦
+
+᧦᧦
+
+᧦
+
+᧦
+
+᧦
+
+BRM + ± +
+
+HCC515 II-18 A549 H1819
+H661
+H157
+H1299
+A427
+H522
+
+H1703
+
+BRM
+
+α-Tub
+siBRM
+
+U2OS
+HT1080
+H520
+HeLa
+LK2
+WiDr
+H460
+HCT116
+
+– + – + – + – + – + – + – + – + – +
+
+– + – + – + – + – + – + – + – + – +
+
+1.00 0.24 1.00 1.00 1.00 1.00 1.00 1.00 0.14 0.07 0.21 0.07 0.22 0.05 - - --
+
+– – 1.00 0.17 1.00 1.00 1.00 1.00 1.00 1.00 0.08 0.02 0.10 0.27 0.20 0.10 1.00 0.03
+
+BRM
+
+α-Tub
+siBRM
+
+Figure 2. Differential sensitivity of BRG1-deficient and -proficient cell lines to BRM knockdown. A, BRG1 and BRM protein expression in human cancer
+cell lines. Immunoblot analysis of BRG1-deficient (left) and BRG1-proficient (right) cancer cell lines. Blots of whole-cell extracts were probed with
+antibodies against BRG1, BRM, and a-tubulin (a-Tub; loading control). B, survival of BRG1-deficient and -proficient cancer cells after BRM knockdown.
+BRG1-deficient (left) and -proficient (right) cells were transfected with BRM-targeting siRNA (siBRM) or nontargeting siRNA (siControl) for 48 hours and then
+assayed for colony formation. The surviving fraction of siBRM-treated cells at 10 days was calculated as a ratio (number of colonies formed by siBRM-treated
+cells/number of colonies formed by siControl-treated cells). Data are shown as mean  SD. Asterisks show significant differences in surviving fraction
+between siBRM- and siControl-treated cells, as determined by Student t test (, P < 0.05;  , P < 0.001). C, BRM protein expression in cancer cells
+after siRNA-mediated knockdown. Cells were transfected with siBRM or siControl for 48 hours, harvested, and subjected to immunoblot analysis. Blots of
+whole-cell extracts were probed with antibodies against BRM and a-tubulin (loading control). The expression levels of BRM in siBRM-treated cells are
+shown relative to those in siControl-treated cells. Knockdown efficiency in A427, H522, and H1703 cells could not be assessed because of their low
+endogenous BRM expression levels. D, surviving fraction of cancer cell lines according to BRG1 and BRM expression status. The mean values of the surviving
+fractions of each cell line obtained in Fig. 2B are shown. Cell lines are grouped according to deficiency ()
+and proficiency (þ) of BRG1 and BRM protein
+expression. Significance of differences in the mean values of surviving fraction between BRG1-deficient cell lines and BRG1-proficient cell lines, and BRG1-
+deficient/BRM-proficient cell lines and BRG1-proficient cell lines were evaluated using Student t test.
+
+Synthetic-Lethality Therapy for BRG1-Deficient Cancer
+
+www.aacrjournals.org Cancer Res; 73(17) September 1, 2013 5513
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+(H1299, A549, and H157), but not in three BRG1-proficient
+NSCLC cell lines (H520, LK2, and H460; Fig 4E–G; Supplementary
+Fig. S7). Taken together, these results suggest that BRM
+knockdown specifically suppresses the growth of BRG1-deficient
+cells by inducing senescence.
+
+BRM-dependent growth of BRG1-deficient cancer cells
+in vivo
+The number of BRM-depleted H1299-shBRM cells was
+approximately 1,000 times lower than that of nondepleted
+cells after 4 weeks of culture, whereas the number of HeLashBRM
+cells did not change (Fig. 5A). This observation
+suggests that inhibition of BRM specifically suppresses the
+long-term growth of BRG1-deficient cells (i.e., over at least a
+month). To further confirm these data under more physiologically
+relevant conditions, we introduced H1299-
+shBRM and H1299-shControl cells into an in vivo conditional
+RNA interference (RNAi) model (Fig. 5B). BALB/c-nu/
+
+nu mice were injected subcutaneously with H1299-shBRM
+or H1299-shControl cells. After 3 weeks, when the injected
+cells had formed tumor nodules measuring approximately
+100 mm3
+, the animals were randomly divided into two
+groups and fed a diet containing doxycycline (200 ppm)
+or a control diet for 1 month. In doxycycline-fed mice, the
+H1299-shBRM xenografts were significantly smaller than
+the H1299-shControl xenografts.
+Discussion
+This study suggests that BRM is a novel therapeutic target
+for synthetic-lethality therapy for BRG1-deficient cancers. To
+the best of our knowledge, this is the first report proposing a
+therapeutic strategy that specifically targets and kills cancer
+cells harboring inactivating mutations in SWI/SNF chromatinremodeling
+genes. In the future, the use of this strategy needs to
+be further validated in vivo using multiple lines of BRG1-
+deficient and -proficient cancer cells.
+
+0
+10
+20
+30
+40
+
+0 1 2 3 4 5 6 7
+
+siControl/-
+siControl/BRG1 WT
+siControl/BRG1 KA
+siBRM/-
+siBRM/BRG1 WT
+siBRM/ BRG1 KA
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+0 2 4 6
+
+siControl
+
+siBRM
+
+0 2 4 6
+
+siControl
+
+siBRM
+
+D
+
+A B
+
+−250
+
+−150
+
+−100
+
+HFL-1
+MRC-5
+(kD)
+
+BRG1
+
+BRM
+
+α-Tub
+
+Cell viability
+
+Day
+
+HFL-1
+
+Day
+
+MRC-5
+
+C
+
+(day)
+
+P < 0.05
+P = 0.30
+
+BRM
+
+α-Tub
+siBRM – +
+
+1.00 0.10
+
+BRM
+α-Tub
+siBRM – +
+
+1.00 0.07
+
+Cell viability
+
+BRM
+
+BRG1
+β-Actin
+
+siControl siBRM
+– WT KA – WT KA
+1.00 0.00 0.00 0.00 – –
+
+Figure 3. Effect of BRM knockdown on cell growth in noncancerous cells and in BRG1-deficient H1299 cells complemented with wild-type BRG1 cDNA. A,
+BRG1 and BRM protein expression in HFL-1 and MRC-5 fibroblasts. Blots of whole-cell extracts were probed with antibodies against BRG1, BRM, and
+a-tubulin (a-Tub; loading control). B, viability of HFL-1 and MRC-5 cells subjected to siRNA-mediated knockdown of BRM. Cells transfected with
+siBRM or siControl were cultured for 48 hours and then subjected to CellTiter-Glo assay (Promega) and immunoblot analysis. Cell viability measured by
+CellTiter-Glo assay is expressed as a ratio relative to the viability assessed at day 0. Data are shown as mean  SD. For immunoblot analyses, blots of wholecell
+extracts were probed with antibodies against BRM and a-tubulin (loading control). The expression levels of BRM in siBRM-treated cells are shown
+relative to those in siControl-treated cells. C and D, BRG1 cDNA complementation assay. Twenty-four hours after transfection with siBRM or siControl,
+H1299 cells were transfected with a plasmid expressing wild-type (WT) or ATPase-mutant (KA) BRG1 protein. Twenty-four hours later (day 0), the
+cells were seeded into a 96-well plate. On day 2, the cells were retransfected with siRNAs. Cell viabilities measured on days 0, 1, 4, and 7 are shown in C.
+P values were calculated using Student t test. Expression of BRM and BRG1 proteins on day 1, determined by immunoblot analysis, is shown in D. b-Actin was
+used as the loading control. The expression levels of BRM in siBRM-treated cells are shown relative to those in siControl-treated cells without cDNA
+complementation. Data are shown as mean  SD of three replicates per treatment condition.
+
+Oike et al.
+
+5514 Cancer Res; 73(17) September 1, 2013 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+α-Tub
+BRM
+Dox – +
+HeLa
+-shBRM
+–
+
+Cell-cycle phase (%)
+
+Sub-G1
+G2–M
+S
+G1
+
+H1299
+-shBRM
+
+100
+
+60
+
+40
+
+20
+
+0
+80
+
+A
+Normal SAHF
+
+0
+5
+10
+15
+20
+25
+
+SAHF MC
+
+Dox–
+Dox+
+
+SAHF/MC–positive cells (%)
+
+C
+
+MC
+
+B
+
+α-Tub
+p21
+Dox
+BRM
+– +H1299 -shBRM
+HeLa
+-shBRM
+– +
+
+SA-β-gal–positive cells (%)
+0
+10
+20
+30
+40
+50
+Dox–
+Dox+
+
+Dox–
+
+Dox+ α-Tub
+p21
+BRM
+Control
+BRM KD
+KD
+→Exp
+
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+
+Surviving fraction
+
+D
+
+Dox
+
+0 7 12(day) BRM KD
+WB & seed
+Control 0 7 12(day)
+
+Dox
+
+0 7 12
+Dox off
+(day)
+BRM
+KD→Exp
+WB & seed
+
+Control BRM KD KD
+→Exp
+
+1.00 0.02 1.00 0.09
+
++
+1.00 0.05 0.16 1.00
+
+1.00 0.96 0.15
+
+᧦
+
+᧦
+
+᧦ ᧦
+
+᧦
+
+– + – + – +
+
+– + – + – +
+
+H1299 A549 H157
+
+H520 LK2 H460
+
+1.0 0.13 0.1 1.0 0.08 1.0
+
+1.00 0.11 1.00 1.00 0.12 0.08
+
+BRM
+
+α-Tub
+siBRM
+
+BRG1-deficient
+
+BRG1-proficient
+
+BRM
+
+α-Tub
+siBRM
+
+E F G
+
+SA-β-gal–positive cells (%) 60
+40
+
+20
+
+0
+
+᧦
+
+᧦
+
+᧦H1299
+A549
+H157
+BRG1-deficient
+
+siControl siBRM
+
+H520 LK2
+H460
+BRG1-proficient
+
+Cell-cycle phase (%)100
+60
+40
+20
+0
+80
+
+Sub-G1 G2–M S G1
+
+H1299 A549 H157
+BRG1-deficient
+
+H520
+LK2
+H460
+BRG1-proficient
+
+᧦ ᧦ ᧦
+
+Figure 4. Effect of BRM knockdown on growth inhibition in BRG1-deficient cancer cells. A–D, H1299-shBRM and HeLa-shBRM cells were cultured in the
+presence or absence of doxycycline (Dox) for 7 days before analysis. H1299 cells carrying a doxycycline-inducible shRNA specific for GFP were used as a
+negative control (H1299-shControl). A, cell-cycle profile. Top, immunoblot analysis of BRM and a-tubulin (a-Tub). The expression level of BRM in
+doxycycline-treated cells is shown relative to the level in untreated cells. Bottom, cell-cycle profiles determined by flow cytometry. , a significant difference in
+the fraction of cells in G1-phase between doxycycline-treated and -untreated cells as determined by Student t test (P < 0.01). B, expression of SA-b-gal and
+p21. Top, immunoblot analysis of BRM, p21, and a-tubulin. The expression level of BRM in doxycycline-treated cells is shown relative to that in
+untreated cells. Middle, percentage of SA-b-gal–positive cells. , a significant difference in the percentage of SA-b-gal–positive cells between doxycyclinetreated
+and -untreated cells as determined by Student t test (P < 0.001). Bottom, representative micrographs showing cells stained for SA-b-gal
+(blue). Scale bars, 100 mm. C, SAHF and mitotic catastrophe (MC) as revealed by nuclear DAPI staining. Top, representative images showing normal nuclear
+(Normal), SAHF, and mitotic catastrophe patterns in doxycycline-treated H1299-shBRM cells. Scale bars, 10 mm. Bottom, percentage of cells exhibiting
+SAHF and mitotic catastrophe. , a significant difference in the percentage of SAHF-positive cells between doxycycline-treated and -untreated cells as
+determined by Student t test (P < 0.001). D, p21 expression and clonogenic survival of H1299 cells after BRM knockdown followed by reexpression of
+BRM. A schematic of the experimental protocol is shown at the top. H1299-shBRM cells were cultured in the presence of doxycycline for 7 days (BRM KD) and
+then cultured in the absence of doxycycline for an additional 5 days (KD!Exp). The cells were then harvested and subjected to immunoblot analysis (WB).
+BRM KD and KD!Exp cells were seeded and cultured for an additional 10 days in the presence or absence of doxycycline, respectively, to allow colony
+formation. H1299-shBRM cells cultured in the absence of doxycycline were used as a control. Bottom left, immunoblot analysis of BRM, p21, and a-tubulin.
+The expression levels of BRM in BRM KD cells and KD!Exp cells are shown relative to the level in control cells. Bottom right, clonogenic survival assay. The
+surviving fraction of BRM KD and KD!EXP cells is expressed as a ratio (number of colonies formed by BRM KD and KD!EXP cells/number of colonies formed
+by control cells). Data are shown as mean  SD. , significant decreases in the surviving fraction relative to that of control cells as determined by
+Student t test (P < 0.001). E–G, BRG1-deficient (H1299, A549, and H157) and BRG1-proficient (H520, LK2, and H460) NSCLC cells were transfected twice
+(days 1 and 3) withBRM-targeting siRNA (siBRM) or nontargeting siRNA (siControl). On day 7, the cells were subjected to subsequent analyses. E, immunoblot
+analysis of BRM and a-tubulin (loading control). The expression levels of BRM in siBRM-treated cells are shown relative to those in siControl-treated cells.
+F, positivity for SA-b-gal staining. , significant differences in the percentage of SA-b-gal–positive cells between siBRM-treated and siControl-treated cells as
+determined by Student t test (P < 0.005). G, cell-cycle profiles determined by flow cytometry. , significant differences in the fraction of cells in G1-phase
+between siBRM-treated and siControl-treated cells, as determined by Student t test (P < 0.005).
+
+Synthetic-Lethality Therapy for BRG1-Deficient Cancer
+
+www.aacrjournals.org Cancer Res; 73(17) September 1, 2013 5515
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+In our cohort, all the BRG1-deficient tumors were negative
+for EGFR mutations and ALK fusions, both of which can be
+targeted by existing molecular therapies using tyrosine
+kinase inhibitors (1). This negative association of BRG1-
+inactivating mutations with therapeutic target mutations
+is consistent with two recent genome-wide mutation analyses
+of lung adenocarcinoma (Supplementary Table S4;
+refs. 32, 33). Indeed, BRG1-deficient NSCLC cell lines are
+resistant to tyrosine kinase inhibitors that target EGFR
+(e.g., A549, H1819, and H1299; ref. 39) or ALK (A549; ref. 40).
+Furthermore, those BRG1-deficient tumors were also negative
+for FGFR1 amplifications and DDR2 mutations, potential
+therapeutic targets recently identified in squamous cell lung
+carcinoma (5, 6). These findings highlight the importance of
+establishing a treatment strategy for targeting BRG1-deficient
+tumors. BRG1 and BRM proteins have ATPase activities
+and function as helicases to alter chromatin structure.
+ATPases are a druggable target (41); therefore, BRM-targeting
+therapy using specific inhibitors is a promising treatment
+of lung cancers that are not amenable to existing
+molecularly targeted therapies (1). To the best of our knowledge,
+specific pharmacologic inhibitors against ATPases
+involved in chromatin remodeling have not been developed;
+therefore, we are currently seeking to identify substrates that
+inhibit BRM-ATPase activity.
+The results of this study show that BRG1 and BRM have a
+synthetic-lethal relationship. BRG1 functions as a key enzyme
+in SWI/SNF chromatin remodeling during transcription, as
+
+well as in DNA double-strand break repair (7, 8, 31). BRG1 is
+involved in the expression of genes that regulate cell growth
+and stem-cell properties. However, a preliminary study indicated
+that the expression of representative genes, including
+those encoding E2F1 and cyclin D1, does not differ significantly
+between BRG1-proficient and -deficient cells depleted of BRM.
+Thus, the mechanisms underlying the synthetic-lethal relationship
+between BRG1 and BRM remain unknown. Of concern
+is the subset of NSCLC cases (5.8%; Fig. 1B) that lack both BRG1
+and BRM expression (14, 22, 42). BRM deficiency is likely to be
+due to epigenetic alterations as previously reported (43). The
+existence of these cases suggests that a portion of BRG1-
+deficient tumors will not respond well to therapies that target
+BRM, as suggested by our experiment using cancer cell lines
+(Fig. 2B). Such tumors may have acquired the ability to
+maintain cell growth through complementation by chromatin-remodeling
+proteins other than BRG1 and BRM, although
+our preliminary analysis did not reveal complementation by
+overexpression of other SWI/SNF and chromatin-remodeling
+proteins (Supplementary Fig. S4B). Studies of the molecular
+mechanisms underlying the maintenance of cell growth in the
+absence of both BRG1 and BRM would be valuable, because it is
+possible that BRG1-deficient cells could acquire resistance to
+BRM-targeted therapy.
+The pathogenic significance of inactivating somatic mutations
+in genes encoding the subunits of the SWI/SNF chromatin-remodeling
+complex in human cancers is largely
+unknown (7). This study sheds light on this issue by showing
+
+0
+
+500
+
+1,000
+
+1,500
+
+0 10 20 30
+
+Dox–
+Dox+
+
+B H1299-shBRM
+
+0
+1,000
+2,000
+3,000
+4,000
+
+0 10 20 30
+
+Dox–
+Dox+
+H1299-shControl
+
+(day)
+
+(day)
+
+Tumor volume (mm3) Tumor volume (mm3)
+A
+
+0 7 14 21 28
+
+Dox–
+Dox+
+
+Cell number (log10)
+
+Cell number (log10)
+
+H1299-shBRM
+
+5
+7
+11
+13
+
+9
+15
+
+0 7 14 21 28
+
+Dox–
+Dox+
+HeLa-shBRM
+
+(day)
+5
+7
+11
+13
+
+9
+15
+
+(day)
+
+᧦
+
+Figure 5. Suppression of BRG1-
+deficient cancer cell growth by BRM
+knockdown both in vitro and in vivo.
+A, long-term proliferation of H1299
+and HeLa cells after BRM
+knockdown. H1299-shBRM and
+HeLa-shBRM cells were cultured in
+the presence or absence of
+doxycycline (Dox) for 4 weeks. The
+cells were trypsinized and counted,
+and 1 105 cells were reseeded into
+60-mm dishes and given fresh
+medium every 3 days. Accumulated
+cell numbers were calculated on the
+basis of the cell number at each
+passage. B, growth of H1299
+xenografts in mice. H1299-shBRM
+and H1299-shControl cells were
+implanted subcutaneously into
+BALB/c-nu/nu mice. After 3 weeks
+(when the tumors reached
+100 mm3
+), the mice were randomly
+divided into two groups and either
+fed a diet containing doxycycline
+(Doxþ) or a control diet (Dox).Tumors
+were measured twice per
+week. Data represent the mean
+SD. , significant differences in the
+tumor volume between the
+doxycycline-fed mice and the
+controls, as determined by
+Student t test (P < 0.05).
+
+Oike et al.
+
+5516 Cancer Res; 73(17) September 1, 2013 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/73/17/5508/2688564/5508.pdf by guest on 14 August 2024
+that BRG1-deficient tumors are often poorly differentiated.
+A previous report showed that BRG1 promotes cell differentiation,
+that is, the inactivation of BRG1 enables cancer cells to
+maintain undifferentiated gene-expression programs (31).
+Therefore, loss of BRG1 function may be responsible for tumor
+dedifferentiation. Our results also indicated that BRG1 deficiency
+is prevalent in tumors of males and smokers (Table 1),
+consistent with recent genome-wide mutational studies (Supplementary
+Table S5; refs. 40, 41). Therefore, BRG1 deficiency
+may play a role in lung carcinogenesis preferentially in male
+and/or smokers, although the underlying mechanisms remain
+unclear.
+Taken together, the results of this study identify BRM as a
+candidate target molecule for synthetic-lethal therapy for
+BRG1-deficient lung cancers. Immunohistochemical analyses
+revealed that approximately 10% of NSCLCs are BRG1-
+deficient and BRM-proficient, and are therefore predicted
+to respond to therapies that target BRM. Inactivation of
+BRG1 also occurs in other cancers, including pancreatic,
+skin, and brain cancers (44). BRG1 was recently identified as
+a gene that is frequently mutated in medulloblastomas
+(subgroup 3; ref. 45), which lacks known driver gene mutations
+(19, 20). Thus, it is possible that therapies targeting
+BRM will be suitable for treating a variety of cancers.
+Inactivating mutations in chromatin-remodeling genes other
+than BRG1, such as PBRM1/BAF180, ARID1A/BAF250A,
+and ARID2/BAF200, have been identified in several common
+cancers. Synthetic lethality–based therapeutic strategies
+targeting tumors harboring these mutations warrant further
+study.
+
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+
+Authors' Contributions
+Conception and design: T. Oike, H. Ogiwara, S.-I. Watanabe, T. Nakano, J.
+Yokota, T. Kohno
+Development of methodology: T. Oike, H. Ogiwara, O. Ando, S.-I. Watanabe
+Acquisition of data (provided animals, acquired and managed patients,
+provided facilities, etc.): T. Oike, H. Ogiwara, Y. Tominaga, K. Ito, O. Ando, K.
+Tsuta, T. Mizukami, Y. Shimada, H. Isomura, M. Komachi, K. Furuta, S.-I.
+Watanabe
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics,
+computational analysis): T. Oike, H. Ogiwara, O. Ando, M. Komachi, S.-I.
+Watanabe
+Writing, review, and/or revision of the manuscript: T. Oike, H. Ogiwara, O.
+Ando, S.-I. Watanabe, T. Nakano, T. Kohno
+Administrative, technical, or material support (i.e., reporting or organizing
+data, constructing databases): H. Ogiwara, O. Ando, S.-I. Watanabe, J.
+Yokota
+Study supervision: H. Ogiwara, S.-I. Watanabe, T. Nakano, J.Yokota
+

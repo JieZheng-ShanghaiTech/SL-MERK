@@ -1,0 +1,651 @@
+Abstract
+Targeting DNA repair with poly(ADP-ribose) polymerase (PARP) inhibitors has shown a broad range of anti-tumor activity in patients with advanced malignancies with and without BRCA deficiency. It remains unclear what role p53 plays in response to PARP inhibition in BRCA-proficient cancer cells treated with DNA damaging agents. Using gene expression microarray analysis, we find that DNA damage response (DDR) pathways elicited by veliparib (ABT-888), a PARP inhibitor, plus topotecan comprise the G
+1
+/S checkpoint, ATM and p53 signaling pathways in p53-wild-type cancer cell lines and BRCA1, BRCA2 and ATR pathway in p53-mutant lines. In contrast, topotecan alone induces the G
+1
+/S checkpoint pathway in p53 wild-type lines and not in p53-mutant cells. These responses are coupled with G
+2
+/G
+1
+checkpoint effectors p21
+CDKN1A
+upregulation, and Chk1 and Chk2 activation. The drug combination enhances G
+2
+cell cycle arrest, apoptosis and a marked increase in cell death relative to topotecan alone in p53-wild-type and p53-mutant or -null cells. We also show that the checkpoint kinase inhibitor UCN-01 abolishes the G
+2
+arrest induced by the veliparib and topotecan combination and further increases cell death in both p53-wild-type and -mutant cells. Collectively, PARP inhibition by veliparib enhances DDR and cell death in
+BRCA
+-proficient cancer cells in a p53-dependent and -independent fashion. Abrogating the cell cycle arrest induced by PARP inhibition plus chemotherapeutics may be a strategy in the treatment of BRCA-proficient cancer.
+Key words:
+DNA damaging agent, G
+2
+arrest, microarray, PARP inhibition, p53, topotecan, veliparib (ABT-888)Introduction
+Poly(ADP-ribose) polymerases (PARPs) are nuclear proteins that bind to DNA strand breaks.
+1
+,
+2
+Upon binding, the activated PARPs cleave NAD
++
+into nicotinamide and ADP-ribose that is polymerized onto nuclear proteins including PARP-1 itself (auto-ADP-ribosylation), DNA-binding proteins and histones.
+3
+Poly(ADP-ribosyl)ation causes chromatin relaxation and functions as a scaffold that facilitates the recruitment and assembly of the DNA repair proteins.
+4
+Inhibition of PARP activity prevents the recruitment of XRCC1 and the repair of DNA single strand breaks (SSBs) by base excision repair.
+5
+The accumulation of SSBs produces DNA double-strand breaks (DSBs) during DNA replication.
+6
+,
+7
+In addition, PARP-1 is involved in the repair of DSBs through non-homologous end joining.
+8
+,
+9
+The loss of function of BRCA1 or BRCA2, which is implicated in DSB repair through homologous recombination (HR),
+10
+sensitizes cells to PARP inhibition through a mechanism of synthetic lethality.
+11
+–
+13
+Recent clinical studies have shown that clinical activity of PARP inhibitors in combination with chemotherapy is not limited to the tumors with BRCA deficiency.
+14
+–
+16
+The cellular responses to DNA damage include DNA repair, transcriptional alteration, DNA damage checkpoint activation and apoptosis.
+17
+p53 is a nuclear transcription factor encoded by the
+Tp53
+gene, which is mutated in more than 50% of human tumors.
+18
+p53 plays important roles in the cellular responses to DNA damage, regulation of cell cycle and genomic stability.
+19
+p53 also participates in the processes of base excision repair and nucleotide excision repair,
+20
+and wild-type p53 downregulates Rad51 expression in response to DSBs.
+21
+It also controls the entry of cells into mitosis when they enter G
+2
+with damaged DNA.
+22
+Previous studies have focused on the roles of PARPs in SSB or DSB repairs, and recently on DNA repair defects such as BRCA deficiency as well as loss of function of other proteins with roles in DSB repair.
+13
+What role p53 may play in response to PARP inhibition in BRCA-proficient cancer cells treated with DNA damaging agents remains unclear. Veliparib (ABT-888) is a potent small molecule PARP inhibitor, which was developed by the Abbott Laboratories and is in clinical trials.
+23
+–
+26
+In the present study, we use cDNA microarray analyses to identify and delineate the molecular pathways implicated in the responses to veliparib plus topotecan compared with topotecan alone in cells with various p53 status. We find that PARP inhibition markedly enhances the cellular DNA damage responses by alteration of multiple DNA damage response pathways and the death of cancer cells in a p53-dependent and -independent manner. The alteration and activation of crucial cell cycle-related genes across the identified pathways in association with DNA damage responses have been validated and are discussed.Results
+PARP inhibition enhances DNA damage responses via multiple damage response pathways in p53-dependent and -independent fashion.
+To identify transcripts significantly changed by treatments in the pair of HCT-116 p53
++/+
+and p53
+−/−
+cells, we compared gene expression profiles between treatments with topotecan alone and veliparib plus topotecan, and vehicle control by Affymetrix MAS 5.0 Statistical Comparison Analysis. p21
+CDKN1A
+and BTG2 transcripts relevant to DNA damage response were increased by topotecan in p53
++/+
+cells (
+Table S1A
+). More transcripts, in contrast, were significantly upregulated by the combination treatment. Those included PA26, DDB2, Bax, FasR and MDM2 in addition to p21
+CDKN1A
+and BTG2 (
+Table S1B
+). In p53
+−/−
+cells, no changes were detected in the context of DNA damage response by topotecan alone (
+Table S1C
+), whereas veliparib plus topotecan treatment induced RAD51, a critical DSB repair gene, and CDC2 as well as CDC6 (
+Table S1D
+).
+27
+Therefore, the veliparib and topotecan combination induces more significant gene expression alterations relevant to DNA damage response than topotecan alone, and those alterations are both dependent and independent of p53.
+The functional class scoring analysis as described in the Materials and Methods was performed to identify global DNA damage responses to veliparib plus topotecan or topotecan alone vs. vehicle control in cancer cells with endogenous wild-type and mutant p53. In p53-wild-type cells, G
+1
+/S checkpoint pathway alterations were detected following exposure to topotecan alone (
+Tables 1A
+and
+S2A
+). ELAC1, p21
+CDKN1A
+, ATR and CDK2 were the top altered transcripts in this pathway. In response to veliparib plus topotecan, changes included the ATM and p53 signaling pathways plus the G
+1
+/S checkpoint pathway (
+Tables 1B–D
+and
+S2B
+). The top differentially expressed genes included p21
+CDKN1A
+, SMAD3, CDK2, CCNA1, MDM2 and RBBP8. No pathway effect relevant to DNA damage response was observed in p53-mutant lines when exposed to topotecan alone (
+Table S2C
+). The BRCA1, BRCA2 and ATR pathway, by contrast, was induced by the two drug combination, in which RAD50, ATR, GAS2 and FANCF were differentially expressed (
+Tables 2
+and
+S2D
+).
+Table 1
+The differentially expressed genes in the cell cycle
+Probe set
+Description
+Gene symbol
+Parametric p value
+Geometric mean of intensities (ABT
+*
++ TPT
+†
+/Vehicle)
+A
+1565702_at
+ElaC homolog 1
+ELAC1
+0.006
+6.427
+202284_s_at
+cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+CDKN1A
+0.041
+2.380
+233288_at
+ataxia telangiectasia and Rad3 related
+ATR
+0.046
+2.145
+211803_at
+cyclin-dependent kinase 2///β-carotene dioxygenase 2
+CDK2///BCDO2
+0.073
+0.311
+203084_at
+transforming growth factor, β1
+TGFB1
+0.108
+0.320
+205899_at
+cyclin A1
+CCNA1
+0.111
+2.031
+205397_x_at
+SMAD family member 3
+SMAD3
+0.215
+2.732
+205659_at
+histone deacetylase 9
+HDAC9
+0.354
+1.310
+207039_at
+cyclin-dependent kinase inhibitor 2A (p16, inhibits CDK4)
+CDKN2A
+0.354
+0.579
+205675_at
+microsomal triglyceride transfer protein
+MTTP
+0.446
+0.424
+209644_x_at
+cyclin-dependent kinase inhibitor 2A (p16, inhibits CDK4)
+CDKN2A
+0.526
+0.807
+242939_at
+transcription factor Dp-1
+TFDP1
+0.859
+1.048
+B
+202284_s_at
+cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+CDKN1A
+0.028
+3.027
+205397_x_at
+SMAD family member 3
+SMAD3
+0.061
+2.806
+211803_at
+cyclin-dependent kinase 2///β-carotene dioxygenase 2
+CDK2///BCDO2
+0.084
+0.111
+205899_at
+cyclin A1
+CCNA1
+0.099
+1.946
+205675_at
+microsomal triglyceride transfer protein
+MTTP
+0.108
+0.360
+207039_at
+cyclin-dependent kinase inhibitor 2A (p16)
+CDKN2A
+0.207
+1.804
+209644_x_at
+cyclin-dependent kinase inhibitor 2A (p16)
+CDKN2A
+0.224
+0.434
+205659_at
+histone deacetylase 9
+HDAC9
+0.227
+0.618
+1565702_at
+ElaC homolog 1 (
+E. coli
+)
+ELAC1
+0.253
+0.528
+233288_at
+ataxia telangiectasia and Rad3 related
+ATR
+0.447
+1.811
+203084_at
+transforming growth factor, β1
+TGFB1
+0.475
+1.359
+242939_at
+transcription factor Dp-1
+TFDP1
+0.705
+0.878
+C
+237891_at
+Mdm2, transformed 3T3 cell double minute 2, p53 binding protein
+MDM2
+0.002
+12.546
+202284_s_at
+cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+CDKN1A
+0.028
+3.027
+1556491_at
+Retinoblastoma binding protein 8
+RBBP8
+0.030
+0.160
+211832_s_at
+Mdm2, transformed 3T3 cell double minute 2, p53 binding protein
+MDM2
+0.057
+2.154
+205675_at
+microsomal triglyceride transfer protein
+MTTP
+0.108
+0.36
+230405_at
+RAD50 homolog
+RAD50
+0.402
+1.351
+D
+237891_at
+Mdm2, transformed 3T3 cell double minute 2, p53 binding protein
+MDM2
+0.002
+12.54
+202284_s_at
+cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+CDKN1A
+0.028
+3.027
+211832_s_at
+Mdm2, transformed 3T3 cell double minute 2, p53 binding protein
+MDM2
+0.057
+2.154
+211803_at
+cyclin-dependent kinase 2///β-carotene dioxygenase 2
+CDK2///BCDO2
+0.084
+0.111
+203684_s_at
+B-cell CLL/lymphoma 2
+BCL2
+0.106
+0.568
+1555186_at
+cyclin-dependent kinase inhibitor 1A (p21, Cip1)
+CDKN1A
+0.16
+0.614
+203685_at
+B-cell CLL/lymphoma 2
+BCL2
+0.201
+0.667
+201148_s_at
+TIMP metallopeptidase inhibitor 3
+TIMP3
+0.366
+0.542
+201147_s_at
+TIMP metallopeptidase inhibitor 3
+TIMP3
+0.438
+1.343
+244035_at
+B-cell CLL/lymphoma 2
+BCL2
+0.59
+0.856
+Open in a separate window
+G
+1
+/S check point pathway by topotecan alone (A) and veliparib plus topotecan (B); and those in ATM signaling pathway (C) and p53 signaling pathway (D) by veliparib plus topotecan in p53-wild-type lines.
+*
+ABT, veliparib;
+†
+TPT, topotecan.
+Table 2
+The differentially expressed genes in role of BRCA1, BRCA2 and ATR in cancer susceptibility pathway
+*
+by veliparib plus topotecan in p53-mutant lines
+Probe set
+Description
+Gene symbol
+Parametric p value
+Geometric mean of intensities (ABT+TPT
+†
+/Vehicle)
+234535_at
+RAD50 homolog (
+S. cerevisiae
+)
+RAD50
+0.079
+3.922
+205848_at
+Growth arrest-specific 2
+GAS2
+0.116
+0.515
+233288_at
+Ataxia telangiectasia and Rad3 related
+ATR
+0.245
+0.352
+218689_at
+Fanconi anemia, complementation group F
+FANCF
+0.245
+1.916
+Open in a separate window
+*
+The title of this pathway can be interpreted as “misnomer” in this study context.
+†
+ABT, veliparib; TPT, topotecan.
+PARP inhibition enhances cell cycle arrest in G
+2
+induced by topotecan in p53-wild-type and p53-mutant or -null cells.
+To investigate whether the cell cycle arrest is one of the major cellular responses to treatments, we performed the cell cycle analysis by flow cytometry. Cells accumulated in G
+2
+phase were increased in response to topotecan, and this response was further augmented in all cell lines by concurrent treatment with veliparib and topotecan (
+Fig. 1A
+). Of note, veliparib alone at 1 µM had little effect on the cell cycle. The fact that cells were predominantly arrested in G
+2
+phase rather than M phase was substantiated by a depletion or a near depletion in phosphorylated histone 3 (pH3), a mitosis marker (
+Fig. 1B
+).
+Open in a separate window
+Figure 1
+Treatment effect on cell cycle and key cell cycle checkpoint proteins and kinases. (A) Cell cycle effects by treatments examined by flow cytometry. Cells were exposed to 1 µM veliparib, 10 nM topotecan alone or in combination for 24 h. Numbers above G
+1
+, S and G
+2
+peaks indicate the percentage of cells in each phase of the cell cycle. Shown are the representative data of three independent experiments. (B) Protein gel blotting analyses of p21
+CDKN1A
+expression, activation of Chk1 and Chk2, and histone H3 phosphorylation (pH 3) after treatments for 24 h. Shown are the representative results of at least two independent experiments. ABT, veliparib; TPT, topotecan.
+Next, we examined cell cycle checkpoint effectors implicated in DNA damage response such as p21
+CDKN1A
+, and phosphorylation of the checkpoint kinase 1 (Chk1) at Ser345 and of checkpoint kinase 2 (Chk2) at Thr68. Chk1 and Chk2 are critical in the molecular pathways of G
+1
+/S checkpoint, p53 and ATM signaling as well as in the BRCA1, BRCA2 and ATR pathway. The veliparib and topotecan combination enhanced expression of p21
+CDKN1A
+protein in p53-wild-type HCT-116 p53
++/+
+and MCF-7 cells (
+Fig. 1B
+). The combination also enhanced activation of Chk1 in HCT116 p53
++/+
+, MCF-7 and p53
+−/−
+cells, and Chk2 in HT-29, MDA-231 and p53
+−/−
+cells (
+Fig. 1B
+). The key G
+2
+or G
+1
+phase checkpoint protein p21
+CDKN1A
+as a member of p53 and ATM signaling pathways is increased by topotecan alone and enhanced by the veliparib and topotecan combination in cells with wild-type p53. The activation of Chk1 and/or Chk2 in the ATM signaling and BRCA1, BRCA2 and ATR pathways is enhanced by veliparib in cells with wild-type, mutant or null p53 gene.
+PARP inhibition augments cancer cell apoptosis and death induced by topotecan in p53-wild-type and p53-mutant or -null cells.
+We also sought to examine whether this combination approach leads to the enhancement of subsequent cancer cell death and apoptosis. PARP cleavage, which is indicative of cells undergoing apoptosis, was detectable 96 h after exposure to topotecan alone and to the two drug combination (
+Fig. 2A
+). PARP inhibition markedly enhanced topotecan-induced cancer cell death (measured as the reduced clonogenic cell survival) in p53-wild-type, as well as p53-null or -mutant cancer cells (all p ≤ 0.05, unpaired two-sided t-test;
+Fig. 2B
+). Noticeably, there were comparable enhancement of cell death by veliparib in HCT116 p53
++/+
+and p53
+−/−
+cells (45.8% vs. 43.0%;
+Fig. 2B
+). In addition, varying levels of enhancement of cell death were observed in p53-mutant MDA-231 and HT-29 cells. In all cases, G
+2
+arrest by veliparib, topotecan and veliparib plus topotecan was associated with the death of cancer cells (Spearman's correlation coefficient = 0.70, p = 0.004;
+Fig. 2C
+). These data indicate that veliparib augments the death of cancer cells induced by topotecan. G
+2
+arrest, despite not being causal for the cell death, reflects the collective DNA damage effects induced by the drug treatments. p53 deficiency alone does not appear to specifically confer more sensitivity or resistance to treatment with a PARP inhibitor plus topotecan or with topotecan alone (
+Fig. 2B
+).
+Open in a separate window
+Figure 2
+Enhancing effects of veliparib on apoptosis and cell death induced by topotecan. (A) Cleaved PARP detected by protein gel blotting 96 h after treatments. (B) Relative % changes in cell death in response to veliparib (gray bar), topotecan alone (white bar) or in combination (black bar) assessed by clonogenic assays. Shown are the representative data of two independent experiments. (C) Relationship between the cell death and G
+2
+arrest (ratio of drug-treated/vehicle-treated) in response to veliparib, topotecan or in combination in HCT-116 p53
++/+
+(dot), HT-29 (diamond), MCF-7 (square), MDA-MB-231 (triangle), and p53
+−/−
+(star). ABT, veliparib; cl, cleaved; CC, correlation coefficient; TPT, topotecan.
+UCN-01 abrogates G
+2
+arrest induced by veliparib plus topotecan in p53-wild-type and p53-mutant cells.
+UCN-01, a cell cycle checkpoint kinase inhibitor, has been shown to abrogate the cell cycle checkpoints induced by DNA damaging drugs.
+28
+,
+29
+To study whether UCN-01 abolishes the cell cycle G
+2
+arrest induced by drug treatments and further enhances cell death, we performed cell cycle analysis in cells treated with veliparib plus topotecan in the presence and absence of UCN-01. UCN-01 at low dose (100 nM) nearly abrogated G
+2
+arrest induced by veliparib plus topotecan in p53-wild-type HCT-116 and p53-mutant HT-29 cells relative to the cells treated without UCN-01 (
+Fig. 3A
+). Importantly, UCN-01 further increased cell death (
+Fig. 3B
+). Together, these results show that UCN-01 abolishes the cell cycle arrest induced by PARP inhibition plus topotecan and further increases cell death in both p53-wild-type and -mutant cells.
+Open in a separate window
+Figure 3
+Effect of UCN-01 on the cell cycle distribution and cell death in cells treated with veliparib plus topotecan. After 24 h exposure to veliparib plus topotecan, the cultures were washed, and UCN-01 (100 nM) or vehicle was added for an additional 18 h. (A) Cell cycle effects of veliparib in combination with topotecan in the presence and absence of UCN-01. The numbers above G
+1
+and G
+2
+peaks indicate the percentage of cells in each phase of the cell cycle. (B) Percent change, relative to vehicle treatment without UCN-01, of cell death by veliparib plus topotecan without UCN-01 (gray bar), and with UCN-01(black bar) assessed by clonogenic assays. Shown are the representative data of two independent experiments. ABT, ABT-888; TPT, topotecan.Discussion
+Our findings demonstrate that PARP inhibition by the small molecular PARP inhibitor veliparib enhances the effects of a DNA damaging agent in BRCA-proficient cancer cells. In p53
++/+
+HCT116 cells, a set of p53 regulated gene transcripts such as p21
+CDKN1A
+, BTG2, PA26, DDB2, Bax, FasR and MDM2 were induced by veliparib plus topotecan, relative to p21
+CDKN1A
+and BTG2 by topotecan alone (
+Table S1B
+vs.
+S1A
+).
+22
+,
+30
+–
+32
+These are genes implicated in the regulation of cell cycle, DNA damage responses and apoptosis. In contrast, expression of RAD51 and CDC2 as well as CDC6 was selectively and significantly increased by the combination treatment in p53
+−/−
+cells. Increased expression of Rad51 and formation of Rad51 foci after DNA damage has been observed in HCT116 p53
+−/−
+cells compared with HCT116 p53
++/+
+cells.
+21
+Wild-type p53 may repress Rad51 transcription by binding to the p53 response element in the Rad51 promoter and inhibit Rad51 foci formation in response to DSBs. CDC2 and CDC6 are important in the cell cycle checkpoints, which are utilized by p53
+−/−
+cells to increase DNA damage responses (
+Table S1D
+). Our gene expression microarray results reveal that cellular DNA damage responses to veliparib plus topotecan tend to be centered on the genes regulated by p53 in p53
++/+
+cells, whereas the response primarily involves the genes related to the DNA repair and cell cycle in p53
+−/−
+cells. Although the set of genes in response to DNA damage are substantially different, similar levels of enhancement of cell death were observed in the pair of HCT116 p53
++/+
+and p53
+−/−
+cells (
+Fig. 2B
+). p53 status alone does not appear to play a critical role in the enhanced cell death by the PARP inhibitor in combination with topotecan. In addition, more gene expression alterations relevant to DNA damage response are induced by veliparib in combination with topotecan than topotecan alone.
+The combination treatment also widens the cellular DNA damage responses in cancer cells with endogenous wild-type as well as mutant p53 gene. Veliparib plus topotecan elicits p53, ATM signaling and G
+1
+/S checkpoint pathways relative to the latter pathway by topotecan alone (
+Table S2A
+and
+S2B
+). The three pathways comprise an array of highly coordinated genes with interrelated functions on the cell cycle checkpoints, DNA damage response signaling, DNA repair and apoptosis. In p53-mutant cells, the BRCA1, BRCA2 and ATR pathway is induced by the drug combination but not by topotecan alone. This pathway consists of genes with functions related primarily to the DNA repair and DNA damage response signaling. For instance, RAD50 is a critical component of the MRE11-RAD50-NBS1 (MRN) complex, which is involved in sensing and localizing to the DSB sites, leading to the activation of DNA damage response.
+13
+Moreover, PARP inhibition augments expression or activation levels of several critical genes related to DNA damage response and cell cycle checkpoint (e.g., p21, Chk1 and/or Chk2). In essence, more genes and pathways responded to veliparib plus topotecan compared with topotecan alone in an interrelated DNA damage response network that is both dependent and independent of p53 (
+Tables S2A–D
+,
+​
+,1
+1
+and
+​
+and2
+2
+). As a result of the increase in DNA damage responses to the combination treatment, cell death is substantially enhanced in both p53-wildtype and p53-mutant or -null cells (
+Fig. 2B
+). Additionally, the two-drug combination elicits other molecular pathways related to apoptosis and stress response such as Fas signaling and TNF/stress related signaling as well as stress induction of HSP regulation in p53-wild-type cells (
+Table S2B
+).
+Subsequently, we focused on validating the critical genes of the cell cycle checkpoints in the identified molecular pathways. G
+2
+arrest in cancer cells with wild-type p53 gene was associated with the upregulation of p21
+CDKN1A
+, a crucial effector of the p53 signaling pathway as well as the activation of Chk1 and/or Chk2.
+28
+,
+33
+,
+34
+The G
+2
+and/or S arrest(s) in those cells with mutant or deficient p53 gene were primarily associated with the activation of Chk1 and/or Chk2. The two cell cycle checkpoint kinases are members of the ATM signaling and BRCA1, BRCA2 and ATR pathways (
+Table S1B
+and
+S1D
+). Our results and published data suggest that p53-regulated expression of p21
+CDKN1A
+and activation of Chk1/or Chk2 are associated with G
+2
+arrest in p53-wild-type cells.
+17
+–
+19
+Chk1 and/or Chk2 are largely associated with G
+2
+or S arrest in p53-mutant or -null cells.
+35
+Importantly, we demonstrate that the G
+2
+cell cycle arrest, as a collective effect of DNA damage and DNA damage response to veliparib, topotecan and veliparib plus topotecan, is associated with the death of cancer cells. The G
+2
+arrest allows the cells to repair the damaged DNA as a protective measure for cancer cells as well as for normal human fibroblasts and epithelial cells,
+36
+and, therefore, G
+2
+arrest limits the treatment efficacy of DNA damaging drugs and ionizing radiation.
+28
+,
+37
+UCN-01 at low dose (100 nM) nearly abrogated G
+2
+arrest induced by veliparib plus topotecan in HCT-116 p53
++/+
+and p53-mutant HT-29 cells, which led to a further increase in cell death (
+Fig. 3B
+). Thus, abrogation of the cell cycle arrest, which is a conserved protective means of cells, further sensitizes the cancer cells to the veliparib and topotecan combination treatment.
+In summary, our findings using a gene expression profiling approach delineate the cellular responses to the combination of a PARP inhibitor and a DNA damaging agent in p53-proficient and -deficient, and BRCA-proficient cancer cells. The results increase our understanding of how PARP inhibition augments the efficacy of DNA damaging agents. They may have implications for the design of treatment strategies by pharmacological PARP inhibition using small molecule PARP inhibitors in combination with additional agents that specifically target the key members of cell cycle checkpoints in the treatment of BRCA-proficient cancer.Materials and Methods
+Cells, drugs and drug treatment.
+Veliparib and topotecan were obtained from the Developmental Therapeutics Program, Division of Cancer Treatment and Diagnosis, National Cancer Institute. Veliparib was dissolved in DMSO and reconstituted to 10 mM with H
+2
+O; aliquots of the drug were stored frozen at −20°C. Topotecan at 1 mM in H
+2
+O was stored at −20°C until use. UCN-01 (7-hydroxystaurosporine) was purchased from Calbiochem; aliquots at 1 mM in DMSO were stored at −20°C until use. p53-wild-type human HCT-116 (p53
++/+
+; BRCA2-mutant but HR proficient) colon carcinoma cells
+38
+and its p53-null (p53
+−/−
+) isogenic cells were kindly provided by Dr. Bert Vogelstein at Johns Hopkins Sydney Kimmel Comprehensive Cancer Center.
+22
+Breast cancer cell lines MCF-7 (p53-wild type and BRCA-wild type) and MDA-MB-231 (MDA-231; p53mutant and BRCA-wild type) and colorectal cancer cell line HT-29 (p53-mutant and BRCA-wild type) were obtained from ATCC.
+39
+Exponentially growing cells in 10% fetal bovine serum RPMI at 60–70% confluence were treated with 10 nM topotecan alone, 1 µM veliparib alone, or in combination for 24 h. The treated cells were subjected to gene expression microarray, protein gel blotting, cell survival or cell cycle analysis.
+RNA extraction, microarray hybridization and analysis.
+Total RNA extraction and cRNA synthesis, microarray hybridization have been described in detail previously in reference
+40
+. All data were uploaded into the microarray statistical package BRB-ArrayTools version 3.6.0 for filtering and statistical analysis (
+http://linus.nci.nih.gov
+). All analyses were performed on data from log
+2
+-transformed median-normalized expression values. To perform analysis, the numbers of genes were reduced by filtering out genes with less than 50% of expression data and those with less than a 2.0-fold change in either direction from the gene's median value. A set of 8,905 genes remaining representing 171 BioCarta pathways was used for further data analyses.
+Pathways that had more genes differentially expressed between topotecan and vehicle treatment, and between veliparib plus topotecan and vehicle treatment were identified by paired t-test in p53-wild-type (MCF-7 and HCT-116) and mutant p53 lines (MDA-MB-231 and HT-29), respectively. These were performed using a functional class scoring analysis as described previously in BRB-ArrayTools.
+40
+–
+42
+Functional class scoring is a more powerful method of identifying differentially expressed gene classes than the more common over-representation analysis or annotation of gene lists based on individually analyzed genes.
+40
+,
+43
+The pathways differentially expressed between the differences in phenotypic classes by treatments with a p value less than 0.05 for LS or KS statistic were reported.
+To identify significantly changed transcripts in the pair of HCT-116 p53
++/+
+and p53
+−/−
+, each probe set on the drug-treated array (11 probes per probe-set) was compared with the corresponding vehicle-treated one using Wilcoxon's signed rank test. It was defined as statistically significant if p < 0.003 for increase and p > 0.997 for decrease in expression by Affymetrix MAS 5.0 Statistical Comparison Analysis in GCOS.
+40
+Protein gel blots.
+Equal numbers of cells were lysed in Laemmli sample buffer and subjected to electrophoresis.
+44
+Nitrocellulose filters were probed with antibodies to p21 in 1:200 dilution (clone DO7, Santa Cruz Inc.), to phospho-Chk1 (Ser345), phospho-Chk2 (Thr68), phosphorylated histone H3 and cleaved PARP in 1:1,000 dilutions (Cell Signaling Technology), respectively. β-actin was probed as the protein loading control (antibody dilution 1:5,000; Sigma). Reactive proteins were viewed using enhanced chemiluminescence (Pierce Chemical Co.).
+Cell cycle analysis.
+Cell cycle analyses were performed as described previously in reference
+45
+. Briefly, after harvesting and fixation in 70% ethanol, the cells were treated with RNase (5 µg/ml) and stained with propidium iodide (50 µg/ml). Approximately 20,000 stained cells were analyzed for DNA content by fluorescence-activated cell sorting (FACS) in a FACScan (SOBR model, Becton Dickinson Instrument). The cells in G
+1
+, S or G
+2
+/M fraction of the cell cycle were quantified with CellQuest (Becton Dickinson).
+Clonogenic cell survival assay.
+After 24 h of drug treatment as indicated, cells were washed and plated into 6-well plates (each condition in triplicate) for 10 to 14 d. After fixation and staining with 0.1% crystal violet (Sigma-Aldrich), colonies consisting of >50 cells were counted. The relative death fraction of the cells was calculated as [(average colonies of drug treated - vehicletreated)/vehicle-treated] × 100.
+Statistical analysis.
+The unpaired t-test was used to evaluate the statistical differences in cell death between topotecan and combination treatment in all five lines as well as the differences in cell death between treatments with UCN-01 and without UCN-01 after veliparib plus topotecan treatment in HCT-116 and HT29 cells. The Spearman's rank correlation test was utilized to assess the association between G
+2
+fraction (ratio of drug-treated/vehicle-treated) and % death of cancer cells by veliparib, topotecan and veliparib/topotecan combination treatment in five cell lines. In all analyses, p values were two-sided.Acknowledgments
+The HCT116 p53-null isogenic cells were kindly provided by Dr. Bert Vogelstein at the Johns Hopkins Sydney Kimmel Comprehensive Cancer Center, Baltimore, MD. We thank Barbara Taylor at the Flow Cytometry Core, Center for Cancer Research, National Cancer Institute for her assistance in cell cycle analysis. This work was supported by the Division of Cancer Treatment and Diagnosis and the Center for Cancer Research, National Cancer Institute, National Institutes of Health.

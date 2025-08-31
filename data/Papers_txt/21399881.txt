@@ -1,0 +1,630 @@
+ONCOLOGY REports 25: 1195-1201, 2011
+
+Abstract. Genetically engineered mice with targeted alterations
+in clinically relevant oncogenes, tumor suppressor genes or
+DNA mismatch repair genes provide unique predictive animal
+models for human carcinogenesis, and cancer prevention/
+therapy. However, some of the genetically engineered mouse
+models lack target organ specificity for colon carcinogenesis.
+We have established, characterized and validated stable epithelial
+cell lines from ‘normal’ and ‘genetically’ predisposed
+target organs that offer innovative and mechanistic approaches,
+complementing in vivo studies on existing animal models for
+clinical breast and colon cancer. Epithelial cell lines with upregulated
+Ras or myc oncogene, mutated Apc tumor suppressor
+gene and Mlh1 DNA mismatch repair gene provide facile
+experimental systems for organ site carcinogenesis and cancer
+prevention. Altered expression of cancer specific biomarkers
+and their modulation by several synthetic pharmacological
+agents such as retinoids, selective estrogen receptor modulators,
+non-steroidal anti-inflammatory drugs and specific enzyme
+inhibitors have been reported from our laboratory. Oncogene
+expressing MMEC-Ras and MMEC-myc mammary epithelial
+cells, Apc mutant 850Min COL and 1638N COL, and DNA
+mismatch repair/Apc mutant Mlh1/1638N COL colon epithelial
+cells exhibit aberrant cell cycle progression, down-regulated
+apoptosis and enhanced carcinogenic risk in vitro and tumor
+formation in vivo. We have reported that relative to the parental
+‘normal’ non-neoplastic cells, genetically ‘altered’ pre-neoplastic
+cells exhibit enhanced sensitivity for growth arrest by multiple
+mechanistically distinct pharmacological agents. Comparative
+experiments on isogenic ‘normal’ and genetically ‘altered’ target
+cell lines facilitate cancer selective efficacy and identification
+of susceptible mechanistic pathways. Treatment of these
+genetically ‘altered’ pre-neoplastic cells with low dose combination
+of mechanistically distinct pharmacological agents as
+well as naturally occurring phytochemicals induce cytostatic
+growth arrest, alter cell cycle progression and reduce carcinogenic
+risk. The availability of validated technology for model
+development, and for mechanism based biomarker assays now
+establishes a novel platform to rapidly test carcinogenicity and
+preventive/therapeutic efficacy of novel pharmacological agents
+as well as naturally occurring phytochemicals. Thus, these data
+permit rational prioritization of efficacious lead compounds
+for preclinical testing and future clinical trials for prevention/
+therapy of breast and colon cancer.
+
+Contents
+
+1. Introduction
+2. Preclinical cell culture models for genetically predisposed
+breast and colon cancer
+3. Biomarkers for carcinogenic risk
+4. Chemopreventive test compounds
+5. Combinatorial preventive efficacy
+6. Conclusions and future directions
+
+1. Introduction
+
+Breast and colon cancer together represent prevalent cause
+of mortality in the US population. Recent estimates by the
+American Cancer Society have projected 192,370 new cases
+of breast cancer and 106,100 new cases of colon cancer in 2009
+(1). This survey has also projected 40,170 breast cancer related
+deaths and 49,920 colon cancer related deaths. The life time risk
+for breast and colon cancer is thus estimated to be 1 in 8 and 1
+in 19, respectively. These actuarial data emphasize a persistent
+need for identifying specific and sensitive biomarkers for
+carcinogenic risk, and also for safe and effective interventional
+modalities.
+Several elegant observations have provided scientifically
+robust support to the concept that gain of function mutations
+in oncogenes and loss of function mutations in the tumor
+suppressor genes represent primary predisposing genetic
+defects in breast and colon cancer (2-8). In accord, several
+genetically engineered mouse models have been developed
+and characterized to represent well established predictive
+pre-clinical animal models for clinical breast and colon cancer
+(5-8).
+
+Preclinical in vitro models from genetically engineered
+mice for breast and colon cancer (Review)
+
+Nitin Telang1
+ and Meena Katdare2
+
+1
+Palindrome Liaisons, Montvale, NJ; 2
+Skin of Color Research Institute, Hampton University, Hampton, VA, USA
+
+Received December 10, 2010; Accepted February 7, 2011
+
+DOI: 10.3892/or.2011.1215
+
+Correspondence to: Dr Nitin Telang, Cancer Prevention Research
+Program, Palindrome Liaisons, 10 Rolling Ridge Road, Suite B,
+Montvale, NJ 07645-1559, USA
+E-mail: entitytoo@cs.com
+Dr Meena Katdare, Skin of Color Research Institute, Hampton
+University, PO Box 6035, Hampton, VA 23668, USA
+E-mail: meena.katdare@hamptonu.edu
+
+Key words: genetically altered epithelial cells, cancer risk
+1196 telang and Katdare: Genetically altered breast and colon cells for cancer
+
+Conventional treatment options for breast and colon cancer
+continue to be chemo-endocrine therapy for breast and chemotherapy
+for colon. However, conventional long-term therapeutic
+interventional modalities are frequently associated with acquired
+tumor resistance and adverse systemic toxicity, compromising
+patient compliance (9-14).
+Genetically engineered mouse models have also been
+extensively used as mechanism based screens to identify
+novel preventive/therapeutic interventional modalities (15,16).
+However, the genetically engineered mouse models for familial
+adenomatous polyposis (FAP) and hereditary non-polyposis
+colon cancer (HNPCC) syndromes that express germ line
+mutations in clinically relevant tumor suppressor gene and/or
+DNA mismatch repair genes exhibit carcinogenesis predominantly
+in the small intestine, rather than in the colon (4,6-8),
+while clinical FAP and HNPCC syndromes represent high risk
+lesions for colon cancer (3,4). Thus, these in vivo approaches
+are frequently associated with conceptual and technical limitations
+related to clinical translatability of the generated data.
+Cell culture models developed from target tissue for organ
+site cancer that express clinically relevant genetic defects and
+exhibit quantifiable risk for carcinogenesis, thus represent an
+alternative approach that complements existing animal models
+for rapid mechanism based prioritization of efficacious preventive/
+therapeutic agents.
+In the progressive pathogenesis of organ site cancer of breast
+and colon, intra-epithelial neoplasia such as ductal carcinoma
+in situ (DCIS) of the breast and adenoma of the colon have been
+considered as definitive pre-invasive lesions at risk for invasive
+cancer (2-4,17).
+At the molecular level, DCIS are characterized by the
+presence or absence of hormone receptors and over expression/
+mutation of select genes such as Ras, myc, HER-2 and p53,
+and therefore, exhibit variable response to chemo-endocrine
+therapy (2,17,18). The colonic adenomas are characterized by
+germ line or somatic mutations in tumor suppressor adenomatous
+polyposis coli (APC) gene or in select DNA mismatch
+repair genes that are associated with high risk familial adenomatous
+polyposis (FAP) or hereditary non-polyposis cancer
+(HNPCC) syndromes, respectively (3,4).
+Chemoprevention of these epithelial organ site cancers of
+breast and colon, using synthetic pharmacological agents or
+
+naturally occurring compounds individually or in combination
+to inhibit, reduce or delay the multi-step carcinogenic process
+has attracted intense clinical interest. Thus, the ability of chemopreventive
+agents at low non-toxic levels to target early occurring
+carcinogenic events represents a major promise of current clinical
+preventive intervention (18,19).
+The present review summarizes the data generated from our
+experiments designed to i) develop cell culture models from
+genetically engineered mice predisposed to breast and colon
+cancer, ii) identify specific and sensitive surrogate endpoint
+biomarkers for loss of homeostatic growth control and gain of
+carcinogenic risk, and iii) validate the developed cell culture
+based approaches as rapid screens for efficacious preventive/
+therapeutic agents.
+
+2. Preclinical cell culture models for genetically predisposed
+breast and colon cancer
+
+Breast. Aberrant expression of select oncogenes such as Ras,
+myc or HER-2 has been detected in several clinical organ site
+cancers including breast cancer (2,17-19). Similarly, targeted
+expression of these individual oncogenes in genetically
+engineered mice is associated with mammary carcinogenesis
+(5,15-17), and more importantly, stable transfection of these
+oncogenes in non-tumorigenic mammary epithelial cells is
+sufficient to induce multi-step tumorigenic transformation
+(20-22). With an objective of developing a cell culture model for
+oncogene-induced mammary carcinogenesis, we established
+stable transfectants from immortalized non-tumorigenic mouse
+mammary epithelial cells (MMEC) that were transfected
+independently with EJ-Ras and c-myc oncogenes and characterized
+the resultant MMEC-Ras and MMEC-myc cell lines
+(20,21).
+
+Colon. Germ line mutations in the APC tumor suppressor gene
+represent a primary genetic defect in the FAP syndrome (3,4),
+while those in select DNA mismatch repair genes such as
+Mlh1 represent a primary genetic defect in the HNPCC
+syndrome (4). Both these syndromes are associated with genetic
+predisposition for early onset familial/hereditary colon cancer
+(15,16). Genetically engineered mice carrying Apc and/or Apc
+plus DNA mismatch gene mutations exhibit high risk for
+
+Table I. Biomarkers for aberrant proliferation and carcinogenic risk in oncogene transfected mammary epithelial cells.
+
+Cell line -------------------------------------------------------------------------------------------------------------------------------------------
+Biomarker MMEC MMEC-Ras MMEC-Myc
+
+Population doubling (h)a 24.0 16.4 18.3
+S+G2/M: subG0
+b 1.8±0.5 9.1±0.3 9.8±0.6
+Anchorage-independent
+colonyc 0.5±0.2 27.2±4.0 28.0±2.0
+Tumorigenicityd 0/10 9/10 10/10
+Tumor latency 24 weeks 3-5 weeks 3-5 weeks
+
+a
+Determined at the exponential growth phase, b
+determined by flow cytometry, c
+average number of colonies at day 14 post-seeding, d
+determined
+by mammary fat pad transplantation.
+ONCOLOGY REports 25: 1195-1201, 2011 1197
+
+intestinal cancer (6-8,15,16). In an effort to develop preclinical
+in vitro colon epithelial cell culture models for FAP and HNPCC
+syndromes, we used histopathologically normal descending
+colon (a target organ site for colon cancer) from Apc mutant
+Apc850Min/+, Apc 1638N [+/-], and Mlh1 [+/-]/1638N [+/-] mice to
+establish and characterize 850Min COL, 1638N COL and Mlh1/
+1638N COL cell lines, respectively (23-26).
+
+3. Biomarkers for carcinogenic risk
+
+Loss of homeostatic growth control and gain of carcinogenic
+risk together characterize the pre-neoplastically transformed
+cells. Population doubling time, and status of proliferative and
+apoptotic cell populations represent the end point biomarkers
+for homeostatic growth control, while anchorage-independent
+
+growth and tumorigenecity represent the end point biomarker
+for carcinogenic risk.
+
+Breast. The data generated from the experiments on mamary
+epithelial cells MMEC, MMEC-Ras and MMEC-myc are
+summarized in Table I. These data demonstrate that oncogene
+transfected cell lines exhibit 23.7-31.7% decrease in the
+population doubling time, relative to the parental MMEC cells.
+Furthermore, these transfected cells also exhibit 4.0- to
+4.4- fold increase in the ratio of proliferative (S+G2/M) versus
+apoptotic (subG0) cell population due to increased proliferation
+and decreased cellular apoptosis. These data provided evidence
+that aberrant proliferation and down-regulated apoptosis
+lead to the loss of homeostatic growth control in oncogene
+transfected mammary epithelial MMEC-Ras and MMEC-myc
+cells.
+The Ras and myc oncogene transfected cells exhibit 53.4-
+to 55.0-fold increase in the number of anchorage-independent
+(AI) colonies and greater than 90% incidence of tumors, 3-5
+weeks post-transplantation. In contrast, the parental MMEC
+cells lack anchorage-independent colony formation and
+tumorigenicity. These data are consistent with several previous
+publications (20-22) and provide evidence for gain of carcinogenic
+risk in the oncogene transfected mammary epithelial
+cells.
+
+Colon. The data generated in the cell lines C57 COL (Apc [+/+]/
+Mlh1 [+/+]), 850Min COL, 1638N COL (Apc [+/-], FAP models),
+and Mlh1 COL and Mlh1/1638N COL (Mlh1
+[+/-], Apc [+/-],
+HNPCC model) are summarized in Table II. The cell culture
+models for FAP syndrome exhibit 50 to 65% decrease in the
+population doubling time and 4.2- to 12.7-fold increase in the
+S+G2/M: subG0 ratio due to aberrant proliferation and downregulated
+apoptosis. In the cell culture model for the HNPCC
+syndrome these end points exhibit 41.2% decrease and 94.7%
+increase, respectively. It was noteworthy that in contrast to the
+double mutant Mlh1/1638N COL cells, the Mlh1 COL cells
+containing only the Mlh1 mutation failed to express these
+perturbed biomarkers that are specific for the loss of homeostatic
+growth control.
+
+Table II. Biomarkers for aberrant proliferation and carcinogenic risk in mutant colon epithelial cells.
+
+Cell Line -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+C57 COL 850Min COL 1638N COL Mlh1 COL Mlh1/1638N
+Biomarker COL
+
+Population doublinga 34 16 17 29 20
+
+S+G2/M: subG0
+b 5.7±0.3 31.9±6.2 29.9±1.2 4.7±1.2 11.1±1.2
+
+Anchorage-independent
+coloniesc 0.8±0.5 18.9±2.5 17.7±2.3 0.6±0.3 13.7±1.8
+Tumorigenicityd 0/10 10/10 10/10 0/10 8/10
+Tumor latency 24 weeks 5-8 weeks 8-10 weeks 24 weeks 10-14 weeks
+
+a
+Determined at the exponential growth phase, b
+determined by flow cytometry, c
+average number of colonies at day 14 post seeding, d
+determined
+by sub-cutaneous transplantation.
+
+Table III. Selective efficacy of chemo-preventive test compounds
+in mammary and colon epithelial cells.
+
+Mammary epithelial Inhibitory concentration
+cell line (IC50 µM)a
+
+4-HPR TAM
+
+MMEC 7.9 16.7
+MMEC-Ras 2.8 6.2
+MMEC-Myc 2.5 4.7
+Colon epithelial
+cell line SUL DFMO
+C57 COL 57.5 5.8
+850Min COL 11.2 32.8
+1638N COL 16.7 38.6
+Mlh1 COL 39.3 71.2
+Mlh1/1638N COL 14.3 35.7
+
+a
+Extrapolated from cell viability at day 5 post-seeding from dose
+response of 5 log µM (0.01-100 µM) concentration range.
+1198 telang and Katdare: Genetically altered breast and colon cells for cancer
+
+The anchorage-independent colony formation representing
+the surrogate end point biomarker for carcinogenic risk
+exhibited 19.7-31.1-fold increase in the number of AI colonies
+in the FAP models and 16.1-fold increase in the HNPCC model.
+The Mlh1 COL cells did not exhibit anchorage-independent
+colony formation. The models for FAP and HNPCC syndromes
+also exhibited 80-100% incidence of tumors after a latent period
+of 8-14 weeks post-transplantation. In contrast, the normal
+C57 COL cells and Mlh1 mutant Mlh1 COL cells lacked the
+expression of the biomarker specific for carcinogenic risk. These
+data on Mlh1 COL cells suggest that mutation in DNA repair
+gene alone is not sufficient to increase the carcinogenic risk.
+These data taken together indicate that mutations in Apc
+alone or in both Apc and Mlh1 genes together represent primary
+genetic defects that are responsible for induction of aberrant
+proliferation and for predisposition for enhanced carcinogenic
+risk in the present cell culture models of FAP and HNPCC
+syndromes, respectively. In contrast, mutation in the Mlh1 gene
+alone may be insufficient to drive the carcinogenic process. It is
+noteworthy that mutations and/or other genetic defects in
+APC together with MLH1 genes have been observed in clinical
+HNPCC (3,4,15,16).
+
+4. Chemopreventive test compounds
+
+Our previous publications have reported preventive efficacy of
+several mechanistically distinct pharmacological agents and
+naturally occurring phytochemicals on developed cell culture
+model for ER-
+/PR-
+/HER-2+
+ comedo DCIS that is at risk for
+developing chemo-endocrine therapy resistant breast cancer
+(27-30), and on cell culture models for FAP syndrome (23-25)
+and HNPCC syndrome (26). These test compounds used individually
+at pharmacologically achievable dose levels, inhibit cell
+cycle progression, induce cellular apoptosis and reduce carcinogenic
+risk in all the cell culture models. It is noteworthy that
+the chemopreventive test compounds selected for present
+studies have documented evidence of efficacy both as single
+agents, as well as low dose combinations in the animal model
+systems and in clinical setting (31-36).
+
+Breast. The experiments designed to examine the growth
+inhibitory effects of selected chemo-preventive test compounds
+on the ER+
+ Ras and myc oncogene transfected mammary
+
+epithelial cell culture models are summarized in Table III.
+Clinically relevant synthetic retinoid N-(4-hydroxyphenyl)
+retinamide (4-HPR) and selective estrogen receptor modulator
+Tamoxifen (TAM) were selected as the test compounds for
+the experiments with mammary epithelial cell lines.
+The synthetic retinoid 4-HPR functions as a potent inhibitor
+of reactive oxygen species and has documented efficacy against
+breast cancers irrespective of their hormone receptor status
+(31). The selective estrogen receptor modulator TAM has
+documented selective efficacy against estrogen receptor positive
+breast cancer (9). It was noteworthy that the oncogene transfected
+cells exhibited 63-94% greater sensitivity to growth
+inhibition relative to that exhibited by the parental cells
+(Table III).
+
+Colon. Clinically relevant non-steriodal anti-inflammatory
+drug Sulindac (SUL) and selective orinithine decarboxylase
+inhibitor Difluoro methylornithine (DFMO) were selected as
+the test compounds for the experiments with the colon epithelial
+cell lines (Table III).
+The synthetic non-steroidal anti-inflammatory drug, sulindac
+(SUL), functions as a pan-selective cyclo-oxygenase inhibitor,
+
+Table IV. Modulation of cell cycle progression in oncogene
+transfected mammary epithelial cells.
+
+G1: S+G2/M ratioa
+-------------------------------------------------
+Treatment Concentration MMEC-Ras MMEC-Myc
+
+EtOH 0.01% 0.6±0.2 0.7±0.3
+4-HPR 1 µM 2.1±0.6b 5.4±0.7e
+TAM 1 µM 7.3±0.8c 7.6±0.8f
+4-HPR+TAM 1+1 µM 9.5±0.4d 12.2±0.6g
+
+a
+Determined at day 5 post-seeding. Mean ± SD, n=6 per treatment
+group. b-d, e-gp=0.001; c-d, f-gp=0.03.
+
+ A
+
+ B
+
+Figure 1. (A and B) Efficacy of 1 µM 4-HPR+1 µM TAM in combination on
+MMEC-Ras, and MMEC-Myc cells. (A) Anchorage independent colony
+formation in MMEC-Ras cells. Number of anchorage independent colonies,
+mean ± SD, n=12 per treatment group. (1) EtOH control, (2) 4-HPR, (3) TAM,
+(4) 4-HPR+TAM. Control versus combination p=0.001, single agent versus
+combination p=0.01. (B) Anchorage independent colony formation in
+MMEC-Myc cells. Number of anchorage independent colonies, mean ± SD,
+n=12 per treatment group. (1) EtOH control, (2) 4-HPR, (3) TAM, (4)
+4-HPR+TAM. Control versus combination p=0.003, single agent versus
+combination p=0.01. Note that the combination induces greater reduction in
+the number of anchorage independent colonies relative to that induced by
+these agents alone (42).
+ONCOLOGY REports 25: 1195-1201, 2011 1199
+
+and has documented efficacy in the FAP syndrome, as well as
+in sporadic colon cancer (32). The synthetic pharmacological
+agent difluoro-methylornitine (DFMO) functions as selective
+inhibitor of ornithine decarboxylase, a critical rate limiting
+enzyme in polyamine bio-synthetic pathway (33). Cyclooxygenase
+and ornithine decarboxylase enzymes are up-regulated
+in colon cancer and therefore, represent important molecular
+targets for preventive/therapeutic interventions (18,19,32,33).
+The colon epithelial cell lines exhibiting genetic defects in
+Apc alone or in Apc and Mlh1 represent relevant cell culture
+models for the FAP and HNPCC syndromes, respectively.
+These models exhibited 49.1-80.5% greater sensitivity to the
+test compounds relative to that observed in the C57 COL cell
+line. In this context, it was noteworthy that consistent with
+a lack of carcinogenic risk, Mlh1 COL cells that have
+mutation only in the Mlh1 DNA mismatch repair gene were
+substantially less sensitive to the inhibitory effects of the test
+compounds, than were the models for FAP and HNPCC
+syndromes.
+
+5. Combinatorial preventive efficacy
+
+Several recent reports have demonstrated that low-dose combinations
+of mechanistically distinct chemo-preventive agents
+exhibit enhanced efficacy relative to that produced by individual
+agents at comparative concentrations (34-36).
+
+Breast. To examine the concept of combinatorial preventive
+efficacy in the developed mammary epithelial cell culture
+models, low dose combinations of 4-HPR+TAM were used on
+the oncogene transfected MMEC-Ras and MMEC-myc cells.
+The efficacy of the combinations was monitored by the status
+of G1: S+G2/M ratio (specific for aberrant proliferation) and
+anchorage independent colony formation (specific for
+carcinogenic risk).
+The data generated from the experiments designed to
+examine the effect of low dose combination of 4-HPR+TAM
+on G1: S+G2/M ratio in MMEC-Ras and MMEC-Myc cells are
+presented in Table IV. These data demonstrate that in MMECRas
+cells the 4-HPR+TAM combination is about 3.5-fold and
+30% more efficacious in increasing the G1: S+G2/M ratio
+relative to that observed by 4-HPR or TAM individually at
+equimolar concentrations. Similarly, the experiment on MMECMyc
+cells revealed a 1.2-fold and 60.5% greater efficacy of the
+combination relative to individual agents.
+
+The data from the experiments designed to examine the
+effect of the 4-HPR+TAM combination on anchorage-independent
+colony formation in two oncogene transfected cell lines
+are presented in Fig. 1A and B. The AI colony number In
+MMEC-Ras cells treated with 4-HPR, TAM and 4-HPR+TAM
+was 19.0±2.8, 16.3±2.4 and 4.0±0.6, respectively. Thus, in these
+cells the combination exhibits about 77% greater efficacy in
+reduction of AI colonies relative to that observed by these
+agents individually at equimolar concentrations. The AI colony
+number in MMEC-Myc cells treated with 4-HPR, TAM and
+4-HPR+TAM was 17.4±1.2, 14.6±1.0 and 8.9±0.6, respectively.
+These data indicated that 4-HPR+TAM combination exhibits
+about 44% greater efficacy relative to these agents individually.
+
+Colon. To examine the concept of combinatorial preventive
+efficacy in the FAP and HNPCC models low-dose combination
+of SUL+DFMO were utilized. The data generated from
+experiments to examine the modulation in G1: S+G2/M ratio
+by the low dose combination of SUL+DFMO are presented in
+Table V. In 850Min COL cells the combination of SUL+DFMO
+exhibit 1.4-fold and 56.1% greater efficacy to increase the
+G1:S+G2/M ratio relative to that observed by these agents
+individually. In 1638N COL cells the combination exhibits
+45.7% and 59.4% greater efficacy, while in Mlh1/1638N COL
+cells the combination exhibits 1.7-fold and 41.2% greater
+efficacy.
+The data from experiments designed to examine the effect
+of the SUL+DFMO combination on anchorage-independent
+colony formation in the three colon epithelial cell lines are
+presented in Fig. 2A-C. In 850Min COL cells the AI colony
+number in SUL, DFMO and SUL+DFMO treated groups was
+14.4±2.4, 13.5±2.2 and 8.4±1.4, respectively. These data indicate
+that the combination exhibits about 39.7% greater efficacy in
+reduction of AI colonies. In 1638N COL cells the AI colony
+number SUL, DFMO and SUL+DFMO treated groups was
+15.7±2.0, 14.2±1.8 and 9.8±1.3, while that in Mlh1/1638N COL
+cells was 10.9±1.3, 8.9±1.1 and 6.0±0.7, respectively. Collectively,
+these data indicated that in the two cell lines the SUL+DFMO
+combination exhibits 41.2% and 38.7% greater efficacy
+respectively relative to these agents individually.
+
+6. Conclusions and future directions
+
+Preclinical models derived from genetically engineered mice
+represent valuable predictive models for human organ site
+
+Table V. Modulation of cell cycle progression in mutant colon epithelial cells.
+
+G1: S+G2/M ratioa
+-------------------------------------------------------------------------------------------------------------------------------
+Treatment Concentration 850Min COL 1638N COL Mlh1/1638N COL
+
+EtOH 0.01% 3.1±0.7 3.3±0.4 2.7±0.6
+SUL 2 µM 5.4±0.3b 10.5±0.6e 3.6±0.3h
+DFMO 10 µM 8.2±0.8c 9.6±0.6f 6.8±0.6i
+SUL+DFMO 2+10 µM 12.8±0.2d 15.3±1.0g 9.6±0.5j
+
+a
+Determined at day 5 post-seeding. Mean ± SD, n=6 per treatment group. b-d, i-jp=0.001; c-d, e-g, f-g, h-jp=0.04.
+1200 telang and Katdare: Genetically altered breast and colon cells for cancer
+
+cancer. Target tissue derived epithelial cell lines expressing
+clinically relevant genetic defects and exhibiting quantifiable
+risk for carcinogenesis promise to provide facile experimental
+approaches that complement the existing animal models.
+
+The data presented for mammary epithelial cell culture
+models demonstrate that targeted expression of Ras and Myc
+oncogenes drives the multi-step carcinogenic process by
+inducing aberrant cell cycle progression, down-regulated
+cellular apoptosis and anchorage-independent growth in vitro
+prior to tumor development in vivo. These modulations taken
+together provide evidence for oncogene mediated loss of homeostatic
+growth control and gain of carcinogenic risk. Essentially
+similar modulations in these surrogate end point biomarkers
+for carcinogenic risk have also been observed in the colonic
+epithelial cells exhibiting germ line mutations in the tumor
+suppressor Apc gene and/or in Apc plus DNA mismatch repair
+genes. The present biological characterization of the newly
+developed cell culture models now sets the stage for their
+molecular characterization relevant to the status of Ras, Myc,
+Apc signaling cascades and DNA repair pathways.
+The experiments on the growth inhibitory effects of prototypical
+chemopreventive test compounds have provided
+evidence that preneoplastically transformed cells are more
+sensitive to growth inhibition than the isogenic parental nontransformed
+cells. The selectivity for chemopreventive efficacy
+validates these isogenic models as a unique approach for
+evaluation of mechanistic efficacy of new compounds.
+Clinically relevant, mechanistically distinct 4-HPR and
+TAM for mammary epithelial cell culture models, and SUL
+and DFMO for colon epithelial cell culture models validate
+the clinical relevance of the present experimental approach,
+since these agents have documented preventive/therapeutic
+efficacy as single agents for clinical breast and colon cancer,
+respectively (9,12,13,18,19,31-33). Enhanced efficacy of these
+test compounds at low-dose combinations essentially extends
+and confirms similar efficacy observed in vivo in the genetically
+engineered mouse models (16,35,36). The proof of
+principle evidence obtained from the data on combinatorial
+preventive efficacy now provides a scientifically robust basis
+for future mechanistic studies to identify molecular targets
+critical for enhanced efficacy. Furthermore, these data also
+validate the present experimental approaches for rapid prioritization
+of new chemopreventive agents for future animal
+studies and subsequent clinical trials. In this context it is noteworthy
+that combinatorial efficacy of SUL+DFMO has been
+recently reported in a clinical trial on sporadic colon cancer
+(34).
+Recent evidence suggests that cancer initiating stem cells
+representing therapy resistant minor population may be
+responsible for frequent acquired tumor resistance to long-term
+chemo-endocrine therapy in several heterogeneous epithelial
+organ site cancers (37). Established human breast carcinoma
+cell lines, such as MCF-7 and T47D as well as clinical breast
+cancer specimens, exhibit the presence of cancer initiating stem
+cell population (37,38). Normal target organs for these cancers
+also exhibit the presence of self renewing, pluripotent stem
+cell population (39). Recent research on clinical pancreatic
+adenocarcinoma specimens has demonstrated the presence of
+CD44+/High/CD24-/Low/ESA enriched stem cells exhibiting the
+property of self-renewal, ability for production of differentiated
+progeny and accelerated tumor development (40), and
+abrogation of stem cell characteristics via synergistic efficacy
+of a combination of a synthetic multi-kinase inhibitor sorafenib
+with a naturally occurring NF-κB inhibitor sulforaphane (41).
+
+ A
+
+ B
+
+ C
+
+Figure 2. (A-C) Efficacy of 2 µM SUL+10 µM DFMO in combination on
+850Min COL, 1638N COL and Mlh1/1638N COL cells. (A) Anchorageindependent
+colony formation in 850Min COL cells, number of anchorageindependent
+colonies, mean ± SD, n=12 per treatment group. (1) EtOH
+control, (2) SUL, (3) DFMO, (4) SUL+DFMO. Control versus combination
+p=0.002. Single agent versus combination p=0.03. (B) Anchorage-independent
+colony formation in 1638N COL cells. Number of anchorage-independent
+colonies, mean ± SD, n=12 per treatment group. (1) EtOH control, (2) SUL,
+(3) DFMO, (4) SUL+DFMO. Control versus combination p=0.002, single
+agent versus combination p=0.03. (C) Anchorage-independent colony
+formation in Mlh1/1638N COL cells. Number of anchorage-independent
+colonies, mean ± SD n=12 per treatment group. (1) EtOH control, (2) SUL,
+(3) DFMO, (4) SUL+DFMO. Control versus combination p=0.002, single
+agent versus combination p=0.03. Note that the combination induces greater
+reduction in the number of anchorage-independent colonies relative to that
+induced by these agents alone (42).
+ONCOLOGY REports 25: 1195-1201, 2011 1201
+
+The data generated for the breast epithelial cell lines (20,21),
+and for the colon epithelial cell lines (23-25) has been recently
+summarized (42). Thus, in the present context, availability of
+well characterized breast epithelial cell lines MMEC-Ras and
+MMEC-Myc, and colon epithelial cell lines 850Min COL, 1638N
+COL and Mlh1/1638N COL may represent ideal cell culture
+systems to generate cancer initiating stem cells and to evaluate
+their responses to conventional chemo-endocrine therapy. Such
+unique models promise to identify novel preventive/therapeutic
+interventions targeted specifically towards therapy resistant
+carcinogenic stem cell populations.
+

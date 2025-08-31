@@ -1,0 +1,685 @@
+miR-15/16 complex targets p70S6 kinase1 and controls cell proliferation
+in MDA-MB-231 breast cancer cells
+
+M. Janaki Ramaiah a,c,1
+, A. Lavanya a,1
+, Mohsen Honarpisheh a
+, Mojtaba Zarea a
+,
+Utpal Bhadra b
+, Manika Pal Bhadra a,
+⁎
+a Centre for Chemical Biology, Indian Institute of Chemical Technology (IICT), Tarnaka, Hyderabad, India
+b Centre For Cellular and Molecular Biology (CCMB), Uppal Road, Hyderabad, India
+c School of Chemical and Biotechnology, SASTRA University, Tirumalaisamudram, Thanjavur, India
+
+article info abstract
+
+Article history:
+Received 24 June 2014
+Received in revised form 18 September 2014
+Accepted 22 September 2014
+Available online 26 September 2014
+
+Keywords:
+miR-15
+miR-16
+RPS6KB1
+mTOR
+MDA-MB-231
+
+Background: MicroRNAs are small non-coding RNAs that regulate post-transcriptional mRNA expression by binding
+to 3′ untranslated region (3′-UTR) of the complementary mRNA sequence resulting in translational repression
+and gene silencing. They act as negative regulators of gene expression and play a pivotal role in regulating
+apoptosis and cell proliferation. Studies have shown that miRNAs interact with p53 by regulating the activity
+and function of p53 through direct repression or its regulators. Mammalian target of rapamycin (mTOR) is an
+evolutionary conserved check point protein kinase that plays a major effect in the control of cell division via protein
+synthesis regulation. mTOR regulates protein synthesis through phosphorylation and inactivation of 4E-BP1
+and through phosphorylation and activation of S6 kinase 1 (S6K1). These two downstream effectors of mTOR
+control cell growth and metabolism. In mammals, mTOR protein kinase is the central node in the nutrient and
+growth factor signaling and p53 plays a critical role in sensing genotoxic stress. Activation of p53 inhibits
+mTOR activity, which in turn regulates its downstream targets providing a cross talk among both the signaling
+machinery. MicroRNA-15 and 16 belong to a common precursor family and are highly conserved. Deletion or
+downregulation of these two microRNAs has been shown to accelerate cell division by modulating the expression
+of the genes involved in controlling cell cycle progression. These microRNAs may function as tumor suppressors
+and act on the downstream targets of p53 signaling pathway. To have a better insight of the role of miR-15/16 in
+regulating the cross talk of p53 and mTOR, we performed an in depth study in MDA-MB-231 breast cancer cells
+by performing a gain-of-function analysis with lentiviral plasmids expressing microRNA-15 and 16.
+Methods: The effect of individual microRNAs on RPS6KB1 was examined by using 3′-UTR clones via luciferase
+based assays. The cell cycle effects were observed by flow-cytometric analysis. Reverse transcription PCR was
+used to explore the expression of mTOR and RPS6KB1 in cells transfected with miR-15/16.
+Results: Overexpression of miR-15/16 led to inhibition of cell proliferation causing G1 cell cycle arrest as well as
+caspase-3 dependent apoptosis. Forced expression of miR-15/16 might lead to decrease in mRNA level of
+RPS6KB1, mTOR. The effect was a complete reversal after treatment with anti-miRs against miR-15/16 proving
+the specificity of the expression. In addition, the dual luciferase reporter assays indicated a clear decrease in luciferase
+gene expression in cells transfected with lentiviral based miR-15 and 16 plasmids indicating that miR15/16
+directly targets RPS6KB1 through its 3′-UTR binding. Further, these microRNAs also inhibit epithelial to
+mesenchymal transition (EMT) by targeting key proteins such as Twist1 and EZH2 clearly demonstrating its
+crucial role in controlling cell proliferation.
+Conclusion: This study suggests that exogenous microRNA-15/16 can target RPS6KB1, control cell proliferation
+and cause apoptosis in caspase-dependent manner even in the absence of functional p53.
+© 2014 Elsevier B.V. All rights reserved.
+
+1. Introduction
+
+Cell growth and proliferation require an intricate coordination
+between signals from intracellular and extracellular environments.
+Pertubations in this coordination result in cancer. Prevention or elimination
+of cancer progression could have a major impact on cancer
+
+Gene 552 (2014) 255–264
+
+Abbreviations: 3′-UTR, 3′ untranslated region; EMT, epithelial to mesenchymal transition;
+mTOR, mammalian target of rapamycin; miR-15, microRNA-15; miR-16, microRNA-16.
+⁎ Corresponding author at: Centre for Chemical Biology, Indian Institute of Chemical
+Technology (IICT), Uppal Road, Hyderabad, India.
+E-mail addresses: janaki7777@gmail.com (M. Janaki Ramaiah), lavanyaiict@gmail.com
+(A. Lavanya), mohsen.honarpisheh@gmail.com (M. Honarpisheh), moj.zarea@gmail.com
+(M. Zarea), Utpal@ccmb.res.in (U. Bhadra), manikapb@gmail.com, manika@iict.res.in
+(M.P. Bhadra).
+1 Joint first authors.
+
+http://dx.doi.org/10.1016/j.gene.2014.09.052
+0378-1119/© 2014 Elsevier B.V. All rights reserved.
+
+Contents lists available at ScienceDirect
+
+Gene
+
+journal homepage: www.elsevier.com/locate/gene
+mortality. MicroRNAs (miRNAs) are endogenously expressed small
+non-coding RNAs that play a regulatory role in post-transcriptional
+gene products (Hwang and Mendell, 2006). miRNA binds with 3′UTR
+of target mRNAs leading to its degradation and translational repression.
+Aberrant expression of miRNA is observed in various human tumors.
+Studies have also shown that regulation of the expression of specific
+miRNAs could serve as an additional mechanism for tumor suppression.
+Therefore, targeted therapies that use microRNAs to stop metastasis
+may be an effective approach to treat cancer.
+Genome instability is a hallmark for cancer. One of the major mechanisms
+for controlling tumorigenesis is to inhibit mTOR signaling by
+several check point proteins. S6 Kinase 1 (S6K1) is a major mTOR downstream
+signaling molecule that regulates fundamental cellular processes
+including transcription, translation, protein and lipid synthesis, cell
+growth, size and cell metabolism (Magnuson et al., 2012). Several isoforms
+of S6K1 are overexpressed in breast cancer cell lines and tumors.
+S6K1 gene (RPS6KB1) is located in human chromosome 17q23, a region
+that is amplified in 20% of primary breast cancers (Courjal and Theillet,
+1997; Kim et al., 2009), non-small cell lung cancer (Zhang et al., 2013),
+HCC patients (Li et al., 2012), HIV/EBV+ diffuse large B-cell lymphoma
+(Zhao et al., 2013), and gastric cancer (Sun et al., 2014) and is associated
+with poor prognosis. Studies by Lai et al. (2010) have revealed that the
+mTOR-S6K1 was found to be a novel regulator of p53 in DNA damage response
+and plays a key role in tumorigenesis (Lai et al., 2010). It is reported
+that microRNAs regulate cell growth and apoptosis in which
+miRNAs themselves function as oncogenes or tumor suppressors
+(Cheng et al., 2005). MicroRNA-15 family includes six highly conserved
+miRNAs (miR-15a, miR-15b, miR-16-1, miR-16-2, miR-195, miR-497)
+that are clustered on three separate chromosomes (Porrello et al.,
+2011). Deletion of miR-15a/16-1 accelerates cell growth through modulation
+of cell cycle proteins such Cyclin E and Cyclins D1, D3 and Cdk6
+involving E2F (Calin et al., 2002;Wang et al., 2009; Lerner et al., 2009). It
+has been reported that miR-15 and miR-16 are regulated by p53
+(Brosh et al., 2008; Suzuki et al., 2009; Boominathan, 2010). Since
+E2F1 activates p53 via numerous pathways (Polager and Ginsberg,
+2009), it is possible that E2F1 regulation of miR-15 and miR-16 expression
+is mediated by p53. Studies by Klein et al. (2010) have
+demonstrated that these microRNAs negatively regulate Bcl2 oncogene,
+modulate proliferation and promote apoptosis. Till date,
+there is no report of its role in understanding the mechanism of action
+in the signaling pathway. Thus understanding the link of both
+these miRNAs in regulating the major signaling players of ATM
+check point pathway with respect to p53 may enable to develop better
+therapeutics. Reports on drug discovery have indicated that
+mTOR inhibitors have limited success (Sridharan and Basu, 2011).
+The role of miR-15/16 in breast cancer targeting RPS6KB1 has not
+been reported. Here, in this study we examined the effects of miR15/16
+on RPS6KB1 gene regulation and its action on cell proliferation
+and apoptosis.
+
+2. Materials and methods
+
+2.1. Cell culture
+
+Human breast carcinoma cells (MCF-7, MDA-MB-231), lung cancer
+cells (A549), cervical cancer cells (HeLa), neuroblastoma (IMR-32, SKN-SH,
+Neuro-2a) were purchased from American Type culture collection
+centre. MCF-7, A549, HeLa, IMR-32 were maintained in Dulbecco's
+modified Eagle's medium (DMEM) (Invitrogen), supplemented with
+2 mM glutamax (Invitrogen), 10% fetal calf serum and 100 U/ml penicillin
+and 100 mg/ml streptomycin sulfate (Sigma). EMEM was used for
+growing SK-N-SH and Neuro-2a cell lines and RPMI was used for
+MDA-MB-231 cells. All cell lines were grown on 60 mm cell culture
+dishes and maintained at 37 °C in a humidified atmosphere containing
+5% CO2 in the incubator.
+
+2.2. Cloning of 3′-UTR of RPS6KB1
+
+RNA was isolated from MCF7 cell line using Trizol-Chloroform
+(Invitrogen). cDNA was synthesized using Invitrogen SuperScript® III
+by following manufacturer's protocol. Platinum® Taq DNA Polymerase
+having high Fidelity was used for PCR (Thermo scientific). 3′-UTR region
+of p70S6K1 (NCBI Reference Sequence: NM_003161.2) containing
+full length as well as partial1 (P1) and partial 2 (P2) was cloned in
+psiCheck2 vector (Promega) using XhoI and NotI restriction enzymes.
+Full length (FL) region comprises of 3439 bp, and partial 1 (P1) and partial
+2 (P2) are 1213 bp and 1562 bp respectively. Primers used for cloning
+were listed in Table 2.
+
+2.3. Luciferase activity assay
+
+Cells were seeded in 6 well plates 24 h prior to transfection.
+Co-transfection of plasmid DNAs (i.e. 2 μg of 3′-UTR constructs of
+RPS6KB1 cloned in psiCHECK2 vector and 2 μg lentiviral based
+microRNA expression plasmids [miR-15, miR-16, miR-17], System Biosciences)
+was performed using lipofectamine 2000. Luciferase assays
+were performed 48 h after transfection using dual luciferase assay substrate
+(Promega). Firefly luciferase activity was normalized to renilla luciferase
+activity for each transfected well. Here the ratio of F/R readings
+will provide the expression of particular gene in microRNA transfected
+cells. Three independent experiments were performed in triplicate.
+
+2.4. P53 siRNA transfection
+
+P53 siRNA (Dharmacon) transfection was performed by the Lipofectamine
+RNAiMAX transfection reagent following the manufacturer's
+method. Briefly MCF-7 cells were plated in 6-well plates at density of
+1, 00,000/well and transfected with p53 siRNA at a final concentration
+of 25 nM in serum/antibiotic free media. Scrambled siRNA was used as
+control. After 6 h of transfection, the media was replaced with complete
+growth media following which the cells were allowed to recover for
+48 h and assayed for microRNA expression using microRNA specific
+primers obtained from kit [RA-610A-1-System Biosciences].
+
+2.5. P53 overexpression study
+
+Briefly MDA-MB-231 cells were plated in 6-well plates at a density of
+1, 00,000/well and transfected with p53 overexpression plasmid (2 μg
+of CMV-p53) or vector in serum/antibiotic free media. After 6 h of transfection,
+the media was replaced with complete growth media following
+which the cells were allowed to recover for 48 h. Cells were extracted 48 h
+after transfection and then the RNA isolated was used for microRNA and
+gene expression studies.
+
+2.6. Reverse transcription PCR (RT-PCR)
+
+Total RNA was extracted using RNeasy mini kit (Qiagen) and reverse
+transcribed into cDNA using superscript II reverse transcriptase
+
+Table 1
+Primers used in RT-PCR experiment.
+S. no Primer name Sequence 5′–3′ Product size
+1. RPS6KB1 FW CCTGAAGCCGGAGAATATCA 186 bp
+2. RPS6KB1 RV AAACTCCACCAATCCACAGC
+3. mTOR FW CCAACAGTTCACCCTCAGGT 208 bp
+4. mTOR RV GCTGCCACTCTCCAAGTTTC
+5. Twist1 FW GTCCGCAGTCTTACGAGGAG 145 bp
+6. Twist1 RV CTAGTGGGACGCGGACAT
+7. EZH2 FW AGGACGGCTCCTCTAACCAT 179 bp
+8. EZH2 RV CTTGGTGTTGCACTGTGCTT
+9. GAPDH FW GGG AAG GTG AAG GTC GGA GT 110 bp
+10. GAPDH RV TTG AGG TCA ATG AAG GGG TCA
+FW = forward primer, RV = reverse primer, bp = base pairs.
+
+256 M. Janaki Ramaiah et al. / Gene 552 (2014) 255–264
+(Invitrogen). PCR was carried out with specific primers against mTOR,
+RPS6KB1, EZH2, Twist1, GAPDH genes in PCR machine (Takara Biosciences).
+The primers used are listed in Table 1. GAPDH was used as a loading
+control. The products were electrophoresed on agarose gel (1%)
+followed by staining with ethidium bromide and visualized under U.V.
+light. The signal intensity of respective bands was measured by means
+of the quantity one version 4.1.1 software using BIORAD image analysis
+system.
+
+2.7. MicroRNA expression study
+
+For microRNA expression studies, total RNA was isolated from breast
+cancer lines [i.e. MCF-7 and MDA-MB-231]. Equal amount of DNasetreated
+RNA was Poly-A tailed using Poly(A)-Polymerase and oligodT-adapter
+to synthesize the cDNA. RT-PCR reaction was set up using
+universal reverse primer and miRNA specific forward primer (i.e. miR15a,
+miR-15b, miR-16-1) at 50 °C for 2 min, 95 °C for 10 min, followed
+by 40 cycles of PCR (95 °C 15 s, 60 °C 1 min).
+
+2.8. Cell viability (MTT assay)
+
+MTT assay was performed to assess the cytotoxicity. MTT is a tetrazolium
+salt taken up by the live cells and converted into a water insoluble
+colored formazan dye by mitochondrial succinate reductase. The
+quantity of formazan dye is directly proportional to the number of metabolically
+active cells, and can be quantified by measuring the absorbance.
+Briefly, MDA-MB-231 cells were transfected with miR-15, miR-16 overexpression
+plasmids (or) control vector in 96 well plates (10,000 cells/well).
+After 12 h, 24 h and 48 h of transfection, the reagent was added according
+to manufacturer's recommendations and cell viability was determined by
+taking optical density values at 570 nm.
+
+2.9. Cell cycle analysis
+
+For cell cycle analysis by flow-cytometry, 5 × 105 MDA-MB-231 cells
+were seeded in 60 mm dish and allowed to grow for 24 h followed by
+transfection with 2 μg of miR-15, miR-16, miR-17 plasmids (System biosciences,
+vector PMIRHXXX-PA-1) that are cloned in a lentiviral based
+vector. Cells were harvested with Trypsin-EDTA, fixed with ice-cold
+70% ethanol at 4 °C for 30 min, washed with PBS and incubated with
+1 mg/ml RNase A solution (Sigma) at 37 °C for 30 min. Thereafter, the
+cells were collected by centrifugation at 2000 rpm for 5 min, further
+stained with 250 μl of DNA staining solution [10 mg of Propidium Iodide
+(PI), 0.1 mg of tri-sodium citrate, and 0.03 ml of Triton X-100 for 30 min
+in the dark] and proceeded for analysis of DNA contents of 20,000
+events (DAKO CYTOMATION, Beckman Coulter). Histograms of the
+data obtained were made using Summit Software.
+
+2.10. Protein extraction and immunoblot analysis
+
+MDA-MB-231 cells were seeded in complete medium. After 24 h,
+they were treated for 16 h with nocadazole to synchronize the cells in
+G2/M (Santra et al., 2009). Then cells were washed and placed in complete
+medium. Further these cells were transfected with miR-15 and
+miR-16 in 60 mm dishes. Total cell lysates were obtained by lysing the
+
+cells with ice cold RIPA buffer (Sigma) containing protease inhibitor
+(Roche). Lysates were centrifuged at 12,000 rpm for 15 min at 4 °C.
+The protein obtained from supernatant was quantified by Bradford
+method (BIO-RAD) using Multimode Varioskan instrument (ThermoFisher
+Scientifics). Equal amounts of protein per lane were separated
+by 8–10% SDS-polyacrylamide gel and transferred to PVDF membrane.
+The membrane was blocked in 5% skim milk for 1 h and then incubated
+with a specific antibody for 2 h. The antibodies used in this study were:
+antibodies to p53, caspase 3, caspase 9 (Santa Cruz), cyclin D1, cyclin E,
+cdk2, cdk4, PARP, β-actin (Imgenex), p21 (Cell signaling). The specific
+protein was detected by using a SuperSignal protein detection kit
+(Pierce). The band density of specific proteins was quantified after normalization
+with the density of β-actin.
+
+2.11. Caspase-3 assay
+
+Cells were plated in 6 well plates, transfected using 2 μg of lentiviral
+based microRNA overexpression clones (System Biosciences). Fortyeight
+hours after transfection, caspase-3 activity was measured following
+the instructions of caspase-3 fluorescence assay kit (Clone tech).
+The substrate used in the assay is DEVD-AFC. Cleavage of this substrate
+by caspase-3 liberates AFC which can be measured at excitation wave
+length of 405 nm and emission wave length of 500 nm. Here, DEVDCHO
+(1 mM) was used as inhibitor in this assay.
+
+2.12. Statistical analysis
+
+Statistical analysis was performed using the graph pad software to
+evaluate the significant difference between the control and treated
+samples. All variables were tested in three independent experiments.
+The results were reported as mean ± SD. * represents p-value b0.05,
+** represents p-value b0.01, *** represents p-value b0.001.
+
+3. Results
+
+3.1. Expression of RPS6KB1 and mTOR in various cancer cell lines
+
+The 40S ribosomal protein S6 Kinase that acts downstream of the
+mammalian target of rapamycin (mTOR) plays an important role in
+cell proliferation, protein translation and cell survival is often elevated
+in breast cancer (Barlund et al., 2000; Maruani et al., 2012). To have a
+deeper understanding of the expression pattern of mTOR and
+RPS6KB1 mRNAs in various cancers, we have undertaken the study in
+cancer cell lines of different origins such as MDA-MB-231, MCF-7
+(breast cancer), A549 (Lung cancer), HeLa (Cervical cancer), IMR-32,
+SK-N-SH, Neuro-2a (neuronal cancers). These cell lines were chosen
+as they differ in P53 status (wild, mutant and lack of function). RNA
+was isolated and RT-PCR analysis was conducted. The expression of
+mTOR and its downstream target RPS6KB1 (S6K1) was significantly elevated
+in breast and lung cancer compared to other cancers. Among the
+two different breast cancer cell lines, MDA-MB-231 cells exhibited
+slightly higher levels of mTOR and RPS6KB1 mRNAs compared to
+MCF-7 (Fig. 1A). mTOR contains two conserved phosphorylation sites,
+threonine 2446 and serine 2448 that conform to the consensus phosphorylation
+motif of the AGC family of kinases, which includes Akt,
+RSK and S6K1. mTOR initiates S6K1 activation in response to cellular energy
+status, nutrient levels, and mitogens. As mTOR and RPS6KB1 act in
+the same pathway and are dependent on one another (i.e. activation of
+mTOR activates S6K1 and vice versa), we observed a similar trend. S6K1
+siRNA led to a significant inhibition of S6K1 expression, and concurrently
+reduced mTOR phosphorylation, as compared to the scrambled control.
+Since both threonine 2446 and serine 2448 residues in mTOR are
+found to be phosphorylated by S6K1, the growth factor stimulation of
+mTOR function has been correlated to the increase in phosphorylation
+of serine 2448 (Holz and Blenis, 2005). In addition, S6K1 activation is
+initiated by mTOR/raptor-mediated phosphorylation of T389 (Kim
+
+Table 2
+Primers used in S6K1 3′-UTR cloning.
+S. no Name of primer Primer sequence (5′–3′) Size (bp)
+1. RPS6KB1-FL-FW GATCCTCGAGAGGGAGATGTGTGAGCATCC 3439
+2. RPS6KB1-FL-RV GATCGCGGCCGCGCAAAGCGAACTTGGGATAG
+3. RPS6KB1-P1-FW GATCCTCGAGAGGGAGATGTGTGAGCATCC 1213
+4. RPS6KB1- P1-RV GATCGCGGCCGCCATTCATCAAAAGGCCATCA
+5. RPS6KB1-P2-FW GATCCTCGAGGCCTTAAAGAGAGCATTTCCA 1562
+6. RPS6KB1-P2-RV GATCGCGGCCGCACCCCTGCCCACAAATTATC
+FW = forward, RV = reverse, FL = full Length, P1 = Partial1, P2 = Partial2.
+
+M. Janaki Ramaiah et al. / Gene 552 (2014) 255–264 257
+et al., 2002), which requires the TOS motif located at the N terminus of
+S6K1. Thus, mTOR controls S6K1 and S6K1 in turn regulates mTOR. As
+mTOR and RPS6KB1 act in the same pathway and are dependent on
+one another (i.e. activation of mTOR activates S6K1 and vice versa),
+we observed a similar trend. Further, we examined the activity of
+RPS6K1 3′-UTR as a measure of gene activity by transfecting
+RPS6KB1 3′-UTR in MDA-MB-231, MCF-7, A549, HeLa, IMR-32, SKN-SH,
+Neuro-2a cells. The measure of luciferase activity gives the expression
+of the gene activity. MDA-MB-231 cells exhibited higher
+levels of UTR expression compared to other cell lines revealing
+high level of expression of RPS6KB1 (Fig. 1B).
+
+3.2. Role of p53 on expression of miR-15 and miR-16 in MDA-MB-231 cells
+
+MicroRNAs are small non-coding RNAs that regulate gene activity.
+Using bioinformatic algorithm “MicroRNA.org”, we have clearly depicted
+the binding modes of miR-15/16 to the 3′-UTR of RPS6KB1 (Fig. 2). Studies
+have shown that the promoters of miR-15, 16 contain p53 response
+elements (p53RE). Thus, there exists a possible binding of p53 as well as
+transactivation of these miR genes (Boominathan, 2010; Fabbri et al.,
+2011; Merkel et al., 2010). Moreover, recent studies have demonstrated
+that cancer cells contain high mTOR activity in p53-deficient tumors
+
+(Akeno et al., 2014) and thus indicate the possible role of mTOR and
+p53 in regulating the antagonistic functions of cell proliferation. Hence,
+we examined the role of p53 dependent microRNAs on RPS6KB1 and
+mTOR in MDA-MB-231 cell line having p53 mutant genetic background.
+To see the expression of endogenous miR-15 and miR-16 on p53, we performed
+reverse transcription PCR on two different breast cancer cell lines
+that contained a mutant p53 (MDA-MB-231) and wild-type p53 (MCF-7).
+The expression of miR-15, 16 was lower in MDA-MB-231 cells compared
+to MCF-7 cells that contained wild-type p53 (Fig. 3A). To further substantiate
+our finding, we assessed the influence of loss- and gain-of-function
+of p53 in miR15/16 regulation. In MCF-7 cells, we performed knockdown
+of p53 using three different siRNAs that specifically target p53. There was
+a decrease in the levels of miR15/16 compared to control cells in which
+scrambled siRNA were used (Fig. 3C; Additional Fig. 1). Simultaneously
+p53 was overexpressed in MDA-MB-231 cells, using plasmid constructs.
+This resulted in restoration of miR15/16 (Fig. 3B). These results suggest
+that p53 is essential for the expression of miR15/16 that in turn regulates
+mTOR and RPS6KB1 mRNAs (Polytarchou et al., 2012).
+To confirm the results obtained that showed the possible link of
+miR-15/16 in controlling mTOR and RPS6KB1 via p53, we performed
+reverse experiments by transfecting MDA-MB-231 cells with miR-15
+and-16 overexpression plasmids having lentiviral background. We
+
+Fig. 1. RPS6KB1 and mTOR level upregulated in cancer cells. (A). Endogenous expression of RPS6KB1 and mTOR in various cancer cell lines such as MDA-MB-231, MCF-7 (breast cancer
+cells), A549 (lung cancer cells), HeLa (cervical cancer cells) and IMR-32, Neuro-2a, SK-N-SH (neuronal cancer cells). PCR amplified product size of mTOR is 186 bp and RPS6KB1 (S6K1) is
+208 bp. (B). RPS6KB1 3′-UTR (S6K1) was transfected in MDA-MB-231, MCF-7, A549, HeLa, IMR-32, Neuro2a, SK-N-SH cell lines for 48 h and the lysates were extracted with lysis buffer and
+luciferase assay was conducted using these lysates. Results indicated high level of expression of UTR (expression by reporter luciferase gene) in MDA-MB-231 cells when compared with
+other cell lines used in the study. Each experiment was conducted three times. P b 0.001 = ***.
+
+258 M. Janaki Ramaiah et al. / Gene 552 (2014) 255–264
+compared the effect of individual microRNAs on the expression of
+mRNA levels of both mTOR and RPS6KB1. Results obtained from RTPCR
+analysis clearly indicated downregulation of RPS6KB1 and mTOR
+compared to GAPDH expression that served as an internal control
+
+(Fig. 3D, Additional Fig. 2). Further the effect of p53 on mTOR and
+RPS6KB1 was measured by overexpressing p53 in MDA-MB-231 cells
+that lack functional p53. Results indicated downregulation of mTOR
+and RPS6KB1 to a considerable level (Fig. 3E).
+
+Fig. 2. miR-15/16 family directly targets 3′-UTR of RPS6KB1. (A). Figure depicts the cloning strategy employed in the study. Here XhoI and NotI sites were used for cloning all three DNA
+fragments of S6K1 3′-UTR that includes full length, partial-1 (P1) and partial-2 (P2). (B). Figure depicts the schematic representation of 3′-UTR of S6K1 with microRNA binding pattern (C).
+Binding scores of microRNA with 3′-UTR as obtained by microRNA.org and miSVR scores was depicted.
+
+M. Janaki Ramaiah et al. / Gene 552 (2014) 255–264 259
+3.3. miR-15/16 are essential for mTOR and RPS6KB1
+
+To evaluate whether transfected miR-15/16 are essential for both
+mTOR and RPS6KB1, we performed luciferase-based reporter assay.
+MDA-MB-231 cells were co-transfected with full length and partial
+(P1) RPS6KB1 3′-UTR-luciferase reporter plasmids with individual
+microRNAs (miR-15/16) in order to understand the contribution of
+each microRNA on RPS6KB1 3′UTR. Interestingly, miR-15 and miR-16
+
+drastically downregulated RPS6KB1 3′UTR expression. No significant
+change was observed in MDA-MB-231 cells transfected with P1 UTR
+that lack the binding site for miR-15 and miR-16 compared to control.
+Thus, the specificity of binding of these microRNAs on RPS6KB1 was revealed
+(Fig. 3F, Additional Fig. 3). The effect of these microRNAs on
+RPS6KB1 was recovered to large extent to the normal levels, when
+anti-miRs against the particular microRNA's (i.e. miR-15, 16) were
+used in MDA-MB-231 cells (Fig. 3G).
+
+Fig. 3. (A). The endogenous expression level of miR-15a, miR-15b and miR-16 in both MCF-7(p53-wild type) and MDA-MB-231(p53-mutant) was compared. (B). Influence of overexpression
+of p53 on miR-15a, miR-15b and miR-16 expression in MDA-MB-231 cells. Here U6Sn RNA was used as loading control. V indicates plasmid vector used for cloning of p53. “p53”
+indicates p53 overexpression plasmid used in the study. (C). Loss-of-function of p53 was studied using pooled siRNA specific to p53. Here in MCF-7 cells were transfected with p53
+siRNA using Lipofectamine 2000 RNAi max and was analyzed for miRNA (i. e. miR-15a, miR-15b and miR-16-1) expression. Here scrambled siRNA used as control. (D). The gene expression
+level RPS6KB1 and mTOR was examined by transiently transfecting the lentiviral based overexpression clones of miR-15, miR-16 followed by conducting RT-PCR in MDA-MB-231 cells.
+Here GAPDH was used as loading control. (E). The gene expression level RPS6KB1 and mTOR was examined by transiently transfecting the overexpression clones of p53 followed by
+conducting RT-PCR in MDA-MB-231 cells. Here GAPDH was used as loading control. (F). Reporter constructs containing either wild type S6K1 3′-UTR or 3-UTR that lacks the binding
+sites of miR-15/16 (i.e. P1 construct) were used for transfection in MDA-MB-231 cells. 3′-UTR region containing intact full length miR-15 and miR-16 resulted in decrease of luciferase
+gene activity when compared with control, indicating the binding ability of these microRNAs to 3′-UTR. The P1 3′-UTR construct of S6K1 has shown negligible effect upon transfection
+with miR-15/16 as indicated by negligible change in luciferase values when compared with control. Each experiment was conducted three times P b 0.001 = ***, P b 0.01 = **,
+P b 0.05 = *. (G). Anti-miR-15/16 were used in the study to confirm the specificity of the effect of these miRs towards RPS6KB1 was used in the study.
+
+260 M. Janaki Ramaiah et al. / Gene 552 (2014) 255–264
+3.4. Effects of miR-15/16 on breast cancer cell viability
+
+To evaluate long-term effects of miR-15/16 restoration on cell
+growth analysis, MDA-MB-231 cells were plated in 24-well plates
+with equal cell density. The microRNA-15 and 16 constructs were
+transfected in MDA-MB-231 cells and allowed to grow for varying
+
+time periods. Lentiviral expression of microRNA in MDA-MB-231
+cells resulted in significant decrease in cell viability as shown in
+Fig. 4A. Interestingly, increase in the incubation time caused increased
+loss of cell viability. Here, the decrease in cell viability may
+not be to the full extent due to involvement of many other miRs in
+this event.
+
+Fig. 4. The impact of miR-15/16 on cell viability and cell cycle. (A). MicroRNAs miR-15 and miR-16 (2 μg) were transfected separately in MDA-MB-231 cells and were allowed to incubate
+for varying time periods (12–48 h). MTT assay was performed to see the effect on cell viability. Loss of cell viability was observed with increase in the period of incubation. Here cells
+transfected with vector alone without any miR cloned was used as control. (B). MDA-MB-231 cells were transfected with miR-15/16 in MDA-MB-231 cells. These cells were subjected
+to FACS analysis. Results indicated G1 phase cell cycle arrest in MDA-MB-231 cells with significant number of cells undergoing apoptosis (G0). The percentage of the apoptotic cells are
+represented in the form of histogram. (C). MDA-MB-231 cells were synchronized with nocodazole treatment and then cells were transfected with microRNAs such as miR-15 and
+miR-16 for 48 h. The lysates obtained were used for western blot analysis against tumor suppressor proteins such as p53, p21, Cyclins (Cyclin D1, Cyclin E), Cdk (i.e. Cdk2, Cdk4) that
+acts at G1-S phase of cell cycle and apoptotic proteins such as caspase-3, caspase-9 and poly-ADP-ribose polymerase (PARP). (D). MDA-MB-231 transfected with microRNAs for 48 h
+and the lysates obtained were subjected to caspase-3 assay. miR-15/16 transfected cells exhibited an increase in caspase-3 protein levels as observed by ELISA assay. Here inhibitor = caspase-3
+inhibitor that was provided in assay kit (Clontech). Each experiment was conducted three times P b 0.001 = ***, P b 0.01 = **, P b 0.05 = *.
+
+M. Janaki Ramaiah et al. / Gene 552 (2014) 255–264 261
+3.5. miR-15/16 restoration causes accumulation of cells in G1 phase and
+apoptosis in MDA-MB-231 cells
+
+MiR-15/MiR-16 cluster is located in the intron of “deleted in leukemia
+2” (DLEU2) (Lerner et al., 2009). The validated targets of miR-15/
+16 include many genes related to the control of cell cycle progression
+such as cyclin D1 (Bonci et al., 2008), cyclin E (Wang et al., 2009), Bcl2
+(Cimmino et al., 2005), c-Myb (Chung et al., 2008). Thus, we further
+examined the cell cycle regulatory as well as apoptosis inducing nature
+of these miRs in MDA-MB-231 cells by conducting flow-cytometry,
+western blot and caspase assays.
+As shown in Fig. 4B, the overexpression of miR-15/16 induced accumulation
+of cells in G1 phase with reduction of cells in G2/M-phase;
+clearly exhibited G1 cell cycle arrest. Interestingly, we also observed
+an increase in the number of apoptotic cells in miR transfected cells.
+This indicates that overexpression of miR-15 and miR-16 can cause
+apoptosis induction in cells lacking functional p53. In order to confirm
+the G1 cell cycle arrest and apoptosis-inducing nature by miR-15/16,
+we have synchronized the cells with nocodazole followed by transfection
+with miR-15 and -16. The cell lysates obtained were analyzed for
+the expression of G1 cell cycle as well as apoptotic proteins. Results indicated
+the decrease in the expression of cyclin D1, cyclin E1, Cdk2,
+Cdk4 and increased expression of p53, p21, caspase-3, caspase-9 and
+PARP (Fig. 4C, D). This observation corroborated with findings of Druz
+et al. (2013) and Druz et al. (2013) wherein miR-15a-3p was found to
+induce apoptosis in human cancer cells.
+
+3.6. Effect on epithelial to mesenchymal signaling
+
+Epithelial to mesenchymal transition (EMT) is known to impart metastasis
+and stemness characteristics in several cancers including breast
+cancer (Malouf et al., 2013). The EMT phenotype is dictated by Twist1
+and polycomb group of proteins such as EZH2 (Wu and Yang, 2011).
+To see whether these microRNAs have any effect on Twist1, EZH2 expression,
+we transfected breast cancer cell lines and studied the mRNA
+expression of the particular genes. We observed a drastic reduction in
+Twist1 and EZH2 mRNA expression in miR-15/16 transfected MDAMB-231
+cells. Similar results were observed in an unrelated IMR-32
+neuronal cancer cells (Fig. 5, Additional Fig. 4) indicating a novel role
+of microRNA-15/16 on invasion.
+
+4. Discussion
+
+Breast cancer is the leading cause of cancer in women (Maruani
+et al., 2012). Elucidation of molecular mechanisms involved in breast
+cancer and its progression is vital for development of anti-cancer therapeutics.
+RPS6KB1 [S6K1] is situated in 17q21-23 and 11q13, which are
+overexpressed in several malignancies including breast cancer. S6K1
+gene amplification as well as its protein expression was associated
+with worst outcome in breast cancer. Recent studies revealed that
+mTOR-S6K1 is a novel regulator of p53 during DNA damage response
+and thus plays a pivotal role in tumorigenesis. In addition, S6K1-
+Mdm2 interaction interconnects the Mdm2-p53 and mTOR-S6K1 pathways
+(Lai et al., 2010).
+P53 dependent microRNAs miR-15 and miR-16 modulate the
+expression of genes associated with cell cycle and oncogenesis such as cyclin
+D1 (Bonci et al., 2008), cyclin E (Wang et al., 2009), Bcl-2 (Cimmino
+et al., 2005), c-Myb (Chung et al., 2008) and recently E2F (Ofir et al.,
+2011). Recent studies have demonstrated the role of miR-18 and miR421
+in regulating the balance between mTOR and ATM (Xie and Proud,
+2013). Thus there exists lot of scope to identify the crucial microRNAs
+that play a role in RPS6KB1 and p53 mediated cell proliferation and apoptosis
+events.
+We initiated our studies by comparing the expression level of mTOR
+and its downstream gene RPS6KB1 (S6K1) in various cancer cells. We
+found that MDA-MB-231 cells exhibit higher levels of RPS6KB1 and
+mTOR when compared with other cell lines (Fig. 1A). Further, we
+have transfected the 3′-UTR of RPS6KB1 gene in various cancer cell
+lines and observed the expression level by measuring the luciferase reporter
+activity. Interestingly, MDA-MB-231 cells have shown tremendous
+increase in RPS6KB1 (p70S6K1) 3′-UTR activity compared to
+other cells lines used in the study (Fig. 1B). Our results were supported
+by recent studies (Akeno et al., 2014) where in cancer cells exhibit
+marked increase in S6K1 activity in p53-deficient tumors indicating
+the possible role of S6K1 and p53 in regulating the antagonistic functions
+of cell proliferation. The possibility of cell type dependent expression
+of S6K1 also cannot be ruled out.
+A Bio-informatic algorithm (i.e. www.microRNA.org) has revealed
+the possible binding sites of p53 regulated tumor suppressor
+microRNAs such as miR-15 and miR-16 in the 3′-UTR of S6K1 (Fig. 2).
+Thus, we were interested to know about the endogenous expression
+of tumor suppressor microRNAs [miR-15, miR-16] in breast cancer
+cells such as MCF-7 (p53 wild-type) and MDA-MB-231 (p53 mutant)
+by conducting RT-PCR analysis. It was observed that the level of expression
+of these miRs is lower in MDA-MB-231 cells than MCF-7 cells
+(Fig. 3A) revealing the importance of wild-type p53 for the increased
+expression of miR-15 and miR-16. These observations were substantiated
+by gain- and loss-of-function of p53 in MDA-MB-231(p53 mutant)
+and MCF-7 (p53 wt) cell lines respectively (Fig. 3B, C). The ultimate
+goal of anti-cancer therapeutics is based on their effects on cell cycle arrest
+and induction of apoptosis. Thus, we were interested to understand
+the possible role of these tumor suppressor microRNAs on S6K1 gene
+that gets activated very often in 20% of breast cancers (Vander Hage
+et al., 2004; Noh et al., 2008; Fenton and Gout, 2011). Studies have clearly
+demonstrated that S6K1 activation is mediated by mTOR and in turn
+mTOR gets activated by overexpression of S6K1 in breast cancers
+(Bjornsti and Houghton, 2004; Jiang and Liu, 2008). Thus, it was
+observed that there might be a positive correlation between these two
+genes.
+Transfection of lentiviral based miR-15 and miR-16 clones separately
+in MDA-MB-231 cells followed by RT-PCR assay has revealed the
+reduction in gene expression of mTOR up to 2-folds and S6K1 up to
+3-folds. (Fig. 3D, Additional Fig. 2). Similar results were obtained in
+MDA-MB-231 cells transfected with p53 overexpression plasmid
+(Fig. 3E). Further, to examine the target binding ability of these
+microRNAs, reporter constructs were generated by cloning the 3′-UTR
+of RPS6KB1 in psi CHECK2 vector downstream of synthetic Renilla
+
+Fig. 5. miR-15/16 cause reduction in Twist1 and EZH2 that helps in EMT progression.
+MDA-MB-231 cells were transfected with microRNAs to observe their effects on Twist1
+and EZH2 mRNAs that are crucial regulators of cell invasion and metastasis. Here transfection
+with miR-15/16 (2 μg) resulted in reduction in mRNA levels of Twist1 and EZH2 in
+MDA-MB-231 (invasive breast cancer) cells. GAPDH was used as a loading control.
+
+262 M. Janaki Ramaiah et al. / Gene 552 (2014) 255–264
+luciferase gene. The full length construct of S6K1 3′UTR having binding
+sites for microRNA-15 and miR-16 as well as Partial construct (P1) that
+lacks the binding sites for microRNA-15, 16 were used to prove the
+specificity. We observed reduction in luciferase gene expression in cotransfection
+of miR-15 and miR-16 and S6K1 full length 3′-UTR in
+MDA-MB-231 cells. Surprisingly, this reduction was not observed with
+partial clone (P1) lacking miR-15, 16 binding site (Fig. 3F, Additional
+Fig. 3). MicroRNAs of the miR-15/16 family are deleted in many cases
+of CLLs (Calin et al., 2002; Bonci et al., 2008) and advanced prostate cancer.
+Studies have shown that microRNAs that belong to this family regulate
+cell cycle progression (Linsley et al., 2007). Since MDA-MB-231
+cells contain mutant form of p53, we were interested to understand
+the cell cycle regulatory role of exogenously transfected microRNAs on
+cell cycle. Thus, we have transfected miR-15, miR-16 overexpression
+plasmids in MDA-MB-231 cells. Studies revealed the existence of cell
+cycle arrest at G1 phase with concomitant increase in the number of apoptotic
+cells (Fig. 4B).
+In general, G1 cell cycle arrest due to DNA damage exists in 2 phases —
+initiation and elongation. Initiation phase is rapid and occurs due to degradation
+of cyclin D1, a p53-independent response. However elongation
+involves p53 dependent transcriptional regulation of p21, i.e. CDK1 inhibitor
+(Santra et al., 2009). Thus, the main regulators of G1/S phase of cell
+cycle were measured in miR-15 and miR-16 transfected MDA-MB-231
+cells. Here, we have observed a tremendous decrease in the levels of cell
+cycle regulatory proteins such as cyclin D1, cyclin E, Cdk2, Cdk4; and increase
+in the levels of tumor suppressor proteins such as (p53, p21) as
+well as apoptotic proteins (caspase-3, caspase-9 and PARP) (Fig. 4C, D).
+This data strongly supports cell cycle arrest as well as tumor suppressive
+nature of miR-15 and miR-16.
+Epithelial to mesenchymal transition (EMT) is a process by which
+cancer cells change their epithelial phenotype to mesenchymal phenotype
+and acquire metastatic ability, which is closely associated with the
+invasion and metastasis (Gomes et al., 2011). Twist1 is basic helix–
+loop–helix (bHLH) protein, an important transcription factor that is involved
+in metastasis and worst outcome of breast cancer (Yang et al.,
+2006). In addition, Polycomb (PcG) group of proteins act as chromatin
+modifiers and regulate cancer phenotype. Among all PcG family of proteins,
+EZH2 [Enhancer of Zeste homolog 2] that belongs to PRC2 complex,
+bind effectively to target promoters and methylates histone
+H3 at Lys27 there by resulting in transcriptional silencing (Czermin
+et al., 2002). Thus, we have examined possible role of these microRNAs
+(miR-15 and 16) in regulating the Twist1, EZH2 mRNA levels. Enforced
+expression of microRNAs resulted in decreased mRNA levels of the
+genes in MDA-MB-231 cells as well as neuroblastoma cells (Fig. 5 &
+Additional Fig. 4). This indicates that miR-15 and miR-16 regulate
+tumor suppression partly by affecting the EMT signaling.
+Compelling evidence has indicated the ability of single miRNA to target
+multiple target mRNAs. Moreover, understanding the role of miRs in
+tumor cells provides valuable information about the miRNA involvement
+in the regulation of molecular networks that result in cancerous
+phenotype. MicroRNAs such as miR-199a-3p, miR-99a, miR-100, miR101,
+miR-7 target the 3′-UTR of mTOR (Nagaraja et al., 2010; Fornari
+et al., 2010). Reports indicate that microRNA i.e. miR-145 was found
+to target 3′-UTR of S6K1 and inhibit angiogenesis (Xu-Monette et al.,
+2012). Based on all the findings on p53 and mTOR/S6K1, we have
+attempted to understand the effects of enforced expression of tumor
+suppressor microRNAs miR-15 and miR-16 on S6K1 as well as mTOR.
+
+5. Conclusions
+
+In silico studies shown that these miRs such as miR-15 and miR-16 can
+bind to 3′-UTR of S6K1. The current study envisaged the importance
+of miR-15/16 in regulating RPS6KB1 in MDA-MB-231 cells that lack
+functional p53. Loss- and gain-of-function of p53 confirmed the importance
+of p53 in regulating the expression of miR-15/16. Enforced expression
+of miR-15/16 has resulted in G1 cell cycle arrest and apoptosis in
+
+MDA-MB-231 cell line. This result is supported by significant decrease
+in the expression of cyclin D1, cyclin E, Cdk2, Cdk4 as well as pronounced
+increase in the expression of tumor suppressors (p53, p21) and proteins
+involved in apoptosis (caspase-3, 9 and PARP). It was reported that the
+presence of mutant p53 in cell lines leads to drug resistance and promote
+cell migration and invasion (Kogan-Sakin et al., 2011; Wei et al., 2014). In
+addition to the tumor suppressor properties, these miRs were found to
+play a prominent role in the invasion and metastasis by regulating
+Twist1 and EZH2. Since, over 50% of human cancers have mutant p53,
+the functional restoration of miR-15/16 family that functions downstream
+of p53 pathway can be provided as a novel therapy for such cancers.
+Supplementary data to this article can be found online at http://dx.
+doi.org/10.1016/j.gene.2014.09.052.
+
+Author's contributions
+
+MJR, M.H., M.Z. have conducted experiments. MJR and UB, MPB have
+conceived the idea, performed data analysis and drafted the manuscript.
+All authors read and approved the final manuscript.
+

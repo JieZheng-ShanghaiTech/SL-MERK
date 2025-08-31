@@ -1,0 +1,643 @@
+LETTERS
+
+Synthetic lethal screen identification of
+chemosensitizer loci in cancer cells
+
+Angelique W. Whitehurst1
+, Brian O. Bodemann1
+, Jessica Cardenas1
+, Deborah Ferguson2
+, Luc Girard3
+,
+Michael Peyton3
+, John D. Minna3,4, Carolyn Michnoff5
+, Weihua Hao5
+, Michael G. Roth5
+, Xian-Jin Xie4,6
+& Michael A. White1,4
+
+Abundant evidence suggests that a unifying principle governing the
+molecular pathology of cancer is the co-dependent aberrant regulation
+of core machinery driving proliferation and suppressing
+apoptosis1
+. Anomalous proteins engaged in support of this tumorigenic
+regulatory environment most probably represent optimal
+intervention targets in a heterogeneous population of cancer cells.
+The advent of RNA-mediated interference (RNAi)-based functional
+genomics provides the opportunity to derive unbiased comprehensive
+collections of validated gene targets supporting critical biological
+systems outside the framework of preconceived notions of
+mechanistic relationships. We have combined a high-throughput
+cell-based one-well/one-gene screening platform with a genomewide
+synthetic library of chemically synthesized small interfering
+RNAs for systematic interrogation of the molecular underpinnings
+of cancer cell chemoresponsiveness. NCI-H1155, a human nonsmall-cell
+lung cancer line, was employed in a paclitaxel-dependent
+synthetic lethal screen designed to identify gene targets that specifically
+reduce cell viability in the presence of otherwise sublethal
+concentrations of paclitaxel. Using a stringent objective statistical
+algorithm to reduce false discovery rates below 5%, we isolated a
+panel of 87 genes that represent major focal points of the autonomous
+response of cancer cells to the abrogation of microtubule
+dynamics. Here we show that several of these targets sensitize lung
+cancer cells to paclitaxel concentrations 1,000-fold lower than
+otherwise required for a significant response, and we identify
+mechanistic relationships between cancer-associated aberrant gene
+expression programmes and the basic cellular machinery required
+for robust mitotic progression.
+Paclitaxel and related taxanes are routinely used in the treatment of
+non-small-cell lung cancer (NSCLC) and other epithelial malignancies.
+Although objective responses and survival benefits are seen,
+complete responses are uncommon. Half-maximal inhibitory concentrations
+(IC50 values) of Paclitaxel in a panel of 29 human primary
+lung-tumour-derived cell lines spanned a wide range of concentrations,
+from 1 nM to more than 1 mM (M.P., L.G. and J.D.M., unpublished
+observations). From this panel, we selected the NSCLC line
+NCI-H1155 for a genome-wide paclitaxel synthetic-lethal screen,
+given the IC50 (about 50 nM) for this line, which is tenfold that
+observed for many other lines with similar proliferation rates. A
+high-efficiency, high-throughput short interfering RNA (siRNA)
+reverse transfection protocol was designed on the basis of our observations
+that transient trypsin-mediated suspension of adherent cultures
+markedly enhances the cellular uptake of liposome/nucleic acid
+particles2,3 (Supplementary Fig. 1a).
+We employed a library of 84,508 siRNAs corresponding to four
+unique siRNA duplexes, targeting each of 21,127 unique human genes
+
+arrayed in a one-gene–one-well format on 96-well microtitre plates
+(Supplementary Table 1). Transfections were performed in sextuplicate
+for triplicate analysis in the presence and the absence of paclitaxel
+(Supplementary Fig. 1b). A 48-h exposure to 10 nM paclitaxel was
+used as an otherwise innocuous dose that was in range of a significant
+response at a tenfold higher drug concentration (Supplementary Fig.
+1c). Cell viability was measured using ATP concentration, and raw
+values were normalized to internal reference control samples on each
+plate to permit plate-to-plate comparisons4 (Supplementary Table 1
+and Supplementary Fig. 1f). Each siRNA pool was assigned a viability
+ratio calculated as mean viability in paclitaxel divided by mean viability
+in the absence of drug (meanpaclitaxel/meancarrier) (Supplementary
+Fig. 1d).
+An objective protocol for the selection of significant ‘hits’ was
+derived to combine reproducibility of testing with magnitude of
+response (Supplementary Fig. 1e, and Methods described therein).
+First, we set a 5% false discovery rate (FDR) by using two-sample
+t-tests from the triplicate analysis together with P-value corrections
+for the multiplicity of testing5–8 (Supplementary Table 2). Second, we
+selected all samples that both satisfied a 5% FDR and were present in
+the 2.5-centile rank of the viability ratios (Supplementary Table 3 and
+Supplementary Fig. 1e). A set of 87 candidate paclitaxel-sensitizer
+loci, defined as ‘high-confidence hits’, was identified that satisfied
+these criteria (Table 1). Retests of a subset of these candidates with
+independently synthesized siRNA pools reproduced a significant response
+to 10 nM paclitaxel (Fig. 1a).
+A 5% FDR is a highly stringent cut-off that may produce many false
+negatives. Nonetheless, this cut off returned many candidates with
+overlappingfunctional relationships, including macromolecular complexes,
+receptor–ligand pairs, and products of related aberrant geneexpression
+programmes (Table 1, Fig. 1b–e, and Supplementary Table
+4). Most striking was the presence of a large group of core components
+of the proteasome (Fig. 1b), consistent with numerous empirical
+observations of enhanced sensitivity to paclitaxel in cancer cells after
+proteasome inhibition. Multiple targets encoding proteins involved in
+the dynamics and function of microtubules were also isolated9
+(Table 1). Relaxing the FDR to 10% returned most of the known main
+components of the c-tubulin ring complex (c-TuRC), a central element
+of the microtubule organizing centres that nucleate the formation
+of the mitotic spindle10 (Fig. 1c, and Supplementary Table 4).
+Isolation of these components is evocative of a successful primary
+screen, because the mitotic spindle apparatus is exquisitely sensitive
+to the inhibition of microtubule dynamics by paclitaxel and is probably
+the biologically relevant drug target in cancer cells11. The probabilities
+of this extent of enrichment of proteasome subunits and of
+c-TuRC subunits by random chance are 1 in 1010 (P # 0.0000000001)
+1
+Department of Cell Biology, 2
+Reata Pharmaceuticals, 3
+Hamon Center for Therapeutic Oncology Research, 4
+Simmons Cancer Center, 5
+Department of Biochemistry, and 6
+Center for
+Biostatistics and Clinical Science, University of Texas Southwestern Medical Center, Dallas, Texas 75390, USA.
+
+Vol 446| 12 April 2007| doi:10.1038/nature05697
+
+815
+
+©2007 NaturePublishingGroup
+and 1 in 3 3 109 (c-TuRC, P # 0.000000003), respectively, as calculated
+by hypergeometric distribution analysis.
+A surprising observation was the enrichment of genes, the expression
+of which is normally restricted to the testis. Four of these are
+known to encode tumour antigens that are markedly upregulated in
+many tumour types including NSCLC, breast cancer and melanoma
+(Fig. 1e; P # 0.003 (hypergeometric distribution)). The restricted
+expression pattern and immunogenicity of cancer/testis antigens
+(CT antigens) has driven forward efforts for their use in cancer vaccines
+even in the absence of functional information12. Their identification
+in this screen suggests the obligatory participation of some
+CT antigens in aberrant cancer-cell regulatory programmes.
+
+To probe the extent of chemosensitization that can be conferred by
+target gene depletion, a panel representing six functionally diverse
+groups from the ‘high-confidence’ hit list was selected. This panel
+included the following: CT-antigen ACRBP; the proteasome subunit
+PSMA6; the c-TuRC protein TUBGCP2; a heparin sulphate transferase,
+HS6ST2, with significantly enriched expression in lung tumour
+tissue compared with normal lung (L.G. and J.D.M., unpublished
+observations); a vacuolar ATPase subunit, ATP6V0D2, expressed
+from a locus amplified in several lung cancer lines; and FGD4, a
+CDC42 activator. As controls for ‘off-target’ siRNA phenomena,
+we verified that each siRNA pool resulted in target gene knockdown,
+that at least two single siRNAs would recapitulate the phenotype
+
+Table 1 | High-confidence hit list
+Symbol Comments; motifs Symbol Comments; motifs
+Proteasome Transcription
+PSMA6 Proteasome subunit RP9 ZnF_C2HC
+PSMA7 Proteasome subunit ZFPM1 ZnF_C2H2(x9)
+PSMA8 (MGC26605) Proteasome subunit ZNF503 ZnF_C2H2
+PSMB1 Proteasome subunit ZNF585A KRAB; ZnF_C2H2(x21)
+PSMC3 Proteasome subunit C11ORF30 ENT
+PSMD1 Proteasome subunit TRIM15 RING, BBOX, PRY, SPRY
+PSMD3 Proteasome subunit
+Translation
+Microtubule-related RARSL Arginyl-tRNA synthetase-like; Arg_S Core, tRNAsynt_1d_CTUBGCP2
+c-TURC subunit; Spc97_Spc98 LOC390876 Similar to 60S ribosomal protein L35; coiled-coil
+TUBA8 a-Tubulin LOC388568 Similar to ribosomal protein S15 isoform
+DNHD1 (FLJ32752) Dynein heavy-chain subunit SYMPK
+DNAH10 (FLJ43808) Dynein heavy-chain subunit SYNCRIP RRM
+TBL1Y Transducin (b)-like 1Y-linked; LisH, WD40 BCDIN3 (FLJ20257) Bin3, PrmA
+MPP7 MAGUK family; L27, PDZ_signalling, SH3,
+GMPK
+LOC144233 Bin3
+
+Post-translational modification Channel
+FBXO18 FBOX, UvrD-helicase ATP6V0D2 Lysosomal H1 transporter; vATP-synt_AC39
+RAI17 Similar to PIAS; zf-MIZ SLC34A3 Solute carrier; Na_Pi_cotrans
+RNF151 RING
+LOC389822 (DKFZp434E1818) Transmembrane, RING Membrane protein
+LOC401506 (new LOC648245) RING BEAN Transmembrane, basic domain
+HS6ST2 Heparan sulphotransferase LRRTM1 LLRNT, LRR (39), transmembrane
+GAL3ST4 Galactose sulphotransferase MGC31967 Transmembrane, C-C
+MGC4655 Galactosyl_T TMC05 (MGC35118) Transmembrane, C-C
+
+Cell adhesion/ECM receptor Other
+PAPLN Proteoglycan-like sulphated glycoprotein;
+TSP1.KU, IGcam
+PDDC1 (FLJ34283) GATase1_Hsp31_like
+
+KIAA1920 Similar to chondroitin sulphate proteoglycan 4 C14ORF148 Predicted NADP oxidoreductase; P5CR
+LRFN5 LRR, COG4886, IGcam, transmembrane CWF19L2 Similar to CWF19; CwfJ_C_1, CwfJ_C_2
+MGC33424 IG_FLMN, CAP10, KDEL PRICKLE1 Planar cell polarity, nuclear receptor for REST; PET,
+LIM (33)
+C1QTNF3 C1q CA10 Carbonic anhydrase; alpha_CARP_X_XI_like
+ITIH5 VIT, vWA_interalpha_trypsin_inhibitor FAM14B Similar to ISG12, aIFN-inducible; Ifi-6-16
+IGSF21 (MGC15730) IGcam TIP39 PTHR2 ligand
+HSN2 Hereditary sensory neuropathy locus
+Gametogenesis-associated/cancer
+testis antigens
+ACRBP sp32, Kazal Unknown
+FMR1NB Transmembrane (32), basic domain NOD9 NACHT, LRR
+STARD6 START F25965
+FSIP1 CC (32) LOC348262
+C8orf33 (FLJ20989)
+Receptor ANKRD41 (FLJ39369) Ankyrin domains (ANK)
+NTNG2 LamNT, EGF_Lam CCDC38 (FLJ40089) Coiled-coil
+GPR144 PTX, GPS, 7transmembrane_2 C2orf33 (GL004) DUF800
+PDCL Similar to phosducin NLF1 (LOC145741) NF-kB target gene
+BU077088 (LOC284409) Transmembrane
+Ras family BX103302 (LOC284931)
+FGD4 FYVE, RhoGEF and PH-domain-containing 4 LOC340109
+FLJ32810 Rho_GAP, SH3 C21orf111 (LOC388830)
+SIPA1L2 Rap_GAP, PDZ_signalling LOC400236
+RAB9A RAB LOC400861
+SYT13 Rab effector; C2 LOC55924
+LOC56181 DUF729
+MGC10701
+MGC15634
+LOC56390 (LOC388497)
+LOC257396
+
+LETTERS NATURE| Vol 446|12 April 2007
+
+816
+©2007 NaturePublishingGroup
+when tried separately, and that distinct pools of four more independent
+siRNAs against each gene also resulted in target knockdown and
+paclitaxel sensitization (Supplementary Fig. 2a–d).
+We next examined the consequence of target depletion on responses
+to a broad range of concentrations of paclitaxel, vinorelbine
+and gemcitabine. Paclitaxel and vinorelbine impair mitotic spindle
+assembly through independent mechanisms that suppress microtubule
+dynamics11. In contrast, gemcitabine induces replicationstress-dependent
+apoptosis through DNA chain termination13.
+Several targets displayed significant collaboration with paclitaxel
+concentrations 1,000-fold below that used for the primary screen
+(Fig. 2a). Exposure to paclitaxel for a further 24–48 h magnified these
+differences: some groups responded to paclitaxel concentrations
+10,000-fold lower than otherwise required (Fig. 2d). Cell survival
+curves and colony assays suggest that the decrease in cell number is
+a consequence of cell death rather than a transient delay in proliferation
+(Supplementary Fig. 3a, b). Some targets also significantly
+enhanced sensitivity to vinorelbine but, for the most part, only at
+concentrations at which vinorelbine alone detectably impaired cell
+viability (Fig. 2b). In contrast, target depletion had no remarkable
+
+consequence on the maximally effective concentration of gemcitabine
+in H1155 cells, although the non-responding cell population
+was decreased or eliminated in all cases (Fig. 2c).
+The apparent synergy that we observed between target depletion
+and paclitaxel, in comparison with other chemotherapeutic agents,
+suggests that genome-wide chemosensitizer screens return molecular
+components closely related to the mode of action of a particular drug.
+To test this directly, we examined the consequence of target depletion
+on the morphology of the mitotic spindle14. Depletion of FGD4
+resulted in a significant accumulation of otherwise normal-appearing
+mitotic figures in the absence of paclitaxel, indicating that this
+protein may be required for support of mitotic progression
+(Supplementary Fig. 4). Depletion of ACRBP and TUBGCP2,
+although not detectably affecting mitosis in the absence of drug,
+resulted in a marked accumulation of multipolar spindles in the
+presence of 10 nM paclitaxel (Fig. 3a, and Supplementary Fig. 5b).
+Multipolar spindle accumulation is typical after exposure to higher
+doses of paclitaxel in H1155 cells as well as in other cancer cell
+types9,11 (data not shown). Simultaneous depletion of MAD2, an
+obligate component of the spindle assembly checkpoint14, reversed
+the accumulation of mitotic figures with the concomitant appearance
+
+0.4
+0.6
+0.8
+1.0
+
+siRNA
+
+a
+
+High confidence 2.5th centile
+PSMA6
+NTN2
+PSMD3
+FMR1NB
+FBXO18
+FGD4
+ITIH5
+HS6ST2
+CA10
+MPP7
+SYMP
+TUBGCP2
+ACRBP
+PSMB1
+GAL3ST4
+TBL1Y
+PSMC2
+PRICKLE1
+NGL1
+FATE1
+CSN1S2A
+LIN-9
+KLHL22
+ATP6V0D2
+0
+0.2
+1.2
+
+c
+
+e
+
+ACRBP FATE FMR1NB NXF2 DLNB14
+
+Percentage
+of control
+
+0
+25
+50
+75
+100
+
+siRNA
+
+b
+
+d
+
+Fraction of control
+
+Figure 1 | Functional relationships among candidate paclitaxel-sensitizing
+siRNA targets. a, Retests of a panel of independently synthesized siRNA
+pools targeting candidate genes that modulate paclitaxel sensitivity. Results
+are cell viability normalized to control siRNA-transfected samples and are
+shown as means and s.e.m. for n 5 3. Black bars, no paclitaxel; white bars,
+10 nM paclitaxel. b, Proteasome. Red shading indicates satisfaction of 5%
+FDR, pink shading indicates satisfaction of 10% FDR. c, c-TuRC and related
+components of the mitotic spindle apparatus. Shading is as in b. d, Ligand–
+receptor pairs. Shading is as in b. e, CT antigens. Results are viability
+normalized as a percentage of control siRNA transfected samples (DLNB14)
+and are shown as means and s.e.m. Black bars, 0 nM paclitaxel; white bars,
+10 nM paclitaxel. siRNA gene shading is as in b. Values are representative of
+a minimum of three independent experiments.
+
+a
+
+b
+
+c
+
+50
+100
+
+0
+
+150
+
+Gemcitabine (nM)
+
+Vinorelbine (nM)
+
+50
+100
+
+0
+
+150
+
+10–3 10–2 102 103 10–1 100 101 0
+
+10–3 10–4 104 10–2 102 103 10–1 100 101 0
+
+10–3 10–4 104 10–2 102 103 10–1 100 101 0
+
+50
+100
+
+0
+
+150
+
+Paclitaxel (nM)
+Percentage of control
+
+Percentage of control
+
+Percentage of control
+
+DLNB14, 72 h
+DLNB14, 96 h
+ACRBP, 72 h
+ACRBP, 96 h
+TUBGCP2, 72 h
+TUBGCP2, 96 h
+
+d
+
+0
+2
+4
+3
+5
+
+1
+
+Paclitaxel (nM)
+0 0.0001 0.001 0.01 0.1 0.00001
+Arbitrary light units (×107)
+
+DLNB14
+
+OR1A2
+
+ACRBP
+
+TUBGCP2
+
+ATP6V0D2
+
+PSMA6
+
+FGD4
+
+HS6T2
+
+Figure 2 | Drug sensitivity profiles. a–c, H1155 transfected with siRNAs
+targeting the indicated genes (DLNB1 and OR1A2 are control siRNAs) were
+exposed to paclitaxel (a), vinorelbine (b) or gemcitabine (c) 48 h after
+transfection at the indicated doses for 48 h. Results are viability normalized
+to siRNA-transfected samples in the absence of drug and are shown as means
+and s.e.m. Values are representative of three independent experiments.
+d, H1155 transfected with siRNAs targeting the indicated genes were treated
+with paclitaxel 48 h after transfection for the indicated times. Bars are cell
+viability obtained with Cell Titer Glo and are shown as means and s.e.m.
+
+NATURE| Vol 446|12 April 2007 LETTERS
+
+817
+
+©2007 NaturePublishingGroup
+of numerous micronucleated cells, indicating mitotic slippage
+through a defective spindle assembly checkpoint (Fig. 3a). Depletion
+of PSMA6, HS6ST2 and ATP6V0D2 did not affect mitotic
+spindle assembly (data not shown).
+Given the significant genetic heterogeneity between cancer cell
+lines we next examined the effect of target depletion on a panel of
+lung lines, with diverse paclitaxel IC50 values, that included the
+NSCLC line HCC4017 and normal, non-malignant bronchial epithelial
+line HBEC30 (ref. 15), isolated from the same individual. Out of
+12 targets tested with the patient-matched tumour and normal lines,
+the depletion of 4 targets selectively sensitized the tumour-derived
+line to low-dose paclitaxel (Supplementary Fig. 5a). Two of the four
+sensitizers were in the CT-antigen family. Three out of four CT
+antigens tested also sensitized at least one additional NSCLC line to
+low-dose paclitaxel with no measurable consequences on the viability
+of HBEC30 cells. Not surprisingly, proteasome subunit depletion was
+
+broadly effective in tumour cells in comparison with normal cells
+(Supplementary Fig. 5a).
+We also examined the effect of ACRBP or TubGCP2 depletion on
+mitotic progression in these lines. Although neither ACRBP nor
+TUBGCP2 depletion affected cell viability as assessed by ATP concentration
+in H1299 and H2126 NSCLC cells, depletion of these
+targets did enhance paclitaxel-induced mitotic arrest (Supplementary
+Fig. 5b). The lack of change in viability may reflect differences in
+the coupling of spindle assembly checkpoint machinery to apoptosis
+in different cancer cell lines16. Consistent with this was our observation
+that depleting ACRBP or TUBGCP2 sensitized H1155 cells
+to paclitaxel-induced caspase activation (Supplementary Fig. 5d),
+whereas in H2126 cells, depletion of ACRBP collaborated with paclitaxel
+to inhibit proliferation (Supplementary Fig. 6a). In addition,
+the depletion of either ACRBP or TUBGCP2 in lung-tumour-derived
+cell lines lacking a robust spindle assembly checkpoint (HCC366,
+HCC15 or HCC4017) was sufficient to induce the accumulation of
+non-proliferating micronucleated cells, which are normally observed
+after exposure to paclitaxel (Fig. 3c, and Supplementary Fig. 6b, c).
+These observations highlight the emerging concept that products of
+anomalous gene-expression programmes can become engaged to
+buttress the fundamental biological systems required for the proliferative
+fitness of cancer cells. In a specific sense, aberrant expression
+of proteins such as ACRBP may contribute to mitotic progression in
+cancer cells by enhancing the robustness of an otherwise weakened
+mitotic spindle apparatus.
+An expected outcome of genomic chemosensitizer screens is the
+identification of gene products that are targets of currently available
+compounds, indicating novel combinatorial therapeutic regimens.
+Our isolation of the proteasome exemplifies this relationship because
+collaboration between bortezomib, a proteasome inhibitor, and paclitaxel
+has been demonstrated clinically17. Isolation of ATP6V0D2, a
+subunit of the vacuolar ATPase (V-ATPase)18 (Table 1 and Fig. 1a),
+predicts that lysosomal ATPase-inhibitors may be effective cytocidal
+agents in combination with paclitaxel. Salicylihalamide A was originally
+identified as an anti-tumour agent and was subsequently found to
+target V-ATPase activity directly19,20. Exposure of H1155 cells to
+increasing doses of a synthetic salicylihalamide derivative21, RTA 203,
+together with low-dose paclitaxel revealed a significant collaborative
+impact on viability at doses well below that required for the activity
+of a single agent (Fig. 3d, e). This observation highlights the strong
+predictive power of genome-wide synthetic-lethal screens for identification
+of productive drug–drug interactions. We have used a highthroughput
+functional-genomics screening platform, together with an
+objective ‘hit’ selection criterion derived from probabilistic judgments
+of error rates, to produce an unbiased and high-confidence
+collection of the molecular components modulating chemosensitivity
+in lung cancer cells. The results reveal major fulcrums of the autonomous
+response of cancer cells to abrogation of microtubule dynamics; the
+results also identify therapeutic targets for combinatorial chemotherapy
+and highlight a major contribution of cancer-associated anomalous
+gene expression patterns for support of mitotic progression in cancer
+cells.
+
+METHODS
+All cells were reverse-transfected with siRNA pools complexed with
+DharmaFECT reagent (optimized for each cell type). Cells were treated 48 h
+after transfection and viability was assessed after an additional 48 h. For screening
+data analysis, each siRNA pool was assigned a viability ratio. Viability
+ratios were ranked by reproducibility between three replicates for each condition,
+using a two-sample t-test followed by a Benjamini–Hochberg correction.
+Immunofluorescence was performed with the use of standard fixation and permeabilization
+protocols. Cells were stained with monoclonal b-tubulin antibodies,
+polyclonal pericentrin antibodies, bromodeoxyuridine or antibodies against
+cleaved caspase-3 followed by secondary labelling with secondary fluorescein
+isothiocyanate-conjugated anti-mouse antibodies or tetramethylrhodamine
+b-isothiocyanate-conjugated anti-rabbit antibodies. Cells were observed under
+a Zeiss Axioplan 2E microscope equipped with a Hamamatsu monochrome
+
+siRNA OR1A2
+ACRBP
+MAD2
+ACRBP
+MAD2
+ERK1/2
+
+b
+
+0 Pac. RTA203
+
+10
+8
+6
+4
+2
+0
+Apoptosis (%)
+
+d e
+
+10 20 10 20 10 20 10 20 10 20
+
+1.2
+
+1.0
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+100 200 300 400 500
+Fraction remaining
+
+Drug (nM)
+Pac.
+RTA203
+
+0 0 100 0
+
+c
+
+a
+
+DAPI
+
+0 nm paclitaxel 10 nm paclitaxel
+10 nm pac. +
+MAD2 siRNA
+
+DAPI/ pericentrin
+β-Tubulin DAPI/ pericentrin
+β-Tubulin
+
+Paclitaxel (nM)
+
+Pac. +
+RTA203
+
+siRNA OR1A2 OR1A2 ACRBP TUBGCP2
+
+OR1A2
+
+ACRBP
+
+TUBGCP2
+
+siRNA
+
+Figure 3 | Convergence of paclitaxel and sensitizer gene function on
+mitotic spindle integrity. a, At 48 h after transfection with the indicated
+siRNAs, H1155 cells were exposed to the indicated paclitaxel concentrations
+for 24 h. Microtubules, genomic DNA and centrosomes were revealed by
+immunostaining with b-tubulin, 4,6-diamidino-2-phenylindole (DAPI) and
+a-pericentrin, respectively. Arrowheads indicate the formation of
+micronuclei as a consequence of bypass of MAD2-dependent mitotic spindle
+checkpoint arrest. Pictures are representative of a minimum of five
+independent experiments. Pac., paclitaxel. b, siRNA-dependent depletion of
+ACRBP and MAD2 was verified by immunoblots of whole-cell lysates from
+a. c, The interphase nuclear morphology of HCC366 cells transfected with
+the indicated siRNAs was examined with DAPI. Arrowheads indicate cells
+containing multiple micronuclei. Pictures are representative of a minimum
+of three independent experiments. d, Collaborative impact of paclitaxel and
+RTA-203 on H1155 cell viability. Results are viability normalized to
+untreated control samples (black bar) and are shown as means and s.e.m.
+Yellow bars, RTA-203 alone; blue bars, paclitaxel alone; green bars, RTA-203
+plus paclitaxel at the indicated doses. Values are representative of three
+independent experiments. e, Percentage apoptosis as indicated by cleaved
+caspase-3 immunostaining of H1155 cells after a 24-h exposure to 10 nM
+paclitaxel or 200 nM RTA-203, or a combination of both. Error bars show
+s.e.m. for four independent experiments.
+
+LETTERS NATURE| Vol 446|12 April 2007
+
+818
+©2007 NaturePublishingGroup
+digital black-and-white camera and Open Lab Software. Quantitative polymerase
+chain reaction was performed on RNA extracted from all cells with the Roche
+LightCycler System or the 7900HT Fast Real-Time PCR System with primers
+flanking at least two siRNA target sequences and lying on separate exons. Growth
+inhibition assays were performed with a Sulphorhodamine B protocol on cells
+treated for 48 hours with the indicated drugs22. For colony formation assays,
+transfected and treated cells were replated and stained with Geimsa 5 days later.
+Immunoblots were performed on whole-cell lysates from H1155 cells with the
+use of standard protocols.
+A detailed description of the screening strategy and statistical analysis is given
+in Supplementary Fig. 1 and Supplementary Methods. Optimized transfection
+protocols and growth conditions for the multiple cell lines used in this study are
+described in Supplementary Table 6. siRNA sequences and reverse transcriptasemediated
+polymerase chain reaction primers are described in Supplementary
+Tables 5 and 7. Methods for standard viability assays and quantification of
+mitotic progression are also included in Supplementary Methods.
+Received 26 October 2006; accepted 20 February 2007.

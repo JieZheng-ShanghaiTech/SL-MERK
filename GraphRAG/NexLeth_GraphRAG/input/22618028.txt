@@ -1,0 +1,520 @@
+Abstract
+The Hippo signaling pathway is functionally conserved in
+Drosophila melanogaster
+and mammals, and its proposed function is to control tissue homeostasis by regulating cell proliferation and apoptosis. The core components are composed of a kinase cascade that culminates with the phosphorylation and inhibition of Yes-associated protein 1 (YAP1). Phospho-YAP1 is retained in the cytoplasm. In the absence of Hippo signaling, YAP1 translocates to the nucleus, associates with co-activators TEAD1-4, and functions as a transcriptional factor promoting the expression of key target genes. Components of the Hippo pathway are mutated in human cancers, and deregulation of this pathway plays a role in tumorigenesis. Loss of the
+NF2
+tumor suppressor gene is the most common genetic alteration in meningiomas, and the
+NF2
+gene product, Merlin, acts upstream of the Hippo pathway. Here, we show that primary meningioma tumors have high nuclear expression of YAP1. In meningioma cells, Merlin expression is associated with phosphorylation of YAP1. Using an siRNA transient knockdown of YAP1 in
+NF2
+-mutant meningioma cells, we show that suppression of YAP1 impaired cell proliferation and migration. Conversely, YAP1 overexpression led to a strong augment of cell proliferation and anchorage-independent growth and restriction of cisplatin-induced apoptosis. In addition, expression of YAP1 in nontransformed arachnoidal cells led to the development of tumors in nude mice. Together, these findings suggest that in meningiomas, deregulation of the Hippo pathway is largely observed in primary tumors and that YAP1 functions as an oncogene promoting meningioma tumorigenesis.Introduction
+Biallelic inactivation of the
+NF2
+gene is observed in patients with neurofibromatosis type 2 (NF2) resulting in the development of tumors of the central nervous system (CNS), including meningiomas (
+1
+). Loss of the
+NF2
+gene is observed in the majority of sporadic meningiomas of all histopathologic grades and it is thought to be an early event in the tumorigenesis of these tumors (
+1
+,
+2
+). In addition, genetic mouse model based on leptomeningeal knockout of the
+Nf2
+gene led to the development of meningiomas (
+3
+,
+4
+). Taken together, these observations corroborate the association of the
+NF2
+tumor suppressor gene as an initiating mechanism in meningioma tumorigenesis (
+3
+,
+5
+,
+6
+). The
+NF2
+gene product, Merlin, is a FERM (four-point-one protein, ezrin, radixin, and moesin) domain protein associated with the membrane cytoskeleton and capable of interactions with numerous proteins, including CD44, reviewed in the work of Okada and colleagues (
+7
+). Upon phosphorylation at serine-518 residue by p21-activated kinase (PAK1), Merlin alternates to an open conformation. It is the closed and unphosphorylated form of Merlin that shows activity as a tumor suppressor (
+8
+).
+The Hippo cascade, initially identified in
+Drosophila
+, is one of the signaling pathways downstream of Merlin. Mammalian counterparts of this pathway have been identified and characterized as pivotal for normal cellular development (
+9
+,
+10
+) and organ size control (
+11
+,
+12
+). Moreover, overexpression of Yes-associated protein 1 (YAP1), the central effector of the pathway, in human nontransformed mammary epithelial cells generated altered phenotype cells that exhibited prominent tumorigenic characteristics (
+13
+). Recently, Zhang and colleagues (
+11
+) showed that inactivation of
+Nf2
+in mouse hepatocytes and biliary epithelial cells was accompanied with YAP1 activation and led to the formation of hepatocellular carcinoma and bile duct hamartoma, strongly suggesting a role for the Hippo pathway in carcinogenesis. The core of the Hippo pathway is composed of a phosphorylation cascade of events that culminates with the phosphorylation and inhibition of YAP1 (and/or its homolog TAZ, transcriptional coactivator with PDZ-binding motif; refs. 14, 15). Upon release of inhibition, YAP1 translocates to the nucleus where it associates with transcriptional co-activators TEAD1–4, to promote expression of target genes (
+16
+,
+17
+).
+Importantly, genetic alterations of Hippo pathway components have been associated with human cancers. Deletion of
+LATS2
+in a subset of human mesotheliomas has been identified, implicating
+LATS2
+as a tumor suppressor gene (
+18
+). Other significant genetic alterations of components of the pathway include: homozygous deletion of
+WW45
+in renal carcinoma cells (
+19
+);
+NF2
+mutation in sporadic Schwannoma (
+20
+) and mesothelioma (
+21
+); hypermethylation of
+MST
+in soft tissue sarcoma (
+22
+); and overexpression of
+TAZ
+in breast cancer (
+15
+). In contrast, deletion of 11q22 locus, the
+YAP1
+chromosomal location, is frequent in breast cancer, and in these cancers, YAP1 has been shown to associate with the p73 protein in the nucleus and regulate DNA repair and apoptosis (
+23
+). Thus, under certain cellular context, YAP1 appears to function as a tumor suppressor.
+In meningiomas, it has been reported that
+NF2
+loss confers a proliferation advantage to tumor cells. Moreover,
+YAP1
+knockdown in
+NF2
+-deficient cells rescues the effects of Merlin loss on cell proliferation and restores normal proliferation rates (
+24
+). However, the functional contribution of
+YAP1
+expression in meningiomas has not been fully explored. Using human cells lines and
+in vivo
+mouse models, we investigated the role of YAP1 in meningiomas and its effects on cell proliferation, migration, apoptosis, and tumorigenesis. Here, we present strong evidence that YAP1 is activated upon loss of
+NF2
+gene and functions as an oncogene promoting meningioma tumorigenesis.Materials and Methods
+Human cell lines
+Cells were cultured in Dulbecco’s Modified Eagle’s Medium (DMEM) supplemented with 10% FBS and penicillin/ streptomycin. The non-neoplastic meningeal cells, AC1, and meningioma cells SF4068 and SF6717 were immortalized with human telomerase and E6/E7 oncogenes, as described earlier (
+24
+,
+25
+). The KT21MG1 cell line was established from a human malignant meningioma and is
+NF2
+-mutant, as previously described (
+26
+). The SF1335 is an
+NF2
+-mutant cell line established from a benign meningioma (
+27
+) and was kindly provided by Dr. Marco Giovannini (House Ear Institute, Los Angeles, CA).
+YAP1 construct and cell transfections
+The pEGFP-N2-YAP1 expression construct was a gift from Dr. Yoshitaka Sekido (Nagoya University, Nagoya, Japan; ref.
+28
+). YAP1 expression construct and empty vector (pEGFP-N2) were transfected into meningioma cells using Lipofectamine 2000 (Life Technologies). Nontransfected cells were used as a negative control for selection. Cells were cultured for 5 days with G418 at 500 µg/mL before assays were conducted.
+siRNA transient knockdown
+siRNA duplexes (27-mer) YAP1#5 (AAAUAAAGC-CAUUUCUGGUUUGCUCCU) and YAP1#8 (ACUGG-CAAAUUAUAGGCACUCCUUCCA) were purchased from IDT DNA Technologies. Transient transfections of duplex oligos (final concentration of 10 nmol/L) were carried out by using Lipofectamine 2000 (Life Technologies), following the manufacturer’s instructions. Nontargeting GFP siRNA (IDT DNA Technologies) was used as a control. alamarBlue reagent (Life Technologies) was added to the wells, and its fluorescence was read daily over the indicated period of time in a Victor-3 plate reader (Perkin-Elmer). For Western blot analysis, cells were collected 72 hours after siRNA transfection.
+Quantitative PCR
+Total RNA was purified using the RNeasy Mini Kit (Qiagen), and RNA amounts were estimated by NanoDrop Spectophotometric analysis (Thermo Scientific). One microgram of RNA for each sample was reversed-transcribed to cDNA by using iScript DNA Synthesis Kit (BioRad). Quantitative PCR was carried out in duplicate on cDNA templates using SsoFast Probes Supermix Kit (BioRad) in a BioRad cycler. TaqMan Gene Expression Assays (Life Technologies) for
+NF2
+(Hs00966302_m1),
+YAP1
+(Hs00902712_g1), and transferrin receptor (Hs00951091_m1) were used. The expression of transferrin receptor was used for assay normalization. The PCR conditions were 95°C for 10 minutes followed by 40 cycles at 95°C for 15 seconds and 60°C for 1 minute. Duplicate threshold cycles (
+C
+t
+) were averaged for each sample. Relative quantification of gene expression (relative amount of target RNA) was determined using the equation 2
+−ΔΔCt
+.
+Antibodies
+Commercial antibodies were purchased and used at the dilutions stated as follows: rabbit polyclonal anti-NF2 (1:500) from Sigma Prestige Antibodies; rabbit polyclonal anti-YAP (1:500), rabbit polyclonal anti-phospho-YAP (S127) (1:500), and rabbit polyclonal full-length and cleaved PARP (1:1,000) from Cell Signaling; and rabbit polyclonal anti-GAPDH (glyceraldehyde-3-phosphate dehydrogenase; 1:1,000) from Santa Cruz.
+Cell proliferation assay
+Cells in log-phase were trypsinized, counted, and 10
+3
+cells per well were plated in a 96-well black flat-bottom plates, in a total volume of 200 µL of growth medium. Twenty microliters of alamarBlue reagent (Life Technologies) was added. Plates were incubated in 5% CO
+2
+and 37° C. Fluorescence was measured at indicated time points at 540-nm excitation/ 590-nm emission wavelengths using a Victor-3 automated plate reader (Perkin-Elmer). Growth curves were analyzed by using GraphPad Prism software. To determine the doubling time cell population, 10
+4
+cells were plated in triplicate in 6-well plates, and cells were counted daily using trypan blue. Averages of individual growth data were used to calculate the cell population doubling times by using the Doubling-Time Software v1.0.10 (
+http://www.doubling-time.com
+).
+Wound-healing migration assay
+Experimental cells transfected with siRNA oligos were plated in triplicate in 6-well plates to near 100% confluence. Cells were allowed to adhere for 12 hours. Next, at 48-hour time point after siRNA transfection, cells were incubated with 10 µmol/L mitomycin C(Sigma-Aldrich) for 4 hours to prevent proliferation effect. Then, the wells were washed twice with FBS, fresh media were replaced, and the bottom of wells was diametrically scratched with a pipette tip. Migration of cells was observed every 10 hours under the microscope and photographed at indicated times. A diagram of the migration assay time points corresponding to the siRNA transfection is shown in
+Supplementary Fig. S2B
+.
+Colony-forming efficiency assay
+Colony-forming efficiency assays were conducted as described earlier (
+29
+). Briefly, heavily irradiated (50 Gy) IOMM-Lee cells were plated as feeder cells in 6-well plates (30,000 cells per well). Twenty-four hours later, 600 experimental cells were plated in triplicate wells. Plates were incubated for 7 to 10 days until visible colonies were observed. Cells were washed in PBS, fixed in 10% formalin, and stained with crystal blue. Colonies of more than 50 cells were counted under a dissecting microscope.
+IC
+50
+assay
+Cells in log-phase were counted and plated (10
+3
+cells per well) in triplicate in 96-well black flat-bottom plates in a total of 200 µL of medium, and 20 µL of alamarBlue reagent was added. Two microliters of cisplatin in increasing concentrations, ranging from 1 nmol/L to 500 µmol/L, was added. alamarBlue fluorescence was measured after 72 hours. The half maximum inhibitory concentration (IC
+50
+) of cisplatin was calculated using GraphPad Prism software.
+Western blot analysis
+Protein expression levels were analyzed by Western blotting standard protocols. Briefly, 50 µg of total protein extracts was resolved by electrophoresis in denaturing SDS-PAGE and transferred to polyvinylidene difluoride membrane. The membrane was blocked and incubated with commercially available antibodies, followed by incubation of secondary horseradish peroxidase (HRP)-conjugated antibodies. Bound antibodies were visualized by chemiluminescence by using SuperSignal West Pico Substrate (Pierce).
+Immunofluorescence
+Indirect immunofluorescence of YAP1 was conducted as previously described (
+25
+). Briefly, cells were grown in glass chamber slides for 24 hours, fixed, and sequentially blocked and incubated with YAP1 primary antibody followed by fluorescent-conjugated secondary antibody (Alexa 488 goat anti-rabbit IgG). Staining and protein subcellular localization were assessed by confocal microscopy.
+Tissue microarrays and immunohistochemistry
+Human meningioma tissue microarrays were used to study the expression of YAP1. Specimens were obtained upon appropriate Institutional Review Board approval. Tissue microarrays included tissue cores from 47 benign, 14 atypical, and 9 anaplastic meningiomas plus cores for control tissues, including the dura mater. A summary of all meningioma tumor samples is presented in
+Supplementary Table S1
+. For immunohistochemistry
+in situ
+, paraffin-embedded tissue sections (5 µm) were sequentially depar-affinized, rehydrated, and antigen unmasking was conducted by boiling the sections in antigen retrieval citrate solution (Biogenex) for 1 hour in a pressure cooker. Next, sections were blocked and incubated with primary antibody, followed by incubation with biotinylated secondary antibody and streptavidin-conjugated HRP (Super Sensitive Detection System, Biogenex). Sections were stained with 3,3′-diaminobenzidine (DAB) chromogen and counterstained with hematoxylin. Images of stained sections were visualized under a light microscope and photographed. A pathologist (B.A. Orr) blinded to the data scored the YAP1 immunostaining. Each tissue core was scored based on the percentage of positive nuclear labeling for YAP1. For each meningioma tumor sample, the average of YAP1 staining of duplicate tissue cores was calculated.
+Xenograft mouse model
+Mice intracranial implantations were conducted in accordance with an animal protocol approved by The Johns Hopkins Institutional Animal Care and Use Committee (Baltimore, MD). Meningioma cells were tagged with a firefly luciferase construct, under the control of the spleen focus forming virus promoter, via lentiviral transfection, as previously described (
+30
+,
+31
+). Bioluminescence imaging (BLI) was used to monitor tumor growth progression. AC1 cells were implanted orthotopically into athymic mice (6 mice per group), as previously described (
+24
+,
+32
+). Briefly, 6-week-old female athymic mice were anesthetized (ketamine, 80 mg/kg; xylazine, 10 mg/kg) and fixed in a stereotaxic frame. Cells (10
+5
+in 1 µL) were implanted into the floor of temporal fossa by using the following stereotaxic coordinates relative to the bregma: 2 mm to the right, 2 mm posterior, and 6 mm of depth. Animals were monitored 3 times every week and euthanized if they exhibit neurologic symptoms or had more than 15% of weight loss. After euthanasia, mice brains were formalin-fixed and processed for immunohistochemistry.
+Bioluminescence imaging
+Intracranial tumor growth was monitored by using the Xenogen IVIS 200 System (Caliper Life Sciences). Animals were anesthetized (ketamine, 80 mg/kg; xylazine, 10 mg/kg) twice a week, and BLI was conducted after intraperitoneal (i.p.) administration of 150 mg/kg of luciferin (Gold Biotechnologies).
+Statistical analysis
+The GraphPad Prism software version 5 was used for data plotting and statistical analysis. In summary, the Student
+t
+test was conducted to evaluate significant differences of
+in vitro
+cell growth following transfections. Quantitative data were analyzed as mean ± SD. A statistical significance was considered at
+P
+< 0.05.Results
+YAP1 is highly expressed in human meningiomas and localizes to the nucleus
+Immunohistochemistry
+in situ
+was used to investigate YAP1 expression and nuclear localization in clinical samples of meningiomas. We surveyed the YAP1 expression in a total of 188 tissue cores from 70 patients with meningiomas. The 188 tissue cores represented samples of all 3 WHO histopathologic grades of meningiomas, including normal tissue as control. Given the importance of YAP1 subcellular localization to its function, immunolabeling was scored on the basis of the total percentage of positive nuclear staining. Cytoplasmic staining was not scored. Meningiomas of all grades were positive for YAP1. Moreover, nuclear YAP1 labeling was abundant and markedly strong (
+Fig. 1
+). No substantial differences in YAP1 immunoreactivity were observed with regard to grade, sex, or histologic subtypes. Among all samples, 92% of nuclei in average presented YAP1 immunoreactivity (
+Supplementary Table S1
+). YAP1 immunostaining of normal tissue cores is shown in
+Supplementary Fig. S1
+.
+Open in a separate window
+Figure 1
+Immunohistochemical survey of YAP1 expression in benign, atypical, and anaplastic meningioma tumors. YAP1 was found to be highly expressed in all meningiomas regardless of histologic subtype and grade. The distribution of staining was consistently high in the nucleus with more variable staining in the cytoplasm. Vascular elements showed some YAP1 positivity, albeit reduced compared with the tumor. A minor percentage of cells have nuclei that are negative for YAP1 expression (black arrows). Original magnification, ×200.
+YAP1 expression in meningioma cell lines
+The phosphorylation status of YAP1 (S127) was investigated in a set of 4 meningioma cell lines and in the immortalized non-neoplastic arachnoidal cells (AC1) and correlated with the
+NF2
+status of the cell line. An antibody that recognizes the phosphorylation of serine 127 of YAP1 was used. The phosphorylation of the S127 site has been reported to be implicated with YAP1 cytoplasmic localization leading to its further degradation (
+28
+). We determined the
+NF2
+gene expression level by quantitative PCR followed by the immunoblotting to confirm the endogenous expression of Merlin, the
+NF2
+protein product, in the same cells.
+NF2
+transcript levels in SF1335 and KT21MG1 meningioma cells were more than 10-fold lower than the one in AC1 cells. In contrast, meningioma cell lines SF4068 and SF6717 showed levels of
+NF2
+transcript that were comparable with the levels in AC1 (
+Fig. 2A
+). Consistent with the quantitative PCR data, endogenous Merlin protein levels were absent or nearly undetectable in SF1335 and KT21MG1 cells, compared with SF4068, SF6717, and AC1 cells (
+Fig. 2B
+). YAP1 protein levels were detected by immunoblotting in all cell lines. Because phosphorylation of YAP1 (S127) is a key regulatory mechanism of the Hippo pathway, we investigated the levels of phospho-YAP1 in the same cells. Phospho-YAP1(S127) (inactivated form of YAP1) was only detected in Merlin-expressing cells (
+Fig. 2B
+). These results suggest that Merlin expression is associated with phosphorylation of serine 127 of YAP1. Thus,
+NF2
+status might be a critical mechanism for control of the Hippo pathway in meningiomas.
+Open in a separate window
+Figure 2
+YAP1
+knockdown suppresses
+in vitro
+cell proliferation and migration. A, quantitative real time-PCR analysis of
+NF2
+transcript in non-neoplastic cells (AC1) and meningioma cells (SF1335, KT21MG1, SF4068, and SF6717). B, immunoblotting of lysates of meningioma cells showing endogenous levels of proteins: Merlin, YAP1, and phospho-YAP1. GAPDH blotting is shown as protein loading control. C, YAP1 and GAPDH mmunoblotting of SF1335 and KT21MG1 transiently transfected with siRNA oligos targeting YAP1 or GFP, as a nontargeting control. Following YAP1 and GFP siRNA transient transfections, cells were plated for alamarBlue proliferation assay and wound-healing migration assay. Growth curve plots (top) and microscopic images representative of migration assays (bottom) conducted for SF1335 (D) and KT21MG1 (E) cells are shown (×40 magnification). *,
+P
+≤ 0.05. The
+P
+value is for YAP siRNAs versus GFP siRNA.
+YAP1 transient knockdown restrains cell proliferation and migration in
+NF2
+-mutant cells
+Next, we investigated whether YAP1 has a role in meningioma tumorigenesis. First, we knocked down YAP1 in SF1335 and KT21MG1 cells, by transient transfection of 2 siRNA oligos targeting
+YAP1
+. The GFP siRNA was used as negative control. Transfection of YAP1 siRNA oligos resulted in considerable suppression of endogenous YAP1 expression in both SF1335 and KT21MG1 cells, compared with the nontargeting GFP siRNA transfection control at both mRNA and protein levels (
+Fig. 2C
+;
+Supplementary Fig. S2A
+). Suppression of YAP1 mediated by siRNA transfection in both cells led to a significant decrease of cell proliferation (
+P
+≤ 0.05), as shown by the alamarBlue assay (
+Fig. 2D and E
+, top). Similar results were observed when YAP1 siRNA transfections were done on AC1 cells (data not shown). In addition to analyzing cell proliferation, we tested whether suppression of YAP1 affected meningioma cell motility. We conducted a wound-healing assay to compare cells transiently transfected with YAP1 siRNAs and GFP siRNA. Cells were incubated with 10 µmol/L of the cell proliferation inhibitor mitomycin C for 4 hours before the assay. In the presence of mitomycin C, suppression of YAP1 in SF1335 and KT21MG1 cells disrupted cell migration within 30 hours of the assay (
+Fig. 2D and E
+, bottom). In all, these results suggest that YAP1 expression might play a role in meningioma tumor growth by enhancing cell proliferation and motility.
+Ectopic expression of YAP1 promotes
+in vitro
+cell proliferation and anchorage-independent growth in arachnoidal and meningioma cells
+To further verify the function of YAP1, we investigated the consequences of overexpression of YAP1 in meningioma cells. Here, we included the non-neoplastic cells (AC1), both NF2/Merlin-expressing cells (SF4068 and SF6717) and the
+NF2
+-mutant SF1335 cells. Meningioma cells were either transfected with the YAP1 construct or the empty vector (pEGF-N2), and G418 was used to select transfected cells. Nontransfected cells were used as negative control for selection. Five days after selection with G418, the GFP fluorescence was visually checked under a microscope (
+Supplementary Fig. S3A
+). In both YAP1- and empty vector– transfected cells, the frequency of GFP fluorescent cells was greater than 70%. In addition, immunofluorescence was used to examine YAP1 subcellular localization upon YAP1 (or empty vector) transfections. As observed in
+Supplementary Fig. S3B
+, nuclear YAP1 is seen in the majority of the YAP1-transfected cells, although YAP1 cytoplasmic localization is also observed. Immunoblotting of transfected cells confirms overexpression of YAP1 cells, compared with control cells (empty vector;
+Fig. 3A
+). Next, YAP1 and control (empty vector) stably transfected cells were analyzed by conducting cell proliferation and colony-forming efficiency assays. A total of 10
+4
+cells were plated in triplicate in 6-well plates and counted daily over a 120-hour period. The average number of cells was calculated for each time point, and the cell growth data were plotted against time. Transduction of YAP1 in meningioma cells promoted
+in vitro
+cell proliferation, compared with the control cells (
+Supplementary Fig. S4
+). In addition, the doubling time population of cells growing from 0 to 72 hours was calculated for each cell type. Compared with the control cells (empty vector), YAP1-expressing cells were more proliferative, showing a lower doubling time population that ranged from 1.7- to 2-fold in difference (
+Table 1
+). Next, we tested whether YAP1 expression affected the anchorage-independent growth, a phenotype characteristic of tumor cells. IOMM-Lee feeder cells were first plated, and 24 hours later, experimental cells were plated in triplicate in 6-well plates. Cells transfected with empty vector were used as a control. Consistent with the cell proliferation data, YAP1-expressing cells exhibited an enhanced anchorage-independent growth in all cell lines tested (
+Fig. 3B and C
+). Moreover, the difference in number of YAP 1 cells forming colonies was statistically significant, compared with the control cells (
+P
+≤ 0.001). Thus, YAP1 overexpression in Merlin-expressing and -deficient meningioma cells increased cell proliferation and anchorage-independent growth, suggesting an oncogenic role for YAP1 in meningioma tumor formation.
+Open in a separate window
+Figure 3
+YAP1 overexpression promotes
+in vitro
+cell proliferation and anchorage-independent growth. A, YAP1 and GAPDH immunoblotting of meningioma cells transfected with either YAP1 construct or empty vector. Cells transfected with YAP1 show both endogenous YAP1 and YAP1 + EGFP. B, representative pictures of wells of colony-forming efficiency assay for cells transfected with either YAP1 or empty vector. C, quantification of colony-forming efficiency assay expressed in average of the total number of colonies per cell. *,
+P
+≤ 0.001. The
+P
+value is for YAP1 versus empty vector cells.
+Table 1
+Growth rates of meningioma cells associated with YAP1 expression indicated as doubling time of cells
+Doubling time, h
+Vector
+YAP1
+AC1
+27.4 ±1.3
+13.9 ±1.1
+SF1335
+27.6 ± 0.8
+12.9 ± 0.4
+SF4068
+24.8 ±1.7
+14.5 ± 0.2
+SF6717
+23.7 ± 2.1
+15.1 ± 0.8
+Open in a separate window
+NOTE: Doubling times were calculated for cells in exponential growth from 0 to 72 hours of culture. Cells transfected with empty vector were used as controls.
+Overexpression of YAP1 inhibits the effect of proapoptotic cisplatin treatment
+In addition to promoting cell proliferation and migration, we sought to investigate whether YAP1 expression also conferred resistance to apoptosis. G418-resistant cells, AC1, SF1335, SF4068, and SF6717, transfected either with YAP1 or empty vector (pEGFP-N2) were plated in 96-well plates in triplicate (10
+3
+cells per well). Cisplatin was added to wells in increasing concentrations and controls were plated with the vehicle (dimethyl sulfoxide; DMSO). IC
+50
+of the chemotherapeutic agent cisplatin was calculated at 72 hours after exposure to the drug. YAP1-expressing cells presented much higher IC
+50
+values, compared with control cells, indicating that YAP1 might in fact confer resistance to cisplatin-induced apoptosis. A comparison between the IC
+50
+values of YAP1 cells and controls is shown in
+Table 2
+. A representative plot of the IC
+50
+assay is shown for AC1 cells that illustrates a more than 50-fold resistance to cisplatin of YAP1 cells, compared with the control (
+Fig. 4A
+). To further confirm that YAP1 expression protects cells from apoptosis, we conducted Western blot analysis of full-length and cleaved nuclear PARP, a major caspase-3 cleavage target. Both YAP1 and controls cells were incubated for 72 hours with either 30 µmol/L of cisplatin or vehicle (DMSO). After incubation, cell lysates were subjected to Western blot analysis. Consistent with the IC
+50
+data, immunoblotting analysis of full-length and cleaved PARP indicated that indeed YAP1 expression confers resistance to cisplatin-induced apoptosis. Compared with control cells, YAP1-expressing cells showed considerable lower to undetectable PARP cleavage activity (
+Fig. 4B
+). Thus, in addition to the effects of YAP1 on cell proliferation, it confers resistance to apoptosis in meningiomas.
+Open in a separate window
+Figure 4
+YAP1 overexpression promotes apoptosis resistance to cisplatin. IC
+50
+assays were conducted using indicated concentrations of cisplatin on cells stably transfected with either YAP1 or empty vector. Treatments were done in triplicate, and alamarBlue fluorescence was measured after 72 hours of incubation. A, the IC
+50
+plot for AC1 cells is shown and illustrates a more than 50-fold resistance to cisplatin of YAP1 cells, compared with the control. B, immunoblotting for full-length PARP (fl PARP), cleaved PARP (cl PARP), and GAPDH of cells incubated either with vehicle (DMSO) or 30 µmol/L of cisplatin for 72 hours.
+Table 2
+Cisplatin IC
+50
+values at 72 hours for AC1, SF1335, SF4068, and SF6717 cells
+Vector
+YAP1
+AC1
+1.4 µmol/L
+(
+R
+2
+= 0.94)
+76.9 µmol/L
+(
+R
+2
+= 0.94)
+SF1335
+64.5 µmol/L
+(
+R
+2
+= 0.91)
+297.4 µmol/L
+(
+R
+2
+= 0.93)
+SF4068
+218.9 µmol/L
+(
+R
+2
+= 0.93)
+571.8 µmol/L
+(
+R
+2
+= 0.92)
+SF6717
+75.9 µmol/L
+(
+R
+2
+= 0.97)
+113.7 µmol/L
+(
+R
+2
+= 0.94)
+Open in a separate window
+YAP1 expression promotes
+in vivo
+tumor growth of immortalized non-neoplastic arachnoidal cells
+As observed above, the non-neoplastic AC1 cells stably expressing YAP1 were markedly more proliferative than the control cells (empty vector), as shown by their
+in vitro
+growth rates. To investigate whether YAP1 promotes
+in vivo
+tumor formation, we implanted AC1-YAP1 cells orthotopically into athymic nude mice. Cells transfected with the empty vector were implanted as controls. AC1-YAP1-Luc and AC1-vector-Luc cells were implanted into the floor of temporal fossa site of 6-week-old female athymic mice. Bioluminescence activity was detected as early as day 3 after cell implantation. All 6 mice injected with YAP1-expressing AC1 cells developed tumors whereas the control mice did not.
+Figure 5A
+shows representative BLI images of mice at day 15 after xenograft implantation. Mice implanted with YAP1 cells had a median survival time of 22 days. Meningioma xenografts developed as well-circumscribed tumors, mostly localized to the site of cell implantation, as observed by the hematoxylin and eosin (H&E) stain of coronal brain sections (
+Fig. 5B
+). Control mice appeared to be healthy up to 90 days after cell implantation, when they were sacrificed and the brains were formalin-fixed and processed for immunostaining. Observation of H&E stain of coronal sections of brains showed no evidence of xenograft growth in control mice (
+Fig. 5B
+). AC1-YAP1 xenografts were immunostained for YAP1, human vimentin (clone Vim 3B4), and for human Ki67 (clone MIB1). As shown in
+Fig. 5C
+, AC1-YAP1 xenografts were strongly positive for YAP1. Moreover, xenografts were vimentin-positive, presenting antigen immunoreactivity typically observed in human meningiomas. The Ki67 stain showed highly proliferative activity on tumor cells, with markedly intense labeling at the sharp borders of the xenograft with mice brains. Similar to our findings in the brain, AC1 and SF1335 cells (YAP1 construct and control vector) implanted subcutaneously into athymic nude mice only showed tumor growth when overexpressing YAP1 (data not shown).
+Open in a separate window
+Figure 5
+YAP1 overexpression promotes
+in vivo
+tumor growth of non-neoplastic meningeal cells. A, BLI of AC1 xenografts. Representative images of control and YAP1 mice groups at day 15 after implantation are shown. Three animals per group were randomly selected and shown. A bar scale is shown for total photon counts comparison. B, H&E staining of coronal sections of mice brains at the site of implantation of AC1 xenografts (×0.5 magnification). C, mmunohistochemical staining of AC1-YAP1 xenograft tissue sections for YAP1, for human vimentin intermediate filament, a characteristic cytoskeleton component marker for meningiomas, and for Ki67/MIB1 antigen (×200 magnification).Discussion
+The deregulation of the Hippo pathway has been implicated in several human cancers and seems to alter the adequate balance of cell proliferation and apoptosis, promoting tumorigenesis (
+11
+). In particular, the oncogenic contribution of YAP1, the main effector of Hippo, has been described and evidence points to a major role in tumorigenesis (
+14
+,
+33
+,
+34
+). To the best of our knowledge, thus far, our study is the most extensive functional characterization of YAP1 in an NF2-associated brain tumor. We investigated the functional role of YAP1 in meningiomas, assessing its contribution to cell proliferation, migration, apoptosis, and tumorigenesis of these CNS tumors.
+The most prominent finding was the broad activation of YAP1, evidenced by its high expression and nuclear localization in the set of clinical samples analyzed, suggesting that the Hippo signaling pathway is reduced or inactive in these tumors. Although we did not analyze whole paraffin sections, it is clear that YAP1 is highly expressed at least within subsections of these tumors. This finding may support the hypothesis that YAP1 plays an important role in meningioma tumor growth. Loss of
+NF2
+gene is the most common genetic alteration in meningiomas and it is found in up to two thirds of the tumors (
+20
+). Although we did not correlate
+NF2
+loss and YAP1 activation, we did appreciate that in this set of samples, the level of YAP1 activation seems much higher than the expected. If confirmed, it can be speculated that additional activating mechanisms of Hippo pathway, other than loss of the
+NF2
+tumor suppressor gene, might potentially drive meningioma tumorigenesis. Further investigation is warranted to clarify whether other genetic or nongenetic alterations are responsible for YAP1 activation in meningiomas. In addition, we did not observe any evident correlation between nuclear YAP1 and histopathologic subtypes in the set of human meningioma analyzed.
+Our data are in concordance with previous reports that YAP1 overexpression is frequently observed in various cancers, highlighting its potential role as an oncogene. Kim and colleagues (
+14
+) reported high levels of YAP1 expression and that nuclear YAP1 might contribute to non–small cell lung carcinoma growth. Ge and colleagues (
+35
+) and Zhang and colleagues (
+36
+) described elevated YAP1 expression in head and neck squamous cell carcinoma. Lam-Himlin and colleagues (
+37
+) observed increased YAP1 expression in a large cohort of samples of gastric carcinoma and adenocarcinoma of the esophagus. Orr and colleagues (
+38
+) described high levels of nuclear YAP1 in brain tumors, including glioblastoma multiforme and medulloblastoma. Fernandez and colleagues (
+39
+) reported amplification of YAP1 in human hedgehog-associated medulloblastomas. In addition to reporting the levels of YAP1 expression, several groups have described a positive correlation of YAP1 expression and poor clinical outcome in esophageal squamous cell carcinoma (
+40
+), non–small cell lung cancer (
+41
+), and ovarian cancer (
+36
+,
+42
+).
+Depending on the cellular context, YAP1 has been reported functioning as either an oncogene or a tumor suppressor (
+23
+). Our data indeed support that function of YAP1 is critical for the regulation of cell proliferation in meningiomas. siRNA-mediated knockdown of YAP1 impaired
+in vitro
+cell proliferation and migration of meningiomas cells. Conversely, overexpression of YAP1 enhanced cell proliferation and promoted anchorage-independent growth in meningioma cells, including in the immortalized non-neoplastic arachnoidal cells (AC1). Our data are in agreement with mounting evidence of the oncogenic function of YAP1 in different contexts, reviewed in the works of Pan (
+43
+) and Halder and Johnson (
+44
+).
+Furthermore, YAP1 seems to regulate apoptosis in meningiomas. When challenged with the chemotherapeutic agent cisplatin, YAP1-expressing cells were nearly unsusceptible to apoptosis induced by cisplatin, compared with control cells, shown by the higher cisplatin IC
+50
+values of the first. The resistance to apoptosis in YAP1 cells was further evidenced by the absence of cleavage of PARP, a major target of the caspase cascade. Our data are also supported by previous reports of apoptosis suppression by YAP1 in human non-transformed mammary epithelial cells (
+13
+) and in ovarian cancer cell lines (
+36
+,
+42
+). Because YAP1 confers apoptosis resistance to meningioma cells, we also speculate that targeting the Hippo pathway might be useful for successful therapeutic options for certain cancers.
+To further characterize the functional role of YAP1
+in vivo
+, we used an immortalized non-neoplastic arachnoidal cell (AC1) to assess the transforming properties of YAP1 in this cell type. Overexpression of YAP1 in AC1 cells promoted
+in vivo
+tumorigenesis in nude mice. This might reflect the importance of YAP1 activation for tumor formation and development in tumors derived of leptomeningeal origin. In line with this evidence, Orr and colleagues (
+38
+) reported the detection of YAP1 immunoreactivity in leptomeninges, a solid indication supporting the importance of YAP1 expression in the meningioma cell of origin.
+In summary, our data strongly suggest that deregulation of the Hippo pathway is largely observed in meningiomas, represented by the intense nuclear localization of YAP1 expression. In addition, in this cell-type context, YAP1 exhibits transforming properties characterized by the regulation of cell proliferation, migration, and apoptosis. Further characterization of the downstream target genes of the deregulated Hippo pathway might reveal useful therapeutic targets for these tumors.Supplementary Material
+supp fig1
+Click here to view.
+(213K, pdf)
+supp fig2
+Click here to view.
+(100K, pdf)
+supp fig3
+Click here to view.
+(155K, pdf)
+supp legend
+Click here to view.
+(18K, pdf)
+suppl fig4
+Click here to view.
+(142K, pdf)
+suppl table 1
+Click here to view.
+(35K, xls)Acknowledgments
+The authors thank Dr. Yoshitaka Sekido for the YAP1 construct, Dr. Marco Giovannini for the SF1335 cells, Drs. Marie-Odile Parat and Filipe Carvalho for fruitful discussions during this project, and the technical expertise of Sandra Hartmann (Neuropathology Magdeburg) for the construction of the meningioma tissue microarray.
+Grant Support
+This work was supported by the generous donations from Leonard and Phyllis Attman and from the Meningioma Mommas Foundation that made this research possible.Footnotes
+Note:
+Supplementary data for this article are available at Molecular Cancer Research Online (
+http://mcr.aacrjournals.org/
+).
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interests were disclosed.
+Authors’ Contributions
+Conception and design:
+G.S. Baia, A. Lal
+Development of methodology:
+G.S. Baia, O.L. Caballero
+Acquisition of data (provided animals, acquired and managed patients, provided facilities, etc.):
+G.S. Baia, C. Cowdrey, C. Mawrin
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics, computational analysis):
+G.S. Baia, B.A. Orr, J.S.Y. Ho
+Writing, review, and/or revision of the manuscript:
+G.S. Baia, O.L. Caballero, B.A. Orr, A. Lal, J.S.Y. Ho, T. Tihan, C. Mawrin, G.J. Riggins
+Administrative, technical, or material support (i.e., reporting or organizing data, constructing databases):
+J.S.Y. Ho, T. Tihan
+Study supervision:
+G.J. Riggins

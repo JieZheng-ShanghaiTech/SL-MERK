@@ -1,0 +1,343 @@
+Abstract
+Radiation therapy (RT) is an effective strategy for the treatment of localized prostate cancer (PCa) as well as local invasion. However, some locally advanced cancers develop radiation resistance and recur after therapy; therefore, the development of radiation-sensitizing compounds is essential for treatment of these tumors. DOC-2/DAB2 interactive protein (DAB2IP), which is a novel member of the Ras-GTPase activating protein family and a regulator of phosphatidylinositol 3-kinase-Akt activity, is often downregulated in aggressive PCa. Our previous studies have shown that loss of DAB2IP results in radioresistance in PCa cells primarily because of accelerated DNA double-strand break (DSB) repair kinetics, robust G
+2
+/M checkpoint control, and evasion of apoptosis. A novel DNA-PKcs inhibitor NU7441 can significantly enhance the effect of radiation in DAB2IP-deficient PCa cells. This enhanced radiation sensitivity after NU7441 treatment is primarily due to delayed DNA DSB repair. More significantly, we found that DAB2IP-deficient PCa cells show dramatic induction of autophagy after treatment with radiation and NU7441. However, restoring DAB2IP expression in PCa cells resulted in decreased autophagy-associated proteins, such as LC3B and Beclin 1, as well as decreased phosphorylation of S6K and mammalian target of rapamycin (mTOR). Furthermore, the presence of DAB2IP in PCa cells can lead to more apoptosis in response to combined treatment of NU7441 and ionizing radiation. Taken together, NU7441 is a potent radiosensitizer in aggressive PCa cells and DAB2IP plays a critical role in enhancing PCa cell death after combined treatment with NU7441 and radiation.Introduction
+Prostate cancer (PCa) is the most common type of non-skin cancer and the second leading cause of cancer-related death in U.S. men [
+1
+]. Radiation therapy (RT) provides excellent local control and increased overall survival for PCa [
+2
+]. However, a significant proportion of high-risk patients display radiation resistance and develop metastatic disease in less than 5 years [
+3
+]. Elucidation of biomarkers and their effects on mediating therapeutic resistance may allow physicians to personalize care based on genotype. DOC-2/DAB2 interactive protein (DAB2IP)/AIP1, a novel member of the RAS-GTPase activating protein family, acts as a tumor suppressor but is often downregulated in aggressive PCa [
+4
+]. Our previous work demonstrated that loss of DAB2IP expression results in increased radioresistance in both PCa cells and normal prostate epithelia [
+5,6
+]. Therefore, elucidating the mechanism by which loss of DAB2IP induces radioresistance will provide useful information in identifying new strategies to sensitize DAB2IP-deficient PCa cells to RT.
+DNA-PKcs, the catalytic subunit of DNA-dependent protein kinase and member of the phosphatidylinositol 3-kinase (PI3K)-like family, plays a dominant role in nonhomologous end joining (NHEJ)-mediated DNA double-strand break (DSB) repair [
+7
+]. Furthermore, DNA-PKcs may play a role in initiating DNA DSB-induced apoptosis [
+8,9
+]. Upon recruitment to DSB sites, DNA-PKcs phosphorylates downstream targets involved in DNA repair response and promotes direct ligation of broken DNA ends. Accordingly, suppression of DNA-PKcs leads to ineffective DSB repair and increases the cytotoxicity of ionizing radiation (IR) and other DSB-inducing agents [
+10
+]. On the basis of the important role of DNA-PKcs in NHEJ, inhibition of DNA-PKcs is, therefore, an attractive approach to overcome the resistance of RT. Our primary goal of this study is to develop strategies to overcome radioresistance of DAB2IP-negative PCa and improve the efficacy of RT in PCa using NU7441, a potent and specific inhibitor of DNA-PKcs.
+Recent studies suggest that DNA-PKcs is involved in DNA damage-induced autophagy. Specifically, inhibition of DNA-PKcs sensitized malignant glioma cells to radiation-induced autophagic cell death [
+11
+]. However, autophagy, which normally results in degradation of damaged or potentially dangerous proteins and organelles, may have a prosurvival function, which protects cells from various forms of cellular stress [
+12
+]. Several studies indicate that pharmacologic or genetic inhibition of autophagy can enhance cancer treatments by sensitizing cancer cells to both radiation and chemotherapy [
+13
+]. On the basis of these reports, we analyzed the levels of autophagy in NU7441-treated DAB2IP-deficient and DAB2IP-proficient PCa cells to investigate whether suppression of DNA-PKcs can confer to radiation-induced autophagy in PCa cells. In this study, we show a novel function of DAB2IP in suppressing IR-induced and DNA-PKcs-associated autophagy and promoting apoptosis in PCa cells. Despite that NU7441 could significantly enhance the effect of RT in DAB2IP-negative PCa, the combination of NU7441 and DAB2IP expression resulted in greater RT efficacy due to autophagy inhibition.Materials and Methods
+Cell Culture and Irradiation
+PCa cell lines C4-2 and PC3 were grown in T medium (Invitrogen, Carlsbad, CA) with 5% FBS (HyClone, Hudson, NH) at 37°C with 5% CO
+2
+in a humidified chamber. C4-2 neo (DAB2IP-negative) and C4-2 D2 (DAB2IP-positive) were generated from C4-2 cells, and PC3 Con (DAB2IP-positive) and PC3 KD (DAB2IP knockdown) were generated from PC3 cells as described previously [
+5
+]. All cells were irradiated in ambient air using a
+137
+Cs source (Mark 1–68 irradiator; J.L. Shepherd & Associates, San Fernando, CA) at a dose rate of 3.47 Gy/min at room temperature. NU7441 was purchased from Tocris Bioscience (Ellisville, MO); NVP-BEZ225 was purchased from SelleckBio (Houston, TX); rapamycin and RAD001 (Everolimus) were purchased from LC Laboratories (Woburn, MA); LY294002 was purchased from EMD Millipore (Billerica, MA).
+Antibodies
+Anti-phospho-histone γH2AX (Ser
+139
+) was obtained from EMD Millipore. 53BP1, mammalian target of rapamycin (mTOR), phospho-mTOR (pmTOR, S2448), phospho-S6 kinase (pS6K, T389), AKT, phospho-AKT (pAKT, S473), LC3B, Beclin 1, and poly (ADP-ribose) polymerase (PARP) antibodies were purchased from Cell Signaling Technology (Danvers, MA). Anti-actin antibody was purchased from Sigma-Aldrich (St Louis, MO). Fluorescent dye-conjugated secondary antibodies were obtained from Invitrogen.
+Clonogenic Survival Assay
+Exponentially growing cells were trypsinized and counted using a Coulter counter (Beckman Coulter, Fullerton, CA). Cells were diluted serially to appropriate concentrations and plated into 60-mm dishes in triplicates. After 3 hours of incubation, cells were treated with increasing doses of IR (2, 4, 6, and 8 Gy) or NU7441 (1 µM) or NU7441 + IR. After 10 to 14 days, cells were fixed and stained with 4% formaldehyde and 0.05% crystal violet in phosphate-buffered saline (PBS). Colonies containing >50 cells were counted. Surviving fraction (SF) was calculated as (mean colony counts)/[(cells inoculated) x (plating efficiency)], in which plating efficiency was defined as (mean colony counts)/(cells inoculated for unirradiated controls). The data are presented as the mean ± SD of at least three independent experiments. The curve
+S
+= e
+-(
+αD + βD
+2)
+was fitted to the experimental data with a least-squares fit algorithm using the program Sigma Plot 11.0 (Systat Software, Inc, Chicago, IL).
+The Detection of γH2AX and 53BP1 Foci
+The 53BP1 and phosphorylation of H2AX (γH2AX) were used as an indicator of DNA DSB. Cells were cultured for the indicated times to repair DNA lesions after irradiation either alone or combined with NU7441. The cells were fixed in 4% paraformaldehyde/PBS for 30 minutes, permeabilized in 0.5% Triton X-100/PBS for 15 minutes, and blocked in 5% BSA for 30 minutes. The samples were incubated with anti-phospho-histone γH2AX (Ser
+139
+; 1:2000) and 53BP1 (1:500) for 1 hour, washed in PBS for 10 minutes three times, and incubated with Alexa Fluor 488-conjugated goat anti-rabbit and rhodamine red-conjugated goat anti-mouse secondary antibodies (1:1000) for 1 hour. The cells were washed for 10 minutes three times and mounted using VECTASHIELD mounting medium with 4′,6-diamidino-2-phenylindole (DAPI; Vector Laboratories, Burlingame, CA). The number of γH2AX and 53BP1 foci was examined using a fluorescence microscope.
+Cell Cycle Analysis
+The treatment or control cells were harvested and fixed using 75% ethanol either immediately or at the indicated time after radiation and radiation + NU7441. The cells were resuspended in PBS containing 1 µg/ml RNase A (Sigma, St Louis, MO), incubated for 30 minutes at 37°C, and stained with 100 µg/ml propidium iodide (Sigma) for 15 minutes at 4°C. The cell cycle distribution was analyzed using flow cytometry, and a minimum of 10,000 cells per sample were counted.
+Detection of Acidic Vesicular Organelles
+Cells were grown in 60-mm dishes and allowed to attach overnight. The cells were treated with radiation or radiation + NU7441 as indicated and then were incubated with 1 µg/ml acridine orange (AO)/PBS for 15 minutes, washed with PBS, and examined under LSM 510 laser scanning confocal microscope (Zeiss) at x63 magnification. Untreated cells were also cultured for 3 days as a negative control. The samples were collected for FACScan and analyzed using Flowjo 8.7.1 (Tree Star, Inc, Ashland, OR) software to quantify cells that were positive for acidic vesicular organelles (AVOs).
+Retrospective Cohort Analysis
+Patients with high-risk disease (stage T3a or greater, Gleason score > 7, or prostate-specific antigen > 20) treated with definitive RT between 2005 and 2011 at the University of Texas Southwestern Medical Center were identified. Immunohistochemistry (IHC) analysis for DAB2IP protein was performed on their biopsy specimens. DAB2IP status was scored in the tumors by an expert genitourinary pathologist. A loss of DAB2IP was determined by one or more biopsy cores with decreased expression of the protein in the prostatic adenocarcinoma compared to the surrounding normal prostate tissue. Biochemical recurrence-free survival (BRFS) of patient cohorts with and without DAB2IP loss was determined using the Phoenix definition. Log-rank test was used to correlate BRFS with DAB2IP levels. Univariate analysis of BRFS to pretreatment prostate-specific antigen, Gleason score, stage, age, and DAB2IP status was performed.
+Statistical Analysis
+Data are presented as the means ± SD of at least three independent experiments. The results were tested for significance using the unpaired Student's
+t
+test.Results
+NU7441 Sensitizes DAB2IP-deficient Cells to Irradiation
+To test the effect of NU7441 on the radiosensitivity of DAB2IP-positive and DAB2IP-negative PCa cells, we employed PC3 cell line (DAB2IP-positive) and C4-2 cell line (DAB2IP-negative) and its sublines [
+5
+]. As shown in
+Figure 1
+,
+A
+and
+B
+, DAB2IP-specific shRNA-mediated suppression of endogenous DAB2IP significantly increased radiation resistance in PC3 cells (
+Figure 1
+B
+). In contrast, the presence of DAB2IP resulted in a significant radiation-sensitizing effect in C4-2 D2 cells (
+Figure 1
+A
+). Using colony formation assays, we found that NU7441 significantly sensitized DAB2IP-negative (C4-2 neo and PC3-KD) cells to IR. SF at 2 Gy (SF
+2
+) for C4-2 neo and PC3 KD cells was reduced from 0.65 ± 0.023 and 0.86 ± 0.04 to 0.24 ± 0.04 and 0.55 ± 0.06, respectively. Here, we confirm, as previously shown [
+5
+], that DAB2IP-expressing cells are more radiosensitive when compared to DAB2IP-deficient cells. Furthermore, we found that NU7441 further sensitized DAB2IP-proficient cells to IR. SF
+2
+values of C4-2 D2 and PC3 Con vector cells were decreased from 0.31 ± 0.06 and 0.58 ± 0.06 to 0.14 ± 0.02 and 0.02 ± 0.007, respectively. The radiation-sensitizing effect of NU7441 is dose dependant (
+Figure 1
+C
+). These
+in vitro
+results indicate that NU7441 can radiosensitize both DAB2IP-positive and DAB2IP-negative PCa cells to radiation.
+Open in a separate window
+Figure 1
+NU7441 increases the radiosensitivity in both DAB2IP-negative and DAB2IP-positive PCa cell lines. (A) The SF analysis of C4-2 D2 and C4-2 neo cells after combined treatment with 1
+µ
+M NU7441 and IR as indicated. (B) SF analysis of DAB2IP-knockdown PC3 cells (PC3-KD) and PC3 Con cells after treatment with 1
+µ
+M NU7441 and IR as indicated. (C) The survival curves of PC3 KD cells after combination treatment with 0.5 to 5
+µ
+M NU7441 and irradiation at doses of 0 to 8 Gy. In all studies, results are expressed as the means ± SD from three independent experiments.
+NU7441 Blocks IR-Induced DNA DSB Repair in DAB2IP-Positive and DAB2IP-Negative PCa Cells
+The extent of DNA DSBs generated and the ability of tumor cells to repair the damage largely determine the efficacy of RT. Therefore, to investigate whether the radiosensitizing effect of NU7441 on DAB2IP-deficient cells was a result of compromised DSB repair, we subjected cells to immunofluorescence staining for phosphorylated histone H2AX (γH2AX) (green) and 53BP1 (red) (
+Figure 2
+,
+A
+and
+C
+) and determined DNA DSB repair kinetics by counting the separate foci at each time point. In this study, C4-2 neo and D2 cells were exposed to 2 µM NU7441 for 1 hour before 2-Gy IR treatment and the cells were collected at various times as indicated. As shown in
+Figure 2
+C
+, rapid induction of DNA damage was detected within 30 minutes in all of the cells. In untreated cells, DNA DSB foci were almost abolished at 24 hours after IR, whereas a significant number of DSBs remained at 24 hours in NU7441-treated cells; similar results were present in PC3-KD cells (
+Figure 2
+,
+B
+and
+D
+). The residual number of DSB foci per nucleus in DAB2IP-expressing C4-2 cells was significantly higher than the control cells 30 minutes after IR; however, detectable foci fell to the same level as control cells 24 hours after IR. This result indicates that the presence of DAB2IP in C4-2 cells promotes IR-induced DNA DSBs but has no effect on repair kinetics. Taken together, these results show that NU7441 can lead to defective DNA damage repair in response to IR even in DAB2IP-deficient metastatic PCa cells.
+Open in a separate window
+Figure 2
+NU7441 blocks IR-induced DNA DSB repair in DAB2IP-positive and DAB2IP-negative PCa cells. PCa cells were treated with 2
+µ
+M NU7441 for 30 minutes followed by IR (2 Gy); samples were collected at the indicated time points after IR, immune-stained for 53BP1 (red foci) and phospho-γH2AX (green foci), and counted (average, 50 nuclei). (A) C4-2 D2 and C4-2 neo cells. (B) PC3-KD cells. Quantitative analysis of DNA repair kinetics between C4-2 cells (C) and PC3KD cells (D).
+In mammalian cells, IR-induced cell cycle arrest is necessary to maintain genomic stability and is correlated to cell survival. In this study, the effect of NU7441 on cell cycle distribution was investigated by flow cytometry. As shown in
+Figure 3
+,
+A
+to
+D
+, treatment with 2 µM NU7441 resulted in robust G
+2
+/M arrest 24 hours after irradiation (2 Gy) in both DAB2IP-deficient or DAB2IP-expressing cell lines. We further compared C4-2 neo and D2 cells and showed that the percentage of G
+0
+/G
+1
+phase cells in C4-2 D2 was more than that in neo (control) line. The cell cycle results indicate that DAB2IP alone causes significant G
+0
+/G
+1
+arrest in C4-2 cells and is augmented after treatment with either IR or NU7441, whereas DAB2IP-deficient cells showed moderate increase in G
+0
+/G
+1
+arrest after NU7441 treatment. However, both cell lines showed robust G
+2
+/M arrest at 24 hours in response to combined treatment.
+Open in a separate window
+Figure 3
+Cell cycle analysis in DAB2IP-negative and DAB2IP-positive PCa cells after treatment with NU7441 and IR. C4-2 D2 and C4-2 neo cells were treated with IR (2 Gy), NU7441 (2
+µ
+M), and IR + NU7441 as indicated. Samples were collected at 0, 2, 6, and 24 hours post-treatment. Propidium iodide (PI) staining was used to detect the distribution of cells after various treatments. (A and B) C4-2 neo cells and (C and D) C4-2D2 cells.
+DAB2IP Inhibits Irradiation-induced Autophagy
+Autophagy is the mechanism of proteolysis and has been involved in both cell survival and cell death [
+14
+]. In general, autophagy protects cells from stressful conditions such as nutrient deprivation. There are reports also indicating that autophagy protects cells from radiation [
+15
+]. To test whether DAB2IP is involved in PCa cell autophagy, first we analyzed the formation of AVOs using AO staining with fluorescence imaging and flow cytometry. During autophagy, AO accumulates in acidic compartments such as autolysosomes. Using a laser scanning confocal microscope, we found that the autophagic signal increases in DAB2IP-deficient C4-2 neo cells after IR, NU7441, and the combination of NU7441 and IR treatment. However, across the all three treatment arms, there was a significant decrease in the amount of autophagy in the DAB2IP-expressing cell line C4-2 D2 (
+Figure 4
+A
+). To further confirm this result, we performed flow cytometric analyses of AO-stained cells. As shown in
+Figure 4
+B
+, DAB2IP-deficient cells display significantly more autophagy than DAB2IP-expressing cells. We also performed the immunostaining with LC3B antibody (
+Figure 4
+C
+) and the results were consistent with
+Figure 4
+,
+A
+and
+B
+. We further subjected C4-2 neo cells to IR combined with an autophagy inhibitor, Bafliomycin A1 (Baf A1). The clonogenic assay clearly showed that Baf A1 treatment enhanced radiation-induced cell death in DAB2IP-deficient PCa cells (
+Figure 4
+D
+). On the basis of these results, we propose that the decreased resistance to IR in DAB2IP-expressing C4-2 cells may be partially due to the inhibition of autophagy.
+Open in a separate window
+Figure 4
+DAB2IP expression suppressed IR- or NU7441 + IR-induced autophagy in PCa cells. C4-2 neo and D2 cells were treated with NU744, IR, and IR + NU7441 for 72 hours and then stained with AO. (A) Fluorescent images of AVO-positive cells. (B) Flow cytometry analysis to assess autophagy and (C) immunofluorescence staining of LC3B antibody. Experiments in A to C were performed under identical conditions. (D) SF analysis of C4-2 neo cells after combined treatment of IR and an autophagy inhibitor Baf A1 as indicated.
+DAB2IP Inhibits Autophagy through the mTOR-S6K Pathway
+To further explore the role of DAB2IP in autophagy, we determined the expression levels of the microtubule-associated protein LC3B. LC3B exists in a cytosolic form, LC3B-I, and an LC3B-II form that is conjugated to phosphatidylethanolamine [
+16,17
+]. Increased LC3B-II levels are closely associated with the number of autophagosomes and serve as a good indicator of autophagosome formation [
+18
+]. As shown in
+Figure 5
+,
+A
+and
+B
+, increased DAB2IP impairs both IR- and NU7441-mediated induction of LC3B-II in C4-2 cells. In addition, the lower expression of Beclin 1 protein was noticed in DAB2IP-expressing C4-2 cells.
+Open in a separate window
+Figure 5
+DAB2IP inactivates mTOR-S6K pathway and suppresses the expression of autophagy-associated proteins. (A) The phosphorylation of mTOR and S6K and the expression of autophagy-associated Beclin 1 and LC3B were determined by Western blot analysis 24 hours after IR (5 Gy). (B) The phosphorylation of mTOR and S6K and the expression of autophagy-associated Beclin 1 and LC3B were determined by Western blot analysis at the indicated time points.
+It is reported that Akt-mTOR pathway negatively regulates autophagy [
+19
+]. To investigate how this signaling cascade is operated in DAB2IP-associated autophagy inhibition in C4-2 cells, we measured phosphorylation of mTOR in both cell lines (
+Figure 5
+). Compared with C4-2 neo cells, there was a dramatic inhibition of phosphorylated mTOR in C4-2 D2 cells. Furthermore, studies have shown that S6K is a critical downstream effector of the mTOR signaling pathway [
+20
+]. We observed decreased phosphorylation of S6K in DAB2IP-overexpressed C4-2 D2 cells (
+Figure 5
+). Although mTOR-S6K activation is known to suppress autophagy in mammalian cells, emerging studies have indicated that, in certain situations, the mTOR-S6K pathway positively regulates autophagy [
+21–23
+]. Together, our findings show that DAB2IP may suppress IR- and NU7441-induced autophagy through the mTOR-S6K pathway.
+DAB2IP Promotes Apoptosis in Response to Combined Treatment of NU7441 and IR
+It is reported that autophagy is an adaptive mechanism that can cause resistance to therapy-induced apoptosis [
+24
+]. In previous experiments, we noticed that DAB2IP acts as an autophagy inhibitor and can promote apoptosis in response to therapeutic agents. To explore, we examine IR- and NU7441-induced apoptosis in C4-2 cells with or without DAB2IP. Cells were fixed and stained with DAPI 12 hours after NU7441 or/and IR treatment. As shown in
+Figure 6
+A
+, little or no significant apoptotic event was noticed after IR or NU7441 treatment alone, in either DAB2IP-negative or DAB2IP-positive cells. However, C4-2D2 cells showed enhanced apoptosis (7.8%) after combined treatment of IR + NU7441 after 12 hours, whereas C4-2 neo cells showed only 3.8% at the same time (
+Figure 6
+B
+;
+P
+< .05). For further characterization, Western blot analysis was performed to analyze cleaved PARP-1 (
+Figure 6
+C
+). We noticed that the PARP-1 cleavage is greater (lane 8) in C4-2D2 cells when compared to neo cells (lane 4) in response to IR + NU7441. These results suggest that DAB2IP can promote cell death in PCa cells by blocking autophagy when treated with IR + NU7441.
+Open in a separate window
+Figure 6
+DAB2IP promotes apoptosis in response to IR + NU7441. (A) IR + NU7441-induced apoptosis was determined by DAPI staining. Cells were treated with +/- NU7441 and IR (10 Gy) for 12 hours and the cells were stained with DAPI; the representative fluorescence images are shown. White arrows indicated the mitotic cells and the red arrows represent the apoptotic cells. (B) Quantitative analysis of apoptotic cells. The data are presented as the means ± SD of three independent experiments. (C) Analysis of PARP cleavage. Cells were lysed 12 hours after exposure to IR or IR + NU7441 and subjected to Western blot analysis.
+Loss of DAB2IP Correlates with Decreased BRFS
+To determine whether loss of DAB2IP in PCa results in clinically relevant radiation resistance, we performed a retrospective cohort study of high-risk (PCa) patients treated with definitive RT (
+Figure 7
+). Patient's DAB2IP status was determined using IHC and patients were followed for biochemical recurrence as mentioned in Materials and Methods section. Twenty-four patients treated for high-risk PCa were evaluated. DAB2IP loss was seen in 8 patients (33.3%), whereas 16 patients (66.7%) expressed DAB2IP. Median follow-up for DAB2IP patients was 19.4 months (range, 8.2 to 57.8 months) and 23.9 months (range, 8.8 to 74.0 months) for the DAB2IP-deficient group. Patients expressing DAB2IP exhibited markedly improved BRFS compared to patients with loss of DAB2IP (
+P
+= .027; log-rank test). The estimated 2-year BRFS was 90% and 68.5%, respectively, for the DAB2IP-present and DAB2IP-deficient groups. At 4 years, BRFS was 90% and 34.3% for the present and deficient groups, respectively. Univariate analysis demonstrated DAB2IP status as the only variable with significant association to BRFS at this point of follow-up.
+Open in a separate window
+Figure 7
+IHC staining of DAB2IP in high-risk PCa patients. (A) Representative patients with positive DAB2IP expression. (B) Representative patient with DAB2IP loss. (C) BRFS plotted by patients' DAB2IP status.Discussion
+DAB2IP/AIP1
+, a potential tumor suppressor gene, is often downregulated in PCa primarily due to altered epigenetic regulation of its promoter [
+25
+]. It functions as a key scaffold protein to modulate cell proliferation, survival, and apoptosis by coordinating PI3K, Akt, and the ASK1 pathway [
+26,27
+]. Our previous work indicated that loss of DAB2IP expression in PCa cells greatly increases radiation resistance
+in vitro
+[
+5,6
+]. To determine whether our previous
+in vitro
+findings were clinically relevant, we performed a retrospective cohort study and determined that loss of DAB2IP leads to significantly increased rates of biochemical failure after RT (
+Figure 7
+).
+DNA-PKcs, a key component of the NHEJ pathway, plays a dominant role in DNA DSB repair, genomic integrity, and maintaining telomere stability [
+7,28
+] and is upregulated in various cancers [
+29,30
+]. It is also reported that increased DNA-PKcs expression and kinase activity are closely associated with radioresistance or chemoresistance [
+31,32
+]. Inhibitors of DNA-PKcs such as NU7441 have been developed to enhance RT-based local tumor control [
+33
+]. In this study, we clearly show that adjuvant treatment with NU7441 can overcome PCa radioresistance caused by loss of DAB2IP (
+Figure 1
+). NU7441-mediated radiosensitization in PCa cells is mainly contributed to delayed IR-induced DSB repair. A recent study in glioma-initiating cells demonstrated that DNA-PKcs is involved in autophagy in response to irradiation. In these cells, suppression of DNA-PKcs sensitizes cells to IR-induced autophagic cell death [
+11
+].
+NU7441 is also known to inhibit PI3K-Akt [
+33
+], which is the upstream of mTOR signaling pathway. Therefore, we have used the inhibitors of PI3K (LY294002) and mTOR (rapamycin and RAD001) pathways to test the radiosensitivity in DAB2IP-deficient PCa (C4-2 neo) cells. In addition, we used a dual kinase inhibitor NVP-BEZ235 that blocks both PI3K and mTOR signaling. Our results showed that all three inhibitors exhibit radiation sensitivity of C4-2 neo cells. The maximum radiosensitivity was achieved using NVP-BEZ235, which indicates that both PI3K and mTOR pathways were involved in the increased radioresistance of C4-2 neo cells (
+Figure W1
+,
+A
+and
+B
+). Furthermore, we used LY294002, an inhibitor of the PI3K pathway in combination with radiation, which showed a strong radiosensitizing effect in C4-2 neo cells (
+Figure W1
+A
+). We have performed Western blot analyses to confirm that these inhibitors blocked the PI3K (inhibition of pAKT) and mTOR (inhibition of pS6K) signaling pathways (
+Figure W1
+,
+C
+and
+D
+).
+Autophagy is a lysosomal degradation pathway that eliminates damage or potentially dangerous proteins and organelles under adverse conditions to protect organisms from metabolic stress [
+34
+]. Many studies have shown that cancer cells use autophagy as an adaptive and context-dependent system to overcome radiotherapeutic stress, autophagy increases in tumor cells in response to radiation and DNA damage, and radioresistance may be associated with autophagy induction [
+15,35–37
+]. On the basis of these evidences, autophagy-related pathway has been considered as a potential and important therapeutic target in radiation oncology. Therefore, we performed experiments to determine whether the inhibition of DNA-PKcs can induce autophagy in DAB2IP-deficient PCa cells and the precise role of this catabolic process in radiation resistance. In this study, AVO staining was used to compare cellular autophagy response to IR with or without NU7441 treatment. We noticed that NU7441 treatment can promote both IR-induced and basal level of cell autophagy. The autophagy marker protein LC3B is induced upon treatment with NU7441 (
+Figure 4
+).
+In addition to DNA-PKcs, our expected results showed that DAB2IP is also involved in autophagy pathway and overexpression of this gene attenuated IR- and NU7441-induced autophagy. Furthermore, we observed that LC3B and Beclin 1 are downregulated in cells expressing DAB2IP. These results suggest that DAB2IP mediated radiosensitization of PCa cells partially through inhibition of autophagy. To further prove this, we treated PCa cells with autophagy inhibitor Baf A1 after irradiation. We found that Baf A1 significantly enhanced radiation sensitivity (
+Figure 4
+D
+). The mTOR-S6K pathway is postulated to be a negative regulator of mammalian autophagy [
+19
+]. In contrast, we show that mTOR-S6K pathway was inactivated in DAB2IP-expressing PCa cells. Studies show that mTOR can also positively modulate autophagy. Klionsky et al. reported that mTOR inhibition by rapamycin or siRNA-mediated silencing of S6K expression reduced 6-thioguanine-induced autophagy in human colorectal cancer cells [
+23
+]. Scott et al. suggested that S6K is essential for autophagy in fat cells of
+Drosophila
+[
+22
+]. Consistent with these reports, our results showed that phosphorylation of S6K was almost totally attenuated in DAB2IP-expressing PCa cells. Notably, DAB2IP functions as a scaffold protein to inhibit the PI3K-Akt pathway using a direct protein interaction with PI3K through its PR domain [
+26
+].
+Autophagy-defective cells also show an increase in DNA-DSB in response to various stresses, including IR [
+13,38
+]. To further evaluate the role of autophagy in DNA-DSB repair, we found that DAB2IP-proficient PCa cells exhibit higher level of DNA damage compared to control cells after IR treatment. We believe that the inhibition of autophagy in DAB2IP-proficient cells is the major contributing factor toward the impaired DNA damage. Moreover, recent work indicates that autophagy can promote tumor cell survival and inhibition of autophagy leads to significant tumor regression [
+39
+]. It is conceivable that DAB2IP inhibits autophagy that could contribute to the suppression of tumor growth and aggressiveness.
+In summary, the results of this study demonstrate that inhibition of DNA-PKcs enhances the effect of IR in DAB2IP-deficient radioresistant human PCa cells. Moreover, our findings demonstrate a role for DAB2IP in inhibiting mTOR-S6K pathway and suppressing autophagy. On the basis of these results, DAB2IP appears to be an excellent RT target in the treatment of PCa.Supplementary Material
+Supplementary Figures and Tables:
+Click here to view.
+(262K, pdf)
+Supplementary Methods
+Clonogenic Survival Assay
+Exponentially growing cells were trypsinized and counted using a Coulter counter (Beckman Coulter). Cells were diluted serially to appropriate concentrations and plated onto 60-mm dishes in triplicates. After 3 hours of incubation, cells were treatedwith increasing doses of IR (2, 4, 6, and 8 Gy) or indicated drugs (25 nM NVP-BEZ235, 10 µM LY294002, 100 nM rapamycin, or 10 nM RAD001) or drugs + IR. For NVP-BEZ235 treatment, drug-containing medium was replaced with drug-free medium at 16 hours after IR. After 10 to 14 days, cells were fixed and stained with 4% formaldehyde and 0.05% crystal violet in PBS. Colonies containing >50 cells were counted. SF was calculated as (mean colony counts)/[(cells inoculated) x (plating efficiency)], in which plating efficiency was defined as (mean colony counts)/(cells inoculated for unirradiated controls). The data are presented as means ± SD of at least three independent experiments. The curve
+S
+= e
+-(
+αD + βD
+2)
+was fitted to the experimental data using a least-squares fit algorithm using the program Sigma Plot 11.0 (Systat Software, Inc).
+Western Blot Analysis
+C4-2 neo cells were treated with LY294002 (10 µM), NVP-BEZ235 (25 nM), rapamycin (100 nM), and RAD001 (10 nM) as indicated for 1 hour, followed by radiation (10 Gy). After 1 hour, cells were lysed and Western blot analysis was performed.Abbreviations
+PCa
+prostate cancer
+DAB2IP
+DOC-2/DAB2 interactive protein
+mTOR
+mammalian target of rapamycin
+IR
+ionizing radiation
+RT
+radiation therapy
+DSBs
+double-strand breaks
+6-TG
+6-thioguanine
+BRFS
+biochemical recurrence-free survival
+IHC
+immunohistochemistry
+AVOs
+acidic vesicular organellesFootnotes
+1
+This work was supported by the funding from Department of Defense Idea Award W81XWH-11-1-0270 (D.S.), Flight Attendant Medical Research Institute Award grant (D.S.), and a Clinical Research Fellowship (V.T.) from the Doris Duke Charitable Foundation. Conflict of interest: None.
+2
+This article refers to supplementary material, which is designated by
+Figure W1
+and is available online at
+www.neoplasia.com
+.

@@ -1,0 +1,144 @@
+Synthetic lethality between mutation in Atm and DNA-PKcs
+during murine embryogenesis
+Kay E. Gurley and Christopher J. Kemp
+
+The gene product mutated in ataxia telangiectasia, have reduced DNA-PKcs protein levels, greatly reduced
+ATM, is a ubiquitously expressed 370 kDa protein protein kinase activity, and are defective in DNA doublekinase
+that is a key mediator of the cellular response strand break repair. Scid/scid mice lack mature T and B
+to DNA damage [1]. ATM-deficient cells are cells due to a failure to complete V(D)J antigen receptor
+radiosensitive and show impaired cell cycle arrest rejoining but are otherwise developmentally normal. As
+and increased chromosome breaks in response to DNA-PKcs and ATM are related proteins that have differionizing
+radiation. ATM is a member of the ent but partially overlapping functions, we attempted to
+phosphatidylinositol-3-kinase (PI3K)-related generate mice deficient in both gene products to study
+protein kinase superfamily, which includes the their interaction. We crossed Atm-deficient mice to Prkdc
+catalytic subunit of DNA-dependent protein kinase mutant scid/scid mice and then bred these progeny to
+(DNA-PKcs) and ATR [2]. DNA-PK is a 470 kDa protein obtain scid/scid Atm1/2 mice that were then intercrossed.
+kinase that is required for proper end-to-end Out of a total of 278 weaned mice derived from interrejoining
+of DNA double-strand breaks [3]. crosses of scid/scid Atm1/2 mice, 101 were scid/scid Atm1/1,
+177 were scid/scid Atm1/2, and none were scid/scid Atm2/2 Prkdcscid/scid mice have a homozygous mutation in
+the gene encoding DNA-PKcs and, like Atm2/2 mice, (Table 1). This differed significantly from the Mendelian
+expectation of 70 mice of Atm2/2 are viable and radiosensitive [4–8]. To determine genotype. In contrast,
+if Atm and DNA-PKcs show genetic interaction, we intercrosses of Atm1/2 mice orscid/1 mice generated Atm2/2
+attempted to generate mice deficient in both gene and scid/scid newborns, respectively, at close to Mendelian
+products. However, no scid/scid Atm2/2 pups were frequencies. As the scid/scid Atm1/2 intercross was a segrerecovered
+from scid/scid Atm gating cross between BALB/c and 129 strains (see Materi- 1/2 intercrosses.
+Developmental arrest of scid/scid Atm2/2 embryos als and Methods), there was a possibility that the lethality
+of Atm2/2 occurred around E7.5, a developmental stage when embryos was due to genetic background effects
+embryonic cells are hypersensitive to DNA damage and not to synthetic lethality between mutations in Prkdc
+[9]. This reveals synthetic lethality between and Atm. To check for this possibility, we also crossed
+mutations in Atm and DNA-PK and suggests that scid/scid Atm1/2 mice to Atm1/2 mice such that all progeny
+Atm and DNA-PK have complementary functions were scid/1 and of the same segregating BALB/c 129
+that are essential for development. genetic background as the above cross. In this case, scid/1
+Atm2/2 pups were recovered at close to Mendelian frequen- Address: Fred Hutchinson Cancer Research Center C1-015, 1100 cies (23 Atm1/2 32 Atm1/1 and 15 Atm2/2), indicating that Fairview Ave. N., Seattle, Washington, 90109-1024. genetic background was not the cause of Atm2/2 embryonic
+Correspondence: Christopher J. Kemp lethality. As a final test to rule out genetic background
+E-mail: cjkemp@fhcrc.org effects, we obtained the scid mutation on a different genetic
+background, e.g., C3HSmn.C Prkdcscid/J mice, and Received: 23 October 2000
+Revised: 11 December 2000 crossed these to 129 Atm1/2 mice. Intercrosses of C3H
+129 scid/scid Atm1/2 mice again failed to yield Atm2/2 Accepted: 22 December 2000 offspring
+(25 Atm1/1 56 Atm1/2 and 0 Atm2/2), confirming the
+Published: 6 February 2001 specificity of the Prkdc Atm interaction.
+Current Biology 2001, 11:191–194
+Table 1
+0960-9822/01/$ – see front matter
+Embryo and offspring analysis from scid/scid Atm1/2  2001 Elsevier Science Ltd. All rights reserved. intercrosses
+
+Age Atm1/1 Atm1/2 Atm2/2 Resorbed Total
+
+E3.5 3 14 3 na 20
+Results and discussion E7.5 2 12 2 0 16
+Atm E8.5 4 12 4 (small) 0 20 2/2 mice are viable, although slightly runted [6–8],
+E9.5 12 16 3 (small) 3 34 and have a partial defect in development of T cells [10], E11.5–13.5 13 12 0 19 44 Purkinje cells [11], and in gametogenesis. Scid/scid mice Neonatal (,24 h) 6 11 0 na 17
+have a homozygous nonsense mutation at amino acid 4046 Weaned 101 177 0 na 278
+of the gene encoding DNA-PKcs, Prkdc [4, 5], resulting scid/scid Atm1/2 mice were intercrossed and embryos collected on the in loss of the last 82 amino acids of the protein, which indicated days and genotyped by PCR. All embryos were homozygous
+for the mutation in DNA-PKcs includes the conserved carboxy-terminal region. Scid cells , e.g., Prkdc scid/scid. na, not applicable.
+192 Current Biology Vol 11 No 3
+
+Figure 1
+
+Simultaneous loss of DNA-PKcs and Atm
+results in early embryonic lethality. Shown
+are embryos within yolk sacs isolated at E8.5.
+On the left is a Prkdcscid/scid Atm1/1 conceptus
+showing a normal appearing embryo (arrows)
+within the yolk sac (A, anterior; P, posterior).
+The three much smaller concepti on the right
+are Prkdcscid/scid Atm2/2 and show arrested
+development.
+
+To determine when lethality of developing scid/scid Atm2/2 ATM mutant cells show several cell cycle defects (reembryos
+occurred, timed pregnancies of scid/scid Atm viewed in [1]). In response to ionizing radiation, ATM- 1/2
+intercross breeders were set up and embryos examined deficient cells fail to arrest in G1, in part due to impaired
+at several time points postcoitum. Out of 25 normal ap- activation of p53 and upregulation of the Cdk inhibitor
+pearing embryos examined between E11.5 to E13.5, none p21. ATM mutant cells in S phase exhibit radio-resistant
+were genotyped as Atm DNA synthesis and continue to synthesize DNA follow- 2/2 (Table 1). Six of these litters
+had an average of 42% reabsorbing embryos. Yolk sacs ing exposure to ionizing radiation. ATM mutant cells fail
+were recovered from four of these reabsorbing embryos to arrest in G2, inappropriately enter mitosis following
+at E12.5 and genotyped. Two were Atm1/2 and two were DNA damage, and show increased chromosome gaps and
+Atm breaks. Finally, some cell types from ATM mutant mice 2/2. This indicates that Prkdc and Atm compound mutant
+embryos failed to thrive at some point prior to E11.5. fail to undergo p53- dependent apoptosis in response to
+Next, we examined preimplantation concepti. Out of 20 ionizing radiation [7, 12]. These results indicate that the
+blastocysts recovered and genotyped at E3.5, three were radiosensitivity of ATM mutant cells is not due to enAtm
+hanced apoptosis but is more likely due to mitotic failure 2/2, which is close to the expected number of five,
+indicating that lethality occurred after implantation. Out and/or lethal levels of unrejoined chromosome breaks
+of 16 normal appearing embryos recovered at E7.5, after [1, 13].
+the start of gastrulation, two were Atm2/2. At E8.5, four out
+of twenty embryos were Atm2/2. However, these embryos, Unlike ATM, DNA-PK-deficient cells have not shown
+dissected free of yolk sac, were significantly smaller and defects in cell cycle checkpoints or apoptotic responses less developed then wild type embryos of the same age to ionizing radiation [14–16]. However, these cells show (Figure 1). By E9.5, out of 28 normal embryos recovered, a clear defect in end-to-end rejoining of DNA breaks,
+none were Atm2/2 (Table 1). Six out of 34 embryos at this which is a major repair pathway for double-strand breaks age were reabsorbing with noticeably smaller deciduae. in mammalian cells [17]. Thus, the proximal cause of Residual embryonic material was recovered from three of radiosensitivity of DNAPK mutant cells is likely due to these and all were genotyped as Atm2/2. Together, these lack of DNA repair while that of ATM mutant cells may results indicate that the development of scid/scid Atm2/2
+be due lack of cell cycle arrest and resultant chromosome embryos was arresting around E7.5, at the mid primitive breaks.
+streak stage.
+
+Unlike ATM, DNA-PKcs requires regulatory subunits,
+The observation that both scid/scid Atm termed Ku for activity. Following the generation of DNA 1/2 and scid/1
+Atm2/2 mice develop to term, whereas scid/scid Atm2/2 em- breaks, Ku70 and Ku 80 subunits bind to the free DNA
+ends and recruit DNA-PKcs. DNA-PKcs bryos die very early in embryogenesis, indicates a potent is subsequently
+synergistic interaction between mutations in these two activated when bound to DNA and catalyses the end-toPI3K-related
+protein kinases. What is the basis of this end rejoining of DNA breaks. Although there are many
+interaction? in vitro substrates for DNA-PKcs, the relevant in vivo
+Brief Communication 193
+
+substrates remain largely undefined [3]. Substrates identi- ation, with a cell generation time of as little as 2–3 hr
+fied for ATM include those involved in cell cycle arrest, [19]. Thus, defects in DNA repair and cellular responses
+including Mdm2, p53, Chk2, and, indirectly, Chk1 [1]. are likely to have the greatest impact during this developThe
+kinase domain of DNA-PK mental window and this could explain the demise of scid/ cs is 28% identical and 51%
+similar to that of ATM [2]. Thus, although structurally scid Atm2/2 embryos at this stage. Indeed, mouse concepti
+related, these proteins have distinct functions in response deficient in other DNA repair or response genes such as
+to DNA damage. Atr [20, 21], Rad 50 [22], Rad 51 [23], AP endonuclease [24],
+Brca1, and Brca2 [25] also die at about the same stage of
+development. ATR, another PI3K-related family mem- Previous results have shown that Atm2/2 embryos irradi- ber, is more highly related to ATM than is DNA-PKcs, ated with 0.5 Gy at E6.5 fail to develop to term whereas sharing 31% identity at the PI3K domain [2]. ATR, like Atm1/2 and wild type littermates do [9]. Thus, the combi- ATM, is a protein kinase that is activated by DNA damage nation of DNA damage and Atm deficiency is lethal dur- and initiates signaling important in cell cycle checkpoints ing embryogenesis. Mutation in DNA-PKcs as occurs in
+[26, 27]. ATR-deficient cells are sensitive to DNA dam- the scid/scid mutant is likely to result in persistence of age, and lethality of Atr2/2 embryos prior to E7.5 is report- unrepaired breaks that arise spontaneously during the rapid edly due to extensive chromosomal fragmentation [20, cell cycles that occur during embryogenesis. These unre- 21]. These data support the idea that defects in DNA paired breaks would normally activate Atm-dependent repair or response pathways are critical just prior to or events including cell cycle checkpoints. In the absence during gastrulation. of Atm, these cells might continue to progress through
+the cell cycle, resulting in fixation of damage or conversion Genetic interaction among PI3K-related protein kinase of DNA breaks to chromosomal breaks. As Atm is involved
+members has also been reported in yeast. TEL1 and MEC1 in multiple checkpoints, we asked whether loss of p53, from S. cerevisiae share significant sequence similarity to which is critical for the DNA damage induced G1 check- Atm, Atr, and DNAPKcs [2] and are involved in telomere point, also interacted with DNA-PK. Intercrosses of scid/ maintenance and in response to DNA damage [28]. Simul- scid p531/2 mice [18] yielded mice of the expected p53 taneous mutations in both TEL1 and MEC1 resulted in genotypes (56 scid/scid p531/1, 91 scid/scid p531/2, and 39 synergistically increased sensitivity to DNA damaging scid/scid p532/2), indicating that loss of p53 and the associ- agents [28] and a senescent phenotype [29]. Just one ated G1 checkpoint is insufficient to result in lethality in a
+DNA-PK copy of TEL1 was sufficient to suppress the lethality and cs mutant background. Furthermore, intercrosses radiation sensitivity of a truncation allele of MEC1 [28]. of p532/2 Atm1/2 mice also yielded mice of the expected Thus, TEL1 and MEC1 are functionally related, and it Atm genotypes (20 p532/2 Atm1/1, 51 p532/2 Atm1/2, and was suggested that functions of the ATM gene are divided 17 p532/2 Atm2/2), indicating no measurable interaction of between these two S. cerevisiae homologs [28]. Atm and p53 during normal embryogenesis. These results
+clearly highlight the importance of other functions of Atm, A complete picture of the signaling pathways and func- besides regulation of p53 and G1 arrest, in cellular survival tions of these PI3K-related family members has yet to and interaction with DNA-PK. These functions could be
+emerge. The strong genetic interactions observed in both those involved in controlling G2 arrest or in maintaining yeast and mammalian homologs suggest they have over- chromosomal integrity in the face of DNA breaks. It has lapping or complementary functions, which provides im- been suggested that in ATM mutant cells, DNA breaks portant clues to their function in the context of the intact are more efficiently converted into chromosome breaks organism. due to lack of cell cycle arrest and/or due to alterations
+in chromatin structure [1]. This could be the mechanistic Materials and methods basis for synergy between mutations in Atm and DNAPK. 129/SvEv Atm(ins5790neo) knockout mice were obtained from A. Wynshaw- It is also possible that Atm and DNA-PK have other, yet Boris [6] and genotyped by PCR of toe-derived DNA using the following
+to be described, overlapping functions that are essential primers: Atm forward, 59GACTTCTGTCAGATGTTGCTGCC39; Atm refor
+viability. verse, 59CGAATTTGCAGGAGTTGCTGAG39; and Atm neo, 59GGG
+TGGGATTAGATAAATGCCTG39 The product sizes are WT, z170 bp,
+and Mutant, z410 bp. PCR conditions were 13 PCR buffer, 2.7 mM
+It has long been known that certain stages of embryonic MgCl2, 0.5 mM dNTPs, 0.1 mM primers, 1 unit of Taq, and 200 ng DNA
+in 25 ml water. Cycling conditions were 958 for 5 min followed by 25 development are more sensitive to DNA damage than cycles of 938 for 45 s, 558 for 45 s, and 728 for 90 s. others. During gastrulation of the mouse, at E7.5, embryos
+are by far the most sensitive to irradiation, showing a very BALB/cByJSmn-Prkdcscid/J (BALB/c scid) and C3HSmn.CPrkdcscid/J
+large increase in apoptosis in response to 0.5 Gy and mice were purchased from Jackson Laboratory and genotyped as described
+[4]. To generate compound mutant mice, 129/Sv Atm1/2 mice substantial cell death after doses as low as 0.05 Gy [9]. were crossed to BALB/c scid/scid mice, yielding 1293BALB/c F1 Earlier or later stages of development do not show this Atm1/2 scid/1 mice. These were backcrossed to BALB/c scid/scid mice
+high degree of radiosensitivity. Cells of the embryo at to generate scid/scid Atm1/2 mice. These were intercrossed in an attempt
+this stage of development have an extreme rate of prolifer- to generate scid/scid Atm2/2 mice. No mice of this genotype were recov-
+194 Current Biology Vol 11 No 3
+
+ered, so pregnancies were set up and embryos removed at defined time 19. Snow MHL: Gastrulation in the mouse: growth and
+points postcoitum. regionalization of the epiblast. J Embryol Exp Morphol 1977,
+42:293-303.
+20. de Klein A, Muijtjens M, van Os R, Verhoeven Y, Smit B, Carr AM, Blastocysts and embryos were genotyped using standard Atm primers et al.: Targeted disruption of the cell-cycle checkpoint gene and Qiagen HotStar Taq DNA Polymerase. Blasts, and embryos were ATR leads to early embryonic lethality in mice. Curr Biol 2000,
+collected in Qiagen 13 buffer with 1 mg/ml of Proteinase K (Sigma). 10:479-482.
+These were incubated for 2 hr at 578C, and 1 ml of resulting DNA was 21. Brown EJ, Baltimore D: ATR disruption leads to chromosomal
+used per 10 ml PCR reaction. PCR conditions were those suggested fragmentation and early embryonic lethality. Genes Dev
+by Qiagen with 1.5 m 2000, 14:397-402. l of 25 mM MgCl2 added. 40 cycles were used 22. Luo G, Yao MS, Bender CF, Mills M, Bladl AR, Bradley A, et al.: for blasts and 25 cycles for embryos. Disruption of mRad50 causes embryonic stem cell lethality,
+abnormal embryonic development, and sensitivity to ionizing
+Acknowledgments radiation. Proc Natl Acad Sci 1999, 96:7376-7381.
+We thank Tony Wynshaw-Boris for generously providing us with Atm 23. Lim DS, Hasty P: A mutation in mouse rad51 results in an early 2/2 mice
+and insightful discussion and Kyung-Hoon Kim, Michelle Tallquist, and Phil embryonic lethal that is suppressed by a mutation in p53.
+Soriano for assistance. This work was funded by a National Institutes of Mol Cell Biol 1996, 16:7133-7143.
+Health research grant to C. J. K. 24. Ludwig DL, MacInnes MA, Takiguchi Y, Purtymun PE, Henrie M,
+Flannery M, et al.: A murine AP-endonuclease gene-targeted
+deficiency with post-implantation embryonic progression and References ionizing radiation sensitivity. Mutation Res 1998, 409:17-29.

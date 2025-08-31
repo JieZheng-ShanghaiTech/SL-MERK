@@ -1,0 +1,1457 @@
+Cancer Therapy: Preclinical
+
+Blocked Autophagy Using Lysosomotropic Agents Sensitizes
+Resistant Prostate Tumor Cells to the Novel Akt Inhibitor
+AZD5363
+
+Francois Lamoureux1
+, Christian Thomas1
+, Claire Crafter2
+, Masafumi Kumano1
+, Fan Zhang1
+,
+Barry R. Davies2
+, Martin E. Gleave1
+, and Amina Zoubeidi1
+
+Abstract
+Purpose: Prostate cancer development is often associated with deletion or silencing of tumor suppressor
+phosphatase and tensin homolog (PTEN), a negative regulator of the phosphoinositide 3 kinase (PI3K)–Akt
+pathway, leading to resistance to various therapies in both the preclinical and clinical setting. Therefore, the
+PI3K–Akt pathway plays a central role in various cellular processes promoting survival signaling that can
+contribute to the malignant phenotype, and, consequently, is an attractive pharmacologic target. However,
+as single agents, the efficacy of AKT inhibitors may be limited by resistance mechanisms that result in
+minimal cell death in tumor cells.
+Experimental Design: We investigated the effects of the Akt inhibitor AZD5363 on cell proliferation, cell
+cycle, apoptosis, and Akt downstream pathway proteins. Survival mechanisms induced by AZD5363 were
+investigated. We then examined the impacts of inhibition of autophagy in combination with AZD5363 on
+cell proliferation and apoptosis. Furthermore, the anticancer activity of combination treatment of the
+lysosomotropic inhibitor of autophagy (chloroquine) with the Akt inhibitor AZD5363 was evaluated in
+PC-3 prostate cancer xenografts.
+Results: Here, we show that the Akt inhibitor AZD5363 affected the Akt downstream pathway by
+reducing p-mTOR, p-P70S6K, and p-S6K. While AZD5363 monotherapy induced G2 growth arrest and
+autophagy, it failed to induce significant apoptosis in PC-3 and DU145 prostate cancer cell lines. Blocking
+autophagy using pharmacologic inhibitors (3-methyladenine, chloroquine, and bafilomycin A) or genetic
+inhibitors (siRNA targeting Atg3 and Atg7) enhanced cell death induced by Akt inhibitor AZD5363 in these
+tumor prostate cell lines. Importantly, the combination of AZD5363 with chloroquine significantly reduced
+tumor volume by 84.9% compared with the control group and by 77.5% compared with either drug alone in
+PC3 xenografts.
+Conclusion: Taken together, these data show that the Akt inhibitor AZD5363 synergizes with the
+lysosomotropic inhibitor of autophagy chloroquine to induce apoptosis and delay tumor progression in
+prostate cancer models that are resistant to monotherapy AZD5363, providing a new therapeutic approach
+potentially translatable to patients. Clin Cancer Res; 19(4); 833–44. 2012 AACR.
+
+Introduction
+Prostate cancer is the most common cancer and the
+third most common cause of cancer-related mortality in
+
+men in the United States (1). Androgen ablation remains
+the standard effective therapy for patients with advanced
+prostate cancer, inhibiting proliferation and inducing
+apoptosis in tumor cells (2). Unfortunately, after shortterm
+remissions, surviving tumor cells recur with castrateresistant
+prostate cancer (CRPC) and death usually within
+3 years in most men (3). To significantly improve survival
+in men with prostate cancer, new therapeutic strategies
+to inhibit the appearance of this phenotype must be
+developed.
+Cancer development is often associated with deletion or
+silencing of tumor suppressor phosphatase and tensin
+homolog (PTEN), a negative regulator of the phosphoinositide
+3 kinase (PI3K)–Akt pathway (4), leading to resistance
+to various therapies in both preclinical and clinical
+trials (5, 6). Therefore, the PI3K/Akt/mTOR pathway plays a
+central role in various cellular processes, including protein
+
+Authors' Affiliations: 1
+The Vancouver Prostate Centre, University of
+British Columbia, Vancouver, British Columbia, Canada; and 2
+AstraZeneca,
+Macclesfield, United Kingdom
+Note: Supplementary data for this article are available at Clinical Cancer
+Research Online (http://clincancerres.aacrjournals.org/).
+F. Lamoureux and C. Thomas contributed equally to this work.
+Corresponding Author: Amina Zoubeidi, The Vancouver Prostate Centre,
+University of British Columbia, 2660 Oak Street, Vancouver, BC V6H 3Z6,
+Canada. Phone: 604-809-4947; Fax: 604-875-5654; E-mail:
+azoubeidi@prostatecentre.com
+doi: 10.1158/1078-0432.CCR-12-3114
+2012 American Association for Cancer Research.
+
+Clinical
+Cancer
+Research
+
+www.aacrjournals.org 833
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+synthesis, cell cycle, cell survival, cell growth, motility, and
+angiogenesis (7), that can contribute to the malignant
+phenotype. Many small-molecule inhibitors targeting PI3K,
+Akt, and/or mTOR are currently at various stages of clinical
+development. Despite an impressive efficacy in certain
+preclinical tumor models (7), clinical responses to smallmolecule
+inhibitors of this pathway have been limited,
+because PI3K, Akt, or mTOR inhibition typically promotes
+growth arrest rather than cell death in solid tumors (8). To
+enhance cancer cell killing mediated by Akt inhibitors, the
+prosurvival pathways activated in response to the drugs
+were investigated. Because mTOR is reported to be a key
+node of macroautophagy (hereafter called autophagy) that
+provides energy and nutrients to cancer cells during stress by
+a cellular self-digestion process (9), autophagy seems to be a
+good candidate as an activated survival pathway.
+Autophagy is a conserved process by which cells recycle
+macromolecules and organelles into specialized doublemembrane
+vesicles known as autophagosomes to maintain
+homeostasis (10, 11). The formation of autophagosomes is
+initiated by class III PI3K and Beclin-1. Then, autophagosomes
+fuse with the lysosome, forming autophagolysosomes
+promoting intracellular degradation. The abundant
+cytoplasmic microtubule-associated protein chain 3 protein
+(LC3-I), recruited during the formation of autophagosomes,
+is cleaved and lipidated generating the LC3-II form
+(12). The hallmark of autophagic activation is, thus, the
+formation of cellular autophagosome punctae containing
+LC3-II.
+So far, the role of autophagy in cancer is controversial, as
+the factors that determine whether autophagy induces
+tumor cell death or protects tumor cells from unfavorable
+conditions have not been clearly elucidated. Autophagy is
+reported to play an antitumoral role by reducing the chromosomic
+instability, thus avoiding DNA damage (13),
+inhibiting cell proliferation (14, 15), and protecting cells
+from necrosis and associated inflammation, that could
+
+promote angiogenesis and tumor progression (13, 16). On
+the other hand, several studies showed that autophagy is
+part of tumor progression during metabolic stresses (17).
+Therefore, autophagy acts as an anti-apoptotic mechanism
+for tumor cells under stress, maintaining metabolism and
+energy needed for survival (13). Moreover, inhibition of
+autophagy promotes cancer cell death (18, 19) and potentiates
+various anticancer therapies (20–24).
+While some prostate cancer cell lines such as LNCaP and
+PC346-Flu1 are very sensitive to monotherapy with the AKT
+inhibitor AZD5363, where the compound induces significant
+apoptosis at concentrations achievable in preclinical
+models (25), other prostate cancer cell lines, such as DU145
+and PC3, are relatively resistant. Here, we show that the
+novel Akt inhibitor AZD5363 activated autophagy in resistant
+prostate cell lines and cooperated with chloroquine to
+promote cell death in vitro and in vivo in prostate tumor
+models. This study strongly shows the attractive prospect of
+blocking autophagic processes combined with targeted
+therapy as a promising therapeutic approach for prostate
+cancer.
+Materials and Methods
+Tumor cell lines and reagents
+The human prostate cancer cell lines PC-3 and DU-145
+were purchased from the American Type Culture Collection
+(2008 and 1989, respectively; ATCC-authentication by isoenzymes
+analysis) and maintained in Dulbecco’s modified
+Eagle’s medium (DMEM; Invitrogen-Life Technologies)
+supplemented with 5% FBS and 2 mmol/L L-glutamine.
+All cell lines were cultured in a humidified 5% CO2/air
+atmosphere at 37C. All cell lines were passaged for less than
+3 months after resurrection.
+
+Therapeutic agents
+The Akt inhibitor, AZD5363, was kindly provided from
+AstraZeneca and used for in vitro and in vivo studies. The
+AZD5363 compound is a novel synthetic Akt inhibitor that
+is orally bioavailable. For the in vitro studies, AZD5363 was
+dissolved in dimethyl sulfoxide (DMSO) at 10 mmol/L
+stock solutions and stored at 20C. For the in vivo studies,
+AZD5363 was dissolved in PBS 1% carboxymethylcellulose
+(CMC) and 0.5% Tween 80 (Invitrogen-Life Technologies)
+at 15 mg/mL and stored at 4C. Chloroquine (CHQ; SigmaAldrich)
+was dissolved in water for both in vitro and in vivo
+experiments at the desired concentrations and stored at 4C.
+
+Cell proliferation and apoptosis assays
+Prostate cancer cell lines were plated in appropriate
+media (DMEM) with 5% FBS and treated with AZD5363
+at indicated concentration and time, and cell growth was
+measured using the crystal violet assay as described previously
+(26). Detection and quantitation of apoptotic cells
+was done by flow cytometry (described in the following)
+and Western blotting analysis. Each assay was repeated in
+triplicate.
+Caspase-3 activity was assessed 3 days after treatment
+using the kit CaspACE Assay System, Fluorometric
+
+Translational Relevance
+Targeting Akt using a novel inhibitor, AZD5363, activates
+autophagy in resistant prostate cell lines and
+works synergistically with chloroquine (CHQ) to promote
+cell death in vitro and in vivo in prostate tumor
+models. We specifically report AZD5363 monotherapy
+induced G2 growth arrest and autophagy, but failed to
+induce significant apoptosis in PC-3 and DU145 prostate
+cancer cell lines. Blocking autophagy using pharmacologic
+inhibitors (3-methyladenine, chloroquine,
+and bafilomycin A) or genetic inhibitors (siRNA targeting
+Atg3 and Atg7) enhanced cell death induced by Akt
+inhibitor AZD5363 in these tumor prostate cell lines.
+Importantly, the combination of AZD5363 with chloroquine
+significantly reduced tumor volume compared
+with the control group and compared with either drug
+alone in PC3 xenografts.
+
+Lamoureux et al.
+
+834 Clin Cancer Res; 19(4) February 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+(Promega). Fifty microgram of total cell lysate were incubated
+with caspase-3 substrate AC-DEVD-AMC at room
+temperature for 4 hours and caspase-3 activity was quantified
+in a fluorometer with excitation at 360 nm and
+emission 460 nm.
+
+Cell-cycle analysis
+Prostate cancer cell lines were incubated in the absence or
+the presence of 10, 50, and 100 mmol/L AZD5363 for 48
+hours, trypsinized, washed twice, and incubated in PBS
+containing 0.12% Triton X-100, 0.12 mmol/L EDTA, and
+100 mg/mL ribonuclease A; 50 mg/mL propidium iodide was
+then added to each sample for 20 minutes at 4C. Cell-cycle
+distribution was analyzed by flow cytometry (Beckman
+Coulter Epics Elite, Beckman), on the basis of 2N and 4N
+DNA content. Each assay was done in triplicate.
+
+Western blotting analysis
+Samples containing equal amounts of protein (depending
+on the antibody, 5–50 mg) from lysates of cultured
+tumor prostate cell lines underwent electrophoresis on
+SDS-PAGE and were transferred to nitrocellulose filters.
+The filters were blocked in Odyssey Blocking Buffer (LICOR
+Biosciences) at room temperature for 1 hour and
+blots were probed overnight at 4C with 1:1,000 primary
+antibodies to detect proteins of interest. After incubation,
+the filters were washed 3 times with washing buffer (PBS
+containing 0.1% Tween) for 5 minutes. Filters were then
+incubated for 1 hour with 1:5,000 diluted Alexa Fluor
+secondary antibodies (Invitrogen) at room temperature.
+Specific proteins were detected using ODYSSEY IR imaging
+system (LI-COR Biosciences) after washing. Antibodies
+anti–phospho-Akt (Ser473), anti-Akt, anti-mTOR,
+anti-phospho-mTOR, anti-GSK-3B, anti-phospho-GSK3B,
+anti-phospho-S6, anti-caspase-3, anti-cleaved PARP,
+anti-Atg7, anti-Atg3 and anti-LC3, anti-phospho-CDC2,
+anti-phospho-CDC25C, and anti-phospho-WEE1 from
+Cell Signaling Technology; and anti-vinculin and anti–
+b-actin from Sigma-Aldrich.
+
+siRNA transfection
+Cells were transfected with antisense or siRNA as
+described previously (27, 28). The sequence of Atg3 siRNA
+corresponds to the human Atg3 site (50
+-GGAAUCAAAGUUUAAGGAAACAGGU-30;
+Invitrogen Life Technologies).
+A scrambled siRNA (50
+-CAGCGCUGACAACAGUUUCAU-30;
+Dharmacon) was used as a control for RNA interference
+experiments.
+
+Immunofluorescence
+Tumor cells were grown on coverslips and treated with
+AZD5363 at indicated concentrations and indicated time.
+After treatment, cells were fixed in ice-cold methanol completed
+with 3% acetone for 10 minutes at 20C. Cells were
+the washed 3 times with PBS and incubated with 0.2%
+Triton/PBS for 10 minutes, followed by washing and 30
+minutes blocking in 3% nonfat milk before the addition of
+antibody overnight to detect LC-3 (1:250). Antigens were
+
+visualized using anti-mouse antibody coupled with fluorescence
+isothiocyanate (FITC; 1:500; 30 minutes). Photomicrographs
+were taken at 20 magnification using a Zeiss
+Axioplan II fluorescence microscope, followed by analysis
+with imaging software (Northern Eclipse; Empix Imaging).
+Puncta from 100 to 150 cells were counted from 3 independent
+experiments for quantitative analysis as described
+previously (29). Cells displaying more than 15 brightly
+fluorescent LC3 puncta were counted as positive. Photomicrographs
+were taken at 40 magnification using a Zeiss
+Axioplan II fluorescence microscope.
+
+Animal treatment
+To establish PC-3 or DU145 tumors, 2  106 cells were
+inoculated subcutaneously (s.c.) in the flank of 6- to 8-
+week-old male athymic mice (Harlan Sprague-Dawley).
+When tumors reached 100 mm3
+, usually 3 to 4 weeks after
+injection, mice were randomly assigned to vehicle,
+AZD5363 alone, chloroquine alone or AZD5363 þ CHQ.
+AZD5363 (150 mg/kg; formulation in 0.5% CMC þ 0.5%
+Tween-80) was administered orally twice daily and chloroquine
+(15 mg/kg) was injected intraperitoneally once
+daily. Each experimental group consisted of 10 mice. Tumor
+volume was measured twice weekly (length  width
+depth  0.5432). Data points were expressed as average
+tumor volume  standard error of the mean (SEM).
+When tumor volume reached at least 10% or more of
+body weight, mice were sacrificed and tumors harvested for
+evaluation of protein expression by Western blotting analyses
+and immunohistochemistry. All animal procedures
+were carried out according to the guidelines of the Canadian
+Council on Animal Care and appropriate institutional
+certification.
+
+Immunohistochemistry
+Immunohistochemical stains were carried out on formalin-fixed
+and paraffin-embedded 4-mm sections of tumor
+samples using adequate primary antibody (Supplementary
+materials), and the Ventana autostainer Discover XT (Ventana
+Medical System) with enzyme-labeled biotin streptavidin
+system and the solvent-resistant 3,30
+-diaminobenyidine
+Map kit. All comparisons of staining intensities were
+made at 200 magnifications.
+
+Statistical analysis
+All in vitro data were assessed using the Student t test and
+Mann–Whitney test. Tumor volumes of mice were compared
+using the Kruskal–Wallis test. Overall survival was
+analyzed using Kaplan–Meier curves and statistical significance
+between the groups was assessed with the log-rank
+test (Graphpad Prism). Levels of statistical significance were
+set at P less than 0.05.
+
+Results
+A novel Akt inhibitor, AZD5363, downregulates the
+Akt downstream pathway
+AZD5363, an orally bioavailable, small-molecule inhibitor
+of Akt (Fig. 1A), potently inhibits all 3 isoforms of Akt
+
+Chloroquine Sensitizes Prostate Tumor Cells to AZD5363
+
+www.aacrjournals.org Clin Cancer Res; 19(4) February 15, 2013 835
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+(Akt 1, 2, and 3; ref. 25). Although these 3 isoforms are
+encoded by separate genes, they share a common NH2
+-terminal pleckstrin homology (PH) domain, a catalytic
+domain in the middle, and a COOH terminus (30, 31). The
+identity of the overall amino acid sequence of the 3 isoforms
+is very high (80%); however, the COOH terminus and the
+PH-linker region are more diverse (31). AZD5363 downregulates
+the phosphorylation of downstream pathway
+proteins in a dose-dependent manner (Fig. 1B and C), as
+evaluated by Western blot in PC-3 and DU145 prostate cell
+lines. Indeed, AZD5363 reduced phospho-mTOR, phospho-S6,
+and phospho-GSK-3b proteins, clearly showing
+that the compound inhibits AKT substrates and pathway
+across the dose range. However, consistent with data in
+other cell lines, phosphorylation of Akt was increased in a
+dose-dependent manner in both PC-3 and DU145 cells
+(25).
+
+Biological effects of AZD5363 on PC-3 and DU145
+prostate cell lines
+To determine the biological activity of AZD5363 on cell
+proliferation, we compared PC-3 and DU145 cell lines with
+LNCaP cells, which are known to be very sensitive to
+AZD5363 (25). AZD5363 reduced LNCaP cell viability in
+a dose- and time-dependent manner (90% inhibition
+
+after 3 days at 200 nmol/L and >90% reduction in cell
+proliferation after 2 days at 10 mmol/L). In contrast, PC-3
+and DU145 cell viability was only slightly affected in dosedependent
+manner after 24 hours and, indeed, cell number
+increased after 1 day, indicating insensitivity and innate
+resistance of these cancer cells to AZD5363 (Fig. 2A). We
+next examined the effect of AZD5363 inhibitor on cell-cycle
+repartition in PC-3 and DU145 cancer cell lines compared
+with sensitive LNCaP cells. While a low dose of AZD5363
+enhances the sub-G0/G1 phase (Supplementary Fig. S1A)
+and increases cleaved-PARP in the sensitive LNCaP cells
+(Supplementary Fig. S1B), PC-3 and DU145 cells show a
+slight G2/M arrest (increasing by 1.5–2-fold the cell population
+after 50 mmol/L AZD5363 relative to control) after
+AZD5363 treatment compared with untreated cells (Fig.
+2B). These results were associated with decreased phosphoCDC2,
+phospho-CDC25C, and phospho-WEE1 expression
+in PC-3 and DU145 cell lines (Fig. 2C). No significant
+change was observed in the sub-G0/G1 phase after treatment
+with 10 mmol/L, even with a high concentration 50 mmol/L
+of AZD5363 (5-fold higher than the concentration
+achieved at a maximum dose tolerated in nude mice)
+compared with control (Fig. 2B). These results suggest that
+AZD5363 fails to induce apoptosis in PC-3 and DU145
+prostate cell lines at a concentration that reflects maximal
+
+C
+
+B
+
+PI3K
+
+Akt
+
+mTOR GSK-3
+
+p70S6K
+
+S6
+
+Autophagy
+
+P-Akt (ser)
+Akt
+
+P-S6
+
+0 0.5 1 10 0 0.5 1 10
+DU145 PC-3
+AZD5363 (µmol/L)
+
+Vinculin
+
+GSK-3B
+
+P-GSK-3β
+P-mTOR
+mTOR
+
+A
+
+AZD5363
+
+AZD5363
+
+OH
+
+O
+
+N
+NH2
+
+N
+
+N
+
+N NH
+
+H
+
+Cl
+
+Figure 1. AZD5363 inhibits PI3K/
+Akt/mTOR pathway. A, chemical
+structure of AZD5363. B, PC-3 and
+DU145 cells were treated with
+AZD5363 at indicated doses for 48
+hours. Cell lysates were analyzed
+by immunoblotting with antibodies
+as indicated. C, a model depicting
+Akt-mediated signal pathway, also
+involved in the suppression of
+autophagy via mTOR activation.
+
+Lamoureux et al.
+
+836 Clin Cancer Res; 19(4) February 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+tolerated doses in preclinical mouse models (Fig. 2B). This
+result was confirmed by immunoblot analysis, showing that
+AZD5363 did not induce cleaved caspase-3 or cleaved PARP
+in PC-3 and DU145 cells (Fig. 2D), while other drugs
+(staurosporine or MG132) induce apoptosis in these cell
+lines (Supplementary Fig. S2A).
+
+AZD5363 induces autophagy by inhibiting Akt/mTOR/
+p70S6K signaling pathway in prostate cells
+Having shown downregulation of the Akt downstream
+pathway, including inhibition of mTOR pathway (Fig. 1A)
+and a growth arrest without apoptosis induction (Fig. 2), we
+focused on autophagy as a mechanism inducing cell survival
+rather than apoptosis (20). We investigated autophagy
+
+induction in tumor prostate cells after AZD5363 treatment
+and found that AZD5363 induces autophagosome formation,
+as measured by puncta of LC3 fusion protein in PC3
+prostate cancer cells compared with untreated cells (75% of
+positive cells after AZD5363 treatment vs. 23% of positive
+cells in Ctrl condition; Fig. 3A and B). The level of autophagy
+induction was comparable with that induced by rapamycin,
+an mTOR inhibitor known to induce autophagy
+(32). Similar to that with rapamycin treatment (Supplementary
+Fig. S2B), immunoblotting revealed that AZD5363
+induced the conversion of LC3-I to LC3-II in a dose- and
+time-dependent manner (Fig. 3C and D). We next examined
+if AZD5363 induces autophagy in vivo. Mice treated with
+AZD5363 show an induction of autophagy as indicated by
+
+% Cell population
+
+0
+20
+40
+60
+80
+100
+
+G0–G1 S G2–M
+
+Ctr
+10 µmol/L
+50 µmol/L
+
+0
+20
+40
+60
+80
+100 Ctr
+10 µmol/L
+50 µmol/L
+
+DU-145 PC-3
+
+0 0.5 1 10 50
+
+Casp-3
+
+PARP
+
+Vinculin
+
+AZ-11 (µmol/L)
+
+C-casp-3
+
+C-PARP
+
+0 0.5 1 10 50
+DU145 PC-3
+
+P-CDC2
+
+P-WEE1
+P-CDC25C
+
+Vinculin
+
+0 0.5 1 10 50 0 0.5 1 10 50
+DU145 PC-3
+AZ-11 (µmol/L)
+Ctr
+
+DU-145 PC-3
+
+A
+
+B
+
+C D
+
+0 200 400 600 800 1,000 0 12345
+0
+100
+200
+300
+150 400
+
+100
+
+50
+
+0
+
+LNCaP
+PC-3
+DU145
+LNCaP
+PC-3
+DU145
+
+Days
+Cell viability (% of control)
+Cell viability (% of control)
+
+AZD5363 (10 µmol/L) AZD5363 (nmol/L)
+
+Sub-G0–G1 G0–G1 S G2 Sub-G0–G1 –M
+
+AZD5363 (50 μmol/L)
+
+Figure 2. AZD5363 causes G2 growth arrest, but fails to induce apoptosis in PC-3 and DU145 prostate tumor cell lines. A, PC-3, DU145, and LNCaP cells were
+treated with with AZD5363 at indicated doses for 48 hours or with 10 mmol/L AZD5363 at indicated time points. Then, cell growth was determined
+by crystal violet. B to D, PC-3 and DU145 cells were treated for 48 hours with AZD5363 at indicated doses. The proportion of cells in sub-G0–G1,
+G0–G1, S, or G2–M was determined by propidium iodide staining (B). Protein extracts were analyzed for proteins of interest involved in cell cycle (C) or in
+apoptosis pathway (D).
+
+Chloroquine Sensitizes Prostate Tumor Cells to AZD5363
+
+www.aacrjournals.org Clin Cancer Res; 19(4) February 15, 2013 837
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+conversion of LC3-I to LC3-II in heart tissue relative to
+untreated mice (Fig. 3E).
+
+Blocking autophagy enhances induction of apoptosis
+by AZD5363 in vitro
+Considering that autophagy may function as a stressactivated
+prosurvival mechanism in prostate cancer cells
+(20, 23), we hypothesized that inhibiting the autophagy
+pathway could promote cell death when combined with
+AZD5363. First, PC-3 cells were treated with AZD5363,
+followed by brief exposure to pharmacologic inhibitors of
+autophagy, bafilomycin A (Baf A), which inhibits vacuolartype
+Hþ-ATPase, thus blocking autophagosome maturation
+(33), chloroquine which disrupts the function of lysosomes,
+and 3-methyladenine (3-MA) which inhibits early
+stages of autophagosome formation (34). As shown in Fig.
+4A, cell viability is significantly reduced when AZD5363 is
+combined with Baf A, chloroquine, or 3-MA compared with
+either drug alone (Fig. 4A). This result is accompanied by
+increased apoptosis as shown by enhancing cleaved PARP
+level with combination treatment compared with monotherapy
+AZD5363, Baf A, or chloroquine (Fig. 4B). Furthermore,
+BafA- or chloroquine-treated cells showed increased
+conversion of LC3-I to LC3-II (Fig. 4B), likely due to
+
+autophagosome accumulation (35). This increased conversion
+of LC3-I to LC3-II was higher when Baf A or chloroquine
+was combined with AZD5363. These results were
+confirmed using another PI3K inhibitor, PI-103, further
+showing that targeting Akt induced a decrease of cell proliferation
+(Supplementary Fig. S3A), enhanced cleaved
+PARP with combination treatment compared with monotherapy
+PI-103 or chloroquine, and increased conversion of
+LC3-I to LC3-II (Supplementary Fig. S3B).
+To exclude off-target pharmacologic effects of drugs inhibiting
+autophagy, we treated cells with siRNAs directed
+against ATG3 and ATG7, which are required for autophagosome
+formation (36). The knock-down of the expression of
+endogenous ATG-3 or ATG-7 induced cell death by increasing
+significantly the sub-G1 fraction when combined with
+AZD5363, compared with control siRNA-treated cells (Fig.
+4C and D). This cell death is due to enhanced apoptosis, as
+evidenced by a pronounced increase in casapase-3/7 activity
+after combined treatment AZD5363 with siATG-3 or siATG7,
+relative to control siRNA (Fig. 4C and D). Taken together,
+these data strongly indicate that autophagy protects tumor
+cells from cell death induced by AZ5363 and, then, blocking
+autophagy contributes to apoptosis when combined with
+AZD5363.
+
+Control AZD5363 (10 µmol/L)-12 h Rapamycin (100 nmol/L)-12 h
+
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+
+Ctrl
+
+AZD5363
+Rapamycin
+Autophagic cells (%)
+
+A
+
+B C
+
+D E
+
+*** ***
+
+0 24 48 3 6
+
+P-Akt
+
+LC3-I
+
+Akt
+
+β-Actin
+
+AZD5363 (h)
+
+LC3-II Akt
+
+Vinculin
+
+1 2 1 2
+Ctrl AZD5363
+
+LC3-I
+LC3-II
+
+AZD5363 (µmol/L) 0 10 1 5
+
+Akt
+
+P-Akt
+
+β-Actin
+
+LC3-II
+LC3-I
+
+Figure 3. AZD5363 induces
+autophagy in vitro and in vivo. A,
+PC-3 cells were treated with
+10 mmol/L AZD5363 or with
+100 nmol/L rapamycin for 12 hours
+as positive control of autophagy
+induction. LC3 detected by
+immunostaining was analyzed and
+compared with control. Puncta
+represent autophagosome
+formation. B, quantification of
+puncta from A representing
+proportion of autophagic cells.
+PC-3 cells were treated with
+AZD5363 at indicated doses for 48
+hours (C) or with 10 mnmol/L for
+indicated time points (D). Protein
+extracts were analyzed by Western
+blotting for LC3-I, LC3-II, Akt, and
+p-Akt. b-Actin was used as the
+loading control. E, male C57-BL6J
+black mice were treated with
+vehicle control or AZD5363
+(100 mg/kg) for 6 hours. The Akt,
+LC3-I, and LC3-II levels were
+examined in the whole protein
+lysates prepared from heart
+tissues. Vinculin was used as the
+loading control.
+
+Lamoureux et al.
+
+838 Clin Cancer Res; 19(4) February 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+siATG7 siScr1
+
+Ctrl AZD5363 (10 µmol/L)
+
+siATG3 siScr1
+
+siATG3
+
+Ctrl AZD5363 (10 µmol/L)
+
+***
+*
+
+*
+**
+
+***
+**
+
+***
+
+***
+
++
+-
+-
++
+-
++
+-
++
+-
+-
++
++
+siATG3 (30 nmol/L)
+AZD5363 (10 µmol/L)
+siScr1 (30 nmol/L)
+
+siATG3
+
+Vinculin
+
++
+-
+-
++
+-
++
+-
++
+-
+-
++
++
+siATG7 (30 nmol/L)
+AZD5363 (10 µmol/L)
+siScr1 (30 nmol/L)
+
+siATG7
+
+Vinculin
+
+** *
+
+-
+-
++
+-
+-
++
++
++
+Chloroquine (20 µmol/L)
+AZD5363 (10 µmol/L)
+
+Akt
+
+β-Actin
+
+LC3-II
+LC3-I
+
+P-S6
+P-Akt
+
+Cleaved PARP
+Total PARP
+Cleaved PARP
+P-S6
+
+-
+-
+-
++
++
+-
++
++
+Baf A (10 nmol/L)
+AZD5363 (10 µmol/L)
+
+Akt
+
+β-Actin
+
+P-Akt
+
+LC3-II
+LC3-I
+
+Total PARP
+
+A
+
+B
+
+C
+
+D
+
+Ctrl
+Baf A
+Cell viability (%)
+Cell viability (%)
+Cell viability (%)
+
+AZD5363
+
+Baf A + AZD5363
+Ctrl
+CHQ
+AZD5363
+
+CHQ + AZD5363
+Ctrl
+3-MA
+AZD5363
+
+3-MA + AZD5363
+
+siScr1
+
+siScr1 + AZD5363
+Caspase-3/7 activity (RFLU)
+
+Caspase-3/7 activity (RFLU)
+
+Sub-G1 (%)
+
+sub G1 G0
+
+–G1 G2 S sub G –M 1G0
+
+–G1 G2 S –M
+
+sub G1 G0
+
+–G1 G2 S sub G –M 1 G0
+
+–G1 G2 S –M
+
+sub G1 G0
+
+–G1 G2 S sub G –M 1G0
+
+–G1 G2 S –M
+
+sub G1
+
+G0
+
+–G1 G2 S sub G –M 1 G0
+
+–G1 G2 S –M
+
+siATG3 + AZD5363
+siATG3
+siScr1
+
+siScr1 + AZD5363
+siATG3 + AZD5363
+
+siATG7
+siScr1
+
+siScr1 + AZD5363
+siATG7 + AZD5363
+
+110
+100
+90
+80
+70
+60
+50
+
+110
+100
+90
+80
+70
+60
+50
+
+110
+100
+90
+80
+70
+60
+50
+
+80,000
+
+60,000
+
+40,000
+
+20,000
+
+0
+
+siATG7
+siScr1
+
+siScr1 + AZD5363
+siATG7 + AZD5363
+
+80,000
+
+60,000
+
+40,000
+
+20,000
+
+0
+
+50
+40
+30
+20
+10
+0
+
+Sub-G1 (%) 50
+40
+30
+20
+10
+0
+
+Figure 4. Targeting autophagy enhances AZD5363 activity to induce apoptosis in PC-3 tumor prostate cells. PC3 cells were treated with 10 mmol/L AZD5363
+alone or in combination with 10 nmol/L Baf A, or 1 mmol/L 3-MA, or 20 mmol/L chloroquine (CHQ) for 48 hours. Cell proliferation was determined by
+crystal violet (A). Protein extracts were analyzed by Western blotting for LC3, P62, Akt, p-Akt, p-S6 and PARP (B). C and D, PC3 cells were transiently
+transfected with negative control siRNA (siScr1), siAtg3, or siATG7. PC-3 cell death was assessed by propidium iodide staining and flow cytometry
+analysis after 48 hours. Western blotting analysis or caspase-3/7 activity was determined on the cell lysates and the results are expressed in arbitrary units and
+corrected for protein content. , P < 0.001;  , P < 0.01; , P < 0.05.
+
+Chloroquine Sensitizes Prostate Tumor Cells to AZD5363
+
+www.aacrjournals.org Clin Cancer Res; 19(4) February 15, 2013 839
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+Autophagy inhibition potentiates in vivo activity of
+clinical inhibitor AZD5363 in prostate xenograft model
+To further investigate the therapeutic benefit of inhibiting
+autophagy in combination with AZD5363, we used chloroquine,
+which has been used in the clinical setting for more
+than 50 years for treatment of malaria and autoimmune
+disease. Using the PC-3 and DU145 cell lines, we showed
+that AZD5363 and chloroquine could cooperate to induce
+apoptosis in vitro as shown by PARP cleavage and caspase-3
+activity compared with either agent alone. To translate these
+resultsin vivo, we used prostate xenograft models from PC-3
+and DU145. When chloroquine was combined with
+AZD5363, the PC3 xenograft growth was reduced by
+80% compared with untreated mice or those treated with
+AZD5363 or chloroquine monotherapy (Fig. 5A). The
+tumor doubling time was 2-fold longer with combination
+therapy (0.8 month) compared with either drug alone
+(0.4 month; Fig. 5B). Moreover, all animals treated with a
+combination of AZD5363 and chloroquine survived after
+64 days, while 80% of untreated mice and 30% to 40% of
+
+mice treated with monotherapy AZD5363 or chloroquine
+acquired tumor burden that required euthanasia (Fig. 5C).
+No significant changes in overall body weight or behavior
+were observed in all mice. Similar results were observed in
+the DU145 xenograft model (Fig. 5D–F).
+Analyses of treated tumors confirmed that the combination
+treatment of AZD5363 and chloroquine significantly
+inhibited the Akt pathway and induced marked increases in
+apoptosis (Fig. 6A and B). Indeed, p-S6 staining decreased
+by 40% in the AZD5363 monotherapy group and by 90%
+after combination treatment, respectively. In addition,
+TUNEL staining (indicating degree of cell death) showed
+a large increase after combination treatment, while Ki-67
+expression decreased by approximately 90%, indicating
+reduction in cell proliferation. To detect LC3 and subsequently
+distinguish between the diffuse localization of LC3-
+I and the punctea of LC3-II in tumor tissue, only the dark
+punctea were counted as positive cells of LC3-II. Either drug
+alone increased autophagy by 2-fold relative to untreated
+mice, while the combination of AZD5363 and chloroquine
+
+A BC
+
+***
+
+Ctrl
+
+AZD5363
+CHQ
+
+AZD5363 + CHQ
+0.0
+0.2
+0.4
+0.6
+0.8
+
+Tumor doubling-time (months)
+
+Ctrl
+
+AZD5363
+CHQ
+
+AZD5363 + CHQ
+0
+1
+2
+3
+4
+
+Tumor doubling time (mo)
+
+D EF
+
+PC-3 model PC-3 model PC-3 model
+
+DU145 model
+DU145 model DU145 model
+
+***
+
+0 5 10 15 20 25 30 35
+0
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0 5 10 15 20 25 30 35
+40 45 50 55 0
+20
+40
+60
+80
+100
+120
+
+Control
+AZD5363
+CHQ
+AZD5363 + CHQ
+
+Control
+AZD5363
+CHQ
+AZD5363 + CHQ
+
+Tumor cell
+injection
+Start of
+treatment
+
+Time (d)
+Time (d)
+
+0
+
+3,000
+
+2,000
+
+1,000
+
+0
+10 20 30 40 50
+Time (d)
+
+Tumor volume (%)
+
+Tumor volume (mm3
+)
+
+Percent survival
+
+0 15 30 45 60 0
+20
+40
+60
+80
+100
+120
+
+Control
+AZD5363
+CHQ
+AZD5363 + CHQ
+
+Control
+AZD5363
+CHQ
+AZD5363 + CHQ
+
+Tumor cell
+injection
+Start of
+treatment
+
+Time (d)
+Percent survival
+
+Figure 5. Combination treatment of AZD5363 and chloroquine synergistically inhibits tumor growth in PC-3 and DU145 prostate cancer xenograft models.
+Mice were treated with 150 mg/kg AZD5363 twice a day by oral gavage and 25 mg/kg chloroquine once a day by intraperitoneal injection, starting
+when the tumor is palpable. The mean tumor volume (A and D) and the tumor doubling time (B and E) were compared between the 4 groups  SEM (n ¼ 10).
+Tumor doubling time was defined as time for the first tumor volume doubling. C and F, in Kaplan–Meier curve, cancer-specific survival was compared between
+the 4 groups over a 64-day (PC-3) model or 54-day (DU145 model) periods. , P < 0.001.
+
+Lamoureux et al.
+
+840 Clin Cancer Res; 19(4) February 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+A
+
+B
+
+Ctrl CHQ AZD5363 AZD5363 + CHQ
+
+P-S6
+
+LC3B
+
+Ki67
+
+TUNEL
+
+Ctrl
+
+AZD5363
+CHQ
+
+AZD5363 + CHQ
+0
+1
+2
+3
+4
+
+Ratio p-S6 /vinculin (UA)
+
+Ctrl
+
+AZD5363
+CHQ
+
+AZD5363 + CHQ
+0
+1
+2
+3
+4
+5
+
+Ratio LC3B II /vinculin (UA)
+p-S6
+Akt
+
+Control
+AZD5363
+CHQ
+AZD5363 + CHQ
+
+Vinculin
+LC3-II
+LC3-I
+
+P62
+
+Positive cells/field % Positive cells
+
+Control
+AZD5363
+CHQ
+
+AZD5363 + CHQ
+
+% Positive cells
+
+Positive cells/field % Positive cells
+***
+***
+***
+*
+*
+
+**
+
+***
+
+***
+**
+
+***
+
+** **
+
+***
+***
+0
+50
+100
+150
+
+0
+10
+20
+30
+40
+50
+
+0
+50
+100
+150
+0
+20
+40
+60
+80
+100
+0
+20
+40
+60
+80
+100
+120
+
+Figure 6. AZD5363 and chloroquine cause apoptosis in xenograft model. A, tumors were collected after sacrifice and p-S6, Ki67, LC3, and terminal
+deoxynucleotidyl transferase–mediated dUTP nick end labeling (TUNEL) were evaluated by immunohistochemical analysis (original magnification,
+ 200). Specimens were scored and estimated in positive cells per field or in percentage of positive cells. B, total proteins were extracted from the
+xenograft tumors and Akt, p-S6, LC3-I, and LC3-II were analyzed by Western blotting. The relative levels were normalized with vinculin and estimated
+in densitometric units  SEM; , P < 0.001;  , P < 0.01; , P < 0.05.
+
+Chloroquine Sensitizes Prostate Tumor Cells to AZD5363
+
+www.aacrjournals.org Clin Cancer Res; 19(4) February 15, 2013 841
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+increased LC3-II by 3.5-fold, corroborating with the in vitro
+data. In parallel to this LC3-II increase, a drastic degradation
+of the autophagy substrate p62 in tumor tissue was observed
+after AZD5363 treatment, whereas chloroquine slightly
+increased p62 expression compared with the untreated
+group (Fig. 6A), implying that the accumulation of LC3-
+II is associated with autophagosome degradation. Chloroquine
+combined with AZD5363 partially blocked the p62
+degradation induced by AZD5363 (Fig. 6A). Moreover, our
+data showed that Ki-67 decreases with combination therapy
+while apoptosis increases. These data showed clearly that
+the combination therapy overwhelmed the cells and shifted
+autophagy from survival to apoptosis. These data confirmed
+our in vitro results and provide support that inhibition of
+autophagy sensitizes the antitumor effect of AZD5363 on
+prostate cancer cells.
+
+Discussion
+Signaling through the PI3K–Akt pathway controls proliferation
+and apoptosis of cancer cells (37, 38) by modulating
+cell-cycle and apoptosis-regulatory proteins (39).
+Genetic inactivation of PTEN through either gene deletion
+or mutation is common in metastatic prostate cancer leading
+to Akt/PKB activation (40). Indeed, expression of phosphorylated
+Akt (Ser473) is correlated with advanced human
+prostate cancer (41) and associated with poor clinical
+outcome (42), highlighting the therapeutic interest to target
+Akt/PKB in prostate cancer.
+AZD5363, a potent pan-Akt kinase inhibitor, inhibits the
+growth of a range of human tumor xenografts as a monotherapy
+(25), including prostate cancer. On the basis of
+these data, AZD5363 is currently being investigated in phase
+1 clinical trials. However, we found a difference of therapeutic
+response of AZD5363 to induce apoptosis in different
+prostate cancer cell lines. Indeed, our data indicate that,
+in contrast to LNCaP and PC346C-Flu1 cells where a
+concentration of 1 mmol/L AZD5363 is sufficient to induce
+apoptosis, AZD5363 can cause cell-cycle delay without
+promoting significant apoptosis in PC-3 and DU-145 prostate
+tumor cells.
+Inhibition of Akt signaling using AZD5363 induces
+autophagy in prostate cells through downregulation of the
+mTOR pathway. Autophagy may promote cell survival or
+apoptosis in different cellular contexts. Indeed, autophagy
+may act as a protective mechanism in tumor cells against
+treatment with cytotoxic agents (16, 20, 43); understanding
+the consequences of autophagy is necessary to rationalize
+the potential of combination therapies to block this process
+and to sensitize the tumor cells to targeted therapies such as
+Akt inhibitors. In our study, inhibiting autophagy by using
+inhibitors (Baf A, 3-MA, or chloroquine) acting at different
+stage of the autolysosome formation enhances AZD5363
+activity to induce apoptosis in PC-3 and DU-145 prostate
+cancer cell lines. All these data suggest that autophagy plays
+a protective role in the survival and growth of these 2
+prostate cancer cell lines. Recently, Bray and colleagues
+reported that inhibition of mTOR pathway stimulates
+
+autophagy and eliminates RIP kinases (RIPKs; ref. 44).
+Moreover, combined mTOR and autophagy inhibition
+leads to an increase of ROS production, causing necroptosis
+(44). Our data show clearly that neither AZD5363 (Akt
+inhibitor) nor PI-103 (PI3K inhibitor) has an effect on
+RIPKs while rapamycin (mTOR inhibitor) induces a
+decrease of RIPKs expression (Supplementary Fig. S4A). In
+addition, we show that both rapamycin and PI-103 induce
+ROS production while AZD5363 failed to induce it (Supplementary
+Fig. S4B). Our data strongly suggest that
+AZD5363 induces autophagy independent of RIPKs or ROS
+production.
+Recently, several studies have reported that chloroquine
+has other biologic effects in addition to blocking
+autophagy, including inhibition of cell proliferation, and
+induction of apoptosis (45–47). It follows that the mechanism
+of sensitization of chloroquine to different drugs is
+currently controversial. Indeed, Maycotte and colleagues
+reported that chloroquine sensitizes breast cancer cells to
+cisplatin independently of autophagy inhibition or, more
+precisely, independently of Atg12 or beclin 1 (48). Previous
+reports have shown that PI3K pathway inhibitors,
+combined with chloroquine or other lysosomotropic
+agents, increased cell death in breast (49) or glioma
+(23) cell lines. In our study, we have shown that 3
+different inhibitors (Baf A, 3-MA, or chloroquine) blocking
+autophagy at different stages of this process sensitize
+prostate tumor cells to AZD5363, leading to cell death.
+This supports the interpretation that inhibition of autophagy
+is likely to be a mechanism that contributes to the
+therapeutic benefit of giving chloroquine in combination
+with AZD5363. Moreover, the specific knockdown of
+ATG3 or ATG7 induced apoptosis when combined with
+AZD5363 in prostate cancer cells as lysosomotropic
+agents, confirming that the inhibition of autophagy sensitizes
+tumor cells to apoptosis induced by this Akt
+inhibitor.
+Chloroquine has been used for decades for the treatment
+of malaria and rheumatoid arthritis, and has been shown to
+achieve some level of anti-HIV activity (50). Chloroquine is
+also known to be an inhibitor of autophagy by blocking
+acidification of the lysosome, preventing fusion with autophagosome
+(51) and, thus, represents a clinical opportunity.
+Currently, around 20 clinical trials are ongoing involving
+chloroquine as an autophagy inhibitor to potentiate the
+effects of targeted therapies (such as bortezomib, temsirolimus,
+or gemcitabine) in various cancers (52). Many of
+them have evidence of preliminary antitumor activity. In
+our study, we showed that blockade of autophagy at the
+level of lysosomal trafficking using chloroquine led to
+enhanced tumor cell death in response to AZD5363 and
+prolonged the overall survival in 2 prostate tumor xenograft
+models, as shown by increasing TUNEL expression and by
+decreasing Ki-67 expression in tumor tissues. Our data
+highlight the importance of autophagy as a survival signal
+in response to targeting the PI3K–Akt axis in prostate cancer.
+Although we do not exclude the possibility that effects
+of chloroquine are limited to inhibition of autophagy,
+
+Lamoureux et al.
+
+842 Clin Cancer Res; 19(4) February 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/4/833/2016904/833.pdf by guest on 14 August 2024
+we propose that chloroquine-mediated inhibition of
+autophagy has the potential to enhance the efficacy of
+AZD5363-mediated inhibition of Akt/PKB signaling and
+should be considered as a combination therapy in prostate
+cancer.
+
+Disclosure of Potential Conflicts of Interest
+A. Zoubeidi has a commercial research grant from AstraZeneca and is a
+consultant/advisory board member of Johnson and Johnson. No potential
+conflicts of interest were disclosed by the other authors.
+
+Authors' Contributions
+Conception and design: F. Lamoureux, C. Thomas, F. Zhang, B.R. Davies, A.
+Zoubeidi
+Development of methodology: F. Lamoureux, C. Thomas, F. Zhang
+Acquisition of data (provided animals, acquired and managed patients,
+provided facilities, etc.): F. Lamoureux, M. Kumano, M.E. Gleave
+
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics,
+computational analysis): F. Lamoureux, C. Thomas, B.R. Davies,
+M.E. Gleave
+Writing, review, and/or revision of the manuscript: F. Lamoureux,
+C. Thomas, C. Crafter, B.R. Davies, M.E. Gleave, A. Zoubeidi
+Administrative, technical, or material support (i.e., reporting or organizing
+data, constructing databases): F. Lamoureux, C. Thomas
+Study supervision: F. Lamoureux, A. Zoubeidi
+

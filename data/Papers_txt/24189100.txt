@@ -1,0 +1,1104 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=kaup20
+
+Autophagy
+
+ISSN: 1554-8627 (Print) 1554-8635 (Online) Journal homepage: www.tandfonline.com/journals/kaup20
+
+MTOR inhibition attenuates DNA damage
+and apoptosis through autophagy-mediated
+suppression of CREB1
+
+Ying Wang, Zhongdong Hu, Zhibo Liu, Rongrong Chen, Haiyong Peng, Jing
+Guo, Xinxin Chen & Hongbing Zhang
+
+To cite this article: Ying Wang, Zhongdong Hu, Zhibo Liu, Rongrong Chen, Haiyong Peng, Jing
+Guo, Xinxin Chen & Hongbing Zhang (2013) MTOR inhibition attenuates DNA damage and
+apoptosis through autophagy-mediated suppression of CREB1, Autophagy, 9:12, 2069-2086,
+DOI: 10.4161/auto.26447
+
+To link to this article: https://doi.org/10.4161/auto.26447
+
+View supplementary material
+
+Published online: 01 Nov 2013.
+
+Submit your article to this journal
+
+Article views: 5130
+
+View related articles
+
+Citing articles: 6 View citing articles
+©2013 Landes Bioscience. Do not distribute.
+
+ Basic Research Paper
+
+www.landesbioscience.com Autophagy 2069
+
+Autophagy 9:12, 2069–2086; December 2013; © 2013 Landes Bioscience
+Basic Research Paper
+
+Introduction
+
+Inappropriate cellular responses to stress changes within and
+outside the cells may facilitate the development of many tumors.
+The MTOR (mechanistic target of rapamycin) serves as a major
+effector that regulates diverse key cellular processes, such as
+cell growth,1
+ differentiation,2
+ metabolism,3
+ and autophagy.4
+Dysregulation of MTOR signaling caused by loss-of-function
+mutations of tumor suppressors including PTEN (phosphatase
+and tensin homolog),5
+ TSC (tuberous sclerosis complex)1/2,6-11
+
+or STK11/LKB1 (serine/threonine kinase 11),12 and gain-offunction
+mutations of proto-oncogenes such as PI3K (phosphoinositide
+3-kinase)13 or AKT (v-akt murine thymoma viral
+oncogene homolog 1)7,13 is a frequent event in human cancers.14
+Thus, MTOR is presented as an attractive target for cancer therapy.
+Rapamycin, a highly specific inhibitor of MTOR, has been
+shown as a therapeutic reagent for cancers driven by aberrant
+activation of MTOR signaling.15 However, rapamycin also promotes
+the survival of chemotherapeutics treated cells through
+some underlying mechanisms such as AMPK-dependent
+
+*Correspondence to: Hongbing Zhang; Email: hbzhang@ibms.pumc.edu.cn or hbzhang2006@gmail.com
+Submitted: 01/12/2013; Revised: 09/03/2013; Accepted: 09/10/2013
+http://dx.doi.org/10.4161/auto.26447
+
+MTOR inhibition attenuates DNA damage
+and apoptosis through autophagy-mediated
+suppression of CREB1
+
+Ying Wang, Zhongdong Hu, Zhibo Liu, Rongrong Chen, Haiyong Peng, Jing Guo, Xinxin Chen, and Hongbing Zhang*
+
+State Key Laboratory of Medical Molecular Biology; Department of Physiology; Institute of Basic Medical Sciences and School of Basic Medicine; Graduate School of Peking
+Union Medical College; Chinese Academy of Medical Sciences and Peking Union Medical College; Beijing, China
+
+Keywords: apoptosis, autophagy, cAMP response element-binding protein 1, chemoresistance, DNA damage, mechanistic target of
+rapamycin
+Abbreviations: ATG5, autophagy-related 5; ATG7, autophagy-related 7; CREB1, cAMP responsive element binding protein 1;
+DAPI, 4´, 6´-diamidino-2-phenylindole; DMSO, dimethyl sulfoxide; DSBs, double-strand breaks; FACS, fluorescence-activated
+cell sorting; FITC, fluorescein isothiocyanate; LC3, microtubule-associated protein 1 light chain 3; 3-MA, 3-methyladenine;
+MEFs, mouse embryonic fibroblasts; MTOR, mechanistic target of rapamycin; MTT, 3-[4, 5-dimethyl-thiazol-2yl] 2,
+5-diphenyltetrazoliumbromide; PARP1, poly (ADP-ribose) polymerase 1; PCR, polymerase chain reaction; PBS, phosphatebuffered
+saline; PI, propidium iodide; PTEN, phosphatase and tensin homolog; siRNA, small interfering RNA; SQSTM1,
+sequestosome 1; TSC, tuberous sclerosis complex; WT, wild type
+
+Hyperactivation of mechanistic target of rapamycin (MTOR) is a common feature of human cancers, and MTOR
+inhibitors, such as rapamycin, are thus becoming therapeutics in targeting certain cancers. However, rapamycin has
+also been found to compromise the efficacy of chemotherapeutics to cells with hyperactive MTOR. Here, we show
+that loss of TSC 2 or PTEN enhanced etoposide-induced DNA damage and apoptosis, which was blunted by suppression
+of MTOR with either rapamycin or RNA interference. cAMP response element-binding protein 1 (CREB1), a nuclear
+transcription factor that regulates genes involved in survival and death, was positively regulated by MTOR in mouse
+embryonic fibroblasts (MEFs) and cancer cell lines. Silencing Creb1 expression with siRNA protected MTOR-hyperactive
+cells from DNA damage-induced apoptosis. Furthermore, loss of TSC 2 or PTEN impaired either etoposide or nutrient
+starvation-induced autophagy, which in turn, leads to CREB1 hyperactivation. We further elucidated an inverse correlation
+between autophagy activity and CREB1 activity in the kidney tumor tissue obtained from a TSC patient and
+the mouse livers with hepatocyte-specific knockout of PTEN. CREB1 induced DNA damage and subsequent apoptosis
+in response to etoposide in autophagy-defective cells. Reactivation of CREB1 or inhibition of autophagy not only
+improved the efficacy of rapamycin but also alleviated MTOR inhibition-mediated chemoresistance. Therefore, autophagy
+suppression of CREB1 may underlie the MTOR inhibition-mediated chemoresistance. We suggest that inhibition
+of MTOR in combination with CREB1 activation may be used in the treatment of cancer caused by an abnormal PI3KPTEN-AKT-TSC
+1/2-MTOR signaling pathway. CREB1 activators should potentiate the efficacy of chemotherapeutics in
+treatment of these cancers.
+©2013 Landes Bioscience. Do not distribute.
+
+2070 Autophagy Volume 9 Issue 12
+
+inactivation of TP53/p5316 and increased activation of survival
+kinases.17-19
+CREB1 (cAMP responsive element binding protein 1) is a
+nuclear transcription factor which regulates target genes involved
+in cell survival and cell death. Upon the activation of cAMPdependent
+signal transduction, CREB1 is activated via phosphorylation
+at Ser133 by PRKA.20,21 Overexpression and hyperactivation
+of CREB1 are often observed in acute myeloid leukemia22,23 and
+several human solid malignancies such as breast,24 lung,25 ovary,26
+and prostate27 carcinomas. Inhibition of CREB1 in several
+human cancer cell lines causes induction of apoptosis and suppression
+of cell proliferation,22,28 indicative of its critical role as
+a proto-oncogene. Conversely, several studies have demonstrated
+that stimulation of cAMP pathway inhibits proliferation of some
+human cancer cell lines28 and induces apoptosis of Ras-mutated
+melanoma cell lines.29 In addition, CREB1 activation, due to dysfunction
+in mitochondria, impairs cell proliferation.30 Therefore,
+the precise role of CREB1 in cancer development is still uncertain.
+Furthermore, neither its role in cancer therapy nor the mechanism
+governing its activity and expression in cancer is fully understood.
+
+Autophagy is a self-cannibalization process that begins with
+sequestering cell structures in double-membrane vesicles (autophagosomes),
+and then targets them for degradation by fusion
+of autophagosomes and lysosomes (autolysosomes).31 This “selfeating”
+process exerts important roles in many aspects of physiology
+and pathology, including intracellular homeostasis, cell
+death, tumor suppression, and aging.32,33 Recently, it has been
+reported that induction of autophagy is frequently observed
+in many human cancer cell lines treated with chemotherapeutics.34-36
+However, whether autophagy induced by chemotherapy
+acts as a protective mechanism that allows treated cancer cells
+to survive or rather as an alternative cell death-inducing process
+has been an issue of great controversy. Although MTOR plays an
+inhibitory role in regulation of autophagy, little is known about
+the role of autophagy in the chemotherapy of cancers driven by
+aberrant activation of MTOR signaling.
+In this study, we sought to explore the mechanism by which
+MTOR inhibition results in chemoresistance. We identified
+CREB1 as a new target involved in MTOR-modulated autophagy
+signaling cascade and found that autophagy impairment
+
+Figure 1A and B. Hyperactive MTOR sensitizes TSC 2- or PTEN-deficient cells to etoposide-mediated DNA damage and apoptosis. (A) Reduced viability
+of tsc2−/−
+ or pten−/−
+ MEFs treated with etoposide. tsc2−/−
+ or pten−/−
+ MEFs and their WT counterparts were treated with etoposide for 48 h at the indicated
+concentration. Cell viability was determined with the MTT assay. **P < 0.01, ***P < 0.001. (B) Loss of TSC 2 or PTEN increased etoposide-induced apoptosis
+as illustrated by an increase of total ANXA5-positive cells (LR+UR quadrants). After etoposide treatment for 24 h, apoptosis induction was analyzed by
+FACS . Cells in the LR (lower right) and UR (upper right) quadrants were considered early apoptotic (ANXA5-FITC positive, PI negative), late apoptotic, and
+necrotic (ANXA5-FITC positive, PI positive), respectively.
+©2013 Landes Bioscience. Do not distribute.
+
+www.landesbioscience.com Autophagy 2071
+
+due to constitutive MTOR activation
+is sufficient to trigger
+CREB1 phosphorylation and
+accumulation. Under conditions
+of etoposide-induced genomic
+damage, CREB1 activation
+induced by impaired autophagy
+had a growth disadvantage and
+an enhanced DNA damage in
+MTOR-hyperactivated cells.
+Therefore, MTOR inhibitionmediated
+chemoresistance is a
+result of CREB1 suppression
+via induction of autophagy. Our
+findings may have therapeutic
+implication for the treatment of cancers driven by aberrant activation
+of MTOR signaling.
+
+Results
+
+Inhibition of MTOR induces resistance to etoposide
+The PTEN and TSC1/2 tumor suppressor proteins tightly
+control MTOR activity. Loss of these tumor suppressors leads to
+constitutive MTOR activation. To investigate MTOR inhibitionmediated
+effect on cell survival in response to chemotherapy, we
+treated tsc2−/−
+ and pten−/−
+ mouse embryonic fibroblasts (MEFs)
+with 0.04 to 40 μM of etoposide for 48 h. Compared with that
+of wild-type (WT) MEFs, the viability of tsc2−/−
+ and pten−/−
+ MEFs
+were significantly decreased by etoposide in a dose-dependent
+manner (Fig. 1A). Similarly, cells deficient in TSC2 or PTEN
+are more sensitive to cisplatin treatment than WT cells (Fig. S1).
+DNA-damaging agents can induce cell death via either apoptosis
+or necrosis. To determine whether hyperactive MTORenhanced
+etoposide-induced global cell death is apoptotic or
+necrotic, we analyzed cell death by using ANXA5/annexin
+
+A5-FITC/propidium iodide (PI) staining followed by flow
+cytometry. Since the dying cells induced by etoposide were
+mainly stained by ANXA5 and not PI, the cell death was thus
+predominately apoptotic (Fig. 1B). Consistent with their etoposide-sensitive
+phenotype (Fig. 1A), MTOR-hyperactivated cells
+showed higher apoptotic rate in response to etoposide, comparing
+to their control WT cells. To determine the extent of induction of
+apoptosis and confirm the FACS analysis results, we further analyzed
+a biochemical hallmark of apoptosis—PARP1 [poly (ADPribose)
+polymerase 1] cleavage. PARP1 is an abundant nuclear
+protein and its roles in various DNA metabolic activities are well
+established. It is cleaved in apoptotic cells by CASP3 (caspase 3)37
+in response to many DNA-damaging agents including etoposide.
+Consistent with the FACS data, higher level of cleaved PARP1
+was observed in MTOR-hyperactivated cells, compared with that
+in WT cells (Fig. 1C).
+Since etoposide is an inducer of double-strand breaks (DSBs)
+in DNA, we proposed that constitutive MTOR activation could
+facilitate cell death induced by chemotherapy through persistent
+DNA damage response. Detection and visualization of H2AFX
+
+Figure  1C and D. Hyperactive
+MTOR sensitizes TSC 2- or PTENdeficient
+cells to etoposidemediated
+DNA damage and
+apoptosis. (C) Loss of TSC 2 or PTEN
+led to increased accumulation of
+γ-H2A.X protein and PARP1 cleavage
+after 24 h etoposide treatment.
+(D) tsc2−/−
+ or pten−/−
+ MEFs accumulated
+more γ-H2A.X foci post-etoposide
+treatment. Cells were fixed
+and stained with anti-γ-H2A.X antibody
+and the etoposide-induced
+foci (green) were visualized with
+immunofluorescence. DNA was
+counterstained with DAPI (blue).
+Representative images are shown.
+The γ-H2A.X foci were quantified
+by counting at least 200 cells and
+the numbers of the foci between
+WT and tsc2−/−
+ or pten−/−
+ MEFs
+treated with etoposide were then
+compared.
+©2013 Landes Bioscience. Do not distribute.
+
+2072 Autophagy Volume 9 Issue 12
+
+phosphorylated on Ser139 (γ-H2A.X) by western blotting and
+immunofluorescence were performed to assess DNA DSBs38
+after chemotherapy in MTOR-hyperactivated cells. As shown in
+Figure 1C, treatment of all types of cells with etoposide led to an
+increase of γ-H2A.X protein 24 h post-chemotherapeutic reagent
+administration. However, the level of γ-H2A.X expression was
+much higher in tsc2−/−
+ or pten−/−
+ MEFs than in WT MEFs. In
+addition, both of WT MEFs and MTOR-hyperactivated MEFs
+showed very few γ-H2A.X foci without etoposide treatment,
+while the foci increased significantly in all types of cells in the
+presence of etoposide. However, more than 60% WT MEFs
+had < 10 foci per cell, whereas approximately 60% MTORhyperactivated
+MEFs had > 30 foci per cell (Fig. 1D).
+Moreover, preinhibition of MTOR by rapamycin increased the
+cell viability (Fig. 2A) and decreased the apoptotic rate (Fig. 2B)
+of tsc2−/−
+ or pten−/−
+ MEFs treated with etoposide. As expected,
+
+Figure  2A–C. Suppression of
+MTOR protects cells from DNA
+damage-induced apoptosis.
+tsc2−/−
+ or pten−/−
+ MEFs were pretreated
+with or without 10 nM
+rapamycin for 6 h (A–C), or were
+transfected with nontargeting
+control siRNA or Mtor-specific
+siRNA (D–F) before they were
+exposed to etoposide. MTOR
+suppression by rapamycin (A)
+or specific siRNA (D) increased
+the viability of cells after etoposide
+treatment. Cell viability was
+analyzed with the MTT assay.
+**P < 0.01, ***P < 0.001. FACS
+analysis showed that either
+rapamycin pretreatment (B) or
+MTOR knockdown (E) protected
+against etoposide-induced
+apoptosis. Cells gated in LR and
+UR quadrants were considered
+apoptotic. Immunoblotting
+analysis revealed that rapamycin
+(C) or MTOR knockdown
+(F) suppressed the induction
+of γ-H2A.X protein and PARP1
+cleavage in tsc2−/−
+ or pten−/−
+ MEFs
+24 h post-etoposide treatment.
+
+the level of γ-H2A.X expression
+and cleaved PARP1 were
+greatly reduced in tsc2−/−
+ or
+pten−/−
+ MEFs treated with
+etoposide when MTOR was
+preinhibited by rapamycin
+(Fig. 2C). To confirm the cell
+responses caused by inhibition
+of MTOR, specific siRNA
+targeted against Mtor was used
+to reduce MTOR in tsc2−/−
+ or
+pten−/−
+ MEFs. Consistent with
+rapamycin’s effect on tsc2−/−
+ or
+pten−/−
+ MEFs, MTOR knockdown
+protected these cells
+from etoposide-induced apoptotic cell death, as evidenced by elevation
+of cell viability (Fig. 2D) and reduction of apoptotic rate
+(Fig. 2E), γ-H2A.X expression and cleaved PARP1 (Fig. 2F).
+Taken together, these results indicated that constitutive MTOR
+activation sensitizes cells to DNA damage-induced apoptotic cell
+death, while inhibition of MTOR reduces etoposide-induced
+DNA damage and therefore induces resistance to etoposide.
+MTOR enhances etoposide-induced CREB1 activation
+An inverse correlation has been found between STK11 protein
+levels and CREB1 activity,39,40 suggesting a role of STK11
+in the activation of CREB1 signaling. In addition, loss of STK11
+can lead to constitutive activation of MTOR.12 We speculated
+that there might be a link between MTOR and CREB1 signaling.
+To explore whether CREB1 was involved in MTOR regulation
+of DNA damage, we determined the activity of CREB1
+©2013 Landes Bioscience. Do not distribute.
+
+www.landesbioscience.com Autophagy 2073
+
+in response to chemotherapy
+by examining its phosphorylation
+and accumulation in
+WT MEFs and MTORhyperactivated
+MEFs. As
+represented in Figure 3A, in
+response to etoposide treatment,
+phosphorylation of
+CREB1 on Ser133 and accumulation
+of total CREB1 protein
+were markedly induced in
+tsc2−/−
+ MEFs. Moreover, the
+phosphorylation and accumulation
+of CREB1 were
+reduced by rapamycin with
+or without etoposide treatment
+(Fig. 3B). Similar findings
+were also obtained from
+pten−/−
+ MEFs (Fig. 3C and D).
+In addition, cisplatin treatment
+also resulted in a dramatic
+activation of CREB1
+in the MEFs with MTOR
+hyperactivation due to deletion
+of either Tsc2 or Pten, in
+comparison with WT MEFs
+(Fig. S2). Other than MEFs,
+we evaluated the regulation of
+MTOR on CREB1 activation
+in 3 cancer cell lines as well as
+a TSC2-deficient ELT-3 cell
+line derived from a uterine
+leiomyoma in an Eker rat with a germline insertion in the Tsc2
+gene.41,42 As shown in Figure 3E, rapamycin reduced the phosphorylation
+and accumulation of CREB1 in all cell lines. The
+inhibitory effect of rapamycin on the phosphorylation and accumulation
+of CREB1 indicates that the different state of MTOR
+activation was responsible for the differential response of CREB1
+to chemotherapy between WT MEFs and tsc2−/−
+ or pten−/−
+ MEFs.
+Furthermore, we found that knockdown of MTOR in tsc2−/−
+ or
+pten−/−
+ cells significantly reduced the phosphorylation and accumulation
+of CREB1 protein with or without etoposide treatment
+(Fig. 3F). The reduced CREB1 activation caused by MTOR
+knockdown further supports our finding that MTOR positively
+regulates CREB1 activity.
+
+To ensure that phosphorylated CREB1 is capable of regulating
+gene expression, we examined the expression of c-FOS (FOS),
+a CREB1-regulated immediate-early gene.43 As can be seen in
+Figure 4A, etoposide-induced Fos mRNA expression was reversed
+by rapamycin in tsc2−/−
+ MEFs. Consistently, in response to etoposide,
+the protein level of FOS was also greatly increased, and
+was markedly reduced by rapamycin treatment in tsc2−/−
+ MEFs
+(Fig. 4B). Furthermore, the overexpression of M1-CREB1, a dominant-negative
+mutant for CREB1,44 significantly inhibited the
+phosphorylation of endogenous CREB1 and the protein level of
+FOS (Fig. 4C). Taken together, these data suggest that MTOR is a
+positive regulator of CREB1 activity and CREB1 may play a role in
+MTOR regulation of etoposide-induced DNA damage response.
+
+Figure  2D–F. tsc2−/−
+ or pten−/−
+MEFs were transfected with
+nontargeting control siRNA
+or Mtor-specific siRNA (D–F)
+before they were exposed to
+etoposide. MTOR suppression
+by specific siRNA (D) increased
+the viability of cells after etoposide
+treatment. For more information,
+see the Figure  2A–C
+legend.
+©2013 Landes Bioscience. Do not distribute.
+
+2074 Autophagy Volume 9 Issue 12
+
+MTOR promotes etoposideinduced
+DNA damage response
+through activation of CREB1
+cAMP, which can trigger the
+activation of CREB1, has been
+reported to sensitize cells to proapoptotic
+agents.29 Moreover,
+CREB1 has been implicated in the
+enhanced expression of CCND1
+(cyclin D1),45 BID,46 TP53,
+and CDKN1A/p21.30,47 Since
+cAMP, CCND1, BID, TP53, and
+CDKN1A are involved in the DNA
+damage response,46,48-51 we proposed
+that the enhanced phosphorylation
+and accumulation of CREB1
+might be necessary to mediate
+the effect of constitutive MTOR
+activation on DNA damage and
+subsequent apoptosis in response
+to etoposide. By silencing Creb1
+gene expression with RNA interference
+in MTOR-hyperactivated
+MEFs, we found that suppression
+of CREB1 inhibited hyperactive
+MTOR-enhanced DNA damage as
+evidenced by decreased γ-H2A.X
+expression (Fig. 5A) and promoted
+cell survival in the presence of etoposide
+(Fig. 5B). We next demonstrated
+that suppression of CREB1
+attenuated DNA damage-induced
+apoptosis of MTOR-hyperactivated
+cells, as manifested by fewer
+ANXA5-positive cells (Fig. 5C)
+and decreased PARP1 cleavage
+(Fig. 5A) in CREB1 knockdown
+cells than in control cells.
+To exclude the possibility that
+CREB1 is functionally distinct
+in promotion of DNA damageinduced
+apoptosis of MEFs in our
+study, we examined CREB1’s effect
+on DNA damage-induced apoptosis
+in TSC2-deficient ELT-3 cells.
+When CREB1 was knocked down
+in ELT-3 cells, γ-H2A.X induction
+and PARP1 cleavage were inhibited
+(Fig. 5D) and ANXA5-positive
+cells were decreased (Fig. 5E). In
+addition, we used a specific activator
+of CREB1 to confirm that
+activation of CREB1 was able to
+trigger apoptosis induced by etoposide.
+When CREB1 was stimulated
+in WT MEFs with forskolin,
+
+Figure 3. CREB1 activation in response to etoposide depended on MTOR. Total protein lysates were harvested
+from cells for immunoblotting (A–F). Loss of TSC 2 (A) or PTEN (C) led to enhanced phosphorylation
+and accumulation of CREB1 protein after 24 h of etoposide treatment. Rapamycin pretreatment reduced
+the phosphorylation and accumulation of CREB1 protein in tsc2−/−
+ (B) or pten−/−
+ MEFs (D) with or without
+etoposide treatment for 24 h. (E) MTOR positively regulated the phosphorylation and accumulation of
+CREB1 in cancer cell lines. Cells were treated with or without 10 nM rapamycin for 6 h. (F) MTOR knockdown
+suppressed the phosphorylation and accumulation of CREB1 in tsc2−/−
+ or pten−/−
+ MEFs with or without etoposide
+treatment.
+©2013 Landes Bioscience. Do not distribute.
+
+www.landesbioscience.com Autophagy 2075
+
+a cAMP agonist, DNA damage-induced apoptotic cell death
+was enhanced, as evidenced by reduced cell viability, and elevated
+γ-H2A.X induction, PARP1 cleavage and apoptotic rate
+(Fig. 5F–H). Taken together, these data demonstrate that hyperactive
+MTOR promotes etoposide-induced DNA damage via
+increased CREB1 activity.
+MTOR activates etoposide-induced CREB1 through suppression
+of autophagy
+Since autophagy signaling is downstream of MTOR, CREB1
+might be modulated by MTOR through suppression of autophagy.
+To explore the role of autophagy in the regulation of
+CREB1 activity, we first examined the effect of etoposide on
+the induction of autophagy in tsc2−/−
+, pten−/−
+, and WT MEFs.
+Redistribution of the autophagy protein LC3 from a diffused
+staining pattern throughout the cytoplasm and nucleus to cytoplasmic
+puncta is a hallmark of autophagy induction (formation
+of autophagosomes).52 As evident from Figure 6A, all types of
+MEFs showed diffused distribution of LC3 in the absence of etoposide
+under a fluorescence microscope. However, treatment of
+etoposide increased LC3 puncta in number and intensity in WT
+MEFs rather than in tsc2−/−
+ or pten−/−
+ MEFs. For quantification
+of the induction of autophagic cells, at least 200 cells of each
+type were counted for every treatment. As shown in Figure 6B,
+more than 80% of WT MEFs treated with etoposide showed
+LC3 puncta, while these autophagic features were observed in
+less than 20% of MTOR-hyperactivated MEFs. Since the accumulation
+of autophagosomes may represent either the increased
+
+generation of autophagosomes or a blockade in autophagosome
+maturation, autophagosome formation does not always indicate
+increased autophagic activity.52 Hence, expression of sequestosome
+1/p62 (SQSTM1) that inversely correlates with autophagic
+activity was also examined. Consistent with increased autophagosomes
+in WT MEFs after the treatment with etoposide,
+SQSTM1 was markedly decreased in WT MEFs. In contrast,
+SQSTM1 degradation was not observed in tsc2−/−
+ or pten−/−
+ MEFs
+treated with etoposide, indicating that autophagy in these cells
+is defective (Fig. 6C). In addition, the autophagic flux observed
+in WT MEFs was also measured by inferring LC3-II turnover
+in the presence or absence of lysosomal degradation.53 By using
+immunoblotting analysis, we found that etoposide induced
+LC3-II in WT cells but not TSC2-deficient cells (Fig. S3). This
+was further verified by inhibition of the “autophagic flux” with
+bafilomycin A1
+, which prevents maturation of autophagic vacuoles
+by inhibiting fusion of autophagosomes and lysosomes,54
+resulting in a further accumulation of LC3-II in WT cells (Fig.
+S3). Furthermore, pretreatment of rapamycin markedly restored
+autophagy as shown by the degradation of SQSTM1 in tsc2−/−
+ or
+pten−/−
+ MEFs treated with or without etoposide (Fig. 6D).
+To investigate whether the difference in CREB1 response
+between WT MEFs and MTOR-hyperactivated MEFs was
+due to the distinction in autophagy stimulation upon etoposide
+treatment, we examined the effect of pharmacological and
+genetic manipulations of autophagy on CREB1 in response
+to etoposide. As shown in Figure 7A, treatment of WT MEFs
+
+Figure  4. MTOR positively regulates etoposide-induced FOS expression. (A) MTOR positively regulated etoposide-induced Fos mRNA expression.
+Quantitative real-time PCR analysis of Fos mRNA in WT cells, tsc2−/−
+ MEFs and rapamycin-pretreated tsc2−/−
+ MEFs with or without addition of etoposide
+for 24 h. (B) Immunoblotting of FOS expression in WT cells, tsc2−/−
+ MEFs and rapamycin-pretreated tsc2−/−
+ MEFs with or without addition of etoposide for
+24 h. (C) Effect of dominant-negative mutant M1-CREB1 overexpression on phosphorylation of the endogenous CREB1 and FOS expression in tsc2−/−
+MEFs. Cells overexpressed with or without M1-CREB1 were subjected to immunoblotting.
+©2013 Landes Bioscience. Do not distribute.
+
+2076 Autophagy Volume 9 Issue 12
+
+Figure 5A–E. CREB1 is required for MTOR-mediated enhancement of DNA damage and apoptosis. tsc2−/−
+ MEFs (A–C) or ELT3 cells (D–E) transfected
+with nontargeting control siRNA or Creb1 specific siRNA were subsequently exposed to etoposide. (A) Reduction of CREB1 decreased the induction of
+γ-H2A.X protein and PARP1 cleavage in etoposide-treated tsc2−/−
+ MEFs. (B) Reduction in CREB1 increased the viability of etoposide-treated tsc2−/−
+ MEFs.
+Cell viability was determined with the MTT assay. ***P < 0.001. (C) FACS analysis showed that CREB1 knockdown protects cells against etoposide-induced
+apoptosis. The percentage of cells gated in LR and UR quadrants represents the extent of apoptosis. (D) CREB1 knockdown suppressed the induction
+of γ-H2A.X protein and PARP1 cleavage of ELT3 cells in response to etoposide. (E) The percentage of apoptotic cells gated in LR and UR quadrants was
+decreased after treatment with siRNA against CREB1 in etoposide-treated ELT3 cells.
+©2013 Landes Bioscience. Do not distribute.
+
+www.landesbioscience.com Autophagy 2077
+
+with 3-methyladenine (3-MA), a specific inhibitor of autophagy
+that inhibits autophagy at an early stage by blocking autophagic
+sequestration, resulted in an enhanced response of CREB1 to
+etoposide treatment. This inhibitory effect of autophagy on
+CREB1 activity upon etoposide treatment was further confirmed
+in MEFs genetically deficient in autophagy-related genes,
+as indicated by a marked increase in the phosphorylation and
+accumulation of CREB1 in atg5−/−
+ or atg7−/−
+ MEFs treated with
+or without etoposide (Fig. 7B). Furthermore, ATG5 knockdown
+significantly elevated the phosphorylation and accumulation of
+CREB1 in the human lung cancer cell line A549 with or without
+etoposide treatment (Fig. 7C).
+To further validate the negative role of autophagy in CREB1
+activity, we examined the effect of a potent autophagy stimulus,
+nutrient deprivation medium, on CREB1 activity. In agreement
+with a recent finding,55 the percentage of autophagic cells among
+WT MEFs was markedly increased after 4 h nutrient starvation but
+steadily decreased to a very low level after 12 h nutrient starvation
+(Fig. S4). These dynamic changes inversely correlated with the
+expression of SQSTM1 during starvation (Fig. 7D). An impaired
+induction of autophagy was observed in MTOR-hyperactivated
+
+MEFs during nutrient starvation, as there was a slight decrease in
+SQSTM1 protein level (Fig. 7D) and very few autophagic cells
+among tsc2−/−
+ MEFs during starvation (Fig. S4). Accordingly, we
+observed dynamic fluctuation of CREB1 activity which inversely
+correlates with state of starvation-induced autophagy in both
+WT MEFs and MTOR-hyperactivated MEFs, as both SQSTM1
+and CREB1 were reduced after 4 h nutrient starvation, but
+restored by 8 h and thereafter (Fig. 7D; Fig. S5). Nevertheless,
+CREB1 activity in MTOR-hyperactivated MEFs was higher
+than that in WT MEFs at each time point of starvation (Fig. 7D;
+Fig. S5). Furthermore, inhibition of autophagy in WT MEFs with
+either 3-MA or knockout of autophagy-related genes reversed the
+inhibitory effect of nutrient starvation on CREB1 phosphorylation
+(Fig. 7E; Fig. S6), suggesting that autophagy negatively regulates
+CREB1 activity. To explore whether this newly identified
+mechanism of MTOR regulation of CREB1 through suppression
+of autophagy exists in vivo, we examined tissues obtained from
+kidney angiomyolipoma driven by hyperactive MTOR due to
+TSC2 mutation from a TSC patient. SQSTM1 and phosphorylation
+of CREB1 on Ser133 were higher in the kidney tumor tissue
+than in paraneoplastic kidney tissue (Fig. 7F). We also examined
+
+Figure 5F–H. CREB1 is required for MTOR-mediated enhancement of DNA damage and apoptosis. WT MEFs were treated with either etoposide, or
+forskolin, or etoposide in combination with forskolin (F–H). (F) cAMP stimulation by forskolin enhanced the phosphorylation of CREB1 and promotes
+the induction of γ-H2A.X and PARP1 cleavage. (G) cAMP stimulation by forskolin inhibited the viability of cells treated with etoposide. Cell viability
+was determined with the MTT assay. ***P < 0.001. (H) Apoptosis was increased after cells were treated with forskolin as depicted by an increase of total
+ANXA5-positive cells (LR+UR quadrants).
+©2013 Landes Bioscience. Do not distribute.
+
+2078 Autophagy Volume 9 Issue 12
+
+Figure 6. MTOR represses etoposide-induced autophagy. (A) Loss of TSC 2 or PTEN abrogated etoposide-induced LC3 aggregation. Cells were fixed
+and stained with anti-LC3 antibody, and the LC3 puncta (green) were visualized with immunofluorescence. DNA was counterstained with DAPI (blue).
+Representative images are shown. (B) Quantification of LC3 puncta-positive cells using a threshold of > 10 dots per cell. More than 200 cells were analyzed.
+(C) Loss of TSC 2 or PTEN abrogated degradation of SQSTM1 upon 24 h etoposide treatment. (D) Rapamycin induced degradation of SQSTM1 in
+tsc2−/−
+ or pten−/−
+ MEFs. Cells pretreated with 10nM rapamycin or left untreated for 6 h and subsequently exposed to etoposide for 24 h were subjected
+to immunoblotting.
+©2013 Landes Bioscience. Do not distribute.
+
+www.landesbioscience.com Autophagy 2079
+
+Figure  7. Autophagy suppresses CREB1 activity. Protein samples extracted from cells and tissues were subjected for immunoblotting (A–H).
+(A) Inhibition of autophagy boost etoposide-induced CREB1. WT MEFs were treated with either etoposide, 3-MA, or etoposide in combination with
+3-MA or left untreated for 24 h. (B) Upon etoposide treatment for 24 h, atg5−/−
+ or atg7−/−
+ MEFs exhibited enhanced CREB1 signaling. (C) ATG5 knockdown
+inhibited autophagy and augments CREB1 phosphorylation and accumulation. A549 cells transfected with nontargeting control siRNA or ATG5 specific
+siRNA were subsequently exposed to etoposide for 24 h. (D) Fluctuation of CREB1 activity inversely correlated with state of starvation-induced autophagy.
+WT and tsc2−/−
+ MEFs were subjected to starvation (starv.) for the indicated times. (E) Inhibition of autophagy reversed starvation suppression
+of CREB1. WT MEFs subjected to starvation for the indicated times were treated with or without 3-MA. Deficiency in TSC 2 (F) or PTEN (G) led to inhibition
+of autophagy and enhanced phosphorylation of CREB1 protein in vivo. (F) Kidney tumor tissue (T) and adjacent normal kidney tissue (N) from a
+TSC patient. (G) Age- and genetic background-matched livers from three WT (AlbCrePten+/+) mice and mutant livers from three AlbCre ptenflox/flox mice.
+(H) TSC 2 knockdown inhibited autophagy and elevates the phosphorylation and accumulation of CREB1. A549 cells were transfected with non-targeting
+control siRNA or TSC2-specific siRNA for 48 h.
+©2013 Landes Bioscience. Do not distribute.
+
+2080 Autophagy Volume 9 Issue 12
+
+the mutant mouse livers with hepatocyte-specific pten deletion.
+Increased abundance of SQSTM1 and hyperphosphorylated
+CREB1 was seen in the mutant liver tissues, compared with that
+in the liver tissues derived from age- and genetic backgroundmatched
+WT mice (Fig. 7G). Consistent with those results,
+TSC2 knockdown increased the abundance of SQSTM1 and the
+phosphorylation of CREB1 in A549 cells (Fig. 7H).
+Suppression of autophagy augments etoposide-induced
+DNA damage through activation of CREB1
+To investigate the effect of autophagy on cell survival and
+DNA damage, we first measured the cell viability of WT MEFs
+treated with etoposide in the absence or presence of 3-MA. As
+observed in Figure 8A, etoposide or 3-MA reduced the cell
+
+viability of WT cells, while the combination of both etoposide
+and 3-MA induced a marked decrease in the cell viability of WT
+MEFs. As expected, inhibition of autophagy by 3-MA significantly
+enhanced etoposide-induced DNA damage in WT MEFs,
+as evidenced by increased γ-H2A.X foci and γ-H2A.X expression
+(Fig. 8B–D). Furthermore, atg5−/−
+ and atg7−/−
+ MEFs showed
+higher expression of γ-H2A.X comparing to WT MEFs under
+etoposide treatment (Fig. 8E). These results suggest that autophagy
+protects cells from etoposide-induced DNA damage.
+To further investigate the potential role of CREB1 in impaired
+autophagy-augmented DNA damage and cell death, siRNAmediated
+silencing of Creb1 was performed in atg5−/−
+ and atg7−/−
+MEFs. As shown in Figure 9A, etoposide-induced cell death of
+
+Figure 8. Pharmacological and genetic inhibition of autophagy augments etoposide-induced DNA damage response. WT MEFs were treated with either
+etoposide, 3-MA, etoposide in combination with 3-MA or left untreated (A–D). Autophagy-deficient atg5−/−
+ and atg7−/−
+ MEFs and their counterpart WT
+cells were subjected to etoposide treatment (E). (A) Inhibition of autophagy by 3-MA decreased the viability of etoposide treated cells. Cell viability was
+determined with the MTT assay. ***P < 0.001. (B) Inhibition of autophagy by 3-MA enhanced etoposide-induced accumulation of γ-H2A.X foci. Cells
+were fixed and stained with anti-γ-H2A.X antibody, and the γ-H2A.X foci (green) were subsequently visualized with immunofluorescence. DNA counterstaining
+was performed using DAPI (blue). Representative images are shown. (C) Quantification of the γ-H2A.X foci in more than 200 cells of each treatment
+group from (B). (D) Inhibition of autophagy by 3-MA increased etoposide-mediated accumulation of γ-H2A.X protein. (E) Increased accumulation
+of γ-H2A.X protein in etoposide-treated atg5−/−
+ and atg7−/−
+ MEFs.
+©2013 Landes Bioscience. Do not distribute.
+
+www.landesbioscience.com Autophagy 2081
+
+atg5−/−
+ and atg7−/−
+ cells was significantly
+inhibited by suppression of
+CREB1. In addition, CREB1 knockdown
+cells treated with etoposide
+exhibited a lower apoptotic rate comparing
+to the cells transfected with
+negative control siRNA (Fig. 9B).
+As expected, knockdown of CREB1
+in atg5−/−
+ and atg7−/−
+ MEFs was able
+to block the cleavage of PARP1 and
+attenuate the DNA damage response
+as assessed by inhibition of γ-H2A.X
+induction upon etoposide treatment
+(Fig. 9C).
+Reactivation of CREB1 or
+inhibition of autophagy alleviates
+MTOR inhibition-mediated
+chemoresistance
+To elucidate the role of autophagy
+regulation of CREB1 activity in
+MTOR inhibition-mediated protective
+effect on cell survival, we examined
+the effect of forskolin or 3-MA
+alone or in combination with etoposide
+on the cell viability of rapamycinpretreated
+MTOR-hyperactivated
+cells. Preinhibition of MTOR markedly
+increased the cell viability of MTOR-hyperactivated cells
+treated with etoposide (Fig. 2A; Fig. 10A). However, forskolin
+or 3-MA in combination with etoposide greatly reduced the cell
+viability of MTOR-hyperactivated cells treated with rapamycin,
+indicating that reactivation of CREB1 or suppression of autophagy
+can reverse MTOR inhibition-mediated chemoresistance.
+Furthermore, we found that forskolin or 3-MA alone significantly
+reduced the cell viability of MTOR-hyperactivated cells pretreated
+with rapamycin, suggesting that reactivation of CREB1 or
+suppression of autophagy can enhance the efficacy of rapamycin.
+This result suggests that autophagy suppression of CREB1 activity
+is responsible for MTOR inhibition-mediated chemoresistance.
+
+Figure  9. Autophagy promotes DNA
+damage-induced apoptosis through
+CREB1. atg5−/−
+ or atg7−/−
+ MEFs transfected
+with nontargeting control siRNA
+or Creb1-specific siRNA were subsequently
+exposed to etoposide (A–C).
+(A) Reduction in CREB1 increased the
+viability of etoposide-treated atg5−/−
+ or
+atg7−/−
+MEFs. Cell viability was determined
+with the MTT assay. ***P < 0.001. (B) FACS
+analysis showed that CREB1 knockdown
+protected cells from etoposide-induced
+apoptosis. The percentage of cells gated
+in LR and UR quadrants represents the
+extent of apoptosis. (C) Immunoblotting
+assay showed that knockdown of CREB1
+attenuated the induction of γ-H2A.X
+protein and PARP1 cleavage in etoposide-treated
+atg5−/−
+ or atg7−/−
+ MEFs.
+
+Discussion
+
+Tumor chemoresistance is an important contributor to the
+failure of cancer therapy. By inhibiting MTOR signaling pathway,
+rapamycin is emerging as an effective anticancer drug.
+However, recent data, including ours presented here, have implicated
+MTOR inhibition in chemoresistance, as rapamycin renders
+cells refractory to chemotherapy. In this study, we have
+identified that MTOR activates CREB1 through suppression of
+autophagy. CREB1 activation due to impaired autophagy sensitizes
+MTOR-hyperactivated cells to etoposide-induced genomic
+damage and subsequent apoptosis. Suppression of CREB1 by
+©2013 Landes Bioscience. Do not distribute.
+
+2082 Autophagy Volume 9 Issue 12
+
+activated autophagy attenuates etoposide-induced DNA damage
+and underlies rapamycin-mediated chemoresistance (Fig. 10B).
+Inhibition of autophagy or potentiation of CREB1 may therefore
+become a novel regimen in synergizing the effect of chemotherapy
+in the treatment of cancer.
+By integrating a wide range of signals, including nutrients,
+growth factors, and stress conditions, MTOR regulates a variety
+of cellular processes. Under DNA damage-induced stress conditions,
+MTOR activity can be regulated through an AMPK-TSC2
+dependent mechanism.56 However the effectors downstream of
+MTOR and their roles in DNA damage-induced stress response
+remain largely elusive. In the present study, we show that MTOR
+suppressor TSC2- or PTEN-deficient MEFs exhibited enhanced
+CREB1 activation under either etoposide or cisplatin induced
+genotoxic stress condition. Furthermore, suppression of MTOR
+by either rapamycin or siRNA silencing inhibited the response of
+CREB1 and its target gene FOS to genotoxic stress in TSC2- or
+PTEN-deficient MEFs and tumor cell lines. The CREB1 activation
+is thus dependent on MTOR signaling.
+
+CREB1 functions as a nuclear transcription factor and is
+regulated by multiple protein kinases and protein phosphatases.
+Recently, it has been shown that CREB1 can be degraded
+through the proteasome pathway.57,58 Besides the ubiquitination-dependent
+proteasomal degradation system, autophagy is
+another major intracellular protein degradation system that is
+important for the turnover of cytoplasmic proteins and organelles.59,60
+We found that the autophagy induction is impaired
+in MTOR-hyperactivated MEFs and CREB1 activity is negatively
+regulated by autophagy. Both the pharmacological and
+genetic suppressions of autophagy were able to stimulate the
+phosphorylation and accumulation of CREB1 under the conditions
+of two autophagy stimuli, chemotherapy and nutrient
+starvation, respectively. Therefore the status of autophagy dictates
+the magnitude of CREB1 activation by chemotherapeutics.
+Furthermore, an inverse correlation between autophagy activity
+and CREB1 activity in vivo was presented in the kidney tumor
+tissue obtained from a TSC patient and the liver tissues derived
+from the mice with hepatocyte-specific pten deletion. Although
+
+Figure  10. Reactivation of CREB1 alleviates MTOR inhibition-mediated chemoresistance. (A) Reactivation of CREB1 by forskolin or inhibition of
+autophagy by 3-MA reduced the viability of 10 nM rapamycin pretreated-MTOR-hyperactivated cells with or without etoposide treatment. Cell viability
+was determined with the MTT assay. Data are shown as the mean ± s.d. of three replicates and are representative of three independent experiments.
+Comparison of column 9 and 11 with column 7, column 10 and 12 with column 8, and column 8 with column 2 (*P < 0.05; ***, ### or ppp represent
+P < 0.001). (B) Diagraphic illustration for regulation of CREB1 by MTOR-related autophagy signaling in modulating stress-induced DNA damage in WT,
+tsc2−/−
+, or tsc2−/−
+ MEFs treated with rapamycin. The dark triangles represent DSBs. The thickness of the lines represents the intensity of the effects.
+©2013 Landes Bioscience. Do not distribute.
+
+www.landesbioscience.com Autophagy 2083
+
+we have uncovered autophagy suppression of CREB1, its underlying
+regulatory mechanism is yet to be elucidated.
+CREB1 is a critical cell signaling node regulating cell proliferation,
+apoptosis, and other cellular responses. In this study,
+we found that suppression of CREB1 inhibited etoposideinduced
+apoptosis and increased the cell viability in MTORhyperactivated
+cells. On the other hand, stimulation of cAMP
+and CREB1 signaling enhanced DNA damage-induced apoptosis
+and inhibited the cell viability in WT MEFs. Furthermore, reactivation
+of cAMP and CREB1 signaling significantly suppressed
+the viability of rapamycin-pretreated MTOR-hyperactivated
+MEFs. These results suggest that aberrant MTOR hyperactivation
+sensitizes cells to DNA damage-induced apoptotic cell death
+through sustained CREB1 activation.
+Although the elevation of autophagy activity has been
+observed in cancer cells treated with chemotherapy, the role of
+autophagy activation in chemotherapy causes considerable controversy.
+Here, we present that the induced autophagy represents
+a protective role in WT MEFs as inhibition of autophagy
+enhanced etoposide-induced DNA damage and reduced the cell
+viability. Consistent with the observation from Henske’s group,61
+inhibition of autophagy significantly suppressed the viability of
+rapamycin-pretreated MTOR-hyperactivated MEFs.
+Even though it is known that defective autophagy leads to
+increased genomic damage, the mechanism underlying this connection
+is not yet identified. Accumulation of malfunctioning
+intracellular structures and noxious protein aggregates due to
+autophagy impairment may contribute to induction of genome
+damage.62 Our data demonstrate that impaired autophagy due to
+genetic depletion of autophagy-related genes promoted etoposideinduced
+DNA damage response through accumulation of activated
+CREB1, as suppression of CREB1 reduced DNA damage, inhibited
+apoptosis, and increased cell survival. It remains to be determined
+how CREB1 mediates etoposide-induced DNA damage and apoptotic
+cell death. MTOR is a positive regulator of CCND1 expression.63-65
+CCND1, a well-known target gene of CREB1,45 functions
+in amplifying the cellular DNA damage.66 Therefore we speculate
+that MTOR suppresses autophagy which in turn unleashes its
+inhibitory effect on CREB1 function. The potentiated CREB1
+then stimulates CCND1 expression and increases DNA damage.
+In conclusion, our results not only reveal an important role for
+MTOR modulation of autophagy signaling in regulating CREB1
+activity, but also elucidate the role of the hyperactive CREB1
+induced by an autophagy inhibition in the regulation of cell
+viability and etoposide-induced DNA damage response. CREB1
+inducers as well as autophagy inhibitors thus can be seen as potential
+enhancers of chemotherapeutics in cancer treatment. Further
+elucidation of how autophagy signaling regulates CREB1 activity
+may lead to the identification of novel targets for the treatment of
+cancers driven by aberrant activation of MTOR signaling.
+
+Materials and Methods
+
+Reagents, antibodies, and plasmids
+Rapamycin (R0395), etoposide (E1383), 3-MA (08592),
+forskolin (F6886), bafilomycin A1
+ (B1793), saponin (S4521),
+
+3-[4, 5-dimethyl-thiazol-2yl] 2, 5-diphenyltetrazoliumbromide
+(MTT) (88417), and 4´, 6´-diamidino-2-phenylindole (DAPI)
+(D9542) were purchased from Sigma-Aldrich. Cisplatin was
+from DBL, Hospira. Lipofectamine 2000 (11668-019) was
+obtained from Invitrogen. DMEM (SH30022.01B) and FBS
+(SV30087.02) were from HyClone. Dimethyl sulfoxide (DMSO)
+(0231) was from Amresco. Chemiluminescence (NC15079) was
+from Thermo Scientific. Antibodies were from Cell Signaling
+[anti-PARP1 (9542), anti-PTEN (9559), anti-γ-H2A.X (2577),
+anti-phospho-CREB1 (Ser133) (9198), anti-CREB1 (9197), and
+anti-ATG7 (8558)], Novus Biologicals [anti-ATG5 (NB110-
+53818)], MBL [anti-SQSTM1 (PM045) and anti-LC3 (PM036)],
+and Santa Cruz Biotechnology [anti-FOS/c-FOS (sc-52), antiTSC2
+(sc-893), anti-ACTB/β-ACTIN (sc-8432), anti-TUBULIN
+(sc-12462), FITC-conjugated goat anti-rabbit (sc-2012),
+HRP-labeled goat anti-mouse (sc-2005), and HRP-labeled goat
+anti-rabbit (sc2004)]. Anti-phospho-RPS6/S6 (Ser235/236) has
+been described previously.67 Gal4CREB (M1-CREB1) plasmid
+was a generous gift from Michael Greenberg (Harvard Medical
+School). pLXIN-hyg-M1-CREB1 was generated by the insertion
+of a XhoI and BglII digested PCR product of Gal4CREB
+plasmid using primers 5´-CTCGGATCCA CCATGACCAT
+GGAATCTGGA-3´ and 5´-GCGCTCGAGA TCTGATTTGT
+GGCAGTAAA-3´ into a modified pLXIN retroviral vector with
+a hygromycin resistance gene (pLXIN-hyg).68
+Cell culture
+Immortalized tsc2−/−
+, pten−/−
+ MEFs and control MEF lines
+as well as TSC2-deficient rat ELT-3 cells have been described
+previously.8,67,69,70 Immortalized atg5−/−
+ MEFs were generated by
+Noboru Mizushima (Tokyo Medical and Dental University) and
+immortalized atg7−/−
+ MEFs were generated by Masaaki Komatsu
+(Tokyo Metropolitan Institute Medical Science). Human A549,
+MCF7, and MDA-MB-468 cell lines were from American Type
+Culture Collection. ELT-3 cells were maintained and propagated
+in Dulbecco’s modified Eagle’s medium (DMEM)/F12 (1:1)
+with 10% fetal bovine serum. The other cell lines used in this
+study were maintained in DMEM medium supplemented with
+10% FBS and 1% antibiotics in a 37 °C humidified incubator
+containing 5% CO2
+. Production of retroviruses and subsequent
+generation of stable gene expression cell lines were described
+elsewhere.2
+RNA interference
+The siRNAs and their controls were synthesized by Shanghai
+GenePharma. Cells were seeded in 6-well plates and transfected
+with siRNAs using Lipofectamine 2000 for 48 h following the
+manufacturer’s instructions. siRNA targeted sequences were as
+follows: negative control: 5´-TTCTCCGAAC GTGTCACGT-3´;
+mouse and rat Creb1: 5´- GGAGTCTGTG GATAGTGTA - 3´;71
+mouse Mtor: 5´-GAACTCGCTG ATCCAGATG-3´; human
+ATG5: 5´- GGACGAATTC CAACTTGTT -3´; human TSC2:
+5´-CAATGAGTCA CAGTCCTTTGA -3´.72
+Cell viability assay
+MEFs were plated at 3,000 cells per well in a 96-well tissue
+culture plate. The next day, cells were treated with 0.4 μM etoposide
+alone, or in combination with 5 mM 3-MA or 50 μM
+forskolin as described for the indicated time. After a 2-d culture
+©2013 Landes Bioscience. Do not distribute.
+
+2084 Autophagy Volume 9 Issue 12
+
+period, an MTT solution was added to a final concentration of
+0.5 mg/ml. After 4 h, the colored formazan crystals were dissolved
+in 150 μl of DMSO, and optical densities were read
+using a microplate reader at 490 nm. The absorbance at 490 nm
+directly corresponds with cell number. The viability ratio was
+defined as OD value of the sample/OD value of control × 100%.
+Each data point is the average of results from 5 wells from each of
+three independent experiments.
+Flow cytometry analysis
+After treatment of cells with 0.4 μM etoposide for 24 h, cells
+were analyzed for apoptosis using an ANXA5-FITC and PI apoptosis
+assay kit (Neobioscience, FAK011) according to the manufacturer’s
+protocol. Briefly, 1 × 106
+ cells were collected, washed twice
+with PBS, and incubated with ANXA5-FITC and PI for 15 min at
+room temperature in the dark. Cells were then immediately analyzed
+with the BD Accuri C6 flow cytometer (BD Biosciences).
+The combination of ANXA5-FITC and PI allows for the differentiation
+among viable (ANXA5-FITC negative, PI negative), early
+apoptotic (ANXA5-FITC positive, PI negative), late apoptotic
+and necrotic (ANXA5-FITC positive, PI positive) cells.
+Quantitative real-time RT-PCR analysis
+Total RNA was extracted from cells using Trizol reagent
+(Invitrogen, 15596-018) and reversely transcribed using the
+PrimeScript RT Reagent Kit (TaKaRa, DRR037A). cDNA was
+used as a template in a quantitative PCR reaction. Amplification
+was done for 40 cycles using TransStart Green qPCR SuperMix
+(TransGen Biotech, AQ131-03). Oligonucleotide primers were
+synthesized to detect Fos with Actb as internal control. Primers
+were synthesized by Sangon Biological Engineering Technology
+& Services. The primer sequences were as follows: mouse Fos
+forward: 5´-ATGGGCTCTC CTGTCAACAC-3´, mouse Fos
+reverse: 5´-ACGGAGGAGA CCAGAGTGG-3´; mouse Actb
+forward: 5´-AGAGGGAAAT CGTGCGTGAC-3´, mouse Actb
+reverse: 5´-CAATAGTGAT GACCTGGCCGT-3´.
+Autophagy analysis
+For autophagy stimulation, cells were washed 3 times with
+PBS and incubated for indicated times in starvation medium
+(DMEM medium without serum and glutamine) (Invitrogen,
+11960) or complete medium containing 0.4 μM etoposide in a
+37 °C humidified incubator containing 5% CO2
+. Autophagy was
+assessed by endogenous LC3 redistribution, LC3 conversion from
+LC3-I to LC3-II and SQSTM1 degradation. To inhibit starvation-
+or chemotherapeutics-induced autophagy, cells were treated
+with 5 mM 3-MA in starvation medium or complete medium, or
+with bafilomycin A1
+ (100 ng/ml) in complete medium.
+Immunofluorescence assay
+Cells were cultured on glass coverslips prior to immunofluorescence
+analysis. After treatment of cells with indicated drugs for
+24 h, cells were washed 3 times with PBS, fixed in 4% paraformaldehyde
+for 10 min and permeabilized in PBS containing 0.1%
+saponin for 10 min. After being washed with PBS and blocked
+with normal goat serum for 30 min, the cells were stained with
+primary antibodies (anti-γ-H2A.X for endogenous γ-H2A.X;
+anti-LC3 for endogenous LC3) in blocking buffer for 1 h, followed
+by washes 3 times with PBS and incubated with FITC-conjugated
+goat anti-rabbit secondary antibody in blocking buffer for 1 h.
+
+Nuclear counterstaining with DAPI was performed after removal
+of excess secondary antibody. All procedures were conducted at
+room temperature. Confocal laser scanning of fixed cells was performed
+on a confocal microscope (Ultraview vox.; PerkinELmer)
+equipped with a camera (Hamamatsu, C9100-13) using an
+Olympus APON 60× 1.49 NA objective. FITC and DAPI images
+were taken and overlapped using volocity software (PerkinElmer).
+Immunoblotting
+For immunoblotting, cells were washed 3 times with PBS and
+harvested on ice with lysis buffer (2% SDS, 0.1 M DTT, 60 mM
+Tris pH 6.8, 10% glycerol). Whole cell lysates were resolved by
+SDS-PAGE. Proteins were subsequently transferred onto PVDF
+membrane (Millipore, IPVH00010) and blocked for 1 h at room
+temperature in PBS containing 0.2% Tween-20 (PBST) and 5%
+nonfat dry milk and immunoblotted with the indicated antibodies
+in PBST with 5% nonfat dry milk, followed by the incubation
+with HRP-labeled secondary antibodies and the detection
+by chemiluminescence.
+Human kidney tumor assessment
+Kidney angiomyolipomas and its adjacent normal kidney tissue
+from a TSC patient with a TSC2 mutation (g.10059delC,
+p.S132SfsX50) were freshly dissected, sonicated, and extracted
+with lysis buffer for immunoblotting.70 All the procedures were
+performed under the permission of the Peking Union Medical
+College Hospital Ethics Board.
+Assessment of mouse livers with hepatocyte pten deletion
+To generate mice with hepatocyte-specific pten deletion, we
+crossed Ptenflox/flox mice with AlbCre transgenic mice.73 For immunoblotting,
+the liver tissues from 3 WT-mice (AlbCrePten+/+,
+9 mo-old) and the liver tissues from 3 homozygous Pten exons
+4 and 5 deletion mice (AlbCre ptenflox/flox, 9 mo-old) were sonicated
+and extracted with lysis buffer. All animal experiments
+were approved by the Animal Research Committee, Institute of
+Laboratory Animals, and Chinese Academy of Medical Sciences
+& Peking Union Medical College.
+Statistical analysis
+For immunofluorescence assay, all values are reported as mean
+± s.d. from 3 independent experiments. For the MTT assay, data
+are shown as the mean ± s.d. of 5 replicates and are representative
+of 3 independent experiments. Differences were analyzed with
+the 2-tailed Student t-test with GraphPad Prism 5 software and
+P < 0.05 considered statistically significant.
+
+Disclosure of Potential Conflicts of Interest
+
+No potential conflicts of interest needed to be disclosed.
+

@@ -1,0 +1,617 @@
+Abstract
+MYC
+oncogene family members are broadly implicated in human cancers, yet are considered “undruggable” as they encode transcription factors. MYC also carries out essential functions in proliferative tissues, suggesting that its inhibition could cause severe side effects. We elected to identify synthetic lethal interactions with c-MYC overexpression (MYC-SL) in a collection of ∼3,300 druggable genes, using high-throughput siRNA screening. Of 49 genes selected for follow-up, 48 were confirmed by independent retesting and approximately one-third selectively induced accumulation of DNA damage, consistent with enrichment in DNA-repair genes by functional annotation. In addition, genes involved in histone acetylation and transcriptional elongation, such as
+TRRAP
+and
+BRD4
+, were identified, indicating that the screen revealed known MYC-associated pathways. For in vivo validation we selected
+CSNK1e
+, a kinase whose expression correlated with
+MYCN
+amplification in neuroblastoma (an established MYC-driven cancer). Using RNAi and available small-molecule inhibitors, we confirmed that inhibition of CSNK1e halted growth of
+MYCN
+-amplified neuroblastoma xenografts. CSNK1e had previously been implicated in the regulation of developmental pathways and circadian rhythms, whereas our data provide a previously unknown link with oncogenic MYC. Furthermore, expression of
+CSNK1e
+correlated with c-
+MYC
+and its transcriptional signature in other human cancers, indicating potential broad therapeutic implications of targeting CSNK1e function. In summary, through a functional genomics approach, pathways essential in the context of oncogenic MYC but not to normal cells were identified, thus revealing a rich therapeutic space linked to a previously “undruggable” oncogene.
+Keywords:
+WNT, SHH, PER, PES1, CECR2The
+MYC
+oncogene is a central driver in many human cancers, and its amplification is associated with poor prognosis in breast (
+1
+), prostate (
+2
+), colon (
+3
+), and pediatric cancers such as neuroblastoma (for review see ref.
+4
+). In addition, c-MYC overexpression together with gene amplification has been reported in over 50% of ovarian cancers (
+5
+), in ∼30% of hepatocellular carcinoma (
+6
+), and in a high percentage of small-cell and non–small-cell lung cancer (
+7
+). This high frequency of
+MYC
+family deregulation in human cancers suggests that a strategy to target
+MYC
+-driven cancers may be relevant for a broad population of patients. Recently, systemic inhibition of MYC using a transgenic mouse model has demonstrated the efficacy of a dominant negative MYC in mediating tumor regression (
+8
+). However,
+MYC
+family members encode a basic helix loop helix type of transcription factors without obvious druggable domains (
+9
+), rendering the identification of small-molecule inhibitors a challenge (
+10
+). In addition, as MYC oncoproteins carry out essential functions in proliferative tissues (
+11
+), prolonged inhibition of MYC function could cause severe toxicity.
+Previous studies using a candidate approach have indicated that the fitness of MYC-overexpressing cells (
+12
+) and cancers (
+13
+–
+15
+) is highly dependent upon other genes and pathways, which may not be essential in the context of normal cells, or of cancers driven by different oncogenic signals. These studies also demonstrated that inhibition of these MYC “synthetic lethal” interactions is an effective therapeutic strategy (
+13
+). To broadly identify genes that exhibit a synthetic lethal relation with oncogenic expression of MYC we have used a high-throughput functional genomic approach (
+16
+) focused on the druggable genome. As the genetic noise inherent in established cancer cell lines could constitute a potential source of bias, we chose to screen an isogenic pair of primary cells (human foreskin fibroblasts, HFFs), where the only perturbation was overexpression of
+c-MYC
+through a retroviral vector (
+17
+) and to validate the “hits” in cancer cell contexts. HFFs are unique in that they do not senesce in response to MYC overexpression (
+17
+) or introduction of an activated RAS oncogene (
+18
+), a property that has been attributed to lack of culture stress. Furthermore,
+c-MYC
+overexpression in HFFs recapitulates both the gene expression signatures and cellular phenotypes of MYC-driven cancers (
+17
+,
+19
+,
+20
+).Results
+siRNA Screening Identifies a Network of Genes Required for Survival of c-MYC Overexpressing Cells.
+We used a high-throughput automated approach for testing of an arrayed siRNA library to quantify the effects of siRNAs against a custom-designed collection of ∼3,300 druggable genes (
+9
+) and 200 microRNAs. We compared the viability of HFF cells stably transduced with a retroviral vector expressing c-
+MYC
+(HFF-MYC) and HFF cells with a control empty vector, pBabe (HFF-pBabe) (
+17
+) (
+Fig. 1
+A
+shows a schematic of the experimental set-up). The siRNA library collection was designed to target all known human kinases, ubiquitin ligases, DNA repair proteins, and a custom collection of genes involved in cancer pathways, with each target gene being interrogated by a pool of three unique siRNAs. As has been shown in other biological systems, three technical replicates and a one-gene-per-well approach enabled derivation of hits with statistical significance for each gene tested (
+21
+,
+22
+). Cell viability was assessed using Alamar Blue staining and was quantified using an EnVision plate reader (Perkin-Elmer). The results of the screen revealed 148 hits, defined according to a
+Z
+score of ≥2 (
+23
+), including 140 genes and eight microRNAs (
+Fig. 1
+B
+). Here, we focus on the 140 gene hits, which we designate MYC-synthetic lethal (MYC-SL) genes. To eliminate siRNAs that exhibited substantial growth inhibition properties in normal cells, siRNAs with >50% reduced viability in HFF-pBabe were eliminated from further consideration regardless of differential toxicity. This process left 102 MYC-SL gene hits for follow-up (
+Dataset S1
+).
+Open in a separate window
+Fig. 1.
+Identification of synthetic lethal genes with c-MYC overexpression by high-throughput siRNA screening. (
+A
+) Graphical schematic of the siRNA screen. Isogenic HFFs were plated, transfected with siRNAs targeting a total of 3,311 genes (1 gene per well), and assessed for viability using an Alamar Blue assay. (
+B
+) Graph of normalized viability of HFF-pB and HFF–c-MYC transfected with each siRNA pool (average of three replicates). MYC-SL “hits” (
+Z
+score ≥2) are highlighted in green. (
+C
+) mRNA levels following lentiviral-mediated shRNA knockdown in HFFs of three selected MYC-SL genes,
+CSNK1e, PES1
+, and
+CECR2
+. (
+D
+) Selective loss of viability of HFF-pBabe and HFF-MYC caused by knockdown of the genes shown in
+C
+. (
+E
+) Quantification of γ-H2AX staining following transduction of HFF-pBabe and HFF-MYC with siRNA pools corresponding to 40 MYC-SL genes.
+DDX18
+, a known MYC-target gene, and MYC were used as controls.
+y
+axis indicates the percent of cells stained with anti–γ-H2AX that scored for nuclear fluorescence levels above a threshold established from negative controls. (
+F
+) Representative images of γ-H2AX staining as described in
+E
+obtained with an INCell automated microscope (10× magnification). (
+G
+) Quantitative assessment of caspase-3 and -7 cleavage following transfection of the same siRNA pools as above (measured by the CaspaseGlo kit, Promega). Red line indicates background levels of caspase cleavage in HFF-c-MYC cells. Results were normalized for cell number by the Alamar Blue assay.
+Network analysis identified known connections [based on the Ingenuity-curated database between the hits (blue) and a preassembled MYC core pathway (red)] (
+Fig. S1
+). About 50% of the MYC-SL hits had known connections with MYC and functionally related genes. For example, TRRAP is a direct MYC-binding partner that mediates recruitment of histone acetyltransferase to selective MYC-bound promoters (
+24
+). Several MYC-SL hits were linked to the basic transcriptional machinery (see TBP node in
+Fig. S1
+) including
+POLR2E
+,
+POLR2I
+, and
+GTF2H4. CDK2
+was also identified as a MYC-SL gene, a finding consistent with its essential role in limiting MYC-induced senescence in a mouse model of tumorigenesis (
+25
+). Additionally, the identification of
+PES1
+, a gene involved in ribosomal biogenesis (
+26
+), among MYC-SL genes is consistent with the direct stimulation of rRNA synthesis by c-MYC (
+19
+) and with the “addiction” to elevated ribosomal function of MYC-induced lymphomas (
+27
+). The broad spectrum of potential MYC-SL genes thus reflects known MYC functions linked not only to chromatin modification such as
+TRRAP
+,
+BRD4
+(
+28
+), and
+CECR2
+(
+29
+), but also to metabolism (
+ALDOA
+and
+PDK1
+), DNA repair (
+DDB2
+,
+GTF2H4
+,
+NEIL1
+,
+POLH
+, and
+RAD21
+), apoptosis (
+BNIP2
+,
+BOK
+, and
+MCL1
+), and mitotic control (
+WEE1
+and
+NEK2
+) (
+Fig. S1
+and
+Dataset S1
+).
+For follow-up, we selected 49 MYC-SL genes on the basis of best-predicted druggability, potential involvement in cancer pathways, and ranking in differential toxicity. Highlighting the robustness of the screen, 48 of the 49 tested genes were confirmed with more than one siRNA and in an additional matched pair of HFFs (98% confirmation rate, see
+Dataset S2
+for the list of validated and selected MYC-SL). pescadillo homolog 1 (
+PES1
+), cat eye syndrome chromosome region, candidate 2 (
+CECR2
+), and casein kinase 1 epsilon (
+CSNK1e
+), were further tested via lentiviral-mediated shRNA knockdown, which confirmed their differential growth inhibition in HFF-MYC versus HFF-pBabe control (
+Fig. 1
+C
+and
+D
+). Examination of differential toxicity in HFF-MYC cells was carried out for the majority (41 of 48) of MYC-SL genes by assessing levels of DNA damage and apoptosis. siRNA-mediated knockdown of 12 (∼25%) of the hits resulted in elevated γ-H2AX foci in HFF-MYC but not in control cells. This result indicates that induction of DNA damage is a significant consequence of the MYC-synthetic lethal interaction (
+Fig. 1
+E
+for quantitation and
+Fig. 1
+F
+for representative images; summarized in
+Dataset S2
+). This finding is consistent with the role of MYC in promoting genomic instability (
+30
+) and replication-associated damage resulting from an acceleration of S phase (
+20
+,
+31
+). Additionally, siRNA-mediated knockdown of 34 of 41 MYC-SL genes induced caspase-3 and -7 cleavage in HFF-MYC but not in HFF-pBabe (
+Fig. 1
+G
+and
+Dataset S2
+). The fact that the results from the original high-throughput screen could be recapitulated using a combination of three knockdown protocols (siRNA pools, deconvoluted siRNA pools, and lentiviral shRNAs) as well as independent assays indicates the robustness of our screening platform.
+Targeting Casein Kinase 1 Epsilon Leads to Tumor Regression in Preclinical Models of MYCN-Driven Neuroblastoma.
+To validate MYC-SL genes in a model of MYC-driven cancer, we selected neuroblastoma cell lines with or without
+MYCN
+amplification. Amplification of
+MYCN
+in neuroblastoma is a clear driver of tumorigenesis and the strongest molecular marker of poor prognosis, used for treatment stratification (
+32
+,
+33
+). The similar transcriptional programs and cellular phenotypes of both
+c-MYC
+and
+MYCN
+(
+34
+), and the finding that
+MYCN
+can replace
+c-MYC
+during murine development (
+35
+) supports the idea that synthetic lethal interactions could be conserved. We therefore screened neuroblastoma cell lines with (IMR-32) or without (SK-N-AS)
+MYCN
+amplification with siRNAs targeting the 48 confirmed MYC-SL genes. Twelve MYC-SL genes exhibited selective lethality in
+MYCN
+-amplified neuroblastomas (marked in blue in
+Dataset S2
+), indicating at least partial overlap of synthetic lethal interactions by both MYC family members in a cancer-cell setting. We chose to focus on one of these genes,
+CSNK1e
+, for preclinical validation according to several criteria. First,
+CSNK1e
+expression correlated with
+MYCN
+amplification in a set of clinically annotated neuroblastoma tumor samples (see
+Fig. 4
+B
+). Second, siRNAs or stable knockdown of
+CSNK1e
+ranked among the top genes for differential lethality in HFF-MYC versus HFF-pBabe, while exhibiting minimal toxicity to normal HFFs (∼77%,
+Fig. 1
+D
+and
+Dataset S1
+), suggesting the possibility of a good therapeutic window. Third, pharmacologic inhibitors were readily available (
+36
+), enabling verification in preclinical models. The differential growth inhibition by CSNK1e knockdown in
+MYCN
+-amplified neuroblastoma cells was confirmed in vitro using conditional lentiviral vectors targeting
+CSNK1e
+with two different hairpins, in two
+MYCN
+-amplified cell lines (IMR-32 and SK-N-BE2) and a
+MYCN
+-nonamplified line (SK-N-AS) (
+Fig. 2
+A
+–
+C
+). The specificity of the lentiviral-expressed short hairpins was confirmed by measuring the relative levels of mRNA expression of the six known isoforms of
+CSNK1
+by qRT-PCR and by microarray analysis, both of which indicated that CSNK1e was the only gene whose expression was significantly reduced by the knockdown (
+Fig. S2
+and
+Dataset S3
+).
+Open in a separate window
+Fig. 2.
+CSNK1e knockdown impairs growth of
+MYCN
+-amplified neuroblastoma cell lines. (
+A
+) Relative levels of
+CSNK1e
+mRNA following doxycycline or DMSO treatment of neuroblastoma cell-line SK-N-BE2, harboring lentivirus expressing shCSNK1e 1, 2, or sh control. Relative levels of each gene were calculated using the ΔΔCT method.
+GAPDH
+was used to normalize mRNA levels within each sample. (
+B
+) Viability assessment in two neuroblastoma lines, SK-N-BE2 and IMR32 (
+MYCN
+amplified) and SK-N-AS (
+MYCN
+not amplified) as measured by CellTiter Glo (Promega) following growth under DMSO or doxycycline-containing medium for 4 d. Values represent mean viability normalized to mock-treated cells. (
+C
+) Representative Western blot showing levels of CSNK1e protein in SK-N-BE2 cells shown in
+A
+. Actin is shown as a loading control. (
+D
+) Xenograft tumor growth of SK-N-BE2 cells transduced with doxycycline-inducible shRNA for CSNK1e or shControl in NOD/SCID mice. Doxycycline exposure was started when tumors reached a size of about 100 mm
+3
+. Knockdown of CSNK1e inhibited growth of established xenograft in three of four mice compared with no doxycycline-treated control (green arrows).
+Open in a separate window
+Fig. 4.
+CSNK1e expression correlates with poor prognosis and
+MYCN
+amplification in neuroblastoma. (
+A
+) Kaplan–Meier survival curves of neuroblastoma patients divided on the basis of
+CSNK1e
+expression; red indicates high expression and blue indicates low CSNK1e mRNA expression on the basis of microarray data accessible at the Oncogenomics neuroblastoma prognosis database (website:
+http://pob.abcc.ncifcrf.gov/cgi-bin/JK
+). (
+B
+) Graphical representation of expression levels of
+CSNK1e
+mRNA, derived from the website above. Each bar represents expression level in one sample. Solid yellow line indicates samples derived from
+MYCN
+-amplified neuroblastoma. (
+C
+) Representative Western blot of CSNK1e, MYCN, and Actin (loading control) protein levels in SK-
+N
+-AS (
+MYCN
+not amplified), SK-
+N
+-BE2 and IMR-32 (
+MYCN
+amplified) neuroblastoma cells. (
+D
+) Representative Western blot of CSNK1e, MYCN, and actin (loading control) protein levels in HFF pB and HFF c-Myc cells. (
+E
+) Representative Western blot of CSNK1e, MYCN, and actin (loading control) protein levels in Tet21N (MYCN Tet-Off) cells in the presence or absence of doxycycline. (
+F
+) Representative Western blot of relative c-MYC and MYCN levels in SKNAS, SKNBE2, IMR-32, HFF–c-MYC, and HFF-pBabe. Actin is shown as a loading control. (
+G
+) Real-time RT-PCR quantification of c-
+MYC
+and
+MYCN
+mRNA levels from the cells in
+G
+. Values were calculated using the ΔΔCT method, and represent the mean fold change compared with HFF-pBabe, using
+GAPDH
+for normalization. (
+H
+) Real time RT-PCR quantification of the relative levels of each casein kinase I isoform in neuroblastoma cell lines with or without
+MYCN
+amplification. Relative levels of each gene were calculated using the ΔΔCT method.
+GAPDH
+was used to normalize mRNA levels within each sample.
+As an in vivo preclinical validation model, SK-N-BE2 (
+MYCN
+amplified) neuroblastoma cells were transduced in vitro with either a control sh-expressing lentiviral vector or with shCSNK1e 1 and injected into the flanks of immunodeficient mice. Once tumors became engrafted (8–10 mm, equal to ∼300 mm
+3
+volume), mice were exposed to doxycycline to induce RNAi, and tumor growth was measured over time. As shown in
+Fig. 2
+D
+, neuroblastoma growth was significantly impaired in three of four treated mice, validating in vivo the MYC-synthetic lethal relationship with CSNK1e through single gene knockdown. The short treatment window for mouse 3 was due to the presence of a large ulcerative tumor in the control flank that forced the early termination of the drug treatment, whereas mouse 4 likely represented tumor cells escaping silencing.
+We next proceeded to evaluate a small molecule inhibitor of CSNK1e enzymatic activity, IC261 (
+36
+). In vitro experiments had confirmed that MYC overexpressing cells were more sensitive to IC261 relative to cells with normal levels of MYC, with >100-fold differences in IC50 (
+Fig. S3
+A
+,
+B
+,
+D
+, and
+E
+). IMR-32 (
+MYCN
+amplified) cells were used as a therapeutic xenograft model instead of SK-N-BE2, as the latter were established posttreatment and exhibit resistance to all chemotherapeutics (
+37
+). IMR-32 cells were highly sensitive to IC261 in vitro (
+Fig. S3
+B
+). A cohort of 10 xenograft-bearing mice was randomized into two groups with approximately equal tumor burden; one group was treated with daily s.c. injection of IC261 for 8 consecutive days, whereas the control group was treated with DMSO-vehicle only. IC261 was effective in halting tumor growth in all treated mice (
+Fig. 3
+B
+). A photograph of a representative mouse from each group before and after treatment is shown in
+Fig. 3
+A
+. Histopathological examination of the tumor tissue remaining after IC261 treatments, indicated a pronounced decrease in proliferation defect measured by BrdU labeling, whereas only modest apoptosis was detected via TUNEL assay at this time point (
+Fig. 3
+C
+and
+D
+). However, the selective growth inhibition both in vitro and in vivo obtained by genetic knockdown and small-molecule inhibitor validate CSNK1e as a potential therapeutic target for
+MYCN
+-driven neuroblastoma. Recently, a more specific small-molecule inhibitor specific for CSNK1e as well as d (delta) isoforms (PF-670462), became commercially available.
+MYCN
+-amplified and -nonamplified neuroblastoma cell lines were reassessed using this more specific inhibitor, and the results were consistent with that seen following treatment with IC261 (
+38
+) (
+Fig. S3
+C
+).
+Open in a separate window
+Fig. 3.
+IC261 treatment blocks
+MYCN
+-amplified neuroblastoma tumor growth in vivo. (
+A
+) Representative images of
+MYCN
+-amplified neuroblastoma xenograft obtained with IMR32 cells in NOD/SCID mice before and after treatment with either DMSO or IC261. Tumors were engrafted and allowed to reach a size of about 100 mm
+3
+, then IC261 (21.5 mg/kg) or DMSO was injected s.c. daily for 8 d. (
+B
+) Quantitation of tumor size over the 8-d treatment regimen with either IC261 or DMSO control. Values represent mean tumor volume at each time point (
+n
+= 5 for each group, error bars indicate SD). (
+C
+) Immunohistochemical analysis of tumor sections from IC261 and DMSO treatment groups described in
+A
+and
+B
+. Representative images of H&E, TUNEL, and BrdU staining for each group are shown. BrdU was administered 2 h before collection. (
+D
+) Quantification of TUNEL
++
+and BrdU
++
+cells per field in DMSO- or IC261-treated xenograft tumors. Values represent mean number of positive cells per field, and error bars indicate SD of means.
+CSNK1e Expression Correlates with MYCN Amplification in Neuroblastoma and c-MYC in Adult Cancers.
+Through a metaanalysis of primary neuroblastoma microarray data,
+CSNK1e
+expression was found to correlate with both
+MYCN
+amplification and poor prognosis (
+http://pob.abcc.ncifcrf.gov/cgi-bin/JK
+;
+Fig. 4
+A
+and
+B
+). This correlation was confirmed in three representative cell lines at the protein level (
+Fig. 4
+C
+) and at the RNA level in these and additional cell lines (
+Fig. 4
+H
+). It is worth noting that neuroblastomas without
+MYCN
+amplification do indeed express
+c-MYC
+, which has been reported to be linked to WNT activity (
+39
+) (
+Fig. 4
+F
+and
+G
+). However, the levels of
+c-MYC
+are much lower than that present in HFF-MYC or
+MYCN
+-amplified neuroblastoma, as clearly indicated by qRT-PCR (
+Fig. 4
+G
+). The fact that CSNK1e knockdown did not affect the growth of
+MYCN
+-nonamplified neuroblastoma cell lines, is also consistent with the lack of up-regulation of CSNK1e in these cells. These results suggest that MYC-SL interactions here reported are selective for a high threshold of MYC overexpression (see
+Discussion
+).
+Among the six
+CSNK1
+isoforms tested, epsilon up-regulation was present in all cells with
+MYCN
+amplification and it was also the predominant isoform expressed in these cells (
+Fig. 4
+H
+). These findings, as well as the presence of potential MYC-MAX binding sites in the promoter region of
+CSNK1e
+(
+Fig. S4
+), suggested that
+CSNK1e
+mRNA could be directly regulated by c-MYC/MYCN. Consistently, CSNK1e protein is up-regulated in both HFF-MYC (
+Fig. 4
+D
+) and upon induced MYCN expression in the neuroblastoma cell line Tet21N (
+40
+) (
+Fig. 4
+E
+). ChIP analysis of HFF-MYC cells indicated that c-MYC binds to at least two consensus sites, upstream and downstream from the transcriptional start site of the
+CSNK1e
+promoter, providing further evidence that the gene could be directly regulated by MYC (
+Fig. S4
+). However, we could not definitely demonstrate MYCN enrichment to the
+CSNK1e
+gene in neuroblastoma cells, possibly due to the high levels of MYCN protein not specifically bound to DNA. It is also likely that other factors contribute to the elevated transcription of
+CSNK1e
+in
+MYCN
+-amplified neuroblastoma. However, consistently with the hypothesis that
+CSNK1e
+expression is directly or indirectly linked to MYC overexpression, a metaanalysis indicated a significant positive correlation of both
+c-MYC
+levels and the c-MYC–associated “signature” with
+CSNK1e
+levels in colon, lung, and breast cancers (
+http://www.intgen.org/expo/
+;
+Fig. S5
+). Because CSNK1e exhibits synthetic lethality with MYC overexpression, its up-regulation particularly in MYC-overexpressing cancers, may be of functional significance.Discussion
+MYC-Synthetic Lethal Pathways.
+With the goal to identify therapeutic targets for MYC-driven cancers, this study reports the findings of a high-throughput arrayed siRNA screen from a collection of ∼3,300 potentially druggable human genes as well as genes with cancer annotation. Prominent functional categories among the identified MYC-SL genes were related to DNA repair (most enriched according to GeneGo), metabolism, apoptosis, basic transcription machinery, ribosomal RNA synthesis, mitotic control, and developmental pathways (
+Fig. S1
+and
+Dataset S1
+). The screen also identified a known MYC interacting partner, TRRAP, involved in recruitment of histone acetyltransferase complexes to MYC-regulated target genes (
+41
+). In addition, two proteins involved in transcriptional elongation, such as the bromodomain protein BRD4 (
+28
+) and CDK12 (
+CRKRS
+in
+Dataset S1
+) (
+42
+,
+43
+), were among MYC-SL interactions. The recent utilization of bromodomain inhibitory molecules to target MYC-driven cancer models independently confirms the sensitivity of MYC-overexpressing cancer cells to BRD4 inhibition (
+44
+,
+45
+). The role of complexes involved in transcriptional pausing/release among MYC-synthetic lethal is intriguing in light of recent demonstration of a role for c-MYC in this process in murine embryonic stem cells (
+46
+). Our findings suggest that a heightened dependence upon transcriptional elongation occurs only in the context of aberrant MYC expression, but not in normal cells. Finally, the enrichment in DNA-repair and -checkpoint genes (
+Dataset S1
+for complete gene list) is consistent with the increased genomic instability and dramatic increase in the rate of DNA replication observed both in mammalian cells and in the
+Xenopus
+model system caused by MYC overexpression (
+20
+,
+31
+,
+47
+). MYC-SL genes related to DNA repair represent candidates for drug development with the potential to be used in combination with standard-of-care genotoxic treatments.
+While this paper was under review, a study using the pooled lentiviral screening approach identified synthetic lethal interactions upon induction of a MYC-ER fusion in primary epithelial mammary cells (
+48
+). The results indicated a role in SUMOylation that influenced MYC transcriptional activity and exhibited synthetic lethality. Among the candidate genes reported by Kessler et al. (
+48
+) only one gene was in common with our screen result:
+BRD4
+; albeit others were in similar classes/function. Different cell systems (MYC-ER versus constitutive c-MYC), different screening methods (pooled shRNA versus arrayed siRNAs), and different libraries (sh against 30,000 genes versus siRNAs against 3,300 genes) could explain the lack of overlap. However, the high reproducibility of the screen here reported (48 of 49 genes tested) underscores the accuracy of the one gene-per-well approach.
+CSNK1e: A Druggable Gene Overexpressed in MYC-Driven Cancers.
+We focused on CNSK1e as proof of principle to demonstrate the power to rapidly translate screening results to preclinical models. In fact, small-molecule inhibitors were readily available (
+36
+,
+38
+), and
+CSNK1e
+expression significantly correlated with
+MYCN
+amplification in neuroblastoma. We also found that
+CSNK1e
+expression was associated with
+c-MYC
+in other tumor settings such as colon, lung, and breast cancer (
+Fig. S5
+). An independently derived link between MYC and CSNK1e was obtained through the genome-wide identification of modifiers of transcription factor activity through the MINDy algorithm, where CSNK1e scored as modifier of MYC target gene expression (
+49
+). CSNK1e was previously implicated in WNT and SHH (for review see ref.
+50
+) and phosphorylation of PER to regulate circadian rhythms (
+51
+,
+52
+), whereas only recently CSNK1e has been implicated in cancer (
+53
+–
+55
+). However, this is a unique demonstration of a functional link between CSNK1e and MYC to influence cancer growth and to implicate CSNK1e as a therapeutic target in MYC-driven cancers.
+In the future, to stratify cancers that may benefit from CSNK1e inhibition other than
+MYCN
+-amplified neuroblastoma, it will be important to establish a threshold of MYC expression that could predict sensitivity to inhibition of CSNK1e. Perhaps the expression of CSNK1e itself could constitute a biomarker of sensitivity. Our study suggests that the ideal setting for therapeutics toward CSNK1e and perhaps other MYC-SL genes might be cancers where MYC expression is both intrinsically and prominently altered, such as consequent to gene amplification. In contrast, in instances where MYC expression is induced in the context of extracellular signaling pathways, those cancers may not be sensitive to inhibition of MYC-SL genes, but likely to respond to inhibition of MYC itself, as most proliferative cells. In summary, our study revealed candidates for therapeutic development identified through an efficient pipeline, which combined the power of high-throughput arrayed siRNA screening with optimized isogenic cell pairs for target discovery, followed by validation in molecularly characterized cancer cells.Materials and Methods
+Cell Culture and Reagents.
+For the siRNA screen, primary human foreskin fibroblasts (HFF) transduced with pBabe-puro or pBabe-c-MYC-puro were utilized. Neuroblastoma cell lines were obtained from the American Type Culture Collection and from Dr. Susan Cohn (University of Chicago, Chicago, IL). The MYCN-inducible Tet21N cells were obtained from Robert N. Eisenman (Fred Hutchinson Cancer Research Center, Seattle, WA). For culture conditions and details see
+SI Materials and Methods
+.
+siRNA Screen.
+For information regarding the siRNA library, transfection optimization, and read-out assay for high throughput screening see
+SI Materials and Methods
+.
+DNA Damage and Apoptosis Assays.
+siRNA pools corresponding to the confirmed gene Hits were manually transfected in the HFF-pBabe-c-MYC and HFF-pBabe-puro isogenic pair in 96-well format. Details for immunofluorescence detection of DNA damage and apoptosis can be found in
+SI Materials and Methods
+.
+mRNA Expression by Real Time PCR, Western Blotting, Generation of shRNA Expressing Lentiviruses, Xenografts, and Immunohistochemical Staining.
+See
+SI Materials and Methods
+.Supplementary Material
+Supporting Information:
+Click here to view.Acknowledgments
+We thank Dr. Susan Cohn for sharing her knowledge of the role of MYCN amplification in neuroblastoma and for cell lines; Kristin Robinson for maintaining cell cultures; Kay Gurley for histopathological analysis of tumors; Jody Carter, Bruce Clurman, Robert Eisenman, Hamid Bolouri, and Chris Kemp for critical reading of the manuscript; Travis Biechele and Daniel Diolaiti for discussions; and the Galloway laboratory for support and reagents. This work was supported by an award from the Ben Towne Endowment (to J.R.P.), R01 AG026661 from National Institute on Aging (to C.G.), and a Pilot Grant (to C.G.) from the National Cancer Institute Cancer Center Support Grant 5-P30 CA015704 to the Fred Hutchinson Cancer Research Center.Footnotes
+The authors declare no conflict of interest.
+*This Direct Submission article had a prearranged editor.
+This article contains supporting information online at
+www.pnas.org/lookup/suppl/doi:10.1073/pnas.1121119109/-/DCSupplemental
+.

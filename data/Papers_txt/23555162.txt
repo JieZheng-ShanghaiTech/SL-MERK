@@ -1,0 +1,347 @@
+Abstract
+AIM: To investigate the role of endoplasmic reticulum (ER) stress in cancer radiotherapy and its molecular mechanism.
+METHODS: Tunicamycin (TM) was applied to induce ER stress in human esophageal cancer cell line EC109, and the radiosensitization effects were detected by acute cell death and clonogenic survival assay. Cell cycle arrest induced by TM was determined by flow cytometric analysis after the cellular DNA content was labeled with propidium iodide. Apoptosis of EC109 cells induced by TM was detected by annexin V staining and Western blotting of caspase-3 and its substrate poly ADP-ribose polymerase. Autophagic response was determined by acridine orange (AO) staining and Western blotting of microtubule-associated protein-1 light chain-3 (LC3) and autophagy related gene 5 (ATG5). In order to test the biological function of autophagy, specific inhibitor or Beclin-1 knockdown was used to inhibit autophagy, and its effect on cell apoptosis was thus detected. Additionally, involvement of the phosphatidylinositol-3 kinase (PI3K)/Akt/mammalian target of the rapamycin (mTOR) pathway was also detected by Western blotting. Finally, male nude mice inoculated subcutaneously with EC109 cells were used to confirm cell model observations.
+RESULTS: Our results showed that TM treatment enhanced cell death and reduced the colony survival fraction induced by ionizing radiation (IR), which suggested an obvious radiosensitization effect of TM. Moreover, TM and IR combination treatment led to a significant increase of G2/M phase and apoptotic cells, compared with IR alone. We also observed an increase of AO positive cells, and the protein level of LC3-II and ATG5 was induced by TM treatment, which suggested an autophagic response in EC109 cells. However, inhibition of autophagy by using a chemical inhibitor or Beclin-1 silencing led to increased cell apoptosis and decreased cell viability, which suggested a cytoprotective role of autophagy in stressed EC109 cells. Furthermore, TM treatment also activated mTORC1, and in turn reduced Akt phosphorylation, which suggested the PI3K/Akt/mTOR signal pathway was involved in the TM-induced autophagic response in EC109 cells. Tumor xenograft results also showed synergistic retarded tumor growth by TM treatment and IR, as well as the involvement of the PI3K/Akt/mTOR pathway.
+CONCLUSION: Our data showed that TM treatment sensitized human esophageal cancer cells to radiation
+via
+apoptosis and autophagy both
+in vitro
+and
+in vivo
+.
+Keywords:
+Endoplasmic reticulum stress, Tunicamycin, Esophageal cancer, Radiosensitivity, Autophagy, ApoptosisINTRODUCTION
+Esophageal cancer, which principally consists of esophageal squamous cell carcinoma (ESCC) and esophageal adenocarcinoma, is one of the leading causes of cancer-related death, and its worldwide incidence is increasing annually[
+1
+]. Historically, treatment of esophageal cancer involved radiotherapy, which was often combined with other treatments, such as surgery and chemotherapy[
+2
+]. However, there is differential sensitivity to radiation in tumors of the same grade, which to some extent has limited the clinical application of radiotherapy. How to enhance the radiosensitivity of esophageal cancer is still an unresolved problem.
+Enhancing radiosensitivity can be accomplished by increasing tumor-specific cell death induced by radiation. Following ionizing radiation (IR), many types of tumor cells primarily undergo apoptosis, which is often significant even at very low doses[
+3
+]. Recently, however, another type of cell death, termed type II cell death or cell death with autophagy, has been observed following radiation[
+4
+]. Induction of autophagy leads to the formation of a double membrane-bound structure called the autophagosome. The autophagosome subsequently fuses with a lysosome, creating an autolysosome, whose contents and inner membrane are degraded and recycled[
+5
+,
+6
+]. Recent studies have reported a role for autophagy in a variety of pathophysiological conditions, including cancer, defense against infections, and as a response to radiation. Although the fundamental role of induced autophagy is controversial, the current literature appears to support the role of autophagy as a mode of radiosensitization rather than radioprotection. Radiation-induced up-regulation of autophagic responsive genes has suggested a new mechanism of cell death and a new target for cancer therapy[
+7
+-
+9
+].
+The endoplasmic reticulum (ER) is an essential intracellular organelle with multiple roles including the synthesis of nascent proteins, Ca
+2+
+storage, glycosylation, and the trafficking of newly-synthesized membrane and secretory proteins. Perturbations of these processes have been demonstrated to interfere with the proper functioning of ER, thus leading to a condition defined as ER stress[
+10
+,
+11
+]. Following ER stress, specific signaling pathways have evolved in eukaryotic cells and are collectively termed the unfolded protein response (UPR). The UPR consists of three signal transduction pathways: protein kinase RNA dependent-like ER kinase (PERK), activating transcription factor 6 (ATF6), and inositol-requiring protein-1 (IRE1). Failure to relieve ER stress can result in cellular dysfunction and disease[
+12
+]. The end result of sustained ER stress and the UPR is usually cell death involving apoptosis and autophagy[
+13
+,
+14
+]. Signaling through PERK, IRE1, and ATF6 pathways can trigger pro-apoptotic signals
+via
+the activation of downstream molecules such as the C/EBP homologous protein (CHOP, also known as growth arrest and DNA damage 153, GADD153), Jun kinase (JNK), and members of the Bcl-2 protein family[
+15
+,
+16
+]. Cell death for a given cell is dependent on its genetic background and the treatment given. Radiation in the absence of the pro-apoptotic Bcl-2 family members Bax and Bak results in increased autophagy and cell death. This radiosensitization response is blocked by inhibitors of autophagy such as 3-methyladenine (3-MA)[
+17
+].
+In our previous work, we found that IR-induced up-regulation of ER stress markers glucose-regulated protein 78 (GRP78) and 94 (GRP94), both at the level of protein and mRNA. PERK and IRE1 signaling pathways were also activated by radiation, which suggested that IR could induce an ER stress response[
+18
+]. However, its biological significance remained unknown. Tunicamycin (TM) is a naturally-occurring antibiotic that induces ER stress in a range of cell contexts[
+19
+,
+20
+]. However, whether it could sensitize esophageal cancer cells to radiation was unknown. In order to explore the role of ER stress and the molecular mechanisms invoked following radiation treatment, TM was applied to induce ER stress in the human esophageal cancer cell line EC109. Our results showed that TM treatment sensitized esophageal cancer cells to radiation
+via
+apoptosis and autophagy both
+in vitro
+and
+in vivo
+.MATERIALS AND METHODS
+Materials
+The ER stress inducers tunicamycin and autophagy inhibitor 3-MA were obtained from Merck. The annexin V staining kit was purchased from the Beyotime Institute of Biotechnology. Acridine orange (AO) was purchased from Sigma-Aldrich. All primary antibodies except Beclin-1 (Santa Cruz Biotechnology, sc10086) were purchased from Cell Signaling Technology. Specific siRNA of Beclin-1 (BECN1-homo-358) was obtained from Shanghai GenePharma Co., Ltd. Lipofectamine 2000 was obtained from Invitrogen. DMEM cell culture media and fetal bovine serum were obtained from Thermo Scientific.
+Cell culture and radiation
+The human esophageal cancer cell line EC109 was obtained from Shanghai Cell Bank (
+http://www.cellbank.org.cn/
+), and cultured in DMEM supplemented with 10% fetal bovine serum and 1% penicillin/streptomycin (complete media). Cells were treated with 10 Gy of gamma radiation using a
+60
+Co source. The medium was immediately replaced after irradiation, and the dishes were returned to the incubator for the indicated times. Cells were harvested by scraping in PBS.
+Cell growth and colony forming assays
+For cell growth curves, exponentially growing cells were cultivated in 96-well plates, with 5 × 10
+3
+cells in each well. Twelve hours later, cells were treated with TM at the indicated concentrations, and further cultivated. Viable cells were detected using the cell counting kit 8 (Beyotime Institute). Briefly, 10 μL of cell counting kit-8 (CCK-8) solution (10 mg/mL) was added to the media, and cells were incubated for two more hours. Plates were read using a microplate reader (Bio-Tek Instruments) set to 450 nm (wavelength correction set to 540 nm). Relative abundance was normalized to that of the control.
+For colony formation assays, cells in the logarithmic growth phase were seeded in 6-well plates at concentrations predetermined to give 25-200 colonies. Cells were then pretreated with TM (5 μg/mL) for 24 h, and then irradiated at the indicated dose. After changing the media, cells were further cultivated for 10-14 d. Cultures were fixed and stained with 0.5% crystal violet in absolute methanol. The number of colonies with > 50 cells was counted using a dissecting microscope. The percentage of cell survival was calculated and normalized to that of the control.
+Cell cycle analysis
+Exponentially growing EC109 cells were cultivated and synchronized for 24 h in serum-free media. The media with or without TM (0.5 μg/mL) was replaced with complete media before irradiation with 10 Gy. Twenty four hours later, cells were harvested by trypsinization, washed with ice-cold PBS, and fixed in 70% ethanol. Before analysis, DNA was labeled with propidium iodide (PI) in the presence of RNase (1 mg/mL) for 30 min at room temperature. Cell cycle distributions were analyzed on a FACSort (Becton Dickinson) with Cell Quest software (version 313) for the proportions of cells in the G1, S, and G2/M phases of the cell cycle.
+Apoptosis assays
+Apoptosis was measured using the annexin V fluorescein isothiocyanate (FITC) Apoptosis Kit (Beyotime Institute) according to the manufacturer’s instructions. Briefly, TM or TM plus radiation-treated cells were trypsinized and washed twice with cold PBS. Cells were then stained for 15 min at room temperature, and analyzed on a FACSort (Becton Dickinson). Caspase-8 activity was measured using the human active Caspase-8 immunoassay (Beyotime Institute). Optical density (
+A
+) was detected by using the microplate reader (Bio-Tek Instruments). Enzymatic activities were expressed as arbitrary
+A
+units, and relative activity was normalized to that of control.
+AO and Hoechst 33342 staining
+Cells were treated with TM for the indicated times, washed with PBS, trypsinized, and then collected in PBS. Cells were then stained with AO (100 μg/mL) for 15 min at room temperature. Green (510 to 530 nm) and red (650 nm) fluorescence emissions from 1 × 10
+5
+cells illuminated with blue (488 nm) excitation light were analyzed on a FACSort. For Hoechst 33342 staining, EC109 cells were stained for 15 min at room temperature, and then visualized with a fluorescence microscope.
+siRNA transfection
+EC109 cells were transfected with siRNA against Beclin-1 (5’ GGAGCCAUUUAUUGAAACUTT) or control siRNA using Lipofectamine 2000 according to the manufacturer’s instructions. Cells were collected and used for Western blotting 48 h after transfection. For cell viability assays, cells were further treated with TM for a further 24 or 48 h.
+RNA extraction and quantitative real-time PCR
+RNA was extracted with TRIzol reagent (Invitrogen) and converted to cDNA using the reverse transcription kit (Applied Biosystems). Quantitative real-time PCR (qRT-PCR) was carried out using the ABI 5700 real-time PCR system (Applied Biosystems) using specific primers. Reactions were done in triplicate from the same cDNA reaction. The PCR conditions were: initial denaturation at 95  °C for 5 min; 40 cycles of denaturation at 95  °C for 20 s; annealing at 60  °C for 30 s; and elongation at 72  °C for 30 s. Gene expression of ATG5 and Beclin-1 was normalized to the corresponding β-actin level and the comparative CT method was used to calculate relative gene expression.
+Western blotting
+Total protein was resolved on SDS-PAGE and transferred onto a nitrocellulose membrane. After blocking in 3% non-fat milk (in PBS) for 30 min, membranes were incubated with antibodies against GRP78 (#3177), GRP94 (#2104), LC3 (#4108), ATG5 (#2630), PARP (#9542), cleaved Caspase-3 (#9662), and Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (#8884), followed by incubation with corresponding secondary antibodies (Zhongshan Corp.). Expression of individual proteins was normalized to that of GAPDH. Western blotting were repeated at least three times.
+Tumor xenograft model
+All mouse experiments were approved by the University Committee on the Use and Care of Animals of the Third Military Medical University. Male nude mice were inoculated subcutaneously with 1 × 10
+6
+human EC109 cells in the dorsal aspect of the neck. Three weeks after tumor inoculation, all mice developed a large tumor (approximately 100 mg). Mice with established 3-wk-old tumors were randomly divided into four groups: Groups 1 and 2 were injected intraperitoneally (IP) with PBS or TM (1.5 mg/kg), respectively; Group 3 was given a single dose of localized irradiation (10 Gy); and the final group were irradiated and then given an IP injection of TM. All experiments used five mice per group. Tumor volume (TV) was measured every 3 d post-irradiation (day 0), and was calculated according to the formula TV = L × W
+2
+/2, where L and W are the length and width, respectively. Tumor tissues and other organs (liver and kidney) were removed and processed for Western blotting analysis on day 15.
+Statistical analysis
+The one-sample
+t
+-test was used to statistically analyze the differences in the expression ratios of irradiated versus non-irradiated samples. A
+P
+-value less than 0.05 was considered significant.RESULTS
+Radiosensitization effect of TM in EC109 cells
+TM has been used to induce ER stress in various studies. We first determined that TM induced ER stress in EC109 cells. TM treatment increased protein levels of GRP78 and GRP94, hallmarks of ER stress, in a dose- and time-dependent manner. The mRNA level of these two genes also increased after TM treatment, which was consistent with the changes in protein levels. Another indicator of ER stress is the selective splicing of X-box binding protein 1 (XBP1), which can be detected by RT-PCR. TM treatment induced an additional product of XBP1, indicating that a 26-bp intron was spliced from its normal transcript. Together, these results showed that TM treatment induced an ER stress response in EC109 cells.
+The effect of TM treatment on the growth of cells was determined by a CCK-8 assay. TM treatment resulted in a reduction of cell growth in a dose-dependent manner, which became apparent after 24 h of treatment. Compared with other concentrations, 5 μg/mL of TM induced obvious growth inhibition in EC109 cells, and was used in further experiments (Figure
+​
+(Figure1A).
+1A
+). To evaluate if TM could increase radiosensitivity, EC109 cells were treated with various concentrations of TM alone or combined with IR at a dose of 10 Gy for 24 or 48 h. Cell viability was then determined using the CCK-8 assay. Cell viability decreased significantly when IR was combined with TM (Figure
+​
+(Figure1B).
+1B
+). Cell viability at 48 h after IR was more pronounced than at 24 h, which indicated a time-dependent effect. To further confirm radiosensitization by TM, clonogenic survival assays were performed to examine long-term survival. Compared with IR alone, cell survival was significantly decreased in cells treated with TM and IR (Figure
+​
+(Figure1C).
+1C
+). These results indicated that TM could sensitize EC109 cells to radiation.
+Open in a separate window
+Figure 1
+Radiosensitization effect of tunicamycin in EC109 cells. A: Exponentially growing EC109 cells were treated with tunicamycin (TM) at the indicated concentrations. Cell growth was determined using cell counting kit-8 (CCK-8) and relative growth rate was calculated using the absorption at 0 h as a baseline; B: EC109 cells were pretreated with or without TM (5 μg/mL), followed by a single dose of 10 Gy. 24 h (left panel) or 48 h (right panel) later, relative cell viability was measured using CCK-8; C: EC109 cells were pretreated with or without TM (5 μg/mL) for 24 h. After irradiation with 2, 4 and 6 Gy, cells were further cultivated for 10-14 d. The number of colonies with > 50 cells was counted under a dissecting microscope. N: Untreated with TM.
+Cell cycle arrest induced by TM
+As TM treatment decreased cell viability, we wondered whether this was due to cell cycle arrest. To void its intrinsic cytotoxic effect, we decided to use TM at 0.5 μg/mL, a concentration that was able to consistently inhibit cell growth. Flow cytometric analysis of DNA content was conducted to assess changes in the proportion of cells in each phase of the cell cycle. TM treatment for 24 h indicated no significant changes in the cell cycle compared to the control. However, IR alone induced a G2/M arrest in EC109 cells, which was consistent with our previous observation[
+21
+]. TM treatment combined with IR greatly enhanced G2/M arrest (Figure
+​
+(Figure2).
+2
+). This indicated that the radiosensitization effect of TM was associated with cell cycle arrest.
+Open in a separate window
+Figure 2
+Cell cycle arrest induced by tunicamycin. A: EC109 cells were pretreated with or without tunicamycin (TM) (0.5 μg/mL), followed by a single dose of 10 Gy. 24 h later, cells were harvested, fixed, and labeled with propidium iodide. Cell cycle distributions were analyzed on a FACSort; B: Data are the mean ± SD of three independent experiments. N: Sham-treated with TM; R: 10 Gy irradiation.
+Apoptosis is enhanced by TM in irradiated cells
+Both IR and prolonged ER stress can induce an apoptotic response. We therefore studied whether TM enhanced apoptosis of irradiated EC109 cells. Apoptotic signaling pathways (both extrinsic and intrinsic) lead to activation caspases, which cleave essential cell substrates such as PARP. IR and ER stress have been shown to activate executioner caspases Caspase-3 and -8. The protein levels of active (cleaved) Caspase-3 were determined by Western blotting. Levels of cleaved Caspase-3 increased after TM treatment or IR (Figure
+​
+(Figure3A).
+3A
+). Combined TM and IR treatment induced an increase greater than that of radiation alone. Furthermore, cleaved PARP and Caspase-8 activity (Figure
+​
+(Figure3B)
+3B
+) showed a similar pattern of increase compared to Caspase-3.
+Open in a separate window
+Figure 3
+Apoptosis is enhanced by tunicamycin in irradiated cells. EC109 cells were pretreated with or without tunicamycin (TM) (5 μg/mL), followed by a single dose of 10 Gy. A: Western blotting analysis for poly ADP-ribose polymerase (PARP), Caspase-3, and glyceraldehyde-3-phosphate dehydrogenase (GAPDH); B: Caspase-8 activity of treated cells; C: Apoptosis was determined by annexin V labeling; D: Representative images of cells stained with Hoechst 33343. N: Sham-treated with TM; R: 10 Gy irradiation.
+To evaluate the proportion of apoptotic cells, EC109 cells were stained with Annexin V-FITC and PI, and analyzed by FACS (Figure
+​
+(Figure3C).
+3C
+). TM treatment increased the amount of apoptotic cells and occurred in a time-dependent manner. Combined treatment significantly increased the number of apoptotic cells compared with that of radiation alone. Hoechst 33342 staining of TM-treated cells showed a similar result (Figure
+​
+(Figure3D).
+3D
+). These results indicated that TM treatment enhanced cell apoptosis induced by IR.
+Autophagy response induced by TM
+TM treatment has been reported to induce cell death with autophagy in some cell lines. Upon induction of autophagy, cytosolic LC3-I is converted into LC3-II, which decorates the autophagosome and often serves as a marker of autophagy. Simultaneously, the gene expression of ATGs, such as ATG5, ATG7, and ATG12, were up-regulated under the condition of autophagy. To determine if TM induces an autophagic response in EC109 cells, Western blotting for LC3 and ATG5 protein levels were performed. As expected, the protein levels of autophagic markers increased after TM treatment in a dose-dependent manner. Consistent with the increase in protein levels, mRNA levels of Beclin-1 and ATG5 also increased after TM treatment. In order to verify that the molecular response to TM resulted in the morphological characteristics of autophagy, EC109 cells were treated with TM and then stained with AO. TM increased the number of cells displaying red fluorescence in a dose-dependent manner (Figure
+​
+(Figure4A
+4A
+).
+Open in a separate window
+Figure 4
+Autophagy response induced by tunicamycin. A: EC109 cells were exposed to increasing concentrations of tunicamycin (TM), and stained with acridine orange (AO); B: EC109 cells were pretreated with or without TM (5 μg/mL), followed by a single dose of 10 Gy and analyzed by Western blotting for LC3 and ATG5; C: Relative mRNA expression of Beclin-1 and ATG5 was assessed by quantitative polymerase chain reaction; D: After AO staining, cells were quantitatively analyzed on a FACSort; E: Cells were treated as indicated, and protein levels of LC3 and ATG5 were assessed by Western blotting; F: Relative cell viability of cells treated with TM, radiation and autophagy inhibitor 3-MA for 24 or 48 h. N: Sham-treated with TM; R: 10 Gy irradiation. GAPDH: Glyceraldehyde-3-phosphate dehydrogenase.
+We then determined the autophagic response following radiation. EC109 cells were irradiated and the protein levels of LC3 and ATG5 were detected by Western blotting. TM treatments increased protein levels of LC3 and ATG5, and the levels of these proteins were further increased by TM and radiation combined treatment (Figure
+​
+(Figure4B).
+4B
+). Similarly, mRNA levels of Beclin-1 and ATG5 also increased after combined treatment, which suggested an augmented autophagic response (Figure
+​
+(Figure4C).
+4C
+). Moreover, the percentage of AO positive cells was synergistically enhanced by radiation and TM treatment (Figure
+​
+(Figure4D
+4D
+).
+As autophagy is thought to be involved in cell survival or cell death, we wanted to understand the significance of the autophagy response induced by TM. 3-MA, an inhibitor of autophagy, was used to specifically inhibit the autophagic response of EC109 cells to TM treatment. The addition of 3-MA resulted in an increase of LC3-II formation in accordance with previously published data[
+22
+]. Western blotting analysis revealed that the protein level of ATG5 decreased in EC109 cells after 3-MA treatment, compared with TM treatment alone (Figure
+​
+(Figure4E).
+4E
+). This indicated that the autophagic response induced by TM treatment was inhibited by 3-MA. We then determined if 3-MA affected cell viability. As shown in Figure
+​
+Figure4F,
+4F
+, when cells were treated with inhibitor alone, cell viability after radiation did not change significantly. However, it decreased significantly when the cells were co-treated with TM and inhibitor. This suggested that inhibition of autophagy sensitized cells to radiation.
+The effect of autophagy inhibition on apoptosis
+Recent studies indicated a cross-talk between apoptosis and autophagy, yet the reciprocal relationship between them is far from clearly elucidated[
+23
+]. Many studies have shown that blockage of autophagy with inhibitors increased apoptosis. Thus, we studied whether apoptosis of EC109 cells treated with TM would be augmented by an autophagy inhibitor.
+To this end, autophagy was inhibited using 3-MA in cells treated with TM and IR, and then cells were analyzed by annexin V staining. 3-MA treatment significantly increased cell apoptosis (TM
+vs
+TM + 3-MA, Figure
+​
+Figure5A).
+5A
+). Similarly 3-MA treatment increased apoptosis in EC109 cells synergistically treated with TM and radiation. Western blotting for cleaved Caspase-3 and its substrate PARP showed that 3-MA treatment after radiation and TM induced a substantial increase in the active form of Caspase-3 and cleaved PARP (Figure
+​
+(Figure5B).
+5B
+). Autophagy was subsequently inhibited by silencing Beclin-1, which has pivotal role in autophagy. siRNA against Beclin-1 was transfected into EC109 cells, and protein levels of Beclin-1 were detected 24 h later. Beclin-1 was significantly knocked down by the siRNA (Figure
+​
+(Figure5C).
+5C
+). As expected, the autophagic response induced by TM treatment was attenuated when Beclin-1 was knocked down, which indicated a suppression of LC3II and ATG5 (Figure
+​
+(Figure5D).
+5D
+). To determine the impact of Beclin siRNA on TM-induced apoptosis, Western blotting for cleaved Caspase-3 and PARP was carried out. Similarly, increased levels of cleaved Caspase-3 and PARP were observed after silencing of Beclin-1 (Figure
+​
+(Figure5E).
+5E
+). In addition, the levels of CHOP were also augmented. These results indicated that inhibition of autophagy increased apoptosis induced by TM.
+Open in a separate window
+Figure 5
+The effect of autophagy inhibition on cell apoptosis. EC109 cells were treated with tunicamycin (TM), radiation, and 3-MA for 24 h. A: The proportion of annexin V positive cells was measured and analyzed on a FACSort; B: Protein levels of GRP94, cleaved Caspase-3, and its substrate poly ADP-ribose polymerase (PARP) were assessed by Western blotting; C: EC109 cells were transfected with Beclin-1 siRNA. Two days after transfection, protein levels of Beclin-1 and ATG5 were determined by Western blotting; D, E: Western blotting of cells transfected with siRNA and treated with TM. Levels of LC3, ATG5, C/EBP homologous protein (CHOP), cleaved Caspase-3, and PARP were shown. N: Sham-treated with TM; R: 10 Gy irradiation; GAPDH: Glyceraldehyde-3-phosphate dehydrogenase.
+Cell signaling pathways involved in TM response
+Recent studies have shown that the PI3K/Akt/mTOR pathway is involved in ER stress-triggered apoptosis, and is also involved in the regulation of autophagy[
+24
+,
+25
+]. Upon induction of ER stress, activation of mTORC1 reduces Akt phosphorylation, an event upstream of IRE-JNK signaling and subsequent apoptosis. We first explored whether TM treatment would activate mTORC1, using phosphorylation of p70S6K as a marker. Basal activity of mTORC1 was observed in untreated cells, and was rapidly upregulated following TM treatment in a dose- and time-dependent manner (Figure
+​
+(Figure6A).
+6A
+). Accordingly, the protein levels of PI3K and phosphorylated Akt (p-Akt) declined. This suggested that the PI3K/Akt/mTOR signaling pathway was involved in TM treatment, which led to an autophagic response in EC109 cells. Western blotting for levels of PI3K and p-Akt were carried out to further explore the effect on this pathway after the combined treatment of TM and IR. Protein levels of PI3K and p-Akt showed a further decrease after combined treatment (Figure
+​
+(Figure6B).
+6B
+). This suggested that this signal pathway was involved in the enhancement of radiosensitivity induced by TM treatment.
+Open in a separate window
+Figure 6
+Cell signaling pathways associated with tunicamycin. A: EC109 cells were exposed to tunicamycin (TM) (5 μg/mL) for the indicated time periods, subjected to Western blotting analysis (left panel) or treated with TM at the indicated concentrations for 24 h, and subjected to Western blotting analysis (right panel); B: Western blotting analysis of cells pretreated with or without TM (5 μg/mL), followed by a single dose of 10 Gy. N: Sham-treated with TM; R: 10 Gy irradiation; GAPDH: Glyceraldehyde-3-phosphate dehydrogenase.
+In vivo studies
+To determine if radiosensitization of TM
+in vitro
+could be recapitulated
+in vivo
+, nude mice with established tumor xenografts were treated with TM and local radiotherapy. To assess the effect of TM alone on ER stress markers, samples from tumor xenografts were analyzed by Western blotting. TM treatment induced an increase of GRP78 and GRP94 (Figure
+​
+(Figure7A).
+7A
+). In addition, TM treatment increased the protein levels of ATG5 and LC3II, which indicated that TM treatment upregulated the autophagy response
+in vivo
+(Figure
+​
+(Figure7A).
+7A
+). Similar results were observed in liver and kidney samples.
+Open in a separate window
+Figure 7
+Radiosensitization by tunicamycin
+in vivo
+. A: Tumor xenografts removed from each group were subjected to Western blotting analysis for GRP78, GRP94, LC3, and ATG5; B: Examples of tumor xenografts removed from each group; C: Growth curves of tumor xenografts; D: Samples of tumor xenografts were subjected to Western blotting analysis for Akt, p-Akt, and PI3K. N: Sham-treated with tunicamycin (TM); R: 10 Gy irradiation; GAPDH: Glyceraldehyde-3-phosphate dehydrogenase.
+Simultaneously, the growth of tumors was determined. In control groups, tumors grew progressively to an average volume of 300 mm
+3
+, and all mice were sacrificed at day 12. The results of tumor growth curves showed that tumor growth could be retarded by radiation alone (Figure
+7B, C
+). TM treatment also significantly inhibited the growth of tumor xenografts, compared with the control group. Moreover, the inhibition of tumor xenograft growth was synergistically enhanced by combined radiation and TM treatment. Furthermore, the protein level of PI3K and p-Akt was also determined in tumor xenografts. TM treatment combined with radiation induced a significant decrease of the PI3K/Akt/mTOR signaling pathway, which showed that TM functioned similarly to that of the cell model (Figure
+​
+(Figure7D).
+7D
+). These results suggested that TM treatment sensitized EC109 cells to radiation
+in vivo
+.DISCUSSION
+Here we have shown that the classic ER stress inducer TM could sensitize esophageal cancer cells to radiation
+in vitro
+and
+in vivo
+. TM causes ER stress by specifically inhibiting N-linked glycosylation of peptides in the ER, which leads to protein misfolding that exceeds the capacity of protein chaperones. Cells benefit from moderate ER stress to alleviate damage, while sustained ER stress induces cell death[
+26
+]. In this study, we treated EC109 cells with TM for 24 h, which led to sustained ER stress and induced cell death. Increased apoptosis induced by TM was observed in a time-dependent manner. Besides inducing ER stress, TM was found to induce autophagy in renal proximal tubular cells. In this work, we established that TM induced an autophagic response in esophageal cancer cells (Figures
+​
+(Figures4B,
+4B
+,
+​
+,7A).
+7A
+). Other classic ER stress inducers, such as DTT and MG132, were also found to induce autophagy. These studies implied a causal link between ER stress and autophagy. However, the biological significance of ER stress-induced autophagy largely remained unresolved.
+In our previous work, we found that radiation alone also induces moderate ER stress, which was verified by other studies[
+27
+,
+28
+]. The ER stress induced by radiation could also be interpreted as an adaptive response, as the ER stress inhibitor salubrinal blocked 50% of apoptosis induced by X-rays in pulmonary artery endothelial cells. However, sustained ER stress leads to cell death. In this work, sustained ER stress induced by TM treatment enhanced radiation sensitivity
+in vitro
+and
+in vivo
+. This suggests a potential strategy for maximizing the efficiency of cancer radiotherapy. The mechanism underlying ER stress-induced cell death needs to be further studied. In this work, we focused on autophagy and its relationship with cell apoptosis.
+Induction of autophagy can be associated with cell death, and has greatly attracted researchers’ interest. Initial work showed that nutrient starvation induced autophagy[
+29
+]. Autophagy is also involved in physiological processes, such as development and differentiation. Moreover, recent studies have demonstrated a fundamental role of autophagy in a variety of pathophysiological conditions, including cancer, virus infection, heart failure, and neurodegeneration.
+Many studies have found that autophagy might have a function in cancer treatment. However, contradictory findings about the role of autophagy were observed. Autophagy has been considered a mechanism by which the cell protects itself from various stresses, including nutrient starvation and chemotherapy. For example, it was reported that autophagy could protect glioma and fibrosarcoma cells from cisplatin-mediated apoptosis[
+30
+]. But, there are also multiple examples in the literature where autophagy is the mode of cell death in tumor cells. Akar et al[
+31
+] reported that doxorubicin promoted autophagic cell death in MCF-7 cells at a clinically appropriate dose. It was also reported that autophagy was the main type of cell death in DNA-PK deficient human malignant glioma cells after radiation, while normal control cells could survive and proliferate, although a small portion of the cells underwent apoptosis[
+32
+]. Another study reported that autophagy (but not apoptosis) was the primary response to IR and radiosensitization induced by inhibition of NF-kappa B activation associated with autophagy[
+33
+]. Conversely, pharmacological inhibition of autophagy using 3-MA blocked radiosensitization. Rapamycin, an inhibitor of the mTOR pathway that ordinarily induces autophagy in various types of cancer cells, increased the sensitivity of MCF-7 cells to radiation[
+17
+]. Thus, the cytoprotective or cytotoxic role of autophagy depends on the cell context. In this work, we found that blockage of autophagy by the inhibitor 3-MA led to enhanced apoptosis, which suggested a cytoprotective role for autophagy in TM treatment. In addition, the autophagy response induced by TM treatment could be inhibited by Beclin-1 siRNA. It was reported that the inhibition of Beclin-1 diminished survival in radioresistant cancer cell lines after radiation, whereas survival in more radiosensitive carcinoma cells was enhanced[
+34
+]. We did not assess the radiosensitivity of Beclin-1 knockdown alone. However, Beclin-1 knockdown enhanced cell apoptosis induced by TM.
+Different cell signaling pathways are associated with TM treatment. The PI3K/Akt/mTOR pathway is critical for ER stress-induced apoptosis and autophagy induced by TM. Akt (also known as protein kinase B) functions as a principle mediator for many biological functions, including cell proliferation, differentiation, and survival. Dysregulation of Akt has been frequently detected in many types of cancer. The relationship between Akt and mTOR is very intricate. Akt activates mTOR through the inactivation of tuberous sclerosis complex 2 (TSC2) within the TSC1-TSC2 complex. Increased activation of mTOR triggers a negative feedback loop for the Pl3K/Akt pathway, leading to suppression of Akt[
+35
+]. TM led to a sharply decreased level of p-Akt in mouse embryonic fibroblasts, while inducing a transient and biphasic activation of p-Akt in the rat renal tubular epithelial cell line NRK-52E[
+20
+,
+24
+]. In this study, TM treatment led to decreased levels of p-Akt, which was further diminished following radiation. This unexpected observation could be related to the different cell context of these experiments.
+In summary, cellular apoptosis and autophagy were found to be associated with TM treatment in EC109 cells and tumor xenografts. TM induced sustained ER stress, which sensitized cancer cells to radiation
+in vitro
+and
+in vivo
+. Our findings help to understand the molecular mechanisms associated with TM treatment, and suggest a potential strategy to maximize the efficiency of cancer radiotherapy.COMMENTS
+Background
+The endoplasmic reticulum (ER) is an essential intracellular organelle with multiple roles, including the synthesis of nascent proteins, Ca
+2+
+storage, glycosylation, and the trafficking of newly-synthesized membrane and secretory proteins. Perturbations of these processes have been demonstrated to interfere with the proper functioning of ER, thus leading to a condition defined as ER stress. ER stress plays an important role in many cellular processes; it can activate an adaptive response aimed at neutralizing these threats and re-establishing homeostasis, which leads to cell survival. However, if these countermeasures are unsuccessful and prolonged stress persists, the ER stress response may abandon its pro-survival efforts and initiate a pro-apoptotic program to eliminate the faulty cells. In the authors’ previous work, it was found that radiation could induce ER stress, which was associated with the protein kinase RNA dependent-like ER kinase and inositol-requiring protein-1 signaling pathways. However, the biological significance of ER stress remained unknown. The ER stress induced by radiation could also be interpreted as an adaptive response, as the ER stress inhibitor salubrinal blocked cell apoptosis induced by X-rays in pulmonary artery endothelial cells. However, sustained ER stress leads to cell death.
+Research frontiers
+According to a recent review, ER stress can be viewed as a ‘‘yin’’ and ‘‘yang’’ principle based on its relative levels. Moderate levels of ER stress favor the pro-survival, cell-protective module (“yang”) while severe levels of ER stress will abandon their protective efforts and instead will trigger cell death (“yin”). For cancer chemotherapy and radiotherapy, those approaches which block the pro-survival function and/or enhance the pro-apoptotic process will benefit the therapeutic effects. Based on this delicate sensitivity of ER function, a large number of compounds which cause ER stress are tested for cancer therapy. However, its molecular mechanisms have not been fully elucidated.
+Innovations and breakthroughs
+Previous studies showed tunicamycin (TM) inhibited N-Acetylglucosamine transferases, and thus prevented the formation of N-linked glycoproteins, which ultimately induced sustained ER stress in various types of cells. A number of
+in vitro
+studies have investigated the chemosensitizing properties of TM. However, the radiosensitizing properties of TM are less investigated, and its molecular mechanisms remained unknown. In this study, the authors found that sustained ER stress induced by TM sensitized human esophageal cancer cells to radiation. This finding was confirmed both
+in vitro
+and
+in vivo
+. The authors also showed that the PI3K/Akt/mTOR pathway was involved in the TM-induced autophagic response, and inhibition of autophagy increased apoptosis induced by TM.
+Applications
+The results of this study suggest that TM induces sustained ER stress, which sensitized cancer cells to radiation
+in vitro
+and
+in vivo
+. The authors’ findings help to add to the understanding of the molecular mechanisms associated with TM treatment, and suggest a potential strategy for maximizing the efficiency of cancer radiotherapy.
+Peer review
+This is a good descriptive study in which the authors analyzed the radiosensitizing effect of TM on human esophageal cancer cells. The results are interesting and suggest that TM might be a potential therapeutic substance that could be used for cancer radiotherapy.Footnotes
+Supported by A Grant from the National Natural Science Foundation of China, No. 30870746
+P- Reviewers Poggi A, Pan BR S- Editor Wen LL L- Editor Rutherford A E- Editor Zhang DN

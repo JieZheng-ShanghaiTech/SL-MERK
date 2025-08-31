@@ -1,0 +1,186 @@
+Critical Reviews in Oncology/Hematology
+Volume 57, Issue 2, February 2006, Pages 107-121
+
+An overview of apoptosis and the prevention of
+colorectal cancer
+
+AlastairJ.M. Watson
+
+Show more
+
+https://doi.org/10.1016/j.critrevonc.2005.06.005
+
+Get rights and content
+
+Abstract
+
+Colorectal cancer arises as a result of the accumulation of genetic errors many of which affect the
+
+control of apoptosis. Effective chemoprevention strategies for colorectal cancer must rectify these
+
+genetic defects. Mutation of apc is often the initiating genetic lesion in colorectal cancers that
+
+develop along the chromosomal instability pathway. Depending on the cellular context, loss of apc
+
+activates the Wnt signalling pathway causing immediate widespread apoptosis of colorectal
+
+epithelial cells and defects in differentiation and cell migration. Only cells that are inherently
+
+resistant to apoptosis survive this initial wave of apoptosis. These surviving cells constitute the
+
+epithelial population that develop into adenomas. Two gene targets of the Wnt signalling pathway
+
+are of particular relevance to apoptosis. Although controversial, survivin may function to inhibit
+
+apoptosis. MYC has two outputs in normal cells, the induction of apoptosis and proliferation. These
+
+opposing functions work so that MYC can only induce cell proliferation in cells if apoptosis is
+
+disabled. p53 couples apoptosis to mitogenic signals and survival pathways. Under some
+
+circumstances, NF-κB can act as an inhibitor of apoptosis possibly through increased expression of
+
+bcl-x . Tumours that evolve by the microsatellite instability pathway often have mutations in the
+
+proapoptotic gene bax. Colonic adenomas express cyclo-oxygenase-2 (COX-2) and may be targets of
+
+chemoprevention before the development of malignancy. However, the recent discovery that coxibs
+
+increase the risk of serious cardiovascular events limits their use as chemopreventive agents.
+
+Nevertheless, aspirin remains a drug of great interest as it is already known to reduce the risk of
+
+colorectal cancer by up to 50%. The balance of evidence shows that high vegetable fibre diets can
+
+prevent colorectal cancer, probably via the fermentation of butyrate enhancing the apoptotic
+
+response to DNA damage.
+
+Share Cite
+
+L
+Introduction
+
+On a global scale, colorectal cancer is the fourth commonest malignant neoplasm after lung, breast
+
+and prostate [1]. As will be discussed below, approximately 90% of colorectal cancers are derived
+
+from benign adenomatous lesions which are estimated to take 5–15 years to evolve into invasive
+
+cancer (for review, see [2], [3]). A wealth of epidemiological and clinical trial data suggests that if
+
+these premalignant lesions are identified and removed, the subsequent development of colorectal
+
+cancer is aborted [4], [5], [6]. Unfortunately, adenomas are largely asymptomatic and so require
+
+population-based screening programmes for their detection. Colorectal cancer develops through a
+
+number of well characterized stages based on the degree of invasion. When the cancer is confined to
+
+the wall of the bowel (Stage 1, T N M ), resection is essentially curative with 5 year survival rates of
+
+90% or more. However, in Stage IV disease where distant metastases are present, the 5 year survival
+
+drops to 15% [7]. Overall, the 5 year survival rate of colorectal cancer is 50%.
+
+These diagnostic challenges have led investigators to attempt to prevent adenoma formation with the
+
+minimum of risk. The long natural history of adenomas, their accessibility to biopsy and the
+
+existence of two inherited forms of colorectal cancer whose genetic changes mirror those of sporadic
+
+cancer have enabled investigation of molecular pathogenesis of sporadic colorectal cancer in great
+
+detail, perhaps more than any other neoplasm [8]. These investigations have shown that numerous
+
+errors in pathways controlling apoptosis (programmed cell death) occur during the development of
+
+colorectal cancer. These abnormalities render cells with clinically significant mutations resistant to
+
+elimination through apoptosis (programmed cell death). Abnormalities in core apoptosis
+
+mechanisms go hand in hand with inherent resistance to chemotherapy and radiotherapy. Clinical
+
+evidence is emerging that defective apoptosis is of pathogenic significance [9]. Apoptosis rates in
+
+rectal mucosa are inversely related to the presence of adenomas, while the clinical response of
+
+adenomas to treatment with the COX-2 inhibitor celecoxib correlates positively with apoptosis [10],
+
+[11]. Thus, a full understanding of molecular abnormalities in apoptosis and its relationship to other
+
+molecular pathogenic mechanisms is essential for the rational development of prevention strategies
+
+against colorectal cancer.
+
+Section snippets
+
+Molecular pathogenesis of colorectal cancer
+
+Hahn and Weinberg have argued that a normal cell has only to acquire six phenotypes in order to
+
+behave as a fully transformed malignant cell. These phenotypes are resistance to growth inhibition,
+
+immortalization, independence from mitogenic stimulation, the ability to acquire their own blood
+
+supply, the ability to invade and metastasize and the ability to suppress or evade apoptosis [12].
+
+These characteristics are acquired through the mutation of key genes regulating these functions.
+
+The…
+
+Vegetable products
+
+A number of dietary components have been reported to cause apoptosis with the implication that
+
+mutant cells will, in this way, be eliminated thereby preventing cancer. Such inferences are fraught
+
+1 0 0
+with difficulty as modulation of cell death may not necessarily be responsible for cancer protection in
+
+the complex environment of the human gut [110]. Diets high in fibre (non-starch polysaccharides)
+
+have been recommended to prevent colorectal cancer [111], [112]. Epidemiological studies and…
+
+Conclusions
+
+The majority of genes that are functionally important in the pathogenesis of colorectal cancer in
+
+some way inactivate or raise the threshold for induction of apoptosis, giving a growth advantage to
+
+neoplastic and malignant clones. Clinical data are emerging that apoptosis in human colonic
+
+epithelium is inversely related to cancer development. Studies of mouse models are starting to
+
+illustrate how apoptosis fits in and interacts with the other important phenotypes required by cancer
+
+cells as…
+
+Reviewers
+
+Prof. Chris Paraskeva, Department of Pathology and Microbiology, School of Medical Sciences,
+
+University of Bristol, University Walk, Bristol BS8 1TD, UK.
+
+Prof. E.G.E. De Vries, M.D., Ph.D., Groningen University Hospital, Department of Medical Oncology,
+
+P.O. Box 30.001, NL-9700 RB Groningen, The Netherlands.
+
+Dr. Nadir Arber, Tel Aviv Sourasky Medical Center, Weizmann 6, Tel Aviv 64238, Israel.…
+
+Alastair J.M. Watson is professor of medicine at the University of Liverpool and head of the Division of
+
+Gastroenterology in the School of Clinical Sciences. He qualified in 1980 from Cambridge and London
+
+Universities. In 1985, he became a research fellow with Michael Farthing in St. Bartholomew's
+
+hospital from where he obtained in 1989 a Medical Doctorate on the absorption of short chain fatty
+
+acids. He became a post-doctoral fellow with Mark Donowitz and Chip Montrose at Johns Hopkins
+
+Medical …
+
+Recommended articles
+
+
+

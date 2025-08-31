@@ -1,0 +1,726 @@
+Abstract. Synthetic lethality is based on the incompatibility
+of cell survival with the loss of function of two or more
+genes, not with loss of function of a single gene. If targets of
+synthetic lethality are deregulated or mutated in cancer cells,
+the strategy of synthetic lethality can result in significant
+increase of therapeutic efficacy and a favourable therapeutic
+window. In this review, we discuss synthetic lethality based
+on deficient DNA repair mechanisms, activating mutations of
+RAS, loss of function mutations of the tumor suppressor
+genes p53, Rb and von Hippel-Lindau, and disruption of
+interactive protein kinase networks in the context of
+development of new anticancer agents.
+
+The most significant achievements in the development of
+anticancer drugs are dependent on the understanding of the
+biology of the disease (1). Especially promising are
+approaches which focus on targets of tumor subtypes, in
+contrast to their corresponding normal cells, with impact on
+potential significant therapeutic benefit and a favourable
+therapeutic window. A breakthrough in this context was the
+discovery of imatinib (Gleevec), a kinase inhibitor of the
+constitutively active fusion protein consisting of BCR and
+ABL (BCR–ABL) for the treatment of chronic myeloid
+leukemia (CML) (2). This concept was extended to the
+treatment of non-small cell lung carcinoma (NSCLC)
+expressing epidermal growth factor receptor (EGFR) with
+EGFR inhibitors, gastrointestinal stromal tumor (GIST) with
+tyrosine kinase KIT (CD117) inhibitors, melanomas with the
+activating V600E B-rat fibrosarcoma (BRAF) mutation with
+
+a kinase inhibitor and NSCLC patients with the echinoderm
+microtubule-associated protein-like 4-anaplastic lymphoma
+kinase (EML4–ALK) fusion protein with an ALK inhibitor
+(3, 4). A promising concept of anticancer drug development is
+based on synthetic lethality (SL), which arises when a
+combination of inactivating mutations in two or more genes
+results in cell death, whereas a mutation in one of the genes
+does not (5). The concept was pioneered by screening
+chemical libraries that specifically kill yeast deletion mutants
+with defects in cell-cycle checkpoints or DNA repair (6, 7).
+Many SL interactions have been identified by making use of
+interference screens in mammalian and human cells (8-11).
+Figure 1 describes the scenarios for discussed in this review.
+The context can be a mutated oncogene (Figure 1A), a
+mutated tumor suppressor gene (Figure 1B), an overexpressed
+oncogene (Figure 1C), two genes as part of a protein kinase
+network (Figure 1D), or genes belonging to the class of DNA
+mismatch repair genes and a second gene involved in either
+DNA repair or DNA synthesis (Figure 1E). Scenarios A and
+C rely on loss of function in only one of the two involved
+genes.
+
+RAS-related SL
+
+Ki-rat sarcoma gene (KRAS) is mutated in 30% of human
+tumors with a prevalence of >90% in pancreatic
+adenocarcinoma. Therefore, the identification of vulnerabilities
+of human tumors expressing oncogenic Ki-RAS is an
+important issue. Large-scale RNA interference (RNAi) screens
+can be used for identification of such vulnerabilities. Cells that
+are dependent on mutant Ki-RAS exhibit sensitivity to
+suppression of the serine-threonine kinase 33 (STK33)
+irrespective of tissue origin, whereas Ki-RAS independent
+cells do not require STK33 (12). STK33 selectively promotes
+viability in Ki-RAS dependent cells in a kinase-dependent
+manner by suppression of mitochondrial apoptosis by p70
+ribosomal protein S6 kinase 1 S6K (RPS6KB1)-induced
+
+159
+
+Correspondence to: Ulrich H. Weidle, Roche Diagnostics, Division
+Pharma, Im Nonnenwald 2, D-82372 Penzberg, Germany. Tel: + 49
+8856602801, e-mail: ulrich.weidle@roche.com
+
+Key Words: DNA repair, oncogenes, poly(ADP) ribose polymerase,
+protein kinase networks, tumor suppressor genes, review.
+
+CANCER GENOMICS & PROTEOMICS 8: 159-172 (2011)
+
+Review
+
+Synthetic Lethality-based Targets for Discovery
+of New Cancer Therapeutics
+
+ULRICH H. WEIDLE1, DANIELA MAISEL1 and DIRK EICK2
+
+1Roche Diagnostics, Division Pharma, Penzberg, Germany;
+2Department of Epigenetics, Center for Integrated Protein Science Munich (CIPSM),
+Helmholtz Center Munich, Munich, Germany
+
+1109-6535/2011 $2.00+.40
+inactivation of the proapoptotic BCL2- associated death
+promoter (BAD) selectively in Ki-RAS-dependent cells.
+Tumor cells with mutated NRAS or HRAS do not exhibit this
+phenomenon. STK33 is not a component of the RAS signaling
+
+pathway and does not serve as an oncogene on its own in
+transformation assays. The lethal interaction between Ki-RAS
+and STK33 is restricted to cells which are functionally
+dependent on Ki-RAS, therefore it is important to identify
+
+CANCER GENOMICS & PROTEOMICS 8: 159-172 (2011)
+
+160
+
+Figure 1. Scenarios for synthetic lethality. Possible molecular interactions leading to synthetic lethality are summarized: A: Activated oncogene and
+inactivation of another gene, B: inactivated tumor suppressor gene and inactivation of another gene, C: overexpression of an oncogene and
+inactivation of another gene, D: inactivation of two kinases as part of a signaling network, E: inactivation of a pair of DNA repair genes and DNA
+synthesis-related/DNA repair genes. Red arrows indicate synthetic lethality.
+characteristics which mediate the dependency of primary
+tumors on Ki-RAS. For the development of anticancer agents
+based on the lethal interaction between Ki-RAS and STK33,
+the elucidation of the physiological role of STK33 is important
+to define possible toxicity-related liabilities.
+A genome-wide RNAi screen was performed to identify
+genes whose inhibition results in reduced viability of Ki-RAS
+mutant cells (13). The identified targets included cyclin A2
+(CCNA2), kinesin-like protein 2C (KIF2C), polo-like kinase 1
+(PLK1) and anaphase-promoting complex/cyclosome (APC/C),
+
+indicating that Ki-RAS cells are vulnerable to mitotic
+perturbations. As predicted from the RNAi analysis, Ki-RAS
+mutant cells are preferentially killed by mitotic spindle function
+targeting drugs such as paclitaxel, a PLK1 inhibitor and the
+proteasome inhibitor bortezomib. Microarray analysis of lung
+adenocarcinomas showed an inverse correlation between the
+mitotic machinery genes with patient survival in a Ki-RAS
+status-dependent manner. All of these proteins are required by
+normal cells as well; therefore the difference between Ki-RAS
+mutant cells and wild-type Ki-RAS is quantitative, not
+
+Weidle et al: Synthetic Lethality-based Targets for Discovery of New Cancer Therapeutics (Review)
+
+161
+
+Figure 2. RAS-mediated synthetic lethality. The second row displays target molecules for Ha-RAS- and Ki-RAS-based synthetic lethality and the
+third row shows the physiological consequences of the inhibition of the effector molecules or the pathway involved. APC: Anaphase-promoting
+complex; BAX: BCL-2-mediated X protein; CDK4: cyclin-dependent kinase 4; JNK: jun N-terminal kinase; NFκB: nuclear factor κB; PKC α, β, γ:
+protein kinase C α, β or γ; STK 33: serine/threonine kinase 33; TBK-1: TANK-binding kinase 1. Green boxes and brown boxes highlight the targets
+involved in synthetic lethal partnerships and blue boxes indicate the mode of action (MOA) responsible for synthetic lethality.
+
+Figure 3. p53 mutant- and Rb mutant-mediated synthetic lethality. The p53 and Rb mutants are all loss-of-function mutations. Target molecules for
+synthetic lethality are shown in the second row and pathways or targets involved in synthetic lethality are shown in the third row. AMPK: AMPactivated
+protein kinase; ATM: ataxia telangiectasia mutated; CHK1: checkpoint kinase 1; GEF-H1: guanine nucleotide exchange factor-H1; MAP4:
+microtubule-associated protein 4; MK2: MAP-kinase activated protein kinase 2; MYT-1: dual-specificity kinase; PAK3: serine/threonine kinase;
+PLK1: polo-kinase 1; SGK2: serine/threonine kinase; Skp2: S-phase kinase associated protein 2; Wee1: nuclear serine/threonine kinase 1. Red and
+brown boxes highlight the partners involved in a synthetic lethal partnership and blue boxes refer to the MOA for synthetic lethality.
+qualitative. Making use of RNAi screening in a cell panel
+composed of wild-type and mutant Ki-RAS cells, TANKbinding
+kinase (TBK1) was also identified as a synthetic lethal
+gene (14). TBK1 is a non-canonical inhibitor of κB protein
+(IκB) that is known to regulate nuclear factor κB (NFκB)
+signaling. These results are based on screening immortalized
+lung epithelial cells (mutant Ki-RAS versus control), 19 cancer
+cell lines in the primary screen and 11 NSCLC cell lines in the
+secondary screen, and were confirmed in xenografts in vivo: 2
+Ki-RAS wild-type and 2 mutant Ki-RAS.
+In a mouse model of NSCLC, an unexpected lethal
+interaction between mutant Ki-RAS and cyclin-dependent
+kinase (CDK) ablation was detected (15). Genetic ablation
+of CDK4 (but not of CDK2 or CDK6) prevented
+development of Ki-RAS-induced NSCLC development in
+vivo. Mutant Ki-RAS was also induced in other tissues such
+as pancreas and colon, but these tissues do not undergo
+hyperplasia or develop tumors and senescence was not
+induced in the absence of CDK4. The results indicate that
+induction of senescence might be specific for proliferating
+tissues and therefore might be selective for tumor cells. It
+remains to be seen whether inhibition of CDK4 in NSCLC
+with mutant Ki-RAS will translate into clinical benefit.
+A synthetic lethal interaction between loss of protein kinase
+Cδ (PKCδ) and mutated HRAS has been described (16) with
+NIH3T3/Ha-RAS and DU145 prostate cancer cells as
+experimental systems. During the apoptotic process, PKCα and
+β are up-regulated and then associated with receptor of
+activated protein kinase C1 (RACK1), an adaptor for activated
+PKCδ and jun N-terminal kinase (JNK). Immunoblotting
+revealed that JNK is phosphorylated, accompanied by caspase
+8 cleavage. The inhibition of JNK abrogates this process
+triggered by PKCδ knockdown. The data suggest that PKCα, β
+and PKCδ function oppositely to maintain a balance supporting
+Ha-RAS cells to survive. Selective killing of Ki-RAS mutated
+colon cancer cells was reported (17). Ki-RAS mutated colon
+cancer cells engineered to produce blue fluorescent protein
+were co-cultured with a subclone in which the mutant Ki-RAS
+allele was eliminated by homologous recombination and
+engineered to produce yellow fluorescent protein. Several
+chemical entities, among them a novel cytidine nucleotide,
+were identified as selective killers of Ki-RAS mutant colon
+cancer cells. A screen in isogenic HCT116 colon carcinoma
+cells with a library targeting 2500 genes revealed that the
+transcription factor SNAIL-2 is only required in RAS mutant
+cells (18, 19). The SL interactions between mutated Ha-RAS,
+Ki-RAS and other partners are summarized in Figure 2.
+
+p53 and Rb-related SL
+
+The corresponding lethal interactions are summarized in
+Figure 3. Protein p53 (p53) is mutated in 50% of human
+tumors, therefore SL in the context of p53 loss of function is
+
+an important issue for future anticancer drug development.
+However, one has to keep in mind that not all mutants result
+in a complete loss of function phenotype (20-22). Original
+attempts included screening of the 60 National Cancer
+Institute (NCI) cancer cell lines for compounds which
+selectively kill cells devoid of p53 (23). Few classes of
+compounds were identified, including paclitaxel.
+Subsequently, microtubule-associated protein-4 (MAP-4), a
+p53 transcriptional repressed target, was identified as a
+possible mediator of susceptibility to paclitaxel killing (24).
+PLK1, a regulator of the G2/M checkpoint was identified as
+consistently upregulated in four paired colon cancer cell lines
+isogenic for p53 deletion or mutation (25). p53-deficient cell
+lines were more sensitive to PLK1 inhibitors and a PLK1
+inhibitor as a single agent caused regression of p53 null
+tumors. Another approach focuses on compound screening in
+a p53 temperature-sensitive model killing cells at 39˚C
+(mutant p53 status), but not at 32˚C (wild-type p53 status)
+(26). Vulnerability of p53 deficient tumor cell lines versus
+metformin, a diabetic drug, was described (27). The
+mechanism of killing is based on inhibition of oxidative
+phosphorylation and activation of AMP-activated protein
+kinase (AMPK) which creates an environment more
+vulnerable to p53 mutant cells. In p53 mutant cells, the G1
+checkpoint is abrogated due to lack of p53-mediated p21
+induction in response to DNA damage. Further abrogation of
+the G2 checkpoint control will selectively kill p53-deficient
+cancer cells through induction of mitotic catastrophe. UCN01,
+a G2 checkpoint abrogator, sensitizes p53 mutant cancer cell
+lines to irradiation abrogating G2 checkpoint control (28).
+Nuclear serine/threonine family kinase WEE-1 is a DNA
+damage-induced kinase involved in the G2/M checkpoint
+preventing cell-cycle progression through inactivation of the
+CDK1 by phosphorylation (29). Inhibition of WEE-1 exerts a
+cytotoxic effect on p53 deficient tumor cells (30). Similar
+observations were made through knock-down experiments for
+other G2/M checkpoint regulators such as checkpoint kinase 1
+(CHK1), dual specificity kinase (MYT1) and serine-threonine
+kinase ataxia telangiectasia mutated (ATM) (31, 32). Mutant
+p53 was shown to induce the GEF-H1 oncogene, a guanine
+nucleotide exchange factor-H1 for RAS homology gene
+family member A (RHOA) resulting in accelerated
+proliferation of tumor cells and therefore is a possible target
+for an SL-related approach (33). Synthetic lethal interaction
+between p53 and the serine/threonine protein kinases SGK2
+and PAK3 was observed making use of a panel of 100 hairpin
+RNAs targeting essential kinases in human papilloma virus
+(HPV)-transformed human cervical carcinoma cells (34). SL
+was mediated as a consequence of p53 inactivation by HPV
+E6 protein (HPV E6). The experiments suggest that the
+mechanisms of SL are different for the two kinases: SGK2
+depletion caused autophagy, whereas PAK3 depletion caused
+caspase 3 activation. These findings suggest that SGK2 and
+
+CANCER GENOMICS & PROTEOMICS 8: 159-172 (2011)
+
+162
+PAK3 are not components of the same pathway but represent
+independent types of sensitivities. The results do not indicate
+whether kinase activity of SGK2 and PAK3 is important for
+SL after p53 loss. PAK3 has been implicated in actin filament
+regulation in proliferating cells (35); for SGK2 no functionrelated
+data are available. Silencing of MAP kinase-activated
+protein kinase 2 (MK2) was shown to exhibit SL in the
+context of p53 deficiency in the presence of DNA damage
+(36). MK2 depletion decreased the phosphorylation level of
+dual specificity phosphatase Cdc 25A/B (mammalian
+homologues of the S. pombe 25A and 25B genes) providing
+initial evidence that MK2 plays an important role in cell-cycle
+checkpoints. Another SL relationship was uncovered for
+retinoblastoma protein (Rb) and S-phase kinase-associated
+protein 2 (Skp2) (37). Knock-out of the pRb target Skp2 in
+pRb+/– mice induced apoptosis and completely inhibited
+tumorigenesis in the pituitary intermediate lobe. Skp2 is a
+substrate-recruiting component of the Skp, Cullin, F-Box
+containing complex SCF (Skp2) E3 ubiquitin ligase. One of
+its substrates is Thr187 phosphorylated p27 (Kip1). A
+p27T187A mutation (knock-in) phenocopied Skp2 knock-out
+in inducing apoptosis following Rb loss. Thus Skp2 knockout
+or p27T187A knock-in are synthetically lethal together
+with pRb inactivation.
+
+Protein Kinase Network and SL
+
+An example of an approved drug exploiting SL is the
+rapamycin derivative CCI-779, which exhibits enhanced
+activity against tumors with mutations in phosphatase and
+tensin homologue (PTEN) compared to tumors with wildtype
+PTEN. Target of CCI-779 is the protein kinase mTOR
+which acts downstream of the phosphoinositide 3-kinaseAKT
+(PI3K-AKT) pathway which is up-regulated in PTENdeficient
+tumors (38). EGFR/Notch signaling seem to be
+essential parts of a protein kinase network in basal-like
+breast cancer (BLBC). 15% of the breast carcinomas are of
+the BLBC subtype and are characterized by absence of
+expression of estrogen receptor (ER), progesterone receptor
+(PR) and human epidermal growth factor receptor 2 (HER2),
+EGFR and Notch-signaling are frequently activated in this
+type of cancer. Inhibition of EGFR or Notch signaling alone
+is insufficient to suppress BLBC tumor cell survival and
+proliferation; simultaneous suppression has uncovered a
+synthetic lethal relationship between the two oncogenic
+pathways (39). The relationship is due to a decrease in AKT
+activation after simultaneous pathway inhibition. Expression
+of an activated form of Notch-1 was shown to restore AKT
+activity after dual pathway blockade. Combined inhibition of
+both pathways also resulted in dramatic improvement of in
+vivo activity. A synthetic lethal approach for treating
+glioblastoma was described (40). Amplification of EGFR or
+truncation mutant of EGFR plays an important role in the
+
+pathogenesis of glioblastoma (41). Suppression of both
+EGFRvIII and AKT-2 significantly inhibited tumor growth
+by inducing apoptosis and prolonged the duration of median
+survival in a glioblastoma xenograft model from 14 to 31.5
+d. However, it was not shown whether knock-down of
+EGFRvIII suppresses AKT activity. Also there is no
+explanation for the observation that SL is specific for the
+knock-down of AKT-2 and not for AKT-1 and AKT-3 keeping
+in mind that these molecules have similar functions. The
+issue of context-specificity of the observed phenomenon has
+also not been investigated. The latter issue can be resolved
+by evaluation of cell lines with different genetic background
+and corresponding knock-down experiments. A striking SL
+relationship has been revealed in the context of studying
+insulin-like growth factor (IGFR-1) inhibitor-resistant
+childhood sarcomas (42). The experiments revealed that
+BMS-536924 resistant cell lines are sensitive to loss of distal
+rather than proximal IGFR-1 signaling components, such as
+ribosomal protein S6 (RPS6), and that BMS-536924 fails to
+block RPS6 activation in resistant sarcoma cell lines and that
+knock-out of macrophage-stimulating 1 receptor tyrosine
+kinase (MST1R, also known as RON), restores BMS-536924
+efficacy even in highly resistant cell lines. It was found that
+loss of MST1R by RNAi blocks downstream RPS6
+activation. This is just another example of the exploitation of
+protein kinase networks for the identification of a synthetic
+lethal relationship. The protein kinase network based SL
+interactions are summarized in Figure 4.
+
+MYC-related SL
+
+Myelocytomatosis viral oncogene homolog MYC is a
+transcription factor overexpressed in many types of neoplasia,
+but its tractability with pharmacologic agents is a problematic
+issue. An alternative is to exploit synthetic lethal interactions
+between overexpressed MYC and other targets in tumor cells,
+leaving non-transformed cells unaffected (43-45). Antimalaria
+agent chloroquine showed MYC-selective killing of
+tumor cells including autophagy resulting in induction of p53
+dependent apoptosis (46). Cell death was not impaired by a
+genetic deficiency of autophagy-related protein (atg7).
+Chloroquine appeared to be active as a preventive agent in a
+mouse model of B-cell lymphoma, but did not mediate tumor
+growth inhibition as a single agent. Overexpression of MYC
+sensitizes fibroblasts to agonists of the death receptor DR5
+(47). It was shown that MYC mediates increased DR5
+expression and signaling as a result of enhanced procaspase 8
+autocatalytic activity. Screening of a library of small RNAs
+revealed a synthetic lethal interaction between MYC
+activation and glycogen synthase kinase 3β (GSK 3β) whose
+inactivation potentiates TNF-related apoptosis-inducing
+ligand (TRAIL) specifically in MYC overexpressing cells
+(48). Small RNA-mediated silencing of GSK-3β prevents
+
+Weidle et al: Synthetic Lethality-based Targets for Discovery of New Cancer Therapeutics (Review)
+
+163
+phosphorylation of MYC on T58, inhibiting recognition of
+MYC by the E3 ubiquitin ligase component Fbox/WD repeat
+containing protein 7 (FBW7). This results in stabilization of
+MYC, up-regulation of TRAIL death receptor 5 (DR5) and
+
+potentiation of DR5 induced apoptosis in vitro and in vivo.
+These findings identify GSK-3β and FBW7 as cancer-related
+targets and demonstrate paradoxically that up-regulation of cMYC
+can result in a preclinical therapeutic benefit. Mutations
+
+CANCER GENOMICS & PROTEOMICS 8: 159-172 (2011)
+
+164
+
+Figure 4. Synthetic lethality with involvement of protein kinase networks. First and second rows highlight targets and pathways involved in the
+synthetic lethal interaction, the third row shows the final synthetic lethal interactions. EGFRvIII: Epidermal growth factor receptor variant III;
+IGFR: insulin-like growth factor receptor; MST1R: macrophage-stimulating 1 receptor tyrosine kinase; mTOR: mammalian target of rapamycin;
+PI3K: phosphoinositide 3 kinase; RPS6: ribosomal protein 6. Dark blue, and light and dark brown boxes highlight the context as well as the partners
+involved in synthetic lethal partnerships and the box in light blue indicates the MOA of the synthetic lethal partnerships.
+
+Figure 5. MYC-related synthetic lethal interactions. The second row displays targets which are involved in synthetic lethality together with c-MYC
+or n-MYC and the third row highlights the underlying MOA. c-MYC and N-MYC are transcription factors. CDK1,2: cyclin-dependent kinases 1 and
+2; CPPC: chromosomal passenger protein complex; FBW7: Fbox/WD repeat-containing protein 7; GSK3β: glycogen synthase kinase 3β. Yellow
+and brown boxes indicate the partners forming a synthetic lethal partnership and blue boxes show the MOA for synthetic lethality.
+in the T58 GSK-3β phosphorylation site of MYC and
+inhibition of its degradation by the proteasome has been
+described in Burkitt’s lymphoma (49, 50), whereas
+inactivating mutations of FBW7 have been reported in several
+types of tumors including breast, ovarian, endometrial,
+pancreatic and colorectal carcinomas (51). These mutations
+correlate with in vitro responsiveness to TRAIL agonists and
+it will be of interest whether they can be used for patient
+stratification (48). Overexpression of MYC mediates
+
+sensitization to apoptosis when CDK1 is inhibited genetically
+or pharmacologically (52). It was shown that CDK1
+inhibition leads to depletion of survivin thus resulting in
+apoptosis. CDK2 is often overexpressed in neuroblastomas
+with poor prognosis and a SL relationship was demonstrated
+with n-MYC amplification (53). Genetic and pharmacologic
+disruption of CDK2 results in p53-dependent apoptosis in nMYC
+amplified neuroblastomas. A synthetic lethal interaction
+has been described between cells that overexpress c-MYC
+
+Weidle et al: Synthetic Lethality-based Targets for Discovery of New Cancer Therapeutics (Review)
+
+165
+
+Figure 6. VHL-mediated synthetic lethality. The rows show targets of VHL for synthetic lethality and the mode of killing of affected cancer cells. CDK6:
+Cyclin-dependent kinase 6; MEK1: mitogen-activated protein kinase 1; MET: hepatocyte growth factor receptor; mTOR: mammalian target of rapamycin.
+Pink and brown boxes indicate the partners forming a synthetic lethal partnership and the blue boxes refer to the MOA for synthetic lethality.
+
+Figure 7. Repair-deficiency based synthetic lethality. The rows show the partners for synthetic lethality; loss of function of the corresponding partner
+molecules results in synthetic lethality. BRCA: Breast cancer susceptibility protein; DHFR: dihydrofolate reductase; DNA Pol β and γ: DNA
+polymerase β and γ; MSH1, MSH2, MSH6, MLH1: mismatch-repair proteins; PARP: poly (ADP-ribose) polymerase; PINK1: PTEN-induced putative
+kinase 1; PTEN: phosphatase and tensin homolog. Purple and brown boxes indicate the partners forming synthetic lethal relationships and the blue
+box highlights the consequence of the synthetic lethal partnership.
+and aurora B kinase (54). Exposure of cells to aurora B
+kinase inhibitor VX-680 selectively kills cells that
+overexpress c-MYC. Supporting RNAi experiments have
+shown that the effect is due to inhibition of aurora B kinase
+and consequent disabling of the chromosomal passenger
+protein complex (CPPC) and ensuing DNA replication in the
+absence of cell division. Bimodal killing due to apoptosis and
+autophagy is not dependent on p53. Efficacy of VX-680 was
+demonstrated in mouse models of B- and T-cell lymphomas
+induced by c-MYC as a transgene. Overexpression of c-MYC
+might be a biomarker for cells which are sensitive to VX-680.
+Independently it was reported that aurora kinases A and B are
+up-regulated by MYC and are essential for the maintenance
+of the malignant state (55). Corresponding SL interactions are
+summarized in Figure 5.
+
+von Hippel-Lindau (VHL) and SL
+
+Molecular and genetic studies have revealed the loss of the
+VHL gene as a frequent and crucial event for the
+pathogenesis of clear cell renal carcinoma. Due to the high
+mortality rate associated with this type of cancer,
+exploitation of this finding for drug development seems to
+be a straight-forward approach. VHL is a component of a
+protein complex that includes elongin B, elongin C and
+cullin 2 and possesses E3 ubiquitin ligase activity (56, 57).
+The VHL gene product is involved in ubiquitination and
+degradation of hypoxia-inducible factor (HIF) which is a
+transcription factor that plays a central role in regulation of
+gene expression by oxygen. Using publicly available data
+and analytical tools, chromomycin A3 (ChA3) was identified
+as an agent that showed genotype-selective toxicity against
+VHL-deficient cells (58). Co-culture of VHL-deficient and
+VHL-positive cells showed selective killing of the VHLdeficient
+cells. Mechanistically ChA3 is known to bind to the
+minor groove of DNA interfering with replication and
+transcription. ChA3 does not seem to mimic the action of
+VHL, because it had little effect on HIF-1α levels. A highthroughput
+screening approach identified STF-6224 as an
+agent with selective toxicity for VHL-deficient renal cancer
+cells (59, 60). It was demonstrated that the cytotoxicity of
+STF-62247 is due to deregulated autophagy. The reduction
+of protein levels of autophagy-related genes Atg5, Atg7 and
+Atg9 reduce the sensitivity of VHL-deficient cells to killing
+by STF-62247. This compound induced the formation of
+large intracytoplasmic vacuoles characteristic of cells
+undergoing autophagy, which is a lysosomal degradation
+pathway that regulates turnover of organelles and long-lived
+proteins. There is no evidence for apoptosis as a mediator of
+cell death since there was no increase in DNA condensation,
+increase in annexin V/propidium iodide or activation of
+caspase 3. Making use of yeast genetics it was shown that
+trafficking through the Golgi apparatus is an important
+
+pathway in STF-62247-induced autophagic toxicity. Several
+genes important in Golgi trafficking were identified as VHL
+targets. VHL–/– cells display increased sensitivity to mTOR
+(mammalian target of rapamycin) inhibition which can also
+promote autophagy (61). Making use of a synthetic lethal
+screen it was shown that CDK6 is required for the survival of
+VHL-negative cells (62). Sensitization to inhibition to
+mitogen activated protein kinase kinase 1 (MEK1) and
+hepatocyte growth factor receptor MET was observed.
+Corresponding SL interactions are summarized in Figure 6.
+
+Repair-related Lethality
+
+DNA can be damaged by chemicals, chemotherapy, UVirradiation,
+ionizing radiation and reactive species derived
+from cellular and oxidative metabolism. Single-strand breaks
+can be repaired through base excision repair (BER), bulky
+adducts through nucleotide excision repair (NER) and
+mismatches through insertion or deletion by mismatch repair
+(MMR) (63, 64). Double-strand breaks are repaired by
+homologous recombination (HR), a process that restores the
+original DNA sequence, or by non-homologous end-joining
+(NHEJ) or single-strand annealing (SSA) (63, 64). The latter
+processes lack fidelity to germ-line sequence.
+Poly (ADP-ribose) polymerase (PARP) and breast cancer
+susceptibility (BRCA) proteins are essential for the repair of
+DNA breaks and when defective, lead to the accumulation of
+mutations introduced by error-prone DNA repair. BRCA1 and
+BRCA2 regulate repair of damaged DNA through HR (65).
+At the site of double-stranded DNA damage, one strand of
+the DNA is degraded creating a stretch of single-stranded
+DNA which is bound by RAD51 (eukaryotic homolog of
+prokaryotic RecA protein) forming filamentous structures
+(66). The RAD51 foci promote recognition of homologous
+sequences on the sister chromatid and catalyse pairing
+between complimentary sequences. PARP is a nuclear protein
+that is activated when DNA is damaged (67, 68). Of the six
+PARP enzymes, PARP1 is essential for repair of single-strand
+breaks predominantly through the BER mechanism (69).
+Continuous inhibition of PARP leads to double-stranded
+breaks during DNA replication resulting in stalling of
+replication forks at the location of DNA damage. Repair of
+double-stranded DNA breaks depends on the HR pathway
+(69). The corresponding SL interactions are summarized in
+Figure 7. The MMR pathway is involved in removal of DNA
+base mismatches which arise during DNA replication or are
+introduced by DNA damage. Four gene products are essential
+for MMR: MSH2, MLH1, PMS2 and MSH6. Mutations in
+these predispose to hereditary nonpolyposis colon cancer
+(Lynch syndrome) (70). DNA damage is recognized by the
+components of the MMR pathway. The MutSα
+(MSH2/MSH6) heterodimer recognizes single-base
+mismatches and small insertion-deletion loops (IDL). The
+
+CANCER GENOMICS & PROTEOMICS 8: 159-172 (2011)
+
+166
+MutSβ (MSH2/MSH3) heterodimer recognizes singlenucleotide
+IDL and longer IDLs. The mismatches are
+associated with MutL, which is recognized by MutS, are
+excised and repaired. Details of the mammalian MMR as a
+post-replicative process are described in (71).
+
+BRCA and PARP Inhibition-mediated SL
+
+BRCA deficient cells are 1000-fold more sensitive to single
+agent PARP inhibition than are wild-type BRCA1/2 cells
+(72, 73). Women with a heterozygous deleterious germline
+mutation of BRCA1 or BRCA2 carry an increased risk of
+developing breast or ovarian cancer (74). Since BRCAs are
+involved in HR and the dependence of DNA breaks by repair
+through PARP1, these cells are exquisitely sensitive to PARP
+inhibition. Cells in persons with an inherited BRCA mutation
+contain a wild-type and a mutated BRCA gene. Malignant
+cells, however, are homozygous with respect to the BRCA
+mutation status. HR remains intact in the presence of a
+normal BRCA allele, therefore non-malignant cells should be
+much less affected by PARP inhibition. The preclinical
+studies demonstrated a synthetic lethal interaction of PARP1
+inhibition with BRCA1/2 mutation. In xenograft studies,
+pharmacological inhibition of PARP1 by AG14361 or
+KU0058684 resulted in tumor regression in BRCA1/2-
+deficient cell lines compared to BRCA1/2 wild-type or
+heterozygote cell lines (72, 73). Clinical proof-of-concept
+has been achieved with PARP inhibitor olaparib. Antitumor
+efficacy has only been observed with BRCA1/2 mutation
+carriers (75). Poly-ADP-formation and γH2X was assessed
+in peripheral blood mononuclear cells and plucked eyebrowhair
+follicles and indicated that more than 90% PARP
+inhibition was achieved with tolerable doses. Phase II studies
+in chemotherapy-refractory breast and ovarian tumors with
+BRCA1/2 mutations indicated 41% and 33% objective
+response rates according to the response evaluation criteria
+in solid tumors (RECIST) (76, 77).
+PARP inhibitors are also evaluated in patients with triple
+negative breast cancer (TNBC), an aggressive subtype of
+breast cancer that lacks expression of ER and PR and HER2
+(78). BRCA-deficient basal-like tumors and TNBC show
+clinical and pathologic similarities (79-81). The BRCA
+pathway and subsequent HR is compromised in a subset of
+TNBC patients. The molecular basis is due to different
+mechanisms such as decreased BRCA1 messenger RNA
+expression (82), BRCA gene promoter methylation,
+overexpression and copy number gain of ID4, a negative
+regulator of BRCA1 (83), and copy number aberrations
+affecting genes within the BRCA damage-response pathway.
+These observations support the concept of defective HR in
+patients with TNBC which is referred to as BRCAness (84).
+Preliminary results of evaluation of a number of PARP
+inhibitors in patients with BRCA-mutated tumors and TNBC
+
+are summarized in (85). RAD51 foci formation is explored as
+a biomarker for HR function and sensitivity to PARP
+inhibitors. Cells with intact HR form RAD51 foci within the
+nucleus due to the localization of RAD51 to double-stranded
+DNA breaks. These foci can be visualized by
+immunohistochemistry. Dysfunction of BRCA1/2 restricts
+formation of RAD51 foci (86).
+
+MMR and SL
+
+A synthetic lethal interaction between MSH2 deficiency and
+treatment with methotrexate has been identified (87).
+MSH2-deficient cells accumulate 8-oxo-guanine (8-oxoG)
+after treatment with methotrexate in contrast to MSH2-
+proficient cells. Accumulation of this DNA-damage product
+seems to be incompatible with cell survival. A
+corresponding phase II study is ongoing with incorporation
+of 8-oxoG as a biomarker. In extension of these findings it
+was shown that MSH2-deficient cells are killed by
+inhibition of DNA polymerase β (DNA Polβ), in contrast
+MLH1/DNA Polβ SL was not observed. Inhibition of DNA
+Polγ is synthetically lethal with MLH1 deficiency (88).
+Interestingly, MSH2/DNA Polβ SL correlated with nuclear
+accumulation of 8-oxoG DNA lesions, whereas in the case
+of MLH1/DNA Polγ SL, 8-oxoG DNA lesions accumulated
+in mitochondria pointing to distinct nuclear and
+mitochondrial pathways of MMR (89, 90). Current estimates
+indicate that defective MMR affects 15-17% of all colorectal
+carcinomas (91, 92). MMR deficiency might result from
+inheritance of a mutated MMR gene, a somatic mutation of
+a MMR gene, epigenetic modification of MMR genes or a
+combination of mutation and epigenetic modification.
+Affected genes are MLH1, MSH2, MSH6 and PMS2 (93,
+94). Recently it was shown that silencing of PTEN-induced
+putative kinase 1 (PINK1) is synthetically lethal in MMR
+deficient cell lines based on dysfunction of MSH2, MLH1
+or MSH6 (95). Inhibition of PINK1 resulted in increase of
+reactive oxygen species and nuclear and mitochondrial
+oxidative lesions based on 8-oxoG. Increase of 8-oxoG
+lesions holds true for SL based on MSH2/Polβ, MLH1/Polγ
+and PINK1/MMR deficiency, indicating that quantitation of
+8-oxoG lesions might be a potential drug efficacy marker.
+Loss of PTEN function has been shown to result in SL
+together with PARP inhibition (96). Cells with PTEN
+deficiency were 20-fold more sensitive to PARP inhibitors.
+PTEN null cells showed defective checkpoint regulation
+after treatment with ionizing irradiation resulting in
+aneuploidy (97) and chromosomal instability in PTEN null
+cells due to decreased levels of RAD51, which is involved
+in double-stranded break repair (98). Interestingly, the effect
+of PTEN in this context was not dependent on its
+phosphatase activity, but was at least partially dependent on
+its ability to shuttle to the nucleus.
+
+Weidle et al: Synthetic Lethality-based Targets for Discovery of New Cancer Therapeutics (Review)
+
+167
+Contextual SL
+
+Hypoxia can inhibit DNA MMR, NER and double-strand
+break repair (DBR) (99). Functional heterozygosity of
+repair-related genes can occur through mutation, deletion
+or hypermethylation. Hypoxia can lead to decreased
+expression of the remaining allele of repair-related genes
+and therefore contribute to tumor progression, but also
+render hypoxic cells susceptible to SL. Reduced expression
+of genes involved in HR such as RAD51, BRCA1 and
+BRCA2 under hypoxic conditions has been reported (100,
+101). PARP inhibitors might confer SL in this context with
+the caveat that proliferation of tumor cells is required
+because PARP inhibitors confer their toxicity by inducing
+collapsed replication forks (73). It has been shown that
+reductions in DNA-repair gene expression by moderate
+levels of hypoxia is still compatible with proliferation (99).
+Recently it was shown that under acute or prolonged
+hypoxia, survival of tumor cells was dramatically decreased
+after treatment with PARP inhibitors, including a decrease
+in RAD51 (102). Irradiated tumors that had been pretreated
+with PARP inhibitors had a lower survival time than
+control xenografts that were treated with vehicle alone.
+Notably, non-tumor cells were not killed by the
+combination of irradiation and PARP inhibitors. The issues
+as outlined have to be investigated in more detail,
+especially in the context of imaging techniques for
+monitoring tumor hypoxia and responsiveness to inhibitors
+of repair-related pathways.
+
+Conclusion
+
+As already outlined, treatment of tumors addicted to activated
+pathways can result in significant improvement in terms of
+progression-free survival and overall survival. Oncogene
+addiction due to activating point mutations or fusion proteins
+is an Achilles’ heel of defined subtypes of cancer regarding
+treatment with anti-cancer therapeutics. Patients with
+corresponding alterations can be identified with appropriate
+diagnostic tests resulting in identification of a subpopulation
+of patients with potential sensitivity for the corresponding
+drugs. Another Achilles’ heel of tumor cells is based on
+vulnerability of tumor subtypes with respect to simultaneous
+inactivation of two genes such as inactivation of a tumor
+suppressor gene and another defined gene, inhibition of a
+mutated or overexpressed oncogene together with another
+gene, or inactivation of two defined genes which are part of a
+protein kinase network. Inactivation status of tumor suppressor
+genes, mutation status, overexpression of oncogenes and
+activation status of protein kinases under consideration can be
+determined in tumor biopsies with diagnostic tests depending
+on the targets under consideration. Sequencing of the genome
+of defined tumor entities in combination with RNAi-based
+
+screens for synthetic lethality will probably identify new
+targets for personalized treatment of cancer.
+As outlined many clinical studies covering DNA-repair
+related SL are ongoing and a clearer picture between the
+usefulness of biomarkers, clinical efficacy and correlation
+with defined target-related molecular alterations will emerge.
+Clinical proof-of-concept has been demonstrated by inhibition
+of PARP in BRCA1/2-deficient breast and ovarian tumors and
+inhibition of mTOR in renal carcinomas with VHL mutations.
+Clinical studies targeting other types of SL will soon be
+started. Also the potential development of resistance
+mechanisms will be a matter of investigation. Reconstitution
+of BRCA function has been observed after treatment of
+BRCA-deficient (point mutated) breast cancer cells with a
+PARP inhibitor (103). Restoration of p53 and VHL tumor
+suppressor gene function based on mutations after treatment
+with a corresponding inhibitor are also formally possible, but
+have not been reported. Substitution of protein kinase-related
+SL interactions by activation of other pathways or the
+emergence of activating mutations in the case of targeting
+enzymes are also possible alerting issues. In any case, SLbased
+approaches for treatment of cancer will extend the
+concept of personalized treatment of cancer.
+

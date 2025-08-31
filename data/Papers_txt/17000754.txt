@@ -1,0 +1,585 @@
+Abstract
+RNA interference technology allows the systematic genetic analysis of the molecular alterations in cancer cells and how these alterations affect response to therapies. Here we used small interfering RNA (siRNA) screens to identify genes that enhance the cytotoxicity (enhancers) of established anticancer chemotherapeutics. Hits identified in drug enhancer screens of cisplatin, gemcitabine, and paclitaxel were largely unique to the drug being tested and could be linked to the drug's mechanism of action. Hits identified by screening of a genome-scale siRNA library for cisplatin enhancers in TP53-deficient HeLa cells were significantly enriched for genes with annotated functions in DNA damage repair as well as poorly characterized genes likely having novel functions in this process. We followed up on a subset of the hits from the cisplatin enhancer screen and validated a number of enhancers whose products interact with BRCA1 and/or BRCA2. TP53
++/−
+matched-pair cell lines were used to determine if knockdown of BRCA1, BRCA2, or validated hits that associate with BRCA1 and BRCA2 selectively enhances cisplatin cytotoxicity in TP53-deficient cells. Silencing of BRCA1, BRCA2, or BRCA1/2-associated genes enhanced cisplatin cytotoxicity ∼4- to 7-fold more in TP53-deficient cells than in matched TP53 wild-type cells. Thus, tumor cells having disruptions in BRCA1/2 network genes and TP53 together are more sensitive to cisplatin than cells with either disruption alone.Gene silencing by RNA interference is a powerful genetic tool to identify genes involved in specific biological processes in model organisms and human cells (
+3
+,
+14
+,
+18
+,
+38
+,
+42
+,
+56
+). It is now possible to perform unbiased genetic screens using cultured human cells. Recently, small-scale siRNA (small interfering RNA) and shRNA (small hairpin RNA) screens in human cells have successfully identified genes that modulate cell growth, apoptosis, chemoresistance, and chemosensitivity (
+4
+,
+44
+,
+52
+). While establishing proof-of-concept, most of these early screens tested gene sets too limited in size to provide a comprehensive view of the genes involved in the cellular phenotypes being tested. Several groups have employed nearly genome-wide screens of shRNAs expressed from vectors to identify genes that modify certain phenotypes (
+6
+,
+40
+,
+49
+,
+59
+). To date, these shRNA screens have been limited to phenotypes amenable to positive selection, but other approaches like bar code screening have shown promise (
+6
+). Systematic well-by-well testing of genomic-scale siRNA or shRNA libraries for modulation of nonselectable phenotypes in human cells has not been widely attempted.
+Cancer cells undergo numerous genetic changes that drive cellular transformation from normal cell progenitors. Anticancer drug target discovery is now frequently directed toward understanding and exploiting genetic alterations that exist in tumor cells. Knowledge of genetic alterations in tumors may lead to better use of conventional therapeutics or development of new therapeutics that offer better therapeutic windows. Loss-of-function genetic screens can identify genes whose loss of function enhances cytotoxicity of chemotherapeutics in cells with defined genetic lesions.
+The TP53 transcription factor is a central mediator of the cellular response to DNA damage and a variety of other stresses and is one of the most frequently mutated genes in human cancers (
+19
+,
+57
+). TP53 status can also effect the chemosensitivity of tumor cells (
+15
+). The identification of genes that, when silenced, selectively enhance the chemosensitivity of TP53 mutant cancer cells but not TP53 wild-type cells would make attractive drug targets. Drugs developed to these genes have the potential to selectively increase the toxicity of the chemotherapeutic in the cancer cell.
+Genetic screens in model organisms have led to identification of drug enhancers whose loss increases sensitivity to the drug (
+43
+,
+54
+,
+56
+,
+61
+). We hypothesized that identification of enhancers for commonly used cancer therapeutics would lead to new strategies for therapeutic application of these drugs and/or identification of new targets for the development of combination chemotherapies. Here we used small- and genome-scale siRNA screens to identify genes that enhance the sensitivity of human tumor cells to the cancer chemotherapeutic cisplatin. The screen hits included known genes that function in DNA repair, cell cycle checkpoints, and survival signaling, as well as genes with no annotated functions. Selected hits from these screens were validated and then tested on matched TP53-positive and TP53-deficient cells to identify enhancers selective for tumor cells that have lost TP53 function. We show that silencing of BRCA1, BRCA2, and certain genes whose products interact with BRCA1/2, selectively enhances cisplatin cytotoxicity in TP53-deficient cells.MATERIALS AND METHODS
+Cell lines and chemicals.
+HeLa, A549, and TOV21G cells were obtained from the American Type Culture Collection, Rockville, MD (catalogue numbers CCL-2, CCL-185, and CRL-11730, respectively). Isogenic pairs of TP53-negative and -positive A549 and TOV21G cells were generated by transfection with a vector expressing an shRNA targeting TP53 (
+7
+) or an empty vector, respectively. Stably transfected lines were selected for drug resistance and phenotyped for the functional status of the TP53 DNA damage checkpoints(s). Cells designated “TP53 positive” retained wild-type TP53 function (i.e., showed G
+1
+cell cycle arrest after treatment with doxorubicin). Cells designated “TP53 negative” lacked the TP53 G
+1
+checkpoint following doxorubicin treatment and showed decreased expression of TP53 target genes (see Fig. S1 in the supplemental material). Cell lines are maintained in exponential growth in Dulbecco's modified Eagle's medium supplemented with 10% fetal bovine serum (Invitrogen, Carlsbad, CA). Paclitaxel and cisplatin were obtained from EMD Biosciences, Inc. (San Diego, CA).
+siRNA design and siRNA library composition.
+siRNA sequences were designed with an algorithm developed to increase efficiency of the siRNAs for silencing while minimizing their off-target effects (
+33
+). siRNAs were ordered from Sigma-Proligo (The Woodlands, TX). The siRNA library targets ∼20,000 unique human genes, with three siRNAs per gene. The library represents genes comprising the druggable genome (
+30
+), membrane proteins, enzymes, pathways of therapeutic interest, and RefSeq (releases 6 to 8;
+http://ncbi.nih.gov/RefSeq/
+). The sequences of siRNA duplexes used for follow up experiments are listed in Table S1 in the supplemental material.
+siRNA transfection.
+HeLa cells were transfected with siRNAs using Oligofectamine (Invitrogen, Carlsbad, CA). For screening, three siRNAs targeting the same gene were pooled at equal molarity (final concentration of each siRNA, 17 nM; total siRNA concentration, 50 nM). TOV21G cells and A549 cells were transfected with Oligofectamine and SilentFect (Bio-Rad, Hercules, CA), respectively. Semiautomated transfections on HeLa cells were carried out as follows. One day prior to transfection, cells were seeded in 384-well tissue culture plates (Matrix Technologies, Hudson, NH) at 600 cells/well in 50 μl/well of complete medium using a WellMate (Matrix Technologies, Hudson, NH). On the day of transfection, 18 μl of OptiMEM (Invitrogen, Carlsbad, CA) was added to siRNA pools that were preplated in a 384-well plate with 2 μl of 10 μM siRNA pool per well. In a separate tube, 1.75 ml of Oligofectamine was mixed with OptiMEM to a final volume of 35 ml, the mix was poured into a reservoir, and 20 μl of the mixture was then added to each well of the siRNA plate using a Biomek FX laboratory automation workstation (Beckman Coulter, Inc., Fullerton, CA). Reagent/siRNA complexes were allowed to form for 15 to 20 min at room temperature. A Biomek FX was then used to transfer 5 μl of this siRNA/reagent mixture to each cell plate well. The plates were incubated for 4 h at 37°C in a 5% CO
+2
+incubator. An aliquot of 10 μl/well of Dulbecco's modified Eagle's medium-10% fetal bovine serum with or without drug was added to each well to achieve the desired final concentration of each agent. The plates were incubated at 37°C and 5% CO
+2
+for another 68 h before cell viability was determined. Fully automated transfections were performed in the same way except that a robotic arm performed all plate transfers.
+Cell viability assays.
+A cell viability assay was determined using AlamarBlue reagent (BioSource International, Camarillo, CA). Medium from 384-well plates was removed and replaced with 25 μl/well complete medium containing 10% (vol/vol) AlamarBlue and 1/100 volume of 1 M HEPES buffer, pH 7.4. The plates were then incubated for 1 to 4 h at 37°C before fluorescence was measured (544-nm excitation, 590-nm emission) with an Envison multilabel plate reader (PerkinElmer, Wellesley, MA). The fluorescence signal was corrected for background (no cells). Cell growth was expressed as percent viability relative to the median value of wells transfected with an siRNA to luciferase. EC
+50
+s (50% effective concentrations) were calculated using GraphPad Prism software (San Diego, CA).
+Cell cycle analysis.
+Transfections were performed in six-well plates (50,000 cells/well). At 24 h after transfection, the supernatant from each well was combined with cells harvested from each well by trypsinization. Cells were collected by centrifugation at 1,200 rpm for 5 min, fixed with ice cold 70% ethanol for ∼30 min, washed with phosphate-buffered saline, and resuspended in 0.5 ml of phosphate-buffered saline containing propidium iodide (10 μg/ml) and RNase A (1 mg/ml). After a final incubation at 37°C for 30 min, cells were analyzed by flow cytometry using a FACSCalibur flow cytometer (Becton Dickinson). Data were analyzed using FlowJo software (Tree Star, Ashland, OR).
+Quantitative PCR.
+mRNA silencing was quantified by real-time PCR using an ABI PRISM 7900HT sequence detection system and Assays-on-Demand gene expression products (Applied Biosystems, Foster City, CA). The mRNA value for each gene was normalized relative to human GUSB (catalogue no. 431088E) mRNA levels in each RNA sample. The following Assays-on-Demand reagents were used in this study: CHEK1 (Hs00176236_m1), BRCA1 (Hs00173233_m1), BRCA2 (Hs00609060_m1), BARD1 (Hs00184427_m1), RAD51 (Hs00153418_m1), SHFM1 (Hs00428232_m1), BCL2L1 (Hs00236329_m1), DVL2 (Hs00182901_m1).RESULTS
+siRNA library screens identify enhancers of chemotherapeutic cytotoxicity.
+Initial efforts were focused on validating an siRNA screening platform for drug enhancer screens in human tumor cells. To do this, we screened an siRNA library targeting 2,400 genes to identify genes that enhanced sensitivity of HeLa cells to treatment with cisplatin, gemcitabine (Gemzar), or paclitaxel, anticancer drugs that affect different phases of the cell cycle (Fig.
+​
+(Fig.1A).
+1A
+). Cisplatin cross-links DNA and disrupts the S phase of the cell cycle. Gemcitabine is a cytidine analog whose incorporation into DNA results in chain termination and affects cell growth near the G
+1
+/S transition. Paclitaxel disrupts mitosis (M phase) by preventing depolymerization of microtubules. The experimental design of our enhancer screens is outlined in Fig.
+​
+Fig.1B.
+1B
+. HeLa cells were plated and then transfected using a semiautomated system 24 h later. Drugs were added (no drug, an ∼EC
+10
+dose, or an ∼EC
+50
+dose) 4 h posttransfection, and cell viability was measured at 72 h posttransfection. The addition of drug at 4 h posttransfection was selected because this allowed adequate time for transfection to occur without possible interference from drug effects and because it streamlined semiautomated and fully automated screening work flows. As positive controls for our viability assays, we included siRNAs targeting the polo-like kinase, which inhibited cell growth ≥90% during a 72-h growth assay.
+Open in a separate window
+FIG. 1.
+Experimental design for identification of enhancers/suppressors of DNA damage. (A) Schematic view of the cell cycle and sites of action of selected anticancer drugs. Dotted horizontal lines indicate approximate phases of the cell cycle affected by the anticancer drugs gemcitabine, cisplatin, and paclitaxel. (B) Schematic view of the design and timing of siRNA screens.
+The results of representative enhancer screens performed in HeLa cells with each drug are shown in Fig.
+2A, B, and C
+. The percent viability of cells transfected with the siRNA pool in the absence of drug is compared to the percent viability of cells transfected with the siRNA pool in the presence of drug. The red diagonal lines on each plot represent a twofold enhancement or suppression of the growth inhibition by each drug. Hits in each of the screens were defined as mean log
+2
+(% viability plus drug/% viability no drug) − 2 standard deviations (SD). The overlap in hits between replicate screens for each drug is discussed further below. A few of the siRNA pools that reproducibly and uniquely enhanced sensitivity to each of the drugs are selected for further discussion, and these genes are highlighted on each of the plots in Fig.
+​
+Fig.2
+2
+.
+Open in a separate window
+FIG. 2.
+Identification of genes that enhance cisplatin, gemcitabine, and paclitaxel cytotoxicity. HeLa cells grown in 384-well plates were transfected with individual siRNA pools targeting ∼2,400 human genes (3 siRNAs/gene). Four hours posttransfection, cells were treated with (
+y
+axis) or without (
+x
+axis) the following drugs: (A) cisplatin, 100 ng/ml; (B) gemcitabine, 7 nM; (C) paclitaxel, 1.2 nM. Cell growth was then measured at 72 h posttransfection using an Alamar blue assay and is expressed as the percentage of control viability (i.e., viability relative to wells transfected with an siRNA to luciferase). Diagonal red lines indicate twofold enhancement or suppression by drug treatment. Selected genes, which are labeled black, blue, or red, preferentially enhance cell killing by gemcitabine, paclitaxel, or cisplatin, respectively. (D) One-dimensional clustering of the overlap in consensus hits from cisplatin (Cis.), gemcitabine (Gem.), and paclitaxel (Tax.) siRNA screens. Consensus hits were defined as mean log
+2
+(% viability plus drug/% viability with no drug) − 2 standard deviations in at least 2 of 3 screens for cisplatin and gemcitabine. For paclitaxel, consensus hits were defined as being as 1.7 standard deviations from the mean in two of two screens. Red color indicates the pool scored as a hit, and the gray color indicates that the pools were represented on the hit list.
+Noteworthy among the genes that enhanced growth inhibition by cisplatin were numerous genes involved in DNA repair or checkpoint activation. Some of these genes have scored as cisplatin enhancers in model organism screens. For instance, disruption of REV1 (REV1L) (not highlighted; see also Table S2 in the supplemental material) enhanced cisplatin cytotoxicity in
+Saccharomyces cerevisiae
+(
+61
+). Silencing of checkpoint genes, ATR and CHEK1, also enhanced sensitivity to cisplatin in our experiments. ATR and CHEK1 kinases have well-characterized roles in activating cell cycle checkpoints in response to DNA damage (
+1
+,
+5
+). In addition, there may be direct functional interactions between ATR/CHEK1 and the BRCA pathway (
+62
+). However, the most prominent genes scoring as cisplatin enhancers are members of the BRCA pathway (BRCA1, BARD1, BRCA2, and RAD51, flagged in Fig.
+​
+Fig.2A
+2A
+).
+The gemcitabine screen yielded a largely different set of hits than the cisplatin screen. Silencing of components of the BRCA pathway did not enhance sensitivity to the replication stress caused by gemcitabine. This likely reflects the use of different DNA repair pathways to different types of DNA damage. One strong gemcitabine enhancer was the ribonucleotide reductase subunit M1 (RRM1). The activity of RRM1 is specifically targeted by a cellular metabolite of gemcitabine (
+53
+). Enhanced sensitivity to drugs following disruption of their target is seen in
+S. cerevisiae
+drug enhancer screens (
+43
+). Flagged in Fig.
+​
+Fig.2B
+2B
+are two pools targeting RRM1. Both pools enhanced gemcitabine cytotoxicity, but one pool was more effective at inhibiting cell growth than the second pool in the absence of drug. This is likely do to differences in target mRNA knockdown, but we have not directly tested this hypothesis. A few gemcitabine enhancers were also cisplatin enhancers, most notably CHEK1 (Fig.
+​
+(Fig.2B
+2B
+).
+The third drug screened was paclitaxel, which would not be expected to initiate a direct DNA damage signal unlike gemcitabine or cisplatin. The mitotic kinase genes STK6 (AURKA, Aurora A) and BUB1 enhanced growth inhibition by paclitaxel when silenced (Fig.
+​
+(Fig.2C).
+2C
+). Our demonstration that STK6 silencing enhances sensitivity to paclitaxel is consistent with a report showing that overexpression of STK6 increases resistance to paclitaxel (
+2
+) and confirms a more recent report demonstrating that siRNAs targeting STK6 sensitize pancreatic tumor cell lines to taxanes (
+29
+) Thus, silencing mitotic checkpoint genes enhances sensitivity to agents that act in mitosis, whereas silencing DNA damage checkpoint genes enhances sensitivity to DNA damaging agents that act in G
+1
+or S.
+We did not find a substantial common set of enhancers for the drugs we screened, as observed in
+S. cerevisiae
+drug enhancer screens (
+50
+). Examples of genes that enhanced responses to multiple drugs in yeast include those that maintain integrity of the cell wall and ion channels and pumps that may regulate drug uptake or export (
+50
+). A pairwise comparison of the hits defined by using a mean log
+2
+(% viability plus drug/% viability no drug) −
+x
+SD method revealed generally more significant overlap (
+P
+value <1 × 10
+−6
+) in the hits from replicate screens performed with the same drug than in hits from screens performed with different drugs (Table
+​
+(Table1).
+1
+). When consensus hits from each drug screen were compared then the hits were almost exclusively drug specific. Shown in Fig.
+​
+Fig.2D
+2D
+is the overlap in hits that scored in two of three repeats of the cisplatin or gemcitabine screens or 2 of 2 paclitaxel screens The consensus hit list for each drug is provided in Table S2 in the supplemental material. There was one gene (CHEK1) in common between the cisplatin and gemcitabine lists, and one gene (CARS) in common between the gemcitabine and paclitaxel lists. Our failure to find a common set of hits from all drugs in our screens may reflect the limited size of the siRNA library tested or the particular drugs tested. Taken together, however, our findings show that the siRNA screens yielded hits that were largely specific for each drug and included genes linked to the drug's mechanism of action.
+TABLE 1.
+Hits from replicate screens of the same drug show more significant overlap than hits from screens comparing different drugs
+Drug and screen no.
+No. of hits with drug and screen no.
+a
+:
+Cisplatin
+Gemcitabine
+Paclitaxel
+1
+2
+3
+1
+2
+3
+1
+2
+Cisplatin
+1
+NA
+2
+1.3E−11*
+NA
+3
+3.1E−07
+1.2E−12
+NA
+Gemcitabine
+1
+2.0E−02
+1.1E−01
+2.4E−02
+NA
+2
+2.3E−02
+3.8E−02
+8.3E−02
+1.6E−09
+NA
+3
+1.2E−01
+4.0E−01
+9.0E−02
+1.1E−06
+2.4E−13
+NA
+Paclitaxel
+1
+2.5E−08
+1.4E−01
+4.6E−01
+2.4E−05
+3.7E−01
+1.8E−01
+NA
+2
+6.9E−03
+7.7E−01
+5.6E−01
+7.3E−05
+2.6E−01
+2.4E−01
+9.8E−14
+NA
+Open in a separate window
+a
+NA, not applicable; *, significance in overlap of pairwise comparisons calculated from the hypergeometric distribution without correction for multiple testing.
+Genome-scale siRNA screens identify BRCA1/2 pathway genes as enhancers of cisplatin cytotoxicity.
+To extend the identification of genes that enhance cisplatin cytotoxicity to the complete human genome, we constructed a genome-scale siRNA library and developed a fully automated transfection system to perform genome-scale screens. Our siRNA library comprised siRNA pools targeting ∼20,000 genes (3 siRNAs/pool). We screened this library for cisplatin enhancers using the same experimental protocols described above for the data in Fig.
+​
+Fig.2
+2
+but using a fully automated platform. Hits from the primary screen were selected based on a mean log
+2
+(% viability of drug treated/% viability of no drug) − 2 SD selection criteria (Fig.
+​
+(Fig.3A)
+3A
+) and run in a confirmation screen in triplicate under the same conditions as the primary screen (Fig.
+​
+(Fig.3B).
+3B
+). For follow-up experiments, we selected the top-scoring hits from the confirmation screen [defined by mean log
+2
+(% viability of drug treated/% viability of no drug) − 2 SD] (Fig.
+​
+(Fig.3B).
+3B
+). As depicted in Fig.
+​
+Fig.3C,
+3C
+, we started with over 22,000 siRNA pools and followed up on 146 siRNA pools in the assays described below.
+Open in a separate window
+FIG. 3.
+A genome-scale siRNA screen identifies enhancers of cisplatin cytotoxicity in HeLa cells. HeLa cells grown in 384-well plates were transfected with individual siRNA pools targeting ∼20,000 human genes (3 siRNAs/gene). Four hours posttransfection, cells were treated with (
+y
+axis) or without (
+x
+axis) cisplatin at 100 ng/ml. Cell growth was then measured at 72 h posttransfection using an Alamar blue assay and is expressed as the percentage of control viability (viability relative to wells transfected with an siRNA to luciferase). The log
+2
+(% viability plus drug/% viability with no drug) is plotted for each pool in the genome (A) or confirmation (B) screen. Pools that were 2 standard deviations (std dev) from the mean log
+2
+(% viability plus drug/% viability with no drug) were defined as hits and are indicated in blue. Nonscoring pools are red. (C) A “screening funnel” depicting the number of hits followed up on at each stage of the follow up process.
+To confirm that siRNA pools selected as hits from the cisplatin screen were enhancers of growth inhibition by cisplatin in HeLa cells, the single siRNAs comprising the pools used in the screen were resynthesized and the siRNA pools regenerated. We reasoned that if silencing of the gene enhanced sensitivity to cisplatin, then the dose titration curve for cisplatin would shift to the left (i.e., EC
+50
+shift). Therefore, we tested whether hits from the siRNA screens enhanced growth inhibition by cisplatin in semiautomated EC
+50
+shift assays. Cells were transfected with a constant concentration of siRNA (50 nM) and then subjected to increasing concentrations of cisplatin (nine doses). Cell growth was measured in a 72-h assay, and EC
+50
+s for growth inhibition by cisplatin were calculated. The selected hits were processed in two sets. The 74 top-scoring siRNA pools in the confirmation screen comprised one set (Fig.
+​
+(Fig.4A),
+4A
+), and the next best 72 siRNA pools comprised the second set (Fig.
+​
+(Fig.4B).
+4B
+). Of the 74 top-enhancing hits selected from the cisplatin screen, 38 decreased the EC
+50
+of cisplatin ≥2-fold (average EC
+50
+of three replicate experiments) relative to control siRNA (Fig.
+​
+(Fig.4A;
+4A
+; see also Table S3 in the supplemental material). Thus, ∼50% of the hits in this gene set were confirmed as cisplatin enhancers in the EC
+50
+shift assays.
+Open in a separate window
+FIG. 4.
+Verification of siRNA pools that enhance cisplatin cytotoxicity in HeLa cells. EC
+50
+shift assay to confirm cisplatin enhancers. siRNA pools from the screen for which results are shown in Fig.
+​
+Fig.3B
+3B
+were further tested in the cisplatin EC
+50
+shift assay in HeLa cells. These assays tested siRNA pools for enhancement of cisplatin (cis) cytotoxicity as in Fig.
+​
+Fig.2,
+2
+, except drug was tested at nine cisplatin doses. HeLa cells were transfected with siRNA pools and then treated with increasing concentrations of cisplatin. Cell growth was measured at 72 h posttransfection using an Alamar blue assay and is expressed as the percentage of control viability. The top 74 hits were followed up on as one set (A), and the next 72 top scoring hits were followed up on as a second set (B). Red curves denote confirmed enhancers (i.e., siRNA pools that decreased the cisplatin EC
+50
+by ≥2-fold); gray lines denote siRNA pools that decrease cisplatin cytotoxicity <2-fold; blue lines are a luciferase control siRNA. Panel A is representative of 3 repeat experiments, and panel B is representative of 2 repeat experiments. (C) Deconvolution of siRNA pools targeting BRCA pathway genes. EC
+50
+shift assays were performed as above except that we tested both the pool and the single siRNAs comprising the pool. The bar graph represents the relative decrease in the EC
+50
+of cisplatin in HeLa cells transfected with each siRNA or pool.
+We tested an additional set of 72 hits in the EC
+50
+shift assay. In this set, 15 genes decreased the EC
+50
+of cisplatin by ≥2-fold (average EC
+50
+s of two replicate experiments) relative to control siRNA for a confirmation rate of ∼21% (Fig.
+​
+(Fig.4B;
+4B
+; see also Table S3 in the supplemental material). Therefore, weaker scoring genes from the screen were more likely to be false-positive hits, as defined by the arbitrary cutoff criteria of a twofold EC
+50
+shift. Thus, we confirmed that 53 pools decreased the cisplatin EC
+50
+by at least twofold. At this stage in our follow-up approach, these hits are considered confirmed, meaning the pools reproduced the phenotype observed in the screen, but the hit is not yet validated, meaning that the phenotype is observed with more than one pool or single siRNA targeting the gene. Table S3 in the supplemental material contains the list of confirmed hits as well as hits that were subsequently validated with multiple siRNAs.
+The list of confirmed cisplatin enhancers contained multiple members of the BRCA pathway as well as multiple members of the RAD6/RAD18 DNA repair pathway, suggesting an enrichment of genes that mediate DNA repair. To examine the list of confirmed cisplatin enhancers using an unbiased analysis, we tested whether the confirmed that the hit list from the genome screen was enriched for annotation terms in the Gene Ontology Biological Process hierarchy. As expected, the enhancer gene list was significantly enriched for genes involved in DNA repair and recombination (E values between 10
+−3
+and 10
+−5
+) (see Table S4 in the supplemental material). Thus, genome-scale siRNA screens can be used to reveal pathways that are important in regulating the response to a specific chemotherapeutic. In addition to genes implicated in DNA repair, the confirmed list of cisplatin enhancers contains genes involved in regulating cell cycle checkpoints and cell survival signaling and also many genes with no annotated function. Indeed, 3 of the top 10 confirmed hits are genes (RFWD3, MGC33214, and C5orf5) that have no defined cellular function.
+Silencing of BRCA1/2 pathway genes selectively enhances cisplatin cytotoxicity in TP53-deficient cells.
+We elected to follow up on the BRCA pathway genes (BRCA1, BARD1, BRCA2, RAD51, and SHFM1) in greater detail. First, because siRNAs have off-target activity (
+33
+,
+35
+) and the experiments above used a pool of siRNAs to target the mRNAs, we tested the single siRNAs targeting each gene to determine if the phenotype of enhancing cisplatin cytotoxicity was observed with multiple siRNAs in the pool. For BRCA1, BARD1, BRCA2, RAD51, and SHFM1, we found that at least two of the siRNAs in the pool decreased the EC
+50
+of cisplatin, validating these genes as enhancers of cisplatin cytotoxicity. In contrast, siRNAs targeting EPHA1 and DVL2, genes that did not score as hits in our screens, did not enhance cisplatin cytotoxicity (Fig.
+​
+(Fig.4C).
+4C
+). We also validated these genes with a second approach. We used siRNAs with chemical modifications on both the antisense and sense strands. These modifications significantly reduce off-target silencing with only slight reductions in on-target silencing (
+34
+). BRCA1, BRCA2, RAD51, and SHFM1 were also validated using this method with at least two chemically modified siRNAs enhancing cisplatin cytotoxicity at least twofold or greater (see Table S3 in the supplemental material). BARD1 did not have two chemically modified siRNAs that enhanced cisplatin cytotoxicity at a 2-fold cut but did have two siRNAs at 1.6-fold or better. The reduced rate of validation by the chemically modified siRNAs relative to their unmodified counterpart is likely due to their slightly reduced on-target silencing efficiency. Pool deconvolution and chemically modified siRNAs were also used to validate a second DNA repair pathway that had multiple members score as hits. Multiple members of the RAD6/RAD18 pathway, which mediates translesion DNA repair (
+51
+), were validated using pool deconvolution and chemically modified siRNAs (see Table S3 in the supplemental material). Thus, it is unlikely that the observed phenotype of silencing BRCA1, BARD1, BRCA2, RAD51, and SHFM1 or members of the RAD6/RAD18 pathway is due to siRNA off-target activity.
+Having ruled out that enhancement of cisplatin cytotoxicity by members of the BRCA1/2 pathway was due to siRNA off-target activity, we next determined whether BRCA1, BARD1, BRCA2, RAD51, and SHFM1 would function equivalently in isogenic cell pairs with or without TP53 function. The experiments above utilized HeLa cells, which are TP53-deficient (
+26
+,
+63
+). We constructed isogenic cell pairs by transfecting cells having wild-type TP53 (TOV21G and A549) with an empty plasmid vector or a vector directing expression of an shRNA targeting TP53 (
+7
+). Silencing of TP53 mRNA was confirmed by PCR, and functional loss of TP53 was confirmed by exposing cells to the DNA-damaging agent doxorubicin and monitoring cell cycle progression. The levels of TP53 mRNA were reduced greater than 90% in cells containing the shRNA targeting TP53 than empty vector control cells (see Fig. S1 in the supplemental material). The majority of cells transduced with the empty vector arrest in G
+1
+following treatment with doxorubicin. However, the cells transduced with the shRNA targeting TP53 no longer had an intact G
+1
+cell cycle checkpoint and arrested almost exclusively in G
+2
+(see Fig. S1 in the supplementa; material). In addition, gene expression profiling revealed down-regulation of TP53 target genes such as CDKN1A (p21) and TP53INP1 (
+36
+) in both the TOV21G TP53 shRNA line (∼3.4-fold and ∼4.7-fold, respectively) (see Fig. S1 in the supplemental material) and the A549 TP53 shRNA line (∼2.6-fold and ∼3.4-fold, respectively) (see Fig. S1 in the supplemental material).
+siRNA pools targeting BRCA1, BARD1, BRCA2, RAD51, and SHFM1 were tested in nine-point cisplatin titration experiments on TOV21G control (TP53
++
+TOV21G) and TOV21G TP53sh (TP53
+−
+TOV21G) cells using the same method as described for Fig.
+​
+Fig.4A.
+4A
+. We also tested CHEK1 because it is a well-characterized regulator of DNA damage checkpoints whose disruption can selectively sensitize TP53-deficient cells to DNA damage (
+41
+,
+58
+). In addition, we tested BCL2L1 (BCLx), a regulator of apoptosis, and EPHA1 and DVL2, which did not enhance growth inhibition by cisplatin in HeLa cells. As shown in Fig.
+​
+Fig.5A,
+5A
+, silencing of BRCA1, BARD1, BRCA2, RAD51, SHFM1, and CHEK1 enhanced growth inhibition by cisplatin approximately four- to sevenfold more in the TP53
+−
+TOV21G cells than in TP53
++
+TOV21G cells. Silencing of BCL2L1 enhanced growth inhibition equivalently in both TP53
++
+TOV21G and TP53
+−
+TOV21G cells (∼3.5-fold and 5-fold, respectively), whereas silencing EPHA1 or DVL2 did not enhance growth inhibition by cisplatin relative to the control siRNA. The selectivity of EC
+50
+enhancement could not be attributed to differential silencing, since we measured equivalent mRNA knockdown across the eight different genes we tested in TP53
++
+TOV21G and TP53
+−
+TOV21G cells (Fig.
+​
+(Fig.5B
+5B
+).
+Open in a separate window
+FIG. 5.
+Silencing of BRCA1 selectively enhances apoptosis in TP53
+−
+cells in response to DNA damage. (A) Identification of BRCA pathway genes as selective cisplatin enhancers in TP53
+−
+cells. TP53
+−
+TOV21G or TP53
++
+TOV21G cells were transfected with siRNAs prior to treatment with increasing amounts of cisplatin (9 doses). Cell growth was measured at 72 h posttransfection. Shown is the relative decrease in cisplatin EC
+50
+caused by transfection with each siRNA pool in TP53
+−
+TOV21G or TP53
++
+TOV21G cells. These results are representative of three experiments. (B) siRNAs exhibit similar silencing efficiency in TP53
+−
+TOV21G and TP53
++
+TOV21G cells. TP53
+−
+TOV21G and TP53
++
+TOV21G cells were transfected with the siRNAs used for panel A. RNA was isolated at 24 h posttransfection, and levels of target mRNAs were determined by quantitative PCR. Shown are the mRNA levels for cells transfected with the siRNA pool relative to cells transfected with a control siRNA targeting luciferase (Luc). (C) Isogenic TP53
++
+(top row) or TP53
+−
+(bottom row) TOV21G or A549 cells were transfected with an siRNA to luciferase (left column) or BRCA1 (right column) prior to treatment with 1 μg/ml or 2 μg/ml cisplatin for TOV21G and A549 cells, respectively. At 72 h posttransfection, cells were fixed, stained with propidium iodide, and analyzed for cell cycle distribution by flow cytometry. The labeled gates indicate the percentage of sub-G
+1
+(dead) cells, and the arrows indicate the relative positions of the 2N and 4N cell populations.
+For a subset of the genes (BRCA1, RAD51, and CHEK1) we also tested each of the single siRNAs comprising the pool in the EC
+50
+assay on the TOV21G TP53
++/−
+matched pair. For each pool, at least two of three siRNAs selectively enhanced cisplatin cytotoxicity in the TP53-deficient cell line (see Fig. S2 in the supplemental material). We also observed that each of the individual siRNAs mediated equivalent levels of silencing in each of the matched-pair cell lines (see Fig. S2 in the supplemental material). We conclude, therefore, that enhancement of cisplatin cytotoxicity in TP53
+−
+cells by siRNAs targeting the BRCA network is not likely due to siRNA off-target effects or differences in siRNA silencing efficiency.
+The AlamarBlue assays we have used did not distinguish between reduced cell numbers caused by cell cycle arrest or caused by cell death (cytotoxicity). To better understand the mechanism of cisplatin enhancement, we used flow cytometry to measure increases in cell death following BRCA1 siRNA transfection and cisplatin treatment (i.e., increases in sub-G
+1
+amounts of DNA). As shown in Fig.
+​
+Fig.5C,
+5C
+, silencing of BRCA1 in the presence of cisplatin increased the amount of cell death (sub-G
+1
+cells) in TP53
+−
+TOV21G cells much more than in TP53
++
+TOV21G cells. BRCA1 silencing was equivalent in the two lines (71 to 75% silencing of BRCA1 mRNA in each lines). We obtained similar results using isogenic TP53
++
+A549 and TP53
+−
+A549 cells (Fig.
+​
+(Fig.5C)
+5C
+) (70 to 73% silencing in each line) and with siRNAs targeting BRCA2, BARD1, and RAD51 (data not shown). In contrast, silencing of BCL2L1 caused equivalent increases in the amounts of sub-G
+1
+DNA in both TP53
++
+and TP53
+−
+cells following cisplatin treatment (data not shown). In addition to the TOV21G TP53 shRNA cell line and the A549 TP53 shRNA cell lines used above, we also tested cell lines made TP53-deficient by overexpression of the human papillomavirus E6 oncoprotein, which targets p53 for degradation (
+46
+). These matched-pair cell lines gave similar results to the TP53 shRNA matched-pair cell lines (data not shown). Thus, targeting multiple components of the BRCA1/2 pathway selectively enhanced cytotoxicity of cisplatin in TP53
+−
+cells compared to TP53
++
+cells.DISCUSSION
+Although the utility of genome-scale RNA interference screens using model organisms is well established, relatively few genome-scale screens have been performed using human cells. Our data demonstrate several advantages to performing genome-scale screens in human cells. One major advantage is that genome-scale screens permit the unbiased identification of pathways or networks involved in a phenotype. For instance, we identified two signaling networks that enhance sensitivity of TP53-deficient cells to cisplatin (BRCA1/2 and RAD6/RAD18 networks). Small-scale screens using subgenome libraries will by definition yield more biased and/or incomplete results.
+Screens of genome-scale libraries can also assign function to uncharacterized genes. We identified many genes with no annotated function in our screens, several of which probably function in DNA damage repair pathways (see Table S3 in the supplemental material). RFWD3 contains two WD domain G-beta repeats and a C3HC4 type (RING) zinc finger, a domain associated with ubiquitin ligase activity. RFWD3 is a weak homologue (reciprocal BLAST match score, E = 6e−05) of the yeast protein BRE1, an E3 ubiquitin ligase with Rad6p (
+22
+,
+32
+,
+60
+). The cisplatin enhancer activity of RFWD3 suggests, therefore, that this protein may function in the human RAD6/18 pathway. Another gene of unknown function on the confirmed hit list is C5ORF5, a putative GTPase activating protein for the Rho family (InterPro domains, Rho GTPase activation protein). The closest yeast homolog for C5ORF5 is YDR379W (RGA2, reciprocal best BLAST hit, E = 1e−08). RGA2 binds to PSY2 (
+23
+,
+24
+), a novel yeast gene conferring sensitivity to platinum agents (PSY, “platinum sensitivity”) (
+61
+). In other experiments, we found that silencing of C5ORF5 increased the intensity of DNA damage foci containing phosphorylated H2AFX, suggesting a role for this protein in DNA damage repair (not shown). The nonannotated confirmed enhancers from our screens require validation, but we expect the confirmed hit list will be a rich source of genes that have important but uncharacterized functions in the cellular response to cisplatin.
+Another advantage of using human cells for genome-scale screens is that they reveal pathways that may not be operative in model organisms. Simon et al. (
+54
+) observed in yeast drug enhancer screens that the mechanism of action of a drug and the type of DNA damage it induces determined which specific genetic defects enhanced cytotoxicity of the drug being tested. We observed similar results in our subgenomic screens, where each of the three drugs we tested gave a unique profile of drug enhancers, and at least some of the enhancers could be linked to the drugs mechanism of action. Similar to Simon et al. (
+54
+), we also show that genetic disruption of multiple members in the same DNA repair pathway resulted in a similar sensitivity profile to the chemotherapeutic agents tested. Another point of similarity between our observations and those of Simon et al. (
+54
+) is that disruption RAD6/RAD18 pathway enhances sensitivity to cisplatin. Members of this pathway that scored as hits in the genome screen included UBE2A (RAD6A), REV3L, REV1L, MAD2L2, and POLH (see Table S3 in the supplemental material). Thus, there are many similarities in our findings and those from yeast drug enhancer screens. However, a particularly striking difference in our studies and those of Simon et al. (
+54
+) was the enhancement of cisplatin cytotoxicity by multiple members of the BRCA1/2 signaling network, a network that does not exist in yeast.
+BRCA1, BARD1, and BRCA2 are members of a multiprotein signaling network which recruits the RAD51 recombinase to nuclear foci following DNA damage (
+12
+). SHFM1 interacts with BRCA2 and regulates incorporation of RAD51 into DNA damage foci (
+27
+). One of the phenotypes of BRCA1, BRCA2, or RAD51 mutant cells is their hypersensitivity to DNA cross-linking agents such as cisplatin (
+11
+). Cisplatin mediates DNA damage by forming both intra- and interstrand cross-links. Our results suggest that genes in the BRCA1/2 molecular complex have largely nonredundant functions critical to the cellular response to the cisplatin-induced DNA damage.
+BRCA1 has direct and indirect interactions with many different proteins to provide a variety of functions in cell cycle progression, DNA repair, cell cycle checkpoint activation, transcriptional regulation, and others (
+48
+). Even in responding to DNA damage, BRCA1 differentially interacts with cellular proteins to function in DNA repair and regulating DNA damage checkpoints (
+25
+,
+48
+). One of the pathways that BRCA1 interacts with is the Fanconi anemia (FA) pathway (a genetic cancer susceptibility syndrome) (
+9
+,
+11
+). BRCA2 (FANCD1) deficiency defines one of the complementation groups for FA (
+31
+). It is striking that none of the FA genes scored as enhancers in our cisplatin screens. This may indicate that the siRNAs targeting the FA genes were not effective at silencing the target mRNAs. However, we found that FANCD2 and FANCF transcripts were reduced by ≥75% following transfection of siRNA pools targeting these genes (data not shown). This level of silencing is similar to what we measured with BCRA1 and BRCA2 siRNA pools that markedly enhance cisplatin activity (Fig.
+​
+(Fig.5B).
+5B
+). However, the FA genes may require higher thresholds of silencing to enhance cisplatin cytotoxicity. Alternatively, the FA pathway may not be as rate limiting for the response to DNA damage induced by cisplatin in the cell lines used in this study, or the stability of the FA proteins is such that protein levels were not adequately reduced in the time frame of the assays used in this study. Finally, it has been reported that FANC mutant cells have mild defects in homology-directed DNA repair compared to severe defects observed in BRCA1 or BRCA2 mutant cells (
+47
+). The viability assay used here may not be sensitive enough to detect changes that result from a mild defective repair phenotype. Thus, while BRCA1 and BRCA2 interact with many proteins, only a subset of those interactions enhanced cisplatin cytotoxicity in our assays.
+Yet another advantage of using human cells for genome-scale screens is that it permits the direct testing for targets of potential therapeutic benefit. Hartwell et al. (
+28
+) described strategies for identifying drugs or drug targets that selectively kill cells having a molecular context like one found in tumors. These approaches resemble synthetic lethal screening, a genetic technique used in
+S. cerevisiae
+(
+13
+), which identifies mutations individually tolerated, but which cause lethality in combination. This approach was proposed as a method for identification of new anticancer targets and/or drugs (
+20
+,
+21
+,
+37
+).
+In this study, we identified genes that selectively enhance sensitivity of TP53-deficient cells to cisplatin. While similar conceptually, our results differ in important ways from synthetic lethality in yeast. For one thing, simultaneous disruptions of TP53 and BRCA1 are not lethal in short-term assays in the absence of DNA damage. Another difference is that our enhancers confer quantitative rather than qualitative differences in viability to TP53
+−
+cells in the presence of cisplatin. These differences may result from our use of short-term assays rather than long-term growth used to demonstrate synthetic lethality. We do not currently know how combinations of these gene disruptions and/or cisplatin affect cell growth over a longer term. The experimental approach used in this report is not effective in longer term assays because of the transient silencing achieved using siRNAs.
+Our results demonstrate synergistic or synthetic interactions resulting from loss of TP53 and BRCA1/2 network genes in the presence of DNA damage. Previous reports showed that that loss of BRCA1 function significantly enhances sensitivity of TP53
+−/−
+mouse embryo fibroblasts to DNA-damaging agents. These studies, however, did not evaluate the effects of BRCA1 disruption on TP53
++
+and TP53
+−
+cells or the effects of disruption of other pathway members identified here (BRCA2, RAD51, BARD1, and SHFM1) (
+17
+,
+64
+). Here we confirm and extend these previous findings by demonstrating the contribution of TP53 deficiency to the hypersensitivity of BRCA1-deficient cells to DNA-damaging agents. We also demonstrate that disruption of multiple components of the BRCA1/2 network besides BRCA1 confers this hypersensitivity. This may be important therapeutically, since many more tumors exhibit signs of “BRCA-ness” than actually have mutations in BRCA1 or BRCA2 (
+55
+). Our results extend to DNA-damaging agents other than cisplatin, since silencing of multiple members of the BRCA network also selectively enhance sensitivity of TP53-deficient cells to camptothecin and doxorubicin (data not shown). In addition, recent reports showed that poly(ADP-ribose)polymerase inhibitors are selectively cytotoxic for BRCA1- or BRCA2-deficient cells (
+8
+,
+16
+). Taken together, these findings suggest that mutations in a subset of BRCA network genes may expose an ever widening variety of cancers to therapeutic sensitivity to DNA damaging agents. Our results also suggest that cells with defects in the BRCA pathway may be more responsive to treatment with cisplatin than BRCA1/2-proficient cells. Indeed, clinical results support that patients with defects in BRCA1 or BRCA2 have better responses to platinum-based therapies than patients with BRCA1/2 intact (
+10
+,
+39
+,
+45
+). The ability to perform genome-scale siRNA screens in cells of different genetic backgrounds in the presence of different combinations of approved chemotherapeutic drugs may provide a rational way to guide clinical trials.Supplementary Material
+[Supplemental material]
+Click here to view.Acknowledgments
+We thank members of the following departments at Rosetta Inpharmatics: the Gene Expression Lab for automation assistance; the Informatics Department for siRNA design and database development; Rosetta Biosoftware for development of data analysis software; and the Cancer Biology Department for invaluable assistance and support.
+Rosetta Inpharmatics, LLC, is a wholly owned subsidiary of Merck & Co., Inc.Footnotes
+▿
+Published ahead of print on 25 September 2006.
+‡
+Supplemental material for this article may be found at
+http://mcb.asm.org/
+.

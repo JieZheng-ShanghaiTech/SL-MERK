@@ -1,0 +1,1368 @@
+Abstract
+Rearrangements of the proto‐oncogene
+RET
+are newly identified potential driver mutations in lung adenocarcinoma (
+LAD
+). However, the absence of cell lines harboring
+RET
+fusion genes has hampered the investigation of the biological relevance of
+RET
+and the development of
+RET
+‐targeted therapy. Thus, we aimed to identify a
+RET
+fusion positive
+LAD
+cell line. Eleven
+LAD
+cell lines were screened for
+RET
+fusion transcripts by reverse transcription‐polymerase chain reaction. The biological relevance of the
+CCDC6‐RET
+gene products was assessed by cell growth, survival and phosphorylation of
+ERK
+1/2 and
+AKT
+with or without the suppression of
+RET
+expression using
+RNA
+interference. The efficacy of
+RET
+inhibitors was evaluated
+in vitro
+using a culture system and in an
+in vivo
+xenograft model. Expression of the
+CCDC6‐RET
+fusion gene in
+LC
+‐2/ad cells was demonstrated by the
+mRNA
+and protein levels, and the genomic break‐point was confirmed by genomic
+DNA
+sequencing. Mutations in
+KRAS
+and
+EGFR
+were not observed in the
+LC
+‐2/ad cells.
+CCDC
+6‐
+RET
+was constitutively active, and the introduction of a
+siRNA
+targeting the
+RET 3
+' region decreased cell proliferation by downregulating
+RET
+and
+ERK
+1/2 phosphorylation. Moreover, treatment with
+RET
+‐inhibitors, including vandetanib, reduced cell viability, which was accompanied by the downregulation of the
+AKT
+and
+ERK
+1/2 signaling pathways. Vandetanib exhibited anti‐tumor effects in the xenograft model. Endogenously expressing
+CCDC
+6‐
+RET
+contributed to cell growth. The inhibition of kinase activity could be an effective treatment strategy for
+LAD
+.
+LC
+‐2/ad is a useful model for developing fusion
+RET
+‐targeted therapy.Lung cancer is the most common cause of cancer death worldwide.
+1
+The identification of oncogenic driver genes is to select the increasing number of small molecule inhibitors targeting these gene products.
+2
+,
+3
+In particular, in lung adenocarcinoma (LAD), the most dominant histological subtype of lung cancer, the application of kinase inhibitors for cases with specific gene alterations has been successful, that is, gefitinib and erlotinib for
+EGFR
+mutation‐positive cases and crizotinib for
+ALK
+fusion‐positive cases.
+4
+,
+5
+,
+6
+,
+7
+Furthermore, accumulating evidence has demonstrated somatic mutations and rearrangements of potential oncogenes, including
+BRAF, ERBB2
+and
+ROS1,
+in LAD.
+8
+,
+9
+,
+10
+RET
+is one of the newest LAD driver genes.
+11
+,
+12
+,
+13
+,
+14
+,
+15
+RET
+gene is located on chromosome 10 and encodes a receptor tyrosine kinase,
+16
+,
+17
+and the oncogenic potential of this gene product has been suggested in several tumors, including thyroid cancer.
+18
+,
+19
+,
+20
+Recently, five independent groups identified aberrant fusion genes,
+KIF5B‐RET
+and
+CCDC6‐RET
+in clinical samples of LAD.
+11
+,
+12
+,
+13
+,
+14
+,
+15
+Ectopically expressed RET fusion products afforded NIH3T3 cells with anchorage‐independent growth and tumorigenicity in nude mice.
+11
+,
+14
+Furthermore, KIF5B‐RET‐expressing H1299 cells exhibited growth factor‐independent growth.
+11
+These findings strongly suggest the oncogenic activity of RET fusion products and also suggest the potential therapeutic efficacy of multi‐kinase inhibitor targeting of RET using the abovementioned cells. However, LAD‐derived cell lines harboring
+RET
+fusion genes had not been identified. Recently, Matsubara
+et al
+.
+21
+screened LAD cell lines that were sensitive to a RET inhibitor vandetanib and found a
+CCDC6‐RET
+fusion gene‐harboring cell line, LC‐2/ad.
+We have independently screened cell lines established from Japanese LAD samples by RT‐PCR and found that LC‐2/ad cells expressed the
+CCDC6‐RET
+fusion gene product. We further examined whether LC‐2/ad cells depend on RET fusion‐mediated signaling. In addition, the antitumor effect of RET inhibitors in LC‐2/ad cells was evaluated
+in vitro
+and
+in vivo
+.Materials and Methods
+Complete materials and methods were described in the supplementary information (Data S1. Materials and Methods).
+Purchased materials
+Cell lines were purchased from RIKEN Bio Resource Center, the Immuno‐Biological Laboratories (Fujioka, Japan) and American Type Culture Collection. Procedures for western blotting was previously described.
+22
+Primary antibodies specific for RET and phospho‐RET Tyr‐905 were purchased from Epitomics (Burlingame, CA, USA) and Cell Signaling Technologies (Danvers, MA, USA), respectively. RET‐targeting siRNA was purchased from Life Technologies (Carlsbad, CA, USA). Gefitinib, sunitinib malate and sorafenib were purchased from Santa Cruz Biotechnology (Dallas, TX, USA), Sigma‐Aldrich (St. Louis, MO, USA) and Toronto Research Chemicals (Toronto, ON, Canada), respectively. Vandetanib, AZD6244 and BEZ235 were purchased from Selleck (Houston, TX, USA).
+Multiplex RT‐PCR
+Reported
+KIF5B/CCDC6‐RET
+fusion variants were detected by multiplex RT‐PCR according to the procedures described elsewhere.
+11
+,
+14
+Genomic DNA sequencing
+LC‐2/ad DNA was captured with custom hybridization probes targeting
+CCDC6
+intron 1 and
+RET
+whole gene (Agilent) followed by parallel sequencing on the MiSeq system (Illumina).
+Real‐time RT‐PCR
+Procedures for real‐time RT‐PCR was previously described.
+22
+The PCR primers used in the present study are shown in Table S1.
+In vivo
+studies
+LC2/ad cells at 5.0 × 10
+6
+were subcutaneously inoculated to 8‐week‐old athymic nude mice (Clea Japan).
+23
+Vandetanib was administered once daily as a homogeneous suspension by oral gavage at a dosage of 50 mg/kg body weight.
+24
+The tumor volume was calculated as the product of a scaling factor (π/6) and the tumor length, width and height.
+22
+The study was approved by the Institutional Ethics Review Committee for animal experiments at the National Cancer Center.
+Immunohistochemical analysis
+The procedure for hematoxylin eosin staining and immunohistochemical (IHC) was previously described.
+22
+,
+25
+Microarray analysis
+Background information of clinical samples was described in a previous report.
+26
+The study was approved by the Institutional Review Boards of the National Cancer Center. Total RNA was analyzed using Affymetrix (Santa Clara, CA, USA) U133Plus2.0 arrays. The data were processed by the MAS5 algorithm, and the mean expression level of a total of 54 675 probes was adjusted to 1000 for each sample.Results
+Identification of the
+CCDC6‐RET
+fusion gene in a Japanese LAD cell line
+To identify
+RET
+fusion‐derived mRNA expression in human LAD cell lines, all reported
+KIF5B‐RET
+and
+CCDC6‐RET
+gene products were screened by multiplex RT‐PCR in 11 cell lines derived from Japanese patients. LC‐2/ad cells were found to express
+CCDC6‐RET
+mRNA at significantly higher levels, whereas the other cell lines did not exhibit any fusion gene products (Fig.
+1
+a). The expressed fusion
+RET
+product was sequenced, and an in‐frame fusion of
+CCDC6
+exon 1 and
+RET
+exon 12, which was identical to the previously reported
+CCDC6‐RET
+fusion products, was identified (Fig.
+1
+b).
+14
+We then identified a breakpoint of chromosome 10 by retrieving genomic DNA fragments, including the entire
+RET
+gene and intron 1 of
+CCDC6
+, by target capture system followed by parallel sequencing. The identified break‐point between
+CCDC6
+intron 1 and
+RET
+exon 11 was confirmed by Sanger sequencing (Fig.
+1
+b). Quantitative RT‐PCR revealed that the expression of 3′ end of
+RET
+was increased comparable to that of
+CCDC6
+, whereas the transcript level of the 5′ end of
+RET
+was significantly lower (Fig.
+1
+c). Consistent with the amount of transcript, western blotting using an antibody recognizing the C‐terminus of RET isoform 2 detected a 60‐kDa specific band equivalent to the estimated size of the fusion protein composed of 503 amino acids (GeneBank
+{"type":"entrez-protein","attrs":{"text":"BAM36435","term_id":"401664166","term_text":"BAM36435"}}
+BAM36435
+), whereas no significant signal was detected that approximated the size of wild‐type RET, 170‐kDa (Fig.
+1
+d).
+11
+Taken together, we concluded that LC‐2/ad cells express
+CCDC6‐RET
+fusion gene products.
+KRAS
+exon 2 and
+EGFR
+exon 19 and 21 were examined by Sanger sequencing, but no obvious mutation was confirmed (Fig. S1).
+Open in a separate window
+Figure 1
+Identification of the
+CCDC6‐RET
+fusion gene. (a) Detection of
+RET
+fusion transcripts in lung adenocarcinoma (
+LAD
+) cell lines by multiplex reverse transcription‐polymerase chain reaction (
+RT
+‐
+PCR
+). (b) Sanger sequencing around the fusion point of the
+cDNA
+(left) and the breakpoint of the genomic
+DNA
+(right) of
+CCDC6‐RET
+in
+LC
+‐2/ad cells. (c) 3′ region‐specific expression of
+RET
+mRNA
+in
+LC
+‐2/ad cells. The 5′ or 3′ region of
+RET
+and
+CCDC6
+cDNA
+level was normalized to glyceraldehyde 3‐phosphate dehydrogenase (
+GAPDH
+) expression. The data are shown as the mean ± standard deviation (
+SD
+) (
+n
+= 3). Asterisks indicate that
+mRNA
+expression were below the level of detection. (d) Specific expression of the
+CCDC
+6‐
+RET
+fusion protein. Whole‐cell lysates of
+LC
+2/ad and
+PC
+‐9 cells and
+HEK
+293 cells transfected with wild‐type
+RET
+(
+RET
+) or
+CCDC
+6‐
+RET
+expression plasmids were subjected to western blot analysis to detect
+RET
+protein isoform 2. The
+LC
+‐2/ad cells showed an approximately 60‐
+kD
+a (red arrowhead) but not 170‐
+kD
+a (blue arrowhead) band.
+CCDC6‐RET‐dependent ERK1/2 phosphorylation and the proliferation of LC‐2/ad cells
+We suppressed
+RET
+expression by RNAi to characterize the function of CCDC6‐RET in LC‐2/ad cells. For avoiding off‐target siRNA effects, two different sequences of siRNA directed against the 3′ region of
+RET
+(siRET#1 and #2) and a nontargeting siRNA (siNC) were used. When compared to siNC, a significant reduction in mRNA expression was observed by quantitative RT‐PCR detecting the 3′ end of the
+RET
+mRNA: 66.5% for siRET#1 and 94.2% for siRET#2 (Fig. S2). Western blot analyses also revealed significant decreases in the expression of CCDC6‐RET protein (60‐kDa) upon the introduction of siRET#1 and #2 compared to the control siNC in the LC‐2/ad cells (Fig.
+2
+a). To examine whether the downstream signaling pathway was altered by the introduction of siRNA, the phosphorylation of ERK1/2 and AKT was examined. The phospho‐ERK1/2 signal was significantly decreased by the suppression of CCDC6‐RET expression, whereas the decrease of AKT phosphorylation was marginal (Fig.
+2
+a). The involvement of RET fusion in LC‐2/ad cell proliferation was then examined. The number of live CCDC6‐RET‐suppressed cells decreased throughout the experiment, and the difference became significant at day 3 and thereafter (Fig.
+2
+b). To address the growth suppression further, the cell cycle of the siRNA‐treated cells were assessed by the DNA ploidy pattern. The LC‐2/ad cells treated with siRET exhibited significant increases in the percent of cells arrested in the G1 phase relative to the cells treated with siNC (Fig.
+2
+c). However, the apoptotic cells, as assessed by Annexin V positivity, was not significantly increased by the suppression of RET expression (Fig.
+2
+d).
+Open in a separate window
+Figure 2
+Suppression of
+CCDC
+‐
+RET
+expression by si
+RNA
+in
+LC
+‐2/ad cells. (a) Western blot analysis of si
+RET
+‐treated
+LC
+‐2/ad cells. The si
+RNA
+transfected cell lysates were applied to the western blotting. (b) Involvement of
+RET
+suppression in cell growth inhibition.
+LC
+‐2/ad cells transfected with si
+RNA
+s were incubated for the indicated times. The data are shown as the mean ± standard deviation (
+SD
+) (
+n
+= 4). *
+P
+< 0.01 (Student's
+t
+‐test). (c,d) The
+DNA
+ploidy (c) and Annexin V‐positive population (d) of si
+RET
+‐transfected
+LC
+‐2/ad cells. After 72 h of si
+RNA
+transfection, the cells were subjected to
+DNA
+ploidy analysis and Annexin V staining. The data are shown as the mean ±
+SD
+(
+n
+= 4).
+RET‐dependent transcriptome profile in LC‐2/ad cell
+To characterize the transcriptome profile, which is regulated by CCDC6‐RET and its downstream signaling pathway, siRET#2 and siNC treated LC‐2/ad cells were subjected to genome‐wide expression profiling using Affymetrix U133Plus2.0 arrays. A total of 243 genes, evaluated with 285 probes were selected as those preferentially suppressed by less than half in siRET‐treated cells.As well, 566 genes with 661 probes were expressed more than twice in siRET‐treated cells (Table S2 and Fig. S3). The
+RET
+gene itself (probe ID = 211421_s_at) showed the highest fold‐difference of 19.6 between siNC‐ and siRET#2‐treated cells. Following
+RET
+, previously identified Gene Ontology‐annotated Ras‐MAPK downstream genes like
+DUSP6
+was preferentially suppressed in the siRET‐treated cells. In addition, cell cycle regulation‐related genes like
+EREG, CDC6, MCM10, MAD2L1, CHEK1
+and
+PLK4
+were expressed <0.5‐fold in siRET‐treated cells (Table
+1
+).
+Table 1
+Up‐ or downregulated genes associated with mitogen‐activated protein kinase (
+MAPK
+) cascade or cell cycle
+Gene symbol
+Probe set ID
+siNC/siRET
+Tumor/Non‐tumor
+Upregulated
+RET
+211421_s_at
+19.63
+19.52
+205879_x_at
+3.76
+5.03
+215771_x_at
+2.37
+4.72
+DUSP6
+208892_s_at
+4.45
+5.22
+208893_s_at
+4.17
+6.34
+208891_at
+4.17
+3.56
+EREG
+1569583_at
+3.68
+1.60
+205767_at
+2.93
+5.69
+CDC6
+203967_at
+2.42
+4.82
+203968_s_at
+1.95
+5.32
+MCM10
+220651_s_at
+2.30
+4.83
+223570_at
+1.72
+1.71
+MAD2L1
+203362_s_at
+2.28
+5.91
+1554768_a_at
+1.91
+4.34
+CHEK1
+205394_at
+2.17
+9.03
+205393_s_at
+2.14
+6.87
+PLK4
+204886_at
+2.07
+4.38
+204887_s_at
+1.56
+4.08
+Downregulated
+MEF2C
+209200_at
+0.21
+0.46
+209199_s_at
+0.26
+0.65
+GAB1
+214987_at
+0.23
+0.42
+229114_at
+0.53
+0.65
+225998_at
+0.62
+0.68
+226002_at
+0.64
+0.76
+CDKN1C
+216894_x_at
+0.26
+0.41
+213348_at
+0.32
+0.23
+213183_s_at
+0.35
+0.30
+219534_x_at
+0.42
+0.27
+213182_x_at
+0.44
+0.21
+PTEN
+233314_at
+0.33
+0.27
+225363_at
+0.77
+0.47
+TIMP2
+231579_s_at
+0.34
+0.33
+224560_at
+0.37
+0.27
+ID2
+201566_x_at
+0.35
+0.31
+201565_s_at
+0.40
+0.39
+213931_at
+0.52
+0.31
+CCNL2
+232274_at
+0.35
+0.42
+222999_s_at
+0.79
+0.52
+RPS6KA2
+212912_at
+0.41
+0.34
+204906_at
+0.59
+0.49
+Open in a separate window
+RET
+fusion gene screening of 300 consecutive surgically resected LAD samples identified one case of
+CCDC6‐RET
+expressing LAD by RT‐PCR and break‐apart FISH (Tsuta
+et al
+., 2012, unpublished data). We checked the expression level of potential CCDC6‐RET‐driven genes identified above in the clinical sample. Among 285 preferentially expressed probes, 81 probes were also upregulated more than twofold in the
+CCDC6‐RET
+positive LAD tissue compared to the surrounding non‐cancerous tissue (Table
+1
+and Table S2).
+RET inhibitor‐induced cell cycle arrest and apoptosis in LC‐2/ad cells
+The phosphorylation status of the tyrosine 905 residue of RET isoforms 2 and 4 was high in the LC‐2/ad cells, regardless of the presence or absence of serum in the culture medium, whereas the total amount of RET isoform 2 was not significantly altered. Similarly, the phosphorylation status of AKT and ERK1/2 was high under serum‐starved conditions, and the enhanced phosphorylation of these molecules was slight with serum stimulation, suggesting that the fusion RET kinase was constitutively active and activated its downstream signaling pathways (Fig.
+3
+a).
+Open in a separate window
+Figure 3
+Effect of
+RET
+inhibitors on
+LC
+‐2/ad cells. (a) Western blot analysis of inhibitor‐treated cells. The cells were incubated under serum‐starved conditions for 22 h and treated with 1 μM of inhibitor or dimethylsulfoxide (
+DMSO
+) for 2 h. Prior to cell lysis, the cells were treated with 10% fetal bovine serum (
+FBS
+) for 10 min. Whole‐cell lysates were subjected to western blot analysis to detect the indicated proteins. G, gefitinib; So, sorafenib; Su, sunitinib; V, vandetanib. (b) Dose‐dependent effect of vandetanib. Cells were treated with the indicated concentration of vandetanib for 12 h, and western blotting was used to detect the indicated proteins. (c)
+WST
+‐8 assay with kinase inhibitors. Cells were treated with the indicated inhibitors for 72 h, and the viability was assessed using the
+WST
+‐8 assay. The data are shown as the mean ± standard deviation (
+SD
+) (
+n
+= 6). (d) Effect of vandetanib for growth inhibition. Cells were treated with vandetanib and incubated for the indicated time. The data are shown as the mean ±
+SD
+(
+n
+= 3). *
+P
+< 0.01 (Student's
+t
+test). (e,f)
+DNA
+ploidy (e) and Annexin V‐positive population (f) of the cells treated with vandetanib for 48 h. The data are shown as the mean ±
+SD
+(
+n
+= 4).
+Next, the effects of kinase inhibitors, which inhibit spectrum including RET were applied to evaluate their effects on the signaling pathways in the LC‐2/ad cells. We treated the cells with RET inhibitors vandetanib, sunitinib and sorafenib at a final concentration of 10 μM, which was 10–30 times higher than the
+in vitro
+half maximal inhibitory concentration (IC
+50
+) for RET kinase activity of each compound. Gefitinib, another small molecule inhibitor targeting EGFR but not RET,
+13
+was also examined. All the inhibitors except gefitinib significantly suppressed the phosphorylation of RET, AKT and ERK1/2. Although vandetanib, sunitinib and sorafenib equivalently suppressed RET phosphorylation, vandetanib most significantly suppressed the phosphorylation of ERK1/2 (Fig.
+3
+a). The inhibitory effect of vandetanib on RET, AKT and ERK1/2 phosphorylation exhibited concentration dependency (Fig.
+3
+b). Gefitinib significantly suppressed EGFR phosphorylation while total EGFR protein level was not altered. Meanwhile, gefitinib did not alter the phosphorylation status of AKT and ERK1/2 (Fig.
+3
+a). Meanwhile, vandetanib suppressed EGFR as well as AKT and ERK1/2 in
+EGFR
+‐mutant PC‐9 cells (Fig. S4).
+We further examined the effect of the above inhibitors on the growth of the LC‐2/ad cells using the WST‐8 assay. Consistent with the effects of the inhibitors on the RET signaling pathway, vandetanib suppressed cell growth most significantly (IC
+50
+= 0.32 μM), followed by sunitinib and sorafenib, whereas gefitinib only exhibited an apparent suppression at its highest dose (Fig.
+3
+c). However, the effects of these inhibitors on
+KRAS
+‐mutant A549 cells were much lower (Fig. S5). Gefitinib and vandetanib, both of which inhibit EGFR, suppressed
+EGFR
+‐mutant PC‐9 cells, whereas sunitinib and sorafenib had less effect (Fig. S5). Evaluating the number of live cells by trypan blue staining under the treatment of several doses of vandetanib suggested a dose‐dependent suppression in the LC‐2/ad cells. Furthermore, the number of cells treated with 0.5 and 1.0 μM vandetanib was apparently reduced to less than the starting amount, strongly suggesting that vandetanib induced both cell death and the suppression of cell proliferation (Fig.
+3
+d). An assessment of the DNA ploidy revealed that vandetanib arrested the cell cycle in G1 phase in a dose‐dependent manner (Fig.
+3
+e), and an increased concentration of vandetanib induced an Annexin V‐positive apoptotic cell population (Fig.
+3
+f). The proapoptotic effect of vandetanib was confirmed by the detection of cleaved caspase‐3 by western blotting (Fig.
+3
+b). Meanwhile, 1.0 μM sunitinib and sorafenib induced cell cycle arrest but induction of apoptosis was marginal (Figs S6 and S7).
+To further evaluate the contribution of Ras‐ERK and AKT axes to cell survival, LC‐2/ad cells were treated with MEK1/2 inhibitor AZD6244 or PI3K/mTOR inhibitor BEZ235. Cytotoxic effect of AKT‐inhibiting BEZ235 was more than that of ERK‐inhibiting AZD6244. However, both inhibitors did not completely reduce the cell survival even their maximal dose (Figs S8 and S9).
+Anti‐tumor effect of vandetanib in an LC‐2/ad xenograft model
+Subcutaneously transplanted LC‐2/ad tumors exhibited typical adenocarcinoma morphology. These tumors were positive for SFTPA, Napsin A and carcinoembryonic antigen (CEA) but thyroid marker thyroglobulin negative using immunohistochemistry (IHC). Furthermore, using an antibody cross‐reacting with both human and mouse RET protein, IHC revealed that RET was highly expressed specifically in the tumor cells but not in the interstitial cells (Fig.
+4
+a). The overexpression of RET in these tumors was confirmed using quantitative RT‐PCR and Western blotting. Similar to the results from cultured LC‐2/ad cells, much more mRNA of the 3′ end of
+RET
+was detected than that of the 5′ end (Fig.
+4
+b), and a specific band equivalent to the size of the CCDC6‐RET fusion protein was detected (Fig.
+4
+c). Vandetanib (50 mg/kg) was orally administrated to the mice harboring the LC‐2/ad xenograft, and the daily administration of vandetanib significantly reduced the tumor size. Although the tumors were diminished at day 14 of the treatment, the body weight of the treated mice was not significantly reduced (Fig.
+4
+d and Fig. S10). Sorafenib (30 mg/kg) and sunitinib (40 mg/kg) did not reduce the body weight, either (Fig. S10). Sorafenib reduced but not diminished the tumors at day14. Anti‐tumor effect of sunitinib was not significant (Fig. S11).
+Open in a separate window
+Figure 4
+Characterization of the
+LC
+‐2/ad xenograft and anti‐tumor effects of vandetanib. (a) Histological features of the xenograft. Hematoxylin and eosin staining and immunohistochemical staining with the indicated antibodies. Scale bars were 100 μm.
+H
+ematoxylin eosin (
+HE
+),
+RET
+,
+thyroglobulin (TG)
+and
+carcinoembryonic antigen (CEA)
+(×20); Napsin A and Sp‐A (×40). (b) 3′ region‐specific expression of
+RET
+mRNA
+in the xenograft. Total
+RNA
+extracted from tumors was subjected to real‐time reverse transcription‐polymerase chain reaction (
+RT
+‐
+PCR
+) analysis with the primer sets designed for the 5′ or 3′ region of the
+RET
+and
+CCDC6
+cDNA
+. The data are shown as the mean ± standard deviation (
+SD
+) (
+n
+= 3). (c) Expression of the
+CCDC6
+‐
+RET
+protein in mice xenografts. Whole‐cell lysates of tumors were subjected to western blot analysis. (d) Anti‐tumor effect of vandetanib
+in vivo
+. Vandetanib was administered once a day at a dosage of 50 mg/kg. The data are shown as the mean ±
+SD
+(
+n
+= 9). *
+P
+< 0.01 (control
+vs
+sorafenib; Student's
+t
+test).Discussion
+Previous reports suggest that the incidence of
+RET
+‐fusion‐positive cases in LAD is 1–2% and that these cases are concentrated in the
+EGFR
+mutation‐,
+KRAS
+mutation‐, and
+ALK
+‐fusion‐negative population.
+10
+,
+27
+To identify cell lines expressing endogenous
+RET
+‐fusion genes, we selected 11 cell lines that were derived from pathologically identified Japanese LAD cases. Among them, activating EGFR mutations have been reported in PC‐3 and PC‐9 cells.
+28
+However, the mutation status of known driver genes of other cell lines was not well investigated. The LC‐2/ad cells were originally derived from pleural effusion of LAD in a patient who had received combined chemotherapy (endoxan, Adriamycin, Cisplatin and mitomycin C)
+23
+; the cancer was diagnosed by cytological examination of the patient's sputum and pleural effusion. The original report indicated that the LC‐2/ad cells were positive for an adenocarcinoma marker, cytokeratin 18.
+23
+In addition, we detected surfactant protein, an aspartate proteinase, Napsin A, and CEA expression in the xenograft tumor (Fig.
+4
+a). These findings support the origin of LC‐2/ad as lung adenocarcinoma. The modal chromosome number described in the original report was 53–56, though an apparent translocation between the chromosomes was not reported, consistent with the fact that the inversion of chromosome 10 was not obvious in the conventional chromosome counts.
+The Sanger sequencing in this study and the whole‐transcriptome sequencing (Tsuchihara, 2012, unpublished data) revealed no driver mutations of
+KRAS
+,
+EGFR
+and known genes other than the
+CCDC6‐RET
+fusion in the LC‐2/ad cells, highly suggesting that the CCDC6‐RET fusion protein plays pivotal roles in the proliferation of these cells. The autophosphorylation of CCDC6‐RET was clearly observed in a serum‐independent manner, accompanied with a constitutive elevation of ERK1/2 phosphorylation. The suppression of CCDC6‐RET expression induced a decrease in ERK1/2 phosphorylation, accompanied with a decrease in the expression of the genes that regulate the cell cycle. As a result, the CCDC6‐RET‐suppressed cells exhibited significant growth retardation.
+Recently, a Japanese group independently reported the CCDC6‐RET fusion in LC2/ad cells.
+21
+However, the efficacy of RET inhibitors to the RET and downstream pathways and
+in vivo
+anti‐tumor effects have been partially described.
+21
+Vandetanib, sorafenib and sunitinib suppress the activities of multiple kinases, including RET, and have been approved for several cancers.
+29
+,
+30
+,
+31
+In
+in vitro
+analyses, these compounds effectively suppressed the phosphorylation of CCDC6‐RET and suppressed proliferation and induced death in LC‐2/ad cells. It should be noted that the IC
+50
+value for the growth suppression of these compounds was equivalent to the dose suggested in a previous study using culture cells expressing ectopic
+KIF5B‐RET
+cDNA.
+13
+These effects were most likely dependent on RET inhibition. Sunitinib and sorafenib did not affect PC‐9 and A549 cells, which have activating mutations of
+EGFR
+and
+KRAS
+, respectively. Vandetanib presumably suppressed the growth of PC‐9 cells, as EGFR is included in its inhibitory spectrum. Meanwhile, gefitinib, which targets EGFR but not RET, did not significantly suppress the growth of LC‐2/ad cells. Interestingly, gefitinib did not alter the phosphorylation of AKT and ERK1/2 in LC‐2/ad cells albeit equivalently suppressing EGFR phosphorylation as vandetanib. Although precise molecular mechanisms should be further examined, LC‐2/ad cells might not depend on EGFR for transducing downstream signaling.
+Vandetanib exhibited apparent anti‐tumor effects in the xenograft model in this study. Recently, efficacy of vandetanib on thyroid cancer cells harboring
+RET
+‐fusion gene was also reported.
+32
+These findings strongly suggest that RET inhibition is a plausible therapeutic strategy for RET‐fusion‐positive tumors.
+We noticed a discrepancy between the effects of RNA interference and inhibitor treatment on RET. Though RET suppression/inhibition equivalently reduced the level of phosphorylated RET and induced cell cycle arrest, obvious apoptosis was not found in the cells treated with siRNA. A possible explanation is that CCDC6‐RET is mainly involved in the RAS‐ERK pathway to regulate cell proliferation, whereas the anti‐apoptotic signaling pathway mediated by AKT could be regulated by other signaling molecules inhibited by the multi‐kinase inhibitors. A recent study using a Drosophila
+in vivo
+screening system suggested that the antitumor effects and toxicity of RET inhibitors were dependent on the profile of the “off‐target” inhibition of multiple kinases in addition to the specific inhibition of RET.
+33
+Further investigation elucidating the molecules and signaling pathways relevant to the cytotoxic effect of vandetanib in LC‐2/ad cells is anticipated.
+Whether LC‐2/ad‐based models adequately represent clinical
+RET
+fusion‐positive LAD cases is another challenging question. Takeuchi stated that clinically identified
+CCDC6‐RET
+‐positive LAD exhibited a histologically cribriform pattern.
+14
+Because the cribriform structure was presumably developed from normal alveolar architecture, this specific morphology was not observed in the subcutaneously transplanted LC‐2/ad tumors. We assume that the comparison of the transcriptome profile between the LC‐2/ad cells and clinically identified LAD tissue samples may provide clues. Approximately one‐third of the genes suppressed by RNA interference directed at
+RET
+overlapped with the genes preferentially expressed in the clinical tumor sample. Because we have had only one example of paired data, it is difficult to estimate the similarity between the cell line and clinical samples. However, the above overlap appears promising, and we will continue to screen both cell lines and clinical samples to accumulate comprehensive data.
+In this study, the screening of Japanese LAD cell lines was effective for the identification of
+RET
+fusion‐positive cancer cells, representing a clinically rare subpopulation. LC‐2/ad cells might be useful in the development of RET‐targeted therapies, that is, new compound screening, clarifying the pharmacological mechanisms and investigating the mechanisms for acquired resistance.Disclosure Statement
+The authors have no conflict of interest.Supporting information
+Data S1.
+Materials and methods.
+Fig. S1.
+The absence of the known driver mutations.
+Fig. S2.
+Suppression of
+RET
+mRNA
+in
+siRET
+‐treated cells.
+Fig. S3.
+RET
+‐dependent transcriptome profile in
+LC
+‐2/ad cells.
+Fig. S4.
+Dose‐dependent effect of vandetanib in
+PC
+‐9 cells.
+Fig. S5.
+WST
+‐8 assay with various kinase inhibitors.
+Fig. S6.
+Effect of sunitinib and sorafenib on G1 phase population of
+LC
+‐2/ad cells.
+Fig. S7.
+Effect of sunitinib and sorafenib on apoptosis of
+LC
+‐2/ad cells.
+Fig. S8.
+Dose‐dependent effect of
+AZD
+6244 and
+BEZ
+235 in
+LC
+‐2/ad cells.
+Fig. S9.
+WST
+‐8 assay of
+LC
+‐2/ad cells treated with
+AZD
+6244 and
+BEZ
+235.
+Fig. S10.
+Body weight of the vandetanib‐, sunitinib‐, sorafenib‐ and vehicle‐treated mice.
+Fig. S11.
+Effect of sunitinib and sorafenib
+in vivo
+.
+Click here for additional data file.
+(1.6M, docx)
+Table S1.
+Polymerase chain reaction primers.
+Click here for additional data file.
+(21K, docx)
+Table S2.
+Summary of the microarray data.
+Click here for additional data file.
+(292K, xls)Acknowledgments
+We thank Drs Hiroki Sasaki and Kazuhiko Aoyagi and the National Cancer Center Research Core Facility for the microarray analyses. The Core Facility was supported by National Cancer Center Research and Development Fund (23‐A‐7). This work was supported by National Cancer Center Research and Development Fund (23‐A‐8, 15, 24‐A‐1) and JSPS KAKENHI Grant number 24300345.Notes
+(
+Cancer Sci
+2013;
+104
+: 896–903)
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]References
+1.
+Jemal A, Bray F, Center MM, Ferlay J, Ward E, Forman D.
+Global cancer statistics
+.
+CA Cancer J Clin
+2011;
+61
+: 69–90. [
+PubMed
+]
+[
+Google Scholar
+]
+2.
+Pao W, Girard N.
+New driver mutations in non‐small‐cell lung cancer
+.
+Lancet Oncol
+2011;
+12
+: 175–80. [
+PubMed
+]
+[
+Google Scholar
+]
+3.
+Pao W, Chmielecki J.
+Rational, biologically based treatment of EGFR‐mutant non‐small‐cell lung cancer
+.
+Nat Rev Cancer
+2010;
+10
+: 760–74.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+4.
+Kwak EL, Bang YJ, Camidge DR
+et al
+Anaplastic lymphoma kinase inhibition in non‐small‐cell lung cancer
+.
+N Engl J Med
+2010;
+363
+: 1693–703.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+5.
+Lynch TJ, Bell DW, Sordella R
+et al
+Activating mutations in the epidermal growth factor receptor underlying responsiveness of non‐small‐cell lung cancer to gefitinib
+.
+N Engl J Med
+2004;
+350
+: 2129–39. [
+PubMed
+]
+[
+Google Scholar
+]
+6.
+Paez JG, Janne PA, Lee JC
+et al
+EGFR mutations in lung cancer: correlation with clinical response to gefitinib therapy
+.
+Science
+2004;
+304
+: 1497–500. [
+PubMed
+]
+[
+Google Scholar
+]
+7.
+Tsao MS, Sakurada A, Cutz JC
+et al
+Erlotinib in lung cancer – molecular and clinical predictors of outcome
+.
+N Engl J Med
+2005;
+353
+: 133–44. [
+PubMed
+]
+[
+Google Scholar
+]
+8.
+Govindan R, Ding L, Griffith M
+et al
+Genomic landscape of non‐small cell lung cancer in smokers and never‐smokers
+.
+Cell
+2012;
+150
+: 1121–34.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+9.
+Imielinski M, Berger AH, Hammerman PS
+et al
+Mapping the hallmarks of lung adenocarcinoma with massively parallel sequencing
+.
+Cell
+2012;
+150
+: 1107–20.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+10.
+Seo JS, Ju YS, Lee WC
+et al
+The transcriptional landscape and mutational profile of lung adenocarcinoma
+.
+Genome Res
+2012;
+22
+: 2109–19.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+11.
+Kohno T, Ichikawa H, Totoki Y
+et al
+KIF5B‐RET fusions in lung adenocarcinoma
+.
+Nat Med
+2012;
+18
+: 375–7.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+12.
+Li F, Feng Y, Fang R
+et al
+Identification of
+RET
+gene fusion by exon array analyses in “pan‐negative” lung cancer from never smokers
+.
+Cell Res
+2012;
+22
+: 928–31.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+13.
+Lipson D, Capelletti M, Yelensky R
+et al
+Identification of new
+ALK
+and
+RET
+gene fusions from colorectal and lung cancer biopsies
+.
+Nat Med
+2012;
+18
+: 382–4.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+14.
+Takeuchi K, Soda M, Togashi Y
+et al
+RET, ROS1 and ALK fusions in lung cancer
+.
+Nat Med
+2012;
+18
+: 378–81. [
+PubMed
+]
+[
+Google Scholar
+]
+15.
+Wang R, Hu H, Pan Y
+et al
+RET fusions define a unique molecular and clinicopathologic subtype of non‐small‐cell lung cancer
+.
+J Clin Oncol
+2012;
+30
+: 4352–9. [
+PubMed
+]
+[
+Google Scholar
+]
+16.
+Gardner E, Papi L, Easton DF
+et al
+Genetic linkage studies map the multiple endocrine neoplasia type 2 loci to a small interval on chromosome 10q11.2
+.
+Hum Mol Genet
+1993;
+2
+: 241–6. [
+PubMed
+]
+[
+Google Scholar
+]
+17.
+Mole SE, Mulligan LM, Healey CS, Ponder BA, Tunnacliffe A.
+Localisation of the gene for multiple endocrine neoplasia type 2A to a 480 kb region in chromosome band 10q11.2
+.
+Hum Mol Genet
+1993;
+2
+: 247–52. [
+PubMed
+]
+[
+Google Scholar
+]
+18.
+Mulligan LM, Kwok JB, Healey CS
+et al
+Germ‐line mutations of the RET proto‐oncogene in multiple endocrine neoplasia type 2A
+.
+Nature
+1993;
+363
+: 458–60. [
+PubMed
+]
+[
+Google Scholar
+]
+19.
+Hofstra RM, Landsvater RM, Ceccherini I
+et al
+A mutation in the RET proto‐oncogene associated with multiple endocrine neoplasia type 2B and sporadic medullary thyroid carcinoma
+.
+Nature
+1994;
+367
+: 375–6. [
+PubMed
+]
+[
+Google Scholar
+]
+20.
+Grieco M, Cerrato A, Santoro M, Fusco A, Melillo RM, Vecchio G.
+Cloning and characterization of H4 (D10S170), a gene involved in RET rearrangements
+in vivo
+.
+Oncogene
+1994;
+9
+: 2531–5. [
+PubMed
+]
+[
+Google Scholar
+]
+21.
+Matsubara D, Kanai Y, Ishikawa S
+et al
+Identification of CCDC6‐RET fusion in the human lung adenocarcinoma cell line, LC‐2/ad
+.
+J Thorac Oncol
+2012;
+7
+: 1872–6. [
+PubMed
+]
+[
+Google Scholar
+]
+22.
+Makinoshima H, Ishii G, Kojima M
+et al
+PTPRZ1 regulates calmodulin phosphorylation and tumor progression in small‐cell lung carcinoma
+.
+BMC Cancer
+2012;
+12
+: 537.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+23.
+Kataoka H, Itoh H, Seguchi K, Koono M.
+Establishment and characterization of a human lung adenocarcinoma cell line (LC‐2/ad) producing alpha 1‐antitrypsin
+in vitro
+.
+Acta Pathol Jpn
+1993;
+43
+: 566–73. [
+PubMed
+]
+[
+Google Scholar
+]
+24.
+Wedge SR, Ogilvie DJ, Dukes M
+et al
+ZD6474 inhibits vascular endothelial growth factor signaling, angiogenesis, and tumor growth following oral administration
+.
+Cancer Res
+2002;
+62
+: 4645–55. [
+PubMed
+]
+[
+Google Scholar
+]
+25.
+Yoshida A, Tsuta K, Nakamura H
+et al
+Comprehensive histologic analysis of ALK‐rearranged lung carcinomas
+.
+Am J Surg Pathol
+2011;
+35
+: 1226–34. [
+PubMed
+]
+[
+Google Scholar
+]
+26.
+Okayama H, Kohno T, Ishii Y
+et al
+Identification of genes upregulated in ALK‐positive and EGFR/KRAS/ALK‐negative lung adenocarcinomas
+.
+Cancer Res
+2012;
+72
+: 100–11. [
+PubMed
+]
+[
+Google Scholar
+]
+27.
+Ju YS, Lee WC, Shin JY
+et al
+A transforming
+KIF5B
+and
+RET
+gene fusion in lung adenocarcinoma revealed from whole‐genome and transcriptome sequencing
+.
+Genome Res
+2012;
+22
+: 436–45.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+28.
+Blanco R, Iwakawa R, Tang M
+et al
+A gene‐alteration profile of human lung cancer cell lines
+.
+Hum Mutat
+2009;
+30
+: 1199–206.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+29.
+Phay JE, Shah MH.
+Targeting RET receptor tyrosine kinase activation in cancer
+.
+Clin Cancer Res
+2010;
+16
+: 5936–41. [
+PubMed
+]
+[
+Google Scholar
+]
+30.
+Antonelli A, Fallahi P, Ferrari SM
+et al
+RET TKI: potential role in thyroid cancers
+.
+Curr Oncol Rep
+2012;
+14
+: 97–104. [
+PubMed
+]
+[
+Google Scholar
+]
+31.
+Scagliotti GV.
+Potential role of multi‐targeted tyrosine kinase inhibitors in non‐small‐cell lung cancer
+.
+Ann Oncol
+2007;
+18
+(
+Suppl 10
+): x32–41. [
+PubMed
+]
+[
+Google Scholar
+]
+32.
+Couto JP, Almeida A, Daly L
+et al
+AZD1480 blocks growth and tumorigenesis of RET‐ activated thyroid cancer cell lines
+.
+PLoS ONE
+2012;
+7
+: e46869.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]
+33.
+Dar AC, Das TK, Shokat KM, Cagan RL.
+Chemical genetic discovery of targets and anti‐targets for cancer polypharmacology
+.
+Nature
+2012;
+486
+: 80–4.
+[
+PMC free article
+]
+[
+PubMed
+]
+[
+Google Scholar
+]

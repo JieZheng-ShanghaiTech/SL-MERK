@@ -1,0 +1,1633 @@
+Abstract
+The
+concept of synthetic lethality (the creation of a lethal phenotype
+from the combined effects of mutations in two or more genes) has recently
+been exploited in various efforts to develop new genotype-selective
+anticancer therapeutics. These efforts include screening for novel
+anticancer agents, identifying novel therapeutic targets, characterizing
+mechanisms of resistance to targeted therapy, and improving efficacies
+through the rational design of combination therapy. This review discusses
+recent developments in synthetic lethality anticancer therapeutics,
+including poly ADP-ribose polymerase inhibitors for
+BRCA1
+- and
+BRCA2-
+mutant cancers, checkpoint inhibitors
+for p53 mutant cancers, and small molecule agents targeting
+RAS
+gene mutant cancers. Because cancers are caused by mutations
+in multiple genes and abnormalities in multiple signaling pathways,
+synthetic lethality for a specific tumor suppressor gene or oncogene
+is likely cell context-dependent. Delineation of the mechanisms underlying
+synthetic lethality and identification of treatment response biomarkers
+will be critical for the success of synthetic lethality anticancer
+therapy.Introduction
+Genetic and epigenetic alterations that
+lead to the functional
+deregulations of several signaling and metabolic pathways are known
+to be the major driving forces behind carcinogenesis and cancer progression.
+1
+Those functional deregulations in cancer cells
+have been exploited for pathway-targeted anticancer therapy. Small
+molecules and antibodies that directly inhibit critical nodes in oncogenic
+signaling networks, most notably kinases or enzymes, have been used
+to treat various cancers in humans,
+1
+,
+2
+resulting in
+substantial improvement in clinical symptoms and outcomes in a subset
+of cancer patients. However, many critical nodes in oncogenic signaling
+networks may not be targeted directly by small molecules or antibodies.
+For example, functional losses in tumor suppressor genes caused by
+gene mutations or deletions may not be restored through small molecules.
+Moreover, the functions of some intracellular oncogene products, such
+as RAS and c-MYC, have been found to be difficult to modulate directly
+through small molecules.
+3
+Nevertheless,
+functional alterations in nondruggable targets may lead to changes
+in signal transduction and metabolism that render the mutant cells
+more susceptible to functional changes in other genes or to pharmaceutical
+interventions aimed at other targets, providing an opportunity to
+selectively eliminate those mutant cells through synthetic lethality.
+Synthetic lethality (the creation of a lethal phenotype from the combined
+effects of mutations in two or more genes
+4
+) offers the potential to eliminate malignant cells by indirectly
+targeting cancer-driving molecules that are difficult to target directly
+with small molecules or antibodies.
+The concept of synthetic
+lethality is illustrated in Figure
+​
+Figure1A.
+1
+A. The
+two genes
+A
+and
+B
+are synthetic
+lethal if the mutations in any one of them
+will not change the viability of a cell or an organism, but simultaneous
+mutations in both
+A
+and
+B
+genes
+will result in a lethal phenotype. This concept has has been used
+in genetic studies to determine functional interactions and compensation
+among genes for decades
+5
+and has recently
+been exploited for the development of new genotype-selective anticancer
+agents,
+6
+−
+8
+identification of novel therapeutic targets for cancer
+treatment,
+9
+−
+11
+and characterization of genes associated with treatment
+response.
+12
+−
+14
+For example, if gene
+A
+in Figure
+​
+Figure1B
+1
+B is mutated, small interfering RNA (siRNA) or small
+molecules targeting the genes
+X
+,
+Y
+, or
+Z
+would likely induce synthetic lethality in
+cells with an abberant
+A
+but not in the cells with
+a wild-type
+A
+. Therefore, using paired isogenic cell
+lines with and without abberant
+A
+, one can screen
+for siRNA or compounds that specifically kill the cells with an abberant
+A
+.
+Open in a separate window
+Figure 1
+Concept and models of synthetic lethal interactions. (A)
+Synthetic
+lethality between genes
+A
+and
+B
+.
+A
++
+and
+B
++
+represent wild types, while
+A
+–
+and
+B
+–
+represent mutants. Synthetic lethality refers
+to a lethal phenotype observed only in the combination group of
+A
+–
+and
+B
+–
+. (B) An essential survival function
+is regulated by two pathways conducted by A, B, C and X, Y, X, respectively.
+A functional change in either of these pathways is insufficient to
+induce viability changes. However, the simultaneous presence of mutations
+or dysfunctions in both pathways, such as a mutation in A and any
+mutation in X, Y, or Z, induces lethal phenotype. Thus, A is synthetic
+lethal with X, Y, and Z, and vice versa. (C) An essential survival
+function is regulated by pathway A alone, in which A2 is a multiprotein
+complex composed of X, Y, and Z; and A3 has homologues of α,
+β and γ. Synthetic lethality may exist among X, Y, and
+Z and among A3α, β, and γ.
+Several models of interactions among genes and/or proteins
+have
+been proposed to account for synthetic lethality,
+15
+,
+16
+including the components of parallel pathways that together regulate
+an essential biological function, the presence of homologous genes
+or protein isomers derived from the same ancestral gene (paralogs),
+subunits of an essential multiprotein complex, and components of a
+single linear essential pathway (Figure
+​
+(Figure1B,C).
+Studies
+1
+B,C).
+Studies in yeast revealed that synthetic lethal interactions occurred
+significantly more frequently among genes with the same mutant phenotype,
+among genes encoding proteins with the same subcellular localization,
+and among genes involved in similar biological processes, such as
+those in parallel or compensating pathways or bridging bioprocesses.
+17
+For a particular tumor suppressor gene or oncogene,
+synthetic lethality can be identified by using isogenic cell lines
+to screen an siRNA library for synthetic lethal genes or a chemical
+library for synthetic lethal compounds. This review discusses recent
+advances in the development of synthetic lethality based anticancer
+therapeutics. In particular, it emphasizes the development of anticancer
+agents that target DNA damage response and oncogene Ras pathways through
+a synthetic lethality approach.DNA Damage Response Pathway
+The
+TP53
+gene, which encodes tumor suppressor
+protein p53, a master transcriptional regulator of cellular response
+to DNA damage, is commonly inactivated in about 50% of human cancers
+by either gene mutations or degradation through HDM2.
+18
+,
+19
+Moreover, pathways involved in DNA damage response are often constitutively
+activated in a majority of tumors, even in early stages of tumor development
+and in tumor specimens from untreated patients, presumably because
+of oncogene-mediated deregulation of DNA replication.
+20
+Different mechanisms are used in cells in response
+to different
+types of DNA damage. Single-strand breaks (SSBs) activate poly ADP-ribose
+polymerase (PARP) and are repaired mainly by PARP-mediated base-excision
+repair, while double-strand breaks (DSBs) are repaired by the mechanisms
+of homologous recombination (HR) and nonhomologous end joining (NHEJ).
+21
+PARP can be activated by binding to SSBs,
+22
+−
+24
+leading to SSB repair through base excision mechanisms (Figure
+​
+(Figure2).
+2
+). However, if SSBs are not repaired, they will
+cause a blockage or collapse of DNA replication forks during DNA synthesis
+and the formation of DSBs. DSBs can also be incurred by endogenous
+and exogenous DNA-damaging agents such as ionizing radiation.
+Open in a separate window
+Figure 2
+DNA damage
+repair pathways. Single-strand break (SSB), double-strand
+break (DSB), and single strand DNA derived from DNA damage or stalled
+replication fork are recognized by various sensor molecules (marked
+yellow), leading to activation of signal transducers (marked green),
+which in turn activate different DNA repair pathways and checkpoint
+pathways, thereby preventing transmission of the genetic lesion to
+the daughter cells. Those parallel pathways provide opportunities
+of eliminating some cancer cells with mutations in those pathways
+through synthetic lethality.
+DSBs are detected by the MRE11/RAD50/NBS1 complex or by Ku70/Ku80
+heterodimers. The single-strand DNA present at stalled replication
+forks or generated by processing of DSBs is recognized by replication
+protein A (RPA).
+25
+The assembly of those
+sensor molecules in the damaged DNA sites leads to the recruitment
+and activation of signal transducers, including three phosphatidylinositol
+3-kinase related kinases (PIKKs) (ataxia telangiectasia mutated (ATM),
+ATM- and Rad3-related (ATR), and DNA-dependent protein kinase (DNA-PK))
+that in turn activate downstream effectors, resulting in the activation
+of checkpoint and DNA repair pathways.
+25
+,
+26
+The phosphorylation
+of H2AX by ATM, ATR, or DNA-PK at S139 (known as γH2AX) triggers
+the recruitment of DNA repair proteins and leads to the assembly of
+DNA repair complexes at the damaged DNA sites.
+25
+,
+27
+Consequently, the cell cycle progression is arrested to permit the
+repair of the damaged DNA, thereby preventing transmission of the
+genetic lesion to the daughter cells (Figure
+​
+(Figure2
+2
+).
+Both BRCA1 and BRCA2 are required for the assembly of protein
+complexes
+for HR, including recruitment of recombinase RAD51 to the DNA DSBs.
+28
+,
+29
+DSB repair through HR is mostly error free and can occur only in
+the late S and G2 phases of the cell cycle because it requires an
+intact sister chromatid as a template for repair. In contrast, NHEJ
+involves Ku70/80, DNA-PK, XRCC4, and DNA ligase IV, often results
+in gene deletion or translocation, and can occur in all phases of
+the cell cycle.
+25
+Most NHEJ occurs independent
+of the MRE11/RAD50/NBS1 complex and ATM activation because the Ku70/Ku80
+heterodimer can directly bind to the ends of double-strand DNA, recruit
+DNA-PK to the site, and initiate an NHEJ process.
+30
+In the absence of Ku proteins, an alternative NHEJ initiates
+with the involvement of PARP1, XRCC1, and ligase I/III
+31
+(Figure
+​
+(Figure2
+2
+).PARP and PARP
+Inhibitors
+PARP is a group of ADP-ribose transferase enzymes
+that catalyze
+polyADP-ribosylation of proteins by transferring ADP-ribose groups
+from the donor substrate nicotinamide adenine dinucleotide (NAD
++
+) to glutamic acid, aspartic acid, and lysine residues in
+the acceptor proteins, thereby regulating the functions of those proteins.
+Seventeen PARP family members have been identified in humans.
+32
+DNA-dependent PARP subfamily members PARPs 1–3
+have been reported to regulate various DNA damage response processes.
+The recognition and binding to damaged DNA structures by PARP1 and
+PARP2, either through their own DNA binding domain or through interaction
+with damaged DNA-binding protein 2,
+22
+−
+24
+lead to the activation
+of their enzymatic activity and the polymerization of ADP-ribose units
+of a number of proteins, including PARP1/2, histones, topoisomerase,
+and DNA-PK.
+33
+,
+34
+The polyADP-ribose on those proteins
+provides a docking site for recruiting cell cycle checkpoint proteins
+and DNA repair proteins (e.g., p53, XRCC1, DNA-PK, Ku70, and ATM)
+to the sites of DNA lesions,
+35
+−
+38
+thereby regulating various processes of DNA repair,
+including base-excision repair, HR, and NHEJ. PARP1 regulates base-excision
+repair by interaction with XRCC1,
+39
+DNA
+polymerase β,
+40
+and the base-excision
+repair enzymes apurinic/apyrimidinic endonuclease 1
+41
+and ALC1.
+42
+PARP1
+also interacts with DNA-PK and Ku and is required for an alternative
+and PARP-dependent NHEJ pathway.
+43
+,
+44
+Moreover,
+PARP1 participates in HR by interacting with MRE11 and ATM.
+36
+,
+45
+Although
+PARP1
+–/–
+embryonic stem cells and embryonic fibroblasts exhibit normal
+repair of DNA DSBs and RAD51 foci formation,
+46
+PARP1
+–/–
+mice have increased deletion mutations and insertions and/or rearrangements
+in vivo after treatment with the alkylating agent
+N
+-nitrosobis(2-hydroxypropyl)amine.
+47
+Interestingly,
+PARP1
+–/–
+mice
+are viable and fertile and do not develop spontaneous tumors, possibly
+because of functional compensation from PARP2, as PARP1 and PARP2
+double knockout is embryonically lethal.
+48
+Nevertheless,
+PARP1
+–/–
+mice or cells exhibit defective DNA SSB repair and increased
+HR, sister chromatid exchange, and chromosome instability.
+49
+PARP1, but not PARP2, is required for the survival
+of cells with defects in the HR pathway because knockdown of both
+PARP1
+and
+BRCA2
+significantly reduces the
+survival of human cells, whereas knockdown of both
+PARP2
+and
+BRCA2
+has no effect on cell survival.
+50
+The mechanisms underlying the synthetic lethality
+of
+PARP1
+and
+BRCA
+genes are still
+not clear, although evidence suggests that it might be caused by the
+deregulation of NHEJ,
+51
+increased spontaneous
+DNA breaks that need to be repaired by HR,
+52
+or the suppression of BRCA and RAD51 expression by E2F4/p130-mediated
+transcriptional repression
+53
+caused by
+PARP1 inhibition.
+The synthetic lethality of
+PARP1
+and
+BRCR1/2
+genes reported in 2005 by Farmer et
+al.
+6
+and Bryant et al.
+50
+sparked much interest
+in the concept of using PARP inhibitors to selectively eliminate
+BRCA1
+or
+BRCA2
+mutant tumor cells. Germ
+line mutations in
+BRCA
+genes predispose carriers
+to breast, ovarian, and other cancers in an autosomal dominant manner,
+54
+,
+55
+with 50–80% penetrance for breast cancer and 30–50%
+for ovarian cancer.
+56
+Early studies revealed
+that PARP1 activation facilitates DNA repair and maintenance of genomic
+integrity and is required for recovery from DNA damage in mice and
+in cells.
+49
+However, excessive PARP1 activation
+leads to cell death because of overconsumption and depletion of NAD
++
+and ATP in the cells, whereas genetic disruption or pharmaceutical
+inhibition of PARP protects animals from ischemia-induced brain and
+heart damage.
+57
+,
+58
+In addition, PARP1 was found
+to regulate the transcriptional activity of NFκB and other inflammation-related
+transcription factors, promoting the expression of inflammation mediators.
+59
+Thus, PARP inhibitors have been investigated
+for the therapeutic benefits of protecting tissue from ischemia-induced
+injury, suppressing inflammation, and sensitizing cancer cells to
+DNA damage-based anticancer therapy.
+60
+,
+61
+Several excellent
+review articles have discussed the development of PARP inhibitors.
+32
+,
+61
+−
+63
+Briefly, PARP inhibitors used in clinical investigation
+mostly compete with the ADP-ribose donor substrate NAD
++
+and inhibit both PARP1 and PARP2. A binding assay with catalytic
+domains from 13 of the 17 human PARP family members revealed that
+many of the best known PARP inhibitors, including those used in clinical
+studies such as olaparib (
+1
+), veliparib (
+2
+), and rucaparib (
+3
+) (Figure
+​
+(Figure3),
+3
+), bind to several PARP family members, suggesting nonspecific activity
+of those inhibitors.
+64
+Open in a separate window
+Figure 3
+Structures of PARP inhibitors.
+PARP inhibitors are currently
+under intensive investigations as
+therapeutic agents for the treatment of cancers with deficiencies
+in BRCA or other DNA repair proteins. An initial preclinical study
+by Farmer et al. revealed that the
+BRCA1/2
+-defective
+cells were 57- to 133-fold more sensitive to PARP inhibitors KU0058684
+(
+4
+) and KU0058948 (
+5
+) than wild-type cells.
+6
+At the same time, Bryant et al.
+50
+showed that HR-defective cells with a deficiency in XRCC2,
+XRCC3, or BRCA2 (XRCC11) were killed by PARP inhibitors such as NU1025
+(
+6
+) and AG14361 (
+7
+) at concentrations that
+were nontoxic to normal cells.
+65
+Recent
+studies revealed that defects in other DNA repair proteins, such as
+ATM,
+66
+MRE11,
+67
+ERCC1,
+68
+and p53
+69
+or PTEN,
+70
+also induce synthetic lethality
+with the PARP inhibitors. A high-throughput RNA interference screen
+for 230 known and putative DNA repair proteins revealed additional
+genes that have synthetic lethality with compound
+5
+,
+including ATR, PCNA, RAD51, and XRCC1.
+71
+A similar study with a novel potent PARP1/2 inhibitor (BMN 673)
+(
+8
+) and an siRNA library targeting 960 genes, including
+kinases and kinase-related genes, tumor suppressors, and DNA repair
+proteins, showed synthetic lethality of
+8
+with HR and
+DSB repair genes.
+72
+Moreover, PARP1 inhibitors
+induced synthetic lethality in cancer cells with positive E26 transformation-specific
+gene fusions
+73
+and with EGFR inhibitors.
+74
+Because of the critical roles of PARP1 in the
+DNA repair process, PARP inhibitors have also been intensively tested
+for sensitizing radiotherapy and chemotherapy that induces DNA damage.
+Compounds
+1
+and
+2
+are the most extensively
+investigated inhibitors in clinical trials for the treatment of BRCA1/2-mutated
+cancers. Other PARP inhibitors under clinical trials are niraparib
+(MK-4827) (
+9
+),
+3
+, and
+8
+. A
+phase I study of the combination therapy of rucaparib with temzolomide
+in patients with advanced solid tumors showed that
+3
+at
+a dose of 12 mg/m
+2
+inhibited 74–97% of PARP activity
+in peripheral blood mononuclear cells. A dose of 12 mg/m
+2
+3
+in combination with 200 mg/m
+2
+temozolomide
+was tolerated, with a dose-limiting toxicity of myelosuppression.
+75
+A phase II study of intravenous administration
+of 12 mg/m
+2
+3
+with temozolomide in patients
+with metastatic melanoma showed that 150–200 mg m
+–2
+day
+–1
+temozolomide can be safely given in the
+combination therapy, with a response rate of about 17% and an increase
+in progression-free survival over historical controls in metastatic
+melanoma patients.
+76
+Phase I clinical trials
+with compound
+1
+in recurrent/advanced cancer patients
+with or without
+BRCA1/2
+mutations
+77
+,
+78
+revealed that the maximum tolerated dose for
+1
+was
+400 mg twice daily, with dose-limiting toxicities of mood alteration,
+fatigue, and thrombocytopenia. Clinical benefit was observed in 30–60%
+of
+BRCA1/2
+mutant breast or ovarian cancer patients.
+77
+,
+78
+The pharmacokinetics study revealed a maximum concentration of 2.6–4.8
+μg/mL at doses of 400 mg twice daily. The mean maximal PARP
+inhibitions in peripheral blood mononuclear cells and tumor tissues
+were 50% and 70%, respectively.
+79
+Mean
+terminal half-life was about 7–11 h.
+80
+Subsequently,
+1
+has been evaluated in combination therapy
+with various conventional anticancer agents, including cisplatin and
+gemcitabine, topotecan, bevacizumab, dacarbazine, and the VEGFR inhibitor
+cediranib.
+81
+,
+82
+The overall response rates were
+variable, from 0% to 44%.
+A phase II comparison study of
+1
+versus liposomal
+doxorubicin treatment for
+BRCA1/2
+mutant ovarian
+cancer patients who had recurrent tumors after platinum therapy revealed
+overall response rates of 25–31%, not significantly different
+from that of doxorubicin alone (18%).
+83
+Phase I trials of a combination of
+2
+(half-life of
+about 5 h) with cyclophosphamide or topotecan
+84
+in refractory solid tumors and lymphomas showed promising activity
+in a subset of patients with
+BRCA
+mutations. The
+maximum tolerated dose was defined as 60 mg of
+2
+with
+50 mg of cyclophosphamide once daily or 0.6 mg m
+–2
+day
+–1
+topotecan administered intravenously on
+days 1–5 and 10 mg of
+2
+twice daily on days 1–5
+in 21-day cycles. PARP activity was significantly inhibited in peripheral
+blood mononuclear cells (by 50%) and in tumor biopsies (by 80%). A
+phase II trial of the combination compared with single-agent cyclophosphamide
+is ongoing for cases of
+BRCA
+mutant ovarian cancer,
+triple-negative breast cancer, and low-grade lymphoma. The dose-limiting
+toxicity was myelosuppression. A phase 1 dose-escalation trial of
+9
+in
+BRCA
+mutation carriers and patients
+with sporadic cancer revealed a maximum tolerated dose of 300 mg/day.
+Dose-limiting toxicities were fatigue, pneumonitis, and thrombocytopenia.
+The maximum concentration at 300 mg/day was about 2000–4000
+nM. The mean terminal elimination half-life was 36.4 h. Pharmacodynamic
+analyses confirmed that PARP inhibition exceeded 50% at doses greater
+than 80 mg/day, and antitumor activity was documented at doses beyond
+60 mg/day. Clinical benefit was observed in 40–50% of
+BRCA1/2
+mutation carriers with ovarian or breast cancer.
+Antitumor activity was also reported in sporadic high-grade serous
+ovarian cancer, non-small-cell lung cancer, and prostate cancer.
+85
+A phase I study of
+8
+in solid tumors
+showed that RECIST and/or CA-125 response occurred at doses of >100
+μg/day in 11/17
+BRCA
+carrier ovarian/peritoneal
+cancer patients.
+86
+In summary, the results
+from these clinical studies revealed that myelosuppression is the
+major dose-limiting toxicity of various PARP inhibitors and that clinical
+benefit is variable in the single-agent and combination therapies,
+with significant benefit observed in
+BRCA
+mutant
+cancers, consistent with the findings in the preclinical studies.Checkpoint
+Inhibitors
+The ATM/checkpoint kinase 2 (CHK2) and ATR/CHK1
+signaling pathways
+regulate many common downstream proteins, including p53, CDC25 phosphatases,
+and Wee1 kinase, thereby regulating G1, S, and G2/M checkpoints (Figure
+​
+(Figure4).
+4
+). Because activation of oncogenes can cause replication
+stress and DNA damage, inhibiting checkpoint pathways may trigger
+synthetic lethality in cancer cells by enhancing the DNA damage-induced
+apoptosis or senescence, which may be modulated by p53 status. Phosphorylation
+of p53 on S15 by ATM/ATR and/or on S20 by CHK1/CHK2 stabilizes p53
+protein
+87
+−
+89
+and up-regulates the expression of p21 (also known
+as CIP1/WAF1), an inhibitor of cyclin E/cyclin-dependent kinase 2
+(CDK2) that controls G1/S progression. In contrast, phosphorylation
+of CDC25 phosphatases by CHK1/CHK2 promotes degradation of CDC25,
+which is required for dephosphorylation and activation of cyclin B/CDK1
+kinases that control the transition of G2/M phases
+90
+(Figure
+​
+(Figure4).
+4
+). Evidence has shown that
+ATR/CHK1 is critical in regulating the activity of CDC25 and S/G2
+checkpoints.
+91
+,
+92
+Although p53 also regulates the
+G2 checkpoint,
+93
+G2 arrest is normally
+induced in p53-deficient cancers, suggesting that some p53-independent
+mechanisms are sufficient for G2 checkpoint functioning. Recent studies
+showed that p53-deficient cells rely on ATM- and ATR-mediated checkpoint
+signaling through the p38 mitogen-activated protein (MAP) kinase/MAP
+kinase-activated protein kinase 2 (MK2) pathway for survival after
+DNA damage.
+94
+Evidence has shown that p53-mediated
+apoptosis or cell cycle arrest is modulated by ATM and CHK2 activities.
+95
+In cells and tumors that lacked a functional
+p53 pathway, inactivation of ATM or its downstream molecule CHK2 was
+sufficient to globally sensitize the cells to genotoxic chemotherapy
+with cisplatin or doxorubicin.
+95
+In contrast,
+in p53 wild-type cells, the inhibition of ATM or CHK2 resulted in
+a substantial survival benefit, suggesting that a combination of cisplatin
+and doxorubicin with inhibitors of ATM and CHK2 could benefit patients
+with p53 mutant tumors. Genome-wide small hairpin RNA screening also
+revealed that inhibiting ATM or MET induced synthetic lethality with
+a p53 stabilizing/activating compound nutlin-3 (
+10
+) (Figure
+​
+(Figure5)
+5
+) and converted the cellular response from cell
+cycle arrest to apoptosis in various cancer cell types without affecting
+the expression of key p53 target genes.
+96
+Although ATM inhibitors such as CP466722 (
+11
+) and KU59403
+(
+12
+) do not have single-agent activity in cancer cell
+lines, they could sensitize cancer cells to ionizing radiation and/or
+genotoxic chemotherapeutics.
+97
+Open in a separate window
+Figure 4
+Checkpoint
+pathways and cell cycle regulations. DNA damage caused
+by physical, chemical, and biological factors, such as oncogene activation,
+activates phosphatidylinositol 3-kinase related kinases ATM and ATR,
+leading to the activation of CHK2, CHK1, and p38/MK2, which further
+regulate activity and stability of cell cycle regulators, including
+p53 and CDC25. p53/p21 is the major regulator of G1/S checkpoint.
+The loss of p53 function in cancer cells makes the cells addicting
+to the S and/or G2/M checkpoints for DNA repaire and survival. Inhibiting
+S and/or G2/M checkpoint regulators may induce synthetic lethality
+in p53 mutant cells when DNA is damaged. Arrow indicates activation,
+and the line terminating with a black circle indicates suppression.
+Open in a separate window
+Figure 5
+Structures of nutlin-3 and inhibitors of ATM/ATR.
+Similar results have shown that
+inhibiting ATR and CHK1 exacerbates
+levels of oncogene-induced replicative stress, promoting the cell
+killing of oncogene-overexpressing cells and sensitizing tumor cells
+to DNA-damaging therapy. Inhibiting ATR by a dominant negative construct
+selectively sensitizes G1 checkpoint-deficient cells to DNA damage-induced
+lethal premature chromatin condensation.
+98
+Knockdown of ATR expression selectively enhanced cisplatin sensitivity
+in human colorectal cancer cells with inactivated p53, whereas the
+restoration of p53 in ATR-deficient cells increased cell survival
+after cisplatin treatment.
+99
+Reduced ATR
+expression prevented the development of Myc-induced lymphomas or pancreatic
+tumors in mice by enhancing Myc-induced replicative stress and apoptosis,
+which is more pronounced in p53-deficient cells.
+100
+Transgenic mice with diminished ATR function in the skin
+have increased apoptosis after ultraviolet exposure and reduced ultraviolet-induced
+skin carcinogenesis, suggesting that the inhibition of the replication
+checkpoint function may have therapeutic and/or preventive benefits.
+101
+Inhibiting ATR also induced synthetic lethality
+in XRCC1-deficient cancer cells
+102
+and
+sensitized cancer cells to DNA-damaging chemotherapeutic agents.
+103
+Synthetic lethality in XRCC1-deficient cancer
+cells is also elicited by the ATM inhibitor KU55933 (
+13
+) and the DNA-PK inhibitor NU7441 (
+14
+).
+104
+A cell-based screening of 623 PI3K inhibitors
+led researchers to
+identify an mTOR- and ATR-selective inhibitor, ETP-46464 (
+15
+), that induces replicative stress and synthetic lethality in p53-deficient
+or cyclin E-overexpressing cells.
+105
+The
+IC
+50
+values of
+15
+for mTOR and ATR are 0.6
+and 14 nM, respectively, but >36 nM for DNAPK, PI3K, and ATM. AZ20
+(
+16
+), an ATR inhibitor derived from the mTOR inhibitor
+sulfonylmorpholinopyrimidine, was reported to have single-agent
+activity when administered orally in mice bearing the xenograft established
+from colon cancer cell line LoVo.
+106
+Through
+high-throughput screening and compound optimization, Charrier et al.
+developed an ATR-selective inhibitor, VE-821 (
+17
+), with
+IC
+50
+values for ATR, ATM, and DNAPK of 12 nM, >8 μM,
+and >8 μM, respectively.
+107
+In
+vitro
+study revealed that treatment with
+17
+alone induced selective
+killing of ATM- or p53-deficient cancer cells but only reversibly
+limited cell cycle progression in normal cells.
+17
+also
+increased cisplatin potency 10-fold in HCT116 cells, suggesting that
+inhibiting ATR could potentiate the efficacies of radiotherapy and
+genotoxic drugs.
+108
+VE-822 (
+18
+), an analogue of
+17
+, was found to have in vivo activity
+in blocking ATR and sensitizing pancreatic cancer cells to gemcitabine-based
+chemoradiation therapy.
+109
+Nevertheless,
+no clinical studies with ATM or ATR inhibitors have yet been reported.
+In comparison to the development of ATM/ATR inhibitors, the development
+of CHK inhibitors, specifically CHK1 inhibitors, is more advanced
+possibly because it is easier to perform enzymatic analysis on CHK1/CHK2.
+CHK1 and CHK2 have a highly conserved kinase domain but have distinct
+overall protein structures.
+110
+However,
+several small molecular inhibitors inhibit both CHK1 and CHK2 with
+a similar potency. In an Eμ-Myc-driving lymphoma model, inhibiting
+CHK1, CHK2, or both with small molecule inhibitors induced cell death,
+although the Eμ-Myc p53 null lymphoma cells were more sensitive
+to a dual CHK1/CHK2 inhibitor than to a CHK1-specific inhibitor.
+111
+AZD7762 (
+19
+) (Figure
+​
+(Figure6),
+6
+), a dual CHK1/2 inhibitor, also enhances radiosensitivity-
+and chemotherapy-induced apoptosis in p53 mutant and/or p21-deficient
+tumor cells to a greater extent than in p53 wild-type tumor cells.
+112
+,
+113
+The potentiation of DNA damaging agent-induced apoptosis by CHK
+inhibitors is possibly caused by abrogation of the G2 checkpoint and/or
+inhibition of HR DNA repair.
+114
+Open in a separate window
+Figure 6
+Structures
+of CHK1/2 inhibitors.
+Gene knockout studies revealed that knockout of CHK1 or CHK2
+caused
+defects in the induction and/or maintenance of irradiation-induced
+G2 arrest.
+115
+,
+116
+Intriguingly, knockout of ATM
+or CHK2 is viable for cells and animals, although phenotypes of ataxia
+telangiectasia, chromosomal abnormality, and the development of thymic
+lymphomas are observed in ATM knockout,
+117
+whereas resistance to ionizing radiation-induced apoptosis is observed
+in CHK2 knockout.
+115
+,
+118
+In contrast, knockout of ATR
+or CHK1 is lethal for cells and embryos with defects in the G2/M DNA
+damage checkpoint,
+116
+,
+119
+indicating that the ATR/CHK1
+pathway is essential for cell survival. Therefore, inhibitors of ATR
+and/or CHK1 could be more potent and toxic than those of ATM and/or
+CHK2. A synthetic lethality siRNA screening of 572 kinases for improving
+gemcitabine or cisplatin response in pancreatic or ovarian cancer
+cells revealed the greatest potentiation by siRNA targeting of ATR
+and/or CHK1.
+120
+Similar results were obtained
+by inhibiting CHK1 with small molecule inhibitors such as PD407824
+(a dual inhibitor of CHK1 and Wee1) (
+20
+).
+120
+A phase I study on
+19
+single-agent
+therapy and combination
+therapy with gemcitabine in patients with advanced solid tumors showed
+that the dose-limiting toxicities are cardiac and liver function abnormalities
+and myelosuppression. No objective responses were observed, although
+disease stabilization was observed in some patients.
+121
+UCN-01 (7-hydroxystaurosporin) (
+21
+), a protein
+kinase C inhibitor that also inhibits many other kinases, including
+CHK1, and abrogates the G2 checkpoint has been reported to enhance
+the effectiveness of genotoxic agents in p53-deficient cells.
+122
+A phase I study of
+21
+in combination
+with perifosine or irinotecan showed some partial response in p53-defective
+triple-negative breast cancer,
+123
+whereas
+a phase II trial in metastatic melanoma showed that
+21
+as a single agent is not active in refractory melanoma.
+124
+Both
+19
+and
+21
+have
+been found to be not favorable for further development because of
+pharmacokinetic and toxicity issues. MK-8776 (SCH900776) (
+22
+) and LY2603618 (
+23
+) are CHK1 selective inhibitors (50-
+to 500-fold more active than on CHK2)
+125
+,
+126
+that are
+being used in clinical trials for the treatment of leukemias and solid
+tumors. Cardiac toxicity and myelosuppression were observed in phase
+I trials of both
+22
+and
+23
+in combination
+therapy with cytarabine and pemetrexed, respectively.
+127
+,
+128
+22
+was used in combination with cytarabine to treat
+refractory acute leukemias. Complete remissions occurred in 8 (33%)
+of 24 patients, mostly at a dose of 40 mg/m
+2
+or higher
+of
+22
+. The maximum tolerated dose for
+22
+was approximately 56 mg/m
+2
+.
+127
+23
+in combination with pemetrexed (500 mg/m
+2
+) for the treatment of solid tumors revealed a maximum tolerated
+dose for
+23
+of 150 mg/m
+2
+; some partial response
+or disease stabilization was observed.
+23
+is currently
+in phase II trials in combination with cisplatin and pemetrexed.
+126
+,
+129
+Some CHK2-selective inhibitors have been identified, including PV1019
+(
+24
+)
+130
+and CCT241533 (
+25
+).
+131
+Both agents were reported
+to be highly selective against CHK1 and have radioprotective effects
+in mouse thymocytes.
+130
+,
+131
+As single agents, both
+24
+and
+25
+had mild antitumor activity but were
+found to potentiate the cytotoxicity of genotoxic agents and PARP
+inhibitors, respectively.
+130
+However, clinical
+evaluation is not available for these agents.Oncogenic RAS and Anti-RAS
+Therapeutics
+Activating mutations in three oncogenic
+RAS
+genes
+(
+H-
+,
+N-
+, and
+K
+-
+RAS
+) is among the first and the most common genetic alterations
+identified in human cancers, occurring in approximately 30% of human
+tumors.
+132
+The
+KRAS
+gene
+encodes two splicing isoforms, a major KRAS 4B and a minor KRAS 4A.
+Therefore, mammals have four small (21 kDa) oncogenic Ras proteins
+of about 190 amino acids in size, with the first 165 aa conserved
+in the N-terminal for all the RAS proteins. The KRAS 4B, HRAS, and
+NRAS isoforms are ubiquitously expressed, whereas KRAS 4A is expressed
+mainly in kidney, liver, and gastrointestinal tissues.
+133
+As a subfamily of small guanine nucleotide-binding
+proteins, RAS proteins cycle between an active guanosine triphosphate
+(GTP) bound form and an inactive guanosine diphosphate (GDP) bound
+form.
+134
+Binding of RAS with GTP is facilitated
+by guanine nucleotide exchange factors through catalyzing the release
+of GDP and is required for the interaction of RAS with target proteins.
+The intrinsic GTPase activity that is enhanced by GTPase-activating
+proteins converts GTP to GDP, leading to a GDP-bound, inactive RAS.
+RAS
+mutations that diminish the GTPase activity or decrease
+the GDP binding capacity render RAS in a constitutively active, GTP-bound
+status. In the absence of a
+RAS
+mutation, increased
+Ras activity is frequently detected in human cancer because of gene
+amplification,
+135
+overexpression,
+136
+an increase in upstream signals from tyrosine-kinase
+growth-factor receptors such as HER2 and EGFR,
+137
+and altered expression of micro-RNA such as let-7.
+138
+Increased RAS activity is associated with resistance
+to chemotherapy and radiotherapy, leading to a poor prognosis.
+139
+,
+140
+As a key mediator in the signaling transduction for a variety
+of
+growth factors, cytokines, and hormones, RAS proteins are transferred
+to the inner leaflet of the plasma membrane, where they interact with
+a diversity of membrane receptors and execute signal transduction
+in a variety of signaling pathways that govern cell growth, proliferation,
+differentiation, and death. Several steps of posttranslational modifications
+are critical for trafficking RAS proteins to the plasma membrane,
+including farnesylation at the cysteine residue of the carboxy-terminal
+CAAX motif and methylation of farnesyl cysteine at the C-terminal.
+141
+The enzymes involved in these processes, such
+as farnesyltransferase,
+142
+geranylgeranyltransferase,
+143
+and isoprenylcysteine carboxyl methyltransferase,
+144
+have been intensively investigated in preclinical
+and clinical trials for anti-RAS therapy. Small molecules binding
+irreversibly to the KRAS (G12C) mutant protein
+145
+or interfering with Ras–effector protein interaction
+146
+have recently been reported. Targeting the
+Ras downstream pathways, particularly the RAF/MEK/ERK and PI3K/AKT/mTOR
+pathways,
+147
+has also been investigated
+for inhibiting
+Ras
+mutant cancer cells. A clinical
+trial with biomarker-integrated targeted therapy for lung cancer has
+revealed that sorafenib (
+26
+), a pan-RAF and VEGFR inhibitor,
+has impressive benefits for
+KRAS
+mutant patients.
+148
+However, selective inhibition of BRAF with
+a dominant negative construct
+149
+in mice
+or with BRAF-selective inhibitors such as vemurafenib (
+27
+) in patients
+150
+promoted the development
+and/or progression of
+RAS
+mutant cancers possibly
+because of the activation of other RAF isoforms, such as RAF-1. Thus
+far, effective anti-RAS therapeutics is not clinically available.
+Indirect anti-Ras therapy with the synthetic lethality-based approach
+has recently been investigated by several groups. It is noteworthy
+that expression of oncogenic
+RAS
+in primary normal
+human or rodent cells often results in apoptosis or senescence, whereas
+expression of oncogenic
+RAS
+in immortal cells or
+cells with inactivation of p53, p16, or the transcriptional activator
+interferon regulatory factor 1 leads to transformation and tumorigenesis,
+151
+−
+153
+suggesting that
+RAS
+transformed cells have additional
+signaling context for survival, which provides opportunity of synthetic
+lethality based anti-RAS therapy. In fact, RAS pathways interact with
+many other cancer related pathways. Several studies on siRNA library
+screens with isogenic cell lines harboring mutant and wild-type
+RAS
+genes have revealed synthetic lethal interactions of
+oncogenic
+RAS
+with some key nodes in cancer signaling
+network, including Polo-like kinase 1 (PLK1), a serine/threonine protein
+kinase that regulates cell mitosis;
+10
+the
+transcription factor Wilms tumor 1 (WT1);
+154
+TANK-binding kinase 1 (TBK1), a noncanonical IκB kinase that
+regulates the stability of IκB;
+9
+spleen
+tyrosine kinase (SYK);
+155
+and CDK4
+11
+(Figure
+​
+(Figure7).
+7
+). Some small-molecule
+inhibitors of PLK1, CDK4, and SYK are already being used in clinical
+trials for anticancer therapy.
+156
+,
+157
+The synthetic lethality
+interactions of those targets with oncogenic
+RAS
+suggest
+that
+RAS
+gene mutation might be used as a marker
+to identify responders.
+Open in a separate window
+Figure 7
+Ras signaling pathways and synthetic lethal
+interactions. Receptor
+tyrosine kinases (RTK) activate RAS and PI3K/AKT/mTOR pathways. RAS
+in turn activates RAF/MEK/ERK, PI3K/AKT/mTOR, and RalGEF/Ral pathways
+and crosstalks with RTK, WNT, c-Jun N-terminal kinases (JNK), reactive
+oxidative species (ROS), STAT3, and tumor necrosis factor α
+(TNFα)/NFκB pathways. Several key nodes in those signaling
+networks, such as TBK1, PLK1, CDK4, SYK, and WT1 (colored tan), have
+been reported to have synthetic lethal interactions with oncogenic
+RAS. In contrast, activation of p53 and JNK may lead to apoptosis.
+Arrow indicates activation, and the line terminating with a black
+circle indicates suppression.
+Several innovative anticancer agents that selectively induce
+cytotoxic
+effects in cancer cells with
+RAS
+mutations have been
+identified by screening chemical libraries, including triphenyltetrazolium
+(
+28
+) and a sulfinyl cytidine derivative (
+29
+) (Figure
+​
+(Figure8)
+8
+) that demonstrated approximately
+6-fold selectivity for cell lines containing mutant
+KRAS
+;
+158
+erastin (
+30
+), which
+exhibited lethal selectivity in human tumor cells harboring mutations
+in the
+HRAS
+,
+KRAS
+, or
+BRAF
+oncogenes by acting on mitochondrial voltage-dependent anion channels
+and inducing oxidative cell death;
+7
+lanperisone
+(
+31
+);
+159
+and oncrasin-1 (
+32
+).
+8
+Interestingly,
+30
+,
+160
+31
+,
+159
+and analogues of
+32
+(
+161
+,
+162
+) all induced cell-killing effects in
+RAS
+mutant
+tumor cells by triggering oxidative stress, although through different
+underlying mechanisms. While
+30
+may act on mitochondrial
+voltage-dependent anion channels and induce oxidative cell death,
+160
+32
+and its analogues act on RNA
+polymerase II, protein kinase Cι (PKCι), and STAT3.
+8
+,
+163
+,
+164
+Most of the molecules involved
+in oncrasin-induced antitumor activity are directly involved either
+in signal transductions in RAS, MYC, and STAT3 pathways or in causing
+synthetic lethality in cells with elevated activity of
+RAS
+or
+MYC
+oncogenes.
+Open in a separate window
+Figure 8
+Structures of oncogenic Ras synthetic
+lethal agents.
+Similar to the agents
+identified through other approaches, substantial
+efforts will be required for optimization of compounds identified
+through synthetic lethality screening. Effort has been made in the
+Developmental Therapeutics Program at the National Cancer Institute
+and in our own laboratory for compound optimization of oncrasin 1.
+One of the most active analogue compounds, NSC-743380 (
+33
+), was tested in vitro with the
+NCI-60 cell panel and 50 non-small-cell lung carcinoma cell lines
+and was highly active (IC
+50
+between 10 nM and 1 μM)
+in 30 of 102 cancer cell lines tested.
+164
+,
+165
+In 50 non-small-cell
+lung cancer cell lines tested, 16 (32%) were highly responsive to
+this compound (IC
+50
+< 0.33 μM), including many
+KRAS
+mutant cancer cell lines,
+8
+,
+165
+suggesting
+that a large subset of cancer patients may potentially benefit from
+treatment with this agent. In vivo studies performed in our laboratory
+and by the National Cancer Institute’s Developmental Therapeutics
+Program have shown that intraperitoneal administration of
+33
+at doses of 67–150 mg/kg caused complete tumor regression
+or significant growth suppression in some xenograft tumor models,
+164
+,
+165
+suggesting that this compound has the potential to move to further
+development. Nevertheless, most compounds developed by synthetic lethality
+screening for oncogenic
+RAS
+are still at the preclinical
+evaluation stage.Future Prospects
+The enthusiasm
+for developing synthetic lethality based anticancer
+therapeutics has been increasing recently, with increasing numbers
+of publications on this topic. Most potential therapeutic targets
+or therapeutic agents developed through the concept of synthetic lethality
+are identified by cell-based screening with pairs of isogenic cell
+lines. Although this approach may facilitate development of genotype-specific
+anticancer therapeutics, several studies have demonstrated that synthetic
+lethality is likely cell context dependent. For example,
+KRAS
+mutant cancer cell lines have been characterized as either
+KRAS
+-dependent or
+KRAS
+-independent, on
+the basis of cell-killing effects induced by knockdown of the
+KRAS
+gene itself.
+155
+When 45
+genes that have synthetic lethality with EGFR inhibitors in the cervical
+adenocarcinoma cell line A431 were tested for sensitization to erlotinib
+or cetuximab in seven other cell lines, none of the genes sensitized
+all tested cell lines, although several of the genes sensitized three
+to five of the cell lines.
+12
+Similarly,
+resistance to the synthetic lethality of PARP inhibitors in
+BRCA1
+and
+BRCA2
+mutant cancers has been
+observed both in experimental tumor models and in clinical trials.
+166
+The differences in genetic and/or epigenetic
+backgrounds in individual cells may explain the cell-context-dependent
+synthetic lethality observed in various studies. Because a tumor may
+harbor an average of 30–70 mutated genes,
+1
+an individual primary tumor or established cancer cell
+line may carry multiple concomitantly activated oncogenes or inactivated
+tumor suppressor genes. The activation in other signaling pathways
+may provide redundant input that drives and maintains downstream survival
+signaling, resulting in resistance to therapeutic agents that target
+a particular genetic lesion either directly or indirectly through
+synthetic lethality. Moreover, even though some passenger mutations
+in tumor cells may not contribute to tumorigenesis, these mutations
+may affect drug response because of altered drug metabolism or drug
+efflux. As a result, querying for the synthetic lethality partners
+of an oncogenic
+KRAS
+gene can identify different
+candidate genes or lead compounds in different cell lines.
+9
+,
+10
+,
+154
+Similarly, a synthetic lethality
+gene–agent combination identified in one cell line may not
+necessarily be applicable to another cell line.
+12
+Mechanistic delineation of molecules or pathways that mediate
+responses to synthetic lethality anticancer therapeutics and the identification
+of predictive biomarkers for treatment responses will be critical
+for the successful development of synthetic lethality anticancer therapeutics.
+On the other hand, the concept of synthetic lethality has also been
+explored for characterizing mechanisms of resistance and for combination
+therapy or multimodality therapy to enhance the efficacy of anticancer
+drugs.
+12
+−
+14
+Simultaneous targeting the redundant survival pathways
+is expected to overcome resistance and/or enhance efficacy in anticancer
+therapy. However, toxicity may increase as well.
+Our own experience
+in developing synthetic-lethality-based anticancer
+therapeutics suggests that mechanistic characterization
+163
+,
+167
+and compound optimization
+164
+,
+168
+could be challenging
+and time-consuming. The biological functions of compounds identified
+through cell-based synthetic lethality screening are largely unknown.
+Technological developments in chemical biology, such as conjugating
+compounds to biotin or resin beads and performing affinity-based target
+precipitation and subsequent protein identification by mass spectrometry
+analysis, may facilitate target and mechanistic characterization.
+However, conjugating and immobilizing a small compound may change
+its biological function and protein-binding specificity. Alternatively,
+target proteins may be enriched by protecting the targets from protease-mediated
+degradation through the binding of unmodified compounds to their targets.
+The results may depend on the efficiency and specificity of the protection.
+Robust efforts on in vivo optimization of the lead compound are also
+essential in drug development, as compounds with similar chemical
+structures and in vitro activity may have dramatically different in
+vivo toxicity and efficacy profiles.Acknowledgments
+I thank Shuhong Wu for assistance
+in preparation of the manuscript
+and Luanne Jorewicz in the Department of Scientific Publications of
+The University of Texas MD Anderson Cancer Center, TX, for editorial
+review of the manuscript. The research was supported by National Institutes
+of Health/National Cancer Institute Grant R01 CA 124951.Glossary
+Abbreviations Used
+AKT
+protein kinase B
+ALC1
+amplified in liver cancer protein
+1
+ATM
+ataxia telangiectasia-mutated
+ATR
+ataxia telangiectasia-mutated
+and Rad3 related
+BRCA
+breast cancer
+CA-125
+cancer antigen 125
+CDC
+cell division cycle
+CDK
+cyclin-dependent kinase
+CHK
+checkpoint kinase
+DNA-PK
+DNA-dependent protein kinase
+DSB
+DNA double-strand break
+EGFR
+epidermal growth
+factor receptor
+ERCC
+excision repair cross-complementing rodent repair deficiency
+ERK
+extracellular signal-regulated
+kinase
+H2AX
+histone
+H2AX
+HDM2
+human
+homologue of double minute 2
+HER2
+human epidermal growth factor receptor 2
+HR
+homologous recombination
+JNK
+c-Jun N-terminal kinase
+MAP
+mitogen activated
+protein
+MEK
+mitogen-activated
+protein kinase kinase
+MET
+mesenchymal epithelial transition factor
+MK2
+mitogen-activated protein kinase-activated
+protein kinase 2
+MRE11
+meiotic recombination 11 homologue
+mTOR
+mammalian target of rapamycin
+MYC
+v-myc avian myelocytomatosis
+viral oncogene homologue
+NBS1
+Nijmegen breakage syndrome 1
+NFκB
+nuclear factor κ-light-chain-enhancer
+of activated B cells
+NHEJ
+nonhomologous end joining
+NOX1
+NADPH oxidase 1
+PARP
+poly ADP-ribose polymerase
+PCNA
+proliferating cell nuclear protein
+PI3K
+phosphoinositide
+3-kinase
+PIKK
+phosphatidylinositol
+3-kinase related kinase
+PKC
+protein kinase C
+PLK1
+Polo-like kinase 1
+PTEN
+phosphatase and tensin homologue
+RAC1
+ras-related C3 botulinum toxin substrate
+1
+RAF
+rapidly accelerated
+fibrosarcoma
+RalGEF
+Ral guanine nucleotide exchange factor
+RAS
+rat sarcoma
+RECIST
+response evaluation criteria in solid tumors
+ROS
+reactive oxidative
+species
+RPA
+replication
+protein A
+RTK
+receptor
+tyrosine kinase
+siRNA
+small interfering RNA
+SSB
+DNA single-strand break
+STAT3
+signal transducer and activator of transcription
+3
+SYK
+spleen tyrosine
+kinase
+TBK1
+TANK-binding
+kinase 1
+TNFα
+tumor necrosis factor α
+TP53
+tumor protein p53
+VEGFR
+vascular endothelial growth factor receptor
+WNT
+wingless-type MMTV
+integration site family
+WT1
+Wilms tumor 1
+XRCC
+X-ray repair complementing defective repair in Chinese hamster
+cellsBiography
+•
+Bingliang Fang
+received his M.D. degree
+in human genetics
+at Hamburg University (Germany) in 1989. He has been a faculty member
+in the University of Texas MD Anderson Cancer since 1995 and is currently
+a Professor in the Department of Thoracic and Cardiovascular Surgery
+at MD Anderson Cancer Center, TX. His primary research interest is
+innovative anticancer therapy, the mechanisms of action of and/or
+resistance to anticancer agents, and molecular signatures or biomarkers
+for predicting treatment response or early diagnosis of cancers. One
+of his current research projects is to develop synthetic lethality
+anticancer therapeutics.Funding Statement
+National Institutes of Health, United StatesNotes
+The authors
+declare no competing financial interest.

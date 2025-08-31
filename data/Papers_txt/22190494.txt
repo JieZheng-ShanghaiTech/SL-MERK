@@ -1,0 +1,1069 @@
+Abstract
+Silent information regulator 1 (SIRT1) represents an NAD
++
+-dependent deacetylase that inhibits proapoptotic factors including p53. Here we determined whether SIRT1 is downstream of the prototypic c-
+MYC
+oncogene, which is activated in the majority of tumors. Elevated expression of c-MYC in human colorectal cancer correlated with increased SIRT1 protein levels. Activation of a conditional c-
+MYC
+allele induced increased levels of SIRT1 protein, NAD
++
+, and nicotinamide-phosphoribosyltransferase (
+NAMPT
+) mRNA in several cell types. This increase in SIRT1 required the induction of the
+NAMPT
+gene by c-MYC. NAMPT is the rate-limiting enzyme of the NAD
++
+salvage pathway and enhances SIRT1 activity by increasing the amount of NAD
++
+. c-MYC also contributed to SIRT1 activation by sequestering the SIRT1 inhibitor deleted in breast cancer 1 (DBC1) from the SIRT1 protein. In primary human fibroblasts previously immortalized by introduction of c-MYC, down-regulation of SIRT1 induced senescence and apoptosis. In various cell lines inactivation of SIRT1 by RNA interference, chemical inhibitors, or ectopic DBC1 enhanced c-MYC-induced apoptosis. Furthermore, SIRT1 directly bound to and deacetylated c-MYC. Enforced SIRT1 expression increased and depletion/inhibition of SIRT1 reduced c-MYC stability. Depletion/inhibition of SIRT1 correlated with reduced lysine 63-linked polyubiquitination of c-Myc, which presumably destabilizes c-MYC by supporting degradative lysine 48-linked polyubiquitination. Moreover, SIRT1 enhanced the transcriptional activity of c-MYC. Taken together, these results show that c-MYC activates SIRT1, which in turn promotes c-MYC function. Furthermore, SIRT1 suppressed cellular senescence in cells with deregulated c-MYC expression and also inhibited c-MYC–induced apoptosis. Constitutive activation of this positive feedback loop may contribute to the development and maintenance of tumors in the context of deregulated c-MYC.
+Keywords:
+tumor metabolism, immortalization, p53, tumor suppression, acetylationThe protein product of the proto-oncogene c-
+MYC
+is at the center of a transcription factor network that regulates cellular proliferation, replicative potential, cell–cell competition, cell size, differentiation, metabolism, and apoptosis (
+1
+–
+3
+). Expression of c-
+MYC
+is induced rapidly by diverse mitogens and is down-regulated during differentiation. Deregulation of c-MYC activity has been implicated in the genesis of the majority of human cancers, and its inhibition represents a possible alternative to current cancer treatments (
+4
+,
+5
+). The oncogenic activation of c-MYC often is caused by constitutive expression of c-
+MYC
+resulting from mutations in upstream regulators, such as the components of the adenomatous polyposis coli (APC)–β-catenin–TCF4 pathway, or genomic alterations, such as amplifications and translocations. In addition, the turnover rate of the c-MYC protein often is affected in tumors. Although several E3 ubiquitin ligases and signaling pathways have been reported to regulate ubiquitination and degradation of c-MYC, additional mechanisms likely contribute to this phenomenon. Activation of the c-
+MYC
+proto-oncogene antagonizes replicative and Ras-induced senescence and is sufficient for cellular immortalization (
+6
+–
+9
+). Furthermore, elevated levels of c-MYC may induce replication stress and reactive metabolites that elicit apoptosis or premature senescence through p53-dependent or -independent pathways (
+10
+–
+13
+).
+c-MYC directly induces the human telomerase reverse transcriptase (
+htert
+) gene, which encodes the catalytic subunit of telomerase (
+7
+). However,
+htert
+expression may prolong the replicative lifespan of cells to only a limited extent (
+8
+). Therefore, we hypothesized that c-MYC may regulate other factors that antagonize cellular senescence and mediate cellular immortalization.
+The human silent information regulator 1 (
+SIRT1
+) gene encodes an NAD
++
+-dependent protein deacetylase, which is involved in epigenetic silencing, heterochromatin formation, regulation of metabolism, DNA repair, and cellular stress responses. These functions are mediated by deacetylation of histones, transcription factors, chromatin-modifying enzymes, and other nuclear proteins (
+14
+,
+15
+). Recently, the NAD
++
+salvage pathway and its rate-limiting enzyme, nicotinamide phosphoribosyltransferase (NAMPT), have been implicated in the activation of SIRT1 (
+16
+). In contrast, the deleted in breast cancer 1 (DBC1) gene product negatively regulates SIRT1 activity through binding to its active site and thereby inhibiting SIRT1–substrate interaction (
+17
+,
+18
+). Moreover, DBC1 was shown to be involved in the induction of apoptosis in response to TNF-α (
+19
+). In yeast,
+Drosophila
+, and
+Caenorhabditis elegans
+ectopic expression of
+SIR2
+, the orthologue of
+SIRT1
+, extends lifespan (
+20
+). However, these effects recently were shown to depend on the genetic background in
+Drosophila
+and
+C. elegans
+(
+21
+). In addition, SIRT1 extends the replicative lifespan of human cells (
+22
+), an effect that can be attributed, at least in part, to the SIRT1-mediated deacetylation and inhibition of p53 (
+23
+–
+25
+). Furthermore, other proapoptotic factors such as Foxo transcription factors, Smad7, Ku70, p73, and poly(ADP-ribose) polymerase 1 (PARP1) are negatively regulated by SIRT1 (
+15
+,
+26
+). In summary, these properties of SIRT1 led us to hypothesize that SIRT1 may play a role downstream of c-MYC.
+Here we report that c-MYC activates the SIRT1 enzyme, which critically contributes to suppression of senescence in cells with deregulated c-MYC and suppression of c-MYC–induced apoptosis. Furthermore, we could delineate two mechanisms involving NAMPT and DBC1 by which c-MYC enhances SIRT1 activity. In addition, we identified a positive feedback loop between c-MYC and SIRT1, supporting an important role for SIRT1 in c-MYC–driven tumorigenesis.Results
+Posttranscriptional Activation of SIRT1 by c-MYC.
+Here we sought to determine whether SIRT1 represents an effector of the c-MYC oncoprotein. In line with this hypothesis, SIRT1 protein expression increased as early as 9 h after activation of a conditional c-Myc-estrogen receptor (ER) fusion protein in c-
+myc
+–deficient RAT1 fibroblasts or of a conditional c-
+MYC
+allele in the P493-6 B-cell line (
+Fig. 1
+A
+and
+SI Appendix
+, Fig. S1
+A
+and
+B
+).
+SIRT1
+mRNA was not affected by c-MYC activation in these cells, whereas known c-MYC target genes were clearly induced (
+Fig. 1
+B
+and
+C
+) (
+2
+).
+SIRT1
+mRNA levels were not affected by acute activation of c-MYC in two other cellular systems tested (
+SI Appendix
+, Fig. S1
+C
+). Furthermore, down-regulation of c-MYC expression by an inducible shRNA directed against c-
+MYC
+was followed by a decrease in SIRT1 protein in the colorectal cancer cell line LS-174T (
+Fig. 1
+D
+). When c-MYC expression was induced by restimulation with serum, SIRT1 levels increased in RAT1 fibroblasts but not in c-
+myc
+–deficient RAT1 cells (
+Fig. 1
+E
+). Again, the
+SIRT1
+mRNA was unaffected by experimental modulation of c-MYC activity in LS-174T and RAT1 fibroblasts (
+SI Appendix
+, Fig. S1 C and
+D
+). Taken together, these results demonstrate that c-MYC activation is sufficient for posttranscriptional induction of SIRT1 protein and is necessary for the increase in SIRT1 protein after mitogenic stimulation.
+Open in a separate window
+Fig. 1.
+c-MYC induces SIRT1 protein expression. Lysates were prepared at the indicated time points and subjected to Western blot analysis (
+A
+and
+D
+–
+G
+). Detection of α-tubulin or β-actin served as loading controls. (
+A
+) RAT1 c-
+myc
+−/−
+(HO15) fibroblasts (
+82
+) stably expressing c-Myc-ER were starved for 48 h at 0.1% FBS and then treated with 300 nM 4-hydroxytamoxifen (4-OHT) for activation of Myc-ER. As a control, serum starvation was continued for another 48 h (right lane). (
+B
+) RAT1 c-
+myc
+−/−
+(HO15) fibroblasts stably expressing c-Myc-ER were starved for 48 h at 0.1% FBS and then treated with 300 nM 4-OHT for activation of c-Myc-ER. At the indicated time points mRNA expression of c-MYC target genes and SIRT1 was analyzed by quantitative PCR (qPCR) [SIRT1 primer pair 1 (p1) and 2 (p2)]. Western blot analysis of these cells is shown in
+A
+. Bars represent mean values of biological triplicates (SIRT1) or duplicates with SE.
+LDHa
+, lactate dehydrogenase A;
+NPM
+, nucleophosmin;
+ODC
+, ornithine decarboxylase. (
+C
+) qPCR analysis of SIRT1 expression and direct c-MYC target genes 11 h after c-
+MYC
+activation in P493-6 cells, a pre–B-cell line that harbors a conditional c-
+MYC
+allele (
+83
+). Bars represent mean values of biological triplicates with SE.
+CDK4
+, cyclin-dependent kinase 4;
+DKC
+, dyskerin. Five additional cell lines were analyzed with similar results after induction of a conditional c-
+MYC
+allele or after activation of endogenous c-MYC with up to two different
+SIRT1
+-specific primer pairs (
+SI Appendix
+, Fig. S1
+C
+and
+D
+). (
+D
+) LS-174T colorectal cancer cells were treated with 1 μg/mL DOX for the indicated periods to activate the expression of c-MYC–specific shRNA (
+84
+). (
+E
+) c-
+myc
++/+
+(TGR) and c-
+myc
+−/−
+RAT1 fibroblasts (HO15) were kept for 48 h at 0.1% FBS and then restimulated with 8% (vol/vol) FBS for the indicated periods. (
+F
+) HDF expressing either SIRT1-GFP or GFP were serum starved at 0.1% FBS for 48 h and then restimulated with 10% (vol/vol) FBS for the indicated periods. See also
+SI Appendix
+, Fig. S1
+E
+. (
+G
+) HO15 (
+myc
+−/−
+) and TGR-1 (
+myc
++/+
+) cells were treated with MG132 (10 μM) for the indicated periods. (
+H
+) Expression of c-MYC and SIRT1 protein in colorectal cancer and adjacent normal colonic cells. Shown are representative results obtained by immunohistochemical analysis of consecutive sections derived from one colorectal biopsy (of 15) with antibodies directed against c-MYC and SIRT1. (Magnification: 200×.) N, normal tissue; T, tumor. See also
+SI Appendix
+, Fig. S2
+.
+To validate whether the abundance of SIRT1 protein is regulated at the posttranscriptional level, MCF-7– and human diploid fibroblast (HDF)-derived cell lines constitutively expressing a SIRT1-GFP fusion protein or GFP under control of an LTR promoter were analyzed. SIRT1-GFP protein expression was down-regulated after serum starvation in both cell types (
+Fig. 1
+F
+and
+SI Appendix
+, Fig. S1
+E
+). After readdition of serum, which generally is accompanied by an increase in c-MYC expression, SIRT1-GFP but not GFP expression was induced. Moreover, inhibition of proteasomal degradation induced SIRT1 expression in
+c-myc
+–deficient RAT1 fibroblasts, whereas in wild-type
+c-myc
+RAT1 cells the SIRT1 level was affected only marginally by MG132 treatment (
+Fig. 1
+G
+). Taken together, these findings suggest that the c-MYC–mediated increase in the SIRT1 protein may be caused by inhibition of the proteasomal degradation of SIRT1.
+To determine whether the regulation of SIRT1 by c-MYC also occurs in vivo, we analyzed colorectal cancer specimens, which generally show high c-MYC expression because of mutational activation of the APC–β-catenin pathway and/or K-Ras or B-Raf mutations (
+27
+–
+29
+). In primary colorectal cancer biopsies derived from 15 patients, carcinoma cells with high c-MYC expression consistently showed elevated SIRT1 expression, whereas adjacent normal colonic crypts displayed barely detectable expression of SIRT1 and c-MYC (
+Fig. 1
+H
+and
+SI Appendix
+, Fig. S2
+). Therefore, the expression of SIRT1 may be regulated by c-MYC in normal and malignant tissues.
+c-MYC Induces SIRT1 Deacetylase Activity.
+SIRT1 is known to deacetylate p53 at lysine residue 382 (K382), thereby attenuating p53 activity (
+23
+–
+25
+). We also observed deacetylation of DNA-damage–induced p53 by ectopic SIRT1 expression (
+Fig. 2
+A
+). Similarly, ectopic expression of c-MYC resulted in deacetylation of p53K382 in MCF-7 cells, whereas a dominant-negative mutant c-MYC protein (MADMYC) did not influence p53 acetylation after induction of DNA damage by γ-irradiation (examples are shown in
+Fig. 2
+A
+): Of 50 MCF-7 cells that stained positive for ectopic c-MYC protein, 38 cells (76%) showed decrease or loss of acetylation of p53K382, whereas expression of a MADMYC fusion protein affected the acetylation of only 10 of 50 cells (20%). Induction of SIRT1 activity was observed after c-Myc activation in P493-6 cells (
+SI Appendix
+, Fig. S3
+). When SIRT1 activity was inhibited by treatment with nicotinamide (NAM), which is an endogenous SIRT1 inhibitor, p53K382 acetylation was enhanced in the presence of an activated c-
+MYC
+allele (
+Fig. 2
+B
+). Taken together, these results show that the c-MYC–induced accumulation of SIRT1 protein is accompanied by an increase in SIRT1 activity and affects critical downstream targets such as p53.
+Open in a separate window
+Fig. 2.
+c-MYC activates SIRT1: effects on p53 and mediation by
+NAMPT
+. (
+A
+) Cells were transfected with plasmids encoding the indicated proteins and treated with etoposide (20 μM) for 7 h (HCT-116 cells;
+Left
+) or 10 Gy γ-irradiation (MCF-7 cells;
+Center
+and
+Right
+) and fixed after 4 h. Expression of ectopic MYC-HA and a c-MYC mutant with the transactivation domain replaced by the repressive Sin3 domain of MAD1 (MADMYC-HA) was detected with an anti-HA antibody (
+Center
+and
+Right
+), and SIRT1-GFP expression was detected by GFP fluorescence (
+Left
+). Acetylation (ac) of p53K382 was detected by indirect immunofluorescence. Arrows indicate the positions of cells positive for ectopic proteins (SIRT1-GFP, c-MYC-, or MADMYC-HA). (
+B
+) P493-6 c-MYC tetracycline-off cells were kept in the absence or presence of tetracycline. After 72 h cell lysates were subjected to immunoblot analysis of the indicated proteins. As documented by β-actin detection, different amounts of protein were loaded to adjust for comparable p53 levels in all samples. (
+C
+) NADH and (
+D
+) NAD
++
+concentrations were determined, as described previously (
+85
+), in RAT1
+myc
+−/−
+fibroblasts stably expressing c-Myc-ER. After serum starvation for 48 h in 0.1% FBS, c-Myc-ER was activated for 24 h by addition of 300 nM 4-OHT. Cell lysates were subjected to the cycling reaction (for details see
+SI Appendix
+,
+SI Methods
+). The graphs show mean values ± SD of three independent experiments. Results of the individual measurements are given in
+SI Appendix
+, Table S1
+. (
+E
+) Mean values of NAD
++
+/NADH ratios of MYC OFF (−4-OHT) and MYC ON (+4-OHT) are given with SDs. Data were taken from the analysis shown in
+C
+and
+D
+and
+SI Appendix
+, Table S1
+. (
+F
+) Schematic representation of the NAD
++
+salvage pathway. NAD
++
+is generated by NAMPT-mediated conversion of NAM to NMN, which is converted to NAD
++
+by the enzymes nicotinamide/nicotinic acid mononucleotide adenyltransferase (NMAT) 1–3. (
+G
+) Schematic representation of human, mouse, and rat
+NAMPT
+promoter regions. The transcription start site is indicated by “+1”, E-box positions (gray squares) and E-box motifs conserved between species are indicated. qPCR amplicon positions are indicated by pairs of arrows. (
+H
+) ChIP analysis of c-MYC binding to the
+NAMPT
+promoter in serum (ser)-stimulated MCF-7 cells. After starvation with 0.1% FBS for 48 h, half of the cells were restimulated with 10% (vol/vol) FBS for 12 h. The assay was performed in triplicate using a polyclonal anti-MYC antibody and rabbit IgGs as control. c-MYC enrichment at E-boxes was determined by qPCR with primer pairs flanking E-boxes (see
+G
+). The DNA input was normalized with a genomic amplicon devoid of E-boxes. (
+I
+) qPCR analysis of
+NAMPT
+mRNA expression upon c-MYC activation in P493-6 cells. RNA was isolated 12 and 24 h after removal of tetracycline. (
+J
+) qPCR analysis of
+NAMPT
+mRNA expression upon DOX (1 μg/mL)-mediated induction of a conditional c-
+MYC
+allele for the indicated periods in the MCF-7 cell line PJMMR1 (
+86
+). RNA samples for the 0 (noninduced) and 12-h time points were harvested simultaneously. Analyses were performed in triplicates. (
+K
+) Induction of NAMPT protein upon activation of c-MYC-ER in HDF. Cells were serum starved for 48 h and then stimulated with 4-OHT for the indicated times, lysed simultaneously, and subjected to Western blot analysis. β-actin served as loading control. (
+L
+) Induction of SIRT1 by c-Myc is dependent on NAMPT. HDF-MYC-ER cells were transfected with the indicated siRNAs and then starved as in
+K
+and treated with 4-OHT for 48 h. Cells were lysed simultaneously and analyzed by Western blotting for the expression of the indicated proteins. β-actin served as loading control.
+Induction of
+NAMPT
+by c-MYC Mediates SIRT1 Activation.
+Because the deacetylase activity of SIRT1 depends on NAD
++
+, we hypothesized that the increased SIRT1 activity induced by c-MYC may be caused by c-MYC–mediated changes in metabolism affecting the NAD
++
+/NADH ratio. Indeed, c-MYC activation provoked an increase in NAD
++
+and a decrease in the NADH levels, resulting in a more than fourfold increase in the NAD
++
+/NADH ratio (
+Fig. 2
+C
+–
+E
+and
+SI Appendix
+, Table S1
+). Activation of either glycolysis or the NAD
++
+salvage pathway, which is the primary means of cellular NAD
++
+regeneration (
+30
+), may induce such changes. Interestingly, the addition of FK866 (
+31
+), a specific inhibitor of NAMPT, which is the rate-limiting enzyme of the salvage pathway, resulted in a pronounced decrease in NAD
++
+before and after c-MYC activation, whereas chemical inhibition of glycolysis did not affect the NAD
++
+levels significantly (
+SI Appendix
+, Fig. S4
+A
+and
+B
+) but reduced NADH by ∼50% when it was applied for 18 h. As shown previously (
+32
+), inhibition of glycolysis by 2-deoxyglucose resulted in an increase of the NAD
++
+/NADH ratio, arguing against a major contribution of glycolysis to the overall NAD
++
+levels and to SIRT1 activation. Because the inhibition of NAMPT activity had such pronounced effects on NAD
++
+, our data suggest that the contribution of the salvage pathways to the NAD
++
+pool in the cell exceeds the amount of NAD
++
+generated by lactate dehydrogenase-A (which is induced by c-MYC) during glycolysis. We therefore hypothesized that these changes could result from a c-MYC–induced activation of NAMPT that promotes the conversion of NAM to NAD
++
+via nicotinamide mononucleotide (NMN) (
+Fig. 2
+F
+). Analysis of the
+NAMPT
+promoter sequence revealed three conserved, noncanonical E-boxes in the vicinity of the transcriptional start site (
+Fig. 2
+G
+), two of which are CACGCG motifs. Binding of c-MYC to CACGCG motifs in promoter regions of other genes has been reported previously (
+33
+). ChIP analysis revealed binding of endogenous c-MYC to a region encompassing the noncanonical E-boxes in the
+NAMPT
+promoter. Occupancy by c-MYC was enhanced after mitogenic stimulation by serum, which is known to activate expression of c-MYC. The E-box located ∼2.5 kbp upstream of the transcription start site did not display occupation by c-MYC (
+Fig. 2
+H
+). In addition, inspection of publicly available ChIP-Seq analyses of genome-wide c-MYC binding confirmed the presence of c-MYC at the
+NAMPT
+promoter coinciding with histone modifications indicating transcriptional activity (
+SI Appendix
+, Fig. S5
+A
+and
+B
+). Upon c-MYC activation, increased expression of
+NAMPT
+mRNA was observed in the B-cell line P493-6 and in MCF-7 cells (
+Fig. 2
+I
+and
+J
+). The NAMPT protein level also increased after activation of c-MYC-ER in HDF (
+Fig. 2
+K
+). Down-regulation of
+NAMPT
+expression by siRNAs largely prevented an increase in SIRT1 after c-MYC activation (
+Fig. 2
+L
+). Taken together, these results establish the
+NAMPT
+gene as a mediator of SIRT1 activation by c-MYC.
+c-MYC–DBC1 Association Facilitates Activation of SIRT1.
+We previously identified the DBC1 protein as a c-MYC–interacting protein (
+34
+). Interestingly, the functionally important MYC Box-II domain is essential for the c-MYC–DBC1 interaction. Furthermore, DBC1 recently was shown to inhibit the SIRT1 enzyme by binding to its active site (
+17
+,
+18
+). This observation raised the question whether DBC1 may play a role in the regulation of SIRT1 by c-MYC. Indeed, SIRT1- and DBC1-GST fusion proteins were found to associate directly with recombinant c-MYC in vitro, suggesting that these interactions may affect each other in vivo (
+Fig. 3
+A
+). When increasing amounts of ectopic c-MYC were expressed in HEK-293 cells, the amount of endogenous DBC1 bound to ectopic SIRT1 gradually decreased (
+Fig. 3
+B
+). Because the amount of c-MYC associated with SIRT1 did not increase proportionally to the amount of expressed c-MYC, c-MYC presumably sequesters DBC1 away from SIRT1 rather than competing with DBC1 for binding to SIRT1 (
+Fig. 3
+B
+). It is conceivable that a competition between DBC1 and MYC for binding to SIRT1 may occur preferentially when c-MYC is expressed at lower or intermediate levels. In summary, these observations show that, in addition to affecting the NAD
++
+/NADH ratio, c-MYC may contribute to the activation of SIRT1 by binding directly to the SIRT1 inhibitor DBC1 and preventing its interaction with SIRT1.
+Open in a separate window
+Fig. 3.
+Interplay between c-MYC, DBC1, and SIRT1. (
+A
+) GST-tagged fusion proteins of DBC1 or SIRT1 and GST protein as control were used to detect interactions with in vitro transcribed and translated c-MYC. An aliquot of the c-MYC protein was analyzed as a control (input). (
+B
+) HEK-293 cells were cotransfected with a vector encoding a SIRT1-vesicular stomatitis virus (VSV) fusion protein in combination with a plasmid encoding c-MYC–HA at the indicated molar ratios. Binding of endogenous DBC1 to SIRT1-VSV was analyzed by coimmunoprecipitation and immunoblot analysis 24 h after transfection. Ectopic SIRT1 was immunoprecipitated with an antibody directed against the VSV tag.
+SIRT1 Suppresses c-MYC–Induced Apoptosis.
+Next we investigated whether SIRT1 inactivation affects apoptosis induced by acute activation of conditional c-
+MYC
+alleles. Indeed, apoptosis induced by c-MYC-ER was augmented substantially by the addition of NAM in RAT1A cells (
+Fig. 4
+A
+). Also, when ectopic c-MYC was expressed in U2OS cells, a pronounced increase in apoptosis was observed when SIRT1 was down-regulated simultaneously by induction of a microRNA (miRNA) directed against its 3′-UTR (
+Fig. 4
+B
+). In these cells, ectopic c-MYC combined with down-regulation of SIRT1 enhanced acetylation of p53K382 (
+Fig. 4
+C
+) accompanied by an up-regulation of p53 and its targets PUMA and p21. Therefore, as also documented in P493-6 cells (
+Fig. 2
+B
+), c-MYC–induced SIRT1 deacetylates p53 and thereby attenuates the transcriptional activity of p53 after c-MYC activation, resulting in decreased expression of proapoptotic genes and thereby presumably attenuating c-MYC–induced apoptosis.
+Open in a separate window
+Fig. 4.
+SIRT1 and DBC1 modulate c-MYC–induced apoptosis. (
+A
+) RAT1 HO15.19
+myc
+−/−
+cells expressing Myc-ER were treated with 4-OHT in the presence of 8% FBS in DMEM. NAM (5 mM) was added for 72 h before cells were harvested. Apoptotic sub-G
+1
+cells were quantified by flow cytometric analysis of DNA content. The average of three independent experiments is depicted; bars indicate SD. (
+B
+) U2OS cells harboring pEMI and RTS vectors expressing the indicated miRNAs or proteins were treated with DOX (0.1 μg/mL). As a control, a nonsilencing miRNA or an empty RTS vector was used. After 48 h the percentage of cells in sub-G
+1
+was determined by propidium iodide staining and FACS analysis. The mean values and SEs obtained in two independent experiments are shown. (
+C
+) As in
+B
+, pools of U2OS cells harboring DOX-inducible pEMI and RTS vectors expressing the indicated miRNAs or proteins were generated. Total cell lysates were prepared 48 h after addition of DOX (0.1 μg/mL) and subjected to Western blot analysis of the indicated proteins. As control a pEMI vector encoding a nonsilencing miRNA (miR-ctrl.) or an empty RTS vector (vector) was used. (
+D
+) As described in
+B
+, the percentage of cells in sub-G
+1
+was determined by propidium iodide staining and FACS analysis after 72 h of DOX treatment. The mean values and SD of three samples are shown. (
+E
+) U2OS cells cotransfected with RTS or pEMI vectors encoding the indicated proteins or miRNAs (see
+B
+) were subjected to real-time impedance measurements using an x-CELLigence device (Roche). DOX (0.1 μg/mL) was added 14 or 17 h after cell seeding. This time point was used for cell index normalization. The cell index represents relative cellular impedance, which indicates relative cell numbers. Parallel end-point analysis by conventional cell counting confirmed the results shown here. (
+F
+) HDF were transfected with DBC1-specific siRNA, serum starved for 48 h, and then stimulated with 4-OHT for activation of c-MYC-ER. After 24 h cells were lysed and subjected to Western blot analysis. (Cellular impedance measurements of these cells are shown in
+SI Appendix
+, Fig. S4
+B
+.) (
+G
+) v-Myc–expressing and parental human U937 monoblasts were treated with sirtinol (30 μM) or EX527 (1 μM) for 6 d. Apoptosis was determined as enrichment of cytoplasmic nucleosomes using a quantitative cell death detection ELISA kit (Roche). (
+H
+) Effect of EX527 (1 μM) on the proliferation of MYC-transformed or (
+I
+) parental human U937 monoblasts. Cell numbers were determined at the indicated time-points.
+In
+Fig. 3
+B
+we show that enforced expression of c-MYC sequesters the SIRT1 inhibitor DBC1 from SIRT1, possibly supporting SIRT1 activity. Therefore, we investigated whether modulation of DBC1 expression has an effect on c-MYC–induced apoptosis. Indeed, ectopic expression of DBC1 increased c-MYC–induced apoptosis and decreased proliferation, whereas suppression of DBC1 by a DBC1-specific miRNA resulted in decreased apoptosis and increased proliferation in U2OS cells (
+Fig. 4
+D
+and
+E
+). Similarly, c-MYC-ER activation resulted in less apoptosis in human fibroblasts when DBC1 was down-regulated by specific siRNAs (
+SI Appendix
+, Fig. S6
+). Interestingly, in the presence of DBC1-specific siRNAs, c-MYC-ER activation resulted in increased expression of the c-MYC target gene product CDK4 (
+Fig. 4
+F
+), a result that is in line with increased proliferation. Therefore, the degree of DBC1-mediated inhibition of SIRT1 may be a critical determinant of the outcome of c-MYC activation.
+The cells used in the apoptosis assays described above (RAT1-Myc-ER, U2OS, HDF-c-MYC-ER) express wild-type p53, as documented by sequence analysis and/or by increased p53 accumulation upon etoposide treatment or c-MYC activation (
+SI Appendix
+, Fig. S7
+A
+and
+B
+). To determine whether the antiapoptotic and protective effects of SIRT1 also may be mediated by deacetylation of SIRT1 substrates other than p53, human U937 monoblast cells, which express mutant p53, were analyzed. The SIRT1-specific inhibitor EX527 (
+35
+) or sirtinol, which is a synthetic small-molecule inhibitor of SIRT1 and SIRT2 (
+36
+), induced apoptosis in U937 cells stably expressing a v-
+myc
+gene but not in parental U937 cells (
+Fig. 4
+G
+). As shown for EX527, this effect resulted in reduced proliferation (
+Fig. 4
+H
+and
+I
+). Therefore, at least some of the protective effects of SIRT1 observed after c-MYC activation may be mediated via SIRT1 substrates other than p53.
+Role of SIRT1 in c-MYC–Immortalized HDF.
+HDFs immortalized by retroviral introduction of constitutive expression of c-MYC (
+6
+) showed increased expression of SIRT1 protein (
+Fig. 5
+A
+). We next asked whether c-MYC–induced SIRT1 activity is required to maintain these cells. Only in c-MYC–immortalized but not in primary HDFs down-regulation of SIRT1 by siRNAs induced a pronounced increase in cell size and senescence-associated β-galactosidase activity at pH 6, two markers of cellular senescence (
+Fig. 5
+B
+). Furthermore, inactivation of SIRT1 resulted in an increased fraction of apoptotic cells in c-MYC–immortalized but not of hTERT-immortalized or primary HDFs (
+Fig. 5
+C
+). Similarly, the addition of sirtinol resulted in an increase of apoptosis only in c-MYC–immortalized cells (
+Fig. 5
+D
+). Taken together, these results suggest that SIRT1 plays a role in the suppression of apoptosis and cellular senescence in cells previously immortalized by c-MYC. Therefore, increased SIRT1 activity may be relevant for the long-term survival and expansion of cancer cells exhibiting deregulation of c-MYC.
+Open in a separate window
+Fig. 5.
+SIRT1 suppresses apoptosis and senescence in c-MYC–immortalized HDF. (
+A
+) Expression of SIRT1 in primary (passage 16) HDF and in c-MYC (passage 77) and hTERT-immortalized HDF (passage 92) as determined by Western blot analysis. (
+B
+) Four days after transfection of primary and c-MYC–immortalized HDFs with the indicated siRNAs, cells were stained for senescence-associated β-galactosidase at pH 6 as described (
+87
+). (
+Right
+) Representative phase-contrast images of the cells before fixation. (Magnification: 200×.) (
+C
+) Effect of siRNA-mediated down-regulation of SIRT1 in HDF immortalized by c-MYC. Four days after transfection with the indicated siRNAs, the percentage of cells in sub-G
+1
+was determined by flow cytometric analysis of DNA content. (
+D
+) Effect of inhibition of SIRT1 activity on c-MYC–immortalized HDFs. Sirtinol (50 μM), a small molecule inhibitor of SIRT1, was added to primary c-MYC–immortalized and hTERT-immortalized HDFs for 24 h. The percentage of cells in sub-G1 was determined by flow cytometric analysis of DNA content. Mean values ± SD for three independent experiments are shown.
+c-MYC Is an SIRT1 Substrate.
+As mentioned above, we detected a direct interaction of recombinant or ectopic c-MYC and SIRT1 proteins (
+Fig. 3
+A
+and
+B
+). Coimmunoprecipitation analysis of endogenous proteins confirmed that this interaction also occurs between endogenous c-MYC and SIRT1 (
+Fig. 6
+A
+). When c-MYC was acetylated by cAMP-response element binding protein (CBP) in vitro and then was exposed to recombinant SIRT1, efficient deacetylation of c-MYC was observed that was dependent on the presence of NAD
++
+and was blocked by NAM (
+Fig. 6
+B
+). Treatment of cells with NAM resulted in hyperacetylation of c-MYC, whereas treatment with trichostatin A (TSA), an inhibitor of histone deacetylases, had no effect on c-MYC acetylation (
+Fig. 6
+C
+). In line with these results, CBP-mediated acetylation of c-MYC was reversed by SIRT1 but not by an inactive SIRT1 mutant or SIRT2 in HEK-293 cells (
+Fig. 6
+D
+). In summary, these results establish c-MYC as substrate of the SIRT1 deacetylase.
+Open in a separate window
+Fig. 6.
+c-MYC is a SIRT1 substrate. (
+A
+) Coimmunoprecipitation of endogenous c-MYC and SIRT1. SIRT1 was immunoprecipitated from lysates of U2OS cells using a polyclonal SIRT1-specific antibody. Rabbit IgG served as control. Coprecipitated proteins were detected by Western blot analysis using the indicated antibodies. (
+B
+) Recombinant c-MYC fused to maltose-binding protein (MBP-c-MYC) was incubated with recombinant, baculovirus-expressed His-CBP and [
+14
+C]-acetyl-CoA. MBP-c-MYC was deacetylated with tandem-affinity purification-tagged SIRT1 purified from HEK-293 cells. The amount of the released acetyl ADP-ribose in the supernatant was measured by scintillation counting. As a control NAD
++
+was omitted or 10 mM NAM was added to the deacetylation assay as indicated. (
+C
+) HEK-293 cells were transiently transfected with a vector encoding FLAG-c-MYC and were incubated with TSA or NAM or were left untreated. Acetylation of immunoprecipitated FLAG-c-MYC was detected by Western blot analysis using a pan–acetyl-lysine–specific antibody. (
+D
+) FLAG-tagged c-MYC was coexpressed in HEK-293 cells with the indicated proteins or an empty vector. c-MYC was immunoprecipitated using a FLAG-specific antibody and was detected by immunoblot analysis using a c-MYC– or a pan–acetyl-lysine–specific antibody.
+SIRT1 Stabilizes c-MYC.
+Acetylation of the c-MYC protein also regulates its ubiquitination and thereby affects the rate of proteasomal degradation (
+37
+,
+38
+). In line with a role of SIRT1-mediated deacetylation in the regulation of c-MYC degradation, the c-MYC protein levels in subconfluent sirt1
+−
+/
+−
+mouse embryo fibroblasts (MEFs) were reduced compared with subconfluent sirt1
++/+
+MEFs (
+Fig. 7
+A
+), whereas c-
+myc
+mRNA expression remained unchanged (
+Fig. 7
+B
+). Accordingly, c-MYC target genes also were expressed at higher levels in the
+sirt1
++/+
+MEFs than in SIRT1-deficient MEFs (
+Fig. 7
+B
+). As shown by [
+35
+S]methionine pulse-chase analysis and densitometric quantification, ectopic expression of SIRT1 increased the half-life of endogenous c-MYC from 25 to 40 min in MCF-7 cells (
+Fig. 7
+C
+). Unexpectedly, ectopic expression of SIRT1 in combination with cycloheximide (CHX) treatment resulted in increased c-MYC turnover (
+SI Appendix
+, Fig. S8
+A
+). Therefore, CHX treatment combined with ectopic SIRT1 expression presumably causes a nonphysiological degradation of c-MYC, whereas SIRT1 expression alone increases the half-life of c-MYC. These conclusions also were supported by experiments in which miRNA- or shRNA-mediated down-regulation of SIRT1 reduced the half-life of endogenous c-MYC from 32 to 23 min in U2OS cells (
+Fig. 7
+D
+and
+SI Appendix
+, Fig. S8
+B
+). Moreover, administration of tenovin-6, a recently described SIRT1 inhibitor (
+39
+), reduced the c-MYC half-life from 34 to 25 min in HCT-116 cells (
+Fig. 7
+E
+). As expected, c-MYC had slightly varying half-lives in the different cell lines. Taken together, these results suggest that the half-life of c-MYC is increased by SIRT1-mediated deacetylation.
+Open in a separate window
+Fig. 7.
+Regulation of c-MYC expression and half-life by SIRT1. (
+A
+) Exponentially proliferating, subconfluent MEFs were lysed and subjected to immunoblot analysis of the indicated proteins. (
+B
+) Exponentially proliferating, subconfluent MEFs (as in
+A
+) were analyzed by qPCR for mRNA expression of c-MYC and target genes. The mean values ± SD of biological triplicates are shown. (
+C
+) MCF-7 cells stably expressing a SIRT-VSV fusion protein (right four lanes) or the vector backbone (left four lanes) were analyzed. Cells were pulse-labeled with [
+35
+S]methionine followed by chase in medium containing cold methionine for the indicated time periods. Cell lysates were immunoprecipitated with anti-MYC antibody (N262) and subjected to SDS/PAGE followed by quantification with a phospho-imager. (
+D
+) U2OS cells harboring DOX-inducible pEMI vectors encoding a SIRT1-specific miRNA were analyzed after addition of DOX (0.1 μg/mL) for 72 h. The corresponding control sample expressed a nonsilencing miRNA pEMI vector. Pulse chase and analysis were done as in
+C
+. (
+E
+) HCT-116 cells were treated with DMSO or an SIRT1 inhibitor, tenovin-6 (10 μM) for 8 h followed by a CHX chase for the indicated time points (minutes). Cell lysates were subjected to immunoprecipitation with a polyclonal c-MYC antibody (N262). Precipitated c-MYC was determined by immunoblot analysis with the monoclonal c-MYC antibody (C33). In
+C
+–
+E
+, the densitometric quantification of the remaining protein expressed as percentage of the starting amount is shown in the diagrams (
+Right
+).
+SIRT1 Promotes Lysine-63–Linked Polyubiquitination of c-MYC.
+Because acetylation is known to affect the ubiquitination of lysine residues, we tested whether SIRT1-mediated deacetylation modulates ubiquitination of c-MYC. The net amount of polyubiquitinated c-MYC protein was reduced in HCT-116 cells ectopically expressing wild-type c-MYC and HA-tagged ubiquitin after treatment with tenovin 6 (
+Fig. 8
+A
+), despite increased turnover of c-MYC (
+Fig. 7
+E
+). c-MYC is known to be conjugated with both lysine-48 (K48)- and lysine-63 (K63)-linked polyubiquitin chains (
+40
+) that mediate proteolytic and nonproteolytic functions, respectively (
+41
+). To investigate what types of ubiquitin ligation are affected by SIRT1 inhibition, cells were transfected with HA-tagged K48R- or K63R-ubiquitin mutants. A reduction of polyubiquitinated c-MYC in response to tenovin-6 was observed with the K48R ubiquitin mutant, as with wild-type ubiquitin, but not with the K63R mutant (
+Fig. 8
+A
+). This result suggested that the decrease in c-MYC half-life observed after SIRT1 inhibition may be caused by reduced K63 polyubiquitination, which normally could stabilize c-MYC by competing with K48-linked degradative ubiquitination of lysine residues. Also, after miRNA-mediated reduction of SIRT1 expression in U2OS cells, the total amount of c-MYC–conjugated polyubiquitin as well as non–K48-linked polyubiquitin chains decreased when equal amounts of immunoprecipitated c-MYC were analyzed (
+SI Appendix
+, Fig. S8
+C
+). Furthermore, mono, bi-, and polyvalences of K63-linked ubiquitin molecules conjugated to c-MYC were diminished as a result of the SIRT1 knockdown (
+SI Appendix
+, Fig. S8
+C
+). To identify the involved critical lysine residues of c-MYC, a mutant with six lysines (K298, K317, K323, K326, K341, and K365) changed to arginine (Myc-K6R), previously shown to be defective in homologous to E6-AP carboxy-terminus H9 (HectH9)-mediated K63-linked ubiquitination (
+40
+), was analyzed. Interestingly, polyubiquitination of the Myc-K6R mutant was reduced after SIRT1 inhibition by Tenovin-6 in a manner similar to wild-type c-MYC (
+Fig. 8
+B
+and
+SI Appendix
+, Fig. S8
+D
+). The same pattern of polyubiquitination of Myc-K6R and of wild-type c-MYC also was obtained using K48R and K63R ubiquitin mutants in response to Tenovin-6. Therefore, the six lysines mutated in Myc-K6R presumably are not targeted by SIRT1 for deacetylation. In summary, our results suggest that SIRT1-mediated deacetylation increases conjugation of K63-linked ubiquitin chains to c-MYC; these chains do not support degradation but may lead to stabilization of c-MYC by preventing K48-linked degradative ubiquitination.
+Open in a separate window
+Fig. 8.
+SIRT1 regulates ubiquitination and activity of c-MYC. (
+A
+) HCT-116 cells were transiently transfected with wild-type c-MYC together with the indicated HA-tagged ubiquitin constructs. Forty hours after transfection, cells were treated with DMSO or the SIRT1 inhibitor tenovin-6 (10 μM) for 8 h followed by immunoprecipitation of c-MYC and immunoblot detection of HA-ubiquitin using a monoclonal HA-specific antibody (12CA5). Immunoprecipitated c-MYC was detected using a monoclonal c-MYC–specific antibody (C33). (
+B
+) Densitometric analysis of c-MYC ubiquitination. As in
+A
+, HCT-116 cells coexpressing wild-type c-MYC or the Myc-K6R were cotransfected with wild-type ubiquitin or mutant ubiquitin (K48R-Ub, K63R-Ub) constructs. The signal intensities of the blots were quantitated with a CCD camera. (
+C
+) HEK-293 cells were cotransfected with the M4–min-tk–luc reporter construct (
+38
+) with four MYC/MAX binding sites and expression plasmids encoding c-MYC, c-MYC-K323R, HA-SIRT1, and HA-SIRT1-H363Y. Mean values of three independent experiments performed in duplicate are shown. Western blot analysis of the indicated proteins detected in reporter assay lysates is shown in the lower panel. (
+D
+) qPCR analysis of the c-MYC target gene
+DKC
+11 h after activation of a tetracycline-regulatable c-
+MYC
+allele in P493-6 B cells stably expressing pINCO-SIRT1 or the vector backbone pINCO as a control. Error bars represent SD of biological triplicates.
+SIRT1 Increases Transcriptional Activity of c-MYC.
+To evaluate the functional consequences of SIRT1-mediated deacetylation and stabilization of c-MYC, we measured the transcriptional activity of c-MYC in reporter assays (
+Fig. 8
+C
+and
+SI Appendix
+, Fig. S8
+E
+and
+F
+). Coexpression of SIRT1 resulted in a pronounced increase in the transactivation of an E-box-containing reporter construct by c-MYC, whereas a catalytically inactive SIRT1 mutant did not enhance c-MYC activity. Analysis of the cell lysates used for the reporter assay confirmed stabilization of c-MYC in the presence of catalytically active SIRT1 but not by SIRT1-H363Y. Furthermore, mutation of c-MYC-K323, a lysine residue previously implicated in the regulation of c-MYC activity (
+42
+), did not abolish the stabilizing, stimulatory effect of SIRT1 on the c-MYC protein (
+Fig. 8
+C
+). In addition, the expression of endogenous c-MYC target genes was elevated by ectopic expression of SIRT1 or reduced by shRNA-mediated down-regulation of SIRT1 (
+Fig. 8
+D
+and
+SI Appendix
+, Fig. S8
+G
+). In summary, SIRT1 positively regulates transactivation by c-MYC, presumably by increasing the abundance of c-MYC via interfering with its degradation. In combination with the effects of c-MYC on SIRT1 described above, c-MYC and SIRT1 therefore seem to be connected by a positive feedback loop involving several factors and mechanisms.Discussion
+Our results show that the activation of SIRT1 by c-MYC and the subsequent deacetylation of p53 or other SIRT1 substrates provide a mechanism for promoting c-MYC–induced cellular proliferation by suppressing apoptosis and senescence. These findings suggest that endogenous SIRT1 exerts protumorigenic activities in the context of c-MYC–driven tumor development, at least in part because of the ability to prevent or attenuate cellular senescence and/or c-MYC–induced apoptosis. A number of studies link SIRT1 to cancer-relevant substrates, including p53, E2F1, BAX, hypermethylated in cancer (HIC1), and FOXO3 (
+15
+). The deacetylation of these proteins by SIRT1 results in inhibition of apoptosis and senescence, and therefore may favor the growth of tumors (
+23
+,
+26
+,
+43
+–
+45
+). Furthermore, the elevated expression of SIRT1 protein in primary human tumors and its association with poor prognosis in diffuse large B-cell lymphoma, as well as in prostate, gastric, and breast cancer support a role for SIRT1 in the maintenance of cancer cells (
+46
+–
+49
+).
+We provide evidence that c-MYC regulates SIRT1 activity by at least two mechanisms: (
+i
+) by induction of the
+NAMPT
+gene, leading to an increase in the SIRT1 cofactor NAD
++
+, and (
+ii
+) via sequestration of the SIRT1 inhibitor DBC1. This dual regulation results in an increased amount and activity of the SIRT1 protein. The molecular details of SIRT1 stabilization are still unknown, although it has been shown that augmented activity of SIRT1 is accompanied by an increase in the amount of SIRT1 protein (
+22
+,
+50
+). In line with this observation, many enzymes accumulate upon activation because they are engaged in stabilizing complexes when binding to substrates (
+51
+). In the case of SIRT1, a plausible scenario is a conformational tightening of the ternary complex of the Sir2 apoenzyme with NAD
++
+and an acetylated substrate which appears to be more compact than the binary complex and therefore less accessible to proteolytic degradation (
+52
+).
+NAMPT may stimulate SIRT1 activity via two routes (
+53
+): Besides enhancing NAD
++
+production, NAMPT also reduces the concentration of cellular NAM, the main endogenous SIRT1 inhibitor. The NAMPT-mediated activation of SIRT1 has been implicated in the regulation of differentiation, stress response, and metabolism and in the promoting the extension of the cellular life span (
+22
+,
+30
+). SIRT1 accomplishes these roles by deacetylation of substrates, such as the p53 and PARP proteins, and by protection from PARP-induced and/or p53-dependent cell death (
+22
+,
+26
+,
+30
+). Therefore, c-MYC–induced
+NAMPT
+expression may contribute to cell proliferation in part by activating SIRT1 and inhibiting various proapoptotic factors. Intriguingly, activation of lymphocytes, which is associated with elevated c-MYC levels, leads to enhanced NAMPT expression (
+54
+). Moreover, the subcellular localization of NAMPT was shown to be regulated in a cell cycle-dependent manner (
+55
+), indicative of an additional mode of regulation by c-MYC. Furthermore, increased NAMPT expression in tumors correlates with cancer progression and bad prognosis (
+56
+,
+57
+). These oncogenic properties of NAMPT are consistent with its induction by c-MYC. NAMPT inhibitors are being tested currently in clinical cancer trials (
+58
+). In mouse tumors inhibition of NAMPT affects not only NAD
++
+levels but also glycolysis (
+59
+). Therefore, in addition to inducing glycolytic enzymes, c-MYC also may enhance glycolysis via the activation of NAMPT and the salvage pathway.
+Recently, DBC1 was identified as a negative regulator of SIRT1 (
+17
+,
+18
+,
+60
+), but how and in which physiological context the DBC1–SIRT1 interaction is regulated remained elusive. The results shown here suggest that the elevated or constitutive c-MYC expression found in tumor cells may interfere with the DBC1-mediated inhibition of SIRT1 via sequestration of DBC1 by c-MYC, resulting in increased SIRT1 activity and ultimately in elevated c-MYC levels and activity. However, our experiments do not rule out the possibility that the observed effect also may be caused by c-MYC interfering with the inhibitory effect of DBC1 on other enzymes, such as histone deacetylase 3 and SuvH39 (
+61
+,
+62
+). Intriguingly, a decrease in the interaction between DBC1 and SIRT1 has been found recently in mammary carcinoma cell lines (
+63
+), which are known to display elevated c-MYC expression and c-
+MYC
+amplifications.
+We showed that c-MYC–activated SIRT1 feeds back to c-MYC by deacetylating c-MYC, in turn increasing the stability of endogenous c-MYC. Deacetylation through SIRT1 presumably renders target lysines available for K63-mediated polyubiquitination. It was shown previously that K63-linked ubiquitination of c-MYC is mediated by HectH9 and recruits cofactors such as p300 and thereby enhances c-MYC's transcriptional activity (
+40
+). In accordance with our results, K63-linked ubiquitination mediated by HectH9 has been shown to lead to increased c-MYC function (
+40
+). K63-linked ubiquitin chains usually do not promote proteasomal degradation but may result in protein stabilization by replacing degradative K48-linked chains, as recently shown for the c-JUN coactivator RACO-1 (
+64
+). The typical half-life of c-MYC is less than 30 min (
+65
+,
+66
+), but in cancer c-MYC exhibits an extended half-life (
+67
+–
+69
+). In some cancers, these high c-MYC levels have been associated with impaired c-MYC turnover through Fbw7/Cdc4 mutation (
+70
+). However, so far Fbw7/CDC4 is the only E3 ligase of c-MYC that has been shown to be a target for mutational inactivation, albeit with low frequency. Therefore, the increased half-life of c-MYC resulting from SIRT1-mediated deacetylation may explain the elevated c-MYC protein levels found in certain tumor types and may contribute to tumor formation. Our results are in contradiction to recently published work by Yuan et al. (
+42
+), because we did not observe a direct induction of
+SIRT1
+mRNA expression by c-MYC or a negative feedback inhibition of c-MYC by SIRT1. In our study, we used multiple experimental systems and analyses that generally are accepted as required for the confirmation of direct regulation by c-MYC in the field (
+71
+,
+72
+). However, none of the different systems used here revealed an induction of
+SIRT1
+mRNA following c-MYC activation. Furthermore, the published microarray or serial analysis of gene expression studies investigating transcriptional regulation by c-MYC did not reveal a significant mRNA induction of
+SIRT1
+by c-MYC (
+73
+,
+74
+). However, this result does not exclude the possibility that c-MYC could affect
+SIRT1
+mRNA expression indirectly under certain conditions. Another result conflicting with the results reported by Yuan et al. (
+42
+) is the influence of SIRT1 on c-MYC stability. Although Yuan et al. found that enforced SIRT1 expression increases the rate of c-MYC turnover, our results suggest that SIRT1 stabilizes c-MYC. This discrepancy likely arises from the different experimental approaches. Furthermore, the half-lives of c-MYC reported by Yuan et al. in the absence of SIRT1 deviate substantially from those reported in the literature [
+ca
+. 3 h vs. 20–40 min (
+65
+,
+66
+)], whereas our results are well within the range of previously published data (
+67
+–
+69
+). When we compared half-life measurements of c-MYC in the presence of ectopic SIRT1 expression, we found that results obtained after CHX treatment oppose those obtained by
+35
+S pulse-chase experiments. Therefore, we suspect that CHX treatment in this context causes an artificial degradation of c-MYC. Although Yuan et al. (
+42
+) consistently used CHX treatment and found a negative effect of SIRT1 on c-MYC half-life, our S
+35
+pulse-chase analyses show that SIRT1 increases the half-life of c-MYC. The latter results are consistent with the increased steady-state levels and transcriptional activity of c-MYC we observed in response to increased SIRT1 expression and with the reduced c-MYC stability caused by knockdown, enzymatic inhibition, or deletion of SIRT1. Furthermore, in our hands mutation of K323 in c-MYC did not affect SIRT1-mediated changes in c-MYC stability and c-MYC–driven transcription. Yuan et al. (
+42
+) found that mutation of K323 influences c-MYC stability and transactivation. The reason for these discrepancies will have to be resolved in the future.
+Our results support a tumor-promoting function of SIRT1 in the context of c-MYC activation. Other studies also have provided evidence for a protumorigenic function of SIRT1 (
+39
+,
+45
+,
+75
+–
+77
+). For example, the tumor suppressor HIC1, which is epigenetically silenced in cancer, functions as an inhibitor of
+SIRT1
+expression (
+75
+). Furthermore, SIRT1 inhibitors have antitumor activity in vivo (
+39
+,
+45
+). Nonetheless, recent mouse tumor models argue for a tumor-suppressive role of SIRT1 (
+78
+). Since these mouse models did not represent c-MYC–induced tumors, it will be important to analyze the role of SIRT1 in MYC-driven tumor models and to clarify this point in the future. It should be mentioned, however, that at present there is no evidence for genetic or epigenetic alterations affecting
+SIRT1
+in cancer. Therefore, the
+SIRT1
+gene itself does not seem to represent a proto-oncogene or a tumor-suppressor gene. Only recently it has been shown, that SIRT1 has species-specific functions that also are dependent on the genetic background (
+21
+,
+79
+). Therefore, it seems that SIRT1 is involved in oncogenic or tumor-suppressive signaling in a species-, tumor type-, and context-dependent manner. In the future comparative analysis of mouse and human SIRT1 functions may reveal explanations for the ambivalent role of SIRT1 in the pathogenesis of human and mouse tumors.
+Taken together, the positive feedback loop linking c-MYC, NAMPT, DBC1, and SIRT1 described here suggests that therapeutic inhibition of NAMPT or SIRT1 enzymatic activities may be a suitable approach to sensitize human cancer cells with deregulated expression of c-
+MYC
+, regardless of their p53 status.Methods
+Cell Culture and Conditional Systems.
+P493-6 cells, RAT1 (TGR-1), and c-
+Myc
+−/−
+RAT1 (HO15.19) fibroblasts were maintained as described previously (
+74
+). U2OS cells, MCF-7 cells, MCF-7 cells with an inducible c-MYC allele (PJMMR1), MEFs (
+sirt
++/+
+,
+−/−
+), HDF cells, and c-MYC–immortalized HDF cells were kept in DMEM containing 10% (vol/vol) FBS. c-
+Myc
+−/−
+RAT1 (subclone HO15.19) stably expressing Myc-ER were kept in phenol-red free DMEM supplemented with 8% (vol/vol) FBS. HDF-Myc-ER (immortalized by hTERT) cells were grown in phenol-red free DMEM and 10% (vol/vol) FBS. To down-regulate endogenous c-MYC in the PJMMR1 (MCF-7) cell line, the antiestrogen ICI 182,780 (1 μM) was added to the cells for 60 h before activation of DOX-inducible c-MYC.
+RNA Interference.
+To generate pEMI vectors targeting DBC1 or SIRT1, the specific hairpins from the pSM2c library (
+80
+) were subcloned into the pEMI vector as described previously (
+81
+). siRNAs were transfected at a final concentration of 5–40 nM using the fast-forward protocol (Qiagen). Sequences of shRNAs, miRNAs, and siRNA oligonucleotides are available on request.
+Western Blot Analysis.
+Cells were lysed in RIPA buffer [50 mM Tris⋅HCL (pH 7.4), 1% Nonidet P-40, 0.1% SDS, 0.25% Na-deoxycholate, 150 mM NaCl, 1 mM EDTA, 1 mM PMSF, 1 mM Na
+3
+VO
+4
+, and protease inhibitor mixture (Complete Mini; Roche)]. To detect p53 acetylation, NAM (5 mM) and TSA (1 μM) were added to the lysis buffer. The signals were obtained with enhanced chemiluminescence reagent (Perkin-Elmer) and recorded with a 440CF imaging system (Kodak). Antibodies used are given in
+SI Appendix
+,
+SI Methods
+.
+All other methods, further details, and associated references are provided online in
+SI Appendix
+,
+SI Methods
+.Supplementary Material
+Corrected supporting Information:
+Click here to view.Acknowledgments
+We thank Carla Grandori, Roy Frye, Tony Kouzarides, Dirk Eick, John Sedivy, Bert Vogelstein, Yoichi Taya, Hans Clevers, Axel Ullrich, Martin Eilers, Fuyuki Ishikawa, and Raul Mostoslavsky for providing antibodies, plasmids, and cell lines; Sonia Lain and Jo Campbell for Tenovin-6; Heike Koch for generating DBC1-related reagents; Robert Huber, Stefan Müller, and Sybille Mazurek for helpful discussions; Ruwin Pandtihage and Richard Lilischkis for help with the initial MYC-SIRT1 deacetylase assays; Fuad Bahram for help with the initial MYC degradation assays; and Andrea Sendelhofert and Anja Heier for immunohistochemistry. A.M. thanks Axel Ullrich for support. This work was supported by the Max-Planck-Society and the Deutsche Krebshilfe (H.H.), by the Deutsche Forschungsgemeinschaft and the START program of the Medical School of the RWTH Aachen University (B.L.), and by the Olle Enkvist's Foundation, the Swedish Cancer Society, the Swedish Childhood Cancer Foundation, and the Swedish Research Council (L.-G.L.).Footnotes
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. E.V.P. is a guest editor invited by the Editorial Board.
+See Author Summary on page
+1007
+.
+This article contains supporting information online at
+www.pnas.org/lookup/suppl/doi:10.1073/pnas.1105304109/-/DCSupplemental
+.AUTHOR SUMMARY
+The c-
+MYC
+oncogene is aberrantly activated in most human tumors, endowing cancer cells with the capacity for infinite division, also known as immortalization. The SIRT1 enzyme, which inactivates numerous inhibitory proteins and thereby extends cellular life span, seemed to have potential as a mediator of c-MYC functions. We found that c-MYC activates SIRT1 by enhancing the production of its cofactor NAD
++
+as well as by sequestering DBC1, an inhibitor of SIRT1. Furthermore, SIRT1 itself activates c-MYC, creating a positive feedback loop that may spin out of control in cancer cells that continuously produce c-MYC.
+Fig. P1
+summarizes our findings.
+Open in a separate window
+Fig. P1.
+The c-MYC/SIRT1 feedback loop (gray) is in place in normal (green) and tumor (orange) cells. However, in normal cells, c-
+MYC
+expression is under stringent control by nutrient and growth factor availability and antimitogenic factors, which may shut off the feedback loop. In tumor and cancer cells, c-
+MYC
+expression is often constitutive and/or up-regulated as a result of alterations in the c-
+MYC
+gene or mutation of upstream regulators as components of the wnt/APC/β-catenin pathway. Therefore, the feedback loop is permanently on. p53 and X represent SIRT1-substrates with pro-cell death and prosenescence activities, which are subject to inactivation by SIRT1-mediated deacetylation. In the case of p53 this leads to reduced expression of the p53-target genes
+PUMA
+and
+p21
+, which contributes to enhanced survival and proliferation, respectively. Double colons indicate protein–protein interactions.
+It is still largely unknown how c-MYC converts normal cells into tumor cells that have limitless proliferation capacity and enhanced robustness, even under adverse growth conditions. The c-
+MYC
+proto-oncogene (i.e., a normal gene with the capacity to become a cancer-causing oncogene) encodes the c-MYC transcription factor, which regulates a large array of target genes. In general, transcription factors are proteins that bind to specific sections of the genome (the complete genetic set) and activate or inhibit certain genes. We analyzed the effect that experimental c-MYC activation had on the expression of SIRT1 protein and mRNA. As the activity of SIRT1 depends on the cofactor NAD
++
+, we also investigated the effects of c-MYC on metabolic pathways that generate NAD
++
+. Because we have previously observed that the SIRT1 inhibitor DBC1 binds to c-MYC (
+1
+), we tested whether the binding of c-MYC to DBC1 may positively influence SIRT1 activity. As SIRT1 regulates the activity of many nuclear proteins, we asked whether SIRT1 may also regulate c-MYC and, if so, how.
+To study the putative role of SIRT1 after c-MYC activation, we first analyzed the mRNA transcript and protein levels of SIRT1 upon activation of various versions of the c-
+MYC
+gene in several cell types. We also studied the effects of reduced or abrogated expression of c-
+MYC
+with a variety of methods (e.g., nutrient starvation, genetic deletion, and the use of shRNA molecules that can bind specific genetic segments in the
+c-MYC
+mRNA that block its function). After c-MYC activation, the expression of
+SIRT1
+mRNA and protein was compared with genes known to be regulated by c-MYC (
+2
+). The correlation between c-MYC and SIRT1 expression was also studied in colorectal cancer specimens. Following c-MYC activation, we detected increased SIRT1 protein levels and activity without any concomitant mRNA increases. This indicated that c-MYC induces the activation of SIRT1 on the protein level and not by simply inducing
+SIRT1
+gene expression. Furthermore, inactivation of c-MYC decreased the amount of SIRT1 protein.
+We also studied the NAD
++
+salvage pathway, a metabolic pathway necessary to provide NAD
++
+for SIRT1 activation. It is regulated by the rate-limiting enzyme NAMPT (
+3
+). Therefore, we tested a putative involvement of NAMPT in SIRT1 activation downstream of c-MYC by chemically inhibiting NAMPT, then measuring levels of NAD
++
+and its reduced form, NADH. In addition, we analyzed the relevance of this SIRT1 activation by experimental inhibition of SIRT1 expression and activity. We also tested whether an increase of c-MYC protein reduces DBC1 binding to SIRT1 and thereby relieves the repression of SIRT1. Furthermore, the c-MYC/SIRT1 protein interaction and its functional consequences were analyzed. Finally, we studied the SIRT1-mediated deacetylation of the c-MYC protein and how this affects the stability and activity of c-MYC.
+Our analyses establish a positive feedback connecting c-MYC, NAMPT, DBC1, and SIRT1. First, we identified
+NAMPT
+as a gene directly targeted by c-MYC, and an important mediator of SIRT1 activation upon c-MYC induction. Although an NAD
++
+increase following NAMPT induction can explain SIRT1 activation, the molecular mechanism that leads to increased SIRT1 protein levels remains unknown. Second, we found evidence that the binding of c-MYC to the SIRT1 inhibitor DBC1, which leads to sequestration of DBC1 from SIRT1, may contribute to SIRT1 activation in cells with elevated c-MYC expression. Upon simultaneous inactivation of SIRT1 and activation of c-MYC, cells underwent a higher rate of cell death, also known as apoptosis. Therefore, SIRT1 is presumably required to suppress c-MYC–induced apoptosis. Furthermore, we found that SIRT1 directly binds to c-MYC protein and modifies it by deacetylation (that is, by removing an acetyl moiety, a common mode of regulating protein functions). The SIRT1-modified c-MYC thus produced has increased levels of lysine 63-linked ubiquitin chains, features that may stabilize it. Overall, the SIRT1-mediated deacetylation of the c-MYC protein stabilizes c-MYC and enhances activation of c-MYC's target genes.
+The positive feedback regulation among c-MYC, NAMPT, DBC1, and SIRT1 described here provides an important insight into the function and regulation of the prototypic c-
+MYC
+oncogene. Our results present a direct link between the NAD
++
+salvage pathway and c-MYC. The c-MYC–induced increase in NAD
++
+levels may affect additional cellular functions. Finally, our study suggests that tumor cells with deregulated expression of c-MYC may be especially sensitive to inhibition of the NAMPT and/or SIRT1 enzymes, opening the door to additional therapeutic treatments for cancer.Footnotes
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission.
+See full research article on page
+E187
+of
+www.pnas.org
+.
+Cite this Author Summary as: PNAS
+10.1073/pnas.1105304109
+.

@@ -1,0 +1,549 @@
+Abstract
+Utilizing the concept of synthetic lethality has provided new opportunities for the development of targeted therapies, by allowing the targeting of loss of function genetic aberrations. In cancer cells with BRCA1 or BRCA2 loss of function, which harbor deficiency of DNA repair by homologous recombination, inhibition of PARP1 enzymatic activity leads to an accumulation of single strand breaks that are converted to double strand breaks but cannot be repaired by homologous recombination. Inhibition of PARP has therefore been advanced as a novel targeted therapy for cancers harboring
+BRCA1/2
+mutations. Preclinical and preliminary clinical evidence, however, suggests a potentially broader scope for PARP inhibitors. Loss of function of various proteins involved in double strand break repair other than
+BRCA1/2
+has been suggested to be synthetically lethal with PARP inhibition. Inactivation of these genes has been reported in a subset of human cancers and might therefore constitute predictive biomarkers for PARP inhibition. Here we discuss the evidence that the clinical use of PARP inhibition may be broader than targeting of cancers in
+BRCA1/2
+germ-line mutation carriers.
+Key words:
+homologous recombination, PARP inhibitor, BRCA1, BRCA2, PTEN, PALB2, EMSY, double strand break repairIntroduction
+The concept of synthetic lethality was first described by Bridges in 1922,
+1
+and the term of synthetic lethality was coined by Dobzhansky in 1946.
+2
+This phenomenon occurs when two non-lethal mutations have no effect when they occur individually, but lead to death of the cell in combination.
+2
+This concept is being exploited in cancer research aiming to identify single mutations that are present in cancer cells but not in normal cells by inhibiting the synthetic lethal ‘partner’ gene (
+Fig. 1A
+).
+Open in a separate window
+Figure 1
+The principle of synthetic lethality. (A) The principle of synthetic lethality proposes, which proposes that two genes display a synthetic lethal interaction if loss of function of either of them leads to a phenotype that is viable, whereas concurrent inhibition of both leads to cell death. (B) The mechanism of selective cell death caused by PARP inhibitors in cells with impaired homologous recombination (HR) DNA repair. DNA damage is a common phenomenon. Single strand breaks (SSBs) are normally repaired by base excision repair (BER ). PARP is a key component of the BER machinery. In the presence of a SSB, PARP localizes to the site of breakage and acts as a molecular beacon to the other components of the BER machinery. Inhibition of PARP leads to persistence of SSBs that when unrepaired lead to replication fork stalling and collapse and to the formation of DSBs during DNA replication. In cells with competent HR, these breaks are repaired by the HR DSB repair pathway. In the cells with deficient HR due to loss of function of BRCA1 or BRCA2, DNA DSB persist or are repair by alternative pathways that are highly error prone, for example, non-homologous end-joining (NHEJ) or single strand annealing (SSA). This results in genomic instability and cell death.
+Hypothesis driven studies revealed that loss of function of
+BRCA1
+or
+BRCA2
+results in an exquisite sensitivity to silencing or chemical inhibition of the poly(ADP-ribose) polymerase (PARP)-1.
+3
+,
+4
+The rationale for this synthetic lethal interactions stems from the fact that
+BRCA1
+and
+BRCA2
+are tumor suppressor genes that are involved in homologous recombination (HR) DNA repair of DNA double strand breaks (DSBs).
+5
+The HR system is largely error free, whereas the other mechanisms of DNA double strand break repairs (i.e., nonhomologous end joining (NHEJ) and single strand annealing (SSA)) are error prone and lead to genomic instability. PARP1, a DNA repair enzyme, is responsible for the base excision repair of DNA single strand breaks.
+6
+Inhibition of PARP activity thus leads to an accumulation of unrepaired single strand breaks that in proliferating cells result in stalling and collapse of replication forks and, consequently, to DSBs. These DSBs, if not repaired by HR, result in cell death due to mitotic catastrophe (
+Fig. 1B
+).
+6
+In cells with loss of function of
+BRCA1/2
+, which are, therefore, HR-deficient, inhibition of PARP1 activity leads to an accumulation of single strand breaks that are converted to DSB but cannot be repaired by HR, resulting in increasingly high levels of genetic instability and, eventually, cell death.
+6
+The synthetic lethal interactions between
+PARP1
+and
+BRCA1/2
+were confirmed with PARP inhibitors in vitro and in mouse models,
+3
+,
+7
+and in a landmark phase I clinical trial.
+8
+Phase II clinical trials demonstrated a significant response rate to monotherapy with the PARP inhibitor olaparib in 33% and 41% of patients with
+BRCA1
+or
+BRCA2
+mutant ovarian and breast cancer respectively.
+9
+,
+10
+These results were particularly impressive as the participating patients had received several lines of standard chemotherapy prior to the administration of olaparib.
+A growing body of evidence suggests that PARP inhibitors might also play a role in the treatment of a subgroup of cancer patients without germ-line
+BRCA1
+or
+BRCA2
+mutation (hereafter in this review referred to as sporadic cancers). Despite having wild-type
+BRCA1
+and
+BRCA2
+, these tumors may harbor other abnormalities in components of the HR DNA repair pathway leading to a dysfunction of this pathway of DNA repair and subsequently displaying clinical and biological characteristics similar to those of cancers developing in
+BRCA1
+or
+BRCA2
+germ-line mutation carriers. One of the main mechanisms leading to this phenomenon, which has been termed “BRCAness”,
+11
+can be epigenetic silencing of
+BRCA1
+.
+12
+The analysis of cell lines and xenograft models has revealed that
+BRCA1
+gene promoter methylation may sensitize cancer cells to PARP inhibitors.
+12
+,
+13
+Expression of BRCA1 is two-fold lower in sporadic triple-negative breast cancers compared to ER-positive cancers;
+14
+,
+15
+however, promoter methylation is found only in the minority (14%) of sporadic triple-negative breast cancers.
+15
+,
+16
+Other factors that might contribute to low
+BRCA1
+expression are thought to be the upregulation of transcriptional suppressors of
+BRCA1
+, such as
+ID4
+,
+15
+and
+HMG1
+.
+17
+In addition, upregulation of microRNAs (miRNA) that target
+BRCA1
+expression may also lead to
+BRCA1
+pathway dysfunction.
+18
+In particular, miR-182 negatively regulates
+BRCA1
+expression and subsequently reduces the efficiency of HR DNA repair. In xenograft models, tumors with stably expressed miR-182 were shown to be more sensitive to olaparib than controls.
+18
+Based on the hypothesis that sporadic triple-negative breast cancers often show significant
+BRCA1
+downregulation, they may also harbor an impaired HR DNA repair. Hence, clinical trials have been started for this subgroup of breast cancer patients. A phase II clinical trial has recently demonstrated that the addition of iniparib, a drug that has modest PARP inhibitory activity, significantly increases the progression free survival and overall survival of patients with advanced triple-negative breast cancers.
+19
+However, a small phase II study with single agent olaparib, a potent PARP inhibitor, in patients with advanced triple-negative breast cancer revealed no objective clinical responses.
+20
+Hence, it remains to be determined whether potent PARP inhibitors used as single agents are of benefit for patients with sporadic triple-negative disease.
+Recent findings from our group
+21
+–
+23
+and others
+24
+suggest that defects in genes other than
+BRCA1
+and
+BRCA2
+may also sensitize cancer cells to PARP inhibition. The scope of this Extra View is to discuss other potential synthetic lethal interactions between PARP inhibitors and genes defects in cancers (
+Table 1
+).
+Table 1
+Evidence and mechanism of proposed genes beeing synthetic lethal to PARP inhibitors
+Gene
+Abberation
+Best available evidence
+References
+BRCA1
+Mutation
+Clinical phase II trials
+8
+–
+10
+Methylation
+In vitro and xenograft studies
+13
+BRCA2
+Mutation
+Clincal phase II trials
+8
+–
+10
+Methylation
+In vitro and xenograft studies
+13
+MRN-complex
+Biallelic mutations of
+MRE11
+In vitro studies
+21
+,
+30
+,
+33
+NRS1
+mutation
+In vitro studies
+32
+EMSY
+Amplification
+Hypothetical and circumstantial evidence
+58
+,
+59
+PALB2
+Truncating Mutation
+In vitro studies
+53
+PTEN
+Loss of function
+In vitro and xenograft studies; case report
+22
+,
+23
+,
+76
+,
+78
+ATM
+Mutations
+In vitro and xenograft studies
+39
+,
+40
+AURKA
+Overexpression
+In vitro and xenograft studies
+82
+Open in a separate windowMRE11-RAD50-NBS1
+The MRE11-RAD50-NBS1 (MRN) complex consists of three proteins and plays important roles in detection and signaling of DSBs, as well as the repair pathways of HR and NHEJ.
+25
+MRN complex localizes in nuclear foci in response to DSB-inducing agents and links DSB recognition and repair, recruitment of ATM, cell cycle checkpoint signaling and regulation of chromatin remodeling.
+25
+Mutations in any of these genes have been detected in various cancers. In particular within cancers with microsatellite instability such as colorectal and endometrial cancers, shortening of the noncoding poly (T) 11 tract of
+MRE11
+was reported in 83.7% and 50% of cases, respectively.
+26
+Although not all of these mutations are associated with loss of function of MRE11, monoallelic deletions of two or more nucleotides leads to reduced expression and functional impairment of the MRE11/NBS1/RAD50 complex by impaired MRE11 and NBS1 expression.
+26
+–
+28
+Biallelic deletions or homozygous frameshift mutations, however, are associated with strong reduction of MRE11 transcript levels and protein expression, reduced functionality in cell lines assays as well as exquisite bleomycin sensitivity.
+29
+,
+30
+Among MSI-positive colorectal cancer 82% of cancers harbored a MRE11 mutation and 32% of them were biallelic mutations. 30 Separately, biallelic mutations or deletions of two or more nucleotides were reported in 15% of MSI-positive endometrial cancers.
+31
+It was first described by our group
+21
+in in vitro studies and later confirmed by others
+30
+,
+32
+,
+33
+that deficiency of HR caused by dysfunctional MRN complex may sensitize cancer cells to PARP inhibitors.
+MRE11
+mutant colorectal cancer cell lines have been shown to be significantly more sensitive to olaparib and ABT-888 than MRE11 wild-type cells.
+30
+,
+33
+However, only biallelic mutations leading to markedly reduced transcript levels were shown to be predictive for PARP-sensitivity.
+30
+Likewise, NBS1 deficient human fibroblasts are also sensitive to various PARP inhibitors.
+21
+,
+32Ataxia Telangectasia Mutated (ATM)
+Ataxia telangiectasia mutated (ATM) is a serine threonine protein kinase with a crucial function in the response to DNA DSBs.
+34
+Upon DNA damage, ATM is activated either by autophosphorylation or by the DNA damage sensor complex MRN. Activated ATM induces DNA damage signaling via Chk2 and p53 to induce DNA damage checkpoints and via H2AX phosphorylation, MRN complex,
+BRCA2
+and RAD51 to initiate DNA repair by HR.
+34
+ATM
+germ-line mutations are the underlying cause of ataxia telangiectasia, a severe syndrome characterized by neurodegeneration with increased susceptibility to develop leukemia and lymphomas. 35 Somatic mutations of
+ATM
+are common among hematological malignancies such as chronic lymphocytic leukemia and mantle cell lymphoma but also among some solid tumors such as lung adenocarcinomas.
+36
+The functional interconnection between PARP1 and ATM was first observed in mouse models where
+Parp1
+and
+Atm
+double knockout mice were shown to be embryonically lethal.
+37
+Inhibition of PARP was subsequently shown to cause selective cell death in ATM deficient cancer cell lines due to their impaired HR by our group where siRNA against ATM and the ATM inhibitor caffeine both resulted in sensitivity to the PARP inhibitor KU0058948 in HeLa cells.
+21
+This link was confirmed by another study where PARP1 null cells showed activation of ATM, Chk2 and increased RAD51 foci formation and sensitivity to ATM inhibitors and ATM defective cells showed sensitivity to the PARP inhibitor 4-amino-1,8-naphtalamine.
+38
+Two recent studies suggest a potential role for PARP inhibitors in treatment of mantle cell lymphoma as preclinical studies using olaparib in ATM deficient xenograft models increased survival and inhibited tumor growth.
+39
+,
+40
+Furthermore, PARP inhibition sensitizes
+Atm
+−/−
+mouse fibroblasts to radiation therapy.
+41Partner and Ligand of BRCA2 (PALB2)
+The partner and localizer of BRCA2 (PALB2) maps to 16p12.2, a region associated with loss of heterozygosity in 12% of breast cancers.
+42
+PALB2 now has an established role in the formation of the BRCA-complex with
+BRCA1
+and
+BRCA2
+, which is necessary for competent HR (reviewed in ref.
+43
+). However, emerging evidence suggests PALB2 can also bind D-loop DNA structures and enhances RAD51 recombinase activity.
+44
+Controversy still exists in how PALB2 is regulated, with inconsistencies reported in how MRG15 (a major PALB2 binding partner
+45
+) interacts with PALB2 in regulating HR.
+45
+,
+46
+It also remains unclear if PALB2 localization to sites of DNA DSBs is dependent on BRCA1 or not.
+47
+–
+49
+While
+PALB2
+biallelic mutations are known to cause Fanconi Anemia and predispose to pediatric malignancies, including medulloblastomas, Wilms' tumors and acute myeloid leukemia.
+50
+Monoallelic truncating mutations of
+PALB2
+, on the other hand, have been shown to cause familial breast and pancreatic cancer,
+43
+,
+51
+and to predispose to male breast cancer.
+51
+,
+52
+Mutations in prostate and ovarian cancers are rarer events.
+43
+Breast cancers arising in patients harboring
+PALB2
+mutations appear to have phenotypic characteristics intermediate between those of tumors from
+BRCA1
+and
+BRCA2
+mutant cancers (i.e., 50% of histological grade III, 58% oestrogen receptor negative, 93% HER2 negative and 40% of triple-negative phenotype).
+43
+Given its pivotal role in competent HR, PALB2 is likely to share a synthetic lethal interaction with DNA-damaging agents and PARP inhibitors. As proof of principle, an in vitro study demonstrated a dramatically increased sensitivity to olaparib in PALB2-deficient cells (EUFA1341) compared to control cells with wild-type PALB2.
+53
+Further supporting evidence stems from a study where a personalized xenograft of a patient with a
+BRCA2
+wild-type sporadic pancreatic adenocarcinoma showed a dramatic and persistent response to cisplatin and mitomycin C, but not gemcitabine.
+54
+Exomic sequencing of the xenograft and germline DNA identified a somatically acquired point mutation in exon 10 and a germline frameshift deletion, resulting in biallelic inactivation of
+PALB2
+.
+54
+These exciting preliminary findings clearly need corroboration in well designed in vitro and in vivo studies, but suggest that
+PALB2
+mutation carriers are likely to represent a further subgroup of patients who may benefit from treatment with PARP inhibitors, either as monotherapy or in combination with platinum salts or interstand cross-linking agents.EMSY
+EMSY
+maps to the commonly amplified region at 11q13–q14 and has been identified as a
+BRCA2
+binding partner.
+55
+Using yeast two-hybrid screens, co-immunoprecipitation and site-directed mutagenesis, EMSY was shown to bind to the region encoded by exon 3 of BRCA2 (between residues 23 and 46) via its “EMSY N Terminal” (ENT) domain.
+55
+Attributing other functions to this largely novel protein has proven challenging, however, there is evidence to suggest that EMSY mau play a role in global transcription control and chromatin remodeling.
+56
+,
+57
+EMSY has also been reported have a role in HR-mediated repair of DNA DSBs,
+55
+an assertion based on four observations: (1) EMSY co-localizes with phospho-γH2AX to sites of DNA DSBs following irradiation (though this phenomenon was shown only in mouse fibroblast cells). (2) EMSY shares its BRCA2 binding site with PALB2.
+42
+(3) Overexpression of a truncated form of
+EMSY
+in human mammary epithelial cells (184-h Tert cells) was reported to produce a pattern of chromosomal instability akin to that found in
+BRCA2
+-null cells.
+58
+(4)
+EMSY
+amplification has been identified in subsets of sporadic breast, ovarian and pancreatic cancer, with an association with reduced survival.
+59
+–
+63
+Together these observations have lead to the suggestion that
+EMSY
+amplification is a mechanism of
+BRCA2
+pathway inactivation in sporadic tumors. Some have also suggested that
+EMSY
+gene amplification could be used as a predictive biomarker for response to platinum salts,
+64
+PARP inhibition,
+65
+or neoadjuvant chemotherapy.
+66
+Despite these interesting observations, the role of EMSY in carcinogenesis or of
+EMSY
+amplification in HR remains a controversial issue. The effects of re-expression of a full length
+EMSY
+construct have not been published, and direct evidence of
+EMSY
+amplification causing abrogation of HR is yet to be provided. Our own observations in cell line models suggest that
+EMSY
+amplification does not necessarily lead to abrogation of HR DNA repair of DSBs, nor does it confer sensitivity to platinum salts or potent PARP inhibitors (Wilkerson PM and Reis-Filho JS, unpublished observations). We would therefore advocate caution in the use of
+EMSY
+amplification as a predictive marker for response to PARP inhibitors.Phosphatase and Tensin Homolog Deleted on Chromosome 10 (PTEN)
+The tumor suppressor gene
+PTEN
+(phosphatase and tensin homolog deleted on chromosome 10) has a well-established role in limiting PI3K-AKT signaling through its phosphatase activity.
+67
+PTEN loss of function is a frequent event in different forms of human cancers and can occur through mutations, deletions or promoter hypermethylation.
+68
+For example, mutation of
+PTEN
+occurs in up to 40% of glioblastomas,
+69
+in 50% of endometrial cancers,
+70
+and in up to 20% of colorectal cancers.
+71
+Moreover, loss of PTEN expression is observed in 48% of breast cancers,
+72
+and 20% of prostate cancers.
+73
+Recent studies have demonstrated a distinct role for PTEN in the maintenance of chromosomal integrity and repair of DNA DSB.
+24
+,
+74
+,
+75
+These and other studies showed that loss of PTEN leads to both genomic instability and impaired RAD51-mediated DNA DSB repair by HR.
+22
+–
+24
+,
+74
+,
+75
+Specifically, in cells with PTEN loss, RAD51 does not appear at sites of DNA DSB to mediate repair by HR. The reason(s) for the absence of RAD51 at sites of DNA damage in cells with PTEN loss is still under investigation. Whilst some studies have reported that loss of PTEN leads to suppressed RAD51 expression,
+22
+,
+24
+in other studies
+23
+,
+76
+total RAD51 levels were shown to be similar in
+PTEN
+wild-type and mutant cancer cell lines. In our study in reference
+23
+, however, although RAD51 expression remained unchanged, upon DNA damage RAD51 nuclear accumulation at sites of DNA DSB was reduced in PTEN mutant cell lines, suggesting an impaired ability of RAD51 to localize to the nucleus.
+23
+Moreover, among
+PTEN
+mutant cell lines, McEllin et al. observed decreased transcript levels of the RAD51 paralogs RAD51B, RAD51C and RAD51D, which are all involved in multiple steps during the HR repair process.
+77
+Given these discrepant findings regarding the exact mechanism of PTEN in HR DNA repair, further research is warranted to define the role of PTEN in DNA DSB repair. In three studies of PTEN mutant cell lines established from breast, prostate, melanoma, bladder, glioma and endometrioid endometrial cancer as well at
+PTEN
+−/−
+and
+PTEN
++/+
+astrocytes, PTEN loss of function was found to predict sensitivity to the PARP inhibitors olaparib and ABT-888.
+22
+,
+23
+,
+76
+Moreover, we have recently reported a patient with endometrial adenocarcinoma harboring a
+PTEN
+gene mutation, lacking PTEN expression and not harboring germ-line
+BRCA1
+or
+BRCA2
+germ-line mutations, who experienced a clear objective response to single agent olaparib treatment.
+78
+Additional evidence that PTEN null cancers may be more sensitive to DNA-damaging agents such as platinum-salts or anthracyclines comes from studies reporting that patients with PTEN-null advanced endometrial cancer treated with chemotherapy may respond better to chemotherapy than those with PTEN expression.
+79
+Future clinical trials will determine if these promising findings will translate into patient benefit.Aurora kinase A (AURKA)
+Aurora-A kinase (AURKA) is a member of the Aurora serine/threonine protein kinase family, which plays an important role in mitosis and meiosis. AURKA is also involved in DNA damage response
+80
+,
+81
+and modulates the repair of DSB.
+82
+AURKA is frequently amplified and or overexpressed in various cancer types and associated with aggressive tumor behavior in tumors such as ovarian cancer
+83
+pancreatic, breast and colon cancers.
+84
+Overexpression of AURKA has recently been shown to result in reduced ability for HR DNA repair
+82
+through PLK1-mediated inhibition of RAD51 recruitment to DNA DSBs
+82
+and through suppression of BRCA2 expression.
+85
+As expected, AURKA overexpression has been shown to result in sensitivity to the PARP inhibitor olaparib in in vitro experiments and in xenografts.
+82
+Some conflicting evidence, however, exists on AURKA overexpression and its role in HR, as reports suggest that AURKA expression results in radio-resistance,
+85
+,
+86
+and silencing of AURKA, either through short hairpin RNA or Aurora-A-inhibitors, leads to increased radiosensitivity in cancer cells.
+85
+,
+86
+Furthermore, overexpression of AURKA assessed by immunohistochemistry in ovarian cancer tumors, which were treated with platinum-based chemotherapy, was associated with poor prognosis.
+83
+Cancers with impaired HR DNA repair such as those with
+BRCA1
+or
+BRCA2
+mutations are well known to exhibit sensitivity to platinum-salts as well as irradiation
+87
+,
+88
+and therefore, cancers with AURKA overexpression would be expected to be, based on the findings reporting its role in HR,
+82
+radio-sensitive and/or responsive to platinum-based chemotherapy.Conclusion
+Several genes apart from
+BRCA1
+and
+BRCA2
+are involved in HR. It is well established that loss of
+BRCA1
+or
+BRCA2
+, due to mutations
+6
+and possibly due to promoter methylation,
+12
+,
+13
+leads to impaired HR DNA repair. The loss of this type of DNA repair due to genetic/epigenetic aberrations in cancer cells provides a rational for the use of PARP inhibitors following the principles of synthetic lethality.
+Recent studies focusing on genes involved in the DSB DNA repair machinery other than
+BRCA1
+and
+BRCA2
+have identified aberrations that are commonly found in various cancers and lead to defective HR DNA repair. Preclinical studies also support the rationale that some these aberrations are synthetic lethal with PARP inhibitors (e.g., PTEN loss of function); however, clinical trials are certainly needed to confirm these findings. The clinical use of PARP inhibitors will undoubtedly transcend the subgroup of cancer patients that harbor
+BRCA1
+or
+BRCA2
+germ-line mutations. Preliminary data from clinical trials testing PARP inhibitors in patients with sporadic cancers,
+8
+–
+10
+as well a case report,
+78
+indicate that tumors other than those from patients with
+BRCA1
+or
+BRCA2
+germline mutations may benefit from PARP inhibition. The main challenge, however, remains the identification of cancers with gene aberrations that result in impaired HR, which are the likeliest to respond to PARP inhibition.
+The application of high-throughput functional genomic approaches, such as genome-wide shRNA and siRNA PARP inhibitor sensitization screens, and drug screens will likely continue to help identify the aberrations that are synthetically lethal with PARP inhibitors. In fact, such approaches have already proven successful in identifying novel synthetic lethal interactions,
+89
+,
+90
+and one can envisage that additional hits will be identified in the near future.
+Currently, different approaches for the identification of human cancers with impaired HR DNA repair are being explored. One is to generate classifiers based on microarray gene expression profiling
+65
+or genomic profiling
+91
+,
+92
+of
+BRCA1
+and
+BRCA2
+mutant cancers and to apply them to sporadic cancers in an attempt to identify those who share common transcriptomic and/or genomic characteristics with BRCA deficient tumors. The other is to assess surrogate markers of competent HR DNA repair, such as RAD51 foci formation upon DNA damage.
+93
+–
+96
+This latter approach is likely to identify most if not all cancers harboring any aberrations in genes that control HR DNA repair and may constitute a biomarker for the selection of patients that are likely to benefit from PARP inhibitors. However, both approaches have their own limitations and still need to be further assessed and validated. With the rapid technological developments in the field of massively parallel sequencing that might lead to broader accessibility and accurate readouts, another approach would be to sequence gene sets that are involved in HR DNA repair to define a repertoire of mutations that predict PARP inhibitor sensitivity.Acknowledgements
+K.J.D., P.M.W., D.W., A.A. and J.S.R.F. are funded in part by Breakthrough Breast Cancer. A.A. is funded in part by The American Association of Cancer Research, The Breast Cancer Campaign, the Breast Cancer Research Foundation and Stand Up to Cancer. K.J.D. is the recipient of Swiss National Science Foundation fellowship and P.M.W. is the recipient of a Wellcome Trust Foundation Clinical Research Fellowship. B.W. is the recipient of a Cancer Research UK post-doctoral fellowship.

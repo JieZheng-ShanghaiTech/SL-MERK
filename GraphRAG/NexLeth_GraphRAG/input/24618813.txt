@@ -1,0 +1,584 @@
+Abstract
+The anaplastic lymphoma kinase (ALK) and the c-Met receptor tyrosine kinase play essential roles in the pathogenesis in multiple human cancers and present emerging targets for cancer treatment. Here, we describe CM-118, a novel lead compound displaying low nanomolar biochemical potency against both ALK and c-Met with selectivity over >90 human kinases. CM-118 potently abrogated hepatocyte growth factor (HGF)-induced c-Met phosphorylation and cell migration, phosphorylation of ALK, EML4-ALK, and ALK resistance mutants in transfected cells. CM-118 inhibited proliferation and/or induced apoptosis in multiple c-Met- and ALK-addicted cancer lines with dose response profile correlating target blockade. We show that the CM-118-induced apoptosis in c-Met-amplified H1993 NSCLC cells involved a rapid suppression of c-Met activity and c-Met-to-EGFR cross-talk, and was profoundly potentiated by EGFR inhibitors as shown by the increased levels of apoptotic proteins cleaved-PARP and Bim as well as reduction of the survival protein Mcl-1. Bim-knockdown or Mcl-1 overexpression each significantly attenuated apoptosis. We also revealed a key role by mTOR in mediating CM-118 action against the EML4-ALK-dependent NSCLC cells. Abrogation of EML4-ALK in H2228 cells profoundly reduced signaling capacity of the rapamycin-sensitive mTOR pathway leading to G
+1
+cell cycle arrest and mitochondrial hyperpolarization, a metabolic perturbation linked to mTOR inhibition. Depletion of mTOR or mTORC1 inhibited H2228 cell growth, and mTOR inhibitors potentiated CM-118’s antitumor activity in vitro and in vivo. Oral administration of CM-118 at a wide range of well tolerated dosages diminished c-Met- and ALK phosphorylation in vivo, and caused tumor regression or growth inhibition in multiple c-Met- and ALK-dependent tumor xenografts in mice. CM-118 exhibits favorable pharmacokinetic and drug metabolism properties hence presents a candidate for clinical evaluation.
+Keywords:
+c-Met, ALK, EGFR, mTOR, targeted cancer therapy, combination therapyIntroduction
+Until the last decade, cancer diagnosis and treatments have been largely based on anatomic and histologic classifications. It is now believed that human cancers are heterogeneous diseases arising from diverse and highly complex molecular aberrations. Recent advances in cancer biology have fundamentally improved our view toward certain key cancer-driver oncogenes and our ability to treat cancer patients with a more personalized oncogene-targeted approach. One successful approach is the use of selective receptor tyrosine kinase (RTK) inhibitors to target kinases that are activated by mutation or amplification, leading to oncogene addiction.
+1
+,
+2
+This strategy has been successfully applied in the cases of imatinib for targeting oncoprotein BCR-ABL in chronic myelogenous leukemia (CML), trastuzumab for targeting erbB2/Her2 in breast cancer, and erlotinib for targeting EGFR in non-small cell lung cancer (NSCLC).
+3
+-
+5
+A latest example for personalized treatment of NSCLC is crizotinib that targets the anaplastic lymphoma kinase (ALK).
+6
+-
+8
+In 2007, an ALK fusion gene was identified as the echinoderm microtubule-associated protein-like 4 fused to ALK (EML4-ALK) in NSCLC by two groups independently employing functional genomics
+9
+and global phosphoproteomics.
+10
+EML4-ALK occurs in ~5% of NSCLC and the rate is significantly higher in NSCLC subgroups of adenocarcinomas and non/light smokers.
+6
+-
+8
+In addition to NSCLC, various ALK fusion proteins, ALK genomic amplification, and point mutation are causally linked to anaplastic large-cell lymphoma (ALCL), inflammatory myofibroblastic tumors (IMTs), and neuroblastoma.
+11
+-
+17
+The discovery of PF-02341066, a small molecule kinase inhibitor targeting ALK and c-Met,
+18
+led to the clinical development and regulatory approval of crizotinib that is effective in treating EML4-ALK positive NSCLC patients.
+7
+,
+8
+c-Met is another high profile RTK under intense investigation for cancer treatment. The expression of c-Met and its natural ligand hepatocyte growth factor (HGF) are low in normal tissues but are aberrantly activated in a wide variety of human cancers, including papillary renal cell carcinomas, gastric, NSCLC, head and neck, liver, ovarian, and thyroid cancers.
+19
+-
+22
+In NSCLC, c-Met genomic amplification and protein overexpression are among the important mechanisms leading to clinical resistance to anti-EGFR therapy.
+23
+,
+24
+Numerous ongoing clinical trials are exploring treatments with c-Met inhibitor together with anti-EGFR therapy (e.g.,
+{"type":"clinical-trial","attrs":{"text":"NCT01121575","term_id":"NCT01121575"}}
+NCT01121575
+). More recent studies have identified a critical role of c-Met in anti-angiogenesis therapy-associated acceleration of tumor metastasis, and c-Met blockade significantly attenuated tumor metastasis to local lymph nodes and overall cancer spread.
+25
+-
+27
+Evidence to date suggests that use of c-Met inhibitors in the settings of monotherapy and combination therapy with other therapeutic agents could be crucial for improving overall clinical benefit. To date, however, there are no drugs approved for c-Met-targeted therapy.
+CM-118 belongs to the same chemical class as X-396 described previously.
+28
+These inhibitors possess a common aminopyridazine core and hydrophobic 2,6-dichloro-3-fluoro-phenylethoxy group while featuring distinct side chains, giving rise to differential kinase selectivity profiles and physical chemical properties. In this report, we show that CM-118 is a potent and selective inhibitor dually targeting c-Met and ALK, including those reported ALK mutants.
+29
+,
+30
+The profound antitumor activity of CM-118 in c-Met- and ALK-addicted cancer cells is mediated by suppression of oncogenic signaling of c-Met and ALK leading to down-modulation of intracellular regulatory network of growth and survival. In vivo, CM-118 is efficacious against multiple c-Met- and ALK-driven solid tumors when administrated orally at a wide range of well-tolerated dosages, and exhibits potential for novel combination therapy strategies.Results
+CM-118 is a potent and selective dual inhibitor of c-Met and ALK
+CM-118 is a novel aminopyridazine scaffold-based kinase inhibitor (
+Fig. 1A
+). In our in-house homogeneous time-resolved fluorescence (HTRF) assays with 100 μmol/L ATP, it inhibited kinase activity of the recombinant human c-Met and ALK with IC
+50
+values 0.04 ± 0.005 μmol/L and 0.06 ± 0.01 μmol/L, respectively (
+Fig. 1B
+). Subsequent assays in a
+32
+p-ATP format showed IC
+50
+values of ALK (0.007 μmol/L) and of five ALK mutants (0.012 to 0.054 μmol/L) (
+Table 1
+). The KINOMEscan™ profiling with racemic mixture of CM-118 and crizotinib/PF-1066 in a panel of 96 kinases revealed a good selectivity profile for CM-118, detecting a total of 2 additional hits including AXL and CSF1R (≥ 65% inhibition) at 1 μmol/L (
+Fig. 1C
+; not shown). In cells, CM-118 at 0.1–3 μmol/L inhibited the HGF-induced c-Met phosphorylation (
+Fig. 1D
+) and migration of A549 cells (
+Fig. 1E
+). To assess inhibition of ALK in cells, we created constructs encoding ALK, EML4-ALKv1, ALK F1174L, and EML4-ALKv1 L1196M. In the HEK293 transient overexpression settings, CM-118 at low micromolar range dose dependently inhibited phosphorylation of ALK, EML4-ALKv1, ALK F1174L, and EMl4-ALKv1 L1196M, with respective IC
+50
+values 0.92, 1.25, 1.9, and 3.5 μmol/L (
+Fig. 1F
+). Together, these results establish CM-118 as a potent and selective dual inhibitor of c-Met and ALK in molecular assays and in cells.
+Open in a separate window
+Figure 1.
+CM-118 is a potent and selective dual inhibitor of c-Met and ALK. (
+A
+) CM-118 chemical structure is shown. (
+B
+) c-Met, ALK enzyme assays via HTRF; dose curves and mean IC
+50
+values are shown. (
+C
+) One micromole per liter racemic mixture of CM-118 and crizotinib (PF-1066) were assayed in 96 human kinases (KINOMEscan™). Kinase inhibition dendrograms are shown; the size of red dots is proportional to the degree of inhibition. (
+D
+) Serum-starved A549 cells were stimulated by HGF with vehicle or CM-118, then immunoblotted. (
+E
+) HGF-induced A549 cell migration was assayed without or with CM-118; left, crystal violet staining of migrated cells; right, migrated cells were quantified by 5 visual fields per filter. (
+F
+) HEK293 transiently expressing the indicated ALK constructs, treated with CM-118 for 6 h then immunoblotted. The phospho-ALK levels were quantified. CM-118 IC
+50
+(μmol/L) values are shown.
+Table 1.
+Inhibition profile of CM-118 against a panel of ALK and ALK mutant kinases as assessed by
+32
+p-ATP assays (Reaction Biology Corporation) with 10 μmol/L total ATP
+Kinases
+CM-118 IC
+50
+(μmol/L)
+ALK
+0.007
+ALK (C1156Y)
+0.012
+ALK (G1202R)
+0.054
+ALK (F1174L)
+0.012
+ALK (L1196M)
+0.050
+ALK (R1275Q)
+0.014
+Open in a separate window
+CM-118 was tested in a 10-dose IC
+50
+mode with 3-fold serial dilution starting at 10 μmol/L. IC
+50
+values are shown.
+Selective targeting of cell proliferation of c-Met- or ALK-addicted cancer cells
+We evaluated CM-118 for inhibition of cell proliferation in 34 histologically diverse cancer cell lines, including those of NSCLC, gastric/esophageal, brain, liver, pancreatic, and colon (
+Fig. 2
+;
+Table 2
+). In the NSCLC panel, cell growth of H1993 (c-Met amplified) and H2228 (EML4-ALK) were inhibited with IC
+50
+0.54 ± 0.06 μmol/L and 1.16 ± 0.43 μmol/L, respectively (
+Fig. 2A
+). In the gastric/esophageal panel, CM-118 potently inhibited the growth of SNU-5, a well-established c-Met-driven cell line, with an IC
+50
+0.17 ± 0.08 μmol/L (
+Fig. 2B
+). In the brain panel, CM-118 inhibited SH-SY5Y neuroblastoma (ALK F1174L) and U87MG glioblastoma (elevated c-Met phosphorylation) with IC
+50
+2.33 ± 0.65 μmol/L and 6.59 ± 1.31 μmol/L, respectively (
+Fig. 2C
+). We noted that the gefitinib-sensitive HCC827 cells showed high levels of phosphorylated c-Met and total c-Met but displayed a moderate sensitivity, while other cell lines, including the NCI-N87 cells that show elevated EGFR, HER2, and phosphorylated c-Met, were relatively resistant to CM-118. We conclude from these results that CM-118 exerts a potent cytotoxicity toward subsets of cancer cells that are addicted to the oncogenic pathways of c-Met or ALK.
+Open in a separate window
+Figure 2.
+CM-118 inhibits proliferation of c-Met- or ALK-driven cancer cell lines. Panels of 5 NSCLC (
+A
+, left), 5 gastric (
+B
+, left), and 4 brain (
+C
+, left) cancer lines were immunoblotted as indicated. CM-118 was assessed for growth inhibition potency in corresponding cancer lines. Bar graphs show mean IC
+50
+values (
+n
+= 3) determined from MTS assays for NSCLC (
+A
+, right), gastric (
+B
+, right), and brain (
+C
+, right) panels.
+Table 2.
+Inhibition of cancer cell proliferation by CM-118
+Tumor
+Cell line
+IC
+50
+(µmol/L)
+1
+NSCLC
+H1975
+17.41 ± 1.29
+2
+A549
+16.42 ± 1.59
+3
+HCC827
+9.03 ± 1.61
+4
+H2228
+1.16 ± 0.43
+5
+H1993
+0.54 ± 0.06
+6
+Gastric/esophageal
+BGC-823
+20.32
+7
+AGS
+14.07
+8
+TE-1
+19.19
+9
+Eca-109
+18.36
+10
+MGC80–3
+25.82
+11
+HGC-27
+13.14 ± 3
+12
+SGC-7901
+60 ± 8
+13
+NCI-N87
+50.54 ± 7
+14
+SNU-1
+6.7 ± 0.3
+15
+SNU-5
+0.17 ± 0.08
+16
+Brain
+SH-SY5Y
+2.33 ± 0.65
+17
+U-87MG
+6.59 ± 1.31
+18
+LN-229
+31.90 ± 0.63
+19
+LN-18
+35.06 ± 4.05
+20
+Liver
+RBE
+4.79 ± 0.93
+21
+BEL-7402
+20.89 ± 1.13
+22
+BEL-7404
+17.65 ± 1.53
+23
+SMMC-7721
+17.65 ± 1.53
+24
+HepG2
+≈60
+25
+QGY7701
+32.01 ± 4.58
+26
+QGY7703
+19.93 ± 1.00
+27
+HuH-7
+7.65 ± 0.99
+28
+SK-HEP-1
+22.82 ± 2.40
+29
+Renal
+Caki
+21.51 ± 1.09
+30
+A498
+22.88 ± 0.62
+31
+786-O
+22.31 ± 0.32
+32
+Pancreatic
+Capan-1
+19.35 ± 5.79
+33
+Colon
+HT29
+19.27 ± 1.49
+34
+HCT116
+11.36 ± 3.02
+Open in a separate window
+The indicated tumor cells were plated in 96-well culture plates for 24 h, treated for 72 h with DMSO or various concentrations (0.027 to 60 μmol/L) of CM-118,
+n
+≥ 3. Cell growth was measured by MTS assays. Dose response curves were generated for determination of IC
+50
+for each cell line.
+Inhibition of c-Met signaling, growth, and survival in NSCLC and gastric tumor cells
+We chose two c-Met-driven H1993 NSCLC and SNU-5 gastric lines to investigate the CM-118 effects on c-Met signaling. Upon 6 h treatment, CM-118 inhibited P-Met(Y1234/5), P-AKT(S473), P-ERK(T202/Y204), and P-Stat3(Y705) in H1993 and SNU-5 with ED
+50
+values in the nanomolar range and an inhibition profile comparable to that of a known c-Met/ALK inhibitor crizotinib/PF-02341066 (PF) (
+Fig. 3A and B
+). CM-118 reduced expression of cell cycle factors cyclin D1 and c-Myc, accompanying a reduction of cells in S phase and increase in G
+1
+phase in both SNU-5 and H1993 cells (
+Fig. 3C and D
+). CM-118 also induced cell death in H1993 showing sub-G
+1
+population in control, 0.5, 1, and 3 μmol/L CM-118-treated cells as 4.3%, 19.2%, 16.5%, and 18.1%, respectively (
+Fig. 3D
+). These results indicate that suppression of c-Met signaling by CM-118 led to a blockade of G
+1
+progression and reduced survival.
+Open in a separate window
+Figure 3.
+CM-118 inhibits oncogenic c-Met signaling and survival in c-Met-driven H1993 and SNU-5 cells. H1993 (
+A
+) or SNU-5 (
+B
+) cells were treated for 6 h with various doses of CM-118, 1 μmol/L PF2341066 (PF). Total cell lysates were immunoblotted as indicated. (
+C
+) Cell lysates of H1993 or SNU-5 after 6 h treatment with various doses of CM-118, 1 μM PF, or 1 μM AZD8055 (AZD) were immunoblotted. (
+D
+) H1993 and SUN-5 cells were treated with various doses of CM-118 for 48 h, then collected for cell cycle analysis.
+Combination blockade of c-Met and EGFR augmented apoptosis, which mechanistically involves activation of Bim and inhibition of Mcl-1
+Because H1993 cells express a significant level of phosphorylated EGFR that was potently but partially inhibited by CM-118 upon 6 h treatment (
+Figs. 2A
+and
+​
+and3A),
+3A
+), we wished to examine whether EGFR also plays a role in growth and survival of these cells. We performed trypan-blue cell counting after 48 h exposure of H1993 cells with CM-118 alone or in combination with an irreversible EGFR inhibitor afatinib.
+31
+Cells treated with 2 μmol/L CM-118 or 2 μmol/L afatinib each elicited 24.8% and 20.7% cell death, respectively, while the combination treatments with CM-118 and afatinib resulted in a dramatic 84.1% cell death (
+Fig. 4A
+). A similar potentiation of cell death was observed with 5 μmol/L gefintinib (not shown). Immunoblotting showed that CM-118 alone induced apoptotic proteins cleaved-PARP and Bim, afatinib alone caused a significant but moderate increase in cleaved-PARP. Levels of cleaved-PARP and Bim, however, were greatly enhanced in cells under combination treatments, which correlated with a more complete blockade in P-EGFR, P-ERK, and P-AKT (
+Fig. 4B
+). Further analysis indicated that among the well-established survival proteins of Bcl-2, Bcl-xl, and Mcl-1, Mcl-1 was significantly reduced by CM-118 and further inhibited by the combination treatments (
+Fig. 4B
+). We examined the role of Bim in this setting employing Bim-targeting Sh-RNAs. Depletion of Bim via two independent hairpins reduced levels of cleaved-PARP most evidently in cells under the combination treatments (
+Fig. 4C
+). Bim-depletion attenuated apoptosis in cells treated with CM-118, afatinib and combination (
+P
+< 0.05) (
+Fig. 4D
+). We then analyzed cells transiently overexpressing Mcl-1. Interestingly, overexpression of Mcl-1 reduced levels of cleaved-PARP most noticeably in cells under the combination treatments (
+Fig. 4E
+), and caused statistically significant attenuation of apoptosis in cells treated with afatinib or with the combination treatments (
+P
+< 0.05) (
+Fig. 4F
+). The results in
+Figure 4
+collectively indicate that the CM-118-induced apoptosis involves suppression of both the c-Met activity and c-Met-to-EGFR cross-talk, and is mechanistically mediated through modulating both Bim and Mcl-1.
+Open in a separate window
+Figure 4.
+CM-118 and its combination with afatinib induce apoptosis in H1993 cells. (
+A
+) H1993 plated in 6-well culture plates were treated for 48 h with 2 μmol/L CM-118, 2 μmol/L afatinib, or a combination of the two inhibitors, then assessed for viability by trypan-blue cell counting. Percent net growth or death is relative to the initial cell density at initiation of treatment. (
+B
+) Cells as in (
+A
+) were immunoblotted. H1993 cells infected with the indicated lantivirus shRNAs were similarly treated and subjected to analysis of immunoblotting (
+C
+) and cell survival (
+D
+). H1993 cells transiently transfected with the indicated expression constructs were similarly analyzed by immunoblotting (
+E
+) and assayed for survival (
+F
+). Statistical analysis was performed on cells of Sh-Bim vs. Sh NT; cells with Mcl-1 overexpression vs. vector-transfected cells.
+Targeting EML4-ALK and survival in NSCLC, which critically involves a suppression of mTOR signaling pathway
+Treatment of EML4-ALK-positive H2228 cells with CM-118 for 6 h led to a dose-dependent and complete inhibition of P-ALK(Y1604) and P-AKT(S473) with an ED
+50
+~1 μmol/L, while P-Stat3(Y705) was inhibited at ~5 μM. Like PF, CM-118 only modestly inhibited P-ERK even at high concentrations (
+Fig. 5A
+). Notably, the potency of CM-118 in targeting P-EML4-ALK and P-AKT correlated well with its growth inhibition IC
+50
+1.16 μmol/L (
+Fig. 2A
+) and G
+1
+cell cycle arrest. The G
+1
+cells for control, 1 μmol/L, and 3 μmol/L CM-118 treatments were 77.4%, 87.5%, and 91.6%, respectively, which paralleled the diminishing levels of cyclin D1 and c-Myc (
+Fig. 5B
+).
+Open in a separate window
+Figure 5.
+CM-118 inhibits EML4-ALK signaling, survival, and its mechanism in H2228 cells. (
+A
+) H2228 cells were treated for 6 h with various doses of CM-118, 1 μmol/L PF-02341066 (PF), then immunoblotted. (
+B
+) H2228 cells were treated with the indicated CM-118 for 48 h, subjected to cell cycle analysis (top) and immunoblotting (bottom). (
+C
+) H2228 cells were treated for 24 h with the indicated CM-118, 1 μmol/L PF, rapamycin (Rapa), or AZD8055 (AZD), then immunoblotted. (
+D
+) H2228 cells were treated with the indicated inhibitors for 24 h, then stained with JC-1 and photographed as described in Methods. (
+E
+) H2228 cells were infected with GIPZ ShRNA lentivirus encoding non-targeting (NT), mTOR (Sh#2), Raptor (Sh#2), and Rictor (Sh#4). GFP-expressing (Sh-positive) viable cells were counted on day 1 and day 8 (day 6 and 14 post infection) (top) and quantified (bottom left). Puromycin-selected cells were immunoblotted (bottom right). (
+F
+) H2228 cells were treated for 3 d with 3 μmol/L CM-118, 0.1 μmol/L rapamycin (Rapa), or 0.1 μmol/L AZD8055 (AZD), then assessed for viability via trypan-blue cell counting. Results are processed similarly as in
+Figure 4A
+.
+To investigate a role of mTOR in EML4-ALK-targeting, H2228 cells were treated for 24 h with CM-118, the mTOR allosteric inhibitor rapamycin and an ATP-competitive inhibitor AZD8055.
+32
+The rapamycin-sensitive mTOR substrate P-S6K1(T389) and P-S6(S235/236) were dose-dependently inhibited, while the rapamycin-resistant P-4EBP1(T36/47)
+33
+was not inhibited by CM-118 or PF but was inhibited by AZD8055 (
+Fig. 5C
+). At 5 μmol/L or higher, CM-118 reduced the mTOR catalytic activity biomarker P-mTOR(S2481), which paralleled a decline in Thr-1462 phosphorylation in the tuberous sclerosis protein 2 (TSC2), a mechanism known to promote TSC binding and repressing mTOR activity (
+Fig. 5C
+). Because mTOR inhibition has been linked to mitochondrial membrane hyperpolarization,
+34
+we performed live cell staining with JC-1, a cationic dye that forms red fluorescent aggregates when mitochondrial membrane hyperpolarizes. Treatment of H2228 cells with 2 μmol/L CM-118 or 1 μmol/L PF induced a striking increase of JC-1 aggregates, comparable to that of 1 μmol/L AZD8055, while inhibition of MEK/ERK pathway with 15 μmol/L UO126 did not (
+Fig. 5D
+). We then depleted mTOR, the mTORC1-component raptor or the mTORC2-component rictor in H2228 cells via shRNAs. It is quite apparent that depleting of either mTOR or raptor/mTORC1 substantially inhibited growth, while depleting rictor/mTORC2 showed a measurable but less substantial reduction in growth (
+Fig. 5E
+). Consistently, cells treated for 3 d with 0.1 μmol/L rapamycin or AZD8055 each reduced the net cell growth by 77.7% and 73.7%, respectively, while the rapamycin- or AZD8055 combination with 3 μmol/L CM-118 caused 13.7% and 12.8% cell death, respectively (
+Fig. 5F
+). These results along with our in vivo tumor inhibition data (see below) suggest that mTOR plays an important role in the treatment of EML4-ALK positive NSCLC.
+In vivo antitumor efficacy in xenograft c-Met-dependent gastric and glioma tumors
+In the SNU-5 gastric tumor model in nude mice, a single oral administration of CM-118 at 100 and 50 mg/kg suppressed phosphorylation of c-Met in tumors to 2% and 25% of control, respectively, without significant fluctuation in the total c-Met protein levels (
+Fig. 6A
+). In an efficacy study with staged tumors, treatment with 100 and 50 mg/kg CM-118 for 22 d induced substantial tumor regression without causing body weight changes (
+Fig. 6B
+). An additional study with 25 and 12.5 mg/kg CM-118 resulted in tumor growth inhibition (TGI) by 100% and 63%, respectively (
+Fig. 6C
+). A dose-dependent antitumor efficacy was also observed in U87MG tumors treated with 30 and 15 mg/kg CM-118 showing TGI by 89% and 51%, respectively, while 60 mg/kg CM-118 elicited tumor regression (
+Fig. 6D
+). Pharmacokinetic analysis after oral doses of 25 and 12.5 mg/kg CM-118 demonstrated plasma exposure AUC
+(0–8)
+values of 15 283 ng*h/mL and 5863 ng*h/mL, respectively (
+Fig. 6E
+). These results identify CM-118 as an effective agent that shows favorable pharmacokinetic properties and can dose-dependently inhibit c-Met signaling and growth of c-Met-driven tumors in vivo.
+Open in a separate window
+Figure 6.
+CM-118 shows in vivo efficacy in xenograft SNU-5, U87MG tumors. (
+A
+) Nude mice bearing SNU-5 tumors were dosed orally with vehicle, 50 or 100 mg/kg CM-118. Four hours later, levels of phosphorylated c-Met and c-Met in tumor tissue were analyzed as described in Methods. (
+B
+) Tumor bearing mice were dosed orally with vehicle, 50 or 100 mg/kg CM-118 bid (
+n
+= 13). Tumor volumes (top) and body weights (bottom) are shown. (
+C
+) SNU-5 tumor-bearing mice were treated with vehicle, 12.5 or 25 mg/kg CM-118 bid (
+n
+= 5). (
+D
+) U87MG tumor-bearing mice were treated with vehicle, 15, 30, or 60 mg/kg CM-118 bid (
+n
+= 8). Tumor volumes are shown. Statistical analysis: **
+P
+< 0.01; ***
+P
+< 0.001. (
+E
+) On last day of study in
+C
+, mouse plasma (
+n
+= 3) were analyzed for CM-118 concentration and 8 h exposure AUC.
+In vivo antitumor efficacy in c-Met-, ALK-dependent NSCLC tumors
+We next evaluated CM-118 in vivo efficacy in the c-Met amplified H1993 and EML4-ALK positive H2228 tumors. Treatment of H1993 tumor-bearing mice with 60, 30, 15 mg/kg CM-118, or 50 mg/kg PF for 25 d all resulted in highly significant efficacy (
+P
+< 0.001), achieving the day-25 TGI by 81%, 76%, 59%, and 74%, respectively, without causing body weight changes (
+Fig. 7A
+). In tumors treated with 60, 30, or 15 mg/kg CM-118, phosphorylation of c-Met was suppressed, respectively, to 0.4%, 1.3%, and 7.8% of control (
+Fig. 7B
+) demonstrating a nearly complete suppression of c-Met activity accompanying the in vivo efficacy. These results establish CM-118 as an effective agent for potential use in c-Met-driven NSCLC.
+Open in a separate window
+Figure 7.
+CM-118 shows in vivo efficacy in c-Met-, EML4-ALK-driven NSCLC models. (
+A
+) Mice bearing the H1993 tumors (
+n
+= 8) were dosed orally with vehicle, 15, 30, 60 mg/kg bid, or 50 mg/kg PF-02341066 (PF) qd for 25 d. Tumor volumes (top) and body weights (bottom) are shown. (
+B
+) Tumor lysates made 4 h post the last dose were immunoblotted (top) and quantified (bottom). (
+C
+) Mice bearing the H2228 tumors (
+n
+= 3) were dosed once with 15 or 30 mg/kg CM-118. Tumor lysates made 4 h post dosing were immunoblotted (left) and quantified (right). (
+D
+) Plasma samples (
+n
+= 3) of mice received 15 mg/kg CM-118 were analyzed for drug concentration and 8 h exposure AUC. (
+E
+) Mice bearing the H2228 tumors (
+n
+= 8) were dosed orally with vehicle, 15, 30, 60 mg/kg bid or 50 mg PF qd for 28 d. Tumor volumes are shown. Statistical analysis for (
+A and E
+): ***
+P
+< 0.001; treated vs. vehicle control. (
+F
+) Relative tumor volume (RTV) on day 28 for study groups (
+n
+= 8) of vehicle control, 15 mg/kg CM-118 bid, 10 mg/kg rapamycin qw, and combination of CM-118 and rapamycin. Statistical analysis: *
+P
+< 0.05; **
+P
+< 0.01.
+In mice bearing the H2228 tumors, a single dose of CM-118 at 30 or 15 mg/kg inhibited phosphorylation of EML4-ALK to 23% or 42% of control, respectively (
+Fig. 7C
+). Analysis of mice received 15 mg/kg CM-118 showed a plasma AUC value 6638 ng*h/mL (
+Fig. 7D
+), comparable to the results in
+Figure 6E
+. Treatment of H2228 tumor-bearing mice for 28 d with 15 mg/kg CM-118 resulted a TGI by 73% (
+P
+< 0.001), while treatment with 30 or 60 mg/kg CM-118 or 50 mg/kg PF all induced tumor regression, with a most profound tumor shrinkage by 60 mg/kg CM-118 (
+Fig. 7E
+). These results establish CM-118 as an effective agent for potential use in EML4-ALK positive NSCLC. Given an enhanced in vitro antitumor activity by CM-118 combination with mTOR inhibitors (
+Fig. 5F
+), we examined such combination treatments in vivo. After 28 d treatment, the relative tumor volume (RTV) for control-, 15 mg/kg CM-118-, or 10 mg/kg rapamycin-treated groups were 392%, 169%, and 216%, respectively, while the combination treatments nearly completely prevented tumor growth, achieving an RTV value 105%,
+P
+< 0.05 vs. CM-118 alone;
+P
+< 0.01 vs. rapamycin alone (
+Fig. 7F
+). These results together with the data in
+Figure 5C–F
+indicate a critical role of mTOR in the EML4-ALK-dependent tumor growth and suggest that a combined targeting of ALK and mTOR may further improve treatment outcome in EML4-ALK positive NSCLC.Discussion
+The recent FDA approval of crizotinib for use in EML4-ALK positive NSCLC has made ALK a validated cancer drug target and further spurred development of new generation of ALK inhibitors.
+35
+In the landscape for c-Met, while earlier inhibitors may have encountered challenges in target potency and selectivity, newer inhibitors will likely be more successful in exploring potential clinical benefit.
+36
+In this report, we have studied CM-118, a novel aminopyridazine-based inhibitor that targets c-Met and ALK in vitro and in vivo. CM-118 potently inhibited proliferation and survival of numerous c-Met-addicted cancer cells. The cytotoxicity to these cells is a direct result of suppression of oncogenic c-Met activity, which led to a rapid downregulation of AKT and ERK signaling functions. The growth inhibition involves G
+1
+cell cycle blockade and induction of apoptotic cell death. These cellular effects of CM-118 correlated strongly with a reduced expression of cyclin D1 and c-Myc, two critical regulators of cell cycle progression. The cell death induced by CM-118 treatment occurs relatively rapidly with cleaved-PARP and Bim observed as early as 24 h in H1993 cells and SNU-5 cells (not shown). These results are in line with the earlier studies that PF-02341066 selectively induces apoptosis in c-Met-amplified but not in c-Met wild-type or mutant cells,
+37
+,
+38
+and support a rationale for use of c-Met inhibitor therapy in c-Met-amplified cancer patients.
+The c-Met and EGFR signaling cross-talk occurs in cells harboring either wild-type or mutant EGFR.
+23
+,
+39
+,
+40
+In the c-Met-amplified H1993 NSCLC cells, CM-118 potently and completely inhibited c-Met phosphorylation, while it also substantially but incompletely inhibited EGFR phosphorylation. These observations suggest that c-Met cross-activates EGFR in these cells and CM-118 antitumor activity involves down-modulation of both RTKs. We further demonstrated that combination of CM-118 with EGFR inhibitor eliminates the CM-118-resistant EGFR population hence improves antitumor activity. Our results are in line with a recent report showing that combination of erlotinib with c-Met inhibitor SGX523 promotes a profound efficacy potentiation in these tumors.
+41
+We identified apoptosis machinery playing a major role in efficacy of the combination therapy in this setting. Mechanistically, the combined targeting of c-Met and EGFR led to a dramatic activation of the apoptotic protein Bim and loss of the survival protein Mcl-1. Furthermore, depletion of Bim or Mcl-1 overexpression can each attenuate the drug-induced apoptosis thus supporting the functional requirement for modulating Bim and Mcl-1 in the therapeutic response. Collectively, these findings along with future studies may highlight a role of EGFR in c-Met-amplified NSCLC and a potential for therapeutic improvement with combined targeting of c-Met and EGFR.
+We have shown that CM-118 elicited a potent cytotoxicity against ALK-addicted cancer cells. Notably, CM-118 also abrogated enzyme activity of a panel of ALK resistant mutants, and targeted phosphorylation of ALK F1174L and L1196M in transfected HEK293 cells at low micromolar levels that were readily achieved in vivo. Likewise, CM-118 suppressed proliferation of F1174L-driven SH-SY5Y cells, and inhibited tumor growth in vivo (not shown). In the EML4-ALK positive H2228 NSCLC cells, CM-118 inhibited phosphorylation of EML4-ALK leading to suppression of downstream signaling of AKT and STAT3 but only a modest reduction in phosphorylation of ERK. The dose response of CM-118 in targeting the EML4-ALK phosphorylation correlated well with that of cell growth inhibition. Importantly, our studies identified a critical role of mTOR in mediating CM-118’s antitumor activity in the EML4-ALK-addicted NSCLC. Treatment of H2228 cells with CM-118 resulted in an inhibition of the rapamycin-sensitive mTOR signaling pathway, as indicated by loss of the rapamycin-sensitive P-S6(S235/6), P-S6K1(T389), and P-mTOR(S2481) but not the rapamycin-resistant P-4EBP1(T37/46). Mechanistically, the mTOR inactivation is mediated in part through the dephosphorylation of TSC2, thereby promoting TSC binding and inhibition of mTOR. The perturbation of mTOR function is further evidenced by a striking mitochondrial hyperpolarization in cells treated with CM-118, PF, and mTOR inhibitor AZD8055 but not in cells treated with the MEK/ERK inhibitor UO126 or unrelated cytotoxic agents (not shown). Although a role of mitochondria is not investigated in this report, a previous study has shown the rapamycin-induced mitochondrial hyperpolarization as critical in breast cancer therapy.
+34
+Further investigation indicated that depletion of either mTOR or mTORC1 substantially blocked H2228 cell growth. Inhibition of mTOR with AZD8055 also resulted in marked growth suppression, to levels comparable to those seen with ALK blockade. Moreover, CM-118 in combination with low dose mTOR inhibitors resulted cell death in vitro and showed antitumor efficacy potentiation in vivo. These results suggest mTOR as a key regulator of EML4-ALK-dependent growth in NSCLC cells and provide a novel rationale for combined use of ALK- and mTOR inhibitors in EML4-ALK-positive NSCLC.
+CM-118 demonstrated single-agent antitumor efficacy in multiple c-Met- and ALK-dependent tumors, including those of SNU-5, U87MG, H1993, and H2228, when administrated orally at a wide range of well-tolerated dosages (12.5 mg/kg to 150 mg/kg). CM-118 dose-dependently inhibited phosphorylation of c-Met- and EML4-ALK, and induced tumor regression or growth inhibition in the targeted tumors. Aside from the tumor studies presented, CM-118 was efficacious in additional c-Met/ALK positive tumors, including those of MNK-45, Caki, and SH-SY5Y (not shown). Rational combination of drugs represents an important strategy for personalized treatment. As such, c-Met- and ALK inhibitors are being investigated in the clinic with other targeted agents and chemotherapy. CM-118 exhibits no or low inhibition in CYP assays (not shown), thus having a reduced risk for drug interaction in vivo. The safety and the lack of CYP inhibition renders CM-118 a good agent for use in combination therapy.
+In conclusion, we have identified CM-118 as a new antitumor agent through its potent and selective dual targeting of oncogenic c-Met and ALK. CM-118 demonstrated a profound antitumor activity, good tolerability, and a favorable pharmacokinetic and drug metabolism profile. These properties support its further evaluation in the clinic.Materials and Methods
+Inhibitors and general reagents
+CM-118 (E665-1967-64, in vitro studies; Y0482-05052-046, in vivo studies) was synthesized by Sundia MediTech. Crizotinib/PF-02341066, rapamycin, AZD8055, afatinib, and UO126 were purchased from BiochemPartner. Recombinant human HGF was purchased from R&D System.
+Expression constructs and shRNAs
+Human ALK(F1174L) cDNA from SH-SY5Y cells
+16
+was reverted to wild-type ALK(1174F) via Quik-Change mutagenesis kit (Stratagene). EML4-ALKv1 was obtained by overlapping PCR, then sequenced (NM_019063.3), inserted into the HindIII/XbaI sites of pcDNA3.1(+) (Invitrogen). EML4-ALKv1 L1196M was generated by Quik-Change kit. GIPZ lentivial shRNAs of non-targeting, Bim, mTOR, Raptor, and Rictor (Open Biosystems) were validated following manufacturer’s instruction. Human MCL-1 cDNA was obtained from Sino Biological Inc. and cloned into pcDNA3.1(+).
+Kinase assays
+CM-118 was assayed against human c-Met and ALK enzymes (Carna Biosciences) with 50 μmol/L ATP (c-Met) or 100 μmol/L ATP (ALK), 1 μmol/L KinEASE TK substrate for 1 h, detected via the homogeneous time-resolved fluorescence (HTRF) platform (CIS Bio). IC
+50
+values were generated using Graphpad PRISM 5 software. ALK and its mutants were assessed with
+32
+p-ATP assays (Reaction Biology Corporation) using 10 μmol/L total ATP. Assays of 96 protein kinases were performed with 1 μmol/L racemic mixture of CM-118 or PF-02341066 by KINOMEscan™ (Ambit Biosciences).
+Cell growth and survival inhibition
+Cell lines of H1975, A549, H2228, H1993, U87MG, SH-SY5Y, LN-18, LN-229, and SNU-5 were obtained from ATCC. HCC827, HGC-27, and NCI-N87 were obtained from the Cell Bank of Chinese Academy of Sciences. SGC-7901 and SNU-1 were obtained from Ambrosia Pharmaceutical. Cells were maintained using reagents from Gibco Life Technology and were characterized by immunoblotting. Cell growth assays were performed in 96-well plates with inhibitor treatment for 3 d. Viable cells were determined by MTS assays.
+42
+IC
+50
+values were generated using Graphpad PRISM 5 software. Cell survival assays were conducted in 6-well plates at 20–30% confluence with inhibitor treatment for 48 h or 72 h. Viable cells were counted by trypan blue exclusion method. Percent net growth or death was assessed relative to the cell density at initiation of treatment.
+Cell cycle, cell migration, and JC-1 staining
+Various cells were treated for 48 h or 72 h, collected, fixed and stained with propidium iodide. Cell cycle distribution was analyzed in a Becton Dickinson FACS Calibur flow cytometer using Cell Quest software via collecting 10 000 events. For migration, 8 × 10
+4
+A549 cells were assayed in a Transwell chamber (Corning, 24-well with 8 μm pore size) at 37 °C for 4 h without or with HGF (20 ng/mL). Migrated cells were fixed and stained with 0.2% crystal violet (Sigma), quantified by counting five independent visual fields per filter. Mitochondrial membrane potential was assessed using 5,5’,6,6’-tetrachloro-1,1’,3,3’-tetraethylbenzimidazole carbocyanide iodide (JC-1) using the assay kit from Beyotime. Cells were grown until ~50% confluence, treated for 16 to 24 h with inhibitors, washed with PBS and stained with JC-1 (3 µg/mL) in serum-free medium at 37 °C for 15 to 30 min. J-aggregates were monitored under an EVOS fluorescent microscope (Advanced Microscopy Group).
+Protein lysates and immunoblotting
+For profiling of cell panels, various cell lines were cultured in 10-cm culture dish, and total cell lysates were prepared as described.
+43
+In all other studies, cells were lysed using NuPAGE-LDS sample buffer (Invitrogen). For inhibitor treatments, cells were seeded in 6-well plates, exposed to inhibitors for 6 h or as indicated. To assess inhibition effects in transfected ALK, HEK293 cells were transiently transfected with various ALK vectors using lipfectamine 2000 (Invitrogen) for 48 h, treated with inhibitors for 6 h. For HGF stimulation, serum-starved A549 cells were induced with HGF (20 ng/mL) for 15 min. In assessing gene depletion, H2228 cells were infected with lentiviral ShRNA and selected under puromycin. Cell lysates were immunoblotted with various antibodies including P-Met(Y1234/5), Met, P-ALK(Y1604), ALK, P-EGFR(Y1068), EGFR, P-ERK(T202/Y204), ERK, S6, cyclin D1, P-4EBP-1(T37/46), P-mTOR(S2481), mTOR, Raptor, Rictor, P-TSC2(T1462), TSC2 (Cell Signaling Technology), P-Stat3(Y705), Stat3, P-AKT(S473), AKT, P-S6(S235/6), cleaved-PARP, Bim, Bcl-2, Bcl-X, β-tubulin (Abcam-Epitomics), c-Myc (Santa Cruz), Mcl-1 (Affinity), β-actin, and GAPDH (Bioworld).
+In vivo tumor studies and statistical analysis
+Balbc nude mice bearing SNU-5, H2228, and H1993 tumors were staged at initial tumor volume of 100–400 mm
+3
+and randomized into treatment groups (
+n
+= 8–10 or as indicated). CM-118 and PF-02341066 were formulated in 0.5% hydroxypropyl methyl cellulose (HPMC)-0.4% tween-80. Mice were dosed orally with vehicle or CM-118 following a bid regimen up to 28 d or as indicated. Rapamycin was formulated in 5% ethanol, 2% tween-80, 5% polyethylene glycol (PEG)-400) and dosed i.v. qw. Tumor growth was monitored twice weekly and analyzed.
+44
+Tumor growth inhibition rate (TGI) was calculated: GI = [1 − (Vt − Vi) / (Vc − Vi)] × 100, where Vt is the tumor volume of drug treated group, Vc is the tumor volume of vehicle control group, and Vi is the initial tumor volume at staging. Levels of P-c-Met and c-Met in the SNU-5 tumors were analyzed using Luminex bead kits (Millipore, 46-650 and 46-651, respectively). For analysis of H1993 and H2228 tumor biomarkers, frozen tumor tissues were made tumor lysates using lysis buffer,
+42
+then quantitated and immunoblotted. For all efficacy experiments, data processing and statistical analysis were performed with Microsoft Excel Software; values were expressed as means ± SE.
+P
+values were calculated using unpaired two-tailed Student
+t
+test.
+Pharmacokinetics
+Mouse plasma samples were extracted by protein precipitation with acetonitrile. The extracts were analyzed by HPLC/LC-MS/MS using C18 column (Thermo) with a gradient mobile phase containing water/acetonitrile/formic acid (linear range 1–1000 ng/mL).Disclosure of Potential Conflicts of Interest
+C. Liang is cofounder and chief scientific officer of Xcovery and K. Yu has ownership interest in AnewPharma. No potential conflicts of interest were disclosed by the other authors.Acknowledgments
+We thank Li Wang, Lanjiao Zhao, Xuesai Zhang, and Jianchang Qian for technical assistance, and Zuopeng Wang and Jenny Shi for project support. This work was funded by Fudan University (EZF301002) and Sundia MediTech.Notes
+10.4161/cbt.28409

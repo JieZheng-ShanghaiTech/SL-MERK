@@ -1,0 +1,708 @@
+Therapeutics, Targets, and Chemical Biology
+
+Tumor Cell Kill by c-MYC Depletion: Role of MYC-Regulated
+Genes that Control DNA Double-Strand Break Repair
+
+Kaisa R. Luoto1
+, Alice X. Meng1
+, Amanda R. Wasylishen1,2, Helen Zhao1
+, Carla L. Coackley1
+,
+Linda Z. Penn1,2, and Robert G. Bristow1,2,3
+
+Abstract
+MYC regulates a myriad of genes controlling cell proliferation, metabolism, differentiation, and apoptosis.
+MYC also controls the expression of DNA double-strand break (DSB) repair genes and therefore may be a
+potential target for anticancer therapy to sensitize cancer cells to DNA damage or prevent genetic instability.
+In this report, we studied whether MYC binds to DSB repair gene promoters and modulates cell survival
+in response to DNA-damaging agents. Chromatin immunoprecipitation studies showed that MYC associates
+with several DSB repair gene promoters including Rad51, Rad51B, Rad51C, XRCC2, Rad50, BRCA1, BRCA2,
+DNA-PKcs, XRCC4, Ku70, and DNA ligase IV. Endogenous MYC protein expression was associated with
+increased RAD51 and KU70 protein expression of a panel of cancer cell lines of varying histopathology. Induction
+of MYC in G0-G1 and S-G2-M cells resulted in upregulation of Rad51 gene expression. MYC knockdown
+using small interfering RNA (siRNA) led to decreased RAD51 expression but minimal effects on homologous
+recombination based on a flow cytometry direct repeat green fluorescent protein assay. siRNA to MYC
+resulted in tumor cell kill in DU145 and H1299 cell lines in a manner independent of apoptosis. However,
+MYC-dependent changes in DSB repair protein expression were not sufficient to sensitize cells to mitomycin
+C or ionizing radiation, two agents selectively toxic to DSB repair–deficient cells. Our results suggest that
+anti-MYC agents may target cells to prevent genetic instability but would not lead to differential radiosensitization
+or chemosensitization. Cancer Res; 70(21); 8748–59. ©2010 AACR.
+
+Introduction
+
+MYC is a basic helix-loop-helix leucine zipper transcription
+factor that dimerizes with its binding partner MAX
+and associates with gene promoters containing the E-box
+motifs CACGTG or CACATG to induce gene transcription
+(1). MYC controls a broad spectrum of functions including
+proliferation and cell cycle, differentiation, sensitization to
+apoptotic stimuli, and genetic instability (1). These functions
+are deregulated in most human cancers by a variety of
+mechanisms including gene amplification, insertional mutations,
+or chromosomal translocation of the myc gene. This
+central role in oncogenesis makes MYC a promising target
+for stand-alone molecular cancer therapies in cells undergoing
+oncogene addiction (2). Recent data from Soucek and
+colleagues (3) have shown that MYC inhibition in a preclinical
+mouse model of RAS-induced lung adenocarcinoma
+using a reversible, systemic expression of a MYC mutant that
+antagonizes MYC activity triggered apoptosis and regression
+of lung tumors. MYC inhibition exerted profound growth
+arrest in normal tissues, which were well tolerated (3). This
+study suggested that targeting MYC could maintain the therapeutic
+ratio of cancer treatment by preferential killing of
+tumor cells relative to normal cells. Indeed, anti-MYC agents
+such as antisense oligonucleotides, small interfering RNA
+(siRNA), or phosphorodiamidate morpholino oligomers
+(PMO) have been developed to induce tumor cell growth
+arrest, differentiation, or apoptosis (4–7).
+Previous studies have indicated the association of MYC
+with the promoters of DNA double-strand break (DSB) repair
+genes Nbs1, Ku70, Rad51, BRCA2, Rad50, Rad54L, and DNAPKcs
+(8–11) and the expression of mismatch repair genes
+(12–14). DSBs are repaired by two major pathways: homologous
+recombination (HR) and nonhomologous end joining
+(NHEJ). HR predominates during S and G2 phases, as it uses
+sister chromatid in a template-guided manner to repair the
+DNA break (15). HR relies on the function of RAD51 and its
+paralogs RAD51B, RAD51C, RAD51D, XRCC2, and XRCC3,
+as well as BRCA1 and BRCA2 (15). HR-deficient cells are
+particularly sensitive to the DNA cross-linking agent mitomycin
+C (MMC). In contrast, NHEJ does not require strand
+homology and is considered error prone, and it predominates
+across all phases of the cell cycle. NHEJ requires the action
+of KU70, KU80, DNA-PKcs, DNA ligase IV, and XRCC4.
+
+Authors' Affiliations: 1Campbell Family Cancer Research Institute, 2Department of Medical Biophysics, and 3Department of Radiation
+Oncology, University of Toronto, Radiation Medicine Program, Ontario
+Cancer Institute/Princess Margaret Hospital, Toronto, Ontario, Canada
+Note: Supplementary data for this article are available at Cancer
+Research Online (http://cancerres.aacrjournals.org/).
+Corresponding Author: Robert G. Bristow, Radiation Medicine Program,
+Princess Margaret Hospital, 5th Floor, Room 5-808, 610 University
+Avenue, Toronto, Ontario, Canada M5G 2M9. Phone: 416-946-2936;
+Fax: 416-946-4586; E-mail: Robert.Bristow@rmp.uhn.on.ca.
+doi: 10.1158/0008-5472.CAN-10-0944
+©2010 American Association for Cancer Research.
+
+Cancer
+Research
+
+8748 Cancer Res; 70(21) November 1, 2010
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+NHEJ-deficient cells are in turn sensitive to ionizing radiation
+(IR; ref. 15). Inhibition of MYC-regulated DNA repair could
+sensitize tumor cells by inducing genetic instability and
+mitotic catastrophe. Additionally, if MYC regulation of DSB
+repair gene expression altered chemosensitivity and radiosensitivity,
+using combinations of MYC inhibitors with DNAdamaging
+agents could be beneficial. However, few studies
+have combined molecular targeting of MYC with now standard
+treatments such as radiochemotherapy or chemotherapy
+and determined long-term clonogenic cell survival.
+Given that MYC promotes genetic instability and has a potential
+role in DNA repair, we determined whether MYC inhibition
+leads to decreased DSB repair protein expression
+and sensitization of tumor cells to IR or MMC (two agents
+that are selectively toxic to NHEJ- or HR-deficient cancer
+cells). We show that MYC occupies most DSB repair gene
+promoters and regulates RAD51 expression. MYC knockdown
+alone results in loss of long-term clonogenic survival
+independent of inducing apoptosis. However, partial MYC
+knockdown, which allowed for colony formation assays, did
+not further sensitize cells to MMC or IR.
+
+Materials and Methods
+
+Cell culture, generation of inducible MYC cell lines,
+and siRNA tranfections
+Normal human diploid fibroblasts GMO5757 (Coriell Cell
+Repository, 2008) up to 13 passages were used within
+6 months of purchase, and cultured as previously described
+(16). DU145 and PC-3 prostate cancer cells and RKO colon
+carcinoma cells were obtained from American Type Culture
+Collection (2001, 2001, and 2007, respectively) and cultured
+as previously described (17, 18). 22RV1 prostate cancer cells,
+MCF7 breast cancer cells, Rat-1/myc cells, and DR-GFP
+H1299 lung cancer cells were kind gifts from Drs. Yoni
+Pinthus (2004; Juravinski Cancer Center, Hamilton, Ontario,
+Canada), Fei-Fei Liu (2009) and Linda Penn (2001; both at
+the Ontario Cancer Institute/Princess Margaret Hospital,
+Toronto, Ontario, Canada), and Simon Powell (2004; Memorial
+Sloan-Kettering Cancer Center, New York, NY), respectively,
+and were cultured as described previously (17–22).
+MCF10A cells were a kind gift from Dr. Senthil Muthuswamy
+(2003; Ontario Cancer Institute/Princess Margaret Hospital,
+Toronto, Ontario, Canada) and were cultured as described
+previously either in full growth medium (23) or in growth
+factor withdrawal (0.05% horse serum, 10 μg/mL insulin) to
+downregulate endogenous MYC. Each cell line was reauthenticated
+by short tandem repeat (STR) analyses performed by
+The Centre for Applied Genomics, The Hospital for Sick Children
+(Toronto, Ontario, Canada; June to September 2010),
+with the exception of RKO, Rat-1/myc, and GMO5757, which
+lack available STR profiles. The latter cell lines were authenticated
+by multiple gene expression analyses and comparative
+genomic hybridization. All cells were tested and found
+to be Mycoplasma-free during experiments.
+Inducible pF vector control and pF-MYC cell lines were
+generated using the 4-hydroxytamoxifen (4-OHT)–inducible
+
+lentiviral expression system as described previously (24).
+In the presence of 4-OHT, the GEV16 transcription factor
+controlled by the Ub promoter (GEV16-Gal4 DNA-binding
+domain, estrogen receptor ligand-binding domain, and
+VP16 transactivation domain) translocates to the nucleus,
+binds the 5xUAS, and activates transcription of the gene of
+interest (24). Briefly, lentiviruses were first generated in
+293TV cells. Cells were then infected with viral supernatants
+in the presence of 0.8 μg/mL polybrene. Forty-eight hours
+after infection, stable cell pools were selected in 200 μg/mL
+hygromycin and 1 μg/mL puromycin.
+Cells were transfected with Validated Stealth Select RNAi
+siRNA MYC duplexes 1 or 2 at a concentration of 10 nmol/L
+in Opti-MEM, or with RAD51 duplexes 1 and 2 at 0.25 nmol/L,
+or with Stealth RNAi Negative Universal Control using
+Lipofectamine 2000 (all from Invitrogen) as previously
+described (17).
+
+Chromatin immunoprecipitation
+Chromatin immunoprecipitations (ChIP) were performed
+essentially as previously described (25) with the following
+modifications. Nuclei were isolated in 5 mmol/L Tris-HCl
+(pH 8.0), 85 mmol/L KCl, 0.5% NP40, and 1× protease inhibitor
+cocktail (Roche). Pelleted nuclei were lysed in 50 mmol/L
+Tris-HCl (pH 8.0), 10 mmol/L EDTA, 1% SDS, and 1× protease
+inhibitor cocktail. Chromatin was sheared to 0.2- to 1.5-kb
+fragments using a Bioruptor sonicator (Diagenode). Immunoprecipitations
+were performed in 0.01% SDS, 1.1% Triton
+X-100, 1.2 mmol/L EDTA, 16.7 mmol/L Tris-HCl (pH 8.0),
+167 mmol/L NaCl, and 1× protease inhibitor cocktail using
+the MYC N-262 antibody (Santa Cruz Biotechnology) or rabbit
+IgG control (Jackson ImmunoResearch Laboratories) with
+protein A/G beads (Pierce) blocked in 1% bovine serum
+albumin. DNA was purified using a PCR Purification kit
+(Qiagen). Immunoprecipitated DNA was amplified using
+PCR primers (see Supplementary Table S1) Rad51 (9), BRCA1
+(26), CAD (carbamoyl-phosphate synthetase 2), and Chr22
+(chromosome 22; ref. 9).
+
+Western blotting
+Cells were lysed directly in boiling 2× SDS buffer [2%
+SDS, 178 mmol/L Tris-HCl (pH 6.8), 4.5% glycerol]. Protein
+expression was detected and quantified using primary antibodies
+MYC (9E10), RAD51 (H-92), KU70 (A-9), and ATM
+(2C1; Santa Cruz Biotechnology), cyclin D1 (Ab-3; Oncogene),
+RB (retinoblastoma protein; Pharmingen), α-tubulin
+(AB-1; Calbiochem), and β-actin (Sigma) and IRDye secondary
+antibodies with Odyssey IR Imaging System (LI-COR
+Biosciences).
+
+Reverse transcription and real-time quantitative PCR
+RNA was extracted using the RNeasy kit (Qiagen). cDNA
+was synthesized using the High Capacity cDNA Archive
+kit (Applied Biosystems). Real-time quantitative PCR was
+performed in triplicates using the Taqman Gene Expression
+Assays on a StepOnePlus real-time quantitative PCR instrument
+(Applied Biosystems). Analysis was performed using
+the comparative Ct value method.
+
+MYC-Regulated DSB Repair Genes and Cell Kill
+
+www.aacrjournals.org Cancer Res; 70(21) November 1, 2010 8749
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+Cell cycle analysis and fluorescence-activated
+cell sorting
+For cell cycle analysis, cells were treated with 10 μmol/L
+5-bromo-2′-deoxyuridine (BrdUrd; Sigma) in culture medium
+for 1 hour. FITC-conjugated anti-BrdUrd antibody-labeled
+(BD Biosciences) and propidium iodide (PI)–stained cells
+were analyzed with a FACSCalibur flow cytometer and CellQuest
+Pro software (BD Biosciences) as previously described
+(27). GMO5757 cell cycle profiles were obtained using PI
+staining. For cell sorting, MYC expression was induced with
+4-OHT for 16 hours in pF-MYC MCF10A cells. Cells were
+detached by trypsin (Invitrogen) digestion and stained with
+10 μg/mL Hoechst 33342 in medium lacking phenol red and
+supplemented with 10% fetal bovine serum for 90 minutes at
+37°C. Cells were sorted into G0-G1 and S-G2-M pools using
+the MoFlo XDP cell sorter (Beckman Coulter).
+
+Clonogenic survival and apoptosis assays
+siRNA-transfected DU145 or H1299 cells were trypsinized after
+48 hours and subsequently treated either with 0.5 μg/mL
+MMC for 1 hour or with 2 Gy IR. Cells were plated in triplicates.
+The DNA-PKcs inhibitor Ku-0057788 (KuDOS Pharmaceuticals)
+was used at 1 μmol/L for 1 hour before 2 Gy IR, and
+medium was changed 16 hours later. For all assays, cells were
+fixed and stained in 1% methylene blue in 50% ethanol 10 to
+15 days later. Surviving clones with >50 cells were scored under
+a light microscope, and resulting survival was calculated
+as previously described (27, 28). For apoptosis assays, H1299
+cells (or Rat-1/myc controls) were treated with 0.5 μg/mL
+MMC for 1 hour or with 2 or 10 Gy IR at 48 hours after siRNA
+transfection and assessed for sub-G1 populations by flow
+cytometry or nuclear apoptotic bodies, as previously
+described (21).
+
+HR assay
+HR was assessed using a direct repeat green fluorescent
+protein (DR-GFP) assay essentially as previously described
+(17). These H1299 cells possess an integrated DR-GFP construct,
+whose expression is prevented by an insert with the
+I-SceI restriction site in the reading frame, whereby transfection
+of I-SceI endonuclease creates a DSB, which when
+repaired by error-free HR leads to GFP-expressing cells
+(19, 29). Briefly, H1299 cells were transiently transfected with
+either the negative control phCMV-1 I-SceI, the functional
+endonuclease pCMV3xnlsI-SceI, or pGFP (as control for
+transfection efficiency) together with control, MYC, or
+RAD51 siRNA. Cells were trypsinized 72 hours after transfection
+and assessed for GFP expression with FACSCalibur flow
+cytometer and CellQuest Pro software. The percentage
+of GFP-positive cells in 50,000 to 100,000 events was normalized
+to the negative control and corrected for transfection
+efficiency. There were no significant differences in transfection
+efficiencies between treatments.
+
+Statistical analysis
+Statistical analysis was performed using a one-way ANOVA
+and Tukey's multiple comparison test or a nonlinear curve
+fit using the Prism 5 software (GraphPad), with P < 0.05 considered
+significant. Data derived from multiple independent
+experiments are shown as mean ± SE.
+
+Results
+
+Previous ChIP studies completed by our group showed
+that MYC can bind the Rad51 gene promoter (9). We therefore
+determined whether MYC also binds to other DSB repair
+gene promoters involved in HR or NHEJ (30–32). In silico
+analyses were performed on sequences spanning from
+10 kb upstream to 3 kb downstream of selected DSB repair
+gene transcription start sites (33). This revealed that there
+were candidate MYC-binding sites in other DSB repair
+gene promoter regions (Fig. 1A). To show these interactions
+in vivo using ChIP, we used the prostate cancer cell lines
+22RV1, PC-3, and DU145, given our previous publication on
+their relative HR and NHEJ repair gene expression (34). We
+focused on candidate sequences nearest to the transcription
+start sites (Fig. 1A). MYC was found to associate with the
+majority of the tested HR gene promoters, including Rad51,
+Rad51B, Rad51C, XRCC2, Rad50, BRCA1, and BRCA2 (Fig. 1A;
+refs. 9–11). Two primer pairs flanking the two most proximal
+target sequences of XRCC3 showed weak or no enhanced
+signal over the negative controls, indicating that MYC was
+not associated with this promoter region (Fig. 1A). Candidate
+MYC target sites in NHEJ gene promoters DNA-PKcs, XRCC4,
+Ku70, and DNA ligase IV were all occupied by MYC (Fig. 1A;
+refs. 10, 11). An E-box motif, not associated with MYC target
+genes on Chr22, was used as a negative control (Fig. 1A;
+ref. 9). We conclude that MYC can endogenously occupy
+the promoters of the majority of the DSB repair genes in
+asynchronously growing cancer cell lines.
+Next, we compared the protein expression levels of MYC
+and two MYC-occupied targets (RAD51 and KU70) in a panel
+of cell lines with varying histopathology. Endogenous MYC
+protein expression was associated with increased RAD51
+and KU70 protein levels (Fig. 1B). To assess the correlation
+of MYC and DSB repair protein levels in nontransformed
+cells, we serum starved normal human fibroblasts
+GMO5757 and followed MYC and DSB repair protein expression
+following serum add back and subsequent cell cycle
+progression. As expected, MYC protein was negligible in
+G0-G1 cells, but rapidly increased following addition of serum
+(Fig. 1C; Supplementary Fig. S1). RAD51 was induced on cell
+cycle progression following cyclin D1 expression (Fig. 1C;
+Supplementary Fig. S1; ref. 35). These results are consistent
+with previous observations that MYC and RAD51 protein
+levels increase with an increase in S-phase fraction (35, 36).
+To assess whether MYC is sufficient to activate the expression
+of DSB repair genes in nontransformed human cells, we
+generated a stable GEV16-inducible pF-MYC MCF10A cell
+line (see Materials and Methods; ref. 24). MCF10A cells were
+grown in medium containing reduced growth factors to
+downregulate the high levels of endogenous MYC and to
+dissociate the biological effects of endogenous and 4-OHT–
+induced exogenous MYC. MYC induction in growth factor–
+starved cells was sufficient to induce Rad51 gene expression
+after 8 hours (Fig. 2A), whereas RAD51 protein expression
+
+Luoto et al.
+
+8750 Cancer Res; 70(21) November 1, 2010 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+was upregulated after 16 hours (Fig. 2B). MYC induction also
+resulted in a modest upregulation of Rad51C, whereas it had
+little effect on NHEJ gene expression (Fig. 2A). RB phosphorylation
+status and cell cycle analyses showed that induction
+of MYC was associated with S-phase entry only after 16 hours
+after induction (Fig. 2C). In contrast, Rad51 gene expression
+increased at 8 hours before S-phase progression (Fig. 2A
+
+and C). To further eliminate cell cycle bias, we flow sorted
+pF-MYC cells into G0-G1 and S-G2-M pools followed by protein
+and RNA analyses. MYC was upregulated in both G0-G1
+and S-G2-M phases after 16 hours of induction (Fig. 2D),
+and RAD51 could be induced in G0-G1 cells and was already
+increased in S-G2-M cells, independent of MYC (Fig. 2D).
+Cyclin A2 mRNA controls were selectively induced in S-G2-M
+
+Figure 1. MYC association with DSB repair
+genes. A, candidate MYC target consensus
+sequences within the promoters of genes
+involved in HR and NHEJ were validated in
+ChIP assays using a MYC antibody, rabbit IgG
+control, or no-antibody control in 22RV1 cells
+(right). A schematic presentation of DSB repair
+gene promoters spanning 2 kb from the
+transcription start site shows candidate MYC
+target sequences and ChIP primer pairs
+(arrows). An E-box not targeted by MYC on
+Chr22 was used as a negative control. Inp,
+inputs; IP, immunoprecipitation. B, MYC,
+RAD51, and KU70 basal protein expression
+was assessed in 22RV1, PC-3, DU145, H1299,
+MCF7, and RKO cell lines. Tubulin is shown as
+a loading control. C, normal human fibroblasts
+GMO5757 were serum starved for 48 h and
+released into cell cycle by serum stimulation.
+Cells were harvested 2, 4, 8, 16, and 24 h later.
+Left, protein expression of MYC, RAD51,
+and cyclin D1 is presented as normalized to
+tubulin expression; right, cell cycle profiles
+obtained by PI staining are presented as
+mean of four independent experiments.
+Asynch, asynchronous.
+
+MYC-Regulated DSB Repair Genes and Cell Kill
+
+www.aacrjournals.org Cancer Res; 70(21) November 1, 2010 8751
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+Figure 2. MYC induces Rad51 expression in nontransformed cells. A to C, inducible pF vector control or pF-MYC MCF10A cells were cultured in growth
+factor withdrawal for 24 h. Cells were treated with ethanol as a vehicle control or induced with 100 nmol/L 4-OHT for 8 to 16 h. A, Myc and DSB
+repair gene expression at 8 and 16 h after induction is presented relative to B2M and normalized to vehicle-treated pF control cells. B, MYC, RAD51,
+and KU70 protein expression under conditions in A. Tubulin is shown as a loading control. C, hyperphosphorylated RB protein (see top band after induction)
+and dual-parameter (BrdUrd-PI) flow cytometry indicates S-phase entry at 16 h after MYC induction. ATM is used as a high–molecular weight loading
+control. D, pF-MYC cells were vehicle treated or induced by 100 nmol/L 4-OHT for 16 h before fluorescence-activated cell sorting into G0-G1 and S-G2-M
+pools, followed by protein and RNA analysis. Tubulin is shown as a loading control for Western blotting. Myc, Rad51, and cyclin A2 gene expression
+is presented relative to B2M and normalized to the vehicle control at G0-G1. Columns, mean of two to three independent experiments; bars, SE.
+
+Luoto et al.
+
+8752 Cancer Res; 70(21) November 1, 2010 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+(Fig. 2D; ref. 37). Collectively, these data indicated that MYC
+can regulate Rad51 gene and protein expression in G0-G1
+nontransiting cells and during G1 to S cell cycle progression;
+additional factors in addition to MYC may control Rad51
+expression in S phase.
+To determine if MYC occupancy of the Rad51 promoter
+was functionally important in cells with downregulated
+MYC, we characterized the level of MYC and DSB repair gene
+promoter binding and protein expression following siRNA to
+MYC. We used DU145 and H1299 cell lines, which express
+low and high endogenous MYC, respectively, and have detectable
+endogenous levels of RAD51 protein (see Fig. 1B).
+MYC-ChIP specificity was confirmed with MYC siRNA, which
+
+resulted in reduced MYC occupation on Rad51 and Ku70
+gene promoters (Fig. 3A). CAD was used as a positive MYC
+target control, whereas Chr22 was used as a negative control
+(Fig. 3A; ref. 9).
+Next, we determined the effect of MYC knockdown on DSB
+repair protein expression. We used an optimal siRNA concentration
+such that MYC protein levels were reduced to
+its greatest extent and the control siRNA had the least toxicity
+(data not shown). MYC siRNA (10 nmol/L) resulted in 60%
+to 90% reduction of MYC expression and in reduced RAD51
+protein levels in DU145 and H1299 cells (Figs. 3B, 5, and 7). In
+contrast, KU70 protein levels were changed minimally
+by similar treatment (Fig. 3B), consistent with the lack of
+
+Figure 3. MYC regulates RAD51
+in malignant cells. A, H1299 cells
+were transfected with control (Ctrl)
+or MYC siRNA (10 nmol/L) and
+harvested for ChIP assays 48 h
+later. Occupation of MYC on
+Rad51 and Ku70 promoters was
+investigated using a MYC antibody
+or rabbit IgG control. CAD was
+used as a positive MYC target
+control. An E-box not targeted by
+MYC on Chr22 was used as a
+negative control. Right, fractions of
+the ChIP cell lysates were analyzed
+for MYC expression by Western
+blotting. Actin is shown as a
+loading control. DU145 and H1299
+cells were transfected with control,
+MYC (10 nmol/L), or RAD51
+(0.25 nmol/L) siRNA and harvested
+48 h later for protein (B) and 24
+to 72 h later for cell cycle (C)
+analyses. Cell cycle profiles
+obtained using dual-parameter
+(BrdUrd-PI) flow cytometry are
+presented as a mean of two to
+four independent experiments.
+Bars, SE.
+
+MYC-Regulated DSB Repair Genes and Cell Kill
+
+www.aacrjournals.org Cancer Res; 70(21) November 1, 2010 8753
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+MYC-dependent Ku70 expression (Fig. 2A). Next, using the
+same conditions of MYC siRNA, cell cycle distribution was
+determined. MYC knockdown resulted in a nonsignificant
+increase in G1 fraction in DU145 cells at 24 and 48 hours,
+and in an inhibition of S-phase progression in H1299 (Fig. 3C).
+However, we observed reduced proliferation of MYC knockdown
+DU145 cells in growth assays at later time points (Supplementary
+Fig. S2). We conclude that MYC-dependent reduction
+in RAD51 expression is not solely a consequence of a G1 arrest
+and that MYC knockdown directly inhibits RAD51, but not
+KU70, protein expression.
+
+Given the effect of MYC on RAD51 expression, we next
+performed colony-forming assays to investigate whether
+modifying MYC or RAD51 would affect long-term clonogenic
+cell survival based on inhibited RAD51 expression. The survival
+of DU145 or H1299 cells was not significantly affected
+by control siRNA transfection (data not shown). We observed
+decreased cell survival by 65% in DU145 cells and by 77% in
+H1299 cells following MYC siRNA (Fig. 4A and B). In contrast,
+RAD51 knockdown resulted in 55% reduced survival in
+DU145, but did not affect survival in H1299 cells (Fig. 4A
+and B). The combination of MYC and RAD51 knockdown
+
+Figure 4. MYC is necessary for cell survival. DU145 (A) and H1299 (B) cells were transfected with control, MYC (10 nmol/L), or RAD51 (0.25 nmol/L)
+siRNA and plated for colony-forming assays 48 h after treatment. MYC siRNA reduced both surviving cell colony number and size. C, apoptosis was
+assessed in H1299 cells transfected as in B. Forty-eight hours after transfection, cells were treated with MMC and 2 or 10 Gy IR. Left, apoptotic morphology
+was determined 72 h after DNA damage using Hoechst 33342 staining; right, sub-G1 cell populations were assessed 72 h after DNA damage using
+PI staining. Columns, mean of 2 to 14 independent experiments for each cell line; bars, SE. *, P < 0.05.
+
+Luoto et al.
+
+8754 Cancer Res; 70(21) November 1, 2010 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+resulted in a trend toward additive cell kill in both cell lines
+(Fig. 4A and B). In addition to reducing the number of surviving
+cells, MYC siRNA led to smaller surviving colony sizes
+in both cell lines (Fig. 4A and B). This suggests inhibited
+growth rate and/or postmitotic cell death of the daughter
+cells within a colony, and is consistent with DU145 reduced
+growth rate (Supplementary Fig. S2). MYC downregulation
+has previously been shown to promote apoptosis (3, 12),
+and given that siRNA to MYC was more toxic in H1299 cells,
+we determined whether apoptosis was the mode of cell death
+in this cell system (Fig. 4C). MYC knockdown alone or combined
+with DSB-inducing agents did not induce apoptosis as
+measured by nuclear morphology (Hoechst 33342 staining)
+or sub-G1 peak analysis (flow cytometry; Fig. 4C) compared
+with the positive control, Rat-1/myc cells (Supplementary
+Fig. S3). This indicates that cell death following siRNA to
+MYC can involve modes of cell death other than apoptosis,
+as previously documented in irradiated prostate cancer cell
+lines (21).
+MMC causes intrastrand DNA cross-links that lead to collapsing
+replication forks and generation of DSBs that are typically
+repaired by HR (38). We performed colony-forming
+assays using a combination of MYC siRNA and MMC to
+see whether MYC knockdown cells were sensitive to HRspecific
+agent. An average of 70% knockdown of MYC expression
+in DU145 cells led to 40% reduction in RAD51, but this
+was not sufficient to enhance MMC toxicity (Fig. 5A). Consistent
+with this observation, an average of 80% MYC knockdown
+in MMC-treated H1299 cells did not result in further
+cell kill (Fig. 5B). In contrast, RAD51 knockdown resulted
+in significant MMC sensitivity in both cell lines (Fig. 5). These
+observations suggest that RAD51, but not MYC, plays a role
+in the cellular MMC sensitivity of tumor cell clonogens.
+Additionally, we performed DR-GFP assays (17) that
+directly measure HR function (see Materials and Methods;
+Fig. 6A) to ascertain MYC involvement in functional HR.
+H1299 cells were cotransfected with the I-SceI endonuclease
+and either control, MYC, or RAD51 siRNA. Cells were harvested
+72 hours after transfection to allow sufficient recombination
+to occur. Whereas RAD51 knockdown reduced HR
+by 85%, MYC knockdown decreased HR by only 14% (Fig. 6B
+and C). This was independent of cell cycle following siRNA
+treatment (Fig. 3C). The mild effect of MYC inhibition on
+HR may therefore explain the lack of MMC-induced cell kill
+in MYC knockdown cells.
+Finally, we investigated the role of MYC knockdown in cell
+kill following DSBs induced by IR. Cells deficient in HR or
+NHEJ will be sensitized to IR treatment (15). Neither
+
+Figure 5. MYC downregulation
+does not sensitize cells to MMC.
+DU145 (A) and H1299 (B) cells
+were transfected with control,
+MYC (10 nmol/L), or RAD51
+(0.25 nmol/L) siRNA for 48 h.
+Cells were treated with 0.5 μg/mL
+MMC and plated for clonogenic
+survival assays. Columns,
+mean survival of two to seven
+independent experiments for
+each cell line; bars, SE. A and B,
+right, mean MYC and RAD51
+protein expression on Western
+blots and quantifications collected
+in parallel to clonogenic assays.
+*, P < 0.05.
+
+MYC-Regulated DSB Repair Genes and Cell Kill
+
+www.aacrjournals.org Cancer Res; 70(21) November 1, 2010 8755
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+Figure 6. The effect of MYC downregulation on
+HR. A, H1299 cells that possess a DR-GFP
+reporter construct express GFP after I-SceI
+endonuclease cleavage and repair by functional
+cellular HR. This restores the reading frame and
+results in GFP expression, which is detected
+by flow cytometry. B, I-SceI endonuclease
+expression vector was transfected together
+with control, MYC (10 nmol/L), or RAD51
+(0.25 nmol/L) siRNA. Recombination was
+analyzed by flow cytometry 72 h after
+transfection. Representative dot blots are
+shown. Cells that have undergone HR are
+circled. C, MYC knockdown led to minor
+suppression of HR. RAD51 siRNA was used
+as a positive control. Columns, mean of three
+independent experiments; bars, SE. *, P < 0.05.
+
+Luoto et al.
+
+8756 Cancer Res; 70(21) November 1, 2010 Cancer Research
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+DU145 nor H1299 cells exhibited sensitization to a clinically
+relevant dose of 2 Gy following MYC knockdown (Fig. 7).
+This is in contrast to the profound radiosensitization of the
+same cells through inhibition of the NHEJ protein, DNA-PKcs
+(Supplementary Fig. S4). RAD51 knockdown led to radiosensitization
+in H1299, but not in DU145, cells (Fig. 7), consistent
+with the variable IR sensitivity of HR-deficient cells (15).
+These results indicate that MYC knockdown does not lead
+to cellular radiosensitization.
+
+Discussion
+
+Previous ChIP array studies have shown the association of
+MYC to several DSB repair promoters (9–11), and we now
+report the novel findings that MYC directly transactivates
+Rad51 and associates with the Ku70 promoter with little effect
+on KU70 expression. The MYC-dependent differential
+regulation of HR versus NHEJ proteins is unknown, but
+may be a result of differential translational control and protein
+half-life (17). We also observed that knockdown of MYC
+leads to inhibition of RAD51, a central factor in HR. Yet, this
+downregulation was not sufficient to sensitize cells to DNAdamaging
+agents such as MMC and IR, which preferentially
+kill HR-deficient cells. MYC has been estimated to regulate
+10% to 15% of human genes (10, 11, 33). Global MYC ChIP
+
+array data combined with gene expression data revealed that
+a vast majority of MYC-associated targets did not change
+expression following ectopic MYC expression in B cells (33).
+It has also been speculated that MYC amplification in tumor
+cells may bind low-affinity E boxes that would be out of its
+physiologic target range in normal cells (10, 33, 39). Together,
+these data show the importance of comparing gene and protein
+expression data with functional assays to ascertain the
+cell biology associated with MYC promoter binding.
+Our results show that under conditions that allow sufficient
+cell proliferation and clonogenic potential, 60% to
+80% reduction of MYC levels alone caused substantial cell
+death. Targeting MYC by overexpression, antisense, siRNA,
+inhibitors, or a dominant-interfering MYC mutant can induce
+apoptosis and growth delay, resulting in tumor regression
+(2, 3, 40, 41). However, whereas apoptosis does not
+necessarily affect long-term cell survival (21), fewer studies
+have shown the effect of MYC inhibition in cellular radiosensitization
+or chemosensitization in colony-forming survival
+assays. As such, the 65% to 77% cell kill we observed following
+MYC siRNA was not explained by apoptotic cell death, as
+MYC siRNA alone or its combination with MMC or IR did not
+induce apoptosis. Additionally, MYC-addicted tumor cells
+can differentiate, senesce, or cease to proliferate on MYC inactivation
+(42), and highlight the importance of assessing the
+
+Figure 7. MYC knockdown
+does not sensitize cells to IR.
+DU145 (A) and H1299 (B) cells
+were transfected with control,
+MYC (10 nmol/L), or RAD51
+(0.25 nmol/L) siRNA. Forty-eight
+hours after transfection, cells
+were plated for clonogenic
+survival assays and subjected
+to 2 Gy IR. Columns, mean
+survival of two to four independent
+experiments for each cell line;
+bars, SE. Right, mean MYC and
+RAD51 protein expression and
+quantifications completed in
+parallel to clonogenic assays.
+*, P < 0.05.
+
+MYC-Regulated DSB Repair Genes and Cell Kill
+
+www.aacrjournals.org Cancer Res; 70(21) November 1, 2010 8757
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/70/21/8748/2640457/8748.pdf by guest on 14 August 2024
+efficacy of possible therapeutic applications using longterm
+clonogenic potential. There are inconsistent conclusions
+from studies comparing cellular sensitivity with
+MYC depletion or overexpression, and the outcome may
+be cell type dependent. Studies have reported NHEJ repair,
+mismatch repair, and disparate chemotherapy-induced
+apoptosis or proliferation in the context of both increased
+and decreased MYC expression in differing tumor cell lines
+(12, 43–46). We conclude that attempts to combine MYCrelated
+effects in DSB repair gene expression with chemotherapy
+or radiotherapy may not lead to sensitization of
+tumor clonogens.
+Reducing RAD51 expression by 80-90% resulted in MMC
+and IR sensitivity in H1299 cells and in MMC sensitivity in
+DU145 cells. RAD51 is overexpressed in several cancers,
+and increased levels of RAD51 correlate with increased erroneous
+recombination and resistance to DNA-damaging
+agents (47). Given that HR-deficient cells are sensitive to
+therapies such as MMC, cisplatin, and IR, targeting RAD51
+and thereby inhibiting HR is a potential target for combined
+therapies. For example, imatinib leads to decreased RAD51
+expression. Combining imatinib with IR resulted in decreased
+clonogenic survival in vitro, as well as in tumor growth delay
+in PC-3 prostate cancer xenografts (28). Hence, directly targeting
+the key players in HR may provide a potent tool for
+tumor cell radiosensitization, given that indirect HR targeting
+through MYC did not lead to enhanced sensitivity.
+
+In conclusion, our work suggests that although MYC occupies
+the majority of DSB repair promoters and controls
+RAD51 expression, MYC downregulation by siRNA is not sufficient
+to induce cellular radiosensitivity and MMC sensitivity.
+However, MYC depletion can lead to cell death directly. Small
+molecules and PMO as single agents that are not limited by
+transfection-based methods should be further assessed, as
+such a strategy may directly target cell proliferation, tumor
+progression, and genetic instability.
+
+Disclosure of Potential Conflicts of Interest
+
+No potential conflicts of interest were disclosed.
+

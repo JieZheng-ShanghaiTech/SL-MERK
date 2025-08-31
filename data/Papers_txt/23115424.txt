@@ -1,0 +1,149 @@
+Abstract
+The gene TP53 (also known as protein 53 or tumor protein 53), encoding transcription factor P53, is mutated or deleted in half of human cancers, demonstrating the crucial role of P53 in tumor suppression. There are reports of nearly 250 independent germ line TP53 mutations in over 100 publications. The P53 protein has the structure of a transcription factor and, is made up of several domains. The main function of P53 is to organize cell defense against cancerous transformation. P53 is a potent transcription factor that is activated in response to diverse stresses, leading to the induction of cell cycle arrest, apoptosis or senescence. The P53 tumor suppressor is negatively regulated in cells by the murine double minute 2 (MDM2) protein. Murine double minute 2 favors its nuclear export, and stimulates its degradation. Inhibitors of the P53-MDM2 interaction might be attractive new anticancer agents that could be used to activate wild-type P53 in tumors. Down regulation of MDM2 using an small interfering RNA (siRNA) approach has recently provided evidence for a new role of MDM2 in the P53 response, by modulating the inhibition of the cyclindependent kinase 2 (cdk2) by P21/WAF1 (also known as cyclin-dependent kinase inhibitor 1 or CDK-interacting protein 1).
+Key Words:
+TP53, CHK1, CHK2, MDM2, Li-Fraumeni syndrome, tumor suppressorIntroduction
+Tumor protein 52 (TP53) gene, which encodes transcription factor P53, maps to chromosome 17pl 3.1, spanning around 20 kilobase (kb) pairs, and comprises 11 exons.
+1
+The P53 gene is well-suited to mutational spectrum analysis for several reasons. Since P53 mutations are common in many human cancers,
+2
+its modest size (11 exons, 393 amino acids) permits study of the entire coding region. It is highly conserved in vertebrates, allowing extrapolation of data from animal models.
+3
+Structural Features
+The human P53 protein contains 393 amino acids, and has been divided structurally and functionally into four domains. The first 42 amino acids at the N-terminus constitute a transcriptional
+activation domain that interacts with the basal transcriptional machinery in positively regulating gene expression. Amino acids 13–23 in the P53 protein are identical in a number of diverse species. The sequence-specific DNA-binding domain of P53 is localized between amino acid residues 102 and 292. This domain folds into a four-stranded and five-stranded antiparallel β sheet that in turn is a scaffold for two α-helical loops that interact directly with the DNA. Amino acid residues 324–355 are required for this oligomerization of the protein. The C-terminal 26 amino acids form an open protease sensitive domain composed of nine basic amino acid residues that bind to DNA and RNA readily with some sequence or structural preferences.
+4
+,
+5
+Two promoters have been identified in the P53 gene. The first is located 100 to 250 bp upstream of the noncoding first exon, and the second, a stronger promoter, is located within the first intron.
+6
+The TP53 gene contains 11 exons. It has two transcriptional start sites in exon 1, and alternative splicing occurs in intron 2 and between exons 9 and 10. The gene also contains an internal promoter and transcription initiation site in intron 4.
+7
+Sequence comparison of the P53 protein from different species shows five highly conserved regions. Two common polymorphic variants of P53 exist, arising from a single base-pair substitution at codon 72, encoding either a proline or an arginine residue.
+8
+,
+9
+Although both polymorphic forms share similar growth-suppressive activities, recent studies suggesting subtle differences in their regulation and potency may be reflected in increased cancer susceptibility in some individuals.
+10
+,
+11
+Presence of single nucleotide polymorphism (SNP) in the MDM2 promoter has been associated with earlier tumor genesis in patients with Li–Fraumeni syndrome, as well as decreased survival in patients with chronic lymphocytic leukemia (CLL). In addition, cells homozygous [G/G] for SNP 309 were found to have 10-fold increased resistance to topoisomerase II inhibiting drugs.
+12
+The p73 gene has been mapped to chromosome 1p36.3, a locus that is deleted in neuroblastoma and some other human cancers. The P73 gene encodes at least four distinct isoforms; the full-length version, which gives rise to the protein called P73α, and three splice variants, which encode proteins referred to as P73β, γ and δ. P73 has been shown to mediate at least some functions in common with P53, including apoptosis, transcriptional transactivation of P21WAF1/CIP1, a known target of P53, and suppression of cell growth. But unfortunately, a contribution of P63 to tumor suppression has not yet been established.
+13
+Function
+Wild-type TP53 functions in checkpoint control after DNA damage, resulting in either a delay in cell cycle progression at the G/S border to allow DNA repair or apoptosis. TP53 has also been implicated directly in DNA repair and in G2 arrest.
+14
+Under normal conditions, P53 is a short-lived protein that is present in cells at a barely detectable level. Upon exposure of cells to various forms of exogenous stress, such as DNA damage, heat shock, hypoxia, and etc., there is a stabilization of P53, which is responsible for an ensuing cascade of events, resulting in either cell cycle arrest or in apoptosis.
+15
+Further functions of P53 include senescence, and angiogenesis, centrosome duplication, adhesion and metastasis.
+16
+A role for P53 in preventing malignant progression was subsequently demonstrated by the observations that transfection of P53 into cultured cells inhibited transformation by a number of oncogenes, and that mice lacking the P53 gene rapidly developed tumors with high incidence.
+14
+Although mice deleted of the P53 gene show a high incidence of cancer, nevertheless their viability and relatively normal development indicated that P53 function is not essential for cell growth and differentiation.
+15
+Apoptosis
+Apoptosis is a form of programmed cell death. Both the death-receptor-associated pathways and the Apaf-1-dependentapoptotic pathway (Apoptotic protease activating factor 1) have been shown to be involved in mediating P53-dependent cell death. Other potential apoptotic transcriptional targets of P53 include Insulin-like growth factor-binding protein 3 (IGFBP-3) and P53-activated gene (PAG608).
+13
+The adenovirus EIA, Human papillomaviruses (HPV E7) and SV40 huge T proteins bind to Retinoblastoma Protein (PRb), and thereby inactivate PRb’s ability to restrain cell division.
+17
+The human papilloma virus genome encodes the E6 oncogene product to bind to P53 and degrade it. Transgenic mice expressing E7 in the retina photoreceptor cells show extensive apoptosis. The expression of E7 in the same cells but in a P53-/-mouse results in a reduced frequency of apoptosis and an increased frequency of development of retinal tumors.
+5
+Transcriptional Activation by P53
+Accumulation of P53 in cells induces the P21 mediated inhibition of Cyclin D/cdk4 and cyclinE/cdk2, resulting in cell cycle arrest in G1.
+15
+Many cellular genes have been shown to be transcriptional targets of P53.
+18
+The growth arrest and DNA damage 45 (GADD45) gene is a member of a group of growth arrest and DNA damage-inducible genes (GADD), and is induced by ionizing radiation in many cell types containing wt P53.
+13
+The gene PA26, another novel P53 target gene that belongs to the GADD family play a role in growth regulation.
+19
+Another P53-target gene is IGFBP-3. Seven in absentia homolog (SIAH-1) has also been shown to play a role in P53-dependent cell-cycle arrest,
+20
+,
+21
+and the 14-3-3δ protein has been shown to be a potent P53-mediated regulator of G2–M progression.
+22
+Apoptotic cellular changes have been shown to involve a family of Cysteine proteases called Caspases (ICE/CED-3 proteases),
+23
+which can be activated through two main pathways, one involving the activation of death receptors, such as Fas/APO1 and DR5 at the cell surface, and the other involving Cytochrome-c dependent activation of the adaptor protein, Apaf-1.
+24
+Transcriptional Repression by P53
+In addition to activating genes with P53-binding sites, P53 can also repress promoters that lack the P53-binding element. A number of genes, including Interleukin-6, Nuclear Factor-kB RELA (NF kB), Cyclin A, Proliferating Cell Nuclear Antigen (PCNA), and a number of metastasis-related genes,
+24
+have been shown to be transcriptionally repressed by P53 in this way. Additionally, both RNA polymerase II and III transcription can be repressed by P53.
+25
+Germline TP53 Mutations
+Mutant P53 protein can also inhibit the normal function of wild type P53 protein. Approximately 50% of all human tumors carry a P53 mutation, and at least 52 different types of tumor have P53 mutations.
+26
+,
+27
+Detection of P53 abnormalities may have diagnostic, prognostic, and therapeutic implications. Point mutations which alter P53 function are distributed over a large region of the molecule.
+1
+At the molecular level, 53% of germ line P53 mutations are G:C to A:T transitions at CpG, which are naturally occurring sites of methylation in the genome.
+28
+Recently mutations of the oligomerization domain have been isolated from an LFS and an LFL family affecting respectively codon 344 (Leu to Pro) and 337 (Arg to Cys). Point mutations in the oligomerization domain can disrupt P53 function.
+26
+Although the mutations spread over essentially the entire gene, nevertheless there is considerable clustering of mutations within the central region of the protein. The majority of mutations are missense, with alterations at only five codons representing 25% of all known mutations (codons 175, 245, 248, 249 and 273).
+14
+Mutations in codons 248, 273, 245, 175, and 282 are the most common in both sporadic tumors and the germline, although their ranking is somewhat different sporadic tumors and the germ line.
+27
+In addition, Mutant P53 gene may have a role in the persistence of cancer cells and development of basal and squamous cell carcinomas.
+29
+Mutations of CHK1 and CHK2 in LFS
+Checkpoint kinase 2 (Chk2) is a DNA damage-activated protein kinase that lies downstream of ATM in this pathway. Heterozygous germ line mutations in Chk2 have been identified in a subset of patients with Li-Fraumeni syndrome, a highly penetrant familial cancer phenotype, suggesting that Chk2 is a tumor suppressor gene.
+27
+These two are essential for prevention of neoplastic transformation. Several proteins involved in this pathway including P53, breast cancer type 2 suceptibility (BRCA1), and Ataxia telangiectasia mutated (ATM) are frequently mutated in human cancer. In a kindred with Li-Fraumeni syndrome (LFS) without an inherited TP53 mutation, previously has been reported a truncating mutation (1100delC) in Checkpoint kinase 2 (CHK2), encoding a kinase that phosphorylates P53 on Ser20. And also CHK2 missense mutation (R145W) has been reported in another LFS family. Both 1100delC and R145W germ-line mutations in CHK2 are associated with loss of the wild-type allele in the corresponding tumor specimens, and neither tumor harbors a somatic TP53 mutation.
+30
+The cell cycle checkpoint kinases CHK1 and CHK2 act upstream of P53 in DNA damage responses. CHK2 is a human homologue of Cds1 in Schizosaccharomyces pombe and Rad53 in Saccharomyces cerevisiae, and CHK1 is a human homologue of the S. pombe checkpoint kinase Chk1.
+31
+MDM2: A Master Regulator of P53 Stability and Activity
+MDM2 was originally identified as an amplified gene on double minute chromosomes in spontaneously transformed 3T3 cells. MDM2 negatively regulates P53 stability and transcriptional function. Its human counterpart, the human homologue of murine (HDM2) encodes a 90-kDa (491 amino acids) nuclear phosphoprotein that is over expressed in several types of human tumors. The HDM2 gene spans f33 kb of genomic DNA and also consists of 12 exons.
+32
+In normal cells, MDM2 and P53 regulate each other through an auto regulatory feedback.
+33
+Murine double minute directly binds to residues within the N-terminal transactivation domain of P53, a P53 target and E3 ligase that promotes the degradation of P53 through the proteasome pathway.
+34
+Following stress, stabilization of P53 activates numerous pathways triggering a cellular response that can lead to growth arrest, senescence, differentiation, or apoptosis.
+35
+,
+36
+DNA-damage-induced phosphorylation of P53 promotes a further conformational change, which is catalyzed by the prolyl isomerase Pin1. This leads to detachment of MDM2 from P53 and to its consequent stabilization and increase of DNA-binding and transactivation activities.
+37
+-
+39
+P53 mutants are unable to activate the expression of MDM2, and are therefore, usually stable and expressed at high levels. Down regulation of MDM2 using an SiRNA approach has recently provided evidence for a new role of MDM2 in the P53 response, by modulating the inhibition of the cyclindependent kinase 2 (cdk2) by P21.
+40
+Regulation of P53 by MDM2
+Murine double minute regulates P53 in three different ways. Murine double minute binds to the P53 transactivation domain and inhibits its transcriptional activity;
+27
+exports P53 out of the nucleus, promoting its degradation and rendering it inaccessible to the target genes; and promotes proteasome-mediated degradation of P53 by functioning as an E3 ubiquitin ligase. Therefore, in the presence of MDM2, the P53 protein is inactivated and does not stimulate the expression of genes involved in apoptosis, cell cycle arrest, or DNA repair. In some tumors where MDM2 is over expressed, P53 is constantly inhibited and tumor growth is favored. The inactivation of MDM2 in these tumors should activate the P53 pathway and as a possible consequence should activate apoptosis.
+4
+Strategies to Target MDM2 in Tumors
+Antisense oligonucleotides should decrease the cellular levels of MDM2 (Strategy 1). Compounds that inhibit the ubiquitin ligase activity of MDM2 could prevent P53 degradation (Strategy 2). P14RF (an alternate reading frame product of the cyclin-dependent kinase inhibitor 2A (CDKN2A) locus) acts by blocking MDM2-dependent degradation and transcriptional silencing of P53. P14ARF mimics should therefore, activate the P53 pathway (Strategy 3). Inhibitors of the P53-MDM2 interaction should release P53 from MDM2 and as a consequence should activate P53 tumor suppressor activity (Strategy 4).
+4
+The stability of the P53 protein in mammals is primarily regulated in non-transformed cells by the interplay of two proteins, HDM2 and P14Arf in humans.
+15
+In addition to P53, MDM2 has been reported to promote the degradation of P21, MDMX, retinoblastoma protein (PRB), MTBP, Ecadherin, homeodomain-interacting protein kinase 2 (HIPK2), junction mediating and regulatory protein (IMY).
+Targeting the MDM2-P53 Interaction for Cancer Therapy
+Because the interaction between MDM2 and P53 is a primary mechanism for inhibition of the P53 function in cancers retaining wild-type P53, targeting the MDM2-P53 interaction by small molecules to reactivate P53 has emerged as a promising new cancer therapeutic strategy, small-molecule MDM2 inhibitors, known as Nutlins, was reported in 2004. The MDM2-P53 interaction is mediated by a well-defined hydrophobic surface pocket in MDM2 and four key hydrophobic residues in P53, namely Phe19, Leu22, Trp23, and Leu26. This well-defined interaction has provided the basis for the design of nonpeptide, drug-like small-molecule inhibitors of the MDM2-P53 interaction to reactivate P53. Restoration of P53 by a genetic approach in the absence of MDM2 results in severe pathologic damage to radiosensitive mouse tissues and the death of all animals within five days.
+16
+In contrast, both Nutlin-3,
+34
+and MI-219,
+4
+show little toxicity to animals at therapeutically efficacious dose-schedules.
+16
+Furthermore, a whole range of small drugs is available, which act on different aspects of mutant P53 activities. These drugs are now ready to move into clinical trials, either alone or in combination with classical therapeutic approaches. In the next 10 years, such molecules are expected to contribute in an important way to the large panel of specific drugs that will be required to deliver the promises of evidence-based and personalized medicine.
+41
+,
+42
+Link between P53 and MicroRNA
+MicroRNAs, which silence the expression of target genes through the RNA interference pathway, are commonly down regulated in human cancers.
+43
+MicroRNAs have emerged as key post-transcriptional regulators of gene expression, involved in diverse physiological and pathological processes. Although miRNAs can function as both tumor suppressors and oncogenes in tumor development, a widespread down regulation of miRNAs is commonly observed in human cancers. P53 enhances the post-transcriptional maturation of several miRNAs with growth-suppressive function, including microRNA 16-1(miR-1), miR-143 and miR-145 in response to DNA damage.
+44
+Expression of miR-34 induces cell cycle arrest, and thereby acts together with other effectors of the P53 tumor suppressor network to inhibit inappropriate cell proliferation. Another group independently demonstrated that miR-34 is upregulated by P53 upon DNA damage and promotes apoptosis.
+45
+,
+46Conclusion
+Although P53 is not a typical cancer-specific antigen, its main role in the control of cell growth and apoptosis and frequent mutations in tumors make P53 a unique target for cancer therapy. Activation of the P53 tumor suppressor pathway in malignant tumors has been considered an attractive approach to cancer therapy, but its clinical potential is still unknown. The first potent and selective inhibitors of the P53–MDM2 interaction, the Nutlins, have been identified. Future studies of MDM2 inhibitors in the clinical setting are necessary to address their utility and possible advantages over the current standard therapy.

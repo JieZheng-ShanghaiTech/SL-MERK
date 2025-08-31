@@ -1,0 +1,718 @@
+Abstract
+Polo-like kinase 1 (PLK1) is frequently overexpressed in cancer, which correlates with poor prognosis. Therefore, we investigated PLK1 as therapeutic target using rhabdomyosarcoma (RMS) as a model. Here, we identify a novel synthetic lethal interaction of PLK1 inhibitors and microtubule-destabilizing drugs in preclinical RMS models and elucidate the underlying molecular mechanisms of this synergism. PLK1 inhibitors (i.e., BI 2536 and BI 6727) synergistically induce apoptosis together with microtubule-destabilizing drugs (i.e., vincristine (VCR), vinblastine (VBL) and vinorelbine (VNR)) in several RMS cell lines (combination index <0.9) including a patient-derived primary RMS culture. Importantly, PLK1 inhibitors and VCR cooperate to significantly suppress RMS growth in two
+in vivo
+models, including a mouse xenograft model, without causing additive toxicity. In addition, no toxicity was observed in non-malignant fibroblast or myoblast cultures. Mechanistically, BI 2536/VCR co-treatment triggers mitotic arrest, which initiates mitochondrial apoptosis by inactivation of antiapoptotic BCL-2 family proteins, followed by BAX/BAK activation, production of reactive oxygen species (ROS) and activation of caspase-dependent or caspase-independent effector pathways. This conclusion is supported by data showing that BI 2536/VCR-induced apoptosis is significantly inhibited by preventing cells to enter mitosis, by overexpression of BCL-2 or a non-degradable MCL-1 mutant, by BAK knockdown, ROS scavengers, caspase inhibition or endonuclease G silencing. This identification of a novel synthetic lethality of PLK1 inhibitors and microtubule-destabilizing drugs has important implications for developing PLK1 inhibitor-based combination treatments.Treatment response critically depends on intact cell death programs in cancer cells. One of the best-characterized forms of programmed cell death is apoptosis.
+1
+Engagement of the extrinsic (death receptor) or the intrinsic (mitochondrial) pathway of apoptosis eventually leads to activation of caspases, a family of enzymes that function as cell death effector molecules.
+1
+Signaling via the mitochondrial pathway of apoptosis is tightly controlled by both antiapoptotic (BCL-2, BCL-X
+L
+, MCL-1) and proapoptotic (BAX, BAK) proteins of the BCL-2 family.
+2
+Apoptosis normally eliminates cells with intolerable DNA damage or perturbations in cell cycle progression.
+3
+,
+4
+In cancer cells, however, antiapoptotic proteins are frequently expressed at high levels, contributing to evasion of apoptosis and treatment resistance.
+2
+Polo-like kinase 1 (PLK1) is a serine/threonine-specific kinase that is pivotal for progression through mitosis.
+5
+Consistently, high expression of PLK1 correlates with increased proliferative potential and poor prognosis in many tumor entities.
+5
+Thus, PLK1 has emerged as an attractive therapeutic target in oncology. In recent years, several PLK1 inhibitors have been developed, with some agents showing encouraging results in early-phase clinical trials.
+5
+However, little is yet known on whether the antitumor activity of PLK1 inhibitors can be potentiated in rational combination regimens. Recently, overexpression of PLK1 has been documented in human tissue samples of rhabdomyosarcoma (RMS), the most frequent pediatric soft-tissue sarcoma, and was shown to correlate with reduced survival.
+6
+,
+7
+,
+8
+Searching for new synthetic lethal drug interactions, we used RMS as a model to investigate PLK1 inhibitor-based combination therapies in this study.Results
+Identification of a novel synergistic cooperation of PLK1 inhibition and microtubule-destabilizing drugs
+To investigate PLK1 as a therapeutic target in RMS, we initially determined protein expression levels of PLK1 in a panel of sarcoma cell lines, including embryonal (RD, TE381.T), alveolar (RH30) and rhabdoid (A204) subtypes. PLK1 protein was expressed at comparable levels in all RMS cell lines, whereas PLK1 was not detectable in non-malignant fibroblasts (
+Supplementary Figure S1
+). Next, we tested the PLK1 inhibitor BI 2536 alone and in combination with chemotherapeutics. Interestingly, we found that BI 2536 synergized with nanomolar concentrations of vincristine (VCR) to induce apoptosis in different sarcoma cell lines, whereas single agents had limited activity (
+Figure 1a
+). Synergistic drug interaction was confirmed by calculation of combination index (CI) (
+Supplementary Table S1a
+). Similarly, BI 2536 significantly enhanced apoptosis induced by other microtubule-targeting drugs such as vinblastine (VBL) or vinorelbine (VNR) (
+Figure 1b
+) in a synergistic manner as calculated by CI (
+Supplementary Table S1b
+). By comparison, no synergistic interaction was found for BI 2536 together with doxorubicin or taxol (
+Supplementary Figure S2
+,
+Supplementary Table S2
+). Additional cell death assays using propidium iodide (PI) staining and crystal violet confirmed synthetic lethality of BI 2536 and VCR (
+Figure 1c
+,
+Supplementary Figure S3a
+). Furthermore, we explored whether BI 2536/VCR co-treatment affects long-term clonogenic survival and three-dimensional tumor cell growth. Notably, BI 2536 and VCR acted together to significantly reduce colony formation (
+Figure 1d
+) and to synergistically induce apoptosis in three-dimensional multi-cellular spheroid cultures (
+Supplementary Figure S3b
+,
+Supplementary Table S1d
+).
+Open in a separate window
+Figure 1
+PLK1 inhibition synergizes with microtubule-destabilizing drugs to induce apoptosis in RMS cells. (
+a
+and
+b)
+RMS cell lines RD, TE381.T, A204 and RH30 were treated with indicated concentrations of PLK1 inhibitor BI 2536 and/or VCR (
+a
+), VBL or VNR (
+b
+), respectively. Apoptosis was determined at 48 h by quantification of DNA fragmentation (
+n
+=3). Results are expressed as mean±S.D. (error bars). (
+c)
+RD cells were treated with 4 nM BI 2536 and/or 2 nM VCR, TE381.T cells with 7 nM BI 2536 and/or 1 nM VCR for 48 h. Cytotoxicity was assessed by plasma membrane permeability using PI staining (
+n
+=4). (
+d
+) RD cells were treated with 2 nM BI 2536 and 1 nM VCR, TE381.T cells with 3 nM BI 2536 and 1 nM VCR for 24 h. Long-term cytotoxicity was assessed by colony formation assay at day 10 (
+n
+=3). The number of colonies is expressed as percentage of untreated controls (upper panel) and representative images are shown (lower panel). (
+e
+) RD and TE381.T cells were transiently transfected with siRNA against PLK1 or non-silencing siRNA (siControl). Knockdown of PLK1 was confirmed by western blotting. GAPDH served as loading control. Apoptosis was analyzed by quantification of DNA fragmentation at 48 h (
+n
+=3). Results are expressed as mean+S.D. (error bars). Student's
+t-
+test was used to calculate two-sided
+P-
+values. *
+P
+<0.05; **
+P
+<0.01; ***
+P
+<0.001 (
+c
+,
+d
+and
+e
+)
+Moreover, we extended our study to additional pharmacological and genetic approaches to inhibit PLK1. Similarly, the second-generation PLK1 inhibitor BI 6727
+9
+or genetic knockdown of PLK1 using two distinct siRNA sequences significantly increased VCR-triggered apoptosis (
+Supplementary Figure S3c
+,
+Supplementary Table S1c
+,
+Figure 1e
+). In contrast to malignant cells, BI 2536 and VCR did not act together to induce apoptosis in non-malignant fibroblasts or myoblasts at equimolar concentrations (
+Supplementary Figure S3d
+), pointing to some tumor selectivity. Together, this set of experiments reveals a novel synergistic cooperation of PLK1 inhibition and microtubule-destabilizing drugs to induce apoptosis and to suppress long-term clonogenic survival of RMS cells.
+PLK1 inhibitor and VCR synergistically trigger apoptosis and suppress clonogenic growth in a primary, patient-derived RMS culture
+To explore the clinical relevance of our findings, we extended our study to a primary RMS culture established from a tumor sample derived from a patient that was diagnosed with alveolar RMS. Importantly, BI 2536 and VCR synergized to reduce cell viability, to trigger apoptosis and to reduce colony formation in the primary RMS culture (
+Figures 2a–c
+,
+Supplementary Table S1e
+), underlining the clinical relevance of this combination treatment.
+Open in a separate window
+Figure 2
+PLK1 inhibitors and VCR cooperate to suppress tumor growth
+in vivo
+and in a patient-derived primary RMS culture. (
+a
+–
+c
+) Patient-derived RMS cells were cultivated to investigate BI 2536/VCR cytotoxicity. Primary cells were treated with indicated concentrations of BI 2536 and/or VCR and cell viability (
+a
+) and DNA fragmentation (
+b
+) were determined at 48 h (
+n
+=3). (
+c
+) Long-term cytotoxicity was assessed upon treatment with 3 nM BI 2536 and/or 1 nM VCR by colony formation assay (
+n
+=3). The number of colonies as percentage of untreated controls and representative images are shown. Results are expressed as mean±S.D. (error bars). Student's
+t-
+test was used to calculate two-sided
+P-
+values. *
+P
+<0.05; **
+P
+<0.01; ***
+P
+<0.001. (
+d
+and
+e
+) RD tumor xenografts on the CAM of fertilized chicken eggs were treated with 8 nM BI 2536 and/or 3 nM VCR or solvent for three consecutive days. Tumors were dissected with surrounding CAM and tumor area was analyzed in HE-stained sections (
+n
+=18 for solvent controls and BI 2536;
+n
+=16 for VCR and BI 2536+VCR) (
+d
+). In addition, tumor sections were stained for active caspase-3 by immunohistochemistry (IHC) and caspase-3-positive cells per mm
+2
+were assessed (
+e
+, magnification x40). Results are expressed as mean+S.E.M. (error bars) and representative images of HE- or IHC-stained sections are shown. Student's
+t-
+test was used to calculate two-sided
+P-
+values. *
+P
+<0.05; **
+P
+<0.01; ***
+P
+<0.001. (
+f
+) RD cells were engrafted subcutaneously into nude mice and allowed to initiate tumors. Treatment was started at day 22 (indicated by arrow) by intravenous injection of 5 mg/kg BI 6727 and/or 0.1 mg/kg VCR or solvent once weekly for 5 weeks (
+n
+=16 for solvent;
+n
+=18 for VCR and BI 6727;
+n
+=20 for BI 6727+VCR). Tumor volumes were determined and results are expressed as mean+S.E.M. (error bars). Representative images of dissected tumors on the last day of the experiment are shown. Wilcoxon–Mann–Whitney
+U
+-test was used to calculate two-sided
+P-
+values. *
+P
+<0.05; **
+P
+<0.01; ***
+P
+<0.001
+PLK1 inhibitor and VCR cooperate to suppress tumor growth
+in vivo
+in two human RMS models
+To test the antitumor activity of BI 2536/VCR co-treatment
+in vivo
+, we used two preclinical human RMS models. First, we used the chorioallantoic membrane (CAM) model, an established
+in vivo
+model for anticancer drug testing.
+10
+,
+11
+Importantly, BI 2536/VCR co-treatment significantly reduced tumor growth compared with BI 2536- or VCR single-treated tumors (
+Figure 2d
+). To explore molecular mechanisms, we also analyzed tumor sections by immunohistochemistry for active caspase-3. Importantly, BI 2536/VCR co-treatment caused a significant increase in cells that were positive for active caspase-3 compared with treatment with BI 2536 or VCR alone (
+Figure 2e
+). Second, we used a human RMS xenograft model in nude mice. Intriguingly, BI 6727/VCR co-treatment significantly reduced tumor volume compared with either treatment alone and caused considerable tumor regression (
+Figure 2e
+,
+Supplementary Figure S4a
+). No signs of toxicity were observed as assessed by clinical observation and body weight (
+Supplementary Figure S4b
+). These findings demonstrate that PLK1 inhibitors and VCR cooperate to suppress RMS growth
+in vivo
+.
+BI 2536/VCR-induced mitotic arrest is required for apoptosis
+Next, we aimed at identifying the molecular mechanisms underlying the newly identified synthetic lethality of BI 2536/VCR co-treatment. Kinetics analysis revealed that prior to the induction of apoptosis (starting at 24 h;
+Figure 3a
+) BI 2536/VCR co-treatment caused a profound arrest in G2/M phase at 18 h as shown by cell cycle analysis (
+Figure 3b
+). To confirm that cells are arrested in mitosis, we used phospho-histone H3 (pH3) as a specific marker of mitosis.
+12
+Of note, BI 2536/VCR co-treatment significantly increased the percentage of cells arrested in mitosis, as determined by immunofluorescent staining of pH3, compared with cells that were treated with either agent alone (
+Figure 3c
+,
+Supplementary Figure S5a
+). Similar results were obtained when pH3 expression was assessed by western blotting (
+Figure 3d
+). Notably, the percentage of mitotic cells well correlated with apoptosis (
+Supplementary Figure S5b
+), suggesting that mitotic arrest is required for apoptosis induction. To test this hypothesis, we used cyclin-dependent kinase 1 (CDK1) inhibitor RO-3306 to inhibit mitotic entry. Control experiments showed that the addition of RO-3306 abolished the BI 2536/VCR-stimulated upregulation of pH3 expression thereby confirming that RO-3306 prevented cells from entering mitosis (
+Figure 3e
+). Interestingly, RO-3306 significantly reduced BI 2536/VCR-induced apoptosis (
+Figure 3f
+). This demonstrates that BI 2536/VCR-induced mitotic arrest is required for apoptosis.
+Open in a separate window
+Figure 3
+BI 2536/VCR-induced mitotic arrest is required for apoptosis. RD cells were treated with 4 nM BI 2536 and/or 2 nM VCR, TE381.T cells with 7 nM BI 2536 and/or 1 nM VCR. (
+a
+) Apoptosis was determined at indicated time points by quantification of DNA fragmentation (
+n
+=3). (
+b
+) Frequency of cells per cell cycle phase was analyzed at 18 h in PI-stained nuclei using FlowJo software (TreeStar Inc.) (
+n
+=5). (
+c
+) Mitotic cells were quantified at 18 h by expression of mitotic marker pH3 using immunofluorescence (
+n
+=3). (
+d
+) pH3 expression was confirmed by western blotting at 18 h (
+n
+=3). GAPDH served as loading control and representative blots are shown. (
+e
+and
+f
+) RD and TE381.T cells were pretreated for one hour with 10
+μ
+M of CDK1 inhibitor RO-3306. pH3 expression at 24 h was confirmed by western blotting (
+n
+=3). GAPDH served as loading control and representative blots are shown (
+e
+). Apoptosis was determined at 48 h by quantification of DNA fragmentation (
+n
+=4). Results are expressed as mean±S.D. (error bars) (
+f
+). Student's
+t-
+test was used to calculate two-sided
+P-
+values. **
+P
+<0.01; ***
+P
+<0.001
+Engagement of mitochondrial apoptosis by BI 2536/VCR co-treatment
+We then analyzed antiapoptotic BCL-2 family proteins, which are described to be modulated during prolonged mitotic arrest.
+13
+,
+14
+,
+15
+Indeed, BI 2536/VCR co-treatment caused downregulation of MCL-1 and phosphorylation of BCL-X
+L
+and BCL-2 (
+Figure 4a
+). Intriguingly, inhibition of mitotic entry by RO-3306 prevented MCL-1 downregulation and BCL-2 phosphorylation (
+Figure 4b
+), confirming that these changes occur specifically during mitotic arrest. To investigate whether phosphorylation-mediated degradation of MCL-1 upon mitotic arrest is required for apoptosis induction, we ectopically expressed a MCL-1 phospho-defective mutant (MCL-1 ‘4A'), which is resistant to phosphorylation and subsequent proteasomal degradation.
+15
+Notably, overexpression of the non-degradable MCL-1 mutant significantly protected cells against BI 2536/VCR-induced apoptosis (
+Figures 4c and d
+). Also, ectopic expression of murine BCL-2 significantly reduced BI 2536/VCR-induced apoptosis and loss of cell viability (
+Figures 4e and f
+, and
+Supplementary Figure S6
+), underscoring that inactivation of antiapoptotic BCL-2 family proteins contributes to apoptosis.
+Open in a separate window
+Figure 4
+Modulation of antiapoptotic BCL-2 proteins by BI 2536/VCR co-treatment. RD cells were treated with 4 nM BI 2536 and/or 2 nM VCR, TE381.T cells with 7 nM BI 2536 and/or 1 nM VCR for indicated time periods. (
+a
+) Protein expression of MCL-1, BCL-2 and BCL-X
+L
+was determined at 24 and 36 h by western blotting (
+n
+=3).
+β
+-Actin or GAPDH served as loading controls. (
+b
+) RD and TE381.T cells were pretreated for 1 h with 10
+μ
+M of CDK1 inhibitor RO-3306. Expression of the antiapoptotic BCL-2 family proteins MCL-1 and BCL-2 and mitotic marker pH3 was analyzed by western blotting (
+n
+=3).
+β
+-Actin served as loading control. (
+c
+and
+d
+) Cells were genetically engineered to stably express a non-degradable phospho-defective mutant of MCL-1 (MCL-1 ‘4A'). Expression of MCL-1 ‘4A' (indicated by arrow) in transfected RD and TE381.T cells was confirmed by western blotting at 24 h upon treatment with BI 2536 and/or VCR (
+n
+=2). GAPDH served as loading control (
+c
+). Apoptosis was analyzed by quantification of DNA fragmentation at 48 h (
+n
+=3) (
+e
+). (
+e
+and
+f
+) Cells were genetically engineered to stably express high levels of murine BCL-2. Overexpression of murine BCL-2 in transduced RD and TE381.T cells was confirmed by western blotting using an antibody that specifically detects murine BCL-2 (
+n
+=3). GAPDH served as loading control (
+e
+). Apoptosis was analyzed by quantification of DNA fragmentation at 48 h (
+n
+=3) (
+f
+). Cells transfected with corresponding empty vectors served as controls. Results are expressed as mean+S.D. (error bars) or representative blots are shown. Student's
+t-
+test was used to calculate two-sided
+P-
+values. **
+P
+<0.01; ***
+P
+<0.001
+As antiapoptotic BCL-2 family proteins control activation of the proapoptotic proteins BAX and BAK,
+16
+,
+17
+we examined whether the observed inactivation of antiapoptotic BCL-2 proteins during BI 2536/VCR-induced mitotic arrest causes BAX/BAK activation. Interestingly, using active conformation-specific antibodies, we found that BI 2536 and VCR cooperated to stimulate BAX and BAK activation (
+Figure 5a
+). Consistently, overexpression of BCL-2 counteracted BAX/BAK activation upon BI 2536/VCR co-treatment (
+Figure 5b
+), in line with inhibition of BI 2536/VCR-induced apoptosis by BCL-2 (
+Figure 4f
+and
+Supplementary Figure S6
+). In addition, knockdown of BAK significantly reduced BI 2536/VCR-induced apoptosis (
+Figure 5c
+), demonstrating that activation of proapoptotic BCL-2 family proteins such as BAK contributes to apoptosis upon BI 2536/VCR co-treatment.
+Open in a separate window
+Figure 5
+BAX/BAK activation by BI 2536/VCR co-treatment. RD cells were treated with 4 nM BI 2536 and/or 2 nM VCR, TE381.T cells with 7 nM BI 2536 and/or 1 nM VCR. (
+a
+) Activation of proapoptotic BAX and BAK was assessed at 28 h by immunoprecipitation with active confirmation-specific antibodies (
+n
+=3).
+β
+-Actin and total BAX or BAK levels served as loading controls. (
+b
+) Detection of active BAX and BAK was performed as in (
+b
+), but in cells stably expressing high levels of murine BCL-2 (BCL-2) and transfected with corresponding empty vectors (controls) (
+n
+=2). (
+c
+) RD and TE381.T cells were transiently transfected with siRNA against BAK or non-silencing siRNA (siControl). Knockdown of BAK was confirmed by western blotting.
+β
+-Actin served as loading control. Apoptosis was analyzed by quantification of DNA fragmentation at 48 h (
+n
+=3). Results are expressed as mean+S.D. (error bars) or representative blots are shown. Student's
+t-
+test was used to calculate two-sided
+P-
+values. **
+P
+<0.01; ***
+P
+<0.001
+As BAX/BAK activation can lead to mitochondrial perturbations, we next assessed mitochondrial reactive oxygen species (ROS) production. Of note, BI 2536/VCR co-treatment significantly increased ROS levels compared with treatment with either drug alone (
+Figure 6a
+). Importantly, pretreatment with the superoxide scavenger Mn(III)tetrakis(4-benzoic acid)porphyrin chloride (MnTBAP), which impeded ROS production (
+Figure 6b
+), significantly reduced BI 2536/VCR-induced apoptosis (
+Figure 6c
+) without preventing mitotic arrest (
+Figure 6d
+). Similarly, other ROS scavengers such as
+N
+-acetylcysteine and
+α
+-tocopherol significantly rescued from BI 2536/VCR-induced apoptosis (
+Figure 6e
+), underlining that ROS production is required for BI 2536/VCR-induced apoptosis.
+Open in a separate window
+Figure 6
+ROS-dependent apoptosis by BI 2536/VCR co-treatment. (
+a
+) Production of ROS was determined by flow cytometry analysis of RD and TE381.T cells stained with either MitoSOX Red or CellROX Deep Red reagent at 24 h (
+n
+=4). ROS levels were normalized to controls and are expressed as fold induction+S.D. (error bars). (
+b
+,
+c
+and
+d
+) RD and TE381.T cells were pretreated for 1 h with 0.1 mM of superoxide scavenger MnTBAP. ROS production was determined using MitoSOX Red reagent for BI 2536/VCR co-treated cells at 24 h (
+n
+=3). ROS levels were normalized to controls and are expressed as fold induction+S.D. (error bars) (
+b
+). Apoptosis was determined at 48 h by quantification of DNA fragmentation (
+n
+=3) (
+c
+). Mitotic marker pH3 was analyzed by western blotting (
+n
+=3). GAPDH served as loading control (
+d
+). (
+e
+) RD and TE381.T cells were pretreated for 18 h with 5 mM of antioxidant
+N
+-acetylcysteine or for 1 h with 0.3 mM of antioxidant
+α
+-tocopherol. Apoptosis was determined at 48 h by quantification of DNA fragmentation (
+n
+=3). Results are expressed as mean+S.D. (error bars) or representative blots are shown. Student's
+t-
+test was used to calculate two-sided
+P-
+values. *
+P
+<0.05; **
+P
+<0.01; ***
+P
+<0.001
+Together, this set of experiments shows that BI 2536 and VCR cooperate to inhibit antiapoptotic BCL-2 proteins, thereby activating the mitochondrial apoptosis pathway including BAX/BAK activation and ROS production.
+BI 2536/VCR-induced apoptosis is executed via both caspase-dependent and -independent effector pathways
+Finally, we asked whether activation of the mitochondrial apoptosis pathway leads to caspase activation for cell death execution. Indeed, BI 2536 and VCR cooperated to trigger cleavage of caspase-9 and -3 into active fragments (p37 and p35 for caspase-9; p17 and p12 for caspase-3), whereas minor effects on caspase-8 cleavage were observed (
+Figure 7a
+). This pattern of caspase activation is consistent with predominant activation of the mitochondrial apoptosis pathway. To test the requirement of caspase activity for cell death, we applied the broad-range caspase inhibitor
+N
+-benzyloxycarbonyl-Val-Ala-Asp-fluoromethylketone (zVAD.fmk). zVAD.fmk markedly reduced BI 2536/VCR-induced apoptosis in RD cells, whereas it slightly decreased apoptosis in co-treated TE381.T cells (
+Figure 7b
+). In addition, zVAD.fmk significantly decreased BI 2536/VCR-mediated apoptosis in A204 and in a primary RMS culture (
+Supplementary Figure S7a
+). By comparison, TNF-related apoptosis-inducing ligand (TRAIL)-induced apoptosis, used as positive control for caspase activation (
+Figure 7a
+) and caspase-dependent apoptosis, was completely blocked by zVAD.fmk in both cell lines (
+Supplementary Figure S7b
+), pointing to an additional, caspase-independent mechanism. Therefore, we investigated the involvement of the endonuclease G (ENDOG) that has been reported to mediate apoptotic DNA fragmentation independently of caspases.
+18
+,
+19
+Interestingly, ENDOG knockdown significantly reduced BI 2536/VCR-induced DNA fragmentation in TE381.T and partially decreased DNA fragmentation in RD cells (
+Figure 6c
+). Intriguingly, ENDOG knockdown together with zVAD.fmk cooperatively reduced BI 2536/VCR-induced DNA fragmentation in RD cells compared with either inhibition alone (
+Supplementary Figure S7c
+). These findings reveal that both caspase-dependent and caspase-independent effector pathways mediate BI 2536/VCR-induced apoptosis.
+Open in a separate window
+Figure 7
+BI 2536/VCR-induced apoptosis is executed via both caspase-dependent and -independent effector pathways. RD cells were treated with 4 nM BI 2536 and/or 2 nM VCR, TE381.T cells with 7 nM BI 2536 and/or 1 nM VCR for indicated time periods. (
+a
+) Caspase activation at 24 and 36 h was monitored by detection of active cleavage fragments (indicated by arrows) of caspase-8, -9 and -3 by western blotting (
+n
+=3). GAPDH served as loading control and TRAIL receptor-2 agonistic antibody ETR2 as positive control for caspase cleavage. (
+b
+) RD and TE381.T cells were pretreated for one hour with 50
+μ
+M of broad-range caspase inhibitor zVAD.fmk. Apoptosis was determined at 48 h by quantification of DNA fragmentation (
+n
+=6). (
+c
+) RD and TE381.T cells were transiently transfected with siRNA against ENDOG or non-silencing siRNA (siControl). Knockdown of ENDOG was confirmed by western blotting (
+n
+=2).
+β
+-Actin served as loading control. Apoptosis was analyzed by quantification of DNA fragmentation at 48 h (
+n
+=3). Results are expressed as the mean+S.D. (error bars) or representative blots are shown. Student's
+t-
+test was used to calculate two-sided
+P-
+values. *
+P
+<0.05; **
+P
+<0.01. (
+d
+) Proposed mechanism of synergy between PLK1 inhibitors (BI 2536) and microtubule-destabilizing drugs such as VCR in inducing apoptosis. Black arrows indicate activating or phosphorylating (P) events, red lines indicate pharmacological or genetic intervention. pH3 (marker of mitosis); BCL-2/BCL-X
+L
+/MCL-1, antiapoptotic BCL-2 family proteins (blue); BAX/BAK, proapoptotic BCL-2 family proteins (red). Mitotic arrest initiates degradation of MCL-1 and phosphorylation of BCL-2 and BCL-X
+L
+, leading to activation of BAX and BAK. In addition, ROS accumulate during prolonged mitotic arrest and enhance mitochondrial perturbations. This results in mitochondrial outer membrane permeabilization and activation of either the caspase cascade (casp-3/casp-9) or the caspase-independent nuclease ENDOG for apoptosis executionDiscussion
+In this study, we identify a novel synthetic lethal interaction of PLK1 inhibitors and microtubule-destabilizing drugs to induce apoptosis and to suppress tumor growth in preclinical models of RMS used as a prototypic cancer where PLK1 overexpression was shown to correlate with poor outcome. The potency of this drug combination is demonstrated by calculation of CI values, which confirm synergistic drug interaction. Importantly,
+in vivo
+studies in two human RMS models including a mouse xenograft model demonstrate cooperative antitumor activity of PLK1 inhibitor/VCR co-treatment causing tumor regression. The combination treatment exhibits some tumor selectivity, as it was neither toxic
+in vivo
+upon systemic administration nor against non-malignant cells
+in vitro
+. The clinical relevance of this co-treatment is emphasized by our studies in a patient-derived tumor sample, which similarly show synergistic apoptosis induction by BI 2536/VCR co-treatment.
+Next, we unravel the underlying molecular mechanisms of the synergism of BI 2536/VCR (
+Figure 7d
+). BI 2536 and VCR cooperate to cause mitotic arrest, which triggers downregulation of MCL-1 and inactivates BCL-2 and BCL-X
+L
+via phosphorylation, thereby shifting the balance between pro- and antiapoptotic BCL-2 family proteins toward apoptosis, resulting in BAX/BAK activation and ROS production. This leads to activation of both caspase-dependent and caspase-independent (via ENDOG) execution pathways of apoptosis. These conclusions are supported by the following pieces of experimental evidence:
+First, mitotic arrest is critically required for BI 2536/VCR-induced apoptosis, as pharmacological inhibition of mitotic entry by CDK1 inhibitor RO-3306 abolishes BI 2536/VCR-induced apoptosis. In addition, mitotic arrest positively correlates with BI 2536/VCR-induced apoptosis.
+Second, BI 2536 and VCR cooperate to disable antiapoptotic BCL-2 family proteins. MCL-1 downregulation and phosphorylation of BCL-2 specifically occur during mitotic arrest, as pharmacological inhibition of mitotic entry by RO-3306 also prevents these events. Although CDK inhibitors have previously been reported to downregulate expression of the short-lived protein MCL-1 by blocking MCL-1 transcription,
+20
+we observed no downregulation of MCL-1 by RO-3306 in RMS cells, indicating that RO-3306 likely does not affect transcription under these conditions. Importantly, genetic evidence confirms that degradation of MCL-1 is critically required for BI 2536/VCR-induced apoptosis, as expression of a phospho-defective MCL-1 mutant, which is resistant to proteasomal degradation during mitotic arrest, significantly decreases cell death. Similarly, overexpression of BCL-2, which counteracts phosphorylation-mediated inactivation of BCL-2 and subsequent activation of BAX/BAK, inhibits BI 2536/VCR-induced cell death. Post-translational modifications of antiapoptotic BCL-2 family proteins have been reported as essential events for mitotic cell death.
+13
+,
+15
+,
+21
+,
+22
+In line with our data, MCL-1 has been described to be phosphorylated, ubiquitinated and degraded during prolonged mitotic arrest.
+13
+,
+14
+,
+15
+Also, phospho-defective BCL-2 and BCL-X
+L
+mutants were shown to block mitotic cell death compared with wild-type proteins, and mitotic phosphorylation of BCL-X
+L
+is known to reduce its ability to antagonize proapoptotic BAX.
+21
+,
+22
+,
+23
+Consistently, we found that BI 2536/VCR-stimulated BAX/BAK activation is essential for apoptosis, as BAK knockdown or BCL-2 overexpression significantly reduce BI 2536/VCR-induced apoptosis.
+Third, pharmacological intervention strategies demonstrate that mitochondrial perturbations including increased ROS production are required for BI 2536/VCR-induced apoptosis, as several ROS scavengers attenuate BI 2536/VCR-induced apoptosis without eliminating mitotic arrest. Interestingly, decreased manganese superoxide dismutase (MnSOD) activity in mitotic cells has recently been linked to ROS accumulation,
+24
+suggesting that mitotic arrest may enhance oxidative stress by reducing MnSOD activity, thereby promoting mitochondrial apoptosis.
+Fourth, we discover that BI 2536/VCR co-treatment triggers apoptosis via two distinct effector pathways, in a caspase-dependent manner and/or independently of caspases via ENDOG. Our findings indicate that the relative contribution of these two effector mechanisms to BI 2536/VCR-induced apoptosis may vary among the cell lines. Although mitotic cell death, also referred to as ‘mitotic catastrophe', is defined as cell death triggered by aberrant mitosis, the underlying molecular effector mechanisms have remained elusive.
+25
+Importantly, we identify ENDOG as a key executing nuclease of caspase-independent mitotic apoptosis. ENDOG has previously been implicated in apoptotic DNA fragmentation independently of caspases.
+18
+,
+19
+The involvement of both caspase-dependent and caspase-independent effector pathways during BI 2536/VCR-induced apoptosis is particularly relevant as this redundancy may reduce the risk of acquired resistance.
+Foremost, our study provides the rationale for future (pre)clinical evaluation of PLK1 inhibitors together with microtubule-destabilizing drugs. At present, PLK1 inhibitors are under evaluation in early clinical trials in a variety of cancers.
+26
+As the PLK1 inhibitor BI 6727 is currently tested as monotherapy in a phase I clinical trial in childhood cancer (
+www.clinicaltrials.gov
+), and because VCR is used as standard therapy of RMS, it is feasible that this combination can be translated into clinical application in pediatric oncology. The significance of developing PLK1 inhibitor-based combinations is underlined by a recent study of the Pediatric Preclinical Testing Program showing only modest single-agent antitumor activity of BI 6727 against the pediatric solid tumor xenograft panel.
+27
+This underscores the need for rational drug combinations, for example, together with microtubule-interfering drugs as demonstrated in this study. Synthetic lethal drug combinations are particularly interesting in the current era of molecular targeted therapies, as they offer the advantage of yielding synergistic antitumor activity at relatively low concentrations of each drug without causing additive toxicity. Compared with our xenograft studies using a relatively low dose of BI 6727 (5 mg/kg BI 6727 once weekly for 5 weeks) in order to investigate cooperative antitumor activity of BI 6727 together with VCR, Thalhammer
+et al.
+8
+recently reported regression of RMS tumors
+in vivo
+upon treatment with higher doses of BI 6727 (40 mg/kg twice weekly for 3 weeks). As the cure rate for children with metastatic RMS is unfortunately still lower than 30%,
+28
+,
+29
+there is a high unmet medical need to develop more efficient therapies. Beyond RMS, the identification of this novel synthetic lethality of PLK1 inhibitors and microtubule-targeting chemotherapeutics is of broader relevance for other cancers to exploit therapeutic strategies based on mitotic cell death.Materials and Methods
+Parental cell lines, cell culture and treatment
+RMS cell lines, BJ fibroblasts and Phoenix transducer cells derived from embryonic kidney cells were of human origin, C2C12 myoblasts were of murine origin. Cell lines were obtained from the American Type Culture Collection (Manassas, VA, USA) or from the German Collection of Microorganisms and Cell Cultures (Leibniz Institute DSMZ, Braunschweig, Germany). Primary RMS cells derived from a tumor biopsy of an 18-year-old boy diagnosed with alveolar RMS after informed consent in accordance with the Declaration of Helsinki were established as
+in vitro
+primary culture and experiments were performed at low passage. The study was approved by the local ethics committee.
+Cells were maintained in DMEM (RD, TE381.T, A204, C2C12, BJ and Phoenix) or RPMI 1640 (RH30) GlutaMAX-I medium (Life Technologies, Inc., Carlsbad, CA, USA), supplemented with 10% fetal bovine serum (FBS) (Life Technologies, Inc.), 1% penicillin/streptomycin (Life Technologies, Inc.), 1 mM sodium pyruvate (Life Technologies, Inc.) at 37 °C in a humidified atmosphere with 5% CO
+2
+, and were subcultured twice a week. For multi-cellular spheroid cultures, cells were grown in plates coated with poly-2-hydroxyethylmethacrylate (Sigma, Deisenhofen, Germany) to avoid adherence and promote spheroid formation.
+VCR, VBL and VNR were purchased from Sigma; RO-3306 and MnTBAP from Merck (Darmstadt, Germany); zVAD.fmk from Bachem (Heidelberg, Germany);
+N
+-acetylcysteine and
+α
+-tocopherol were purchased from Sigma. General chemicals were purchased from Carl Roth (Karlsruhe, Germany) or Sigma unless otherwise indicated.
+Genetically engineered cell lines
+For stable expression of the non-degradable phospho-defective MCL-1 mutant (MCL-1 ‘4A'), cells were transfected with 4
+μ
+g of pCMV Tag3B plasmid (empty vector; MCL-1 ‘4A' (S64A/S121A/S159A/T163A)) supplied with Lipofectamine 2000 (Life Technologies, Inc.) and selected with 500
+μ
+g/ml G418 (Carl Roth). Stable overexpression of murine BCL-2 was performed by lentiviral vectors. Shortly, Phoenix cells were transfected with 20
+μ
+g of pMSCV plasmid (empty vector; BCL-2) using calcium phosphate transfection. Virus-containing supernatant was collected, sterile filtered and used for spin transduction at 37 °C in the presence of 8
+μ
+g/ml polybrene. Transduced cells were selected with 10
+μ
+g/ml blasticidin (Sigma). BCL-2 plasmids (pMSCV, BCL-2) were kindly provided by CA Schmitt (Berlin, Germany); MCL-1 plasmids (pCMV-Tag3B, MCL-1 ‘4A') by Genentech (South San Francisco, CA, USA). Transfection or transduction efficiency was confirmed by western blotting.
+RNA interference
+For transient knockdown of BAK, ENDOG or PLK1 by siRNA, cells were reversely transfected with 10 pmol (for siBAK and siENDOG experiments) or 1 pmol (for siPLK1 experiments) Silencer Select (Life Technologies, Inc.) control siRNA (4390844) or targeting siRNA (s707 and s708 for ENDOG; s1880 and s1881 for BAK; s448 and s450 for PLK1), respectively, using Lipofectamine RNAiMAX reagent (Life Technologies, Inc.) and Opti-MEM medium (Life Technologies, Inc.). Knockdown efficiency was confirmed by western blotting.
+Determination of cell death by quantification of DNA fragmentation, PI uptake, cell viability and colony formation assay
+Cell death was determined by flow cytometric analysis (FACSCanto II, BD Biosciences, Heidelberg, Germany) of DNA fragmentation of PI-stained nuclei as previously described.
+30
+In addition, cell death was quantified as PI-positive cells by analyzing plasma membrane permeability via flow cytometry of cells incubated with 2
+μ
+g/ml of PI diluted in phosphate-buffered saline (PBS) for 10 min. Cell viability was assessed by crystal violet assay using staining of viable cells with crystal violet solution (0.5% crystal violet, 30% ethanol, 3% formaldehyde). Plates were then rinsed with water and crystal violet incorporated by the cells was re-solubilized in a solution containing 1% sodium dodecyl sulfate. Absorbance at 550 nm was measured using a microplate reader (Infinite M100, Tecan, Crailsheim, Germany). For colony formation assay, 100 cells per well were seeded in six-well plates and treated for 24 h with indicated drug concentrations. Cells were cultured in drug-free medium for additional 9 days before fixation and staining with 0.5% crystal violet, 30% ethanol and 3% formaldehyde. The number of colonies was counted macroscopically.
+Determination of ROS production
+To determine ROS production, cells were stained either with 1
+μ
+M of CellROX Deep Red Reagent (Life Technologies, Inc.) for 30 min or with 5
+μ
+M of MitoSOX Red Mitochondrial Superoxide Indicator (Life Technologies, Inc.) for 10 min at 37 °C and analyzed by flow cytometry. Dead cells were excluded from the analysis by discarding supernatant and by forward-sideward scatter analysis.
+Determination of BAX and BAK activation
+BAX and BAK activation was determined by immunoprecipitation of active conformation by specific antibodies. Briefly, cells were lysed in CHAPS lysis buffer (10 mmol/l HEPES, pH 7.4; 150 mmol/l NaCl; 1% CHAPS). In all, 1 mg protein was incubated over night at 4 °C with 8
+μ
+g mouse monoclonal anti-BAX antibody (clone 6A7; Sigma) or 0.5
+μ
+g mouse monoclonal anti-BAK antibody (AB-1; Millipore, Darmstadt, Germany) and 10
+μ
+l pan-mouse IgG Dynabeads, washed with CHAPS lysis buffer, and analyzed by western blotting using rabbit polyclonal anti-BAX NT (Millipore) antibody or rabbit polyclonal anti-BAK antibody (BD Biosciences, Franklin Lakes, NJ, USA).
+Cell cycle analysis
+Cell cycle analysis was performed on PI-stained nuclei as described in Rapino
+et al.
+31
+and analyzed using FlowJo software (TreeStar Inc., Ashland, OR, USA). Mitotic cells were determined by immunofluorescence staining or protein expression analysis of pH3.
+Western blotting
+Western blotting analysis was performed as previously described
+32
+using the following antibodies: rabbit polyclonal anti-BAK, mouse monoclonal anti-BCL-2, rabbit polyclonal anti-BCL-X
+L
+(BD Biosciences, Franklin Lakes, NJ, USA), mouse monoclonal anti-murine BCL-2 (Life Technologies, Inc.), rabbit polyclonal anti-caspase-3, rabbit polyclonal anti-caspase-9, rabbit polyclonal anti-ENDOG (Cell Signaling, Beverly, MA, USA), rabbit polyclonal anti-BAX NT, rabbit polyclonal anti-pH3 (Millipore), mouse monoclonal anti-caspase-8, rabbit polyclonal anti-MCL-1 (Enzo Life Science, Lörrach, Germany), mouse monoclonal anti-PLK1 (Santa Cruz Biotechnology, Inc., Dallas, TX, USA), mouse monoclonal anti-
+β
+-actin (Sigma) and mouse monoclonal anti-GAPDH (HyTest, Turku, Finland). Goat polyclonal anti-mouse IgG and goat polyclonal anti-rabbit IgG conjugated to horseradish peroxidase (Santa Cruz Biotechnology, Inc.) as secondary antibodies and enhanced chemiluminescence (Amersham Bioscience, Freiburg, Germany) or infrared dye-labeled secondary antibodies (donkey polyclonal anti-mouse IRDye800CW; donkey polyclonal anti-mouse IRDye680LT; donkey anti-rabbit IRDye800CW) and infrared imaging (Odyssey Imaging System, LI-COR Bioscience, Bad Homburg, Germany) were used for detection. Primary antibodies were diluted 1 : 1000 in PBS with 0.2% Tween 20 (PBS-T) containing 2% bovine serum albumin (2% BSA) and secondary antibodies were diluted 1 : 5000 (HRP-conjugated) or 1 : 10 000 (IRDye-conjugated) in PBS-T with 5% milk powder, except: anti-
+β
+-actin (1 : 10 000); anti-caspase-8 (1 : 2000 in 5% milk powder in PBS-T); anti-GAPDH (1 : 5000); anti-MCL-1 (1 : 2000). Representative blots of at least two independent experiments are shown.
+Immunofluorescence staining of pH3
+For immunofluorescence staining of pH3, cells were fixed for 10 min in methanol at –20 °C, blocked for 10 min in antibody dilution (ABD) buffer (0.9% NaCl, 10 mM TrisHCl pH 7.5, 5 mM EDTA, 1 mg/ml BSA, supplemented with 10% FBS) and incubated with rabbit polyclonal anti-pH3 (1 : 1000) and mouse monoclonal anti-
+α
+-tubulin-FITC (1 : 400; Sigma) for 1 h, followed by donkey polyclonal anti-rabbit IgG (1 : 700) for 30 min (antibodies diluted in ABD buffer with 10% FBS). Cells were counterstained with DAPI, mounted (Vector Laboratories, Burlingame, CA, USA), and visualized using an Olympus IX71 microscope (Hamburg, Germany).
+CAM assay for anticancer drug testing
+For CAM assay, 1 × 10
+6
+RD cells were implanted on fertilized chicken eggs on day 8 of incubation, allowed to form tumors and were then treated with 36.60 ng BI 2536 and/or 24.29 ng VCR (corresponding to 8 nM BI 2536 and 3 nM VCR in cell culture experiments) for 3 consecutive days, sampled with the surrounding CAM, fixed in 4% paraformaldehyde, embedded in paraffin, cut in 3
+μ
+m sections and then analyzed by immunohistochemistry using 1 : 1 hematoxylin and 0.5% eosin (HE) or rabbit polyclonal anti-cleaved caspase-3 (Asp175) antibody (Cell Signaling) and hematoxylin counterstain. Images were digitally recorded and tumor areas were analyzed with ImageJ digital imaging software (NIH, Bethesda, MD, USA).
+Mouse xenograft studies
+For mouse xenograft studies, female Crl : NU-Foxn1
+nu
+mice (Charles River Laboratories, Sulzfeld, Germany) were grafted subcutaneously with RD cells (2 × 10
+6
+). Mice were housed and cared for according to European guidelines (FELASA) on the accommodation and care of animals used for experimental scientific purposes. Starting on day 22, mice were randomized and injected intravenously with solvent, 0.1 mg/kg VCR, 5 mg/kg BI 6727, or both. Tumor volumes were determined twice a week using a caliper and body weight was recorded concomitantly. The results were converted to tumor volume (V) in mm
+3
+by the formula length × width
+2
+×
+π
+/6. Statistical differences were analyzed using Wilcoxon–Mann–Whitney
+U
+-test (BiAS version 9.14, epsilon, Frankfurt, Germany). At the last day of the experiment, tumors were excised from killed mice and analyzed macroscopically. Animal care and experiments were in accordance with institutional and national guidelines; research protocols were approved by appropriate authorities.
+Statistical analysis
+Statistical differences were determined using Student's
+t-
+test or Wilcoxon–Mann–Whitney
+U
+-test when comparing two groups and data were expressed as mean±S.D. of three or more independent experiments performed in triplicate, if not stated otherwise (BiAS version 9.14, epsilon).
+P-
+values <0.05 were considered statistically significant and indicated as following: *
+P
+<0.05; **
+P
+<0.01; ***
+P
+<0.001. Correlation coefficient was calculated by regression analysis with
+R
+=1 indicating perfect positive correlation. All statistical assessments were two-sided. The CI was determined by CalcuSyn software (Biosoft, Cambridge, UK) based on the method described by Chou.
+33
+CI <0.9 indicates synergism, 0.9–1.1 additivity and >1.1 antagonism.Acknowledgments
+We thank Genentech for providing MCL-1 plasmids, T Klingebiel and S Wehner for providing the RMS sample, K Strebhardt (Frankfurt, Germany) for helpful discussions, M Sanhaji (Frankfurt, Germany) for assistance with pH3 immunofluorescent staining, R Sauter and D Brücher for expert technical assistance and C Hugenberg for expert secretarial assistance. This work has been partially supported by grants from the Deutsche Krebshilfe and BMBF (to SF).Glossary
+PLK1
+polo-like kinase 1
+RMS
+rhabdomyosarcoma
+VCR
+vincristine
+CI
+combination index
+VBL
+vinblastine
+VNR
+vinorelbine
+PI
+propidium iodide
+CAM
+chorioallantoic membrane
+IHC
+immunohistochemistry
+pH3
+phospho-histone H3
+CDK1
+cyclin-dependent kinase 1
+MCL-1 ‘4A'
+MCL-1 phospho-defective mutant
+ROS
+reactive oxygen species
+MnTBAP
+Mn(III)tetrakis(4-benzoic acid)porphyrin chloride
+zVAD.fmk
+N
+-benzyloxycarbonyl-Val-Ala-Asp-fluoromethylketone
+TRAIL
+TNF-related apoptosis-inducing ligand
+ENDOG
+endonuclease G
+MnSOD
+manganese superoxide dismutase
+FBS
+fetal bovine serum
+PBS
+phosphate-buffered salineNotes
+The authors declare no conflict of interest.Footnotes
+Supplementary Information
+accompanies this paper on Cell Death and Differentiation website (http://www.nature.com/cdd)
+Edited by L Scorrano

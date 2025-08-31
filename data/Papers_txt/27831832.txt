@@ -1,0 +1,207 @@
+ABSTRACT
+Small molecule inhibitors targeting CDK1/CDK2 have been clinically proven effective against a variety of tumors, albeit at the cost of profound off target toxicities. To separate potential therapeutic from toxic effects, we selectively knocked down CDK1 or CDK2 in p53 mutated HACAT cells by siRNA silencing. Using dynamic, cell cycle wide proteome arrays, we observed minor changes in overall abundance of proteins critically involved in cell cycle transition despite profound G
+2
+/M or G
+1
+/S arrest, respectively. Employing phospho site specific analyses, we identified uncoupled mitogenic, yet pro-apoptotic signaling from counter balancing anti-apoptotic activity in CDK2 disrupted cells. Moreover, a crucial role of CDK2 activity in early serum response was observed, extending well-established roles of CDKs outside their cell cycle regulating functions. In contrast, disruption of CDK1 only marginally affected phosphorylation events of crucial signaling nodes prior to G
+2
+/S transition. The data presented here suggest that the temporal separation of pro- and anti-apoptotic pathways by selective inhibition of CDK2 disrupts coherent signaling modules and may synergize with anti-proliferative drugs, averting toxic side effects from CDK1 inhibition.
+KEYWORDS:
+CDK1, CDK2, cell cycle, HACAT, phosphorylation, p53, signaling pathway, serine-threonine kinase, tyrosine kinaseIntroduction
+Cyclin dependent kinases (CDK) are master regulators of cell cycle entry, transition and cell division in normal and transformed cells. Based on these key roles, CDKs are considered preferred targets for anti-cancer drugs for more than 20 years, but clinical efficacy of pharmacological CDK specific inhibitors has only recently been demonstrated in breast cancer, melanoma, myeloma and other tumors.
+1
+While most inhibitors clinically tested so far target CDK4/6
+2
+, which are active in the G
+1
+phase of the cell cycle, novel agents like dinaciclib and others selectively inhibit CDK1, CDK2 and, to a lesser extent, the transcriptionally active CDKs 5 and 9.
+3,4
+CDK2 funnels cells through G
+1
+/S, to make way for CDK1 in later G
+2
+/M phases. Despite the clinical benefit of this new generation of CDK inhibitors in the treatment modalities of cancer, the precise mode of action in malignant or premalignant lesions remains elusive.
+Consequently, we here resorted to the well-established model of the p53 mutated human keratinocyte cell line HACAT to study isolated CDK1 and CDK2 silencing within the signaling network of malignant phenotypes. CDK1 was investigated because of its essential and non-redundant role for productive replication in all mammalian and other eukaryotic cells
+5
+and CDK2 was probed in order to determine whether selective alterations in the cell cycle clock at the G
+1
+/S transition opens possible new therapeutic windows for synthetic lethality without eliciting dose-limiting off-target effects.Results and discussion
+To monitor the dynamics of cell cycle transitions, we synchronized HACAT cells in G
+0
+by serum starvation for 48 hours and analyzed distinct cell cycle phases at 6 time points after G
+1
+release. In line with previous reports, silencing of CDK1 or CDK2 by small interfering RNA (siRNA) (
+Fig. 1A
+) arrested HACAT cells at G
+2
+/M and G
+1
+/S, as compared to CDK competent cells treated with non-target siRNA (
+Fig. 2
+). These results confirm the important roles of CDK molecules for cell division, proffer them as attractive targets for cancer therapy.
+Open in a separate window
+Figure 1.
+Kinetics of CDK1 and CDK2 inhibition by siRNA. HACAT cells were transiently transfected with CDK1 or CDK2 siRNA (75 nM) and non-target control siRNA, synchronized for 48 hours by serum starvation, followed by G1-release after addition of serum-containing medium. Protein levels of CDK1 and CDK2 were analyzed by western blot. Tubulin was used as loading control. The images are representative of at least 3 series of different experiments with various concentrations of siRNA (25-75nM) and time points (24 to 84 hours).
+Open in a separate window
+Figure 2.
+Cell cycle analysis in CDK1 and CDK2-deficient cells. HACAT cells were transiently transfected with CDK1 or CDK2 siRNA (75 nM) and non-target control siRNA, synchronized for 48 hours by serum starvation, followed by G
+1
+-release after addition of serum-containing medium. Distribution of cells into distinct cell cycle phases was analyzed by propidium iodide staining using flow cytometry techniques. Histogram plots are representative of 3 comparable experiments.
+Next, we utilized a phosphoproteomic approach to analyze the role and extend to which CDK1 or CDK2 interfere with the signaling network, which drives HACAT cells through the cell cycle. Interrogating the dynamics of 248 proteins and phosphoproteins, we first established 6 different expression clusters. Applying stringent criteria for periodic protein expression (
+www.cyclebase.org
+), we identified a set of 201 periodic molecules whose expression-levels are dynamically regulated (
+Fig. 3;
+cluster 2, 3, 5 and 6). This set was compared to published data and we determined a 42% overlap with previously identified consensus periodic motifs by Bar-Joseph et al., Pena-Diaz et al., and Grant et al.
+6-8
+Periodic proteins that cycle independently of CDK activity were grouped in cluster 2 and 5. Proteins and phosphoproteins with significant alterations after CDK deprivation were grouped in cluster 3 and 6. Only 47 of the 248 molcules were not periodically expressed, and no substantial difference in CDK competent versus CDK deficient cells could be established (
+Fig. 3
+, cluster 1 and 4).
+Open in a separate window
+Figure 3.
+Cell cycle wide dynamics of proteins and phosphorylated proteins in CDK1 and CDK2 depleted HACAT cells. Heat map analysis with k-means clustering of 248 phospho- and total proteins, expressed as log2-values, row-wise scaling. Each row corresponds to the same protein order. Expression levels of low intensities are colored in blue, high intensities are colored in yellow. The results are from one single representative experiment.
+On the gross level, we detected expression of most periodic proteins and their phosphorylated derivatives on schedule or marginally delayed, a finding that was not expected in light of the profound cell cycle arrest observed at G
+1
+/S after CDK2 and G
+2
+/M after CDK1 silencing. Together, these data corroborate previous evidence that the CDK system is the regulator and effector of an oscillating transcription factor network.
+9,10
+Our data extend these findings at the protein/phosphoprotein level.
+Having obtained this information, we next set out to interrogate the specific roles of CDK1 and CDK2 within distinct signaling modules.
+11
+Mitogenic signaling leading to cell cycle entry is mediated by cell surface receptors, including receptors for growth factors, cytokines, cell to matrix and homo- and heterotypic cell-to-cell contact. Phospho site specific analysis discloses early activation of the well-known components mitogen-activated protein kinase (MAPK) pathway and transcription factors (TF) including JUN, MYC and JAK/STATs in the G
+1
+phase of CDK competent cells. Central to mitogenic signaling is the MAPK module, set up by RAS/RAF/MEK/ERK. The maximum activity of extracellular signal-regulated protein kinase (ERK) is induced 5 min after growth factor ligation, followed by rapid downregulation of the signal in proliferating cells by a number of feedback mechanisms including dual-specificity phosphatase (DUSP) and others. Although we missed maximal ERK1/2 activity in the experimental setup used here, we detected ERK phosphorylation at Thr-202 irrespective of CDK activity and substantially increased phosphorylation at position Tyr-204 in cells deprived of CDK2 and, less pronounced of CDK1. Since both phosphorylation events are crucial for ERK activity, we interpret these findings as physiologic downregulation of ERK activity in CDK competent, but not in CDK deficient cells. These findings are interesting since sustained ERK activation communicates anti-proliferative signals, whereas transient ERK1/2 activation is associated with cell survival and proliferation.
+12
+Moreover, the data indicate first that CDK2 plays a non-anticipated and, presumably cyclin-E independent role very early in the response to serum and suggest CDK2 to contribute to a negative feedback loop for MAPK activity. Second, we detected delayed inactivation of proto-oncogene serine/threonine-protein kinase (Raf1) by phosphorylation at Ser-259 and mitogen-activated protein kinase kinase (MEK)2 phosphorylated at Thr-394 especially in CDK2 deprived cells which is associated with prolonged ERK activity. These findings are supported by the marked upregulation of tyrosine-protein phosphatase non-receptor type 11 (SHP-2) phosphorylated at Tyr-580 in CDK deprived cells, a molecule involved in sustained ERK signaling.
+13
+Together, the data suggest a relevant role of CDK2 in fine-tuning physiologic MAPK signaling, guarding the integrity and coherency of the regulatory network that leads to cell cycle entry prior to G
+1
+/S.
+The family of immediate early genes (IEG) comprises transcription factors MYC, JUN, FOS and others. These genes are rapidly activated following mitogenic stimulation of resting cells and are coined “gateways to the genomic response.” MYC is a proto-oncogene molecule which co-regulates and amplifies the expression of roughly 15% of all human genes, thus being involved in many if not all physiological processes. Activity of MYC is negatively regulated by phosphorylation at Ser-62 which primes for phosphorylation at Thr-58 by ERK, WNT and glycogen synthase kinase-3 (GSK3) β, leading to subsequent degradation by the proteasome.
+14
+p21 activated kinase (PAK) 2, a downstream effector of the small GTPases Cdc42 and Rac1, mediates phosphorylation at Ser-373 which impedes MYC binding to DNA and stimulate its degradation.
+15
+While expression of MYC Ser-62 was found unaltered in all experimental situations investigated here, we detected an almost complete shutdown of phosphorylation events at position Thr-358, Ser-373, and Thr-58 at the G
+1
+/S transition in CDK disrupted cells. These latter phosphorylation events indicate MYC stabilization and substantially enhanced transcriptional activity in CDK1/2 depleted cells (
+Fig. 3
+; cluster 3). Notably, MYC by itself is known to up-regulate PAK and Cdc42 expression and PAK contribute to sustained ERK signaling in CDK deprived cells by its ability to target Raf at Ser-338 and MEK1 at Ser-298.
+16
+c-JUN collaborates with c-FOS proto-oncogene to constitute the activator protein-1 (AP-1) early response transcription factor complex. Activated after phosphorylation at position Ser-63 and Ser-73 through JUN N-terminal kinase/stress-activated protein kinase (JNK/SAPK), AP-1 is critically implicated in cell proliferation, differentiation, apoptosis and many other processes, including embryogenesis and tissue repair.
+17
+A strong activation of c-JUN after G
+1
+release in CDK-competent cells was observed. In contrast, a strong reduction in AP-1 phosphorylation at Ser-73 was observed in CDK1 or CDK2 depleted cells. These results provide further evidence that CDK1/2 exert important functions outside their well-known and temporally restricted roles in the cell cycle control. In fact, especially CDK2 appears to potently inhibit c-JUN activity through JNK signaling. In line with these findings, an early activation of c-JUN targets proteins such as cyclin D, CDK4/6 mediated Rb hyper-phosphorylation was observed in CDK competent cells. Similar results and kinetics were observed for the c-JUN homologs JUN-B and JUN-D. Taken together, the data indicate hyper-phosphorylation and degradation of Rb and subsequent cell cycle entry in CDK1/2 competent and CDK1 knock-down cells, but not in cells deprived of CDK2. Accordingly, activating checkpoint kinase 2 (CHK2) phosphorylation at Thr-68 by ataxia telangiectasia mutated (ATM)
+18
+and autophosphorylation at Ser-516
+19
+was observed in CDK2 depleted cells. CHK2 is a protein kinase that, upon activation, inhibits CDC25C phosphatase, thus preventing entry into mitosis and cell cycle arrest in G
+1
+.
+In response to growth factor and cytokine mediated activation of receptors, the janus kinase/signal transducer and activator of transcription (JAK/STAT) pathway
+20
+integrates information from ERK, protein kinase-B/mammalian target of rapamycin (AKT/mTOR), nuclear factor κB (NFkB) and many other signaling pathways to induce transcription factors critically implicated in cell growth, survival and differentiation. Upon cytokine receptor activation, JAK proteins become autophosphorylated and in turn phosphorylate associated receptors to provide binding sites for STATs, SHC, insulin receptor substrates and focal adhesion kinase (FAK). Phosphorylation of STAT1 at Tyr-701, induces STAT1-dimerization and nuclear translocation. STAT3, when phosphorylated at position Tyr-705, possesses oncogenic potential and anti-apoptotic activities. Phosphorylation of STAT5a at Tyr-694 upon cytokine and interleukin binding to respective cell surface receptors is essential for transcription factor activation and associated with angiogenesis, cell motility and proliferation. Likewise, STAT6, after phosphorylation at Tyr-641, was identified to exert anti-apoptotic signals via induction of b-cell cll/lymphoma (BCL)2/xL expression.
+20
+In CDK competent cells, all these phosphorylation events were detected immediately after G
+1
+release spanning the whole cell cycle except for a short drop during S phase. In contrast, CDK2 silencing resulted in an almost complete shutdown of JAK/STAT signaling ranging from 30 min to 30 hours after serum stimulation. Interestingly, only moderate inhibition of the JAK/STAT pathway was detected after G
+1
+/S in CDK1 deprived cells. Again, these results suggest that CDKs, especially CDK2, confer profound signal-modulating activity to a number of mitogenic, growth and anti-apoptotic signals in addition to their classical roles as master regulators of the cell cycle.
+Apoptosis is the result of programmed cell death activated by tumor necrosis factor (TNF) family members including FAS, DNA damage caused by oxidative stress, insufficient nutritional factors, unbalanced mitogenic or oncogenic signaling, unfolded protein response and other endoplasmic reticulum stress conditions. We here analyzed 3 major intertwined pathways: AKT/mTOR, BCL and NFkB, that cooperatively and critically counteract mitogenic, yet pro-apoptotic signals.
+AKT promotes survival information by inhibitory phosphorylation of a large number of substrates, including BCL2-associated agonist of cell death (BAD), Raf, caspases and GSK3α- and β. As a key modulator of the mTOR signaling pathway, AKT1 transducers anti-apoptotic effects of various growth factors such as platelet-derived growth factor (PDGF), epidermal growth factor (EGF), insulin-like growth factor I (IGF-I).
+21
+AKT prevents GSK3β- mediated phosphorylation and consecutive degradation of cyclin D1
+22
+and downregulate endogenous CDK inhibitors including p27Kip1 and p21Waf1/Cip1.
+23
+To enable cell growth, AKT directly phosphorylates mTOR and inactivates the TSC2 protein tuberin, an inhibitor of mTOR. In a process involving PI3 kinase, AKT is activated via Thr-308 and Ser-473/474 phosphorylation by 3-phosphoinositide-dependent protein kinase (PDK)1 and by mTOR complex (TORC)2.
+24
+Here, a reduced phosphorylation at AKT1 at Ser-473 in CDK1 and CDK2 deprived cells, whereas a reduced phosphorylation of AKT2 at Ser-474 was observed predominantly in CDK2 knockdown cells at S and G
+2
+phases, indicating CDK2 depleted cells prone to apoptosis at these cell cycle phases. In line with these findings, we observed markedly reduced AKT-mediated inactivation of GSK3α after phosphorylation at Ser-21, GSK3β after phosphorylation at Ser-9 and reduced inhibition of PTEN (phosphatase and tensin homolog deleted on chromosome 10), a major negative regulator of the PI3K/AKT pathway, by phosphorylation at PTEN Ser-380, Thr-382 and Thr-383 in CDK depleted cells.
+25
+In addition to mTOR signaling, AKT positively regulates the activity of cyclic AMP-response element binding protein CREB1 which is necessary for the transcription of the pro-survival gene BCL2. BCL2 is phosphorylated by ASK1/MKK7/JNK at Thr-56, Ser-70, Thr-74, and Ser-87 which is marker for mitotic events and are required to execute anti-apoptotic activity. The pro-apoptotic family member BAD promotes cell death by displacing BCL2-associated X protein (BAX) from binding to BCL2 or BCL-xL.
+26
+Heterodimerization of BAD with BCL2 and thus pro-apoptotic activity is prevented after Ser-112 and Ser-136 phosphorylation of BAD by survival information such as AKT signaling,
+27
+interleukin 3, p90RSK (ribosomal protein S6 kinase) and many others. These post-translational modifications induce BAD binding to 14-3-3 proteins, thus depleting active BAD stockpiles. Furthermore, phosphorylation of BAD at Ser-155 plays a critical role in blocking the dimerization-site of the BAD and BCL-xL.
+28
+In CDK competent cells, we observed BCL2 active throughout the cell cycle after Ser-56 and Ser-70 phosphorylation, thus contrasting the almost complete shutdown of anti-apoptotic activity in CDK1 and CDK2 deprived cells particularly in G
+1
+/S. Along with these observations, enhanced pro-apoptotic activity of BAD after dephosphorylation at Ser-112, Ser-136, Ser-155 was found within the very same time frame, indicating that pro-apoptotic signals at G
+1
+/S are not balanced in CDK knockdown cells.
+Another key component of CDK mediated growth arrest is the inhibition of NFkB signaling and its downstream target proteins, responsible for G
+1
+/S transition and commitment to DNA synthesis (
+Fig. 3
+, cluster 3). The NFκB family of TF p105/50 and p100/52 are proteolytically processed by the proteasome after phosphorylation by NFκB-inducing kinase (NIK) and an inhibitor of kappa kinase (IKKα) to produce functional p50 and p52 fragments.
+29-31
+Upon phosphorylation, the third member of the NFkB family, NFkB p65 (RelA)
+32
+forms dimers with NFkBp50 and p52 and activate transcription. We detected activating phosphorylation events of NFκB p105/50 at position Ser-893 and Ser-907, NFκB p100/52 at position Ser-865 and Ser-869 and NFκB p65 at Thr-254 immediately after G
+1
+release in CDK competent but very late in CDK deficient cells, again leaving mitogenic stress unbalanced at highly vulnerable phases during replication.
+We used the small molecule inhibitor NU6140 specific for CDK2 (and, to a lesser extent, to CDK1, CDK4, 5 and 7) and exploited the phosphoproteomic approach to investigate the effects on signaling events. HACAT cells were synchronized in G
+1
+by serum starvation for 48 hours and treated immediately after serum release with NU6140 or DMSO control. We found NU6140 to induce G
+1
+growth arrest in HACAT by flow cytometry (Fig. S1A). Next, we identified a set of proteins and phosphoproteins with significant alterations after NU6140 application grouped in clusters: 1, 2, 3 (Fig. S1B). We detected dramatic changes in the dynamic and temporal appearances of modules with mitogenic or anti-apoptotic characters, including activation of JAK/STAT signaling and downregulation of MYC (cluster 1). Moreover, signaling modules comprising AKT2, NFkB, MEK1 exhibited a profound delay (cluster 2, 3) in NU6140 treated cells, leaving cellular stress unbalanced through the cell cycle progression.Summary
+Taken together, the data reported here contribute a number of important information to the different roles of CDK1 and CDK2 within the complex signaling network of p53 mutated HACAT cells.
+Modern anti-cancer strategies seek to exploit the aberrant signaling machinery in p53 defective cells for treatment optimization.
+33-36
+Cyclotherapy is a therapeutic approach that halt proliferation in healthy tissues using p53 activators, leaving p53-deficient tumor cells in the proliferative state and thus susceptible to conventional chemotherapy. Addition of highly specific CDK2 inhibitors may further sensitize p53 defective cancer cells for apoptosis by inhibiting an anti-apoptotic signaling during the vulnerable phases of DNA replication.
+The development of highly specific CDK2 inhibitors might help to separate therapeutic effects of CDK2 within innovate treatment modalities from the toxic effects of CDK1 inhibition.Materials and methods
+Cells and cell culture
+The p53 mutated human keratinocyte cell line HACAT was purchased from CLS and maintained in DMEM (PAA Laboratories), supplemented with 10% heat-inactivated FBS (PAN-biotech).
+Reagents and Abs
+Abs used were monoclonal mouse anti-Cdc2 p34 (CDK1) (Santa Cruz,
+www.scbt.com/datasheet-8395-cdc2-p34-b-6-antibody.html
+), monoclonal mouse anti-CDK2 (Merck Millipore,
+www.merckmillipore.com/DE/de/product/Anti-Cdk2-Antibody%2C-clone-AN4.3,MM_NF-05-596
+) and monoclonal mouse anti-tubulin Ab-2 (Thermo Scientific,
+https://www.thermofisher.com/order/catalog/product/MS-581-P1
+). HRP-conjugated secondary Ab used was polyclonal rabbit anti-mouse immunoglobulin/HRP, (Dako/Denmark, catalog N: P0260). NU 6140 is a CDK2 inhibitor 4-(6-Cyclohexylmethoxy-9H-purin-2-ylamino)-N,N-diethylbenzamide (Merck catalog N: 238804).
+Transient transfection of siRNA
+HACAT cells were transiently transfected with on target smart pool CDK1 siRNA (Dharmacon,
+http://dharmacon.gelifesciences.com/search/?term=L-003224-00-0005
+) or CDK2 siRNA (Dharmacon,
+http://dharmacon.gelifesciences.com/search/?term=L-003236-00-0005
+) using the TransIT-siQUEST transfection reagent (VWR;
+https://de.vwr.com/store/catalog/product.jsp?catalog_number=MIRUMIR2110
+) according to the manufacturer's instructions. Non-target smart pool siRNA (Dharmacon) was used as a control. Briefly, 2.10
+5
+HACAT cell were transfected with 250 µl Opti-MEM medium (Invitrogen), 3,5 µl TransIT-siQUEST transfection reagent, and 75 nM CDK1 siRNA, CDK2 siRNA or Non-target siRNA. Transfected cells were synchronized in serum free medium for 48 hours and released into G
+1
+by serum supplemented medium. Transfection efficiency was assessed by Western Blot.
+Cell cycle analysis
+The effect of CDK1 and CDK2 knockdown on cell cycle progression was determined by propidium iodide staining. In brief, 2 × 10
+5
+HACAT cells were synchronized in G
+1
+by serum starvation for 48 hours. DNA content for each time point after G
+1
+release in serum supplemented medium was determined by FACS analysis. Knockdown experiments were performed using CDK1 siRNA, CDK2 siRNA and Non-target siRNA (75 nM) according to the manufacturer's instructions. Cells were washed in PBS, fixed in 70% ethanol overnight, resuspended in 500 µl of PI/RNASE staining solution (BD Biosciences;
+http://www.bdbiosciences.com/eu/applications/research/apoptosis/buffers-and-ancillary-products/pirnase-staining-buffer/p/550825
+) and incubated for 15 min at room temperature in the dark. Samples were analyzed by FACSCalibur flow cytometry (Becton Dickinson); 10 000 events were analyzed with CellQuest software (BD Biosciences).
+Western blot analysis
+Whole cell lysates were collected in RIPA buffer (Sigma-Aldrich), containing Protease- and Phosphatase Inhibitor Cocktail (Roche). Samples were denatured at 95°C for 5 min. Equal amounts of total protein were loaded in each well for electrophoresis in NuPAGE
+R
+SDS-PAGE Gel system and transferred to Nitrocellulose membranes (Whatman). Membranes were incubated with primary antibody followed by incubation with HRP-linked secondary antibodies. Chemiluminiscence was detected using the Amersham ECL Plus™ Western Blotting Detection Reagent (GE Healthcare). Densitometric analyses were performed using Quantity One software (Bio-Rad).
+Phosphorylation antibody array analysis
+Phosphorylation specific antibody microarrays (Full Moon Biosystems/USA; catalog N: PCS248;
+www.fullmoonbio.com/product/cancer-signaling-phospho-antibody-array
+) were used to monitor up- and downregulated proteins in HACAT cells. Two-hundred-forty-eight (248) antibodies related to proteins involved in cell cycle, signal transduction and cancer were investigated. Microarrays were hybridized with biotinylated proteins from HACAT cell lysates transiently transfected with CDK1 siRNA, CDK2 siRNA, Non-target siRNA, or NU6140 treated cells and control (DMSO) and harvested at the indicated time points after release from starvation.
+Following protein conjugation to an antibody, Streptavidin- Cy3™ (Sigma Aldrich) was added and slides were processed following manufacturer's instructions and scanned using an Axon GenePix 4000B microarray scanner (Molecular Devices). Averaged and normalized intensity data were Log
+2
+transformed and filtered to identify proteins that show periodicity and CDK-dependent changes during cell cycle progression (Fig. S2). The analysis was performed by using R software (
+www.r-project.org
+) and R packages developed by the BioConductor project (
+www.bioconductor.org
+). Parts of the control data set have already been used in Nekova, Cell Cycle 2014.
+31
+Statistical analysis
+All data presented are derived from at least 3 independent determinations unless otherwise noted. Analysis was done using Graph Pad Prism 5.0 software.Supplementary Material
+1241915_Supplementary_files.zip:
+Click here to view.
+(301K, zip)

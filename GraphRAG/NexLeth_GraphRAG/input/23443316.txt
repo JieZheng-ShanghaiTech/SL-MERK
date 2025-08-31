@@ -1,0 +1,262 @@
+Abstract
+mTOR – the mammalian target of rapamycin – has been implicated in survival signals for many human cancers. Rapamycin and TGF-β synergistically induce G1 cell cycle arrest in several cell lines with intact TGF-β signaling pathway, which protects cells from the apoptotic effects rapamycin during S-phase of the cell cycle. Thus, rapamycin is cytostatic in the presence of serum/TGF-β and cytotoxic in the absence of serum. However, if TGF-β signaling is defective, rapamycin induced apoptosis in both the presence and absence of serum/TGF-β in colon and breast cancer cell lines. Since genetic dysregulation of TGF-β signaling is commonly observed in pancreatic cancers – with defects in the Smad4 gene being most prevalent, we hypothesized that pancreatic cancers would display a synthetic lethality to rapamycin in the presence of serum/TGF-β. We report here that Smad4-deficient pancreatic cancer cells are killed by rapamycin in the absence of serum; however, in the presence of serum we did not observe the predicted synthetic lethality with rapamycin. Rapamycin also induced elevated phosphorylation of the survival kinase Akt at Ser473. Suppression of rapamycin-induced Akt phosphorylation restored rapamycin sensitivity in Smad4 null, but not Smad4 wild type pancreatic cancer cells. This study demonstrates that the synthetic lethality to rapamycin in pancreatic cancers with defective TGF-β signaling is masked by rapamycin-induced increases in Akt phosphorylation. The implication is that a combination of approaches that suppress both Akt phosphorylation and mTOR could be effective in targeting pancreatic cancers with defective TGF-β signaling.Introduction
+Tumorigenesis is frequently promoted by genetic defects that suppress apoptotic signals to ensure cell survival (
+1
+). mTOR – the mammalian target of rapamycin – is a conserved protein kinase that functions as the catalytic subunit of two complexes, mTOR complex 1 (mTORC1) and mTOR complex 2 (mTORC2). Both mTOR complexes play key roles in cellular homeostasis – mTORC1 responds to nutrients, growth factors, and energy level, while mTORC2 responds to insulin and growth factors (
+2
+,
+3
+). Both mTOR complexes phosphorylate various substrates that regulate translation and transcription to promote cell growth, proliferation, and survival – most prominently S6 kinase and eukaryotic initiation factor 4E (eIF4E)-binding protein 1 (4E-BP1) by mTORC1 and Akt by mTORC2 (
+2
+,
+4
+). Considering that mTOR plays such key roles in cellular regulation, it is not surprising that cancer cells often manipulate this pathway to promote tumorigenesis (
+2
+,
+5
+). In fact, it has been suggested that mTOR is the most commonly dysregulated protein in human cancer (
+6
+,
+7
+). mTOR survival signals are frequently observed in different cancers where growth factor signaling is dysrregulated through loss of PTEN leading to constitutively active phosphatidylinositol-3-kinase (PI3K) (
+5
+,
+8
+) – leading to constitutive activation of Akt, a major anti-apoptotic regulatory protein kinase that contributes to the activation of mTOR (
+9
+).
+Anti-cancer therapeutics that target mTOR, such as rapamycin and its derivatives known as rapalogs have been employed for treatment of cancers with elevated mTOR signaling. However, rapamycin and rapalogs have been largely disappointing in clinical trials (
+8
+,
+10
+,
+11
+). We have reported previously that rapamycin can lead to elevated TGF-β signaling in human cancer cells and that the elevated TGF-β signals cause a G1 cell cycle arrest (
+12
+). However, if TGF-β signals were suppressed or defective, rapamycin did not induce G1 arrest and the cells progressed into S-phase where rapamycin induced apoptosis (
+12
+). A key factor in the induction of apoptosis was a requirement for high (micro-molar) doses of rapamycin that caused the complete dissociation of mTOR and Raptor leading to suppression of the phosphorylation of the mTORC1 substrate 4E-BP1 (
+13
+). Whereas low (nano-molar) doses suppress S6 kinase phosphorylation and retard G1 cell cycle progression, high doses were required for complete G1 arrest in the presence of TGF-β and the apoptosis observed in the absence of TGF-β signaling (
+12
+,
+13
+). These studies suggest that cancer cells with compromised TGF-β signaling would be sensitive to the apoptotic effects of high dose rapamycin because of the inability to arrest in G1.
+Genetic defects in the TGF-β signaling pathway, such as loss of function for the Smad4 gene, are frequently observed in human cancers - especially pancreatic. Loss of TGF-β signaling helps promote tumorigenesis by preventing G1 cell cycle arrest (
+14
+,
+15
+). The previous finding that high dose rapamycin can potently induce cell death in the absence of TGF-β signaling led to the premise that defective TGF-β signaling is an Achilles heel which makes cancer cells vulnerable to apoptosis upon mTOR inhibition (
+12
+,
+16
+). The simultaneous inhibition of two interacting signaling pathways that leads to cell death has been described as a synthetic lethal phenotype (
+17
+). Most human pancreatic cancers have defects in the TGF-β signaling pathway (
+14
+), which in principle, could be exploited to induce a synthetic lethality with compounds that target mTOR.
+We previously reported that TGF-β signaling prevents apoptosis in breast and colon cancer cells upon mTOR inhibition by inducing cell cycle arrest (
+12
+). However, in the absence of TGF-β signaling these cancer cells cannot arrest and therefore undergo apoptosis upon treatment with rapamycin – presumably due to the role that mTORC1 has as a nutrient sensor (
+18
+), and consequently, a perceived lack of signals to mTOR indicating sufficient nutrients to double the mass of the cell and divide. To determine whether this observation can be applied in cancer cell lines with specific mutations in TGF-β signaling, we investigated whether mTOR inhibition is synthetic lethal in pancreatic cancer cells where defective TGF-β signaling is common (
+14
+). We report here that high dose rapamycin treatment of Smad4-null pancreatic cancer cells results in apoptosis in the absence of serum, and as expected, was refractory to TGF-β rescue. Surprisingly, Smad4-null cells did not undergo apoptosis in the presence of serum. The lack of rapamycin-induced apoptosis in the presence of serum was due to the up-regulation of Akt phosphorylation at Ser473. Upon suppression of Akt phosphorylation, the synthetic lethal effect of rapamycin in Smad4-null cells was restored. These data provide evidence that it is possible to exploit TGF-β defects to kill pancreatic cancer cells by high dose rapamycin, but a dual therapy targeting both mTORC1 and Akt is needed to observe the synthetic lethality created by defective TGF-β signaling.Materials and methods
+Cells and cell culture conditions
+The BxPC3 and Panc1 cells used in this study were obtained from the American Type Tissue Culture Collection and were maintained in Roswell Park Memorial Institute Medium (RPMI) and Dulbecco’s Modified Eagle Medium (DMEM), respectively, supplemented with 10% fetal bovine serum (Hyclone). For transfection of siRNA, cells were plated at a density of 10
+5
+cells/60mm plate 24hr prior to transfection. All transfections were performed using lipofectamine 2000 (Gibco) according to manufacturer’s instructions.
+Materials
+Rapamycin was obtained from LC Labs. The PKCδ inhibitor rottlerin was obtained from Millipore, the TGF-β receptor inhibitor SB431542 was from Sigma; and the PI3K inhibitor LY294002 was obtained from Cell Signaling. TGF-β1 and the TGF-β1 blocking antibody (MAB2401) were from R&D systems. Cleaved PARP, Phospho-Akt (S473), total Akt, Smad4 and p27 primary antibodies were obtained from Cell Signaling; glyceraldehyde 3-phosphate dehydrogenase (GAPDH) antibody was obtained from Santa Cruz Biotechnology. Smad4 and non-targeted negative control siRNA duplexes were obtained from Santa Cruz Biotechnology.
+Cell viability and apoptosis
+Cell viability was determined by percent of cells attached as compared to control. Apoptosis was evaluated by examination of cleavage of the caspase 3 substrate poly-ADP ribose polymerase (PARP) as described previously (
+19
+).
+Western Blot Analysis
+Proteins were extracted from cultured cells in modified RIPA buffer (Upstate Biotechnology). Equal amounts of protein were subjected to SDS-PAGE separating gels. Electrophoresed proteins were then transferred to nitrocellulose and subjected to Western blot analysis as described previously (
+20
+).Results
+Differential effects of mTOR inhibition on Pancreatic cancer cells
+High dose rapamycin treatment induces cell cycle arrest in cancer cells with intact TGF-β signaling. However, if cancer cells have defects in the TGF-β signaling pathway that inhibit cell cycle arrest, high dose rapamycin induces apoptosis (
+12
+). Because defects in TGF-β signaling have been reported for most pancreatic cancers, we examined the conditions necessary for rapamycin to induce apoptosis in these cells. We confirmed the Smad4 status of BxPC3 and Panc1 cells by Western blot analysis (
+Fig. 1A
+) and PCR (data not shown). As reported previously (
+21
+), Smad4 protein is expressed in Panc1 but not in BxPC3 cells. We then investigated the response of BxPC3 and Panc1 cell lines to increasing concentrations of rapamycin treatment in the absence and the presence of serum or TGF-β. Both BxPC3 and Panc1 cells responded to high dose rapamycin (20 μM) in the absence of serum with an increase in the level of cleaved PARP (
+Fig. 1B
+top panel), a target of caspase 3 (
+22
+,
+23
+). This increase in PARP cleavage correlated with a loss in cell viability in both cell lines (
+Fig. 1B
+bottom panel). Consistent with our previous studies (
+13
+), doses of rapamycin less than 20 μM had little effect on cell viability in both cell lines as shown by low levels of cleaved PARP and the percentage of non-viable cells (
+Fig. 1B
+). The data in
+Fig. 1B
+indicate that Smad4 positive and negative pancreatic cancer cells respond similarly to treatment with high dose rapamycin in the absence of serum. The Smad4 protein is required for expression of growth inhibitory proteins, p21 and p27, that regulate cell cycle progression via activation of the canonical TGF-β/Smad signaling pathway (
+24
+). We therefore examined the effect of TFG-β on the ability of high dose rapamycin to induce cell death in both Smad4 positive and negative pancreatic cancer cells. Treatment of Panc1 cells with TGF-β and high dose rapamycin (20 μM) resulted in a significant reduction in the percentage of non-viable cells (from 50% to 20%) and was accompanied by a decrease in the level of cleaved PARP (
+Figs. 1B
+and
+​
+and1C).
+1C
+). In contrast, TGF-β had no affect the cell viability or level of cleaved PARP induced by rapamycin in BxPC3 cells when compared to rapamycin alone, (
+Figs. 1B
+and
+​
+and1C).
+1C
+). These data indicate that TGF-β can rescue cancer cells from rapamycin-induced cell death in pancreatic cancer cells with intact TGF-β signaling. However, in pancreatic cancer cells with defective TGF-β signaling rapamycin treatment has a synthetically lethal effect and kills in the presence of TGF-β.
+Open in a separate window
+Figure 1.
+Differential effects of mTOR inhibition on Pancreatic cancer cells. A, Panc-1 and BxPC3 cells were plated at a density of 10
+5
+cells/60 mm plate. 24 hr later the cells were provided with fresh media containing 10% serum. Cells were then subjected to Western blot analysis 4 hr later using either Smad4 or GAPDH antibodies. B, Panc-1 and BxPC3 cells were plated as in A. 24 hr later the cells were provided with either fresh media containing 0% serum, fresh media containing 0% serum and the indicated concentration of rapamycin (Rapa). The cells were then subjected to Western blot analysis for cleaved PARP and GAPDH or cell viability assay 4 or 18 hr later, respectively. C, Panc-1 and BxPC3 cells were plated as above and then shifted to media containing fresh media containing 0% serum and the indicated concentration of rapamycin. TGF-β (10 ng/mL) was included where indicated. 4 and 18 hr later, PARP cleavage and cell viability was determined as in B. D, Panc-1 and BxPC3 cells were plated as above and then shifted to media containing fresh media containing 10% serum and the indicated concentrations of rapamycin. Cell viability and PARP cleavage were then determined as in B and C. Error bars for the graph in (B-D) represent the standard deviation from three independent experiments. Western blots are representative of at least three independent experiments.
+To more accurately represent the effect of rapamycin on cancer cells in vivo, serum was used to mimic the tumor environment in vivo. To further confirm that mTOR inhibition is synthetically lethal in cancer cells with defective in TGF-β signaling, we examined the ability of high dose rapamycin to induce apoptosis in both Panc1 and BxPC3 cells in the presence of serum. We anticipated that serum, which contains TGF-β, would similarly rescue Panc1 cells from rapamycin-induced cell death, but not the BxPC3 cells due to impaired TGF-β signaling. Surprisingly, we observed that in the presence of serum, rapamycin-induced apoptosis was suppressed in both Panc1 and BxPC3 cells (
+Fig. 1D
+). These data indicate that while TGF-β was unable to suppress apoptosis in the BxPC3 cells, in the presence of serum, BxPC3 cells were not killed by high dose rapamycin treatment. Thus, there is a factor(s) in serum that overcomes the synthetic lethal phenotype in BxPC3 cells.
+Rapamycin induces Akt phosphorylation at Ser473 in the presence of serum.
+Inhibition of mTORC1 by rapamycin reportedly activates a negative feed-back loop leading to the phosphorylation of Akt at S473, the target site of mTORC2 (
+9
+,
+25
+–
+27
+). We therefore examined the phosphorylation status of Akt at S473 in both cell lines. Western blot analysis revealed that rapamycin induced the phosphorylation of Akt in both the Panc1 and BxPC3 cells; however the increased phosphorylation of Akt was only observed in the presence of serum (
+Fig. 2
+). The increased Akt phosphorylation was only observed at 20 μM in the Panc1 cells, while lower doses increased phosphorylation in the BxPC3 cells (
+Fig. 2
+). Given that Akt phosphorylation has been correlated with survival (
+27
+), the data in
+Fig. 2
+suggest that serum is required the induction of Akt phosphorylation upon rapamycin treatment in both Panc1 and BxPC3 cells, which may explain the suppression of rapamycin-induced apoptosis in the BxPC3 cells.
+Open in a separate window
+Figure 2.
+Rapamycin induces Akt phosphorylation at Ser473 in the presence of serum. Panc-1 and BxPC3 cells were plated at a density of 10
+5
+cells/60 mm plate. 24 hr later the cells were provided with either fresh media containing 0% serum without TGF-β (Top panel); fresh media containing 0% serum and 10 ng/mL TGF-β (middle panel); and fresh media containing 10% serum without TGF-β. Rapmycin was added at the indicated concentration of rapamycin (Rapa). Four hr later, the cells were subjected to Western blot analysis for Akt or Phospho-Akt (Ser473). The data presented are representative of at least three independent experiments.
+Suppression of Akt signaling restores rapamycin-based synthetic lethality in Smad4 negative BxPC3 cells in the presence of serum
+Phosphorylated Akt promotes cell survival by activating anti-apoptotic signals (
+28
+). Given that rapamycin has been reported to upregulate Akt phosphorylation at the mTORC2 site Ser473 (
+29
+,
+30
+), suppressing Akt phosphorylation could potentially restore synthetic lethality in BxPC3 cells in the presence of serum. We therefore examined the effect of suppressing Akt phosphorylation on the ability of high dose rapamycin to be synthetically lethal in BxPC3 cells in the presence of serum. We treated both BxPC3 and Panc1 cells with a combination of rapamycin and the PI3K pathway inhibitor LY294002 in 10% serum (
+31
+). LY294002 did not increase the efficacy of rapamycin to induce PARP cleavage or cell death in Panc1 cells,
+Fig. 3
+. However, dual treatment of rapamycin and LY294002 induced PARP cleavage and cell death in BxPC3 cells in the presence of serum (
+Fig. 3
+). These data indicate that suppression of Akt phosphorylation and mTORC1 inhibition restores the synthetic lethal phenotype in pancreatic cancer cells with defective TGF-β signaling in the presence of serum.
+Open in a separate window
+Figure 3.
+Suppression of Akt signaling is required for rapamycin-mediated synthetic lethality in Smad4 negative BxPC3 cells in the presence of serum. Panc-1 and BxPC3 cells were plated as in
+Figure 1
+and then shifted to media containing 10% serum and LY294002 (50 μM) for 1 hr. Cells were then treated with the indicated concentration of rapamycin (Rapa). 4 and 18 hr later, PARP cleavage and cell viability were determined as in
+Fig. 1
+. The levels of phosphorylated Akt (P-Akt-S473) and GAPDH were determined by Western blot. Error bars for the graphs represent the standard deviation from at least three independent experiments. Western blots are representative of at least three independent experiments.
+Dual mTORC1/2 inhibition induces apoptosis in TGF-β defective pancreatic cancer cells in the presence of serum
+The data in
+Fig. 3
+indicate that Akt suppression is critical for rapamycin-induced apoptosis in pancreatic cancers with defective TGF-β signaling. mTORC1 inhibition by rapamycin promotes cell survival via activation of the PI3K/mTORC2 pathway leading to phosphorylation of Akt at Ser473 by mTORC2 in the presence of serum. mTORC2 is relatively resistant to rapamycin treatment (
+20
+). Inhibiting mTORC2-mediated phosphorylation of Akt was necessary for rapamycin to induce apoptosis in BxPC3 cells in the presence of serum (
+Fig. 3
+). To confirm that inhibition of mTORC1 and mTORC2 kinase activity is sufficient to observe cell death in pancreatic cancer cells with defect TGF-β signaling in the presence of serum, we employed Torin1, a potent and selective ATP-competitive small molecule, which inhibits both mTORC1 and mTORC2 kinase activity (
+32
+). We expect that Torin1 should mimic the effects of dual treatment with rapamycin and LY294002. Torin1 inhibited the phosphorylation of Akt in both Panc1 and BxPC3 cells, and led to cell death in BxPC3 cells but not Panc1 cells, as measured by percentage of non-viable cells and levels of PARP cleavage (
+Fig. 4
+). These data confirm the previous observation that dual inhibition of mTORC1 and Akt phosphorylation is necessary to induce apoptosis is TGF-β defective pancreatic cancer cells (
+Fig. 3
+). These data also demonstrate that inhibiting the kinase activity of both mTOR complexes is synthetically lethal in pancreatic cancer cells with defective TGF-β signaling.
+Open in a separate window
+Figure 4.
+Dual mTORC1/2 inhibition induces apoptosis in TGF-β defective pancreatic cancer cells in the presence of serum. Panc-1 and BxPC3 cells were plated as in
+Figure 1
+and then shifted to media containing 10% serum, 250 nM Torin1. 4 and 18 hr later PARP cleavage and cell viability were determined as in
+Fig. 1
+. The levels of phosphorylated Akt (P-Akt-S473) and GAPDH were determined by Western blot. Error bars for the graphs represent the standard deviation from at least two independent experiments. Western blots are representative of at least two independent experiments.
+mTORC1/2 Inhibition is Synthetically Lethal in Panc1 cells with defective TGF-β signaling
+Dual inhibition of the mTOR and PI3K signaling pathways or catalytic inhibition of mTORC1/2 are not sufficient to induce cell death in Panc1 cells in the presence of serum, (
+Fig. 2
+and
+​
+and3).
+3
+). Panc1 cells have been reported to have a fully active TGF-β/Smad4 signaling cascade, which is thought to be part of the reason rapamycin is a cytostatic instead of cytotoxic drug in this cell line (
+12
+,
+21
+). Since the absence of Smad4 makes BxPC3 cells vulnerable to death by mTOR and Akt inhibition under 10% serum, we examined whether it is possible to create a similar vulnerability in Panc1 cells by disrupting the TGF-β signaling pathway via knockdown of Smad4 expression. As shown in
+Fig. 5A
+, Panc1 cells treated with short-interfering RNA (siRNA) for Smad4 underwent apoptosis in response to LY294002 and high dose rapamycin treatment as measured by increased levels of cleaved PARP. This data suggests that inhibition of the TGF-β pathway converts rapamycin from a cytostatic to a cytotoxic drug in the presence of serum, i.e. creates a synthetic lethal interaction.
+Open in a separate window
+Figure 5.
+Knockdown of eIF4E is sufficient to induce apoptosis in Smad4-null pancreatic cancer cells in the presence of serum. A, Panc1 cells were plated as in
+Fig. 1
+and then shifted to media containing 10% serum for 24 hours. Cells were then transfected with either control, Smad4, eIF4E, or dual Smad4-eIF4E siRNA. Forty-eight hours later, the cells were harvested and analyzed by Western blot analysis for levels of cleaved PARP, Smad4, and eIF4E. B, BxPC3 cells were plated as above then transfected with either control or eIF4E siRNA. Cells were harvested 48 hours later and analyzed by Western blot analysis for levels of cleaved PARP and eIF4E. Western blot analyses are representative of at least 2 independent experiments.
+To further confirm that synthetic lethality can be created in Panc1 cells by disrupting TGF-β signaling, we examined the effect of SB431542, a TGF-β receptor inhibitor; and a neutralizing anti-TGF-β antibody, previously shown to block the effects of TGF-β (
+12
+,
+33
+,
+34
+). Expression of p27 was monitored by Western blot analysis to verify the inhibition of the TGF-β pathway. Pretreating Panc1 cells with the neutralizing anti-TGF-β antibody and SB431542 resulted in decreased expression of p27 as compared to controls (
+Fig. 5B
+and
+​
+and5C)
+5C
+) indicating that TGF-β signaling was impaired. Dual treatment with high dose rapamycin and LY294002 increased levels of cleaved PARP in Panc1 cells pretreated with both SB431542 and the anti-TGF-β antibody in a similar manner (
+Fig. 4B
+and
+​
+and4C).
+4C
+). These data indicates that inhibition of TGF-β signaling sensitizes Panc1 cells to rapamycin-induced apoptosis in the presence of serum.
+As an alternate method to inhibit TGF-β signaling in Panc1 cells, we examined the effect of suppressing the activity of PKCδ, which has been reported to regulate the activation of TGF-β signaling through regulation of Smad3 expression (
+35
+). Rottlerin has been shown to inhibit the activity of PKCδ
+in vivo
+(
+36
+). Pretreatment with rottlerin more effectively inhibited the expression p27 in Panc1 cells as compared to the both SB 431542 and the anti-TGF-β antibody (
+Fig. 5C
+right panel). High dose rapamycin treatment increased the levels of PARP cleavage in Panc1 cells pretreated with rottlerin while LY294002 had no additional effect on rapamycin-induced PARP cleavage. These data suggests that rottlerin is a more potent inhibitor of TGF-β signaling, which allows mTOR inhibition to induce apoptosis in the presence or absence of compensatory Akt survival signals.
+Treatment with LY294002 inhibited the negative feedback loop activation, which led to the mTORC2 mediated phosphorylation of Akt-S473 inhibiting rapamycin-induced apoptosis in the presence of serum. We have shown that Torin1 inhibits the phosphorylation of Akt but does not affect cell viability in Panc1 cells (
+Fig. 3
+) – as a result of intact TGF-β signaling. We have also shown that inhibiting TGF-β signaling restores the ability of high dose rapamycin and PI3K inhibition to induce cell death in Panc1 cells. We therefore reexamined the ability of Torin1, which inhibits both mTORC1 and mTORC2 kinase activity, to induce PARP cleavage in Panc1 cells post inhibition of TGF-β signaling. Torin1 inhibited the phosphorylation of Akt and increased the level of cleaved PARP cleavage in Panc1 cells following pretreatment with the anti-TGF-β antibody, SB431542, or rottlerin,
+Fig. 5D
+. These data indicate that inhibition of both mTORC1 and mTORC2 kinase activity is essential to obtain synthetic lethality in TGF-β defective pancreatic cancer cells. Therefore, employing the use of an mTOR catalytic inhibitor prevents Akt activation via the negative feedback loop observed upon sole inhibition of mTORC1. Collectively these data indicate that synthetic lethality can be created in pancreatic cancer cells with intact TGF-β signaling by employing strategies that suppress TGF-β signaling and inhibit both mTOR complexes.Discussion
+In this report, we have investigated whether pancreatic cells with defective TGF-β signaling display a synthetic lethal phenotype for rapamycin treatment. We have found that in the presence of TGF-β, BxPC3 pancreatic cancer cells with defective in TGF-β signaling undergo apoptosis in the presence of high dose rapamycin; whereas pancreatic cancer cells with intact TGF-β signaling are protected form the apoptotic effect of rapamycin. However, in the presence of serum, which contains TGF-β and other growth factors, the Smad4-null BxPC3 cells were not killed by the high dose rapamycin treatment. This was due to the stimulation of Akt phosphorylation at the mTORC2 site at Ser473 by rapamycin. In cancer cells, persistent inhibition of p70S6 kinase, a downstream target of mTORC1, upregulates Akt signaling via a negative feedback loop that activates PI3K signaling through activation of the insulin receptor substrate-1 (
+26
+,
+27
+). Upregulation of Akt signaling observed post rapamycin treatment in both BxPC3 and Panc1 cells is consistent with activation of the PI3K signaling pathway via the negative feedback loop. In BxPC3 cells, inhibition of PI3K signaling restored the synthetic lethal phenotype of high dose rapamycin in the presence of serum, while having no affect of Panc1 cell viability. However, in Panc1 cells, strategies that disrupt TGF-β signaling were employed to “create” the synthetic lethal interaction in Panc1 cells. High dose rapamycin induced apoptosis in the absence of Akt phosphorylation in Panc1 cells treated with siRNA for Smad4 or small molecules that inhibit TGF-β signaling. Therefore, inhibiting the kinase activity of Akt, a target mTORC2, is necessary to observe synthetic lethality in BxPC3 cells and Panc1 cells with suppressed TGF-β signaling. Suppressing both mTORC1 and mTORC2 signaling with the catalytic inhibitor Torin1 suppressed Akt phosphorylation and induced apoptosis in BxPC3 cells and TGF-β defective Panc1 cells in the presence of serum. These data suggest that in the presence of serum, inhibiting both mTORC1 and mTORC2 kinase activity is critical in mediating synthetic lethality in pancreatic cancer cells with defective TGF-β signaling – supporting our previous work demonstrating that a lack of TGF-β and mTOR signaling induces apoptosis in cancer cells (
+12
+). Thus, tumors with either innate or created defective TGF-β signaling can be selectively killed by inhibition of both mTOR complexes.
+The cytotoxic effects on pancreatic cancer cells reported here were dependent on high (micro-molar) doses of rapamycin. We reported recently that the high dose rapamycin treatment caused complete dissociation of mTOR from Raptor, which lead to the complete suppression of mTORC1. This contrasts with the partial suppression seen with conventional nano-molar doses (
+13
+). High dose rapamycin treatment results in the suppression of both S6 kinase and 4E-BP1 phosphorylation – as opposed to the suppression of S6 kinase phosphorylation alone seen with nano-molar doses. The key factor for rapamycin-induced apoptosis is the suppression of 4E-BP1 phosphorylation and the concomitant sequestration of eIF4E (
+13
+). These findings are consistent with those of Sonnenberg and colleagues who reported that cell proliferation was dependent on the mTORC1 phosphorylation of 4E-BPs (
+37
+). In this study with pancreatic cancer cells, the combination of high dose rapamycin and suppression of PI3K signaling was required for the apoptotic effect in Smad4-null cells. However, the catalytic mTOR inhibitor was able to suppress both 4E-BP1 and Akt phosphorylation by virtue of inhibiting both mTORC1 and mTORC2. Thus, using catalytic mTOR inhibitors may have an advantage over rapamycin or rapalogs because it suppress the phosphorylation of both 4E-BP1 and Akt at Ser473.
+In conclusion, this study demonstrates a synthetic lethality in pancreatic cancer cells that is created by defective TGF-β signaling and suppression of mTORC1/2 signaling. Use of specific TGF-β pathway inhibitors can be employed in combination with mTORC1/2 inhibitors to create synthetic lethality in cancer cells with intact TGF-β signaling. This study implies that mTORC1/2 inhibitors could be used to specifically target pancreatic cancers with defects in TGF-β signaling. This study also suggests the possibility of creating the synthetic lethal phenotype by inhibiting both TGF-β and mTORC1/2 signals.​
+Open in a separate window
+Figure 6.
+mTORC1/2 inhibition is synthetically lethal in Panc1 cells with defective TGF-β signaling. A, Panc1 cells were plated as in
+Fig. 1
+and then shifted to media containing 10% serum for 24 hours. Cells were then transfected with either control or Smad4 siRNA. Forty-eight hours later, the cells were put in media containing 10% serum, the indicated concentrations of rapamycin (Rapa), and LY294002 (50 μmol/L) as indicated. PARP cleavage and cell viability (data not shown) were determined 4 and 18 hours later as in
+Fig. 1
+. B, Panc1 cells were plated as above then shifted to media containing either 10% serum, anti-TGF-β1 antibody (2 μg/mL) as indicated. Twenty-four hours later, the cells were treated with LY294002 (50 μmol/L) for 1 hour then rapamycin (20 μmol/L) for 4 hours. Levels of cleaved PARP, phosphorylated Akt (P-Akt-S473), phosphorylated Smad2 (P-Smad2), total Akt, total Smad2, and GAPDH were determined by Western blot analysis. Western blot analyses are representative of at least 2 independent experiments. C, Panc1 cells were plated as above the shifted to media containing 10% serum, SB431542 (10 μmol/L). Twenty-four hours later, the cells were treated with LY294002 (50 μmol/L) for 1 hour then rapamycin (20 μmol/L) for 4 hours. Levels of cleaved PARP, phosphorylated Akt (P-Akt-S473), phosphorylated Smad2 (P-Smad2), total Akt, total Smad2, and GAPDH were determined by Western blot analysis. D, Panc1 cells were plated as above the shifted to media containing 10% serum rottlerin (Rott, 3 μmol/L). Twenty-four hours later, the cells were treated with LY294002 (50 μmol/L) for 1 hour then rapamycin (20 μmol/L) for 4 hours. Levels of cleaved PARP, phosphorylated Akt (P-Akt-S473), Smad3, total Akt, total Smad2, and GAPDH were determined by Western blot analysis. E, Panc1 cells were plated as above the shifted to media containing either 10% serum, SB431542 (10 μmol/L), rottlerin (Rott, 3 μmol/L), or anti-TGF-β1 antibody (2 μg/mL) as indicated. Twenty-four hours later, the cells were treated with Torin1 (250 nmol/L) for 4 hours. Levels of cleaved PARP, phosphorylated Akt (P-Akt-S473), total Akt, and GAPDH were determined by Western blot analysis. Western blot analyses are representative of at least 2 independent experiments.Acknowledgements
+This study was supported by a Diversity Supplement to the National Institute of Health grant R01-CA46677 to DAF as well as the Research Centers in Minority Institutions award RP-03037 from the National Center for Research Resources of the National Institute of Health. OL was supported by a diversity supplement to R01-CA46677.Footnotes
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.

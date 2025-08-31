@@ -1,0 +1,455 @@
+Depression of p53-independent Akt survival signals in human oral cancer cells
+bearing mutated p53 gene after exposure to high-LET radiation
+
+Yosuke Nakagawa a
+, Akihisa Takahashi b
+, Atsuhisa Kajihara a
+, Nobuhiro Yamakawa a
+, Yuichiro Imai a
+,
+Ichiro Ota c
+, Noritomo Okamoto c
+, Eiichiro Mori d
+, Taichi Noda e
+, Yoshiya Furusawa f
+, Tadaaki Kirita a
+,
+Takeo Ohnishi d,⇑
+aDepartment of Oral and Maxillofacial Surgery, School of Medicine, Nara Medical University, 840 Shijo-cho, Kashihara, Nara 634-8521, Japan
+b Advanced Scientific Research Leader Development Unit, Gunma University, 3-39-22 Showa-machi, Maebashi, Gunma 371-8511, Japan
+cDepartment of Otorhinolaryngology, School of Medicine, Nara Medical University, 840 Shijo-cho, Kashihara, Nara 634-8521, Japan
+dDepartment of Radiation Oncology, School of Medicine, Nara Medical University, 840 Shijo-cho, Kashihara, Nara 634-8521, Japan
+eDepartment of Dermatology, School of Medicine, Nara Medical University, 840 Shijo-cho, Kashihara, Nara 634-8521, Japan
+f
+Heavy-ion Radiobiology Research Group, Research Center for Charged Particle Therapy, National Institute of Radiological Sciences, 4-9-1 Anagawa, Inage-ku, Chiba 263-8555, Japan
+
+article info
+
+Article history:
+Received 26 May 2012
+Available online 10 June 2012
+
+Keywords:
+High LET
+Akt
+Caspase
+Apoptosis
+Cell cycle
+
+abstract
+
+Although mutations and deletions in the p53 tumor suppressor gene lead to resistance to low linear
+energy transfer (LET) radiation, high-LET radiation efficiently induces cell lethality and apoptosis regardless
+of the p53 gene status in cancer cells. Recently, it has been suggested that the induction of p53-independent
+apoptosis takes place through the activation of Caspase-9 which results in the cleavage of
+Caspase-3 and poly (ADP-ribose) polymerase (PARP). This study was designed to examine if high-LET
+radiation depresses serine/threonine protein kinase B (PKB, also known as Akt) and Akt-related proteins.
+Human gingival cancer cells (Ca9–22 cells) harboring a mutated p53 (mp53) gene were irradiated with
+2 Gy of X-rays or Fe-ion beams. The cellular contents of Akt-related proteins participating in cell survival
+signaling were analyzed with Western Blotting 1, 2, 3 and 6 h after irradiation. Cell cycle distributions
+after irradiation were assayed with flow cytometric analysis. Akt-related protein levels decreased when
+cells were irradiated with high-LET radiation. High-LET radiation increased G2/M phase arrests and suppressed
+the progression of the cell cycle much more efficiently when compared to low-LET radiation.
+These results suggest that high-LET radiation enhances apoptosis through the activation of Caspase-3
+and Caspase-9, and suppresses cell growth by suppressing Akt-related signaling, even in mp53 bearing
+cancer cells.
+2012 Elsevier Inc. All rights reserved.
+
+1. Introduction
+
+Oral cavity squamous cell carcinoma (OSCC) therapy utilizes
+surgical treatment, radiotherapy, chemotherapy, and hyperthermia.
+For advanced OSCC cases, combined therapies using these
+modalities are required. Many mutations have been reported in
+the p53 tumor suppressor gene in advanced human cancers [1].
+The p53 gene plays an important role in the pathway which controls
+apoptosis, cell growth, and cell proliferation [2–4]. Consequently,
+mutations or deletions in the p53 gene can lead to
+resistance to cancer therapies such as radiotherapy and chemotherapy
+[5]. The involvement of the p53 gene in the sensitivity of
+many cell types toward low-LET radiation is well established
+[5,6]. High-LET radiation has several advantages in radiotherapy
+when compared to low-LET radiation. These include a higher
+
+relative biological effectiveness (RBE), a reduction in the oxygen
+enhancement ratio, less variation in cell cycle-related radiosensitivity,
+and the existence of less efficient repair mechanisms for cellular
+radiation injuries [7–9]. For these reasons, high-LET radiation
+induces highly lethal events, even in radio-resistant tumors [10].
+Moreover, high-LET radiation possesses excellent dose distribution
+properties which are an advantage when compared to low-LET
+radiation. High-LET radiation can produce a high dose in a deep
+and narrow region when compared to the shallow and broad high
+dose region produced by low-LET radiation [7]. This means that
+heavy ion beams can severely damage a tumor, and simultaneously
+produce fewer deleterious effects, and lead to a reduction of damage
+to the surrounding normal tissues. This means that heavy ion
+beams can deliver a high dose to a tumor while minimizing the
+amount of radiation delivered to surrounding normal tissues. This
+property may permit the design of more effective therapeutic
+strategies when based on the genetic and molecular events involved
+in cell death. Caspases function as components in cell
+
+0006-291X/$ - see front matter
+2012 Elsevier Inc. All rights reserved.
+http://dx.doi.org/10.1016/j.bbrc.2012.06.004
+
+⇑ Corresponding author. Fax: +81 744 25 3434.
+E-mail address: tohnishi@naramed-u.ac.jp (T. Ohnishi).
+
+Biochemical and Biophysical Research Communications 423 (2012) 654–660
+
+Contents lists available at SciVerse ScienceDirect
+
+Biochemical and Biophysical Research Communications
+
+journal homepage: www.elsevier.com/locate/ybbrc
+signaling events such as apoptosis, cell growth and differentiation
+[11]. While Caspases serve as the main effectors of apoptosis, the
+mechanisms involved in the activation of the Caspase system after
+exposure to high-LET radiation (which are independent of cellular
+p53 gene status) are still not well known. Recently, it was reported
+that the induction of p53-independent apoptosis was induced
+through the activation of Caspase-9 which results in the cleavage
+of Caspase-3 and poly (ADP-ribose) polymerase (PARP) [12–14].
+The present study was designed to examine the depression of survival
+signaling such as Akt and the associated downstream proteins
+which are known to inhibit Caspase-9 and promote cell growth.
+
+2. Materials and methods
+
+2.1. Cells
+
+The cell line used in this study is a human squamous cell carcinoma
+gingival-derived cell line (Ca9–22) bearing a point mutation
+at codon 248 [Arg (CGG) ? Trp (TGG)] in the p53 gene. Ca9–22
+cells were obtained from the Japanese Collection of Research Bioresources
+(Health Science Research Resources Bank, Osaka, Japan).
+The cells were cultured at 37 C in a humidified 5% CO2 incubator,
+and were grown in Dulbecco’s modified Eagle’s medium containing
+10%(v/v) fetal bovine serum, penicillin (50 U/mL), streptomycin
+(50 lg/mL) and kanamycin (50 lg/mL).
+
+2.2. Irradiation
+
+Cells were grown exponentially in 25 cm2 flasks (Nunc Roskilde,
+Denmark) before irradiation. The cells were irradiated with X-rays
+or Fe-ion beams. For X-irradiation (1.7 keV/lm), a 200 kVp X-ray
+generator (PANTAK-320S, Shimadzu, Kyoto, Japan) was used with
+total filtration of 0.5 mm aluminum plus 0.5 mm copper. The Xray
+dose rate was measured with a thimble ionization chamber
+(PTW Freiburg, Freiburg, Germany) at the sample position, and
+the dose rate was about 1 Gy/min. Fe-ion beams (500 MeV/u,
+200 keV/lm) were generated by a heavy ion medical accelerator
+at the National Institute of Radiological Sciences in Chiba, Japan.
+The flasks were placed in a special rack designed to position them
+to obtain a uniform exposure to the beams. The beams across each
+sample were uniform and varied by less than ±5% from the intensity
+at the center of the flask. Irradiation was conducted using horizontal
+heavy-ion beams with a dose rate of approximately 3 Gy/
+min, and no binary filter. Kanai et al [15] measured exposures under
+these conditions using a calibrated parallel plate ionization
+chamber and/or a plastic scintillation counter at the sample
+position.
+
+2.3. Cell survival assay
+
+Cell survival was measured using a standard colony forming assay
+as previously describe in detail [14]. Three flasks were used for
+each experiment, and two or more independent experiments were
+repeated for each survival point. Microscopic colonies containing
+approximately 50 cells were scored as having grown from single
+surviving cells.
+
+2.4. Analysis of apoptosis
+
+After irradiation, attached and floating cells were stained with
+0.2 mM Hoechst 33342 (Sigma Chemical Co. St. Louis, MO, USA).
+Apoptotic events were scored as previously described in detail
+[14]. A minimum of 300 cells was counted in every sample, and
+the percentage of apoptotic cells was recorded.
+
+2.5. Analysis of Caspase-3 activity
+
+Cells were incubated for 47 h at 37 C after irradiation. The cells
+were then incubated with fluorescein Caspase-3 (Millipore Co.
+Billerica, MA, USA) for 1 h at 37 C, and were illuminated under a
+yellow light. Measurements were performed according to the manufacturer’s
+protocol. The cell suspension was mixed with a propidium
+iodide (PI) solution for a final concentration of 1.25 lg/mL.
+After filtration through a 35 lm nylon mesh, the samples were
+measured for fluorescein using a flow cytometer (Becton-Dickinson,
+San Jose, CA, USA). Data were then analyzed from viable Caspase
+positive cells.
+
+2.6. Caspase inhibitors
+
+A Caspase-3 inhibitor (z-DEVD-FMK) and a Caspase-8 inhibitor
+(z-IETD-FMK) were purchased from Kamiya Biomedical Co., (Seattle,
+WA, USA). A Caspase-9 inhibitor (z-LEHD-FMK) was purchased
+from R&D systems (Abingdon, UK). Cells were pre-incubated for
+2 h in different concentrations of Caspase inhibitors before
+irradiation.
+
+2.7. Western Blotting
+
+After irradiation, cells were harvested at the indicated time
+points. Western Blotting was carried out as previously described
+in detail [14].The membranes were then incubated for 1 h at room
+temperature with primary antibodies. Rabbit polyclonal antimTOR,
+anti-phospho-mTOR (Ser2448), anti-Akt, anti-phospho-Akt
+(Ser473), rabbit monoclonal anti-S6 Ribosomal Protein (rpS6),
+and anti-phospho-rpS6 (Ser240/244) were purchased from Cell
+Signaling Technology, Inc., (Beverly, MA, USA). Goat polyclonal
+anti-Actin antibody (I-19) and mouse monoclonal anti-Survivin
+were obtained from Santa Cruz Biotechnology Inc., (Santa Cruz,
+CA, USA). Mouse monoclonal anti-cyclin D1 antibody (Ab-3) was
+obtained from Calbiochem Inc., (San Diego, CA, USA). Appropriate
+horseradish peroxidase-conjugated secondary antibodies of antirabbit
+IgG antibody (Amersham Pharmacia Biotech Inc. Piscataway,
+NJ, USA) or anti-mouse IgG antibody (Zymed laboratories Inc. San
+Francisco, CA, USA) were incubated for 1 h at room temperature.
+For visualization of bands, an enhanced chemiluminescence detection
+system (Amersham Pharmacia Biotech Inc.) was used according
+to the manufacture’s protocol. The amounts of the proteins in
+the samples were determined with scanning profiles using the
+Scion imaging program (Scion Co. Frederick, MD, USA).
+
+2.8. Cell cycle analysis
+
+After irradiation, attached and floating cells were fixed with
+cold 70% methanol and stored at 4 C for 3 days before analysis.
+For cell cycle analysis, the cells were incubated for 30 min at room
+temperature with 1 mg/mL RNase and 50 lg/mL propidium iodoide
+(PI), and were analyzed using a flow cytometer (Becton–Dickinson).
+The cell cycle distribution was assayed by determining
+the DNA content twice and calculating the average.
+
+3. Results
+
+3.1. Surviving fraction after irradiation
+
+To investigate radiation sensitivity to X-rays and Fe-ion beams,
+Ca9–22 cells bearing mp53 were exposed to both types of beams.
+The surviving fraction after exposure to 2 Gy of X-rays, 7 Gy of Xrays,
+and 2 Gy of Fe-ions beams were 58%, 8%, and 9% when compared
+with unirradiated controls (Fig. 1A). The D10 doses were
+
+Y. Nakagawa et al. / Biochemical and Biophysical Research Communications 423 (2012) 654–660 655
+about 2 Gy for the Fe-ion beams and 7 Gy for X-rays. The RBE value
+for the D10 dose of the Fe-ion beams was approximately 3.5.
+
+3.2. Apoptosis after irradiation
+
+Using Hoechst33342 staining, the kinetics of apoptosis
+induction was analyzed at 48 h after exposure to X-rays or Fe-ion
+beams. The apoptosis frequencies at equal survival doses (D10)
+were 10% for X-rays (7 Gy), and about 16% for Fe-ion beams
+(2 Gy). Furthermore, the apoptosis frequency after 2 Gy of X-rays
+was approximately 2%. Thus, Fe-ion beams were eight times as
+effective as X-rays in inducing apoptosis at an equal dose (Fig. 1B).
+
+3.3. Caspase-3 activity
+
+The activity of Caspase-3 increased in viable cells at 48 h after
+irradiation (Fig. 1C). The activities of Caspase-3 after a 2 Gy and
+7 Gy X-irradiation were about 10% and 70% of that after a 2 Gy
+exposure to Fe-ion beams. To examine how Caspase-3 was activated,
+inhibitors of Caspase-3, Caspase-9 and Caspase-8 were used
+(Fig. 1D). Cells were pre-incubated for 2 h before irradiation with a
+Caspase inhibitor. The activity of Caspase-3 was observed at 48 h
+after irradiation with Fe-ion beams in the presence of inhibitors
+for Caspase-3, Caspase-9 and Caspase-8 (each at a concentration
+of 20 lM). Caspase-3, Caspase-9 and Caspase-8 inhibitors
+
+suppressed the activities of Caspase-3–55%, 63% and 90% compared
+to cells grown in the absence of inhibitors, respectively (Fig. 1D).
+The Caspase-9 inhibitor suppressed Caspase-3 activation by Feion
+beams to a greater extent than the Caspase-8 inhibitor.
+
+3.4. Cellular content of Akt and related proteins after irradiation
+
+The levels of Akt protein decreased to a larger extent after exposure
+to Fe-ion beams than after exposure to X-rays (Fig. 2A, B).
+Though Akt levels were reduced to about 75% of that in unirradiated
+cells at 3 h after X-irradiation, Fe-ion beams caused a reduction
+of about 45%. Furthermore, Fe-ion beams apparently reduced
+p-Akt more than X-rays (Fig. 2A, C). Moreover, Akt-related proteins
+were effectively depressed by Fe-ion beams. X-rays reduced the
+cellular contents of the mTOR protein, phospho-mTOR, rpS6, phospho-rpS6
+and Survivin to 53%, 81%, 78%, 68% and 78%, respectively,
+of the value in unirradiated cells at 3 h after irradiation (Fig. 2D, E).
+Fe-ion beams induced a 44% reduction of the mTOR protein, 72% of
+phospho-mTOR, 49% of rpS6, 82% of phospho-rpS6 and 28% of Survivin
+when compared with X-rays at 3 h after irradiation. At 8 h
+after irradiation, cyclin D1 levels were apparently depressed in
+the cases of the irradiated cells with X-rays at 7 Gy and Fe-ion
+beams at 2 Gy (Fig. 3A), and their relative values were 49% and
+37%, respectively, though the value in the irradiated with 2 Gy of
+X-rays was 80% (Fig. 3B).
+
+Fig. 1. Sensitivity to X-rays or Fe-ion beams. (A) Surviving rate; (B) Apoptosis frequency. (C and D) Caspase-3 activity after exposure to X-rays or Fe-beams. Caspase-3 activity
+was analyzed at 48 h after irradiation in the absence C or presence D of different Caspase inhibitors which act against Caspase-3, Caspase-9, and Caspase-8 at a concentration
+of 20 lM. U, non-irradiated cells in A, B and C.
+
+656 Y. Nakagawa et al. / Biochemical and Biophysical Research Communications 423 (2012) 654–660
+3.5. Cell cycle distribution
+
+The distribution of the G1, S, and G2/M phases in unirradiated
+cells was 43%, 17% and 40%, respectively (Fig. 3C). At 12 h after irradiation
+with 2 Gy of X-rays, 7 Gy of X-rays, or 2 Gy of Fe-ion beams,
+the G2/M phase cell fraction was 47%, 56% and 56% (Fig. 3D, F, H),
+showing that there was a significant accumulation of cells in the
+G2/M phase. At 24 h after irradiation with 2 Gy of X-rays, 7 Gy of
+X-rays, or 2 Gy of Fe-ion beams, the G2/M phase cell fraction was
+35%, 47% and 50% (Fig. 3E, G, I). A G2/M phase arrest was not observed
+after 2 Gy of X-rays or in the unirradiated controls, but
+was observed 24 h after irradiation with 7 Gy of X-rays and 2 Gy
+of Fe-ion beams.
+
+4. Discussion
+
+The p53 gene can play a pivotal role in pathways which control
+apoptosis, cell growth, and cell proliferation [2–4]. There is a broad
+consensus that the primary physiological role of p53 in DNA damage-induced
+apoptosis is to act as a transcriptional activator for
+genes which encode apoptotic effectors [16]. Previously reported
+cellular sensitivities to radiation were dependent on cellular p53
+gene status in human tongue squamous cell carcinomas [2], human
+glioblastoma cells [17], and human non-small lung cancer cells
+[12]. It was observed that wtp53 cells were about 1.6-fold more
+sensitive to X-rays than cells with a dysfunctional p53 status (carrying
+mtp53 or deleted p53) in the H1299 human lung cancer cell
+
+Fig. 2. Western Blotting of Akt and downstream proteins. (A) Time course for levels of Akt and Akt phosphorylated (p-) at ser473 after irradiation. (D) Protein levels at 3 h
+after irradiation at 2 Gy. (B, C and E) Each band is compared with the individual band density for Actin. The relative amounts of the proteins were calculated by comparing
+them with the density of the unirradiated samples (U) in A and D. Black columns indicate X-irradiation; white columns indicate Fe-ion beam irradiation. B, Akt; C, p-Akt; E,
+downstream Akt associated proteins.
+
+Y. Nakagawa et al. / Biochemical and Biophysical Research Communications 423 (2012) 654–660 657
+Fig. 3. Western Blotting of cyclin D1 and cell cycle analysis. (A) Protein levels of cyclin D1 at 8 h after irradiation. (B) Each band is compared with the individual band density
+for Actin. The relative amounts of the proteins were calculated by comparing them with the density of the unirradiated samples (U) in A. Black columns indicate X-irradiation
+at 2 Gy; gray columns indicate X-irradiation at 7 Gy; white columns indicate Fe-ion beam irradiation at 2 Gy. (C) Unirradiated controls. (D–G) Cells irradiated with X-rays. (H
+and I) Cells irradiated with Fe-ion beams; D, E, H and I, 2 Gy; F and G, 7 Gy. D, F and H, 12 h after irradiation; E, G and I, 24 h after irradiation. In the bottom figures
+(distribution); black columns indicate G1; white columns indicate S; gray columns indicate G2/M. C–I show the same samples between in the middle figures (histogram) and
+bottom figures.
+
+658 Y. Nakagawa et al. / Biochemical and Biophysical Research Communications 423 (2012) 654–660
+line [13]. X-irradiation primarily induced apoptosis and necrosis.
+Although there were no significant differences between wtp53
+and mp53 cells in the H1299 cell line with respect to the frequency
+of X-rays induced necrotic cells, wtp53 cells had a higher proportion
+of apoptotic cells after X-rays than the mp53 cells. On the
+other hand, there was almost no significant difference in the surviving
+fraction or in the proportion of apoptotic cells observed after
+exposure to high-LET radiation, regardless of cellular p53 gene status
+in cancer cells [12]. These facts suggest that high-LET radiation
+induces apoptosis in wtp53 cells and mp53 cells at similar levels.
+These findings indicate that the RBE values for Fe-ion beams were
+about 5.5 and 2.1 in p53 dysfunctional cells and wtp53 cells,
+respectively [13]. In the present paper, it is shown that radiation
+sensitivity and apoptosis in Ca9–22 cells apparently increased after
+exposure to Fe-ion beams when compared to an equal dose of
+X-rays (2 Gy) (Fig. 1A, B and Fig. 4). It has been reported that RBE
+curves for both reached a peak at 100 keV/lm [14]. It is often
+not practical in the clinic to determine the status of a p53 gene
+or other relevant genetic markers. Thus, therapies using high-LET
+radiation are expected to result in a higher efficacy in treatments,
+especially for malignant tumors bearing a mp53 or a deleted p53
+gene status. This is because these cell types have a high possibility
+of being radioresistant [10], and high-LET radiation can induce
+apoptosis effectively in tumors regardless of p53 gene status
+[12,13]. Tumors responsive to C-ion beams have been reported to
+include head and neck cancer, lung cancer, liver cancer, prostate
+cancer, bone and soft-tissue sarcomas, pelvic recurrences of rectal
+cancer, skull base tumors, and choroidal melanoma [18].
+During the induction of apoptosis, Caspases act as effectors, and
+their activities depend on p53 gene status. Two distinct pathways
+
+upstream of the Caspase cascade have been identified: death
+receptor-induced apoptosis and mitochondrial stress-induced
+apoptosis [19,20]. Death receptors trigger Caspase-8, while mitochondria
+release apoptogenic factors leading to the activation of
+Caspase-9. Fe-ion beams apparently increase Caspase-3 activity
+in viable cells (Fig. 1C). The activity of Caspase-3 in cells irradiated
+with Fe-ion beams was higher than the activity in X-irradiated
+cells, not only at equal doses (2 Gy), but also at a D10 dose (7 Gy).
+Moreover, apoptosis induced by high-LET radiation appears to be
+dependent on Caspases, and Caspase-9 may contribute to Caspase
+dependent apoptosis after exposure to high-LET radiation (Fig. 1D
+and Fig. 4).
+On the other hand, Akt survival signals are a ubiquitous and evolutionarily
+conserved signaling cascade that is involved in numerous
+cellular functions including apoptosis, cell proliferation, differentiation,
+migration, and metabolism [21,22]. Activation of Akt survival
+signaling is associated with a poor prognosis inmultiple tumor types
+[23,24]. There are three closely related Akt isoforms in mammalian
+cells, consisting of Akt1 (PKBa), Akt2 (PKBb), and Akt3 (PKBc) [21].
+All Akt isoforms bind to phosphatidylinositol(3,4,5)-triphosphate
+(PIP3) through pleckstrin-homology (PH) domains, and translocate
+to the plasma membrane where they are activated via phosphorylation
+at residues Ser473 and Thr308. When Akt is activated through
+phosphorylation, Akt promotes cellular proliferation and inhibits
+apoptosis through the phosphorylation of multiple substrates, or
+the downstream proteins. These include Caspase-9, Bad, GSK3, and
+forkhead transcription factors such as FKHR (FOX1), FKHRL (FOXO3),
+and AFX (FOXO4)[22,25]. Recently it was suggested that C-ion beam
+irradiation effectively suppresses the metastatic potential of nonsmall
+cell lung cancer A549 cells by suppressing the PI3 K/Akt
+
+Fig. 4. A model for high LET radiation-induced p53-independent apoptosis through the enhancement of death signals and the depression of survival signals. An arrow ?
+indicates enhancement; a sidewise ‘‘T’’ indicates depression.
+
+Y. Nakagawa et al. / Biochemical and Biophysical Research Communications 423 (2012) 654–660 659
+signaling pathway [26]. The work described here was designed to
+examine whether high-LET radiation depresses survival signals from
+Akt and Akt-related genes which inhibit Caspase-9. The levels of Akt
+(Fig. 2A–C and Fig. 4) and the associated downstream proteins
+(Fig. 2D, E and Fig. 4) were effectively depressed by high-LET radiation
+when compared with low-LET radiation. The lowest level of
+Akt proteins was observed at 3 h after irradiation (Fig. 2B).
+It has been reported that an mTOR inhibitor, rapamycin, in conjunction
+with radiation efficiently suppressed progression of the
+cell cycle [27]. After exposure to 7 Gy of X-rays and 2 Gy of Feion
+beams, the cell cycle distributions were almost the same at
+12 h and 24 h after irradiation (Fig. 3F–I). Moreover, it has been
+well known that Akt-related signals control expression of cyclin
+D1 and decreased expression of cyclin D1 induced G2/M arrests
+[28]. The levels of cyclin D1 (Fig. 3A, B) was effectively depressed
+by high-LET radiation when compared with low-LET radiation.
+From these results, it was suggested that high-LET radiation increased
+G2/M arrests and then, the progression of the cell cycle
+was stopped through the depression of Akt-related signaling
+(Fig. 4).
+Clustered DNA lesions at multiple sites are thought to be critical
+for radiation-induced cell death. High-LET radiation is thought to
+produce high yields of clustered DNA damage, including DNA double-strand
+breaks (DSBs) and base alterations [29]. DSBs were repaired
+slowly when compared to the repair of DSBs induced by
+X-rays [30–32]. Consequently, cell multiplication was disturbed
+at the G2/M stage [33] after exposure to high-LET radiation. In particular,
+Fe-ion beam-induced lesions are repaired more slowly than
+X-ray-induced lesions, because Fe-ion beam-induced lesions are
+reported to be more complex or extensive [32]. There are two major
+pathways in mammalian cells to repair DSBs: non-homologous
+end-joining (NHEJ) repair and homologous recombination (HR) repair
+[34]. Recently it has been reported that exposure to high-LET
+radiation induces cell lethality more efficiently than the same dose
+of low-LET radiation because NHEJ plays large role in the repair for
+low-LET radiation-induced DSBs [32].
+In conclusion, the present study suggests that high-LET radiation
+such as Fe-ion beams enhance apoptosis through the activation
+of Caspase-3 and Caspase-9 via the depression of Akt-related
+signaling, even in mp53 cancer cells (Fig. 4). These results clearly
+show that high-LET radiation is able to induce cell death efficiently
+with a higher level of apoptosis than X-rays, regardless of p53 gene
+status. More detailed studies are still necessary to define the initial
+events occurring during the depression of Akt survival signaling
+and of the effect of p53 gene status after exposure to high-LET
+radiation.
+
+5. Conflict of interest statement
+
+The authors declare that they have no conflicts of interest associated
+with this work.
+

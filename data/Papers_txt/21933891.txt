@@ -1,0 +1,1475 @@
+Cancer Therapy: Preclinical
+
+Therapeutic Implications for the Induced Levels of Chk1 in
+Myc-Expressing Cancer Cells
+
+Andreas Hoglund € 1
+, Lisa M. Nilsson1,2, Somsundar Veppil Muralidharan1
+, Lisa A. Hasvold5
+, Philip Merta5
+,
+Martina Rudelius4
+, Viktoriya Nikolova3
+, Ulrich Keller3
+, and Jonas A. Nilsson1,2
+
+Abstract
+Purpose: The transcription factor c-Myc (or "Myc") is a master regulator of pathways driving cell growth
+and proliferation. MYC is deregulated in many human cancers, making its downstream target genes
+attractive candidates for drug development. We report the unexpected finding that B-cell lymphomas from
+mice and patients exhibit a striking correlation between high levels of Myc and checkpoint kinase 1 (Chk1).
+Experimental Design: By in vitro cell biology studies as well as preclinical studies using a genetically
+engineered mouse model, we evaluated the role of Chk1 in Myc-overexpressing cells.
+Results: We show that Myc indirectly induces Chek1 transcript and protein expression, independently
+of DNA damage response proteins such as ATM and p53. Importantly, we show that inhibition of Chk1,
+by either RNA interference or a novel highly selective small molecule inhibitor, results in caspasedependent
+apoptosis that affects Myc-overexpressing cells in both in vitro and in vivo mouse models of
+B-cell lymphoma.
+Conclusion: Our data suggest that Chk1 inhibitors should be further evaluated as potential drugs against
+Myc-driven malignancies such as certain B-cell lymphoma/leukemia, neuroblastoma, and some breast and
+lung cancers. Clin Cancer Res; 17(22); 7067–79. 2011 AACR.
+
+Introduction
+
+The MYC family of proto-oncogenes encodes 3 different
+transcription factors, c-Myc (hereafter Myc), N-Myc, and
+L-Myc, which are functionally similar. They regulate a vast
+number of genes involved in most aspects of cell growth and
+proliferation (1), explaining the selection for mutations
+that result in overexpression of Myc proteins in the majority
+of human cancers. However, Myc overexpression can be
+sensed as oncogenic stress in cells, which manifest as
+apoptosis or senescence (2, 3). This cellular defense against
+Myc-induced transformation involves apoptotic mediators,
+cell-cycle proteins, and tumor suppressors such as Arf, ataxia
+telangiectasia mutated (ATM), and p53 (4). As a consequence,
+these categories of genes are often deregulated
+during tumorigenesis, unleashing the oncogenic functions
+of Myc.
+
+Myc binds proteins in the prereplication complex and
+independent of its role as a transcription factor causes
+replication stress and DNA damage by excessive stimulation
+of replication fork firing (5, 6). This can trigger a DNA
+damage response (DDR), a process that depending on insult
+engages one or more of the proximal phosphoinositide3-kinase–like
+proteins ATM, its related kinase ataxia telangiectasia
+and Rad3-related protein (ATR), and DNA-dependent
+protein kinase (DNA-PK). These kinases then initiate a
+signal transduction pathway feeding down to p53 that
+regulates the cell cycle or apoptosis depending on cell
+context (7).
+Activation of p53 by the DDR causes a prolonged cellcycle
+arrest in either the G1 or the G2 phase of the cell cycle.
+Checkpoint kinase 1 (Chk1) kinase, which is also activated
+via phosphorylation by ATM/ATR kinases (8), mediates a
+faster response and is known to play an important role in
+DNA damage checkpoint control, embryonic development,
+and tumor suppression (9). Activation of Chk1 occurs in
+response to improper DNA replication and various forms of
+genotoxic stress (8, 10). Chk1 then inactivates members of
+the Cdc25 family, which control cell-cycle transitions by
+dephosphorylating cyclin-dependent kinases (Cdk; ref. 11).
+In addition, Chk1 also phosphorylates proteins involved in
+stabilization of replication forks (12) and spindle checkpoint
+function (13).
+Checkpoints in G2 and M phase provide protection
+against a premature and lethal mitotic entry in case
+of damaged DNA. Tumors often exhibit genomic instability,
+making them very sensitive to disturbances in
+
+Authors' Affiliations: 1
+Department of Molecular Biology, Umea
+University,
+Umea
+; 2
+Institute for Clinical Sciences, Sahlgrenska Cancer Center,
+Gothenburg University, Gothenburg, Sweden; 3
+III Medical Department and 4
+Department of Pathology, Technische Universitat M € unchen, Munich, €
+Germany; and 5
+Abbott Laboratories, Abbott Park, Illinois
+Note: Supplementary data for this article are available at Clinical Cancer
+Research Online (http://clincancerres.aacrjournals.org/).
+Corresponding Author: Sahlgrenska Cancer Center, Department of Surgery,
+Institute of Clinical Sciences, University of Gothenburg, Medicinaregatan
+1G, Box 425, 405 30 Gothenburg, Sweden. Phone: 46-730-273039;
+E-mail: jonas.a.nilsson@surgery.gu.se
+doi: 10.1158/1078-0432.CCR-11-1198
+
+2011 American Association for Cancer Research.
+
+Clinical
+Cancer
+Research
+
+www.aacrjournals.org 7067
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+checkpoints, despite the fact that they might themselves
+have arisen because of checkpoint overrides. It thus seems
+that a low level of checkpoint override (e.g., Chek1 haploinsuffiency)
+may be tumor promoting (9), whereas a
+high level of genomic instability (e.g., Chk1 inhibition)
+can be therapeutically beneficiary (14). Along the same
+line, we and others have recently shown that Myc overexpression
+selectively sensitizes cells to checkpoint override
+following inhibition of its transcriptional targets and
+mitotic regulators Cdk1 and Aurora B kinases (15, 16).
+Here, we report a novel and unanticipated connection
+between Myc and Chk1. Our findings suggest that Chk1 is
+essential for Myc to provoke illegitimate cell-cycle progression
+and suggest a novel therapeutic avenue against
+Myc-overexpressing tumors such as lymphomas, breast
+and lung cancers, and neuroblastoma.
+
+Materials and Methods
+
+Materials
+Primary antibodies were obtained from Santa Cruz Biotechnology
+(Chk1, ER, Myc, and p19Ink4d), Sigma (b-actin
+and tubulin), Upstate (gH2AX), and Cell signalling (caspase-9).
+Horseradish peroxidase–conjugated antibodies
+against mouse and rabbit antibodies were from GE Healthcare
+Life Sciences.
+Decitabine (5-aza-20
+-deoxycytidine or Dacogen) was generously
+provided by MGI Pharma. The pan-caspase inhibitor
+Q-VD-OPH was obtained from BioVision.
+
+Synthesis and evaluation of a selective Chk1 inhibitor
+The Chk1 inhibitor "Chekin" was made in a structure–
+activity relationship series of position 8 of compound 2
+described in a previous publication (17). Detailed description
+of the synthesis and the structure–activity relationship
+is presented elsewhere (18). Kinase assays in Table 1 were
+conducted as previously described (19). The selectivity of
+Chekin was further determined by a time-resolved fluorescence
+resonance energy transfer (TR-FRET) assay on the
+basis of the LanthaScreen Method (Invitrogen). Individual
+kinases (2–10 nmol/L) or probes (2 Kd of probe to the
+particular kinase; range of 6.25–200 nmol/L) were either
+manufactured in-house (Abbott Laboratories) or purchased
+from Invitrogen (kinases/probes) or CarnaBio (kinases).
+The inhibitor was tested across the range of 0.0001 to
+10 mmol/L in a 10-fold dilution dose response. The control
+inhibitor staurosporine was used to assess the accuracy and
+precision of the system.
+
+Cell culture
+293T human kidney cells and NIH 3T3 fibroblasts were
+from American Type Culture Collection and cultured in
+
+Translational Relevance
+
+The idea of using checkpoint kinase 1 (Chk1) inhibitors
+to treat cancer came from the observations that
+tumor cells get rid of DNA damage checkpoints during
+tumorigenesis or therapy, making them highly sensitive
+to additional genomic instability. By combining chemotherapy
+or radiotherapy with Chk1 inhibitors, tumors
+would be more sensitive than the normal surrounding
+cells. Here, we identify a possible means to stratify
+patients into groups that may benefit particularly well
+from the inclusion of Chk1 inhibitors in their treatment
+regimens. We also show efficacy of a novel Chk1 inhibitor,
+which could serve as the lead for the development of
+such treatments.
+
+Table 1. Selectivity profile of Chekin
+
+Kinase assay TR-FRET kinome
+
+IC50,
+
+mmol/L
+IC50,
+mmol/L
+IC50,
+mmol/L
+IC50,
+mmol/L
+IC50,
+mmol/L
+IC50,
+mmol/L
+IC50,
+mmol/L
+
+Chk1 0.0203 ACVR1 >10 CDK8/cyclin C >10 Fyn >10 Kdr >10 PDGFRB >10 TBK1 >10
+AMPK >10 ALK >10 CDK9/cyclin K >10 GRK5 >10 LTK >10 PKA >10 TNK2 >10
+Aurora 2 >10 AMPK >10 CLK2 >10 Gsk3a >10 Lck >10 PKCu >10 TTK >10
+CHK2 >10 Abl >10 CLK4 >10 Gsk3b >10 MEK1 >10 Pim1 >10 TYRO3 >10
+CTAK-1 >10 Aurora1 >10 CSF1R >10 IGF1R >10 MEK2 >10 Prkcn >10 TrkA >10
+EMK >10 Aurora2 >10 Ck1a1 >10 IKKE >10 MST1 >10 RET >10 TrkB >10
+Gsk3b >10 BTK >10 DYRK1B >10 InsR >10 Map4k2 >10 Rock1 >10 TrkC >10
+IGF1RMarme>10
+CAMK1D >10 Dyrk1A >10 JAK2 >10 Map4k4 >10 Rock2 >10 Wee1 >10
+
+Kdr 789-
+1354
+>10 CAMK2A >10 FAK >10 JAK3 >10 Nek2 >10 Rsk2 >10 ZipK >10
+MAPKAPK2>10
+CDK5/p25 >10 FGFR1 >10 JNK1 >10 PAK4KD >10 Syk
+CatDom
+>10 cMET >10
+Rsk2 >10 CDK7/cyclin
+H/Mat1
+>10 Flt1 >10 JNK2 >10 PDGFRA
+V561D
+>10 TAOK2 >10 p38 a >10
+
+Hoglund et al. €
+
+7068 Clin Cancer Res; 17(22) November 15, 2011 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+Dulbecco’s Modified Eagle’s Medium with 10% fetal calf
+serum (FCS), 2 mmol/L L-glutamine, 1 mmol/L sodium
+pyruvate, and antibiotics. Human lymphoma cell lines
+P493-6, Akata, BJAB, DG75, KemI, and Raji were laboratory
+stocks and were cultured at a density between
+105 and 106 cells per milliliter in RPMI-1640 medium
+with 10% FCS, 2 mmol/L L-glutamine, 50 mmol/L b-mercaptoethanol,
+0.1875% sodium bicarbonate, and antibiotics.
+Mouse lymphoma cell lines established from
+tumors arising in either the l-Myc or Em-Myc transgenic
+mice (15, 20) were cultured at a density between 105 and
+106 cells per milliliter in RPMI-1640 medium with 5%
+FCS, 2 mmol/L L-glutamine, 50 mmol/L b-mercaptoethanol,
+0.1875% sodium bicarbonate, and antibiotics.
+Mouse embryo fibroblasts (MEF) were generated from
+E13.5-E15 embryos from timed matings between p53
+heterozygous mice according to established methodology.
+All experiments were repeated with multiple MEF
+isolates.
+
+Viral infections
+Retroviruses were made by calcium phosphate–mediated
+cotransfection of 293T cells with pBABE-HrasG12V-puro,
+MSCV-IRES-puro, or MSCV-IRES-GFP (with or without
+c-Myc or MycER) together with pCL-Eco (all from
+Addgene). Twenty-four hours posttransfection, media was
+changed and supernatants were harvested 4 times during 36
+hours, filtered and used to infect p53/ MEFs and bone
+marrow–derived B cells, or NIH 3T3 cells in the presence of
+4 or 8 mg/mL polybrene, respectively. Cells infected with
+MSCV-IRES-puro–based retroviruses were selected in the
+presence of 4 to 6 mg puromycin.
+Lentiviral infections were made by calcium phosphate–
+mediated cotransfection of 293T cells with packaging plasmids
+pCMV-dR8.2dvpr and pHCMV-Eco (Addgene) using
+5 different MISSION short hairpin RNA (shRNA) constructs
+(Sigma) per gene directed against the Chek1, ATM, ATR, and
+Prkdc (encoding DNA-PK) mouse mRNA. Twenty-four
+hours posttransfection, media was changed and supernatants
+were harvested 4 times during 36 hours and used to
+infect target cells. Mouse lymphoma cells were infected by 3
+rounds of spinoculation (20 minutes at 50  g) during 24
+hours in the presence of 2 mg/mL polybrene. MEFs or NIH
+3T3 cells were infected by culturing the cells in the presence
+of viral particles and 4 to 8 mg/mL of polybrene. The cells
+were selected by culturing in the presence of 2 to 6 mg/mL
+puromycin.
+
+Cell-cycle and apoptosis analyses
+For cellular staining with propidium iodide (PI), mouse
+and human B cells were collected by centrifugation, and
+adherent cell cultures were gently detached from the dish
+with trypsin-EDTA and then collected by centrifugation
+together with its original culture supernatant. The cells were
+resuspended and incubated in Vindelov’s reagent (10
+mmol/L Tris, 10 mmol/L NaCl, 75 mmol/L PI, 0.1% Igepal,
+and 700 U/L RNase adjusted to pH 8.0) with a cell concentration
+not exceeding 106 cells per mL. The PI-stained
+
+cells were then analyzed with a FACSCalibur flow cytometer
+(BD Biosciences) using the FL3 channel in a linear scale for
+cell-cycle distribution. Apoptosis was determined on the
+basis of the number of cells that carried less than diploid
+DNA content (sub-G1) in a logarithmic FL2 channel.
+
+Western blot analysis
+Cell pellets or tumors crushed in liquid nitrogen were
+lysed, and the debris was removed by centrifugation. A total
+of 30 to 50 mg protein per lane was separated on SDS-PAGE
+gels and subsequently transferred to nitrocellulose membranes
+(Schleicher-Schuell). Membranes were stained with
+Ponceau S red dye to verify equal loading. All subsequent
+steps were carried out in TBS-Tween (10 mmol/L Tris-HCl,
+pH 7.6, 150 mmol/L NaCl, and 0.05% Tween-20) either
+containing 5% milk (blocking and antibody incubations)
+or 2% bovine serum albumin (phospho-specific antibody
+incubations). Antibody binding was visualized by
+enhanced chemiluminescence with the SuperSignal West
+Dura or Pico reagents from Pierce and either an X-ray film or
+a LAS4000 imaging system (Fujifilm Life Science). In the
+Figures, images with a dark tone are generated by autoradiography
+and those with a light tone are generated with the
+LAS4000 system.
+
+RNA preparation and analysis
+RNA was isolated with TRIzol reagent (Invitrogen) or
+NucleoSpin RNA II (Macherey-Nagel). cDNA synthesis was
+carried out on 1-mg RNA by iScript first strand synthesis kit
+(Bio-Rad). Quantitative PCR using gene-specific primers
+was carried out by the KAPA SYBR FAST qPCR Kit (Kapa
+Biosystems) on an iCycler iQ5 real-time PCR machine (BioRad).
+Relative mRNA levels were calculated with the DDCt
+method.
+
+Histology and immunohistochemistry
+With Institutional Review Board approval, and following
+informed consent, paraffin blocks of tumors from Burkitt
+lymphoma, mantle cell lymphoma, and follicular lymphoma
+patients were banked. For immunohistochemistry,
+2-mm sections were deparaffinized. Antigen retrival was
+carried out by pressure cooking in citrate buffer (pH 6) for
+7 minutes. Binding of the Chk1 antibody was detected after
+an overnight incubation at 4C by the DAKO REAL Detection
+Kit (DAKO) as per the manufacturer’s protocol. Two
+independent operators analyzed n ¼ 3 high-power fields
+(HPF; 40) in n ¼ 5 samples of Burkitt lymphoma or
+mantle cell lymphoma.
+
+Mouse experiments
+All animal experiments were carried out in accordance
+with the Regional Animal Ethic Committee Approval #A6-
+08 or #A18-08. The p53-knockout mice (21) and ApcMin
+mice, both on a C57BL/6 background, were obtained
+from the Jackson laboratory. The l-Myc mouse model
+(22) was a kind gift from Dr. Georg Bornkamm (GSF,
+Munich, Germany). All mice were observed daily for signs
+of disease. All moribund mice were immediately sacrificed.
+
+Myc Induction of Chk1 Is an Achilles' Heel for Tumor Cells
+
+www.aacrjournals.org Clin Cancer Res; 17(22) November 15, 2011 7069
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+When tumor-bearing mice were sacrificed, tumors and
+lymphoid organs were collected for analyses or tissue banking.
+Tumors were either snap frozen and/or dispersed into
+single-cell suspensions by scalpels and cell strainers.
+To develop a p53-deficient Myc-driven in vivo model, we
+magnetically sorted bone marrow–derived B cells by labeling
+them with an anti-B220-R-PE antibody, followed by
+labelling with an anti-PE magnetic microbead and loading
+on a MACS column (Miltenyi). The purified B cells were
+cultured overnight in RPMI-1640 medium with 10% FCS,
+2 mmol/L L-glutamine, 50 mmol/L b-mercaptoethanol,
+0.1875% sodium bicarbonate, and antibiotics in the presence
+of MSCV-Myc-IRES-GFP retrovirus produced as
+described earlier and 4 mg/mL polybrene. Infected cells were
+injected into C57BL/6 mice, and tumor development was
+monitored. Tumors that developed were dispersed into
+single cells and were immunophenotyped to confirm B-cell
+origin and frozen down in medium containing 10%
+dimethyl sulfoxide (DMSO) for banking. For drug experiments,
+cells were thawed, and 150,000 cells were intravenously
+injected per mouse. After 1 week, Chekin (17 mg/kg;
+n ¼ 7) or vehicle (PEG400:chremophore/70% EtOH:saline:
+cyclodextrin, 10:50:30:10; n ¼ 8) was injected twice daily
+for 4 days after which tumor development was observed. For
+acute experiments in C57BL/6 transplanted with lymphoma
+cells or in healthy precancerous l-Myc mice, 4 and 3
+injections every 12 hours was carried out, respectively, after
+which tumors or splenic B cells, respectively, were harvested
+and analyzed by Western blot analysis.
+
+Statistical analysis
+Statistical analyses were conducted using the t test functions
+of Excel or GraphPad Prism (GraphPad Software).
+, P < 0.05 and , P < 0.01 were considered statistically
+significant. The bars shown represent the mean of triplicates
+ SD.
+
+Results
+
+Myc regulates Chk1 in vitro
+We have previously shown that Myc overexpression sensitizes
+p53-deficient cells to DNA damage (17, 23). To study
+the role of Myc in checkpoint override in more detail, we
+generated p53-null MEFs from E13.5 embryos and transduced
+them with a retrovirus engineered to express a fusion
+protein between c-Myc and the ligand-binding domain of
+the estrogen receptor (ER), the MycER protein. Addition of
+the estrogen analogue 4-hydroxytamoxifen (4-HT) to
+growth medium releases the MycER protein from binding
+to Hsp in the cytoplasm and exposes the nuclearlocalization
+signal of Myc to induce nuclear translocation. Activation of
+Myc resulted in override of the cell-cycle arrest exerted by
+
+g-irradiation or decitabine, a DNA methyltransferase
+inhibitor that also induces DNA damage, resulting in cell
+death (data not shown; refs. 17, 23). Detailed analysis of
+p53-deficient cells at different time points following Myc
+activation and DNA damage surprisingly revealed that
+Chk1 is induced by Myc activation, even without prior DNA
+
+damage (Fig. 1A). To investigate at which level Chk1 was
+induced by Myc activation, we carried out quantitative
+reverse transcriptase PCR (qRT-PCR) on mRNA from cells
+that had been subjected to Myc activation. Interestingly,
+Chk1 upregulation upon 4-HT treatment required de novo
+protein synthesis, as the translation inhibitor cycloheximide
+blocked induction, in contrast to the direct Myc target
+Odc (Fig. 1B). This suggests that Myc upregulates Chk1
+indirectly. In line with this, the regulatory sequences of the
+Chek1 gene was devoid of conserved Myc-binding E-boxes
+(data not shown) and had not previously been discovered
+in screens for Myc-bound gene regulatory sequences
+(www.myccancergene.org). However, the Myc-dependent
+upregulation of Chk1 was evolutionarily conserved as
+activation of Myc in human P493-6 B cells, which carry a
+tetracycline-regulated MYC construct permitting conditional
+expression of Myc (24), also resulted in elevated levels
+of Chk1 protein (Fig. 1C). In essence, Chk1 expression
+correlated with the activation/reactivation of MYC and
+the associated increase in Myc protein.
+Given that Chk1 has a dual role in promoting and inhibiting
+tumorigenesis, we were interested in studying this kinase
+in the context of Myc overexpression. Because supraphysiologic
+levels of Myc are known to both promote DNA damage,
+apoptosis, and tumorigenesis (25), we therefore assessed
+whether the induction of Chk1 by Myc was mediated by the
+DDR. To test this hypothesis, we carried out shRNA-mediated
+knockdown of Atm, Atr, and Prkdc (DNA-PK) in NIH
+3T3 cells infected with MycER. qRT-PCR confirmed that
+potent knockdown was achieved for Atm and DNA-PK but
+to a lesser extent for ATR (Supplementary Fig. S1A). Induction
+of Chk1 upon Myc activation occurred normally in cells
+with decreased levels of these proximal kinases and their
+activity [measured by detection of the phosphorylated form
+of H2AX (gH2AX); ref. 26], suggesting either redundancy or
+independency of DDR (Fig. 1D and Supplementary Fig.
+S1B). To verify that Myc can induce Chk1 independently of
+downstream mediators of oncogenic stress, we also carried
+out these experiments in early-passage p53-deficient,
+Arf-deficient, or Arf/Atm double-knockout MEFs. Again, Myc
+activation caused an upregulation of total Chk1 protein
+levels, independent of p53,Arf, orAtmstatus (Supplementary
+Fig. S1C). Importantly, checkpoint activation occurred in
+these cells, as shown by the inactivating Tyr 15 phosphorylation
+of Cdc2 (Supplementary Fig. S1C).
+
+Myc upregulates Chk1 in vivo
+Next, we assessed whether Chk1 is a Myc-regulated
+gene also in vivo. To this end, we first analyzed l-Myc
+transgenic mice which express MYC under the control of
+the immunoglobulin l light chain enhancer and develop
+mature B-cell lymphomas (22). Splenic B cells from either
+precancerous l-Myc mice or wild-type littermates were
+magnetically sorted using anti-IgM antibodies. These cells
+and palpable lymphomas harvested from sick l-Myc
+animals were analyzed for Chk1 transcript and protein
+levels. All of the precancerous cells except one and all
+lymphomas exhibited high levels of Chk1 than wild-type
+
+Hoglund et al. €
+
+7070 Clin Cancer Res; 17(22) November 15, 2011 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+control cells (Fig. 2A and B), confirming that Myc induces
+Chk1 also in vivo.
+Myc is deregulated in the majority of human cancers,
+frequently as a downstream event of an activated oncogenic
+pathway. There are, however, cancers like Burkitt lymphoma
+or neuroblastoma, and less frequently breast and lung
+cancer, where a member of the MYC gene family is directly
+activated either by translocation or gene amplification (1).
+Burkitt lymphoma is characterized by exhibiting 1 of 3
+different translocations, which bring MYC on chromosome
+8 under the control of enhancers of IgK, IgH, or IgL on
+chromosomes 2, 14, or 22 (27). This causes a massive
+transcriptional induction of MYC in B lymphocytes, resulting
+in apoptosis, hyperproliferation, or transformation. As
+shown earlier, Chk1 transcript and protein was induced in
+l-Myc transgenic mice, an in vivo model of Burkitt lymphoma.
+We therefore next assessed CHEK1/Chk1 expression in
+human Burkitt lymphoma samples. By searching the webbased
+public database Oncomine (www.oncomine.org),
+we found expression profiling studies showing a highly
+significant correlation between MYC mRNA expression in
+Burkitt lymphoma with that of CHEK1 (Supplementary Fig.
+S2A and S2B). To establish this correlation at the protein
+level, various lymphoma subtypes including Burkitt lymphoma
+were analyzed for Chk1 expression by immunohistochemistry.
+Again, samples from patients with Burkitt
+lymphoma exhibited a significantly higher level of Chk1-
+positive cells than other B-cell lymphoma subtypes (Fig.
+2C). Thus, Myc activation is associated with high Chk1
+positivity in vivo.
+In most colon cancers, mutation of the adenomatous
+polyposis coli (APC) gene results in loss of function of the
+protein complex that controls degradation of b-catenin.
+The outcome of accumulation of nuclear b-catenin is
+activation of genes promoting proliferation, including
+c-MYC (28). To analyze whether cells with elevated Myc
+also would induce Chk1 in this context, we studied
+tumorigenesis of heterozygous ApcMin mice. These mice
+lose the remaining wild-type Apc allele and develop
+spontaneous adenomas in the colon and small intestine
+macroscopically visible at around 120 days of age (29). By
+comparing expression of Chk1 in normal gut epithelium
+with that in adenomas by Western blot analysis, we
+observed elevated levels of Chk1 in 4 of 6 tumors
+(Supplementary Fig. S3A). Moreover, qRT-PCR analysis
+verified a striking correlation between Myc expression and
+Chek1 (Supplementary Fig. S3B).
+Despite the strong correlation between Chek1 mRNA/
+protein expression and a deregulated Myc oncogene, we
+could not gain evidence that Myc directly induces Chek1.
+
+A
+
+p19
+Chk1
+
+MycER
+
+4-HT –
+Dec – -
++
+–
++
+48
++
+24
+
+B
+
+C
+Ctrl 4-HT 4-HT + CHX 0
+1
+2
+3
+4 Odc
+Chek1
+
+Expression relative
+ to ubiquitin
+
+D
+
+Myc: – 2 10 24 (h)
+Myc
+Chk1
+
+Actin
+Chk1
+
+Actin
+
+GFP MycER
+
+– Non Atm Prkdc Atr (shRNA)
+
+4-HT –+–+–+–+–+
+
+ER
+
+*
+
+*
+
+*
+
+Figure 1. Myc upregulates Chk1 mRNA and protein. A, Western blot analysis of p53-knockout MEFs infected with an MSCV-MycER-IRES-puro retrovirus. The
+nuclear translocation of MycER was induced by 4-HT treatment for 24 hours, and then the cells were treated with decitabine for an additional
+24 hours. Whole-cell lysates were harvested and analyzed using antibodies directed against the indicated proteins. The constitutively expressed cell-cycle
+protein p19Ink4d was used as a loading control (ctrl) as it is not regulated by Myc (51). B, qRT-PCR analysis of Chek1 and Odc transcript levels in p53-knockout
+MEFs infected with MSCV-MycER-IRES-GFP retrovirus. 4-HT was added to the cells, and transcript expression was measured 24 hours later, with
+or without the presence of 1 mg/mL cycloheximide (CHX) in the growth media. , P < 0.05; expression in control cells versus 4-HT or 4-HT and CHX. C, Western
+blot analysis of P493-6 cells after tetracycline removal from the growth media, leading to Myc induction. D, Western blot analysis of NIH 3T3 fibroblasts–
+expressing inducible MycER that were infected with shRNA against Atm, Atr, and Prkdc. Myc was activated, and 24 hours later whole-cell lysates were
+analyzed by Western blot analysis using antibodies directed against the indicated proteins. Dec, decitabine.
+
+Myc Induction of Chk1 Is an Achilles' Heel for Tumor Cells
+
+www.aacrjournals.org Clin Cancer Res; 17(22) November 15, 2011 7071
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+To test whether Myc regulated another transcription
+factor that could in turn induce Chek1, we screened the
+Basso lymphoma gene arrays (Supplementary Fig. S2) for
+genes encoding transcription factors involved in cellcycle
+progression. Interestingly, expression of genes
+encoding transcription factors known to regulate S-phase
+progression such as MYBL2, MYC, and FOXM1 was very
+high in Burkitt lymphoma. These had correlation R
+values to CHEK1 of around 0.5, whereas expression of
+2 other prominent S-phase regulators, E2F1 and MYBL1,
+correlated slightly less to CHEK1 expression (Supplementary
+Fig. S2B). This analysis suggests that Myc may
+regulate several transcription factors that could induce
+CHEK1.
+
+Chk1 is crucial for the survival of Myc-overexpressing
+cells in vitro
+Having established that Chk1 is regulated by Myc, we
+wanted to investigate whether Chk1 is a potential therapeutic
+target, or whether it rather acts as a tumor suppressor
+to a stress response provoked by Myc overexpression. Chk1
+inhibitors are currently evaluated in clinical studies, testing
+the hypothesis that Chk1 constraint fortifies the activity of
+
+DNA-damaging agents (30). Indeed, several studies have
+shown that Chk1 inhibition, in combination with druginduced
+replication stress or DNA damage, severely compromises
+tumor cell survival. To investigate the consequences
+of Chk1 inhibition in the context of Myc overexpression,
+we genetically removed Chek1 mRNA using
+shRNA-expressing lentiviruses in NIH 3T3 fibroblasts and
+low passage p53-deficient MEFs that had been transduced
+with MSCV-Myc-IRES-GFP retroviruses (Fig. 3A). Interestingly,
+clonogenic survival assays over 10 days showed that
+knockdown of Chk1 severely compromised colony formation
+of Myc-overexpressing cells, with basically no cells
+surviving over this period of time (Fig. 3B). In contrast,
+cells infected with a lentivirus carrying a nontargeting
+shRNA did not die, but instead showed signs of overgrowth,
+suggesting that Myc triggers hyperproliferation which
+requires Chk1.
+To analyze the consequence of Chk1 loss for Mycinduced
+tumorigenesis or tumor maintenance, we analyzed
+transformation efficiency of fibroblasts and growth of Mycinduced
+lymphomas in vitro and in vivo. Although Mycoverexpressing
+NIH 3T3 fibroblasts expressing the nontarget
+shRNA potently formed colonies in soft agar, a hallmark
+
+C
+
+wt
+
+wt
+
+n.s
+
+**
+
+λ-Myc
+
+λ-Myc
+
+λ-Myc tumors
+Tumors
+
+B
+
+BL
+
+200×
+
+% Chk1-high cells
+
+Relative expression to ub
+
+630×
+
+MCL FL Tonsil
+
+Lymphoma
+BL MCL FL
+
+100
+
+75
+
+50
+
+25
+
+0
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+A
+
+Chk1
+
+Actin
+
+Figure 2. Chek1 transcript and Chk1
+protein is elevated in lymphomas
+from l-Myc transgenic mice and in
+human Burkitt lymphoma (BL). A,
+qRT-PCR analysis of Chek1
+transcript levels in B cells from wildtype
+and l-Myc mice as well as
+tumors developed in the l-Myc
+transgenic animals. B, Western blot
+analysis of Chk1 protein levels in B
+cells from 4- to 6-week old wildtype
+(wt) and precancerous l-Myc
+mice compared with palpable
+lymphomas harvested from sick
+animals. C, immunohistochemical
+analysis of Chk1 expression in
+Burkitt lymphoma, mantle cell
+lymphoma (MCL), follicular
+lymphoma (FL), and control tissue
+(tonsils). Left, representative
+samples at low power (200) and
+high power (630) views. Right, the
+percentage of positive staining in
+lymphomas for Chk1. Here, a grid
+ocular objective was used to count
+400 cells over 3 HPFs (40). The
+bars show the mean percentage of
+positive cells from 5 samples  SD.
+Q9 ub, ubiquitin; n.s., not significant.
+
+Hoglund et al. €
+
+7072 Clin Cancer Res; 17(22) November 15, 2011 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+of malignant transformation, no colonies were observed in
+the cells expressing the Chek1 shRNA (Fig. 3C). Introducing
+the same highly efficient shRNA into a p53 mutant mouse
+lymphoma cell line generated from a sick l-Myc mouse (20)
+selected against viable cells (data not shown). By infecting
+these lymphoma cells with Chek1 shRNA virus that exhibited
+intermediate levels of Chek1 knockdown (Fig. 3D), we
+were able to generate viable cells. A more detailed analysis of
+these Chk1-low cells revealed that they were clearly more
+sensitive to DNA damage induced by decitabine treatment
+(Fig. 3E), and they developed tumors slower upon transplantation
+into syngenic C57BL/6 recipients (Fig. 3F).
+Moreover, several of the tumors that did develop had
+regained high level expression of Chk1 (Supplementary
+Fig. S4), suggesting that they arose from puromycin-resistant
+Chk1-normal cells present in a diluted form in the
+Chk1-low culture. Taken together, these data strengthen the
+hypothesis that Myc requires appropriate levels of Chk1 for
+transformation and tumor cell survival. Chk1 therefore
+
+emerges as a potential pharmaceutical target rather than
+a tumor suppressor of Myc-induced tumorigenesis.
+
+Small-molecule Chk1 inhibitors induce Chk1
+degradation and cell death of Myc-transformed cells
+To validate Chk1 as a therapeutic target, we tested the best
+compound of a new generation of Chk1 inhibitors developed
+by one of us (L.A. Hasvold; Abbott Laboratories). This
+compound, named Chekin (Fig. 4A inset), exhibits inhibition
+of Chk1 at low nanomolar concentrations and has
+shown Chk1 selectivity over 76 kinases tested in in vitro
+enzyme assays (Table 1). In one aspect Chekin is unique as
+other known selectiveChk1inhibitors alsoinhibit the related
+kinase Chk2 or one of the Cdks. Treating a panel of human Bcell
+lymphoma lines for 96 hours with Chekin induced an
+apoptotic phenotype in Akata and BJAB, whereas DG75 did
+not respond at all (Fig. 4A top, Supplementary Figs. S5 and
+S6). Raji primarily responded to Chekin by a slower growth
+(Supplementary Fig. S5A) and accumulation of cells in late S
+
+Figure 3. Myc-overexpressing
+cells are dependent on Chk1 for
+survival and transformation
+capacity. A, Western blot analysis
+of Chk1 protein levels in NIH 3T3
+fibroblasts infected with MSCVIRES-GFP
+or MSCV-Myc-IRESGFP
+retroviruses and lentiviruses
+expressing Chek1 or a nontarget
+shRNA. B, clonogenic survival
+assay of 104 NIH 3T3 fibroblasts
+(p53 wild-type) or p53/ MEFs
+expressing MSCV-Myc-IRES-GFP
+with or without expression of
+shRNA against Chek1. The cells
+were grown to confluence during
+the course of 10 days. Shown here
+is the result of 1 of 2 experiments
+yielding the same results. C, soft
+agar assay of NIH 3T3 fibroblasts
+expressing MSCV-Myc-IRES-GFP
+with or without shRNA directed
+against Chek1. D, a l-Myc (p53
+mutant) mouse lymphoma cell line
+was infected with different shRNA
+hairpins against Chek1. These
+hairpins show a varying degree of
+Chek1 knockdown as assessed by
+Western blot analysis. E, the cells in
+D were treated with 4 mmol/L of
+decitabine during 48 hours, stained
+with PI, and analyzed in a flow
+cytometer for apoptotic cells. F,
+cells in (D) expressing the
+nontargeting shRNA or the #48
+Chek1 shRNA against were
+transplanted via tail vein injection
+into recipient mice that were
+followed for signs of disease. When
+sick, the mice were euthanized, and
+the tumors were harvested for
+analysis by Western blot
+(Supplementary Fig. S4). V.co,
+vector control.
+
+0
+200
+400
+600
+800
+1,000
+
+Non Chek1
+Number of colonies
+
+NIH 3T3 p53–/–
+
+Chek1 shRNA
+
+Nontarget shRNA
+
+A
+
+C
+
+Myc GFP
+
+(shRNA) Non Chek1 Non Chek1
+
+Chk1
+
+Actin
+
+B
+
+D
+
+E
+
+0
+10
+20
+30
+40
+50
+60
+
+V.co #48 #49 #50
+% Apoptotic cells
+
+Ctrl
+Dec.
+
+Non #48 #49 #50
+Chek1 shRNA
+
+Chk1
+
+Actin
+
+*
+
+* * F
+
+P = 0.05
+
+V.co
+#48
+
+n = 5
+
+0 5 10 15 20 25
+Days tumor free
+Percent survival
+100
+80
+60
+40
+20
+0
+
+n = 6
+
+Myc Induction of Chk1 Is an Achilles' Heel for Tumor Cells
+
+www.aacrjournals.org Clin Cancer Res; 17(22) November 15, 2011 7073
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+and G2 phase (Supplementary Fig. S6). KemI was only
+weakly affected in growth rate and cell-cycle distribution,
+which was further substantiated by a dose–response curve
+(Fig. 4A, Supplementary Figs. S5A and S5B and S6). All lines
+that were sensitive to Chekin either exhibited endogenous
+activation of DDR, as assessed by Western blot analysis of
+
+gH2AX (26), or had strong induction uponChekin treatment
+(Supplementary Fig. S5C). Interestingly, total Chk1 protein
+levels following treatment were decreased in correlation to
+sensitivity to Chekin (Fig. 4A bottom, Supplementary Fig.
+S5C), suggesting mechanism-based degradation exerted by
+Chekin as reported in other studies using Chk1 inhibitors in
+
+combination with DNA-damaging agents
+(31, 32). This decrease is believed to occur via proteasome-mediated
+degradation and could indicate that Myc
+overexpression can replace DNA damage in the triggering
+of degradation upon Chk1 inhibition. Unexpectedly, however,
+the protein level of Myc was also decreased in the BJAB
+line, a non–Burkittlymphoma line with a MYCamplification
+and which is known to lack stabilizing mutations of MYC
+(33).
+The B-cell lymphoma lines tested are genetically diverse
+as they come from tumors of different patients and have
+been in culture for decades, resulting in secondary
+
+Myc
+
+Chk1
+
+Actin
+Chekin – + – + –+ – + – +
+
+Chekin –+–+ –+–+
+
+A
+
+B
+
+C
+
+Caspase –9
+
+Chk1
+Actin
+
+––++ Chekin
+
+–+–+ QVD
+D
+
+Cleaved
+caspase-9
+
+Chekin
+
+0
+10
+20
+30
+40
+50
+60
+70
+
+Akata BJAB DG75 Kem1 Raji
+% Apoptotic cells
+DMSO
+Chekin
+
+Myc
+Chk1
+
+Actin
+γ-H2AX
+
+Eμ-Myc
+p53 mut
+Eμ-Myc
+p53 wt
+λ-Myc
+p53 mut
+
+λ-Myc
+p53 wt
+
+0
+5
+10
+15
+20
+25
+30
+35
+
+% Apoptotic cells
+DMSO
+Chekin
+
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+
+DMSO
+QVD
+Chekin
+
+Chekin + QVD
+% Apoptotic cells
+
+Figure 4. Chk1 inhibition induces
+cell death in human and mouse
+lymphoma cell lines. A, flow
+cytometry and Western blot
+analysis of human B-cell lymphoma
+cells. The Burkitt lymphoma cell
+lines Akata, DG75, Kem1, and Raji,
+and the non–Burkitt lymphoma cell
+line BJAB, were treated for 72 hours
+with 1 mmol/L of Chekin (see inset
+for structure and Table 1 for
+selectivity over other kinases).
+Apoptosis was scored by
+measurement of the sub-G1
+population after PI staining, and
+Western blot analysis was
+conducted with antibodies against
+Chk1 and Myc. B, flow cytometric
+and Western blot analysis of mouse
+lymphoma cell lines derived from
+Em-Myc or l-Myc mice. The cells
+were treated with 1 mmol/L of
+Chekin during the course of 48
+hours and scored for apoptosis by
+flow cytometry as described earlier.
+Western blot analysis was carried
+out with antibodies against Myc,
+Chk1, and g-H2AX. C, flow
+cytometric analysis of a p53 mutant
+l-Myc mouse lymphoma cell line.
+Apoptosis was scored by analysis
+of the sub-G1 population of PIstained
+cells by flow cytometry. The
+cells were treated with 1 mmol/L of
+Chekin in combination with 10
+mmol/L of the pan-caspase inhibitor
+QVD-OPH. D, Western blot analysis
+of samples described in (C) using
+antibodies against Chk1 and
+caspase-9.
+
+Hoglund et al. €
+
+7074 Clin Cancer Res; 17(22) November 15, 2011 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+mutations enabling adaptation to cell culture conditions.
+For instance, DG75, which did not respond to Chekin by
+either slower growth or apoptosis, is known to carry a
+biallelic frameshift mutation resulting in absence of proapoptotic
+Bax protein expression (34). To analyze the consequence
+of Chk1 inhibition on growth of cultured Mycinduced
+lymphomas arising in syngenic l-Myc and Em-Myc
+transgenic animals, we made use of lines recently developed
+(15, 20). Lymphoma lines with either wild-type or mutant
+p53 status were treated with Chekin for 48 hours. All of these
+cells showed sensitivity to Chk1 inhibition by inducing
+apoptosis (Fig. 4B top). This apoptosis was independent
+of their respective p53 status but associated with induction
+of DNA damage as assessed by the phosphorylation of
+Histone H2AX (26). Again, we could observe degradation
+of Chk1 and of Myc in Chekin-treated cells (Fig. 4B bottom).
+However, as Myc-expressing cells are sensitive to
+aggresome formation in response to inhibition of the proteasome
+(ref. 35; and data not shown), we were precluded
+from treating the cells with proteasome inhibitors during
+the full course of Chekin treatment. Nevertheless, treatment
+with proteasome inhibitor for the last 3 hours of a 12-hour
+Chekin treatment period rescued the Chk1 degradation to a
+modest extent (Supplementary Fig. S7A).
+Having established that both human and mouse cells
+transformed by Myc exhibit sensitivity to Chk1 inhibition,
+we wanted to elucidate whether the apoptotic response was
+mediated via mitochondria-mediated caspase cleavage. Pretreatment
+of a mouse lymphoma cell line with the pancaspase
+inhibitor QVD-OPH completely blocked Chekinmediated
+apoptosis (Fig. 4C). Western blot analysis
+revealed that the inhibition of apoptosis was accompanied
+by a reduction in caspase-9 cleavage (Fig. 4D). Therefore,
+the activation of executioner caspase-3 (Supplementary Fig.
+S7B and S7C) is likely to be mediated by a pathway that
+involves mitochondria-mediated apoptosis. However, Chekin
+also impacted on cell-cycle progression as the cells grew
+slower (data not shown). Moreover, the cells had higher
+amount of cells in G1/early S and G2/M phase of the cell
+cycle when treated with Chekin while blocking apoptosis
+with QVD-OPH, suggesting that the cells died from these
+phases (Supplementary Fig. S7D).
+
+Myc sensitizes cells to Chk1 inhibition in vitro
+and in vivo
+On the basis of the expression patterns described earlier
+(Fig. 1 and 2 and Supplementary Figs. S2 and S3), there is a
+strong correlation between MYC and CHEK1 expression.
+This implies that Myc proteins, more so than other oncogenes,
+would sensitize cells to Chk1 inhibition. To test this,
+we analyzed sensitivity to Chekin in low passage p53-deficient
+MEFs infected with retrovirus constructs engineered to
+express either Myc or oncogenic Ras. Both Myc and Rasexpressing
+cells induced apoptosis upon treatment with
+Chekin, but the Myc-expressing cells showed a higher
+degree of sensitivity (Fig. 5A). The level of Chk1 was highest
+in Myc-expressing cells, but Ras-transformed cells also
+exhibited a higher Chk1 levels than vector control cells
+
+(Fig. 5B). Analyzing Chk1 protein levels following inhibition
+revealed that the protein was degraded in a similar
+manner as in the Myc-induced lymphomas.
+To test whether Myc would sensitize tumor cells to Chk1
+inhibition, we transduced the switchable MycER protein
+into Ras-induced sarcoma cells that we had previously
+developed in tissue culture after they had grown subcutaneously
+in mice. Because MycER expression is leaky (36),
+resulting in some MycER translocation even without addition
+of 4-HT, we were able to test sensitivity to Chekin of
+cells expressing medium (Ras), high (MycER) and very high
+Myc (MycER plus 4-HT) activity. As seen in Fig. 5C, MycER
+sensitized the sarcoma cells to Chekin and addition of 4-HT,
+to induce MycER translocation, further stimulated death.
+Assessing previously characterized mediators of DNA damage-induced
+death revealed that Myc activation caused
+
+gH2AX phosphorylation and reduced levels of the antiapoptotic
+Bcl-2 family member Bcl-XL (Fig. 5D). Interestingly,
+Bcl-XL was even further downregulated by Chekin in
+Myc-expressing cells but not in the Ras sarcoma transduced
+with a control retrovirus. In Myc-overexpressing cells, it is
+thus likely that the mitochondrial death revealed by caspase
+induction (see Fig. 4 and Supplementary Fig. S7) occurs
+because of Bcl-XL downregulation.
+The ultimate goal with the generation of Chekin was to
+develop a potent anticancer drug that could work as a cancer
+therapeutic. To evaluate whether Chekin would function in
+vivo, we first treated 4-week-old wild-type or l-Myc mice
+with Chekin and assessed the effect on the biomarker, Chk1
+itself. As expected from Fig. 2A, sorted splenic B cells from
+precancerous l-Myc mice exhibited higher levels of Chk1
+protein than did B cells from wild-type mice. Reassuringly, B
+cells from mice treated with 17 mg/kg 3 times every 12 hours
+exhibited lower Chk1 levels 36 hours after the first injection
+(Fig. 6A). Confident that we were hitting the target, we
+developed a mouse lymphoma model for the assessment of
+the anticancer effect of Chekin. By infecting bone marrow–
+derived B cells from p53-knockout mice with an MSCV-MycIRES-GFP
+virus and then transplanting these into recipient
+syngenic C57BL/6 mice, we obtained mice that developed
+B-cell lymphomas (as assessed by fluorescence-activated cell
+sorting using antibodies directed against the B-cell marker
+B220, Supplementary Fig. S8). These lymphomas were
+transplanted into new animals that were divided into 2
+groups receiving bidaily injections for 5 days of either
+vehicle (n ¼ 6) or 17 mg/kg Chekin (n ¼ 7), which was
+the highest dose possible to administer without compound
+precipitation. After these injections the mice were followed
+for signs of disease after which they were sacrificed or treated
+again (see later). Interestingly, Chekin was able to induce a
+significantly slower disease progress in this very aggressive
+lymphoma model (Fig. 6B). Moreover the therapeutic effect
+was associated with induction of Chk1 degradation and
+induction of DNA damage as assessed by gH2AX (Fig. 6C).
+Taken together these data suggest that Myc-overexpressing
+cells are sensitive to the new Chk1 inhibitor Chekin which
+therefore could serve as a lead for the development of new
+anticancer therapies.
+
+Myc Induction of Chk1 Is an Achilles' Heel for Tumor Cells
+
+www.aacrjournals.org Clin Cancer Res; 17(22) November 15, 2011 7075
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+To summarize, we show that Myc upregulates the expression
+of Chk1, and that Chk1 inhibition selectively contributes
+to apoptosis of Myc-transformed cells. This synthetic
+lethal interaction is p53 independent and therefore represents
+an attractive therapeutic approach in malignancies
+having Myc involvement.
+
+Discussion
+
+Targeting MYC for therapeutic reasons is conceivable
+based on its prevailing activation in cancer and the fact
+that Myc inhibition results in tumor regression of oncogene-addicted
+tumors, although sparing normal cells (37,
+38). Myc proteins are not enzymes though, making the
+development of drugs targeting this class of proteins a
+challenge that has been undertaken by others but has not
+yet proven successful. An alternative approach is therefore
+to identify pathways and genes downstream or parallel to
+Myc that are druggable. To this end, we and others have
+determined the importance of Myc-regulated genes for
+Myc-induced lymphomagenesis. Although not all Mycregulated
+genes are created equal, products of some genes
+encoding polyamine biosynthetic enzymes (39, 40), ribosomal
+proteins (41), and mitotic regulators seem to play
+
+important roles in either tumor development or tumor
+maintenance.
+One would assume that the most important genes of
+Myc would be the direct transcriptional targets. However,
+we recently identified Aurora kinase B and Cks1 as essential
+products of Myc-regulated genes (15, 42). Herein, we
+identify Chk1, which is also regulated by Myc at the
+transcriptional level, as an additional essential kinase
+whose inhibition is synthetic lethal with Myc overexpression.
+These studies suggest that the Myc transcriptome
+may contain more indirectly regulated genes that remain
+to be found and that may encode possible therapeutic
+targets against Myc-driven cancer. At the moment, we do
+not know whether these genes are regulated by a common
+transcription factor downstream of Myc or whether other
+modes of regulation are operating. In the case of Chk1,
+very little is known about its transcriptional regulation
+but reports imply S-phase regulators such as E2F and
+FOXM1 transcription factors, as the promoter region of
+CHEK1 harbors functional binding sites (43–45). Given
+that Myc regulates these transcription factors (www.myccancergene.org),
+it is possible that the observed Chek1
+mRNA induction by Myc occurs via these or other factors
+such as the Myb family of transcription factors. As shown
+
+A B
+
+Myc
+
+Chk1
+
+Actin
+
+Chekin
+
+V.co Myc Ras
+
+0
+5
+10
+15
+20
+25
+
+V.co Ras Myc
+
+0
+5
+10
+15
+20
+25
+
+% Chekin-induced apoptosis
+Vehicle 4-HT Vehicle 4-HT
+
+% Chekin-induced apoptosis
+
+Ras Ras/MycER
+
+C
+
+ER
+
+Chk1
+
+γH2AX
+
+Actin
+
+Ras/MycER
+
+– +
+– +– + – +
+
+Chekin: – +– +– +
+
+Vehicle 4-HT Vehicle 4-HT
+Ras
+
+Bcl-XL
+
+D
+
+*
+
+n.s.
+*
+
+Figure 5. Myc sensitizes cells towards Chk1 inhibition. A, p53-deficient MEFs infected with MSCV-Myc-GFP, pBABE-H-RasG12V-puro, or control virus.
+The cells were treated with 1 mmol/L Chekin for 72 hours, and apoptosis was then scored by measuring the sub-G1 population of PI-stained cells by flow
+cytometry. Results are shown as the mean difference in percentage of apoptosis between Chekin-treated cells and vehicle-treated cells (DMSO) in
+triplicates. B, Western blot analysis of samples described in (A) with antibodies against Chk1 and Myc. C, an H-RasG12V retrovirus–induced
+fibrosarcoma developed subcutaneously in C57BL/6 mice was established in culture. After transduction with a second retrovirus, either derived from
+MSCV-IRES-puro or MSCV-MycER-IRES-puro, cells were selected with puromycin. Cells were then treated with 4-HT or vehicle (EtOH) and 1 mmol/L
+Chekin or vehicle (DMSO) for 48 hours and assayed for apoptosis by measuring the percentage of PI-stained cells with less than diploid DNA content.
+Results are shown as the mean difference in percentage of apoptosis between Chekin-treated cells and vehicle-treated cells (DMSO and/or EtOH) in
+triplicates. D, the same types of cells as in (C) were also analyzed by Western blot for the expression of the indicated proteins following 48 hours of
+treatment. V.co, vector control.
+
+Hoglund et al. €
+
+7076 Clin Cancer Res; 17(22) November 15, 2011 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+here, there is a high degree of correlation between MYC,
+CHEK1, MYBL2, and FOXM1 and to a lesser degree E2F1.
+It is thus plausible that several factors contribute to
+CHEK1 expression in a redundant manner, which
+requires further studies to dissect.
+
+Chk1 suppresses 2 main apoptotic pathways involving
+caspase-2 and -3. Following replication stress, Chk1 is
+crucial in blocking caspase-3–mediated apoptosis, independent
+of p53 (46). Furthermore, Chk1 also inhibits caspase2–mediated
+apoptosis following DNA damage in p53-deficient
+zebrafish, a pathway that is both mitochondria and
+death receptor independent (47). Although we observed
+caspase-3 activation in Chk1-inhibited cells, this does not
+answer which of these pathways is operational, perhaps
+both are. It is interesting to note, however, that the cells
+which survive Chk1 inhibition by Chekin continue to
+proliferate at a slower rate, suggesting that apoptosis inhibition
+by Chk1 may be uncoupled from cell-cycle functions
+of Chk1. Our study here provides a good model system to
+study this mechanism, which is important as it may predict
+pathways that may be deregulated in a relapse/disease
+progression situation following therapeutic Chk1 inhibition
+in the clinic. One potential relapse mechanism could
+be via the reactivation of antiapoptotic Bcl-2 family members,
+which are suppressed by Myc rendering cells sensitive
+to Chk1 inhibition and DNA damage (data herein and in
+work published previously by 2 of us; ref. 23).
+Recently, inducible MycER mouse models showed
+that a deregulated level of Myc, corresponding only to
+that of mitogen stimulation, was sufficient to trigger
+ectopic proliferation and tumorigenesis whereas higher
+levels instead trigger activation of the tumor suppressors
+Arf and p53 and subsequently apoptosis (25, 48). The
+data shown herein suggest that Myc levels also dictate the
+level of induction of Chk1 and sensitivity to Chk1 inhibitors.
+It is thus tempting to speculate that tumors that
+develop in response to MYC translocation or amplification
+become "Chk1 addicts," as their expression level of
+Myc is so high. By forcing them to inactivate p53 to avoid
+apoptosis (4), the cells become dependent on Chk1 for
+genomic integrity. We therefore propose that MYC family
+members are biomarkers for Chk1 inhibitor–sensitive
+tumors, which would include large amount of breast
+cancers, lung cancers, neuroblastoma, and lymphoma.
+For other tumors, Chk1 inhibition is already considered
+for clinical trials as sensitizers to chemotherapy, but so far
+the results of trials are not reported.
+Chk1 is a crucial gene in vivo, proven by the embryonic
+lethality of the Chk1-knockout animals (9, 49), and our
+data also show that cells lacking oncogene activation are
+hampered in cell division by removing Chk1. Extrapolating
+on these data to a potential clinical application of Chk1
+inhibitors may foretell side effects that could counteract the
+benefits. Here, mouse models can help to guide the strategies
+for using Chk1 inhibitors. For instance, conditional
+deletion of Chek1 from somatic epithelial cells in the small
+intestine was recently shown to induce DNA damage and
+genomic instability followed by apoptosis and crypt death
+(50). However, Chek1-proficient cells were able to repopulate
+suggesting that Chk1 targeted therapy shows non–
+tumor-specific side effect in the short term, but that a drug
+regime using windows of rest for the patients should get
+around this problem. Our newly discovered Myc–Chk1
+
+WT λ-Precancerous
+
+Chekin: – –– – + +
+
+Chekin: –+ –+ –+
+
+IV: Lymphoma IP: Chekin
+
+Day 0 Day 7–11
+Tumor
+progression
+
+P = 0.0012
+
+Chk1
+
+γH2AX
+
+Actin
+
+Day 7–11
+IV: Lymphoma IP: V.co IP: Chekin acute
+
+Day 13–14 Day 15:
+harvest
+Day 0
+
+A
+
+B
+
+C
+
+Chk1
+
+Actin
+
+Figure 6. Chekin induces Chk1 degradation and reduces tumor growth
+in vivo. A, six precancerous l-Myc mice were treated with either 3 doses
+of 17 mg/kg Chekin or 3 doses of vehicle control every 12 hours by
+intraperitoneal injections (IP). Thirty-six hours after the first injection, mice
+were sacrificed, and B cells were harvested from the mice for use in
+Western blot analysis of Chk1 expression. B, retroviral Myc-induced
+B-cell lymphomas were transplanted into recipient C57BL/6 mice by tail
+vein injection (IV). One week after transplantation, 7 mice (3 þ 4 of 2
+different original tumors) were treated bidaily for 5 days with 17 mg/kg
+Chekin, and 8 mice (4 þ 4 of 2 different original tumors) were treated with
+vehicle control. Mice were monitored daily for signs of disease and were
+scored as sick when palpable lymphomas were apparent. C, three
+vehicle-treated mice were treated with Chekin when palpable tumors had
+developed. Tumors were harvested after 2 days of bidaily injections and
+analyzed by Western blot using the antibodies indicated. V.co, vehicle
+control.
+
+Myc Induction of Chk1 Is an Achilles' Heel for Tumor Cells
+
+www.aacrjournals.org Clin Cancer Res; 17(22) November 15, 2011 7077
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/17/22/7067/2000458/7067.pdf by guest on 14 August 2024
+connection offers an additional perception to the problem
+by offering patient selection possibilities.
+
+Disclosure of Potential Conflicts of Interest
+
+L.A. Hasvold and P. Merta are Abbott employees, and J.A. Nilsson has
+obtained a speaker fee from Abbott ($1,000). No potential conflicts of
+interest were disclosed by the other authors.
+Acknowledgments
+
+The authors thank the personnel at Umea
+Transgene Core Facility for
+animal care, Georg Bornkamm (Helmholtz Zentrum Munchen, Germany) €
+for providing P493-6 cells and l-Myc mice, and Abbott Laboratories for
+allowing us to test the previously unpublished Chk1 inhibitor.
+
+Grant Support
+
+This work was supported by the Swedish Cancer Society, the Association
+of International Cancer Research, The Swedish Research Council,
+the Kempe foundation, Norrland’s/Lion’s Cancer foundation and Umea
+University (to J.A. Nilsson), the European Hematology Association (EHA
+grant 2007/06), and the Deutsche Forschungsgemeinschaft SFB TRR 54
+(to U. Keller).
+The costs of publication of this article were defrayed in part by the
+payment of page charges. This article must therefore be hereby marked
+advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate
+this fact.
+
+Received May 12, 2011; revised August 17, 2011; accepted September 12,
+2011; published OnlineFirst September 20, 2011.
+

@@ -1,0 +1,1014 @@
+Translational Cancer Mechanisms and Therapy
+
+Polo-like Kinase 1 Inhibition as a Therapeutic
+Approach to Selectively Target BRCA1-Deficient
+Cancer Cells by Synthetic Lethality Induction
+
+Sofía Carbajosa1
+, María Florencia Pansa1
+, Natalia S. Paviolo2
+, Andres M. Castellaro  3
+,
+Diego L. Andino4, Ayelen D. Nigra  3
+, Iris Alejandra García1
+, Ana C. Racca3
+,
+Lucía Rodriguez-Berdini3
+, Virginia Angiolini1
+, Laura Guantay1
+, Florencia Villafanez ~ 1
+,
+María Belen Federico  2
+, María Celeste Rodríguez-Baili3
+, Beatriz L. Caputto3
+,
+Gerard Drewes5
+, Kevin P. Madauss6
+, Israel Gloger7
+, Elmer Fernandez4, German A. Gil  3
+,
+Jose Luis Bocco  1
+, Vanesa Gottifredi2
+, and Gaston Soria  1
+
+Abstract
+
+Purpose: BRCA1 and BRCA2 deficiencies are widespread
+drivers of human cancers that await the development of
+targeted therapies. We aimed to identify novel synthetic lethal
+relationships with therapeutic potential using BRCA-deficient
+isogenic backgrounds.
+Experimental Design: We developed a phenotypic screening
+technology to simultaneously search for synthetic lethal
+(SL) interactions in BRCA1- and BRCA2-deficient contexts. For
+validation, we developed chimeric spheroids and a dualtumor
+xenograft model that allowed the confirmation of SL
+induction with the concomitant evaluation of undesired cytotoxicity
+on BRCA-proficient cells. To extend our results using
+clinical data, we performed retrospective analysis on The
+Cancer Genome Atlas (TCGA) breast cancer database.
+Results: The screening of a kinase inhibitors library revealed
+that Polo-like kinase 1 (PLK1) inhibition triggers strong SL
+induction in BRCA1-deficient cells. Mechanistically, we found
+
+no connection between the SL induced by PLK1 inhibition and
+PARP inhibitors. Instead, we uncovered that BRCA1 downregulation
+and PLK1 inhibition lead to aberrant mitotic phenotypes
+with altered centrosomal duplication and cytokinesis,
+which severely reduced the clonogenic potential of these cells.
+The penetrance of PLK1/BRCA1 SL interaction was validated
+using several isogenic and nonisogenic cellular models, chimeric
+spheroids, and mice xenografts. Moreover, bioinformatic
+analysis revealed high-PLK1 expression in BRCA1-deficient
+tumors, a phenotype that was consistently recapitulated by
+inducing BRCA1 deficiency in multiple cell lines as well as in
+BRCA1-mutant cells.
+Conclusions: We uncovered an unforeseen addiction of
+BRCA1-deficient cancer cells to PLK1 expression, which provides
+a new means to exploit the therapeutic potential of PLK1
+inhibitors in clinical trials, by generating stratification schemes
+that consider this molecular trait in patient cohorts.
+
+Introduction
+
+BRCA1 and BRCA2 have multiple convergent and divergent
+functions (1). Initially, it was considered that BRCA1 and BRCA2
+had relevance only in hereditary types of breast and ovarian
+cancers (2, 3). However, a growing set of recent evidence demonstrated
+that mutations or epigenetic downregulation of BRCA
+genes are also frequently found in sporadic cancers, the acquired
+deficiency in homologous recombination (HR) being the underlying
+mechanism of tumorigenesis (4). Moreover, several recent
+clinical studies have shown that BRCA1/BRCA2–deficient phenotypes
+are found with high prevalence not only in breast and
+ovarian cancers, but also in pancreatic, prostatic, and other types
+of cancers (5).
+An iconic successful case to target BRCA-deficient cancers was
+the development of PARP inhibitors (PARPi). After a decade of
+intense investigation and substantial investment from companies,
+three PARPi became available for clinical use: olaparib from
+AstraZeneca approved in 2015, rucaparib from Clovis approved in
+2016, and niraparib from TESARO approved in 2017 (6, 7). Time
+will be required to weigh the success of PARPi in the clinic.
+Nonetheless, given the vast incidence of BRCA-deficiencies in
+
+1
+
+Centro de Investigaciones en Bioquímica Clínica e Inmunología, CIBICICONICET,
+Departamento de Bioquímica Clínica, Facultad de Ciencias Químicas,
+Universidad Nacional de Cordoba, C  ordoba, Argentina.  2
+Fundacion Instituto
+Leloir, Buenos Aires, Argentina. 3
+Centro de Investigaciones en Química Biologica
+de Cordoba, CIQUIBIC-CONICET, Facultad de Ciencias Químicas, Universidad
+Nacional de Cordoba, C  ordoba, Argentina.  4
+CIDIE-CONICET, Universidad
+Catolica de C  ordoba, C  ordoba, Argentina.  5
+Cellzome AG, Heidelberg, Germany. 6
+
+GlaxoSmithKline-Trust in Science, Global Health R&D, Upper Providence,
+Pennsylvania. 7
+GlaxoSmithKline-Trust in Science, Global Health R&D, Stevenage,
+United Kingdom.
+Note: Supplementary data for this article are available at Clinical Cancer
+Research Online (http://clincancerres.aacrjournals.org/).
+S. Carbajosa and M.F. Pansa contributed equally to this article.
+Corresponding Authors: Gaston Soria, Universidad Nacional de C  ordoba, Av.
+Haya de la Torrre s/n, Cordoba, Argentina. Phone/Fax: 54-351-5353850, ext.
+55316; E-mail: gsoria@fcq.unc.edu.ar; and Vanesa Gottifredi, IIBBA, Fundacion
+Instituto Leloir, CONICET, Av. Patricias Argentinas 435, C1405 BWE, Buenos
+Aires, Argentina. E-mail: VGottifredi@leloir.org.ar
+Clin Cancer Res 2019;25:4049–62
+doi: 10.1158/1078-0432.CCR-18-3516
+2019 American Association for Cancer Research.
+
+Clinical
+Cancer
+Research
+
+www.aacrjournals.org 4049Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+human cancers, there is a major need to develop new targeted
+therapies that exploit such deficiencies from different angles. This
+is also particularly relevant given that many types of resistance
+mechanisms to PARPi are already being described (8).
+In a cancer therapy context, synthetic lethality (SL) can be
+defined as the selective toxicity triggered by a given treatment on
+a cancerous cell with a given genetic defect in comparison with the
+healthy cells of the patient. Despite its great potential (9), SL
+remains largely unexploited in cancer drug discovery. This could
+be attributed, at least in part, to the lack of suitable screening
+technologies that comprehensively cover critical variables for SL
+induction, such as: (i) sufficient experiment length for SL to
+manifest; (ii) isogenicity between the cell lines compared, to
+unequivocally attribute the SL induction to a given genetic defect;
+(iii) broad coverage of the cell lines heterogeneity, to avoid
+misleading conclusions due to clonal events; (iv) high sensitivity
+and comparability, to unveil small differences in cell survival
+between the cell lines compared in the screening. Most of the
+survival assays currently used for cancer drug discovery are based
+on metabolic readouts such as ATP levels. Because these methods
+involve measuring technologies with great throughput capacity,
+they have become the gold standard for high-throughput screenings.
+However, such technologies have several biology-related
+setbacks that make them unsuitable for SL-based screenings. For
+instance, metabolic readouts show poor correlation with the
+absolute number of cells and become less sensitive when cells
+reach high confluence in long-term assays (10–12). Moreover,
+these methods do not provide information at single-cell level.
+Thus, all comparisons must be performed between different
+wells/plates, with a substantial increase in variability and loss of
+comparability and sensitivity.
+In this article, by combining fluorescent tagging, lentiviral
+transduction of shRNAs against BRCA1 and BRCA2 and highthroughput
+flow cytometry, we developed an SL-based phenotypic
+screening assay, which tackles all the critical points mentioned
+above. Then, we used our assay to screen the second
+generation of a public library of 680 kinase inhibitors (PKIS2).
+We found that the inhibition of Polo-like kinase 1 (PLK1) triggers
+strong SL in BRCA1-deficient cancer cells. Because PLK1 is a
+central kinase for mitotic progression that is currently under
+clinical investigation (13), our results put forward valuable
+evidence for positioning PLK1 inhibitors in patients' groups
+characterized by alterations in BRCA1 expression.
+
+Materials and Methods
+DNA constructs and shRNA
+iRFP-C1 was a gift from Michael Davidson and Vladislav
+Verkhusha (National Magnetic High Field Laboratory, Tallahassee,
+FL; Addgene plasmid #54786; ref. 14); shBRCA1
+(TRCN0000010305, Sigma-Aldrich) was cloned into pLKO.1-
+TRC vector through EcoRI and AgeI restriction sites; and
+shSCR-pLKO.1 was described previously (15). shSCR-plenti
+(TR30021) and shPLK1-plenti (TL320457 A) were acquired from
+Origene. pDRGFP and pCBASceI were a gift from Maria Jasin
+(Memorial Sloan Kettering Cancer Center, New York, NY; ref. 16).
+
+Antibodies
+Primary antibodies used were as follows: a-BRCA1 (Oncogene
+Research-Ab1); KU70 (#ab3114); a-PLK1 (#4513S); a-Tubulin
+(#T9026); g-tubulin (Sigma-Aldrich); phalloidin-Alexa Fluor 488
+(Molecular Probes); a gH2AX Ser 139, Upstate (Millipore, clone
+JBW301); a 53BP1 (#SC-22760), a-pPLK1T210 (#9111). Secondary
+antibodies used were goat a-mouse IRDye 680RD and goat
+a-rabbit IRDye 800CW from LI-COR Biosciences; a-mouse/
+rabbit–conjugated Cy2/Cy3 antibodies (Jackson ImmunoResearch).
+Nuclei were stained with DAPI (Sigma).
+
+Cell lines and cell culture
+HCT116p21/ cells were kindly provided by Bert Vogelstein
+(Johns Hopkins Medicine, Baltimore, MD). V-C8 cell lines were
+supplied by Bernard Lopez (Institut Gustave Roussy, Villejuif,
+France). All the remaining cells used in this study were obtained
+from ATCC. Cell culture was performed in DMEM medium
+(Thermo Fisher Scientific) supplemented with 10% FBS (GIBCONZ)
+and 1% penicillin/streptomycin. Control for Mycoplasma contamination
+was performed periodically with a PCR-based method
+with internal loading control. Cell lines were used for experimentation
+for no more than 20 passages from the main frozen stock.
+
+Generation of fluorescent-tagged stable cell lines
+Transfection protocols were performed using JetPrime
+(Polyplus-transfection) according to the manufacturer's
+instructions. Multiple rounds of cell sorting (3–5) were performed
+(FACS Aria II, BD Bioscience). The lentiviral titer was
+determined by serial dilution and transduction of HCT116
+stably expressing iRFP cells followed by scanning using Odyssey
+CLX System (LI-COR Biosciences). The minimum lentiviral
+titer that promoted maximum survival of the transduced cells
+after puromycin selection was determined. From the point of
+maximum survival after puromycin addition, increasing lentiviral
+titers were used. The points that show the higher downregulation
+BRCA1 and BRCA2 by qPCR and Western blotting,
+yet keeping similar proliferation rates to the shSCR-transduced
+cell lines, were selected for the screening. The entire screening
+phase was performed with cells that did not exceed 5 passages
+after transduction to avoid the positive selection of cells with
+higher BRCA levels.
+
+Protein analysis
+For direct Western blot analysis, samples were lysed in
+commercial Laemmli Buffer (Bio-Rad) with reducing agent
+2-mercaptoethanol. The detection and quantification were performed
+with Odyssey CLX System (LI-COR Biosciences) using the
+proprietary Image Studio Software.
+
+Translational Relevance
+
+In this work, we unveiled a strong synthetic lethal interaction
+between the mitotic kinase PLK1 and the tumor suppressor
+BRCA1. We confirmed the selective cytotoxicity of PLK1 inhibition
+by developing in vitro and in vivo models that emulate
+the coexistence of healthy BRCA1-proficient cells and BRCA1-
+deficient cancer cells found in patients. These results were
+extended by the clinical finding that tumors with low-BRCA1
+expression, which are mostly basal like and triple negative for
+hormone receptors, depict the highest levels of PLK1 expression.
+Given that PLK1 inhibitors are currently being studied in
+late-stage clinical trials, these preclinical and clinical discoveries
+stimulate the design of clinical studies considering the BRCA1
+status of patients as a marker of therapeutic response.
+
+Carbajosa et al.
+
+4050 Clin Cancer Res; 25(13) July 1, 2019 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+qRT-PCR
+tRNA was isolated using TRIzol reagent. Reverse transcription
+was performed and BRCA2 mRNA levels were measured with
+forward,-50
+-AGGGCCACTTTCAAGAGACA30 and reverse,50
+TAGTTGGGGTGGACCACTTG30
+primers using the iQ SYBR Green
+Supermix (Invitrogen). Relative expression levels were normalized
+to GAPDH.
+
+HR analysis
+We used an HR assay generated previously in U2OS cells
+containing an integrated HR reporter substrate DR-GFP (16) with
+some modifications described previously (17).
+
+Cell-cycle analysis and apoptosis assay
+For cell cycle, cells were prepared as described previously (17).
+Stained samples were subjected to FACS and data were analyzed
+using FlowJo Software (FlowJo LLC). Cell apoptosis was detected
+using the Annexin V Apoptosis Detection Kit (sc-4252 AK, Santa
+Cruz Biotechnology).
+
+Immunostaining and microscopy
+Cells were fixed in 2% (w/v) paraformaldehyde (PFA)/2%
+sucrose and permeabilized with 0.1% (v/v) Triton X-100 in PBS.
+Blocking during 2 hours at room temperature in PBS 2% (v/v)
+donkey serum (Sigma) was performed. Coverslips were incubated
+for 1 hour in primary antibodies and then 1 hour in secondary
+antibodies. Images were obtained with an inverted fluorescence
+microscope (LEICA DMI8).
+
+Chromosomal aberration analysis
+Metaphase chromosome spreads were performed according to
+described protocols (18). Samples were analyzed in an Applied
+Imaging Cytovision 3.7. 50 metaphase spreads were used to
+quantify chromosomal gaps, breaks, and exchanges.
+
+Micronucleus assay
+Cells seeded at low density were treated. After 24 hours, cells
+were incubated with cytochalasin B (4.5 mg/mL, Sigma), and
+micronucleus (MN) determination was performed as described
+previously (19).
+
+Clonogenic assays
+Cells were plated in 24-well plates at seeding density of 2  104
+cells per well and then treated for 6 days. The remaining cells were
+trypsinized, counted, and seeded at extremely low density in 24-
+well plates. After 10 days of culture, the media was removed, and
+crystal violet staining solution was added for colony visualization.
+The surviving fraction was determined as described in (20).
+
+Generation of chimeric spheroids
+The spheres were formed from an equimolar mixture of cells
+(750 of each cell line) using the hanging drop system of Perfecta3D
+96-well plates (3D Biomatrix). The partial medium exchange was
+made every alternate day. After treatment, the spheres were harvested
+via air displacement and incubated with 0.25% trypsin for 5
+minutes and disintegrated mechanically. After the washing step,
+the cells were acquired in FACSCanto II (BD Bioscience).
+
+Double tumor xenograft model
+A total of 1.5  106 cells were injected into each flanks of 6- to
+8-week-old nude mice using a G27 syringe. When tumors reached
+
+approximately 50 to 100 mm3
+, animals were randomized
+into treatment and control groups of 5 mice each. Volasertib
+was diluted in ethanol, resuspended in 0.5% natrosol 250
+hydroxyethyl-cellulose, and administered intragastrally via
+gavage needle. The animals were weighed, and tumor volumes
+were determined thrice a week using an Electronic Caliper
+(Mitutoyo). The results were converted to tumor volume
+(mm3
+) by the formula length  width2  p/6. Ulcerations
+that appeared in the fast-growing control tumors after day
+14 were treated daily using povidone–iodine. At day 21 (tumor
+volume  1,000 mm3
+), mice were euthanized. Protocol
+approved by CICUAL-UNC.
+
+MDA-436 double tumor xenograft model
+A modified protocol from (21) was used. Briefly, 5  106 MDA436
+cells in a final volume of 100 mL of 50% complete media þ
+50% Matrigel were xenografted into each of the fourth mammary
+gland of 6- to 8-week-old nude mice using a G27 syringe. When
+tumors reached an average size between approximately 50 to
+100 mm3
+, animals were randomized into treatment and control
+groups. Protocol approved by CICUAL-UNC.
+
+Statistical analysis
+Graphs and statistical analysis were performed using GraphPad
+Prism 5.0 (GraphPad Software), applying the Student t test and
+ANOVA test as appropriate.
+
+Results
+Development of a survival screening method to identify SL
+interactions in BRCA1- and BRCA2-deficient backgrounds
+To identify novel SL interactions in BRCA-deficient contexts,
+we developed a phenotypic screening pipeline using highthroughput
+flow cytometry. We generated stable cell lines
+tagged with fluorescent proteins that express shRNAs against
+BRCA1 and BRCA2 (Fig. 1A). The knockdown approach using
+lentiviral shRNA allowed us to work with transduced cellular
+pools that avoid the bias of clonal selection yet keeping isogenicity.
+The BRCA1 and BRCA2-deficient cell lines used in the
+screening were generated by selecting a lentiviral transduction
+titer that caused substantial knockdown, but without affecting
+the proliferation proficiency (Fig. 1B). This is a critical issue,
+because a hallmark of our screening platform is that BRCAdeficient
+and BRCA-proficient cells are cocultured in the same
+well. As such, each well behaves as a single screening unit with
+an internal control (shSCR), allowing the assessment of SL in
+both BRCA-deficient populations simultaneously (Fig. 1A). The
+three cell lines are cocultured together for 6 days in the presence
+of the tested compounds (Fig. 1C, left). The final readout is the
+total cell number of each cell population, which is determined
+by acquiring the complete well using an acoustic flow cytometer.
+Three types of outcomes are possible for every tested
+compound: (i) nontoxic, (ii) toxic but not selective, and (iii) SL
+(Fig. 1C, right). To calibrate the sensitivity of the platform we
+performed dose–response experiments using the PARPi olaparib
+(Fig. 1D). In addition, to promote the identification of
+compounds, we added an ultra-low dose of camptothecin as a
+sensitizer in the culture media (0.1 nmol/L CPT). We confirmed
+that while such a low amount of CPT did not impair the
+survival of BRCA-proficient and BRCA-deficient populations,
+
+PLK1 Inhibition Is Synthetic Lethal in BRCA1-Deficient Cells
+
+www.aacrjournals.org Clin Cancer Res; 25(13) July 1, 2019 4051Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+it promoted SL induction at doses of olaparib that do not
+induce SL as a mono drug (Supplementary Fig. S1A).
+After evaluating various cell lines, we selected HCT116p21/
+cells as the optimal parental cell line for this platform. Two main
+factors were considered for this choice. First, this cell line proved
+
+to be amenable for culture from high dilution factors and for
+several days, reaching uniform confluence in a 96-well format.
+Second, this cell line showed the strongest SL response to olaparib
+when BRCA1 or BRCA2 was downregulated by lentiviral shRNA
+(Fig. 1D; Supplementary Fig. S1B). Because the lack of p21
+
+Figure 1.
+Phenotypic screening platform to simultaneously search for SL interactions with BRCA1 and/or BRCA2. A, Layout of the generation of the double stable cell lines
+tagged with different fluorescent proteins (CFP, iRFP, and mCherry) and expressing shRNAs for BRCA1 or BRCA2. The screening assay consists in the coculture
+of these isogeneic BRCA-proficient and BRCA-deficient cell lines in equal proportions using a 96-well plate format. B, Protocol used to titrate the shRNA lentiviral
+preparations. Serial dilutions of the supernatant containing the lentivirus were used to transduce HCT116p21/ cells stably expressing iRFP (the white square
+highlights the puromycin dose of maximum survival from which the stable cell lines are generated). The downregulation reached for BRCA1 and BRCA2 is shown
+by Western blot and qPCR, respectively. C, Timeline of the screening protocol and the three types of responses observed for the tested compounds: nontoxic
+(the absolute number of cells and the ratio between the populations' percentage remains unchanged); not selective toxicity (the absolute number of cells from
+each population decreases, but the ratio remains unchanged); and SL (the ratio between populations' percentage is altered, with selective toxicity in the
+BRCA1- and/or BRCA2-deficient populations). D, Calibration of the screening platform with a dose–response curve of the PARPi olaparib, which was used as
+positive control of SL induction in the screening plates. The gray squares highlight the optimal SL doses of olaparib, which induce the maximum survival
+difference between the shBRCA and the shSCR cell lines. Data plotted as mean and SD of three independent experiments. Statistical analysis was performed
+using two-way ANOVA with Bonferroni posttest (, P  0.001).
+
+Carbajosa et al.
+
+4052 Clin Cancer Res; 25(13) July 1, 2019 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+attenuates G1/G2 checkpoints (22), these cells are prone to enter
+an apoptotic program, avoiding the prolonged p21-dependent
+cell-cycle arrest that could mask an SL condition in the time frame
+of the experiment. For screening purposes, hits were defined by a
+variation greater than 5 SDs on two survival-related values: (i) fold
+of SL induction: calculated from the ratios of the different populations
+within the same well and (ii) survival difference: calculated
+from the differential survival when comparing a given treatment
+to the untreated wells from the same plate. A detailed example
+illustrating the calculation and implications of these values is
+shown in Supplementary Fig. S1D.
+
+SL screen targeting the human kinome
+With the aim of discovering novel druggable pathways to treat
+BRCA-deficient cancers, we screened a library of kinase inhibitors
+provided by GlaxoSmithKline (PKIS2: The Public Kinase Inhibitor
+Set #2). This library comprises 680 ATP-competitive inhibitors
+with a broad coverage of the human kinome (23, 24). To
+minimize the pleiotropic effect of ATP-competitive inhibitors
+(25), we performed the screening at a low dose (0.1 mmol/L).
+Strikingly, we found that 10 PLK1 inhibitors (PLKi) induced
+potent SL in the BRCA1-deficient population (Fig. 2A; Supplementary
+Table S1). Remarkably, one PLK1i (GSK978744A)
+induced even a higher fold of SL induction and survival difference
+than the optimal dose of olaparib, highlighting its high selectivity
+and low unspecific toxicity at this dose (Fig. 2A). Early validation
+experiments using the 10 hits plus other PLK1i available in the
+PKIS2 library allowed us to rank the Top 6 PLKi by their optimal
+doses of SL induction (Fig. 2B). Three of them (GSK978744A,
+GSK483724A, and GSK580432A) showed an SL induction capacity
+similar to the optimal dose of olaparib (Fig. 2B) and were
+therefore selected for validation experiments. Noteworthy, at
+higher doses of each inhibitor the SL induction range is lost due
+to the increase in unspecific toxicity (Fig. 2C), as we also observed
+for olaparib (Fig. 1D). Moreover, the sensitization with CPT was
+not necessary for SL induction, thus demonstrating that PLK1
+inhibition alone suffices to induce SL in BRCA1-deficient backgrounds
+(Fig. 2D).
+
+Validation of PLK1 inhibition as an SL trigger in BRCA1-
+deficient cellular models
+To discard the possibility that the SL induction could be related
+to the coculture conditions of shSCR and shBRCA1 cells, we
+performed SL induction experiments in which each isogenic cell
+line was cultured in separate wells (Fig. 2E). As a second pharmacologic
+approach we used a PLK1 inhibitor from Boehringer
+Ingelheim (BI-6727: volasertib), which is currently in phase III
+clinical trials (26). Using this drug in the nanomolar range, we
+confirmed the results obtained using the PLK1 inhibitors from
+GSK. Volasertib SL-inducing activity peaked at 6 days posttreatment
+in a dose range between 5 and 10 nmol/L, where cytotoxicity
+was found almost exclusively in the BRCA1-deficient population
+(Fig. 2F and G).
+We next validated volasertib in multiple breast cancer backgrounds.
+Using lentiviral vectors expressing shRNAs for BRCA1,
+we first transduced T47D cells (Fig. 2H). We also compared
+nonisogenic BRCA1-KO (MDA-436) versus BRCA1-WT (MDA231)
+cell lines (27) and isogenic HCC1937 BRCA1-KO versus
+its complemented counterpart (Fig. 2H). We found that PLK1
+inhibition was more toxic in all the BRCA1-deficient backgrounds,
+in particular, in KO cells (Fig. 2H). Remarkably, SL
+
+induction after volasertib treatment was also observed in other
+type of cancer cells such as ovarian cancer cells and osteosarcoma
+cells, and even in nontumoral mouse embryonic fibroblasts
+expressing shRNAs for BRCA1 (Supplementary Fig. S2A).
+An additional line of evidence was obtained using a genetic
+approach in which instead of inhibiting PLK1, we downregulated
+PLK1 expression using lentiviral shRNAs. With this method,
+we also observed induction of SL in BRCA1-deficient cells
+(Fig. 2I).
+Importantly, most of the experiments previously described to
+investigate the SL interaction between BRCA1 and PLK1 were
+also performed using isogenic BRCA2-deficient backgrounds
+(Supplementary Fig. S2B–S2F). From these experiments we
+concluded that while PLK1 inhibition triggers mild SL in
+BRCA2-deficient cells, this effect is much more robust in
+BRCA1-deficient cells. Using the direct repeats assays (DR-GFP)
+from Maria Jasin's Lab, we concluded that the knockdown of
+BRCA1 and BRCA2 led to the impairment of HR (Supplementary
+Fig. S2G), which is in line with their similar SL response to
+olaparib (Fig. 1D). Moreover, we also observed that volasertib
+treatment within the dose range that triggers SL does not impair
+HR efficiency (Supplementary Fig. S2H). Taken together, these
+data suggest that the HR impairment induced by the downregulation
+of BRCA1 and BRCA2 is not the SL trigger associated
+to PLK1 inhibition, but more likely an independent function of
+BRCA1. Therefore, we focused the following experiments in
+BRCA1-deficient models.
+
+BRCA1 downregulation leads to aberrant transition through
+M-phase after PLK1 inhibition
+Because of its central role in regulating several factors that
+promote mitotic progression, PLK1 inhibition causes a robust
+arrest in M-phase (28). Thus, we decided to evaluate whether
+the observed SL was associated to alterations in the robustness
+of the M-phase arrest in BRCA1-proficient versus BRCA1-
+deficient cells. We hypothesized that PLK1 inhibition could
+trigger a stronger G2–M arrest in BRCA1-deficient cells, which
+could, in turn, trigger SL. However, our results revealed a
+different scenario. Cell-cycle analysis by flow cytometry at 6
+days posttreatment showed that the accumulation of BRCA1-
+deficient cells in G2–M was similar, or even attenuated, within
+the dose range of volasertib that triggers SL induction (Fig. 3A;
+Supplementary Fig. S3A). However, the slow recovery of BRCAdeficient
+cells from the G2–M arrest correlated with a concomitant
+increase in the sub-G1 population (Fig. 3A; Supplementary
+Fig. S3A) and with the induction of apoptosis/necrosis,
+which was evaluated using Annexin V/propidium iodide (PI)
+staining (Fig. 3B). Given that both shSCR and shBRCA1 cells
+grow at equivalent rates (Fig. 1C), these results suggest that the
+deficiency in BRCA1 expression generates a disadvantage to
+transition across M-phase in the context of PLK inhibition.
+Interestingly, experiments using the well-characterized mitotic
+poisons nocodazole and colcemide showed that these drugs
+also induced SL in BRCA1-deficient cells (Fig. 3C), hence
+reinforcing the notion that BRCA1-depleted cells display an
+impaired ability to recover from M-phase arrest. However, these
+drugs induced a much weaker SL response in comparison with
+the one triggered by PLK1 inhibitors. Thus, we concluded that
+the SL induction triggered by PLK1 inhibition could not be
+attributed simply to the strength of the G2–M-phase arrest, but
+more likely to an altered G2–M transition.
+
+PLK1 Inhibition Is Synthetic Lethal in BRCA1-Deficient Cells
+
+www.aacrjournals.org Clin Cancer Res; 25(13) July 1, 2019 4053Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+Carbajosa et al.
+
+4054 Clin Cancer Res; 25(13) July 1, 2019 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+To evaluate which mitotic progression features could be differentially
+altered in BRCA1-deficient cells, we investigated previous
+reported roles for BRCA1 in mitotic progression. We found
+several reports indicating that BRCA1 is involved in centrosomal
+duplication (29–37). Because PLK1 has complementary roles in
+this process (38), we decided to evaluate the centrosomal number
+and distribution in PLK1-inhibited cells. Strikingly, we found that
+PLK1 inhibition leads to the accumulation of giant multinucleated
+cells with large aggregates of centrosomes that systematically
+locate in the cellular center (Fig. 3D; Supplementary Fig. S3B).
+These results indicate that PLK1 inhibition causes aberrant mitosis,
+promoting the finalization of karyokinesis without the completion
+of cytokinesis.
+A hypothesis that derived from the additive contribution
+observed between BRCA1 knockdown and PLK1 inhibition in
+mitotic progression was that the surviving multinucleated cells
+should present a low remnant proliferative capacity. Thus, we
+performed clonogenic experiments by replating the cells that
+survive to 6 days of treatment with volasertib or olaparib
+(Fig. 3E). As expected, we observed that BRCA1-deficient cells
+treated with volasertib displayed a lower clonogenic potential
+than BRCA1-proficient cells, a similar result to that observed for
+olaparib (Fig. 3E).
+
+SL induction by PLK1 inhibition is not associated with acute
+replication stress and genomic instability
+Our previous results suggested that PLK1 could be positioned
+as an alternative to PARP inhibition to selectively target
+BRCA1-deficient cells. Thus, we decided to evaluate whether
+PLK1 inhibition also increases genomic instability of BRCA1-
+deficient cells, as it is well known for PARPi (39, 40). Initially,
+we evaluated two widely used markers of DNA damage, namely
+gH2AX and 53BP1 foci formation. As a positive control, we
+used olaparib. Surprisingly, volasertib did not induce foci
+formation even at the higher doses where it triggers SL induction
+(Fig. 4A; Supplementary Fig. S4). Thus, we thought that
+volasertib might not activate an acute DNA damage response
+but could induce lower levels of DNA damage, which require a
+more sensitive readout. Therefore, we decided to perform
+cytogenetic analyses to search for chromosomal aberrations
+associated with the generation of single- and double-strand
+breaks, namely chromosomal gaps/breaks and exchanges. We
+observed that while olaparib treatment substantially increased
+the number of breaks and exchanges/metaphase, volasertib did
+
+not increase the basal proportion of any type of chromosomic
+aberrations (Fig. 4B). A similar result was obtained using a
+micronuclei assay, where the number of micronuclei increased
+after olaparib treatment, but not after volasertib (Fig. 4C).
+Together, these results indicate that the mechanism of SL
+induction triggered by PLK1 inhibition is different to the one
+of olaparib, which might position volasertib as a therapeutic
+alternative to target BRCA-deficient cancers.
+
+PLK1 triggers SL in a model of BRCA1þ/BRCA1 chimeric
+spheroids
+To investigate deeper into the therapeutic potential of PLK1
+inhibition in BRCA-deficient cancers, we developed a three
+dimensional (3D) cell culture model. We generated chimeric
+spheroids by mixing equal amounts of BRCA1-proficient and
+-deficient cells tagged with fluorescent proteins. Established
+spheroids were treated with volasertib for 6 days and then
+mechanically disaggregated and analyzed by flow cytometry
+(Fig. 5A), using the same survival parameters selected for the
+screening pipeline (Supplementary Fig. S1D). Unexpectedly, a
+marked increase in the proportion of BRCA1-deficient cells was
+observed in the untreated spheroids, thus suggesting that
+BRCA1 deficiency provides a proliferative advantage in this
+type of 3D models (Supplementary Fig. S5A). Nonetheless, the
+analysis of the relative survival allowed us to conclude that the
+treatment with olaparib and volasertib induces a comparable
+SL response in BRCA1-deficient cells (Fig. 5B). Olaparib-treated
+spheroids were similar in size than spheroids treated with
+high doses of volasertib, but the latter were less compact and
+more prone for disruption of the outer layers (Fig. 5C; Supplementary
+Fig. S5C). We also observed that spheroids were
+much more resistant to higher doses of volasertib than cell
+monolayers, depicting a clear dose–response behavior when
+analyzing the internal percentages of both cell populations in
+each pool of spheroids as independent experimental units
+(Supplementary Fig. S5B).
+
+Development of an animal model to study SL induction
+in vivo
+The data obtained using in vitro models prompted us to investigate
+whether the SL induction also takes place in vivo. The
+complexity to address this issue relies on the fact that PLK1
+inhibition per se has an antitumoral effect (13), showing strong
+cytotoxic activity independently of the BRCA1 status (see higher
+
+Figure 2.
+PLK1 inhibition is SL with BRCA1 deficiency. A, Screening results with the PKIS2 library from GlaxoSmithKline. The graph shows the fold of SL
+induction and the survival difference after the treatment with 680 kinase inhibitors in the BRCA1-deficient population. Olaparib 100 nmol/L was used as positive
+control in each screening plate. Ten PLK1 inhibitors were identified as hits using the criteria of more than 5 SDs in any of the variables. The most potent PLK1
+inhibitor, GSK978744A, is highlighted within a red square. Z prime analysis was performed as Z¼ 1–3(sp þ sn)/|mp – mn|, where "p" is olaparib survival
+difference and "n" is the survival difference of the nontreated samples. B, Early dose–response validation with all the PLK1 inhibitors available in the library. The
+table shows the top 6 inhibitors and the optimal dose at which they induce the highest survival difference (Surv Diff) between isogenic BRCA1-proficient and
+BRCA1-deficient cells. Olaparib is depicted for comparative purposes. C, Full dose–response experiments with the top 3 PLK1 inhibitors in HCT116p21/ cells,
+showing the survival of the isogenic shBRCA and shSCR cell lines. D, SL induction with GSK978744A in BRCA1-deficient cells with or without the addition of 0.1
+nmol/L CPT as a sensitizer. E, SL induction with GSK978744A using shSCR and shBRCA1 cells in coculture, as in the screening assay, or as monoculture in parallel
+wells. F, Dose response SL induction with a commercial PLK1 inhibitor, volasertib (BI-6727), in coculture of HCT116p21/. G, Dose response using volasertib in a
+time course monoculture experiment from 3 to 6 day endpoints, showing the survival difference between shBRCA1 and shSCR cells. H, Validation of the SL
+response to volasertib using three pairs of breast cancer cell lines in monoculture experiments: T47DshSCR versus T47DshBRCA1, MDA-231BRCA1-WT versus MDA436BRCA1-KO,
+and HCC1937BRCA1-KO versus HCC1937BRCA1-C. I, Protocol of shRNA-mediated knockdown of PLK1 in HCT116p21/ cells. The Western blot (WB) on
+the central panel shows equivalent levels of PLK1 knockdown reached in shSCR and shBRCA1 cells. Bottom, decreased survival observed in BRCA-deficient
+cells after the downregulation of PLK1. Survival was calculated by the total cell count in each well after PLK1 knockdown for 72 hours. Statistical analysis was
+performed using two-way ANOVA with Bonferroni posttest (, P  0.001;  , P  0.01).
+
+PLK1 Inhibition Is Synthetic Lethal in BRCA1-Deficient Cells
+
+www.aacrjournals.org Clin Cancer Res; 25(13) July 1, 2019 4055Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+Carbajosa et al.
+
+4056 Clin Cancer Res; 25(13) July 1, 2019 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+Figure 4.
+Volasertib does not induce DNA
+damage or chromosomic
+aberrations at SL doses. A,
+HCT116p21/ shSCR and shBRCA1
+cells were treated with volasertib or
+olaparib. Forty-eight hours later,
+immunostaining with 53BP1 and
+gH2AX antibodies was performed.
+The percentage of cells with foci for
+these two DNA damage markers
+was quantified using fluorescence
+microscopy (magnification: 100).
+Only nuclei with more than 5 foci of
+53BP1 were quantified as positive.
+Cells with more than 35 gH2AX focal
+structures were considered positive.
+At least 300 cells per condition were
+analyzed. Statistical analysis was
+performed using two-way ANOVA
+with Bonferroni posttest (, P
+0.001). B, HCT116p21/ BRCA1-
+proficient and -deficient cells were
+submitted for cytogenetic analysis
+48 hours after the treatment with
+volasertib or olaparib. The frequency
+of gaps, breaks, and exchanges was
+calculated after analyzing a
+minimum of 70 metaphases per
+condition. C, HCT116p21/ BRCA1-
+proficient and -deficient cells were
+treated for 24 hours using volasertib
+or olaparib and were arrested at a
+binucleated stage using cytochalasin
+B. The frequency of micronuclei was
+estimated using DAPI staining and
+fluorescence microscopy
+(magnification: 100), analyzing a
+minimum of 300 binucleated cells
+per condition. Two-tailed unpaired
+t test was used (, P  0.001;  : P  0.01).
+
+Figure 3.
+The combination of PLK1 inhibition and BRCA1 deficiency triggers aberrant mitotic transition and leads to decreased clonogenic potential. A, DNA content
+profiles using propidium iodide (PI) to compare the cell-cycle progression of HCT116p21/ shSCR and shBRCA1 cells treated with volasertib. B, Quantification of
+apoptosis/necrosis induction of HCT116p21/ shSCR and shBRCA1 cells stained with Annexin V-FITC and PI after treatment with the optimal SL dose of volasertib
+(7.5 nmol/L). C, Dose–response experiment that shows the SL induction triggered by the mitotic poisons nocodazole and colcemide in BRCA1-deficient cells.
+Left, control of the M-phase arrest triggered by 10 ng/mL nocodazole. Statistical analysis was performed using two-way ANOVA with Bonferroni posttest
+(, P  0.001). D, shSCR and shBRCA1 HCT116p21/ cells were treated with DMSO or volasertib. Six days later, immunofluorescences were performed using
+g-tubulin (red) to stain the centrosomes, phalloidin (green) to delimitate the cytoplasm, and DAPI to stain the nuclei. Images were taken with an inverted
+fluorescence microscope (magnification: 60). Right, the quantification of cells with more than 3 nuclei (or two nuclei with a single centrosome) for each
+condition is shown at both 5 and 7.5 nmol/L of volasertib. At least 1,000 cells per condition were analyzed. Statistical analysis was performed using two-way
+ANOVA with Bonferroni posttest (, P  0.001). E, Left, summary of the protocol used to evaluate the clonogenic potential of the surviving population to
+volasertib treatment in HCT116p21/ shSCR and shBRCA1 cells. An example of 1 plate for each condition stained with crystal violet is depicted. Right, the
+quantification of the surviving fraction of three independent experiments. Two-tailed unpaired t test (, P  0.001; , P  0.05).
+
+PLK1 Inhibition Is Synthetic Lethal in BRCA1-Deficient Cells
+
+www.aacrjournals.org Clin Cancer Res; 25(13) July 1, 2019 4057Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+Carbajosa et al.
+
+4058 Clin Cancer Res; 25(13) July 1, 2019 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+doses of PLK1i in Fig. 2C, F, and H). Given that our goal was to
+demonstrate in vivo that BRCA1 deficiency increases the cellular
+sensitivity to PLK1 inhibition and triggers SL, we developed an
+animal model to evaluate such differential sensitivity. Although a
+possibility would be to compare the sensitivity to PLK1
+inhibition using isogenic cell lines in different mice, we
+hypothesized that the maximum comparability would be
+reached using single mice as experimental units. Thus, we
+established a xenograft model where two different types of
+isogenic cells (BRCA-proficient and BRCA-deficient) were
+injected to each flank of the same mouse (Fig. 5D). As such,
+each mouse bears two parallel tumors that only differ in their
+BRCA1 expression status. This protocol has the advantage that
+allows the analysis of classical tumor size at given endpoints,
+but also to estimate the growth curve of each tumor in comparison
+with the flanking tumor in the same mouse (Fig. 5D,
+right). We selected an experimental setup where volasertib was
+administered orally once a week (Supplementary Fig. S5D). We
+observed that in animals treated with vehicle both BRCA1-
+proficient and BRCA1-deficient tumors grew at similar rates
+during the entire length of the experiment (Fig. 5E and F). As
+reported, volasertib treatment at 50 mg/kg abolished tumor
+growth of HCT116 cells (shSCR in our experiment) and kept
+tumors similar to their initial size until the end of the experiment
+(Fig. 5F; Supplementary Fig. S5E; ref. 41). Strikingly
+however, BRCA1-deficient tumors were much strongly affected
+by volasertib, not only inhibiting their growth, but also showing
+remission to the point of becoming unmeasurable after 3
+weeks of treatment (Fig. 5E and F). From a therapeutic point of
+view, this was an exciting finding because it proved that BRCA1
+deficiency alone is enough to trigger increased sensibility to
+volasertib in vivo. Indeed, when we determined the ratio of
+tumor growth within each mouse, we observed that animals
+treated with vehicle always presented a ratio near to 1, indicating
+similar proliferation rates of BRCA1-proficient and
+BRCA1-deficient tumors. However, animals treated with the
+optimal reported dose of volasertib (50 mg/kg) presented a
+ratio of 0.5 at day 11 and 0.25 at the end of the experiment,
+thus underlining the differential response to the treatment
+triggered by BRCA1 deficiency (Fig. 5G). Remarkably, we
+also revealed that decreasing to half the dose of volasertib
+(25 mg/kg) suffices to induce strong SL in those mice
+(Fig. 5G; Supplementary Fig. S5F). These findings prompt us
+to explore a BRCA1-mutant breast cancer mouse model, which
+more closely resembles the features of the human disease
+
+(Supplementary Fig. S5G). We found that, like HCT116shBRCA1
+cells, MDA-436BRCA1-KO cells show high sensitivity to volasertib
+in vivo (Fig. 5H; Supplementary Fig. S5G).
+
+High PLK1 expression is observed in low-expressing BRCA1
+cells and in patients with triple-negative breast cancer
+To study the therapeutic potential of inhibiting PLK1 in
+BRCA1-deficient patients, we performed a retrospective analysis
+using The Cancer Genome Atlas database (TCGA; refs. 42–44).
+Our initial approach was to assess a potential mutual exclusion
+of BRCA1 and PLK1 tumor mutations in human breast cancers,
+which would suggest the existence of an SL interaction between
+these mutations in patients. Although a tendency to coexclusion
+was observed (Supplementary Fig. S6A), PLK1 mutants
+were extremely rare (0.2%) and therefore we could only analyze
+very small patient cohorts. Thus, we decided to study BRCA1
+and PLK1 mRNA expression patterns. We observed that while
+PLK1 and BRCA1 correlate in their expression levels, patients
+with very low levels of BRCA1 expression were characterized by
+high levels of PLK1 expression (Fig. 6A, dotted trapezoid).
+Remarkably, deeper genomic analysis revealed that approximately
+75% of low-BRCA1/high-PLK1 patients were basal-like
+according to the PAM50 subtypes (Fig. 6B) and triple negative
+for hormone receptors (Supplementary Fig. S6B), in comparison
+with approximately 18% of each subtype when the complete
+breast cancer cohort (Supplementary Fig. S6C). To further
+explore the biological relevance of the high-PLK1 expression
+observed in patients with low-BRCA1 expression, we went back
+to the isogenic pairs of cell lines used in the screening and
+during the validation phase. Our goal was to establish whether
+the knockdown of BRCA1 alone suffices to trigger an increase in
+PLK1 expression, and whether the rescue of BRCA1 expression
+in BRCA1-KO cells is able to revert the overexpression phenotype.
+Both scenarios were confirmed. Every isogenic cell pair
+submitted to shRNABRCA1 expression depicted a stable increase
+in PLK1 levels (Fig. 6C; Supplementary Fig. S6D). A more
+exacerbated phenotype was observed in the isogenic breast
+cancer cell pair HCC1937, in which the rescue of BRCA1
+expression dramatically reduced PLK1 expression levels
+(Fig. 6C). Moreover, when we studied markers of PLK1 catalytic
+activity in these cells, we found that high PLK1 levels correlate
+with increased pPLK1 and its downstream target pCDK1
+(Fig. 6D), thus indicating that these cancer cells present higher
+levels of PLK1 kinase activity.
+
+Figure 5.
+Volasertib triggers selective toxicity in chimeric spheroids and in a two xenograft in vivo models. A, Protocol used to generate chimeric spheroids. HCT116p21/
+CFP-shSCR and iRFP-shBRCA1 cells were seeded in equal numbers using a 96-well plate with hanging drop technology. Three days later, the assembly of
+chimeric spheroids was confirmed by microscopy and treatment with volasertib was performed for 6 days. Pools of 10 spheroids per condition were mechanically
+disaggregated with trypsin and analyzed by flow cytometry. B, Dose–response experiment with chimeric spheroids treated with volasertib or olaparib as a
+positive control. The relative survival of the BRCA1-proficient and -deficient populations calculated in relation to the same populations in the control spheroids
+is shown. C, Representative images of one spheroid per condition before the spheroids' processing by flow cytometry. D, Double tumor xenograft model: Human
+HCT116p21/ CFP-shSCR or iRFP-shBRCA1 cells were injected in contralateral flanks of individual mice. Once the tumors reached a size of approximately 50 mm3
+,
+volasertib or vehicle was administered orally using a gavage needle. Normalized tumor growth and the normalized ratio are calculated for each animal at
+different time points. E, Representative animals for the control, 25 mg/kg of volasertib, and 50 mg/kg of volasertib groups at the end of the double tumor
+xenograft experiment. Bottom, the extracted tumors that were also imaged with an infrared scanner to confirm that even the smallest tumors contained the
+original cells. F, Measurements of the tumor volume for the control and 50 mg/kg double tumor groups. Dotted line indicates volasertib administration days.
+Data represent the mean tumor volume  SEM (n ¼ 5). G, Normalized tumor ratio across different time points of the double tumor experiment. Statistical
+analysis was performed using two-way ANOVA with Bonferroni posttest (n ¼ 5;  , P  0.01; , P < 0.001). H, Orthotopic xenograft model: Human breast cancer
+MDA-MD-436BRCA1-KO cells were injected in mammary fat pad of nude mice. Measurements of tumor volumes for the control and 45 mg/kg volasertib–treated
+groups are shown. The dotted line indicates volasertib administration days. Data represent the mean tumor volume  SEM (n ¼ 13).
+
+PLK1 Inhibition Is Synthetic Lethal in BRCA1-Deficient Cells
+
+www.aacrjournals.org Clin Cancer Res; 25(13) July 1, 2019 4059Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+Discussion
+An unforeseen SL interaction between PLK1 and BRCA1
+Previous reports have explored functional links between PLK1
+and BRCA1. Evidence is available in both directions. On the one
+hand, PLK1 and BRCA1 have been shown to physically interact in
+cells, being BRCA1 a modulator of PLK1 kinase activity in
+response to replication stress (45). On the other hand, PLK1
+phosphorylates BRCA1 at serine 1164, modulating its doublestrand
+break repair functions (46). Although our results could be,
+in part, explained by such roles of PLK1 and BRCA1 within the
+same pathways, the fact that we observe strong SL induction both
+in BRCA1-deficient and BRCA1-KO models (Fig. 2) suggests that
+the SL trigger should be associated with compensatory BRCA1 and
+PLK1 roles that may not be circumscribed to the ones mentioned
+above. Moreover, our results with BRCA2-deficient cells and with
+the direct repeats assay (Supplementary Fig. S2) indicate that the
+observed SL is unlikely linked to the HR deficiency of these cells.
+Our hypothesis of compensatory pathways is strongly supported
+by the finding that patients with very low expression levels of
+BRCA1 display high levels of PLK1 expression (Fig. 6A). In line
+with this, it was striking to find out that the artificial knockdown of
+BRCA1 using shRNA sufficed to trigger a stable increase in PLK1
+protein levels in the cell lines generated for this study (Fig. 6C;
+Supplementary Fig. S6D). These results suggest the existence of a
+universal compensatory response to BRCA1 downregulation and
+that the SL induction observed in our experiments is linked to an
+acquired dependence/addiction to PLK1 in BRCA1-deficient cells.
+But, which might be such a compensatory function of PLK1 and
+BRCA1? Our data support the notion that the SL phenotype is
+timely linked to the progression through mitosis. On the one
+hand, PLK1 has a pivotal contribution to mitosis progression,
+participating in the mitotic entry, centrosome maturation and
+duplication cycle, and cytokinesis (28). On the other hand, critical
+
+functions for BRCA1 in the progression through mitosis have
+also been extensively characterized (47, 48). In particular, it has
+been consistently demonstrated that BRCA1 plays an important
+role in centrosome duplication, interacting with and promoting
+the ubiquitination of centrosomal g-tubulin (29–37). Our
+studies of centrosomal number and localization led to the
+identification of giant multinucleated cells with large aggregates
+of centrosomes (Fig. 3D). Interestingly, we observed that
+BRCA1-induced deficiency and PLK1 inhibition as single treatments
+lead to the increase of these aberrant phenotypes above
+the basal levels. Moreover, the combination of PLK1 inhibition
+in the dose range that triggers SL induction induces a marked
+accumulation of these phenotypes in a BRCA1-deficient background
+(Fig. 3D). Our hypothesis is that such giant multinucleated
+cells are the consequence of a survival phenotype rather
+than being a prerequisite for cell death. In fact, SL induction
+starts to clearly manifest at day 4 (Fig. 2G), while the giant cells
+are mainly observed at longer end points (Supplementary Fig.
+S3). Nonetheless, we speculate that these cells are destined to
+die, presumably by mitotic catastrophe or by cytokinesis failure
+(49). This assumption is supported by the extremely low
+clonogenic potential depicted by the surviving population
+(Fig. 3E). Together, our findings establish a strong synthetic
+essential link between PLK1 and BRCA1 that unveils a great
+therapeutic potential of inhibiting PLK1 in this type of
+malignancies.
+
+A new niche for the therapeutic inhibition of PLK1 in human
+cancers
+A great deal of effort and resources were invested during the
+past 15 years to move PLK1 inhibitors to the clinic. The FDA has
+granted the "breakthrough therapy" status to Boehringer's
+volasertib and the "Orphan Drug" designation to Trovagene's
+
+Figure 6.
+PLK1 and BRCA1 levels in patients
+with breast cancer from TCGA and
+in the isogenic cell lines used in this
+study. A, TCGA analysis showing
+that tumor samples with low-BRCA1
+mRNA expression present highmRNA
+expression levels of PLK1
+(dotted trapezoid). The complete
+TCGA provisional database was
+used for this analysis (n ¼ 1,093
+patients). B, A subset of the TCGA
+database that included information
+about the PAM50 type of tumors
+(n ¼ 521) was analyzed, and the
+PAM50 subtypes—basal like, normal
+like, luminal A, luminal B, and HER2
+enriched—were plotted. C, Western
+blot of PLK1 protein levels in
+isogenic HCT116p21/ shSCR versus
+shBRCA1, and BRCA1C versus
+HCC1937BRCA1-KO cells. D, Western
+blot showing phospho-PLK1 and
+phospho-CDK1 levels as markers of
+catalytic activity of PLK1 in
+HCC1937BRCA1-C versus
+HCC1937BRCA1-KO cells. Statistical
+analysis: two-tailed unpaired t test
+(, P  0.05;  , P  0.01).
+
+Carbajosa et al.
+
+4060 Clin Cancer Res; 25(13) July 1, 2019 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/25/13/4049/2053157/4049.pdf by guest on 14 August 2024
+PCM-075 for the treatment of acute myeloid leukemia. Given
+to its central role in mitotic coordination, PLK1 inhibition
+imposes a strong antitumoral effect in many types of cancers,
+which is highlighted by the numerous ongoing clinical trials.
+However, the housekeeping roles of PLK1 also implicate undesired
+adverse effects, which seem to be more extreme in the
+cardiovascular system (50, 51). Thus, cancers characterized by
+PLK1 overexpression (13), are likely to respond better to PLK1
+inhibitors, triggering attenuated collateral effects. The findings
+presented in this article unveil a new promising niche to exploit
+the potential of PLK1 inhibitors. Our unbiased screening
+approach revealed a dose range where PLK1 inhibitors display
+almost no cytotoxic effect in BRCA1þ cells yet inducing strong
+SL in BRCA1-deficient cells (Fig. 2). Remarkably, we have also
+developed chimeric spheroids and an animal model that
+allowed us to confirm such a differential response to PLK1
+inhibition in an in vitro 3D context and in vivo (Fig. 5). In our SL
+animal model, BRCA1-deficient tumors reached almost complete
+remission after only 3 weeks of treatment with oral
+volasertib, while tumor size remained unchanged in the BRCAþ
+tumors of the same animals (Fig. 5E and F). These thrilling
+findings point toward the design of clinical trials that consider
+BRCA1 status as a prognostic maker of therapeutic response to
+PLK1 inhibitors. Moreover, our retrospective analysis of the
+TCGA database shows that patients with triple-negative breast
+cancer (TNBC) present higher expression of PLK1 that nonTNBC
+(Supplementary Fig. S6B). This finding implies that this
+type of breast cancers, which are characterized by their limited
+therapeutic options, could benefit with therapeutic schemes
+involving PLK1 inhibition, regardless of their BRCA1 status. In
+addition, our results also position PLK1 as an alternative to
+PARPi to target BRCA1-deficient cancers. Our evidence indicates
+that olaparib and volasertib have different mechanisms of
+action (Figs. 1–4), therefore suggesting that PLK1 inhibitors
+could become a therapeutic alternative to treat BRCA1-deficient
+cancers that become resistant to PARPi. In line with this, a
+recent report proposed the combinatorial use of olaparib and
+PLK1 inhibitors to treat olaparib-resistant prostate cancer,
+independently of the BRCA1 status (52). Moreover, the absence
+of genomic instability induction by volasertib at the SL dose
+(Fig. 4) suggests that this type of treatment would induce a
+"clean" type of antitumoral response, attenuating the induction
+
+of genomic stability and delaying the acquisition of resistance
+mechanisms.
+
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+
+Authors' Contributions
+Conception and design: S. Carbajosa, K.P. Madauss, V. Gottifredi, G. Soria
+Development of methodology: S. Carbajosa, M.F. Pansa, N.S. Paviolo,
+A.M. Castellaro, A.D. Nigra, I.A. García, L. Rodriguez-Berdini, G.A. Gil,
+V. Gottifredi, G. Soria
+Acquisition of data (provided animals, acquired and managed patients,
+provided facilities, etc.): S. Carbajosa, A.M. Castellaro, B.L. Caputto,
+G.A. Gil, J.L. Bocco, V. Gottifredi, G. Soria
+Analysis and interpretation of data (e.g., statistical analysis, biostatistics,
+computational analysis): S. Carbajosa, M.F. Pansa, N.S. Paviolo,
+A.M. Castellaro, D.L. Andino, A.D. Nigra, A.C. Racca, V. Angiolini,
+L. Guantay, F. Villafanez, M.B. Federico, M.C. Rodríguez-Baili, K.P. Madauss, ~
+I. Gloger, E. Fernandez
+Writing, review, and/or revision of the manuscript: S. Carbajosa, M.F. Pansa,
+A.M. Castellaro, A.D. Nigra, A.C. Racca, I. Gloger, E. Fernandez, V. Gottifredi
+Administrative, technical, or material support (i.e., reporting or organizing
+data, constructing databases): S. Carbajosa, V. Angiolini, I. Gloger
+Study supervision: S. Carbajosa, B.L. Caputto, G. Drewes, I. Gloger,
+E. Fernandez, G.A. Gil, J.L. Bocco, V. Gottifredi, G. Soria
+Others (project coordination and administration): G. Soria
+

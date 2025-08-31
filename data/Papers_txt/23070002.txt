@@ -1,0 +1,728 @@
+Abstract
+Cellular FLICE (FADD-like IL-1β-converting enzyme)-inhibitory protein (c-FLIP) is a master anti-apoptotic regulator and resistance factor that suppresses tumor necrosis factor-α (TNF-α), Fas-L, and TNF-related apoptosis-inducing ligand (TRAIL)-induced apoptosis, as well as apoptosis triggered by chemotherapy agents in malignant cells. c-FLIP is expressed as long (c-FLIP
+L
+), short (c-FLIP
+S
+), and c-FLIP
+R
+splice variants in human cells. c-FLIP binds to FADD and/or caspase-8 or -10 and TRAIL receptor 5 (DR5) in a ligand-dependent and -independent fashion and forms an apoptosis inhibitory complex (AIC). This interaction in turn prevents death-inducing signaling complex (DISC) formation and subsequent activation of the caspase cascade. c-FLIP
+L
+and c-FLIP
+S
+are also known to have multifunctional roles in various signaling pathways, as well as activating and/or upregulating several cytoprotective and pro-survival signaling proteins including Akt, ERK, and NF-kB. Upregulation of c-FLIP has been found in various tumor types, and its silencing has been shown to restore apoptosis triggered by cytokines and various chemotherapeutic agents. Hence, c-FLIP is an important target for cancer therapy. For example, small interfering RNAs (siRNAs) that specifically knockdown the expression of c-FLIP
+L
+in diverse human cancer cell lines augmented TRAIL-induced DISC recruitment and increased the efficacy of chemotherapeutic agents, thereby enhancing effector caspase stimulation and apoptosis. Moreover, small molecules causing degradation of c-FLIP as well as decreasing mRNA and protein levels of c-FLIP
+L
+and c-FLIP
+S
+splice variants have been found, and much effort is focused on developing other c-FLIP-targeted cancer therapies. This review focuses on (1) the anti-apoptotic role of c-FLIP splice variants in preventing apoptosis and inducing cytokine and chemotherapy drug resistance, (2) the molecular mechanisms and factors that regulate c-FLIP expression, and (3) modulation of c-FLIP expression and function to eliminate cancer cells or increase the efficacy of anticancer agents. This article is part of a Special Issue entitled “Apoptosis: Four Decades Later”.
+Keywords:
+c-FLIP, apoptosis, death receptors, cancer, chemotherapyINTRODUCTION
+The FADD-like interleukin-1β–converting enzyme (FLICE)-inhibitory (c-FLIP) proteins negatively regulate the signaling complex downstream of death receptors. In this review, I discuss (1) apoptosis signaling pathways and the role of c-FLIP isoforms as critical anti-apoptotic and drug resistance factors, (2) assess the potential for improving the outcome of cancer therapy by targeting c-FLIP and exploring the possibility of increasing its degradation and/or decreasing its expression to provide a safer approach to treat cancer, and (3) discuss novel c-FLIP targeted agents for cancer therapy that improve the efficacy of TRAIL and cytotoxic drugs.APOPTOSIS SIGNALING PATHWAYS
+Apoptosis is the orderly and tightly regulated cellular programmed cell death involving signal transduction pathways that induce cells to self-destruct during embryonic development, or in response to environmental hazards (e.g., radiation-induced DNA damage) or anticancer therapeutics. Apoptosis pathways provide control against cancer development, but specific mutations enable malignant cells to escape apoptosis and lead to tumor formation. Two major well-studied pathways, the intrinsic or mitochondrion-initiated pathway and the extrinsic or cell surface death receptors pathway, are involved in apoptosis (
+Fig. 1
+) [
+1
+–
+3
+]. In the mitochondrial pathway, cytochrome
+c
+, certain caspases, apoptosis-inducing factor, Smac/DIABLO, and other apoptosis-inducing factors are released from the mitochondrial intramembrane space to the cytosol [
+4
+]. Once released, cytochrome
+c
+and dATP bind to apoptotic proteinase-activating factor-1 (Apaf-1), and this complex along with adenine nucleotides promote procaspase-9 autoactivation [
+5
+], which in turn activates caspases-2, -3, -6, -7, -8, and -10. Apoptosis triggered by various stimuli requires direct activation of Bax and BAK at the mitochondria by a member of the Bcl-2 homology domain-3 (BH3)-only family of proteins including Bid, Bim, or PUMA [
+6
+]. The various anti- and pro-apoptotic members of the Bcl-2 family form an interactive network that finally regulates the release of apoptosis triggering factors such as cytochrome
+c
+to the cytoplasm [
+7
+]. Apoptosis initiated by the endoplasmic reticulum (ER) stress signaling pathway is also mainly dependent on the release of cytochrome
+c
+into the cytosol [
+8
+]. This release is associated with opening the permeability transition pore (PTP) and a collapse of mitochondrial transmembrane potential (ΔΨ
+m
+) due to the intake of Ca
+2+
+following its release into the cytosol from the ER. Certain members of the Bcl-2 family on the ER appear to have a comprehensive function in the maintenance of ER homeostasis, participation in ER stress signal transduction pathways, and apoptosis [
+8
+].
+Open in a separate window
+Fig. 1
+Apoptosis pathways and roles of c-FLIP in preventing apoptosis. TRAIL interaction with DR4 and DR5 transduces the death receptor (extrinsic) and mithochondrial apoptosis signaling pathways through activation of caspases-8 and -10 (see the text for detailed information). c-FLIP isoforms are major anti-apoptotic proteins that suppress caspase-8 and -10 activation, and therefore prevent the downstream apoptosis cascade
+In the extrinsic or death receptor-mediated apoptosis pathway (e.g., Fas/Fas ligand interaction, tumor necrosis factor-α [(TNF-α)/TNF receptor 1 (TNFR1), or TRAIL/DR5 interaction and cell death], the initiator caspases-8 and -10 activate the downstream caspases including caspase-3 [
+9
+–
+11
+]. Active caspases-8 and -10 are known to cleave a pro-apoptotic Bcl-2 family member, Bid, and the truncated Bid induces mitochondrial cytochrome
+c
+release [
+26
+–
+29
+], thereby linking the two pathways. After activation, both caspases-8 and -9 activate caspase-3, which in turn cleaves other caspases and many cellular proteins [
+2
+,
+12
+–
+14
+]. Another pathway related to the intrinsic apoptotic pathway has also been identified [
+15
+]. In this pathway, BID is cleaved in response to several death-inducing stimuli (staurosporine, UV radiation, cycloheximide, etoposide) and this BID cleavage is blocked by Bcl-2, suggesting that degradation of BID occurred distal to cytochrome
+c
+release. Moreover, addition of cytochrome
+c
+to Jurkat post-nuclear extracts triggered cleavage of BID at Asp-59 which was catalyzed by caspase-3 rather than caspase-8. These results provide evidence that caspase-3 mediated cleavage of BID represents a feedback loop for the amplification of mitochondrial cytochrome
+c
+release during cytotoxic drug- and UV radiation-induced apoptosis [
+15
+].CELLULAR FLICE-LIKE INHIBITORY PROTEIN (C-FLIP)
+Structure of c-FLIP
+The anti-apoptotic protein c-FLIP is a death effector domain (DED)-containing protein that is recruited to the DISC and regulates activation of caspases-8 and -10 in the death receptor signaling pathways (
+Fig. 1
+). c-FLIP has 13 distinct spliced variants, three of which are expressed as proteins: the 26 kDa short form (c-FLIP
+S
+), the 24 kDa form of c-FLIP (c-FLIP
+R
+), and the 55 kDa long form (c-FLIP
+L
+) [
+16
+–
+18
+] (
+Fig. 2
+). The structures of c-FLIP
+S
+and the viral v-FLIP proteins are similar, except that the two DEDs of c-FLIP
+S
+are followed by 20 amino acids that appear to be crucial for its ubiquitaation and targeting for proteasomal degradation [
+11
+,
+16
+–
+18
+]. c-FLIP
+R
+also contains two DEDs but lacks the additional carboxy (C)-terminal amino acids that are present in c-FLIP
+S
+. The C-terminus of c-FLIP
+L
+is longer than that of c-FLIP
+S
+and closely resembles the structure of caspases-8 and -10 [
+11
+,
+16
+–
+18
+], but this region of c-FLIP
+L
+does not contain a functional caspase domain. This lack of caspase activity is the result of several amino acid substitutions, particularly the crucial cysteine residue in the catalytic domain which is necessary for the catalytic activity of caspases [
+11
+,
+16
+]. Additionally, c-FLIP
+L
+has a caspase-8 cleavage site at position Asp-376 (LEVD); c-FLIP
+L
+cleavage at this site produces the proteolytic fragment variant p43c-FLIP [
+11
+,
+16
+–
+18
+]. The C-terminal region of c-FLIP
+S
+and c-FLIP
+R
+play a crucial role in ubiquitnation and degradation as well as the anti-apoptotic function of these isoforms [
+11
+,
+16
+–
+18
+]. In humans, the decision to make c-FLIP
+S
+or c-FLIP
+R
+is defined by a single nucleotide polymorphism in a 3′ splice site of the c-FLIP gene. An intact splice site directs production of c-FLIP
+S
+, but the splice-dead variant causes production of c-FLIP
+R
+[
+19
+]. Because of differences in protein translation rates, higher levels of c-FLIP
+S
+protein are produced compared with c-FLIP
+R
+[
+19
+]. The three c-FLIP variants can interact with the adaptor protein FADD.
+Open in a separate window
+Fig. 2
+Structures of c-FLIP variants. Three c-FLIP variants, c-FLIP
+L
+, c-FLIP
+S
+, and c-FLIP
+R
+, contain two death effector domains (DEDs) at their N termini. In addition to two DEDs, c-FLIP
+L
+contains a large (p20) and a small (p12) caspase-like domain without catalytic activity. c-FLIP
+S
+and c-FLIP
+R
+consist of two DEDs and a small C terminus. Depending on its cellular level at the DISC, c-FLIP
+L
+may act as an anti-apoptotic or pro-apoptotic factor [
+9
+,
+16
+,
+18
+]. c-FLIP
+S
+, c-FLIP
+S
+, c-FLIP
+R
+, and two cleavage products of c-FLIP (p43-FLIP and p22-FLIP) act as anti-apoptotic proteins [
+9
+,
+16
+,
+18
+]. p43-FLIP and p22-FLIP are generated from c-FLIP
+L
+by procaspase-8 cleavage at D376 [
+9
+] (adapted from [
+9
+,
+16
+,
+18
+])
+c-FLIP transcription and translation
+c-FLIP can be transcriptionally activated by various stimuli. These include TNF ligands, growth factors, interleukins, chemokines, and chemotherapeutic agents [
+11
+]. Several transcription factors are known to transcriptionally regulate the
+c-FLIP
+gene [
+11
+,
+18
+]. These include NF-κB, p53 tumor suppressor protein, p63, E2F1, c-myc, IRF5, c-Fos, nuclear factor of activated T cells (NFAT), heterogeneous nuclear ribonucleo-protein K (hnRNP K), the forkhead transcription factor FOXO3a, early growth response-1 transcription factor (EGR1), androgen receptor (AR), E2F1, AP-1, and SP1. While NF-κB, p63, NFATc2, EGR1, hnRNP K, AR and SP1 induce c-FLIP, c-myc, FOXO3a, c-Fos, IRF5, and SP3 suppress c-FLIP transcription [
+11
+,
+18
+]. p53 may transcriptionally upregulate the
+c-FLIP
+gene and also promote the degradation of c-FLIP protein [
+16
+]. Moreover, Gli2 transcription factor upregulates c-FLIP
+S
+and c-FLIP
+L
+[
+20
+]. c-FLIP
+S
+is highly induced upon activation of T cells, primarily via the calcineurin-NFAT pathway [
+16
+]. The human T-cell leukemia virus type 1 (HTLV-1) Tax protein upregulates c-FLIP in HTLV-1-infected cells through activation of NF-κB [
+6
+]. c-FLIP
+S
+is also upregulated at the translational level and causes TRAIL resistance in glioblastoma multiforme (GBM) cells due to activation of the Akt mammalian target of rapamycin (mTOR)-p70 S6 kinase 1 (S6K1) pathway [
+21
+,
+22
+]. Conversely, inhibition of mTOR or its target S6K1 suppressed polyribosomal accumulation of c-FLIP
+S
+mRNA, c-FLIP
+S
+protein expression, and promoted TRAIL resistance in GBM cells. Moreover, it has been shown that Rocaglamide (Roc) sensitizes resistant adult T-cell leukemia/lymphoma (ATL) cells to DR4- and DR5-mediated apoptosis by translational suppression of c-FLIP
+S
+through inactivation of the translation initiation factor 4E (eIF4E) [
+16
+,
+23
+].
+c-FLIP degradation
+Both c-FLIP
+L
+and c-FLIP
+S
+isoforms are short-lived proteins that are predominately degraded by the ubiquitin-proteasome degradation system [
+11
+,
+16
+,
+18
+]. Both c-FLIP isoforms can be degraded by the proteasome. However, c-FLIP
+S
+is particularly sensitive to ubiquitination and proteasomal degradation, partly due to two crucial lysine residues in the C-terminal 20 amino acids that are unique to c-FLIP
+S
+[
+24
+]. The sensitivity of c-FLIP
+S
+to ubiquitin-mediated degradation adds a novel concept to DISC regulation and its control of apoptosis [
+24
+]. c-FLIP
+L
+and c-FLIP
+S
+levels are also regulated by JNK activation via the E3 ubiquitin ligase Itch [
+11
+,
+18
+,
+25
+]. Phosphorylation events also play important roles in the regulation of c-FLIP protein levels. For instance, protein kinase C (PKC) phosphorylation at the serine 193 (S193) residue of c-FLIP
+S
+inhibits its polyubiquitination, stabilizes c-FLIP
+S
+levels, and increases cell survival [
+66
+]. S193 phosphorylation is markedly increased by treatment with the PKC activator 12-
+O
+-tetradecanoylphorbol-13-acetate and decreased by inhibition of PKC
+α
+and PKC
+β
+. Phosphorylation of the S193 residue also decreased the ubiquitination of c-FLIP
+L
+but did not affect its stability, indicating that S193 phosphorylation has a different function in c-FLIP
+L
+than in c-FLIP
+S.
+Moreover, pretreatment with the PKCδ-selective inhibitor rottlerin or transfection with PKCδ siRNA inhibited phorbol myristate acetate (PMA)-induced c-FLIP expression, which identifies a role for PKCδ in c-FLIP induction [
+26
+].
+Upregulation of c-FLIP in human cancers
+Increased expression of c-FLIP isoforms has been shown in cell lines from various types of cancer including colorectal [
+11
+,
+16
+,
+18
+]. Elevated levels of c-FLIP in tumor tissue from patients with colorectal cancer [
+28
+,
+29
+], bladder urothelial cancer [
+30
+], cervical cancer [
+31
+], Burkitt’s lymphoma [
+32
+], non-Hodgkin’s lymphoma [
+33
+], head and neck squamous cell carcinoma (HNSCC) [
+34
+], and hepatocellular cancers [
+35
+] have been correlated with a poor clinical outcome and could be a reliable prognostic factor in these types of cancer. c-FLIP upregulation is also seen in gastric cancer and plays an important role in lymph node metastasis, which ultimately contributes to tumor progression [
+36
+]. c-FLIP isoforms are also expressed in pancreatic intraepithelial neoplasms as well as pancreatic ductal adenocarcinomas, whereas normal pancreatic ducts were consistently negative for c-FLIP expression [
+37
+]. McCourt
+et al.
+[
+38
+] reported that c-FLIP expression was increased in high-grade prostatic intraepithelial neoplasia (HGPIN) and prostate cancer tissue relative to normal prostate epithelium. Significantly, these authors found that maximal c-FLIP expression was detected in castrate-resistant prostate cancer (CRPC).C-FLIP FUNCTION
+c-FLIP prevents apoptosis
+Initial studies with animal models have revealed that c-FLIP plays an important role in T-cell proliferation and heart development [
+39
+,
+40
+]. Moreover, abnormal c-FLIP expression has been found in various diseases such as cancer, multiple sclerosis, Alzheimer’s disease, diabetes mellitus, and rheumatoid arthritis [
+11
+,
+17
+]. c-FLIP is also thought to be the main causal factor of “immune escape” [
+41
+]. c-FLIP is involved in TRAIL, Fas, TNF-α, and chemotherapeutic drug resistance in a wide range of human malignancies [
+11
+,
+16
+–
+18
+]. Moreover, studies using c-FLIP-deficient mice support a dual function for c-FLIP
+L
+by confirming a role for c-FLIP in Fas L, TNF-α-induced apoptosis and revealing that c-FLIP has a similar function to caspase-8 in heart development [
+40
+]. Nevertheless, extensive literature encompassing diverse types of human cancer cells now indicates that the action of c-FLIP is generally anti-apoptotic in cancer cells. Furthermore, interference with c-FLIP expression sensitizes tumor cells to death ligands and chemotherapy in experimental models [
+11
+,
+18
+,
+42
+–
+45
+]. In addition to its function as an apoptosis modulator, c-FLIP exerts other cellular functions including increased cell proliferation and tumorigenesis [
+11
+,
+17
+–
+19
+].
+The structural differences between human c-FLIP variants indicate distinct regulatory roles for c-FLIP
+L
+and c-FLIP
+S
+in apoptosis. c-FLIP
+S
+inhibits TRAIL-induced DISC formation and apoptosis [
+24
+,
+45
+], while c-FLIP
+L
+is responsible for the dual functions described above whereby it inhibits Fas-induced caspase-8 activation when expressed at high levels, but enhances caspase-8 activation when its expression level is low [
+11
+,
+18
+]. c-FLIP
+S
+also suppresses apoptosis by inhibiting caspase-8 activation [
+46
+,
+47
+]. Moreover, c-FLIP
+S
+inhibits oxaliplatin-induced apoptosis through the sustained XIAP protein level and Akt activation [
+48
+].
+We have demonstrated that c-FLIP
+L
+interacts with DR5, FADD, and caspase-8 forming an apoptotic inhibitory complex (AIC) in MCF-7 breast cancer cells [
+49
+]. Moreover, silencing the
+c-FLIP
+gene by a specific siRNA leads to (1) death ligand-independent but DR5-, FADD-, and caspase-8- and -9-dependent apoptosis in these cells, and (2) the knockdown of c-FLIP expression inhibits breast cancer cell proliferation and triggers spontaneous apoptosis by activating both the death receptor and mitochondrial pathways [
+49
+]. Our data support the previous report by Jin
+et al.
+[
+50
+] demonstrating that the peptide corresponding to the DR5 binding domain of c-FLIP
+L
+induces apoptosis in cancer cells. It is possible that inhibiting the interaction of DR5 and c-FLIP
+L
+by peptides or small molecule inhibitors could provide a mechanism by which tumor-selective apoptosis can be achieved.
+c-FLIP activates cytoprotective pathways
+As shown in
+Fig. 3
+, c-FLIP activates several cytoprotective signaling pathways involved in regulating cell survival, proliferation, and carcinogenesis. Overexpression of c-FLIP
+L
+activates NF-κB and ERK signaling by binding to adaptor proteins in each pathway, such as TNFR-associated factors 1 (TRAF1) and 2 (TRAF2), receptor-interacting protein 1 (RIP), and Raf-1 [
+19
+,
+51
+] (see
+Fig. 3
+). The caspase-8 processed N-terminal fragment of c-FLIP
+L
+(p43cFLIP) is more efficient than c-FLIP
+L
+at recruiting TRAF2 and RIP1, leading to more robust NF-κB activation [
+19
+,
+20
+,
+52
+,
+53
+]. Golks
+et al.
+[
+54
+] found that in nonapoptotic cells, c-FLIP and the procaspase-8 heterodimer result in a novel NH
+2
+-terminal fragment of c-FLIP (p22-FLIP) which is the key mediator of NF-κB activation by binding to the IKK complex. Moreover, TNF-α-mediated JNK activation increases turnover of NF-κB-induced c-FLIP [
+25
+]. This is not the result of direct c-FLIP phosphorylation, but rather depends on JNK-mediated phosphorylation and activation of the E3 ubiquitin ligase Itch which specifically ubiquitinates c-FLIP and induces its proteasomal degradation. Thus, JNK antagonizes NF-κB during TNF-α signaling by promoting the proteasomal elimination of c-FLIP
+L
+[
+25
+].
+Open in a separate window
+Fig. 3
+Multifunctional roles of c-FLIP on various signaling pathways. As discussed in the text, in addition to its functional role in inhibiting apoptosis by binding to procaspases-8 and -10 and inhibiting their activation, c-FLIP activates various anti-apoptotic and cell survival signaling pathways, leading to proliferation and cell survival
+Akt, a serine-threonine kinase, interacts with c-FLIP
+L
+protein and c-FLIP
+L
+enhances the anti-apoptotic functions of Akt [
+55
+,
+56
+] by modulating Gsk3β activity. Moreover, through its effects on Gsk3β, c-FLIP
+L
+overexpression in cancer cells induces resistance to TRAIL. This effect is mediated by regulation of p27 (Kip1) and caspase-3 expression [
+56
+]. Down-regulation of the DNA-PK/Akt pathway is also reported to correlate with high responsiveness to TRAIL-mediated growth inhibition and apoptosis [
+57
+]. siRNA-mediated suppression of DNA-PK or treatment with 4,5-dimethoxy-2-nitrobenzaldehyde (DMNB), an inhibitor of DNA-PK, led to decreased phosphorylation of Akt and Bad (a target molecule of Akt), increased expression of DR4/DR5, and downregulation of c-FLIP [
+57
+]. Therefore, inhibition of the DNA-PK/Akt pathway may be clinically useful in treating TRAIL-resistant cancer cells [
+58
+].
+Panner
+et al.
+[
+59
+] demonstrated that a novel phosphatase and tensin homologue (PTEN)-Akt-atrophin-interacting protein 4 (AIP4) pathway regulates c-FLIP
+S
+ubiquitination and stability in GBM cell lines and xenografts. However, how PTEN and Akt are linked to AIP4 activity was unclear. These authors described a second regulator of ubiquitin metabolism, the ubiquitin-specific protease 8 (USP8), which is a downstream target of Akt, and how it links Akt to AIP4 and the regulation of c-FLIP
+S
+stability [
+60
+]. Overexpression of USP8 increased c-FLIP
+S
+ubiquitination, decreased c-FLIP
+S
+half-life, decreased c-FLIP
+S
+steady-state levels, and decreased TRAIL resistance. Therefore, PTEN appears to use control of ubiquitination to regulate TRAIL sensitivity in GBM cells.
+c-FLIP
+L
+also interacts with the death domain-associated protein Daxx and prevents Fas-induced JNK activation [
+61
+]. Thus, c-FLIP
+L
+acting on both the FADD- and Daxx-mediated signaling pathways may be involved in inhibiting Fas-induced cell death. Furthermore, c-FLIP
+L
+directly interacts with a JNK activator, MAP kinase kinase 7 (MKK7), in a TNF-α-dependent manner and inhibits the interactions of MKK7 with MAP/ERK kinase kinase 1 (MEKK1), apoptosis signal-regulating kinase 1, (ASK1) and TGF-β-activated kinase 1. This interaction of c-FLIP
+L
+with MKK7 might selectively suppress JNK activation [
+62
+] (see
+Fig. 3
+).
+Another regulator of c-FLIP upregulation is calcium/calmodulin-dependent protein kinase II (CaMK II), which protects cancer cells from TRAIL-induced apoptosis. Treating resistant cells with the CaMK II inhibitor KN-93 inhibited CaMK II activity, reduced c-FLIP expression, inhibited c-FLIP phosphorylation, and rescued Fas agonistic antibody (CH-11) sensitivity [
+63
+,
+64
+]. Phosphorylation of c-FLIP variants by CaMK II appears to promote c-FLIP
+L
+recruitment to the DISC and inhibit TRAIL-induced apoptosis [
+63
+,
+64
+], but phosphorylation of c-FLIP
+L
+by PKC or the bile acid glycochenodeoxycholate results in decreased c-FLIP
+L
+recruitment to the DISC [
+65
+]. Thus, the particular site of phosphorylation on c-FLIP
+L
+appears to influence the functional effect of this protein on apoptosis. It has been shown that calmodulin (CaM) binds directly to c-FLIP
+L
+in a calcium-dependent manner and prevents Fas-triggered apoptosis [
+66
+]. Interestingly, a point mutation at H204 of c-FLIP
+L
+markedly decreases CaM binding [
+67
+]. Therefore, inhibition of CaM/c-FLIP interaction may provide a new therapeutic strategy for cancer treatment.
+Overexpression of c-FLIP can alter cell cycle progression and enhance cell proliferation and carcinogenesis [
+68
+,
+69
+]. Increased expression of c-FLIP
+L
+inhibited the ubiquitination and proteasomal degradation of β-catenin, resulting in an increase in the target gene cyclin D1, colony formation, and invasive activity in prostate cancer cells. The c-FLIP/β-catenin/cyclin D1 signals contributing to colony formation and invasion were reversed by selective silencing of c-FLIP expression [
+70
+]. Similarly, c-FLIP
+L
+, in cooperation with FADD, enhances canonical Wnt signaling by inhibiting proteasomal degradation of β-catenin, thus suggesting an additional mechanism of tumorigenesis [
+70
+]. Moreover, a role for nuclear c-FLIP
+L
+in modulating Wnt signaling has been established [
+71
+]. Interestingly, a deficiency of the adenomatous polyposis coli (APC) gene and subsequent activation of β-catenin can also lead to repression of c-FLIP expression through activation of c-Myc [
+72
+], c-FLIP upregulation may contribute to the carcinogenesis and aggressiveness of endometrial carcinomas and serve as a useful prognostic factor for this tumor [
+71
+,
+73
+]. c-FLIP overexpression is also significantly related to the presence of high-risk human papillomavirus (HR-HPV) infection during the progression of cervical squamous cell cancer, and c-FLIP is an early marker of cervical carcinogenesis [
+74
+]. Moreover, HPV16 E2 protein interacts with and abrogates the apoptosis inhibitory function of c-FLIP and renders cervical cancer cell lines hypersensitive to Fas/FasL apoptosis. This observation may be useful for developing therapeutic strategies to silence c-FLIP for intervention with cervical carcinogenesis [
+75
+]. Overexpression of c-FLIP
+L
+also increases hypoxia-inducible factor-1α (HIF1α) [
+76
+]. In turn, overexpression of HIF1α can result in regulation of genes responsible in cell proliferation, metastasis, and invasion. Moreover, c-FLIP overexpression accelerated progression to androgen independence by inhibiting apoptosis in LNCaP prostate tumors implanted in nude mice [
+77
+].
+Much evidence has clearly demonstrated that c-FLIP
+S
+plays a major role in causing resistance to death ligands and chemotherapeutic agents. Park
+et al.
+[
+78
+] reported that MEK1/2 inhibitors synergistically interact with the heat shock protein 90 (HSP90) inhibitor and geldanamycins [17-allylamino-17-demethoxygeldanamycin (17AAG) and 17-dimethylaminoethylamino-17-demethoxygeldanamycin] to kill hepatoma and pancreatic carcinoma cells. Treating cells with MEK1/2 inhibitors and 17AAG reduced expression of c-FLIP
+S
+that was connected to loss of MEK1/2 and AKT function. Moreover, overexpression of c-FLIP
+S
+or inhibition of caspase-8 abolished cell killing by MEK1/2 inhibitors and 17AAG. Interestingly, Panner
+et al.
+[
+79
+] reported that HSP90α recruits c-FLIP
+S
+to the DISC and contributes to TRAIL resistance. Furthermore, combinations of sorafenib and vorinostat increased CD95 surface levels and CD95 association with caspase-8, and knockdown of CD95 or FADD expression reduced sorafenib/vorinostat-induced cell death [
+80
+]. Signaling by CD95 caused protein kinase R (PKR)-like endoplasmatic reticulum kinase (PERK) activation that was responsible for both promoting caspase-8 association with CD95 and increased eIF2α phosphorylation. Suppression of eIF2α function abolished sorafenib/vorinostat lethality. Cell death was paralleled by PERK- and eIF2α-dependent reduction of c-FLIPs protein levels, while overexpression of c-FLIP
+S
+maintained cell viability [
+80
+]. Similarly, expression of phosphorylation-insensitive eIF2α-S51A blocked sorafenib- and vorinostat-induced suppression of c-FLIP
+S
+levels and overexpression of c-FLIP
+S
+[
+81
+]. Overexpression of c-FLIP
+S
+also suppressed cell death by the multinuclear platinum chemotherapeutic BBR3610 [
+82
+].
+c-FLIP as a therapeutic target for cancer treatment
+c-FLIP can serve as a critical target for therapeutic intervention aimed at inhibiting its transcription and posttranscriptional changes [
+11
+,
+16
+]. Ectopic expression of c-FLIP variants decreases apoptosis caused by death ligands and anticancer agents [
+24
+], indicating that overexpression of these proteins may cause resistance to multiple anticancer drugs. It does not appear possible to inhibit c-FLIP function with small molecule ligands since c-FLIP has significant structural similarity to caspase-8 (
+Fig. 2
+). This resemblance to caspase-8 makes c-FLIP protein a very difficult target for drugs to inhibit its function, since small molecules capable of blocking its recruitment to the DISC would also likely inhibit recruitment of caspase-8, thereby inhibiting apoptosis. Therefore, to reduce or inhibit c-FLIP expression, small molecules which target c-FLIP without inhibiting caspases-8 and -10 are needed. Several review articles have discussed classes of agents that decrease c-FLIP expression and sensitize cancer cells to TRAIL or anticancer drugs [
+11
+,
+16
+,
+18
+,
+83
+]. These agents affect c-FLIP transcription, trigger c-FLIP degradation through the ubiquitin-proteasome system, or decrease c-FLIP translation. Moreover, DNA damaging agents are promising drugs with regard to downregulating levels of c-FLIP variants. Pretreatment with chemotherapeutic drugs including cisplatin, doxorubicin, or topoisomerase I inhibitors (camptothecin, 9-NC, irinotecan) downregulates c-FLIP variants expression in various tumor cells by inhibiting its transcription and rendering cells sensitive to death receptor-triggered apoptosis [
+84
+–
+90
+].
+Several histone deacetylase inhibitors (HDACi) have been shown to significantly downregulate c-FLIP expression in various cancer cells at the transcriptional and translational levels [
+11
+,
+91
+–
+94
+]. Among these, suberoylanilide hydroxamic acid (SAHA, vorinostat) is the most promising HDACi that causes robust inhibition of c-FLIP variants [
+91
+]. TRAIL-triggered apoptosis in breast cancer cells was blocked at the level of apical activation of caspase-8, and SAHA enhanced the TRAIL-induced processing and activation of procaspase-8. Interestingly, degradation of c-FLIP
+L
+and c-FLIP
+S
+by a ubiquitin/proteasome-dependent Itch/AIP4-independent mechanism is observed upon exposure to SAHA [
+91
+]. We recently showed that a new HDACi, 4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide (CMH) [
+93
+] or droxinostat [
+94
+], identified using a high-throughput chemical library screen [
+95
+,
+96
+], triggered apoptosis in the breast cancer cell line MCF-7 through c-FLIP
+L
+and c-FLIP
+S
+mRNA as well as protein downregulation [
+93
+]. Interestingly, this agent induced more robust apoptosis in a doxorubicin-resistant variant of MCF-7 cells [
+93
+]. Among c-FLIP inhibitors, histone deacetylase inhibitors have been very effective agents. Particularly significant is the recent discovery by Kerr
+et al.
+[
+97
+] reporting a novel interaction between c-FLIP and Ku70, a key component of non-homologous end joining machinery in the DNA damage pathway in the HCT-116 human colon cancer cell line. Interestingly, Ku70 regulates c-FLIP protein stability by inhibiting its polyubiquitination [
+97
+]. Moreover, these authors showed that vorinostat (SAHA) increased the acetylation of Ku70, thereby disrupting the c-FLIP/Ku70 complex and initiating c-FLIP polyubiquitination and degradation by the proteasome. Furthermore, the HDAC6-specific inhibitor Tubacin mimicked the effects of SAHA, suggesting that HDAC6 is a critical regulator of Ku70 acetylation and c-FLIP protein stability [
+97
+].
+Small molecule therapeutics that selectively down-regulate c-FLIP
+S
+or c-FLIP
+L
+and gene therapy strategies that knock down a specific c-FLIP variant have been used to downregulate these variants. Developing these innovative therapeutic strategies in conjunction with TRAIL and chemotherapeutic agents could potentially overcome the barrier of dose-limiting toxicity in cancer chemotherapy. TRAIL or chemotherapy resistance in diverse cancer cell types can be reversed by parallel treatment with agents known to downregulate c-FLIP variants.CONCLUSIONS
+Accumulating evidence shows that c-FLIP variants induce resistance to death receptor ligands and chemotherapeutic agents in various cancer cells. Moreover, c-FLIP upregulation correlates with a poor clinical outcome and could be a reliable prognostic factor in several types of cancer. Therefore, c-FLIP isoforms may be a relevant clinical target for counteracting therapy-resistant human malignancies. Various classes of agents can downregulate c-FLIP expression. Since c-FLIP has significant structural similarity to caspase-8, it is very difficult to target c-FLIP directly since small molecules capable of blocking the recruitment of c-FLIP to the DISC could simultaneously inhibit the recruitment of caspase-8 and thereby inhibit apoptosis. Therefore, to reduce or inhibit c-FLIP expression, small molecules which target c-FLIP without inhibiting caspases-8 and -10 are needed. Compounds that inhibit or downregulate c-FLIP mRNA expression or cause degradation of c-FLIP at the protein level through proteasome degradation will be of particular interest.Acknowledgments
+I would like to thank Mary D. Kraeszig for her editorial assistance. The work in the author’s laboratory was supported by research grants from the National Cancer Institute (CA 080734, CA 90878, and CA 101743), Department of Defense (DOD) (OC 06095), and the Indiana University Cancer Center Translational Research Acceleration Collaboration (ITRAC) initiative.Abbreviations used
+APC
+adenomatous polyposis coli
+ATL
+adult T-cell leukemia/lymphoma
+AR
+androgen receptor
+Apaf-1
+apoptotic proteinase-activating factor-1
+AIC
+apoptosis inhibitory complex
+BH3
+Bcl-2 homology domain-3
+CaM
+calmodulin
+CRPC
+castrate-resistant prostate cancer
+c-FLIP
+cellular FLICE (FADD-like IL-1β-converting enzyme)-inhibitory protein
+CMH
+4-(4-chloro-2-methylphenoxy)-N-hydroxybutanamide
+DISC
+death-inducing signaling complex
+EGR1
+early growth response-1
+ER
+endoplasmic reticulum
+DED
+death effector domain
+DR5
+death receptor 5
+GBM
+glioblastoma multiforme
+HGPIN
+high-grade prostatic intraepithelial neoplasia
+HDACi
+histone deacetylase inhibitor
+HR-HPV
+human papillomavirus
+MEKK1
+MAP/ERK kinase kinase 1
+MKK7
+MAP kinase kinase 7
+PTP
+permeability transition pore
+NFAT
+nuclear factor of activated T cells
+PTEN
+phosphatase and tensin homologue
+PERK
+protein kinase R (PKR)-like endoplasmatic reticulum kinase
+siRNAs
+small interfering RNAs, TNFR1, TNF receptor 1
+TNF-α
+tumor necrosis factor-α
+TRAIL
+TNF-related apoptosis-inducing ligand
+USP8
+ubiquitin-specific protease 8 (USP8)

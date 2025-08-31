@@ -1,0 +1,943 @@
+Abstract
+Non-homologous end joining (NHEJ) and homologous recombination (HR) are pathways that repair DNA double-strand breaks (DSBs). In
+Saccharomyces cerevisiae
+, the repair of these breaks is influenced by histone acetylation. Therefore, we tested mammalian cells deleted for NHEJ (
+Ku80
+or
+DNA Ligase IV
+) or altered for HR (breast cancer associated gene,
+Brca2
+, or Bloom's syndrome,
+Blm
+) for sensitivity to trichostatin A (TSA), a histone deacetylase inhibitor that is being investigated as an anti-cancer therapeutic. We show that cells mutated for
+Ku80
+(
+ku80
+−/−
+) or
+DNA Ligase IV
+(
+lig 4
+−/−
+), but not cells mutated for
+Brca2
+(
+brca2
+lex1/lex2
+) or
+Blm
+(
+blm
+tm3Brd/tm4Brd
+), are hypersensitive to TSA in a dose-dependent manner. TSA-induced toxicity stimulates apoptosis and cell cycle checkpoint responses independent of p53, but does not increase phosphorylated histone H2AX (γ-H2AX) as compared with a clastogenic agent, camptothecin, indicating that the quantity of DSBs is not the primary cause of TSA-induced cell death. In addition, we show that potential anti-cancer drugs (LY-294002 and vanillin) that inhibit the family of phosphatidylinositol 3 kinases that include the NHEJ protein, DNA–PK
+CS
+act in synergy with TSA to reduce the viability of HeLa cells in tissue culture presenting the possibility of using the two drugs in combination to treat cancer.INTRODUCTION
+In mammals, non-homologous end joining (NHEJ) and homologous recombination (HR) are the two major pathways that repair double-strand breaks (DSBs) in DNA. Both are conserved from yeast to mammals. NHEJ repairs DSBs through an imprecise pathway that joins ends together (
+1
+). There are six proteins known to be important for NHEJ in mammals: Ku80, Ku70, DNA–PK
+CS
+, Artemis, Xrcc4 and Lig 4. Ku80 forms a heterodimer with Ku70, called Ku, and along with the phosphatidylinositol 3 (PI-3) kinase catalytic subunit, DNA–PK
+CS
+, forms a holoenzyme referred to as DNA dependent–protein kinase (DNA–PK). Artemis forms a complex with DNA–PK
+CS
+that opens hairpins and processes overhangs. Xrcc4 forms a heterodimer with Lig 4 to stimulate ligation of DNA DSBs. By contrast HR repairs DNA DSBs through a precise pathway that utilizes a complementary template usually provided by the sister chromatid during DNA replication (
+2
+). There are many proteins important for HR including Rad51 that forms a filament on the single-strand ends at the DSB to promote strand exchange. Also important for HR is the breast cancer associated gene, Brca2, that associates with Rad51 in two regions, the BRC motifs encoded by exon 11 (
+3
+) and a unique region encoded in exon 27 (
+4
+). There are also proteins that influence HR that includes
+Blm
+, a member of the
+RecQ
+family of helicases (
+5
+). Both NHEJ and HR are critical for maintaining genomic stability.
+The consequences of impairing either NHEJ or HR have been investigated in mice and similar phenotypes are caused by defects in either pathway: hypersensitivity to ionizing radiation (
+4
+,
+6
+), genomic instability (
+6
+–
+11
+) and replicative senescence of mouse embryonic fibroblasts (MEFs) (
+6
+,
+9
+,
+10
+,
+12
+,
+13
+). In addition,
+Blm
+mutations increase sister chromatid exchanges that leads to increased HR and chromosomal instability (
+14
+,
+15
+) demonstrating that Blm suppresses recombination and that unregulated recombination can be mutagenic. Thus, both NHEJ and HR are important for genomic stability and neither can fully compensate for deletion of the other.
+Deletion of NHEJ is less severe than deletion of HR.
+ku80
+−/−
+(
+16
+,
+17
+) and
+lig 4
+−/−
+(
+18
+) mice survive to adulthood; albeit Ku80 is toxic in the absence of Lig 4 and must be deleted for
+lig4
+−/−
+mice to survive (
+19
+,
+20
+). In contrast,
+rad51
+−/−
+(
+6
+) and
+brca2
+−/−
+(
+4
+) cells cannot survive and as a result these mutant embryos arrest soon after implantation. However, COOH-terminal truncations of Brca2 that remove some but not all of the regions that associate with Rad51 cause less severe phenotypes (
+21
+–
+24
+). These mice can live but develop cancer earlier than controls. Deletion of Blm is also lethal but mice survive with a mutation that permits the generation of low protein levels. These mice develop cancer due to loss of heterozygosity caused by HR (
+14
+,
+15
+).
+The tumor suppressor protein, p53, mediates responses to damaged DNA and strongly contributes to severity of the phenotypes for NHEJ- and HR-mutated mice; these phenotypes are ameliorated by deletion of p53. For
+rad51
+−/−
+and
+brca2
+−/−
+mice, p53 deletion allows the embryos to live longer and undergo more cellular proliferation and differentiation before they die (
+6
+,
+25
+). For
+lig 4
+−/−
+mice, p53 deletion rescues late embryonic lethality caused by neuronal apoptosis. In addition, p53 deletion rescues replicative senescence of MEF derived from either
+ku80
+−/−
+or
+lig 4
+−/−
+embryos. Even though replicative senescence is rescued, these NHEJ-null cells are still extremely sensitive to ionizing radiation demonstrating that failure to repair DNA DSBs by NHEJ does not hinder cellular proliferation, instead proliferation is inhibited by the p53-response to these inefficiently repaired breaks. Thus, p53-mediated responses increase the severity of these phenotypes caused by deletion of either NHEJ or HR.
+In addition to p53-mediated responses, the repair of DNA DSBs is influenced by chromatin as shown in the budding yeast,
+Saccharomyces cerevisiae
+. Chromatin is the complex of DNA and proteins composed of core histones H2A, H2B, H3 and H4. These core histones package DNA into nucleosomes and can be acetylated on the ɛ-amino groups of lysines found in the N-terminal tails. Histone acetylation opens chromatin and is performed by enzymes called histone acetyltransferases (HATs) while histone deacetylation compacts chromatin and is performed by enzymes called histone deacetylases (HDACs) (
+26
+). These functions influence cellular responses to environmental stresses in a tightly regulated manner (
+27
+).
+The status of histone acetylation influences the repair of DNA DSBs in
+S.cerevisiae
+and possibly mammals. Mutations of tail lysines that prevent acetylation in histone H4 sensitizes yeast cells to DNA damaging agents that cause breaks but not intrastrand photoproducts (
+28
+). Esa1p, a HAT, is required for normal NHEJ (
+28
+) and haploid cells impaired for nucleosomal histone H4 acetylation, owing to deletion of Yng2, are sensitive to DNA damage in S phase and non-viable after deletion of NHEJ, but not HR (
+29
+). Thus, histone acetylation appears to be important for the repair of DSBs. By contrast, subunits of an HDAC (Sin3p and Rpd3p) that catalyzes histone deacetylation near a DNA DSB facilitate the repair of a HO-induced DSB by NHEJ but not by HR (
+30
+). For mammalian cells, histone acetylation may also be important for the repair of DNA DSBs since TIP60, the mammalian homolog to ESA1, appears to be important for DSB repair (
+31
+) and another HAT, GCN5, interacts with Ku70 (
+32
+). Thus, the status of histone acetylation adjacent to DSBs appears to be important for efficient NHEJ in yeast and mammalian cells.
+Here we investigate the effect trichostatin A (TSA) (
+33
+,
+34
+) exposure has on cells mutated for the NHEJ genes,
+Ku80
+and
+Lig 4
+, the HR gene,
+Brca2
+and the HR-influencing gene
+Blm
+. TSA is a hydroxamic acid-based HDAC inhibitor that alters the expression of ∼2% of expressed genes including upregulation of p21
+Cip1
+and causes growth arrest, differentiation or apoptosis of a variety of transformed cells. Hydroxamic acid-based compounds are considered promising anti-cancer agents and have been reported to have anti-tumor effects in animals (
+35
+). Cells ablated for NHEJ by deletion of either
+Ku80
+or
+Lig 4
+are hypersensitive to TSA; however, cells impaired for HR by deletion of
+Brca2
+exon 27 or derepressed for HR by mutation of
+Blm
+exhibit the same level of resistance to TSA as control cells. Exposure to TSA reduced cell number for NHEJ-defective cells by both apoptosis and checkpoint responses that were independent of p53 function. TSA does not appear to generate DSBs as judged by levels of γ-H2AX. The PI-3 kinases inhibitors, LY-29400 and vanillin, that may inhibit DNA–PK
+cs
+act in synergy with TSA to reduce numbers of HeLa cells, offering the potential for a novel anti-cancer regiment.MATERIALS AND METHODS
+TSA dose response and time course for primary MEF
+TSA dose response for primary MEFs
+Primary MEF (5.4 × 10
+4
+), at passage 3, was plated onto 35 mm wells on day 0. Cells were grown in M15 [15% fetal bovine serum (FBS) from HyClone, DMEM from Life Technologies, Inc., 10
+−4
+M β-mercaptoethanol, 2 mM
+l
+-glutamine, 49.5 U/ml penicillin and 38.8 µg/ml streptomycin] supplemented with TSA at a variety of concentrations (0, 2.5, 12, 60 and 300 nM). The media was changed every 3.5 days and maintained in the same TSA concentration. MEF were trypsinized and viable cells counted in the presence of trypan blue on day 10. Two clones from each genotype were tested.
+TSA time course for primary MEF
+Passage 3 MEF was plated in replica on day zero (5.4 × 10
+4
+/35 mm wells). One replica set of cells was exposed to no TSA and the other replica set to 33 nM TSA. Media was changed every three days with the same TSA concentration. Viable cells were counted in the presence of trypan blue. Two clones were tested for each genotype.
+Dose response, time course and Annexin V analysis for immortalized MEF
+TSA and camptothecin (CPT) dose response for immortalized MEF
+These dose response experiments were performed as described previously for HeLa cells (
+36
+).
+TSA time course for immortalized MEF
+This time course experiment was performed as described previously for HeLa cells (
+36
+) except 10 000 cells were seeded onto the 35 mM well of 6-well plates instead of 1000 cells in the 15 mM well of a 24-well plate.
+Annexin V staining cells were measured along with the time course as described previously for HeLa cells (
+36
+).
+Construction of enhanced green fluorescent protein (EGFP)–HsKu80 and stable cell lines expressing the fusion protein
+Full-length cDNA encoding the 80 kD subunit of human Ku protein (HsKu80) was excised from the original pBluescript construct (
+37
+) with EcoRI and inserted into EcoRI site of the pEGFP-N2 expression vector (Clontech). In addition, a cassette that codes for blasticidin (
+38
+) was inserted into the SacI–AccI sites of the same construct.
+A clone of
+p53
+−/−
+ku80
+−/−
+MEF at a passage >50, was transfected with
+EGFP–HsKu80
+or
+EGFP
+by electroporation: 1 × 10
+7
+MEF cells in 1 ml of Ca-free phosphate-buffered saline (PBS) were electroporated with 10 µg plasmid at 25 V and 900 mkF. To select for stable trasfectants, cells were grown in a medium containing 5 µg/ml blasticidin. Cells grew for >2 weeks. Blasticidin resistant colonies were picked, expanded and tested for Ku function.
+Response of
+EGFP–HsKu80
+and
+EGFP
+cells to γ-radiation or to a pulse of high concentration TSA
+Exponentially growing blasticidin-resistant MEF were trypsinized and counted. Then 1 × 10
+4
+cells in 1 ml PBS were exposed to γ-radiation (Gammator B irradiator with
+137
+Cs, 290 RAD/min) at doses of 0, 100, 200, 400 and 1000 Rad and seeded at a variety of concentrations (500, 1000 and 5000 cells/10 mm plate). After incubation for two weeks, cells were stained with crystal violet and colonies of 16 or more cells were counted. The survival fraction was determined (100% × the number of TSA exposed colonies/the number of unexposed colonies).
+Survival fraction of MEF exposed to 100 nM TSA
+MEFs were seeded at low density (250–500 cells/35 mm plate) and exposed to 100 nM TSA for 0, 24 and 48 h (washed with PBS and re-fed with fresh M15 without TSA). After incubation for 2 weeks, colonies were stained with crystal violet and colonies of 16 or more cells were counted. The survival fraction was determined (100% × the number of TSA exposed colonies/the number of unexposed colonies).
+Growth curve of MEFs exposed to a pulse of 500 nM TSA
+MEF were seeded (1 × 10
+5
+cells/35 mm plate) in either no TSA or 500 nM TSA for 24 h on day 0. The plates were then washed with PBS and re-fed with fresh M10 without TSA. Cells were fed fresh M10, without TSA, every 2 days. MEFs were trypsinized and viable cells counted in the presence of trypan blue.
+Observation of green fluorescence in
+EGFP–HsKu80
+and
+EGFP
+MEF
+Stably transfected cells were grown on cover slips and treated with either no TSA or 100 nM TSA for 2–24 h. Cells were fixed for 20 min at room temperature with 4% paraformaldehyde in PBS, washed three times with PBS and observed under epifluorescent illumination.
+Immunoblotting
+Immunoblotting was used to determine expression levels of the EGFP fusion proteins as well as to monitor the up- or down-regulation of various markers for cellular proliferation. For preparation of whole cell lysates TSA treated or non-treated cells were washed with PBS and suspended in 50 mM Tris–HCl, pH7.5, containing 0.5 M NaCl, 1 mM DTT, 1 mM MgCl
+2
+, 0.1 mM EDTA, 20% glycerol and a complete cocktail of protease inhibitors from Boehringer. After extensive homogenization and freeze/thawing on dry ice, the extracts were clarified by centrifugation for 10 min at 12 000×
+g
+and applied to SDS–PAGE. The Western blotting was carried out as described previously (
+39
+) using the BCL kit from Amersham. HsKu80 was detected using previously described monoclonal antibodies (
+40
+,
+41
+). Anti-EGFP antibody was purchased from Clontech, anti-p21
+Cip1
+, anti-p16
+INK4a
+and anti-pRb from Santa Cruz and anti-acetyl-lysine antibodies from Upstate Biotechnology. A portion of the same gel was stained with Coomassie to confirm the equal loading for each lane.
+Detection of γ-H2AX
+The level of γ-H2AX was detected by three different methods.
+Flow cytometry. Cells (2 × 10
+5
+) were seeded onto a 35 mM plate, 24 h before analysis. Cells were treated with different dosages of TSA and CPT for 2 h then cells were typsinized. Levels of phosphorylated H2AX were detected following the protocol provided by the assay kit (Upstate).
+Immunocytochemistry. Cells (5 × 10
+4
+) were seeded in chamber slides. After 24 h these cells were treated with different dosages of TSA and CPT for 2 h and then fixed with 95% ethanol and 5% acetic acid for 5 min and then blocked with 3% BSA/TBS for 1 h. For 1 h, cells were exposed to 2 µg/ml of anti-phospho-Histone H2A.X(Ser139) (Upstate Biotechnology) in blocking buffer and then washed with TBS for 5 min. The secondary antibody was added in blocking buffer [1:200 of Alexa Fluro 488 goat anti-mouse IgG(H+L)] (Molecular Probes) and cells were observed under a fluorescent microscope.
+Western. The same conditions were used as for flow cytometry to seed and treat cells. Whole cell extract was generated using protein sample buffer followed by a standard western blotting procedure with anti-phospho-Histone H2A.X (Ser139) (Upstate).
+Dose response to DNA–PK inhibitors
+Three DNA–PK inhibitors, LY-294002, vanillin (Sigma) and NU-7026 (Calbiochem), were tested. LY-294002 was dissolved in DMSO to make a stock concentration 25 mM. Vanillin was dissolved in H
+2
+O by heating to 70°C to make a stock concentration 100 mM. NU-7026 was dissolved in DMSO to make a stock concentration 10 mM. Dose response experiments were performed as described previously for HeLa cells (
+36
+).RESULTS
+Ku80
+and
+Lig 4
+, but not
+Brca2
+exon 27 or
+Blm
+, are important for cellular survival after exposure to TSA
+We compared primary cultures of
+Ku80
++/−
+,
+ku80
+−/−
+,
+p53
+−/−
+and
+p53
+−/−
+ku80
+−/−
+MEFs (passage 3) for their response to TSA. These cells were continuously exposed for 10 days to a variety of concentrations of TSA that ranged from 2.5 to 300 nM. MEFs for all genotypes showed greatly reduced cell number while exposed to a continuous concentration of 60–300 nM TSA (
+Figure 1A
+). After 10 days exposure to 300 nM TSA, proliferation was completely and permanently halted for MEF of all genotypes, even after removal of TSA (data not shown). For all genotypes the MEF that remained in the well presented with a senescent morphology. Thus, cellular senescence is not dependent on p53 after exposure to this high concentration of TSA for 10 days as predicted by previous results (
+42
+,
+43
+).
+Open in a separate window
+Figure 1
+Sensitivity of DNA DSB repair altered cells to TSA. (
+A
+and
+B
+) Primary clones of MEFs exposed to TSA. (A) Dose response to a continuous exposure to TSA (0, 2.5, 12, 60 and 300 nM). The average of two clones for each genotype is shown.
+Ku80
++/−
+, square;
+p53
+−/−
+NHEJ+, circle;
+ku80
+−/−
+, triangle;
+p53
+−/−
+ku80
+−/−
+, crosses. (B) Time courses to 33 nM TSA as shown by a growth curve. MEF not exposed to TSA (closed symbols), MEFs continuously exposed to 33 nM TSA (open symbols). The average of two clones from each genotype is shown. (
+C
+and
+D
+) TSA exposure of 3T3 immortalized clones of MEF. (C) Dose response to TSA. Immortalization of
+ku80
+−/−
+and
+lig 4
+−/−
+MEFs require deletion of p53. Thus, the
+ku80
+−/−
+and
+lig 4
+−/−
+MEFs and their controls (
+p53
+−/−
+NHEJ+) are also mutated for p53. These clones are in a 129× C57bl background. Immortalization of
+brca2
+lex1/lex2
+MEF does not require deletion of p53 (although p53 function may be lost during the immortalization process). The
+brca2
+lex1/lex2
+MEF and its control are in a 129SvEv background. Symbols are the same as for (A), in addition
+p53
+−/−
+lig 4
+−/−
+, ∞;
+brca2
++/+
+, open diamond;
+brca2
+lex1/lex2
+, closed diamond. (D) Time course to 33 nM TSA. (
+E
+) Time course to 100 nM TSA. (
+F
+) Dose response of
+brca2
+lex1/lex2
+(closed diamond),
+blm
+tm3Brd/tm4Brd
+(closed upside down triangle) and wild-type (open diamond) ES cells (129SvEv) to TSA.
+It is important to avoid high concentrations of TSA that may override any compensatory differences between these genetically altered clones of cells; therefore, a continuous low dose of 33 nM was chosen to investigate the impact that TSA has on early passage MEF. A time course was used to compare the impact of a continuous exposure of 33 nM TSA on cell number for populations of
+Ku80
++/−
+,
+ku80
+−/−
+,
+p53
+−/−
+and
+p53
+−/−
+ku80
+−/−
+MEFs at passage 3 (
+Figure 1B
+). Except for
+p53
+−/−
+MEFs, exposure to 33 nM TSA greatly reduced cell number throughout the entire 9 days of the study. However, exposure to 33 nM TSA only moderately reduced the number of
+p53
+−/−
+MEFs and this reduction diminished during the course of the analysis from ∼60 to 30% at 4 and 9 days, respectively. These results indicate that TSA reduces cell number at least partly through p53 that can only be observed at a low TSA concentration. Furthermore, these results show that Ku80 is important for recovery of the
+p53
+−/−
+MEF, since
+p53
+−/−
+ku80
+−/−
+MEF were unable to recover while exposed to 33 nM TSA. Thus, the presence of Ku80 and the absence of p53 are important for resistance of primary MEF exposed to 33 nM TSA.
+Immortalized MEFs (approximately passage 45) deleted for either
+Ku80
+(
+12
+),
+Lig 4
+(
+18
+,
+44
+) or
+Brca2
+exon 27 (
+brca2
+lex1/lex2
+) (
+23
+) were compared, to determine if either NHEJ or HR are important for recovery of cells exposed to TSA. The
+ku80
+−/−
+and the
+lig 4
+−/−
+MEF and their controls are mutated for p53 to enable proliferation (thus, their control cells are
+p53
+−/−
+NHEJ+) while the
+brca2
+lex1/lex2
+MEF and its control were not mutated for p53 (albeit p53 function may have been lost during the 3T3 immortalization process). For Brca2, a partial loss of function mutation is analyzed since complete deletion kills the cell; thus, one must interpret data generated from these cells with the understanding that HR is only diminished, not ablated. The
+brca2
+lex1/lex2
+MEF generates a truncated protein that still interacts with Rad51 in the nucleus (
+45
+). These MEF,
+brca2
+lex1/lex2
+, have diminished HR function that causes genomic instability, reduced homology-directed repair and hypersensitivity to agents that cause DSBs (
+23
+,
+24
+,
+45
+). A dose response curve shows that both
+p53
+−/−
+ku80
+−/−
+and
+p53
+−/−
+lig 4
+−/−
+MEFs, but not
+brca2
+lex1/lex2
+MEF, are hypersensitive to TSA compared with their control MEF (
+Figure 1C
+). A time course confirms the dose response curve since both
+p53
+−/−
+ku80
+−/−
+and
+p53
+−/−
+lig 4
+−/−
+MEFs are hypersensitive to 33 nM TSA, compared with
+p53
+−/−
+NHEJ+MEFs (
+Figure 1D
+). However, at 100 nM TSA, the
+ku80
+−/−
+MEFs appear to be more sensitive than the
+lig 4
+−/−
+MEF. A time course performed at 100 nM TSA confirms this observation (
+Figure 1E
+). Thus, the NHEJ proteins, Ku80 and Lig 4, but not the HR protein Brca2, are important for resistance to TSA. In addition, relative importance of Ku80 and Lig 4 appears to depend on TSA dose with both proteins exhibiting equal importance at 33 nM while Ku80 exhibits greater importance at 100 nM.
+The importance of HR for recovery to TSA exposure was tested further in embryonic stem (ES) cells either deleted for
+Brca2
+exon 27 or mutated for
+Blm
+. The
+Brca2
+mutation in ES cells (
+brca2
+lex1/lex2
+) is the same as described for MEF (
+23
+,
+24
+). The Blm mutant ES cells (
+blm
+tm3Brd/tm4Brd
+) express low levels (∼ 12%) of Blm; like Brca2, Blm is important for cell survival and null alleles are not available for analysis (
+14
+,
+15
+). HR is impaired by the
+Brca2
+mutation but increased by the
+Blm
+mutation and both mutations increase genomic instability. Neither the
+brca2
+lex1/lex2
+nor the
+blm
+tm3Brd/tm4Brd
+ES cells exhibited a change in sensitivity to TSA compared with their isogenic control cells (all clones of ES cells are in an isogenic 129SvEv background) (
+Figure 1F
+). Thus, neither diminished nor enhanced HR impacts resistance to TSA in ES cells.
+The impact of TSA was investigated for immortal
+p53
+−/−
+ku80
+−/−
+MEF transfected with either a fusion of
+EGFP
+and human
+Ku80
+(
+HsKu80
+, mouse Ku80 will continue to be called simply Ku80) or just
+EGFP
+(
+Figure 2
+). An
+EGFP–HsKu80
+vector that contains a blasticidin selection cassette was transfected into the
+p53
+−/−
+ku80
+−/−
+MEFs. Blasticidin-resistant clones were picked, expanded and shown to express EGFP–HsKu80 protein by western blot analysis using either anti-HsKu80 or anti-EGFP antibodies. Previous data show that HsKu80 is at least partially functional in mouse cells (
+46
+). However, the addition of EGFP may alter HsKu80 function. To determine if the EGFP–HsKu80 fusion protein is functional in mouse cells, seven clones transfected with
+EGFP–HsKu80
+were compared with three clones transfected with
+EGFP
+for resistance to γ-radiation. Resistance to γ-radiation improved for six of the seven
+EGFP–HsKu80
+clones but not for any of the three
+EGFP
+clones (
+Figure 2A
+). The survival fraction for the average of these six
+EGFP–HsKu80
+clones is similar to a clone of immortal
+p53
+−/−
+MEFs while the survival fraction for the average of the three
+EGFP
+clones is similar to the parental clone of
+p53
+−/−
+ku80
+−/−
+MEFs. Thus, in this cellular assay, the EGFP–HsKu80 fusion protein is functional for repairing damage generated by γ-radiation.
+Open in a separate window
+Figure 2
+EGFP–HsKu80 function in
+p53
+−/−
+ku80
+−/−
+MEFs. (
+A
+) Percent survival after exposure to γ-radiation. Six clones of
+p53
+−/−
+ku80
+−/−
+MEFs transfected with
+EGFP–HsKu80
+(asterisk) are compared with three clones transfected with
+EGFP
+(diamond) and to the parental clone of
+p53
+−/−
+ku80
+−/−
+MEFs (crosses) and to a single clone of
+p53
+−/−
+NHEJ+ MEF (circle). All clones are immortal and at greater than passage 50 by a 3T3 analysis. (
+B
+and
+C
+) A clone of
+p53
+−/−
+ku80
+−/−
+MEFs transfected with
+EGFP–HsKu80
+that is resistant to γ-radiation is compared to a clone of
+p53
+−/−
+ku80
+−/−
+MEF transfected with
+EGFP
+for sensitivity to TSA. (B) Survival fraction after a pulse of 100 nM TSA for 0, 24 and 48 h. (C) Growth curve after exposure to a pulse of TSA. Cells were exposed to either no TSA (closed symbols) or to 500 nM TSA for 24 h (open symbols). Time when cells are exposed to TSA is shown in gray.
+An
+EGFP–HsKu80
+clone that was shown to be resistant to γ-radiation was compared with a clone of
+EGFP
+MEF for proliferation after a brief exposure to a high concentration of TSA. Thus, the impact of a pulse of TSA was determined. MEFs, plated at low density, were exposed to 100 nM TSA for 0, 24 and 48 h; cells were then grown for 2 weeks without TSA and colony formation observed. Formation of colonies progressively declined with longer exposure to 100 nM TSA; however, the
+EGFP–HsKu80
+clone was more resistant than the
+EGFP
+clone (
+Figure 2B
+). There were 20-fold more colonies after 48 h of exposure to 100 nM TSA for the
+EGFP–HsKu80
+clone than for the
+EGFP
+clone. MEF, plated at high density, were exposed to a 24 h pulse of 500 nM TSA (from day 0 to day 1), MEF were then allowed to proliferate after removal of TSA. Cell number declined for both clones; however, cells recovered for the clone transfected with
+EGFP–HsKu80
+, but not
+EGFP
+(
+Figure 2C
+). Thus,
+EGFP–HsKu80
+was important for recovery of
+p53
+−/−
+ku80
+−/−
+cells after exposure to a pulse of 500 nM TSA.
+Localization of the EGFP–HsKu80 and EGFP protein was determined by fluorescence microscopy in response to γ-radiation and TSA (
+Figure 3A–N
+).
+p53
+−/−
+ku80
+−/−
+MEFs transfected with either
+EGFP–HsKu80
+or
+EGFP
+were tested for fluorescence after exposure to either 2 Gy or 100 nM TSA. Green fluorescence was diffused throughout the cytoplasm after exposure to either γ-radiation or TSA for MEFs transfected with
+EGFP
+(
+Figure 3H &I
+). Green fluorescence was also diffused for MEFs transfected
+EGFP–HsKu80
+without exposure to either γ-radiation or TSA (
+Figure 3J
+). However, exposure to either 2 Gy or 100 nM TSA increased nuclear fluorescence for
+EGFP–HsKu80
+MEFs (
+Figure 3K–N
+). Increased nuclear fluorescence was observed as soon as 2 h after exposure to TSA and persisted for at least 24 h. In addition, the levels of EGFP–HsKu80 did not change by increasing TSA concentration from whole cell extracts (
+Figure 3O
+); therefore, the increased nuclear fluorescence observed in
+EGFP–HsKu80
+MEF caused by exposure to 100 nM TSA is probably owing to translocation of EGFP–HsKu80 from the cytoplasm to the nucleus.
+Open in a separate window
+Figure 3
+Localization of EGFP–HsKu80 to the nucleus after exposure to either γ-radiation or TSA. (
+A
+–
+G
+) DAPI stained cells. (
+H
+–
+N
+) Observation of fluorescence. (A and H)
+EGFP
+MEF 8 h after exposure to 200 Rads. (B and I)
+EGFP
+MEF after 24 h of exposure to 100 nM TSA. (C and J)
+EGFP–HsKu80
+MEF (E-Ku) without exposure. (D and K)
+EGFP–HsKu80
+MEF 6 h after exposure to 200 Rads. (E and L)
+EGFP–HsKu80
+MEF for 2 h of exposure to 100 nM TSA. (F and M)
+EGFP–HsKu80
+MEF for 6 h of exposure to 100 nM TSA. (G and N)
+EGFP–HsKu80
+MEFs for 24 h of exposure to 100 nM TSA. (
+O
+) Western blot performed on whole cell extracts of
+EGFP–HsKu80
+MEF after exposure to 0, 20, 100 or 500 nM TSA and stained with anti-HsKu80 antibody. Arrow points to EGFP–HsKu80. The inset with Coomassie stained gel demonstrates equal loading for the western blot analysis.
+TSA induces apoptosis and checkpoint responses
+TSA-induced reduction in cell number may be caused by apoptosis. The levels of apoptosis were analyzed for the MEF exposed to 33 nM TSA during the time course displayed in
+Figure 1D
+. MEFs were tested for apoptosis by staining with Annexin V as they were counted during the time course (
+Figure 4A
+). All clones exhibited positive cells showing that reduced cell number was at least partly owing to apoptosis. Therefore, 33 nM TSA induces apoptosis independent of p53 since these clones are all mutated for p53.
+Open in a separate window
+Figure 4
+Cellular responses of MEFs to TSA. Time 0 is the point just before TSA is added to media. (
+A
+) Annexin V staining of MEFs analyzed for the time course described in
+Figure 1D
+. (
+B
+) Levels of p16
+INK4a
+, p21
+Cip1
+observed during 24 h of exposure to 100 nM TSA. Levels of hypophosphorylated pRb (the faster migrating band) (
+C
+) and levels of histone acetylation (
+D
+) for MEF exposed to a pulse of 100 nM TSA for 24 h (days 0–1). Cell extracts were taken at a variety of time points over 10 days. (B–D) Equal amounts of protein were added to each well as verified by Coomassie stain (data not shown).
+TSA-induced reduction in cell number may also be caused by cell cycle checkpoints. HDAC inhibitors stimulate replicative senescence by a p53-independent, p21
+Cip1
+-dependent response that arrests cells in G
+1
+/G
+0
+(
+42
+,
+43
+,
+47
+). MEFs deleted for p53 and Ku80, and transfected with either EGFP or EGFP–HsKu80, were tested. The status of cell cycle regulators was determined for p16
+INK4a
+and p21
+Cip1
+after 0–24 h of exposure to 100 nM TSA, (
+Figure 4B
+) and the phosphorylation status of pRb was determined after a 24 h pulse (days 0–1) of 100 nM TSA (
+Figure 4C
+). Exposure to 100 nM TSA induced levels of p16
+INK4a
+, p21
+Cip1
+within 24 h and induced hypophosphorylation of pRb by days 5–10 for MEF with either EGFP or EGFP–Ku80. These data show that exposure to 100 nM TSA activates a p53-independent cell cycle response in
+p53
+−/−
+ku80
+−/−
+MEF with and without HsKu80.
+Ku80 is not essential for global deacetylation of histones
+In yeast cells, Ku is important for silencing telomere-positioned genes (
+48
+,
+49
+), implicating Ku involvement in compacting chromatin. To determine if HsKu80 is important for deacetylation of histones, the level of histone acetylation was analyzed in
+p53
+−/−
+ku80
+−/−
+MEFs with and without HsKu80 after exposure of 100 nM TSA. The level of histone acetylation greatly increased after exposure to a 24 h pulse of 100 nM TSA and high levels of histone acetylation persisted for at least 10 days for
+p53
+−/−
+ku80
+−/−
+MEFs with and without HsKu80 (
+Figure 4D
+). Thus, there is no obvious quantitative difference in the level of genome-wide histone acetylation based on the presence of EGFP–HsKu80, indicating that HsKu80 does not participate in an activity that globally deacetylates histones.
+Induction of phosphorylated H2AX
+It is surprising that NHEJ-deleted cells are hypersensitive to a HDAC inhibitor, an agent not known for generating DSBs. Since both
+ku80
+−/−
+and
+lig 4
+−/−
+MEFs are extra sensitive to TSA, it is possible that TSA enables the formation of DSBs; perhaps the open chromatin caused by hyperacetylated histones are more vulnerable. Therefore, we investigated the presence of DNA DSBs by measuring phosphorylation of the histone H2A variant, H2AX, on C-terminal serine 139, known as γ-H2AX (
+50
+). γ-H2AX was measured after exposure to similarly toxic levels of either TSA or CPT (a topoisomerase 1 inhibitor known to generate DNA DSBs during S phase) (
+51
+). γ-H2AX levels were measured by flow cytometry analysis, nuclear fluorescence and western analysis (
+Figure 5
+). By all approaches the low doses of TSA (33 nM) and CPT (25 nM) did not increased γ-H2AX levels; however, exposure to 85 nM CPT increased γ-H2AX levels to a greater degree than exposure to an equivalent dose of TSA (100 nM). In addition, a very high dose of TSA did not increase γ-H2AX as judged by western analysis (
+Figure 5C
+). Thus, TSA does not elevate γ-H2AX to the same degree as equivalent doses of CPT.
+Open in a separate window
+Figure 5
+Levels of γ-H2AX after exposure to TSA and CPT. Compare 33 nM TSA to 25 nM CPT (reduces the number of control cells by 50–90%), 100 nM TSA to 85 nM CPT (reduces the number of control cells by slightly >99%) and 1000 nM TSA to 1000 nM CPT (both doses are much higher than used in the dose response curve). Fluorescence analysis by either (
+A
+) flow cytometry to quantify large numbers of cells or (
+B
+) microscopy to observe nuclear foci. (A) Analysis by flow cytometry. Representative histograms are shown for control cells (
+p53
+−/−
+NHEJ+) and NHEJ-deleted cells (
+p53
+−/−
+lig 4
+−/−
+and
+p53
+−/−
+ku80
+−/−
+). For the graph, the average amount of γ-H2AX per cell is shown relative to the DMSO-treated control cells. The average of two clones is displayed in 3D. (B) Analysis by cellular fluorescence. Representative examples are shown for control cells exposed to either 100 nM TSA or 85 nM CPT. (
+C
+) Analysis by western analysis for
+p53
+−/−
+NHEJ+ (top) and
+p53
+−/−
+ku80
+−/−
+(bottom) cells. The relative signal of γ-H2AX to β-actin is shown.
+Synergy of PI-3 kinase inhibitors and TSA
+TSA is a hydroxamic acid-based HDAC inhibitor that causes growth arrest, differentiation or apoptosis of a variety of transformed cells. Based on these observations, this class of HDAC inhibitor is considered potentially valuable for anti-cancer therapy (
+35
+). Data presented here demonstrate that
+p53
+-mutant cells exposed to low levels of TSA are capable of proliferation perhaps by adaptation. However,
+p53
+−/−
+cells are unable to proliferate in the presence of TSA if they are disabled for the NHEJ proteins Ku80 or Lig 4. Therefore, NHEJ proteins may be suitable therapeutic targets capable of enhancing anti-cancer therapies that inhibit histone deacetylation. A combination of anti-NHEJ and anti-HDAC drugs may prove efficacious for treatment of p53-mutant tumors and would, therefore, have potential broad-based application owing to the frequency of p53 loss during tumor formation (
+52
+).
+To test this possibility, a dose-response curve was performed for HeLa cells exposed to three different DNA–PK
+CS
+inhibitors: LY294002, NU7026 and vanillin. DNA–PK
+CS
+is essential for NHEJ and belongs to the family of PI-3 kinases that includes ATM, ATR and mTOR. LY294002 is a non-selective competitive PI-3 kinase inhibitor and NU7026 is an LY294002-based compound that is 5-fold more selective for DNA–PK
+CS
+than ATM or ATR (
+53
+,
+54
+). LY-294002 reduced cell number in synergy with TSA (16 and 33 nM), but not γ-radiation (1 Gy), (
+Figure 6A
+). TSA at 33 nM (reduces cell number by 10%) produced a dose response factor (DRF) of 1.3–2.2 for LY-294002. On the other hand, NU7026 reduced cell number in synergy with γ-radiation (1 Gy), but not TSA (33 nM) (
+Figure 6B
+). γ-Radiation (1 Gy) (reduces cell number by 10%) produced a DRF of ∼2–4 for NU7026. Vanillin is a natural compound that is a PI-3 kinase inhibitor selective for DNA–PK
+CS
+over ATM and ATR. Vanillin, similar to LY-294002, reduced cell number in synergy with TSA (33 nM), but not γ-radiation (1 Gy) (
+Figure 6
+). TSA at 33 nM (reduces cell number by 10%) produced a DRF of ∼2–4 for vanillin. Thus, PI-3 kinase inhibitors exhibit synergy with either IR or TSA but not both, demonstrating a discrepancy in their mode of action.
+Open in a separate window
+Figure 6
+PI-3 kinase inhibitors in combination with TSA and γ-radiation. HeLa cells were exposed to either 33 nM TSA or 1 Gy γ-radiation in combination with varying doses of (
+A
+) LY-294002, (
+B
+) vanillin and (
+C
+) NU-7026. TSA, but not γ-radiation, acts in synergy with LY-294002 and vanillin to reduce cell number while γ-radiation, but not TSA, acts in synergy with NU-7026 to reduce cell number. Survival fraction after exposure to 1 Gy is 0.92 ± 0.064 (top dashed line), to 33 nM TSA is 0.81 ± 0.061 (bottom dashed line), to 1 Gy + 33 nM TSA is 0.083 ± 0.039 (middle dashed line, almost superimposed with the bottom dashed line).DISCUSSION
+By our dose response assays, we measure a decrease in cell number after exposure to TSA; either apoptosis or decreased proliferation could be responsible. Both appear to contribute since cells exposed to TSA exhibit increased levels of Annexin V staining, demonstrating apoptosis and increased levels of p16
+INK4a
+, p21
+Cip1
+and hypophosphorylated pRb demonstrating cell cycle arrest. Cells of all genotypes, including
+p53
+−/−
+MEFs, fail to proliferate after exposure to high levels of TSA and these cells clearly exhibit senescent cell morphology; thus, cell cycle arrest is not dependent on p53 as predicted by previous results (
+42
+,
+43
+). However,
+p53
+−/−
+MEFs recover from a continuous exposure to low dose TSA or to a 24 h pulse of high dose TSA. Therefore, p53 is important for inhibiting cellular proliferation under these conditions. This is not surprising since TSA increases levels of acetylated p53 (
+55
+) and acetylation of p53 increases its function (
+14
+,
+56
+).
+The observation that NHEJ-deleted cells are hypersensitive to TSA indicates that TSA increases DNA DSBs or at least influences the repair of DNA DSBs. However, TSA is not known to cause DSBs and we show that TSA fails to increase γ-H2AX levels as compared with equivalent toxic doses of CPT. Therefore, the quantity of DSBs that leads to cytotoxicity after exposure to TSA is less than CPT. This observation suggests that TSA inhibits the repair of DSBs (either spontaneous or generated by TSA, but at low levels). Since deletion of NHEJ, but not alteration of HR, increases TSA sensitivity, it is possible that TSA induces changes that increase the importance of NHEJ such that cells are more reliant upon this pathway. One possible explanation is that TSA-exposed cells accumulated in G
+1
+, a cell cycle phase that depends on NHEJ, not HR. Another possible explanation is that NHEJ is the preferred pathway to repair a DSB with hyperacetylated histones that would cause a more open state of chromatin that could either inhibit HR or facilitate NHEJ. Data from the budding yeast
+S.cerevisiae
+support this explanation since the status of histone acetylation is important for NHEJ but not for HR. However, these yeast data are confusing in that NHEJ appears to be facilitated by both HAT (
+28
+,
+29
+) and HDAC activity (
+30
+). Since histone H4 may be acetylated on multiple lysines it is possible that acetylation of some lysines and deacetylation of other lysines are important for preparing the DSB for repair by NHEJ. Also, the timing may be critical. Importantly, in yeast, both HAT (
+29
+) and HDAC (
+30
+) activity impact NHEJ, but not HR as judged by direct repair assays. Thus, these yeast data support the explanation that NHEJ is preferred for repairing DSBs after exposure to TSA. By any explanation, NHEJ, but not HR, improves survival of immortalized cells exposed to TSA.
+Recently, cells deleted for Ku70 were shown to be hypersensitive to TSA (
+57
+). In addition to NHEJ, Ku70 is also important for negatively regulating apoptosis by sequestering Bax (
+58
+,
+59
+), a protein that promotes apoptosis. This Ku70–Bax association is influenced by acetylation of Ku70 (
+60
+); therefore, it is possible that Ku70-mutant cells are hypersensitive to TSA owing to increased Bax-induced apoptosis, not defective NHEJ. This possibility could also be true for Ku80-mutant cells since deletion of Ku80 results in a marked decrease of Ku70 (
+17
+); albeit some Ku70 is still present and its association with Bax may not be affected. However, deletion of Lig4 does not affect levels of Ku and would not probably impact the Ku70–Bax association; thus, the increased sensitivity to TSA is probably owing to defective NHEJ. Because both Lig4-mutant and Ku80-mutant cells are hypersensitive to TSA, it is likely that at least part of the sensitivity of Ku70-mutant cells is due to defective NHEJ perhaps in combination with defective regulation of Bax. This possibility is supported by our observation that
+ku80
+−/−
+MEFs exhibit the same sensitivity as
+lig 4
+−/−
+MEFs at 33 nM TSA but greater sensitivity at 100 nM TSA; suggesting problems in addition to defective NHEJ are associated with deletion of Ku80 that is revealed with a higher dose of TSA.
+Since cells exposed to TSA depend on NHEJ for survival, the combination of a HDAC inhibitor and an anti-NHEJ molecule could be useful for treating cancer. TSA and other HDAC inhibitors are being considered as potential anti-cancer therapeutics because they induce cell cycle arrest and apoptosis. Inhibitors to the PI-3 kinase family that includes DNA–PK
+cs
+are also being considered as potential anti-cancer therapeutics because they should sensitize cells to DSBs caused by γ-radiation if they inhibit ATM, ATR or DNA–PK
+cs
+. We show that the PI-3 kinase inhibitors, LY294002 and vanillin, reduced HeLa cell number with synergy in combination with TSA but not γ-radiation. The opposite was found to be true for another PI-3 kinase inhibitor NU7026. These observations show the complexity of these PI-3 kinase inhibitors. Since LY294002 and NU7026 are in the same family, one would predict they would give similar results (perhaps to varying degrees). In addition, if LY294002 and NU7026 truly inhibited DNA–PK
+cs
+, one would expect synergy with both radiation and TSA. This discrepancy could be due to the varying specificities these agents have for inhibiting different PI-3 kinases; however, the same expectation could be made for inhibiting other PI-3 kinases like ATM and ATR. NU7026 is more specific for DNA–PK
+cs
+than LY294002 suggesting that inhibition of DNA–PK
+cs
+produces synergy with irradiation but not TSA. However, again there is confusion since vanillin, another PI-3 kinase inhibitor that is specific to DNA–PK
+cs
+, exhibits synergy with TSA but not with γ-radiation. It is possible that vanillin and NU7026 both inhibit DNA–PK
+cs
+but at different active sites that are specific for responding to either TSA or irradiation, respectively. Alternatively, the dose of TSA may differentially impact proteins (compare
+Figure 1D to E
+) and cellular outcomes (
+Figure 1A
+). Thus, the complexity of these interactions may be influenced by TSA dose in relationship to the complexity of a living cell in ways that
+in vitro
+assays cannot predict and point to the necessity of testing inhibitors in living systems. Even though these data are confusing, the genetic data is straightforward and show that the NHEJ proteins, Ku80 and Lig4 are important for survival of cells exposed to TSA and support the notion that PI-3 kinase inhibitors act in synergy with TSA by inhibiting NHEJ.Acknowledgments
+We thank Sayadeth Khounlo and Debbie Leibham for excellent technical assistance and the laboratory of Dr Frederick Alt for the generous gift of the
+p53
+−/−
+DNA ligase IV
+−/−
+MEF and the laboratory of Dr Allan Bradley for the generous gift of the
+blm
+tm3Brd/tm4Brd
+ES cells. This work was supported by a grant from the National Cancer Institute (1RO1CA76317-01), the National Institutes of Aging (P01 AG17242) and the Department of Defense (DAMD17-02-1-0587) to P.H. Funding to pay the Open Access publication charges for this article was provided by PO1 AG17242.
+Conflict of interest statement
+. None declared.

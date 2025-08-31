@@ -1,0 +1,761 @@
+Key Points
+Targeting RAD52 DNA binding domain I by peptide aptamer induces synthetic lethality in BRCA-deficient leukemias.
+Individual patients with BRCA-deficient leukemias could be identified by genetic and epigenetic profiling.Abstract
+Homologous recombination repair (HRR) protects cells from the lethal effect of spontaneous and therapy-induced DNA double-stand breaks. HRR usually depends on BRCA1/2-RAD51, and RAD52-RAD51 serves as back-up. To target HRR in tumor cells, a phenomenon called “synthetic lethality” was applied, which relies on the addiction of cancer cells to a single DNA repair pathway, whereas normal cells operate 2 or more mechanisms. Using mutagenesis and a peptide aptamer approach, we pinpointed phenylalanine 79 in RAD52 DNA binding domain I (RAD52-phenylalanine 79 [F79]) as a valid target to induce synthetic lethality in BRCA1- and/or BRCA2-deficient leukemias and carcinomas without affecting normal cells and tissues. Targeting RAD52-F79 disrupts the RAD52–DNA interaction, resulting in the accumulation of toxic DNA double-stand breaks in malignant cells, but not in normal counterparts. In addition, abrogation of RAD52–DNA interaction enhanced the antileukemia effect of already-approved drugs. BRCA-deficient status predisposing to RAD52-dependent synthetic lethality could be predicted by genetic abnormalities such as oncogenes
+BCR-ABL1
+and
+PML-RAR
+, mutations in
+BRCA1
+and/or
+BRCA2
+genes, and gene expression profiles identifying leukemias displaying low levels of BRCA1 and/or BRCA2. We believe this work may initiate a personalized therapeutic approach in numerous patients with tumors displaying encoded and functional BRCA deficiency.Introduction
+In recent years, it has become clear that cancer stem cells (CSCs) have a dual role, acting both as tumor-initiating cells and as therapy-refractory cells.
+1
+Therefore, even if antitumor treatment clears a disease burden consisting mostly of cancer progenitor cells (CPCs), it usually fails to eradicate CSCs and residual CPCs that developed therapy resistance. Altered DNA repair mechanisms were suggested to be responsible for stimulation of the survival of CSCs and/or CPCs under genotoxic stress caused by reactive oxygen species (ROS), recombination-activating genes 1 and 2 (RAG1/2), activation-induced cytidine deaminase (AID), and cytotoxic treatment.
+2
+-
+4
+Thus, cancer cells may be “addicted” to double-strand break (DSB) repair mechanisms, and targeting these pathways could sensitize CSCs and CPCs to the lethal effect of DNA damage.
+5
+DNA DSBs, the most lethal DNA lesions, are usually repaired by homologous recombination repair (HRR) and/or nonhomologous end-joining (NHEJ).
+6
+Although NHEJ plays a major role in nonproliferating cells, HRR works predominantly on broken replication forks and usually depends on the BRCA1 and BRCA2 (BRCA)–RAD51 pathway.
+7
+,
+8
+However, in cells harboring mutation or exhibiting low expression of BRCA1 and/or BRCA2 (BRCA-deficient), alternative mechanisms such as RAD52-RAD51 may emerge to protect cells from the lethal effect of DSBs.
+9
+To target HRR in tumor cells, we employed the phenomenon called synthetic lethality, which relies on the addiction of cancer cells to a single DNA repair pathway, whereas normal cells operate 2 or more mechanisms.
+10
+This concept was applied to eliminate cancer cells carrying inactivating mutations in
+BRCA1
+and
+BRCA2
+by poly adenosine 5′-diphosphate ribose polymerase (PARP) inhibitors.
+11
+We hypothesized that RAD52-dependent synthetic lethality could be induced not only in cells harboring
+BRCA1/2
+mutations but also in those in which the BRCA–RAD51 pathway is disrupted by oncogenes (genetic profiling) and/or by epigenetic modifications associated with malignant phenotype (epigenetic profiling).
+To test the hypothesis that an oncogene can predispose tumor cells to synthetic lethality by attacking RAD52, we employed t(9;22) chronic myelogenous leukemia (CML) and B-cell acute lymphoblastic leukemia (B-ALL) expressing BCR-ABL1, and t(15;17) acute promyelocytic leukemia (APL) expressing PML-RAR. We, and others, have reported that BCR-ABL1 and PML-RAR not only increase the number of lethal DSBs in leukemia stem cells (LSCs) and leukemia progenitor cells (LPCs) but also constitutively downregulated BRCA1 and RAD51 paralog RAD51C (epistatic to BRCA2), respectively.
+12
+-
+16
+To examine the hypothesis that epigenetic-mediated modulation of BRCA1/2 in individual patients with leukemia can sensitize tumor cells to RAD52-dependent synthetic lethality, we used acute myelogenous leukemia (AML), B-ALL, and T-cell acute lymphoblastic leukemia (T-ALL) patient cells displaying a mosaic of genetic aberrations that express variable levels of BRCA1 and/or BRCA2, probably caused by promoter methylation status.
+17
+,
+18
+To exert synthetic lethality in genetic and epigenetic BRCA-deficient tumor cells, we decided to target RAD52 because it has been shown that shRNA-mediated downregulation of RAD52 is lethal in BRCA2-deficient tumor cell lines.
+8
+To attack RAD52, we designed small peptide aptamer–disrupting RAD52 DNA binding capability. Here we show that on the basis of genetic and epigenetic profiling, we can identify large number of patients with BRCA-deficient leukemias and solid tumors, which could be eradicated by synthetic lethality targeting RAD52 DNA binding activity.Methods
+Peptide aptamers
+F79 synthetic peptide (aptamer) containing a sequence of 13 amino acids surrounding RAD52(F79) (VINLANEM
+F
+GYNG-GGG-YARAAARQARA) and the aptamer with F79A amino acid substitution were purchased from Genemed Synthesis A 3-residue polyglycine linker and protein transduction domain 4 derived from the HIV–transactivator of transcription were added to facilitate the passage across lipid bilayers and direct intracellular transduction of the aptamers.
+19
+The aptamers were also modified by N-terminal tetramethyl-rhodamine and C-terminal amidation for intracellular detection and reduction of proteolytic degradation.
+20
+They were purified by high-performance liquid chromatography and characterized by mass spectroscopy. The studies involving cells from patients and healthy donors were approved by the appropriate institutional review boards of Temple University School of Medicine, University of Pennsylvania, University of Glasgow, University of California San Francisco, and University of Maryland School of Medicine. These studies were conducted in accordance with the Declaration of Helsinki.
+Aptamer treatment: in vitro
+The aptamers, imatinib, ponatinib, and all-trans retinoic acid (ATRA), were added to cell suspensions when indicated at time 0 and 24 hours. For clonogenic assay, the aptamer, imatinib, or a combination was added to Lin
+−
+CD34
++
+cells in the presence of a cocktail of growth factors (100 ng/mL stem cell factor, 20 ng/mL interleukin3 [IL-3], 100 ng/mL fms-related tyrosine kinase 3 ligand, 20 ng/mL granulocyte colony-stimulating factor , 20 ng/mL IL-6) followed by plating in Methocult; colonies were scored after 5 to 7 days. For quiescent/proliferating cells, Lin
+−
+CD34+ cells were stained with CellProliferation Dye eFluor670 (CPD; eBioscience) and incubated for 5 days in StemSpan SFEM medium supplemented with the cocktail of growth factors (see earlier), and F79 and/or imatinib were added when indicated. Lin
+−
+CD34
++
+CD38
+-
+CPD
+max
+quiescent and Lin
+−
+CD34
++
+CD38
+-
+CPD
+low
+proliferating cells were detected by flow cytometry using fluorescein isothiocyanate–conjugated anti-Lin, phycoerythrin (PE)-Cy7-conjugated anti-CD34, and PE-conjugated anti-CD38 antibodies (BD Pharmingen), as described before.
+15
+AML, B-ALL, and T-ALL xenograft cells were tested in Iscove modified Dulbecco medium supplemented with 10% to 20% fetal bovine serum and 50 ng/mL stem cell factor+20 ng/mL IL-6 + 20 ng/mL IL-3 (AML), 10 ng/mL IL-7 (B-ALL), and 100 U/mL IL-2 (T-ALL). APL primary cells were tested in Iscove modified Dulbecco medium supplemented with 10% fetal bovine serum. Capan-1, HCC1937, and UVB1.289 cell lines were irradiated or treated with etoposide and incubated with aptamers.
+Aptamer treatment: in vivo
+Severe combined immunodeficiency (SCID) mice were injected IV with 10
+3
+BCR-ABL1-positive Rad52
++/+
+leukemia cells. Three days later, aptamers (2.5 mg/kg) were injected IV for 14 consecutive days. In vivo uptake of F79 aptamer was measured by a fluorescence-activated cell sorter (FACS). Moribund animals were analyzed for leukemia signature such as leukocytosis, splenomegaly, and the presence of green fluorescent protein (GFP)+ cells in peripheral blood, spleen, and bone marrow. Survivors were examined by FACS for residual GFP+ cells and by reverse transcription-polymerase chain reaction (RT-PCR) for the presence of BCR-ABL1 transcript. Internal organs were analyzed histopathologically for aptamer toxicity.
+Nu/nu
+mice were inoculated into subcutaneous dorsa with 2 × 10
+6
+Capan-1 cells. After 7 days, animals were randomized and treated with aptamers as described earlier. Tumor volumes were calculated at the end of treatment using the formula
+a
+2
+×
+b
+× 0.52, where
+a
+is the longer diameter and
+b
+is the shorter diameter. These studies were approved by the Institutional Animal Care and Use Committees of Temple University School of Medicine, University of California San Francisco, and University of Maryland School of Medicine.
+Molecular modeling
+Modeling was performed using the Sybyl X Suite of software available from Tripos. Graphics and measurements were made using PYMOL v1.5 (Schrodinger). Interface analysis was performed using the PBDePISA service available from the European Bioinformatics Institute.
+21
+The A, B, and K chains of the human RAD52 undecamer were extracted from the published crystal structure (Protein Data Bank
+1KN0
+).
+22
+The structure of the F79 aptamer was built by extracting residues 71–83 from the human RAD52 monomer in their native conformation.
+Statistical analyses
+Data are expressed as mean ± standard deviation (SD) and were compared using the unpaired Student
+t
+test;
+P
+values less than .05 were considered significant. Median survival time of the mice was calculated by Kaplan-Meier log-rank survival analysis.Results
+Targeting HRR to inhibit CML
+CML–chronic phase (CP) and CML–accelerated phase (AP) LSCs had significantly increased colony formation and expansion in liquid culture compared with normal HSCs (
+Figure 1A
+), indicating that LSCs have increased cell division and reduced quiescence compared with normal HSCs. Global gene expression studies revealed that one of the most significantly upregulated functional groupings of genes in both CML-CP and CML-AP LSCs and early LPCs was that responsible for HRR (
+Figure 1B
+; supplemental Figure 1, available on the
+Blood
+website). Moreover, ingenuity pathway analysis clearly illustrated that mRNA levels of several genes that play key roles in HRR (BRCA1, BRCA2, RAD51, RAD54, DNA pol-1, DNA ligase, GEN1) are upregulated in LSCs (
+Figure 1C
+).
+Open in a separate window
+Figure 1
+The concept of RAD52-dependent synthetic lethality in proliferating LSCs/LPCs.
+(A, upper) Fold over baseline expansion of different stem and progenitor cell subpopulations from 3 normal, 6 CML-CP, and 4 CML-AP samples during a 5-day culture; (lower) number of colonies from different stem and progenitor cell subpopulations; *
+P
+< .05 in comparison with normal counterparts. N.D., not determined. (B, upper) Differential expression of genes involved in HRR in stem and progenitor populations in CML-CP and CML-AP patients, and normal donors identified by gene ontology ANOVA; (lower) heat map of HRR genes upregulated in LSCs and LPCs compared with normal HSCs. Results from HSCs and LSCs are highlighted in boxes. (C) Ingenuity pathway analysis identifies HRR as a key upregulated pathway in LSCs. (D) Percentage of the remaining colony-forming activity of Lin
+−
+CD34
++
+bone marrow cells from 3 healthy donors (○) and 3 CML-CP patients (●) treated with indicated micromol concentrations of B02 and RI-1. (E) Percentage of Flag-RAD51(WT) and Flag-RAD51(F259V) foci colocalizing with endogenous RAD52 in 10 cells/group; *
+P
+< .001. (F) Number of GFP+ cells representing HRR activity in parental 32Dcl3 (32D) and BCR-ABL1-positive 32Dcl3 (32D-B/A) cells expressing Flag-RAD51(WT) (black bars) and Flag-RAD51(F259V) (gray bars); *
+P
+= .003. (G) Number of colonies from parental UT7 and BCR-ABL1-positive UT7 (UT7-B/A) cells expressing Flag-RAD51(WT) (black bars) and Flag-RAD51(F259V) (gray bars); *
+P
+< .001. (H-I) RAD52-dependent synthetic lethality. (H) HSCs/HPCs usually employ the BRCA1/BRCA2/PALB2-RAD51 pathway to repair a DSB, whereas the RAD52-RAD51 axis forms an alternative mechanism. Thus, RAD51 foci often colocalize with BRCA1, but not RAD52 foci. (I) The downregulation of BRCA1 protein in CML-CP LSCs/LPCs forces them to use the RAD52-RAD51 pathway. In concordance, RAD51 nuclear foci often colocalize with RAD52, but not BRCA1. Twenty-five cells per group were analyzed; representative nuclear foci are shown (yellow color indicates colocalization).
+Imatinib-naive and imatinib-treated LSCs contain approximately 2 to 4 times more highly toxic DSBs than normal counterparts
+15
+,
+16
+; thus, leukemia cells could be more vulnerable to the inhibitors of HRR. The first target of choice was RAD51 recombinase, which promotes DNA strand exchange, the key element in HRR.
+6
+B02 and RI-1 small molecule compounds that inhibit RAD51 recombinase
+23
+,
+24
+exerted a similar antiproliferative effect in Lin
+−
+CD34
++
+cells from healthy donors and patients with CML-CP (
+Figure 1D
+) indicating that different target in HRR needs to be identified to achieve therapeutic effect.
+Despite transcriptional activation, the BRCA1 protein is strongly downregulated in imatinib-naive and/or imatinib-treated CML cells
+12
+,
+25
+because of repressed BRCA1 mRNA translation (our unpublished observation), suggesting that the BRCA1/BRCA2-RAD51 branch of HRR is dysfunctional. At the same time, BCR-ABL1 kinase-mediated upregulation of the expression and tyrosine phosphorylation of RAD51 on Y315 results in enhanced repair,
+26
+which implicates an alternative HRR mechanism. Intriguingly, RAD51 phospho-Y315 displays an enhanced ability to interact with RAD52 to facilitate HRR.
+27
+To determine whether RAD52-RAD51-dependent HRR plays a critical role in HRR in CML cells, we used a RAD51(F259A) mutant that does not bind RAD52 but should not affect HRR in BRCA-proficient cells.
+28
+Flag-RAD51(F259V) mutant, in comparison with Flag-RAD51(wild-type; WT), caused a more than fivefold reduction of the nuclear foci formation with RAD52 in BCR-ABL1-positive 32Dcl3 cells displaying upregulated HRR (
+Figure 1E
+).
+26
+To assess the role of RAD52-RAD51 interaction in HRR, a model was used in which a single copy of recombination cassette was integrated in to the genome of 32Dcl3 parental cells and their BCR-ABL1-positive counterparts.
+29
+RAD51(F259V) inhibited HRR in BCR-ABL1-positive, but not parental, cells (
+Figure 1F
+). Somehow, a limited inhibitory effect of RAD51(F259V) on HRR in BCR-ABL1-positive cells is probably a result of the fact that the mutant had to compete with overexpressed and hyperactivated endogenous RAD51.
+26
+Moreover, RAD51(F259V) inhibited clonogenic activity by almost twofold in BCR-ABL1_transformed BRCA1-deficient human leukemia cells
+12
+but not in the parental counterparts (
+Figure 1G
+).
+To investigate the RAD52-RAD51 pathway in primary cells, Lin
+−
+CD34
++
+cells from patients with CML-CP and healthy donors were irradiated with 4 Gy followed by immunofluorescent detection of RAD51 nuclear foci colocalizing with BRCA1 and RAD52. Normal Lin
+−
+CD34
++
+hematopoietic cells contained 8.6 ± 3.9 BRCA1-RAD51 foci and 2.1 ± 1.2 RAD52-RAD51 foci (
+Figure 1H
+); conversely, CML-CP counterparts harbored 2.2 ± 1.8 BRCA1-RAD51 foci and 21.0 ± 5.4 RAD52-RAD51 foci (
+Figure 1I
+).
+In conclusion, the RAD52-RAD51 pathway appears to repair numerous lethal DSBs to promote survival/proliferation in BRCA1-deficient CML-CP/AP LSCs and LPCs but is expendable in BRCA-proficient normal cells. We postulate that targeting RAD52 may induce synthetic lethality in BRCA-deficient LSCs and LPCs but not in normal cells (
+Figure 1H-I
+).
+8
+DNA binding activity of RAD52 plays a critical role in BCR-ABL1-mediated leukemogenesis
+To examine in detail the role of RAD52 in synthetic lethality, BCR-ABL1 kinase was expressed in bone marrow cells harvested from
+Rad52
++/+
+and
+Rad52
+−/−
+mice. The absence of Rad52 had a profound effect on BCR-ABL1-mediated leukemogenesis by increasing apoptosis and decreasing S and G2/M cell cycle progression (
+Figure 2A
+), abrogating clonogenic potency in vitro (
+Figure 2B
+), and diminishing or preventing expansion of the most primitive long-term leukemia stem cells and also short-term leukemia stem cells, respectively (
+Figure 2C
+). Moreover, intravenous injection of 10
+3
+and 10
+4
+GFP+BCR-ABL1-positive
+Rad52
++/+
+bone marrow cells produced leukemia in all 12 nonobese diabetic/SCID mice (6 mice/group) (median survival time [MST] = 37.6 ± 0.4 and 53.6 ± 0.7 days, respectively); however, 0 of 5 (MST > 200 days;
+P
+= .002) and only 2 of 5 (MST = 145 ± 4.0 days;
+P
+= .002) mice inoculated with 10
+3
+and 10
+4
+GFP+BCR-ABL1-positive
+Rad52
+−/−
+bone marrow cells, respectively, developed leukemia (
+Figure 2D
+).
+Open in a separate window
+Figure 2
+RAD52 DNA binding plays a critical role in BCR-ABL1-mediated leukemogenesis by preventing the accumulation of ROS-induced lethal DSBs.
+(A-D) BCR-ABL1
+Rad52
++/+
+(black bars) and BCR-ABL1
+Rad52
+−/−
+(green bars) murine bone marrow cells were analyzed for (A) cell cycle progression (*
+P
+< .05 in comparison with corresponding
++/+
+cells); (B) clonogenic activity (*
+P
+= .008); (C) frequency of long-term leukemia stem cells (LT-LSCs) and short-term leukemia stem cells (ST-LSCs) at 0, 4, and 8 weeks after BCR-ABL1 expression (*
+P
+= .04; **
+P
+= .001; ***
+P
+< .001 in comparison with the corresponding
++/+
+subpopulation); and (D) leukemia induction in SCID mice (5-6 mice/group). (E-G) BCR-ABL1-positive (B/A) and nontransfected (−)
+Rad52
+−/−
+cells (green bars) and
+Rad52
++/+
+counterparts (black bars) were incubated with
+N
+-acetyl-cysteine (NAC) and vitamin E (VE) when indicated. (E) Percentage of Lin
+−
+c-Kit
++
+Sca-1
++
+cells with more than 20 γ-H2AX foci; *
+P
+< .01 in comparison with B/A-positive
+Rad52
++/+
+and B/A+NAC and B/A+VE
+Rad52
+−/−
+counterparts. (F) Percentage of LSCs cells at 0 and 8 weeks posttransfection; *
+P
+< .05 in comparison with other groups at 8 weeks. (G) Clonogenic activity of LSCs;
+P
+< .001 in comparison with NAC and VE-treated cells. (H-I) B/A
+Rad52
++/+
+cells and B/A
+Rad52
+−/−
+cells transfected with RAD52(WT), RAD52(F79A), RAD52(K102A), and RAD52(Y104F). (H) Percentage of cells with more than 20 γ-H2AX foci; *
+P
+< .05 in comparison with B/A
+Rad52
++/+
+cells; **
+P
+< .05 in comparison with B/A, B/A+F79A and B/A+K102A
+Rad52
+−/−
+cells. (I) Number of clonogenic cells;
+P
+< .02 in comparison with B/A
+Rad52
++/+
+cells. (J) Number of Lin
+−
+CD34
++
+CML-CP clonogenic cells expressing RAD52(WT), RAD52(F79A), and RAD52(Y104F); *
+P
+< .001 in comparison with WT. (K) Number of GFP+ cells representing HRR activity in parental 32Dcl3 (32D) and 32D-B/A cells expressing RAD52(WT) and RAD52(F79A) mutant; *
+P
+< .001 in comparison with 32D-B/A WT.
+As expected, the presence of BCR-ABL1 kinase elevated the number of DSBs in
+Rad52
++/+
+Lin
+−
+c-Kit
++
+Sca-1
++
+LSCs; however, BCR-ABL1-positive
+Rad52
+−/−
+counterparts accumulated even more of these lethal DNA lesions (
+Figure 2E
+), which was accompanied by reduced expansion (
+Figure 2F
+) and abrogated clonogenic potential (
+Figure 2G
+). Antioxidants (vitamin E and
+N
+-acetyl-cysteine) diminished the number of DSBs and rescued proliferation of BCR-ABL1-positive
+Rad52
+−/−
+LSCs.
+To identify potential therapeutic targets, we focused on RAD52 DNA binding activity. At DSBs, RAD52 can direct annealing of highly homologous ssDNA tails with a dsDNA to promote HRR.
+30
+RAD52 has 2 DNA binding domains, I and II (DNA I and DNA II, respectively), and amino acid residues F79 and K102, located in DNA I and DNA II, respectively, are critical for RAD52 DNA binding capacity.
+31
+In contrast to the WT, RAD52 DNA binding-deficient mutants (F79A and K102A) were not able to reduce the number of DSBs (
+Figure 2H
+) and rescue clonogenic activity (
+Figure 2I
+) when expressed in BCR-ABL1
+Rad52
+−/−
+bone marrow cells. A similar effect was observed in Lin
+−
+CD34+ CML-CP cells: RAD52(F79A) mutant abrogated its clonogenic potential in comparison with WT RAD52 (
+Figure 2J
+). Moreover, RAD52(F79A) mutant diminished HRR activity in the BCR-ABL1 32Dcl3 murine leukemia cell line, but not in parental counterparts (
+Figure 2K
+). Altogether, DNA binding domains of RAD52 appear to be essential for maintaining HRR and the growth of CML-CP LSCs and early LPCs.
+In addition, we and others
+32
+have found that BCR-ABL1 interacts with the C-terminal portion of RAD52, resulting in tyrosine phosphorylation of Y104 located in RAD52 DNA II and enhanced nuclear foci formation (supplemental Figure 2). However, the phosphorylation-less RAD52(Y104F) mutant behaved similar to a WT protein in rescue experiments (
+Figure 2H-I
+), suggesting that RAD52(phospho-Y104) may facilitate mutagenic single-strand annealing, but not prosurvival HHR, and is not required to protect imatinib-naive and imatinib-treated leukemia cells from the lethal effect of DSBs.
+Targeting DNA binding activity of RAD52 inhibits HRR and abrogates clonogenic activity of BCR-ABL1-positive cells
+The N-terminal portion of RAD52 (amino acids 1–212) containing DNA I and DNA II forms a ring structure to interact with ssDNA and dsDNA, respectively.
+30
+The surface structure of an individual protomer shows that RAD52 DNA I, but not DNA II, forms a groove, with F79 positioned at the bottom of the pocket near the interface (
+Figure 3A
+).
+31
+The region containing F79 protrudes into the ssDNA binding space and/or may also interact with a hydrophobic pocket of the neighboring RAD52 protomer (
+Figure 3B
+).
+22
+Open in a separate window
+Figure 3
+F79 aptamer disrupts RAD52-ssDNA binding and inhibits HRR to elevate the number of lethal DSBs and eradicate CML.
+(A) Surface views of the RAD52(1-212) protomer; the top and the bottom of the ssDNA binding groove are marked with arrows. Amino acids forming the ssDNA binding groove (DNA I) are colored in light/dark blue and these binding to dsDNA (DNA II) are in magenta. The location of amino acids V71-G83, which form the F79 aptamer, is highlighted in dark blue. All structures were created using the PyMOL program. (B) The F79 aptamer surface (light green) is shown between 2 RAD52 monomers to illustrate the size of the aptamer and demonstrate that it is a better fit to the binding groove than the other RAD52 monomer. The zoomed box focuses on the area that the aptamer occupies between the 2 RAD52 monomers. (C) F79 and F79A aptamers were added to the mixture of IRDye800-ssDNA and GST-RAD52 protein (right) or IRDye800-ssDNA and GST-RAD51 protein (left); the presence of ssDNA-RAD52 and ssDNA-RAD51 complexes were detected by agarose fluorescent gel shift assay (upper) combined with western blotting (lower). (D) Number of colonies from normal and CML-CP Lin
+−
+CD34
++
+cells (circles and triangles, respectively) incubated with the indicated concentrations of F79A (gray) and F79 (blue) aptamer; *
+P
+< .001 in comparison with F79A. (E-H) Cells were untreated (white bars) or treated with F79A (gray bars) and F79 (blue bars) aptamer. (E) Percentage of GFP+ cells representing HRR activity in 32Dcl3 and BCR-ABL1 (B/A)-32Dcl3 cells; *
+P
+= .01. (F) Number of RAD51 foci/nucleus in Lin
+−
+CD34
++
+CML-CP; *
+P
+< .001. (G) Number of RAD52 foci/nucleus in Lin
+−
+CD34
++
+CML-CP; *
+P
+< .001. (H) Percentage of Lin
+−
+CD34
++
+CML-CP cells containing more than 20 γ-H2AX foci/nucleus; *
+P
+< .001. (I) Number of colonies from BCR-ABL1
+Rad52
++/+
+and
+Rad52
+−/−
+cells incubated with aptamers; *
+P
+< .001 in comparison with untreated and F79A group. (J) Clonogenic activity of Lin
+−
+CD34
++
+cells from 3 healthy donors and 3 CML-CP and 3 CML-AP patients incubated with aptamers; *
+P
+< .001 in comparison with untreated counterparts. (K) Survival of nonobese diabetic/SCID mice bearing BCR-ABL1
+Rad52
++/+
+leukemia and treated with F79 and F79 aptamers (8 mice/group). (L) RT-PCR detection of
+BCR-ABL1
+mRNA in bone marrow mononuclear cells from mice injected with BCR-ABL1
+Rad52
++/+
+leukemia cells and subsequently treated with F79 aptamer, which survived more than 200 days.
+GAPDH
+served as positive control. %GFP+ PBL, percentage of GFP+ BCR-ABL1 leukemia cells detected in peripheral blood mononuclear cells.
+Because mutagenic analysis revealed a critical role of F79 for the RAD52-mediated protection of CML cells from the lethal effect of DSBs (
+Figure 2H-K
+), we designed peptide aptamers containing a 13–amino acid sequence surrounding F79 in the α2 helix of RAD52. Molecular modeling suggested that F79 aptamer should prevent RAD52 from ssDNA binding by deregulation of the proper assembly of the RAD52 ring structure (
+Figure 3B
+, supplemental Video 1). In concordance, F79 aptamer, but not F79A aptamer, abrogated the capability of purified RAD52 protein to bind ssDNA without affecting the DNA binding activity of RAD51 (
+Figure 3C
+).
+Rhodamine-labeled aptamers were readily detectable in the cells, especially in the nucleus (supplemental Figure 3A). F79 aptamer demonstrated a dose-dependent effect against BRCA-deficient Lin
+−
+CD34
++
+CML-CP cells, whereas normal counterparts were not affected (
+Figure 3D
+). On the basis of these results, a 5-μM aptamer concentration was chosen for subsequent experiments.
+F79 aptamer inhibited HRR in BCR-ABL1 32Dcl3 cells, but not in the parental counterparts (
+Figure 3E
+), and it did not affect NHEJ activity (supplemental Figure 3B). These effects were accompanied by the inhibition of RAD52 and RAD51 nuclear foci formation (
+Figure 3F-G
+) and the increased number of lethal DSBs (
+Figure 3H
+) in BCR-ABL1 32Dcl3 cells. In addition, F79, but not F79A, reduced clonogenic activity of BCR-ABL1
+Rad52
++/+
+leukemia cells by more than threefold but did not affect the BCR-ABL1
+Rad52
+−/−
+counterparts (
+Figure 3I
+). Importantly, F79 aptamer suppressed clonogenic growth of Lin
+−
+CD34
++
+CML-CP and CML-AP patient cells without affecting normal counterparts (
+Figure 3J
+).
+To demonstrate the antileukemia activity of F79 aptamer in vivo, SCID mice bearing BCR-ABL1 murine leukemia were treated with F79 and F79A aptamers. F79 aptamer was readily detectable in peripheral blood, spleen, and bone marrow cells of the injected animals (supplemental Figure 3C). Mice treated with F79A aptamer succumbed to leukemia after 66.8 ± 3.0 days (
+Figure 3K
+) with leukocytosis (29 100 ± 4340 white blood cells/μL), splenomegaly (194 ± 84 mg), and an overwhelming presence of GFP+ BCR-ABL1 leukemia cells detected by flow cytometry in peripheral blood, spleen, and bone marrow (68% ± 5%, 91% ± 4%, and 92% ± 4%, respectively). Conversely, all animals receiving F79 survived more than 200 days, did not display leukocytosis (13 970 ± 4,980 white blood cells/μL) or splenomegaly (96 ± 31 mg), and only 2 of 8 mice harbored detectable GFP+ cells in peripheral blood and
+BCR-ABL1
+transcript in bone marrow (
+Figure 3L
+). Organs such as femoral bone, liver, lungs, kidneys, pancreas, gastrointestinal tract, and spleen harvested in the treated cohort showed normal morphologic features with no evidence of ischemia or drug toxicity (supplemental Figure 3D).
+Synthetic lethality induced by targeting RAD52 could be predicted by the genetic profiling of tumors to detect BRCA deficiency
+To determine whether targeting RAD52 DNA binding activity by F79 aptamer exerts synthetic lethality, BRCA1 was overexpressed in BRCA1-deficient BCR-ABL1 UT7 cells (supplemental Figure 4A). “Rescue” of BRCA1 expression in BCR-ABL1 UT7 cells abrogated the antitumor activity of the F79 aptamer (
+Figure 4A
+). Therefore, the aptamer exerted synthetic lethality in BCR-ABL1-positive BRCA-deficient leukemia cells.
+Open in a separate window
+Figure 4
+F79 aptamer induces synthetic lethality in tumor cells displaying genetic BRCA deficiency.
+(A) Clonogenic activity of GFP+ BRCA1low and BRCA1high UT7-BCR-ABL1 cells transfected with internal ribosome entry site (IRES)-GFP or BRCA1-IRES-GFP constructs untreated (white symbols) and treated with 5 μM F79A (gray symbols) or F79 (blue symbols) aptamer; *
+P
+< .001 in comparison with untreated and F79A group. (B) PML-RAR-positive NB4 cells transfected with IRES-GFP (RAD51C-low) and RAD51C-IRES-GFP (RAD51C-high) were treated with 5 μM F79A (gray symbols) and F79 (blue symbols) aptamer. Results represent percentage living GFP+ cells; *
+P
+< .001 in comparison with F79A group. (C-E) Cells were irradiated or treated with etoposide and 5 μM F79 (blue) or 5 μM F79A (gray) aptamers, and living cells were counted after 3 to 5 days in Trypan blue. (C) 10Gy γ-irradiated
+BRCA2-null
+Capan-1 cells and those with reconstituted BRCA2 expression (
+BRCA2+
+), (D)
+BRCA1-null
+and
+BRCA1
+-reconstituted (
+BRCA1+
+) HCC1937 cells, and (E)
+BRCA1-null
+and
+BRCA1
+-reconstituted (
+BRCA1+
+) UWB1.289 cells treated with 5 μM etoposide; *
+P
+< .03 in comparison with F79A-treated counterparts.
+Because RAD51 paralogs are epistatic with BRCA2, we speculated that RAD51 paralog-deficient cells should be also sensitive to the F79 aptamer.
+33
+APL cells expressing the PML-RAR oncogenic protein display downregulation of RAD51C and accumulation of spontaneous DSBs.
+13
+,
+14
+Although PML-RAR-positive NB4 cells were sensitive to the F79 aptamer, the expression of ectopic RAD51C (supplemental Figure 4B) caused resistance (
+Figure 4B
+), suggesting that targeting of RAD52 exerts a RAD51C-dependent synthetic lethality in APL.
+In addition, HCC1937 breast, UWB1.289 ovarian, and Capan-1 pancreatic carcinoma cells displaying genetic deletions/mutations of
+BRCA1
+or
+BRCA2
+and their
+BRCA1-
+or
+BRCA2
+-reconstituted counterparts were irradiated or treated with etoposide and incubated with F79 or F79A aptamer. All BRCA-deficient tumor cell lines were sensitive to the F79 aptamer, and reconstitution of the missing protein abrogated the antitumor activity of the aptamer (
+Figure 4C-E
+). Moreover, the growth of subcutaneous tumors in
+nu/nu
+mice xenografted with Capan-1 cells was inhibited by the F79 aptamer in comparison with the F79A aptamer (30.1 ± 16.1 mm
+3
+and 238.5 ± 66 mm
+3
+, respectively;
+P
+< .001). Altogether, the F79 aptamer also appears to exert synthetic lethality in
+BRCA
+-mutated solid tumors.
+Targeting DNA binding activity of RAD52 enhances the effect of conventional therapy in BCR-ABL1- and PML-RAR-positive leukemias
+CML-CP LSCs are not addicted to BCR-ABL1 kinase and are protected by cytokines, precluding eradication of the disease by ABL1 tyrosine kinase inhibitors such as imatinib, dasatinib, and nilotinib.
+34
+-
+37
+We show here that a combination of imatinib and the F79 aptamer, in comparison with imatinib alone, increased the percentage of leukemia cells bearing high numbers of lethal DSBs (
+Figure 5A
+), which was associated with elevated apoptosis (
+Figure 5B
+) and an enhanced antileukemia effect in Lin
+−
+CD34
++
+CML-CP cells (
+Figure 5C
+). This effect is probably a result of an F79-induced increase of the number of lethal DSBs and imatinib-mediated inhibition of BCR-ABL1 kinase-dependent antiapoptotic activity, cumulatively causing hyperactivation of caspase-3 (
+Figure 5B
+). Moreover, F79 aptamer enhanced the antileukemia effect of imatinib in Lin
+−
+CD34
++
+CD38
+−
+CPD
+low
+proliferating LSCs by almost threefold (
+Figure 5D
+) and exerted a moderate but statistically significant effect against imatinib-treated Lin
+−
+CD34
++
+CD38
+−
+CPD
+max
+quiescent LSCs (
+Figure 5E
+).
+Open in a separate window
+Figure 5
+F79 aptamer enhanced the effects of standard treatment in leukemia cells displaying genetic BRCA-deficient phenotype.
+(A-C) Lin
+−
+CD34
++
+CML-CP cells from 3 to 4 patients were untreated (−) (white) and treated with 1 μM imatinib (IM) (salmon), 5μM F79 (blue), and IM+F79 (brown) for 48 hours. (A) Percentage of cells with more than 20 γ-H2AX foci; *
+P
+< .01 in comparison with IM. (B) Percentage of annexin V–positive cells; *
+P
+< .001 in comparison with IM. (C) Number of colonies ± SD; *
+P
+< .01 in comparison with IM. (D,E) Lin
+−
+CD34
++
+CML-CP cells from 3 to 5 patients/group were labeled with CPD and incubated for 5 days with 1 μM IM (salmon), 5 μM F79 (blue), or IM+F79 (brown) or left untreated (white). (D) Mean number of Lin
+−
+CD34
++
+CD38
+−
+CPD
+low
+proliferating LSCs; *
+P
+= .02 in comparison with IM. (E) Mean number of Lin
+−
+CD34
++
+CD38
+−
+CPD
+max
+quiescent LSCs; *
+P
+= .01 in comparison with IM. (F) Mean number of xenograft cells from 3 freshly diagnosed BCR-ABL1 B-ALL patients treated for 5 days with 1 μM IM (salmon), 5 μM F79 (blue), IM+F79 (brown), or left untreated (white); *
+P
+< .01 in comparison with IM. (G) Mean number of xenograft cells from 3 relapsed B-ALL patients carrying BCR-ABL1(T315I) mutation treated for 5 days with 12.5 nM ponatinib (PN) (salmon), 5 μM F79 (blue), or PN+F79 (brown) or left untreated (white). Results represent mean number ± SD of living cells; *
+P
+< .05 in comparison with PN. (H-J) APL primary cells from 3 patients were incubated with 5 μM F79 aptamer (F79), 4 μM ATRA (A), or F79+ATRA or were left untreated (−). (H) Living cells were counted in Trypan blue 9 days later. (I) Polynuclear differentiated cells counted after staining in Giemsa. (J) Annexin V–positive cells assessed by a fluorescence-activated cell sorter; *
+P
+< .05 in comparison with group A.
+The F79 aptamer exerted antileukemia activity in BCR-ABL1-positive B-ALL xenograft cells and enhanced the effect of imatinib (
+Figure 5F
+). Interestingly, F79 also increased the antileukemia effect of ponatinib against B-ALL xenograft cells carrying an imatinib-resistant BCR-ABL1(T315I) mutant (
+Figure 5G
+).
+In addition, the F79 aptamer not only reduced the number of primary APL cells in vitro but also enhanced the effect of ATRA, often used as first-line drug for APL (
+Figure 5H
+). This phenomenon is probably a result of the combined activity of ATRA-induced terminal differentiation (
+Figure 5I
+) and F79 aptamer-triggered apoptosis (
+Figure 5J
+).
+Synthetic lethality induced by targeting RAD52 could be predicted by the epigenetic profiling of leukemias from individual patients to detect a BRCA-deficient phenotype
+Microarray analysis of LSCs containing AML, B-ALL, and T-ALL xenografts detected higher levels of BRCA1 (6.1 ± 0.8, 7.0 ± 0.9, and 6.3 ± 1.2, respectively) and BRCA2 (6.5 ± 0.7, 7.0 ± 0.9, 6.6 ± 1.1, respectively) in comparison with normal CD34+ myeloid cells, B-cells, and T-cells (BRCA1: 4.7 ± 0.4, 4.6 ± 0.4, and 4.0 ± 0.4, respectively;
+P
+< .001; BRCA2: 5.2 ± 0.1, 5.4 ± 0.6, and 4.0 ± 0.6, respectively;
+P
+< .001). However, leukemia xenografts displayed a wide range of BRCA1 and BRCA2 mRNA expression levels (
+Figure 6
+mRNA panels), which was validated by immunofluorescence assessing BRCA1 protein expression in Ki67-positive proliferating cells (
+Figure 6
+BRCA1 and Ki67 panels). Because AML, B-ALL, and T-ALL cells harbor elevated levels of DSBs induced by ROS, AID, and/or RAG1/2,
+2
+-
+4
+we hypothesized that patients displaying the epigenetic BRCAlow phenotype (low BRCA1 and/or BRCA2 mRNA and protein levels), but not these with the BRCAhigh phenotype (high BRCA1 and BRCA2 mRNA and protein levels), may be sensitive to synthetic lethality induced by targeting RAD52.
+Open in a separate window
+Figure 6
+F79 aptamer exerts synthetic lethality in acute leukemias displaying epigenetic BRCA-deficient phenotype.
+(A) AML (n = 15), (B) BCR-ABL1 -negative B-ALL (n = 18), and (C) T-ALL (n = 10) xenograft cells and CD34
++
+(n = 3), B-cells (n = 11) and T-cells (n = 17) from healthy donors were employed here. (mRNA) Microarray detection of mRNA for BRCA1 and BRCA2; each circle represents an individual patient; BRCA1 and/or BRCA2 high (red) and low (blue) samples were used for further studies. Green circles represent cells from healthy donors. (BRCA1 and Ki67) Immunofluorescent quantitation of BRCA1 protein levels in Ki67-positive cells and percentage of Ki67-positive cells. Representative cells highlighting the differences of BRCA1 (red) levels in Ki67-positive cells (green) are shown; nuclei are counterstained with 4,6 diamidino-2-phenylindole. (F79) Xenograft cells were incubated in vitro with 5 μM F79 aptamer. (DNR+F79) Xenograft cells were treated in vitro with daunorubicin (0.2 μM for AML, 0.1 μM for B-ALL and T-ALL) and 5 μM F79 aptamer. Results represent percentage of surviving cells; *
+P
+< .05 in comparison with BRCAhigh patients.
+We show here that BRCAlow AML, B-ALL, and T-ALL xenograft cells, in which BRCA1 or BRCA2 mRNA levels (5.1 ± 0.8 and 5.2 ± 0.8, respectively) were similar to these in normal counterparts were highly sensitive to F79 aptamer in vitro, whereas BRCAhigh leukemias (BRCA1 and BRCA2 mRNA log
+2
+levels: 7.8 ± 0.6 and 7.5 ± 0.7 and
+P
+= .004 and
+P
+= .009, respectively, in comparison with BRCAlow samples) were not sensitive or were only modestly affected (
+Figure 6
+F79 panels). A selective antileukemia effect of the F79 aptamer was not dependent on different proliferation rates of BRCAlow and BRCAhigh xenograft cells (
+Figure 6
+Ki67 panels). Because BRCAlow and BRCAhigh Ki67-positive leukemia cells accumulate similar high levels of potentially lethal DSBs detected by γ-H2AX foci (21.1 ± 10.1 and 15.4 ± 6.7, respectively) in comparison with normal cells (2.1 ± 1.8;
+P
+< .001), we postulate that targeting RAD52 by the F79 aptamer induced synthetic lethality in BRCAlow (BRCA-deficient) leukemia cells, whereas BRCAhigh (BRCA-proficient) counterparts survived because of functional BRCA-RAD51 recombination. The F79 aptamer also increased the cytotoxic effect of daunorubicin (DNR) in BRCAlow AML and B-ALL (
+Figure 6
+DNR+F79 panels).
+Quantitative RT-PCR (qRT-PCR) was also applied to identify B-ALL xenografts displaying the BRCAlow phenotype. As expected, a wide range of expression levels of BRCA1/2 was detected in these patients (supplemental Figure 5). Again, only BRCAlow xenograft cells were sensitive to the F79 aptamer applied individually or in combination with DNR.Discussion
+DNA damage and repair are the hallmarks of cancer and play a critical role in the induction, malignant progression, and treatment.
+38
+Because DNA repair mechanisms are modulated in tumor cells to promote survival under genotoxic stress,
+13
+,
+26
+,
+39
+the inhibition of tumor-specific DSB repair pathways may amplify endogenous and drug-induced DNA damage and trigger apoptosis in cancer cells while sparing normal cells.
+The enhanced self-renewal of cancer stem cells and the high proliferation rate of cancer progenitor cells commits them to HRR-mediated DSB repair.
+7
+,
+40
+,
+41
+However, inhibitors of RAD51 recombinase should not be applied as a therapeutic approach because they were toxic for normal cells, in concordance with the observations that constitutive and inducible RAD51 knockouts are lethal for embryos and cultured cells.
+42
+,
+43
+Inhibitors of PARP1 have been used to induce synthetic lethality in tumors harboring
+BRCA1/2
+mutations.
+44
+Currently used PARP1 inhibitors do not discriminate between various PARPs
+45
+; therefore, their long-term application may generate serious adverse effects, as suggested by the fact that the
+Parp1
+−/−
+Parp2
+−/−
+double-knockout is embryonic-lethal.
+46
+In contrast, downregulation of RAD52 caused synthetic lethality in
+BRCA2
+-mutated malignant cell lines.
+8
+Moreover, RAD52 is redundant with BRCA1/2 in higher eukaryotes,
+47
+and
+Rad52
+knockout in vertebrate results only in a mild phenotype without a major effect on HRR.
+48
+Thus, RAD52 appeared as promising target to trigger synthetic lethality in BRCA-deficient cells.
+Using BCR-ABL1-positive CML, which has served as a paradigm of cancer containing high levels of ROS and cytotoxic drug-induced DSBs
+15
+,
+49
+and which displays downregulation of BRCA1 protein,
+12
+,
+25
+we pinpointed a region in the RAD52 ssDNA binding domain containing F79, which is essential for the protection of LSCs and LPCs from the lethal effect of numerous DSBs. This observation led to generation of the 13–amino acid peptide aptamer around the F79 in RAD52, which is critical for ssDNA binding.
+31
+Computer modeling suggests that the F79 peptide aptamer inhibited the DNA binding capacity of RAD52, probably because of the disruption of the RAD52 oligomeric ring formation necessary for DNA binding.
+The F79 aptamer inhibited HRR in BRCA-deficient leukemia cells, but not in normal counterparts, and caused synthetic lethality in BRCA1-deficient BCR-ABL1-positive CML cells and in RAD51C-deficient PML-RAR-positive APL cells (RAD51C is epistatic to BRCA2
+33
+). The aptamer also exerted synthetic lethality in breast, pancreatic, and ovarian carcinoma cells harboring
+BRCA1-
+or
+BRCA2
+-inactivating mutations. Altogether, not only
+BRCA1/2
+mutations but also other genetic aberrations such as t(9;22) and t(15;17) encoding BCR-ABL1 and PML-RAR, respectively, can predispose tumor cells to synthetic lethality induced by targeting RAD52. It is likely that the BRCA-deficient phenotype also will be induced by other oncogenes (eg, PLZF-RAR).
+13
+In addition to genetic profiling detecting BRCA-deficient tumors, epigenetic profiling either by microarray or qRT-PCR identified approximately 15% to 20% of AML, 20% to 30% of B-ALL, and 20% to 30% of T-ALL patients whose leukemia cells expressed low levels of either BRCA1 or BRCA2 (BRCAlow phenotype). These BRCAlow, but not BRCAhigh, cells were also eliminated by the F79 aptamer. Thus, the BRCAlow (BRCA-deficient) phenotype may serve as a biomarker to identify tumor patients sensitive to RAD52 targeting. Altogether, we propose that BRCA-deficient status defined by genetic and epigenetic profiling, respectively, may select individual patients sensitive to RAD52 inhibitors (
+Figure 7
+).
+Open in a separate window
+Figure 7
+Genetic and epigenetic profiling as search engines to select BRCA-deficient tumors sensitive to synthetic lethality by targeting RAD52.
+Genetic profiling will identify patients with tumors harboring BRCA1/2 mutations or expressing oncogenes (such as BCR-ABL1 and PML-RAR) that directly or indirectly cause genetic BRCA deficiency. Gene expression profiling by microarray analysis or qPCR should select individual patients with tumors displaying epigenetic BRCA-deficient phenotype.
+Moreover, BRCAlow status, in comparison with BRCAhigh status, was associated with a lower relapse rate in breast carcinoma and pediatric B-ALL patients (supplemental Figure 6A-B), suggesting that the addition of a RAD52 inhibitor to standard treatment may produce even better therapeutic results in the former group. Interestingly, although the overall expression of both BRCA1 and BRCA2 was increased in relapsed B-ALLs in comparison with diagnosis, individual patient analysis revealed that BRCA1 is downregulated more than twofold in approximately 10% to 15% of patients (supplemental Figure 6C-D). Thus, these selected high-risk patients may also benefit from the inclusion of the RAD52 inhibitor to standard therapy.
+We also showed that cytotoxic treatment may not be even required to trigger synthetic lethality by F79 aptamer in malignant cells containing high levels of “spontaneous” DSBs. Elevated levels of γ-H2AX foci that mark potentially lethal DSBs caused by endogenous factors such as ROS, AID, RAG1/2, and unscheduled replication have been detected in a variety of early and advanced solid tumors and leukemias expressing/overexpressing various oncogenes such as BCR-ABL1, JAK2(V617F), PML-RAR, AML1-ETO, FLT3(ITD), cyclin E, c-Myc, and FGFR mutant.
+2
+-
+4
+,
+14
+,
+15
+,
+41
+,
+50
+Importantly, the aptamer exerted synergistic effect with already approved nongenotoxic therapies such as imatinib for BCR-ABL1-positive CML and B-ALL, and ATRA for PML-RAR. F79-induced synthetic lethality was abundant in proliferating cells because HRR is mostly active in the S-cell cycle phase, but a modest eliminatory effect was also detected in the quiescent population. The latter phenomenon may depend on RAD52 foci formation and HRR activation in late G1.
+7
+In summary, targeting RAD52 by the F79 aptamer eliminated cancer stem and progenitor cells accumulating high levels of spontaneous lethal DSBs without the addition of genotoxic treatment. In addition, inhibition of the capability of cancer cells to repair DSBs induced by chemoradiotherapeutics may allow significant reduction of their dosages and sensitization of otherwise-resistant tumor cells. Moreover, the inhibition of RAD52 did not cause any detectable effect on normal cells and tissues. Thus, targeting RAD52 by the F79 aptamer may offer a novel therapeutic approach for patients with BRCA-deficient tumors selected by genetic and epigenetic profiling.Supplementary Material
+Supplemental Methods, Tables, Figures, and Video:
+Click here to view.Acknowledgments
+The authors thank Pawel Herzyk and Jing Wang at the Sir Henry Wellcome Functional Genomics Facility, Glasgow, United Kingdom, for running the arrays. Procurement of some CML specimens was facilitated by the Glasgow Tissue Bio-repository and the City of Hope Bio-specimen Repository Protocol. RAD51 inhibitor B02 was kindly obtained from Dr Alexander Mazin (Drexel University, Philadelphia, PA).
+This work was supported by grants from the National Institutes of Health (1R01CA134458 and 1R21CA133646) and a grant from Temple University Drug Discovery Initiative (T. Skorski); the National Institutes of Health (R01CA139032 and R01CA157644; M.M.); National Institutes of Health PO1CA70970, National Foundation for Cancer Research Fellow Award, and the Maryland Stem Cell Research Foundation/TEDCO 2007-MSCRFII-0114, 2012-MSCRFE-0244, and 2010-MSCRFII-0065 (C.I.C.); the Maryland Stem Cell Research Foundation/TEDCO 2012-MSCRFE-0244 (K.S.); and by the grant 607/MOB/2011/0: “Mobilnosc Plus” from the Polish Ministry of Science and Higher Education (T. Sliwinski). In addition, M.C. was supported by the Glasgow Experimental Cancer Medicine Centre, which is funded by Cancer Research UK and by the Chief Scientist's Office (Scotland) Clinical Research Fellowship (D.A.I.), and a Scottish Senior Clinical Fellowship funded by the Scottish Funding Council (SCD/04; M.C.).Footnotes
+The data reported in this article have been deposited in the Gene Expression Omnibus database (accession numbers
+{"type":"entrez-geo","attrs":{"text":"GSE47927","term_id":"47927","extlink":"1"}}
+GSE47927
+, and
+{"type":"entrez-geo","attrs":{"text":"GSE48558","term_id":"48558","extlink":"1"}}
+GSE48558
+).
+The online version of this article contains a data supplement.
+The publication costs of this article were defrayed in part by page charge payment. Therefore, and solely to indicate this fact, this article is hereby marked “advertisement” in accordance with 18 USC section 1734.

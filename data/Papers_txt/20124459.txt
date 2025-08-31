@@ -1,0 +1,502 @@
+Abstract
+Poly-ADP ribose polymerase-1 (PARP-1) inhibition is toxic to cells with mutations in the breast and ovarian cancer susceptibility genes
+BRCA1
+or
+BRCA2,
+a concept, termed synthetic lethality. However, whether this approach is applicable to other human cancers with defects in other DNA repair genes has yet to be determined. The
+Ataxia-Telangiectasia Mutated (ATM)
+gene is altered in a number of human cancers including Mantle Cell Lymphoma (MCL). Here, we characterize a panel of MCL cell lines for ATM status and function and investigate the potential for synthetic lethality in MCL in the presence of small molecule inhibitors of PARP-1. We show that Granta-519 and UPN2 cells have low levels of ATM protein, are defective in DNA damage-induced ATM-dependent signaling, are radiation sensitive and have cell cycle checkpoint defects: all characteristics of defective ATM function. Significantly, Granta-519 and UPN2 cells were more sensitive to PARP-1 inhibition, than were the ATM-proficient MCL cell lines examined. Furthermore, the PARP-1 inhibitor olaparib (previously known as AZD2281/KU-0059436) significantly decreased tumour growth and increased overall survival in mice bearing subcutaneous xenografts of ATM-deficient Granta-519 cells, while producing only a modest effect on overall survival of mice bearing xenografts of the ATM-proficient cell line, Z138. Thus, PARP inhibitors have therapeutic potential in the treatment of MCL and the concept of synthetic lethality extends to human cancers with
+ATM
+alterations.
+Keywords:
+ATM, Mantle Cell Lymphoma, olaparib/AZD2281, PARP-1, synthetic lethalityIntroduction
+Cells are continuously exposed to exogenous agents and biological processes that create DNA damage which, if not repaired effectively and efficiently, can lead to genomic instability or cell death (
+1
+). It follows that cells that are compromised in one DNA repair pathway may be more susceptible to inhibition of a compensatory repair pathway, leading to new opportunities for therapeutic intervention for a variety of human malignancies. The efficacy of this approach, termed synthetic lethality (
+2
+-
+5
+), has been demonstrated by the use of small molecule inhibitors of the DNA damage response protein poly-ADP ribose polymerase-1 (PARP-1) (
+6
+), in cells bearing mutations in the genes encoding DNA double strand break (DSB) repair proteins,
+BRCA1
+or
+BRCA2,
+(
+7
+,
+8
+). The synthetic lethal approach may be applicable to cells with alterations in other DNA repair genes (
+9
+-
+13
+), however, whether synthetic lethality is applicable to other human cancers that have acquired mutations/deletions in DNA repair genes has not been determined.
+Here, we test the synthetic lethality approach for an important human malignancy, Mantle Cell Lymphoma (MCL), to determine whether alterations to Ataxia-Telangiectasia Mutated (
+ATM
+) that arise during oncogenic transformation sensitize cells to PARP-1 inhibitors. MCL comprises approximately 10% of all Non-Hodgkin’s Lymphoma (NHL) and has the lowest mean survival of any NHL at 3 years post diagnosis (
+14
+). The genetic hallmark of MCL is a chromosomal translocation, t(11;14)(q13;q32) that juxtaposes
+IgH
+gene promoter elements upstream of
+CCND1
+(
+15
+). This translocation leads to over expression of cyclin D1, which promotes progression through the G
+1
+/S cell cycle checkpoint (
+16
+,
+17
+). Importantly, 20-50% of MCL cases contain mutations in
+ATM
+(
+18
+), and MCL has the highest rate of
+ATM
+mutation of any NHL subtype (
+19
+).
+ATM is a serine/threonine protein kinase that plays a critical role in DNA damage-induced signaling and the initiation of cell cycle checkpoint signaling in response to DNA damaging agents such as ionizing radiation (IR) (
+20
+,
+21
+). Although ablation of ATM through RNAi (
+9
+), genetic means (
+12
+,
+13
+,
+22
+), or inhibition of ATM kinase activity using a small molecule inhibitor sensitizes cells to PARP-1 inhibitors (
+9
+), the importance of this approach for human cancers with alterations in
+ATM
+remains unknown.
+Here, we characterized ATM protein function in a panel of patient-derived MCL cell lines: Granta-519, HBL-2, JVM-2, MAVER-1, UPN1, UPN2 and Z138. Both alleles of
+ATM
+are reported to be wild type in JVM-2 (
+23
+). Granta-519 and UPN2 both contain a single copy of the
+ATM
+gene that harbors a point mutation in conserved residues within the kinase domain (
+24
+,
+25
+). UPN1 cells contain one copy of wild-type
+ATM
+with the second allele containing a polymorphism in the N-terminal HEAT repeat region (
+25
+). One copy of
+ATM
+is deleted in MAVER-1 and no sequence information is available regarding the second allele (
+26
+).
+ATM
+status in HBL-2 and Z138 cells has not been reported. All of the MCL cells lines used in this study contain the distinguishing t(11;14)(q13;q32) translocation resulting in
+CCND1
+(cyclin D1) over-expression (
+27
+). p53 and Epstein Barr virus status in the cell lines studied is summarized in
+Supplementary Table 1
+. Other genomic alterations in MCL have been described in detail elsewhere (
+28
+). Here, we show that Granta-519 and UPN2 cells are defective in ATM function, and are sensitive to the PARP-1 inhibitors PJ34 (
+29
+) and olaparib (previously known as AZD2281 or KU-0059436) (
+30
+). Our results suggest that olaparib induces cell death, at least in part, through the induction of apoptosis. Moreover, using a mouse xenograft model of MCL (
+31
+) we show that olaparib inhibits tumour growth and increases survival in mice bearing xenografts of the ATM-deficient cell line, Granta-519 and, to a lesser extent, in mice bearing xenografts of the ATM-proficient cell line, Z138. Thus, PARP-1 inhibitors have therapeutic potential in the treatment of ATM-deficient MCL and our results extend the concept of synthetic lethality to tumours bearing alterations in
+ATM
+.Material and Methods
+Cell Lines
+Granta-519, HBL-2, JVM-2, MAVER-1, Z138, C35ABR (BT) and L3 cells were cultured in suspension in RPMI 1640 medium (Invitrogen, Carlsbad, CA) containing 10% (v/v) fetal bovine serum (FBS, Hyclone, Logan, UT), 50 units/mL penicillin, and 50 μg/mL streptomycin at 37°C under 5% CO
+2
+. UPN1 and UPN2 cells were cultured in suspension in MEM-α medium (Invitrogen) containing 10% FBS and antibiotics as above. C35ABR (BT) (ATM-proficient) and L3 (ATM-deficient) cell lines were kindly provided by Dr. M. Lavin (Queensland Institute of Medical Research, Australia) and Dr. Y. Shiloh (Tel Aviv University, Israel), respectively.
+Stable knockdown of ATM in MCL cell lines
+pSUPER.retro.puro vectors encoding shRNA to either GFP or ATM (
+32
+) were kindly provided by Dr. Y. Shiloh. Five μg of EcoR1-linearized plasmid DNA were transfected into Z138 cells using Nucleofector Kit V and electroporation (Amaxa Biosystems, Walkersville, MD) according to the manufacturers instructions. Cells were subsequently serially diluted and treated with 1 μg/mL puromycin to select cells with stable integration of the plasmid. Following 3 weeks of selection in puromycin, viable cells were assayed for the presence of ATM by immunoblotting. Stable cell lines expressing shRNA to GFP were generated in a similar manner.
+Ionizing Radiation
+Where indicated, cells were irradiated (in media plus serum) using a
+137
+Cs source Gammacell 1000 tissue irradiator (MDS Nordion, Ontario, Canada) at a dose rate of 3.53 Gy/minute.
+Generation of cell extracts and immunoblotting
+Cells were harvested by centrifugation (500 ×
+g
+for 5 minutes), washed twice in cold phosphate buffered saline (PBS; 137 mM NaCl, 1.47 mM KH
+2
+PO
+4
+, 10 mM Na
+2
+HPO
+4
+, 2.7 mM KCl, pH 7.4) then resuspended in ice cold NET-N lysis buffer (150 mM NaCl, 0.2 mM EDTA, 50 mM Tris-HCl, pH 7.5 and 1% (v/v) NP-40) containing protein phosphatase and protease inhibitors (1 μM microcystin-LR, 0.2 mM PMSF, 0.1 μg/mL pepstatin, 0.1 μg/mL aprotinin and 0.1 μg/mL leupeptin) and lysed on ice by sonication (2 × 5 second bursts). Fifty μg of total protein (as determined by the Detergent Compatible Protein Assay (BioRad, Hercule, CA) using BSA as standard) were resolved by SDS-PAGE and transferred to nitrocellulose. Membranes were blocked with 20% (w/v) skim milk powder in T-TBS buffer (20 mM Tris-HCl pH 7.5, 500 mM NaCl, and 0.1% (v/v) Tween-20) and probed with antibodies to total proteins or phosphorylated proteins as indicated. The ATM specific rabbit polyclonal antibody 4BA was a kind gift from Dr M Lavin. The antibody DPK1 to the catalytic subunit of DNA-PK (DNA-PKcs) has been described previously (
+33
+). Antibodies to SMC-1, KAP1, PARP-1, cyclin D1 and actin were purchased from Novus (Littleton, CO), Abcam (Cambridge, MA), Calbiochem (San Diego, CA) and Sigma Aldrich (St. Louis, MO) respectively. Phosphospecific antibodies to P-Ser1981 ATM, P-Ser957 SMC-1 and P-Ser966 SMC-1 were purchased from Epitomics (Burlingame, CA), Novus and Abcam, respectively. The phosphospecific antisera to KAP1 (P-S824) was made in house and described previously (
+34
+).
+WST-1 Cytotoxicity Assays
+Cells (5 × 10
+4
+cells/mL) were seeded in 96-well plates in 100 μL of serum-supplemented phenol red-free RPMI 1640 or MEM-α medium (Invitrogen) and incubated overnight at 37°C under 5% CO
+2
+. The PARP-1 inhibitors PJ34 (Sigma Aldrich) and olaparib were prepared as stock solutions in water or DMSO respectively and stored at −80°C until use. PJ34 and/or olaparib were diluted in phenol red-free medium and 10 μL of the diluted compound was added to each well. Plates were incubated at 37°C under 5% CO
+2
+for the indicated times prior to the addition of WST-1 reagent (Roche, Mississauga, ON). After an additional incubation for 1 hour, the absorbance at 450 nm was determined on a microplate reader (Bio-Rad). To determine statistical significance, one-way ANOVA tests were run for replicates of 3 samples, with Newman-Keuls post-hoc test analysis. P-values of <0.05 were considered statistically significant and are indicated on figures by an asterisk or octothorp/number sign.
+Trypan Blue Exclusion Assays
+Cells were seeded in 10 mL of medium and incubated overnight prior to treatment with inhibitor or an equal volume of vehicle. Following the indicated incubation time, aliquots were removed and cell density and viability were determined by trypan blue exclusion. Statistical analysis was performed as above.
+Phosphohistone H3 Cell Cycle Checkpoint Assays
+Phospho-H3 assays were carried out as described (
+35
+). Briefly, cells were either unirradiated or irradiated (2 Gy) and allowed to recover for 1 or 24 hours at 37°C under 5% CO
+2
+. Cells were then fixed with 0.9% (w/v) NaCl/95% (v/v) ethanol, resuspended in PBS containing 0.25% (v/v) Triton X-100, incubated on ice for 15 minutes, and incubated in PBS containing 1% BSA and 75 μg/mL Phospho-H3 antibody (Upstate, Billerica, MA) for 3 hours. Samples were then incubated for 30 minutes at room temperature with FITC-goat anti-rabbit antibody (Jackson ImmunoResearch, West Grove, PA) (diluted 1 to 30 with PBS containing 1% BSA), stained with propidium iodide (PI) and analyzed by flow cytometry using a FACScan Flow Cytometer (Becton Dickinson, Franklin Lakes, NJ) and plotted using Modfit by the University of Calgary Flow Cytometry Facility.
+TUNEL Assays
+Cells were exposed to olaparib (2.5 μM) for the indicated times then fixed in 1% para-formaldehyde diluted in PBS for 1 hour on ice. TUNEL assays were carried out as per the manufacturer’s instructions (Apo-Direct™ Kit, Calbiochem).
+Annexin V Assays
+Cells were exposed to olaparib (2.5 μM) for the indicated times then resuspended in Annexin binding buffer (10 mM HEPES pH 7.5, 140 mM NaCl, 2.5 mM CaCl
+2
+) prior to incubation with FITC-Annexin V (GeneTex, Irvine, CA) and 5 μg/mL PI with RNAse for 5 minutes, then analyzed by flow cytometry as described above.
+In vivo studies
+All animal procedures were carried out by a trained animal technician in accordance with established procedures at the Animal Resource Center at the University of Calgary. Female RAG2
+−/−
+mice (Taconic, Hudson, NY) were injected subcutaneously in the right flank with 5 × 10
+6
+cells in a 1:1 emulsion of Matrigel (BD Biosciences Cat. # 354234) as described previously (
+31
+). One group of 30 mice was injected with Granta-519 cells (ATM-deficient) and another 30 mice with Z138 cells (ATM-proficient). Five days following xenograft implantation, mice were injected intraperitoneally daily for 28 consecutive days with either vehicle alone (10% DMSO, 10% (w/v) 2-hydroxy-propyl-β-cyclodextrin (HPBCD) in PBS), or 25 or 50 mg/kg olaparib, as described previously (
+36
+). Tumour volume (0.5 × (width) × (length)
+2
+) was measured manually using a calipers thrice weekly. Mice were sacrificed when tumours reached > 1500 mm
+3
+, weight loss exceeded 20% of initial weight, or at the first obvious signs of distress. Statistical significances of differences in tumour volume were determined using the Student T-test. Kaplan-Meier survival was analyzed by the Log-Rank (Mantel-Cox) test to determine statistical significance.Results
+Granta-519 and UPN2 cell lines lack functional ATM
+To determine the level of ATM protein expression in the MCL cell lines tested, whole cell extracts were generated and ATM levels determined by western blot. ATM expression in the ATM-proficient lymphoblastoid cell line, C35ABR (BT) (
+37
+), and the ATM-deficient cell line, L3, which was derived from an A-T patient (
+38
+), are shown for comparison. ATM protein levels were significantly reduced in whole cell extracts from Granta-519 and UPN2 compared to BT, HBL-2, JVM-2, UPN1 and Z138 cell lines (
+Figures 1A and 1B
+). The amount of ATM protein in Granta-519 and UPN2 cells was estimated to be 25% and <5% respectively, of that in BT cells (
+Figure 1B
+). As expected, ATM protein was undetectable in L3 cells (
+Figures 1A and B
+).
+Open in a separate window
+Figure 1
+Deficiency of ATM level and function in Granta-519 and UPN2 cell lines
+A) Relative levels of expression of ATM, DNA-PKcs, SMC-1 and PARP-1 proteins in the MCL cell lines HBL-2, JVM-2, Granta-519, UPN1, UPN2, MAVER-1 and Z138 compared to a control lymphoblastoid cell line C35ABR (BT) and an A-T patient-derived lymphoblastoid cell line (L3). B) ATM protein levels in panel A were quantitated and normalized to the levels of DNA-PKcs and SMC-1 in BT cells. C) BT, L3 and MCL cell lines were either unirradiated or irradiated with 2 Gy IR and cellular viability was determined after 96 hours using the WST-1 assay. The fraction of viable cells normalized to the untreated control of each cell line is shown. D) Cells were either untreated (black bars) or irradiated with 2 Gy IR, collected either 1 hour (grey bars) or 24 hours (white bars) later and assayed for phospho-Ser-20 histone H3 phosphorylation as described in Materials and Methods. The percentage of cells in mitosis was normalized to the untreated control of each cell line to give the mitotic fraction.
+To test for ATM function, we characterized ATM-dependent signaling pathways following DNA damage. IR induces DSBs that lead to activation of the protein kinase activity of ATM and phosphorylation of multiple downstream target proteins including structural maintenance of chromosomes-1 (SMC-1) and KRAB-associated protein (KAP-1), which in turn leads to cell cycle checkpoint arrest, DNA repair or cell death (
+20
+,
+21
+). One of the most well characterized indicators of ATM activity is autophosphorylation on serine 1981 (
+39
+). We first characterized IR-induced DNA damage signaling in BT (ATM-proficient) and L3 (ATM-deficient) lymphoblastoid cell lines to determine the level of ATM dependency of various phosphorylation events in B-cells (
+Supplementary Figure 1
+). As expected, autophosphorylation of ATM on Ser-1981 (P-Ser-1981) occurred rapidly in BT cells and was maintained for at least 2 hours, but was not detected in the ATM-defective L3 cell line. Similarly, IR-induced phosphorylation of SMC-1 (Ser-957) and KAP-1 (Ser-824) was highly ATM-dependent (
+Supplementary Figures 1A and B
+). The residual IR-induced phosphorylation observed on SMC1 (Ser-966) and KAP-1 (Ser-824) in L3 cells (
+Supplementary Figure 1B
+) is likely due to the activity of a related protein kinase such as the DNA-dependent protein kinase (DNA-PK) or ATM, Rad-3 related (ATR), which phosphorylate many target proteins in a redundant manner to ATM (
+40
+,
+41
+).
+ATM-dependent signaling pathways were then examined in the panel of MCL cell lines. Autophosphorylation of ATM on Ser-1981 was detected in the ATM-positive cell lines HBL-2, JVM-2, UPN1 and Z138, however was undetectable in the ATM-deficient cell lines, Granta-519 and UPN2 (
+Figure 2
+and
+Supplementary Figure 2
+). The MAVER-1 cell line, in which one
+ATM
+allele is deleted (
+26
+), also underwent Ser-1981 phosphorylation, suggesting that the residual ATM is still active in this cell line (
+Supplementary Figure 2B
+). Phosphorylation of SMC-1 (Ser-957 and Ser-966) as well as KAP-1 (Ser-824) was dramatically reduced in both Granta-519 and UPN2 cells compared to HBL-2, JVM-2, MAVER-1, UPN1 and Z138 (
+Figure 2
+and
+Supplementary Figure 2
+). Thus, IR-induced, ATM-dependent signaling pathways appear intact in HBL-2, JVM-2, MAVER-1, UPN1 and Z138 but are defective in Granta-519 and UPN2.
+Open in a separate window
+Figure 2
+ATM-dependent signaling is reduced in Granta-519 and UPN2 cell lines
+MCL cell lines were exposed to 2 Gy IR and harvested following the indicated incubation times. The ATM-proficient lymphoblastoid cell line, BT, is shown in panels C and D as a positive control for ATM-dependent signaling. Whole cell extracts (50 μg total protein) were analyzed by SDS PAGE and immunoblotted for autophosphorylation of ATM on Ser-1981 (P-S1981), phosphorylation of SMC-1 on Ser-957 and Ser-966 (P-S957 and P-S966, respectively), and phosphorylation of KAP1 on Ser-824 (P-S824), as indicated. Total ATM, SMC-1 and KAP1 protein levels are also shown. Actin and DNA-PKcs are shown as loading controls. Panel A, Z138; panel B; UPN1; panel C, UPN2 and panel D, Granta-519. Signaling pathways in BT, L3, HBL-2, JVM-2 and MAVER-1 cells are shown in
+Supplementary Figures 1 and 2
+, respectively.
+One of the defining features of cells deficient in ATM function is sensitivity to IR (
+20
+). To examine the IR sensitivity of the MCL cell lines, cellular viability was determined 96 hours following 2 Gy of IR using the WST-1 assay (
+Figure 1C
+). Each of the MCL cell lines displayed increased sensitivity to IR compared to the control lymphoblastoid cell line (BT); consistent with previous reports suggesting that MCL cells are radiosensitive (
+25
+). However, the ATM-deficient cell lines Granta-519 and UPN2 were significantly more radiosensitive than their ATM-proficient counterparts; indeed, radiosensitivity in these cell lines was comparable to that of the A-T-derived (ATM-deficient) cell line, L3 (
+Figure 1C
+).
+Another primary ATM function is initiation of cell cycle checkpoint arrest in response to DNA damage. The damage-induced initiation of the G
+2
+/M checkpoint is critical for preventing cells from passing damaged chromosomes to daughter cells, which could result in aneuploidy and oncogenic transformation (
+42
+). Initiation of the G
+2
+/M checkpoint was examined using phosphorylation of histone H3 at serine-10 as a marker of entry into mitosis (
+35
+). BT and L3 cells were used as positive and negative controls, respectively. The fraction of cells in mitosis in the ATM-proficient cells (BT, UPN1 and Z138) 1 hour post-IR was dramatically reduced, consistent with an intact G
+2
+/M checkpoint (
+Figure 1D
+, gray bars). In contrast, in the ATM-deficient cell lines (L3, Granta-519 and UPN2), a significant proportion of the cells remained in mitosis 1 hour post-IR (
+Figure 1D
+, gray bars). In the ATM-deficient cell lines, the percentage of cells entering mitosis was further reduced at 24 hours, while the fraction of cells in mitosis 24 hours post-IR in the ATM-proficient cells was increased (
+Figure 1D
+, white bars). This result is consistent with the presence of a late-acting, ATR-dependent cell cycle checkpoint in ATM-deficient cells (
+35
+). Together, these experiments demonstrate that ATM functions normally in HBL-2, JVM-2, MAVER-1, UPN1 and Z138 cells, whereas
+ATM
+alterations in Granta-519 and UPN2 disrupt ATM function.
+ATM-deficient MCL cell lines are sensitive to PARP-1 inhibition
+To test whether the ATM-deficient MCL cell lines were sensitive to PARP-1 inhibition, we utilized PJ34 and olaparib, which inhibit 50% of PARP-1 activity (IC
+50
+)
+in vitro
+at 30 and 5 nM, respectively (
+29
+,
+30
+). Cells were incubated with increasing concentrations of either PJ34 (
+Figure 3A
+) or olaparib (
+Figure 3B
+) for 96 hours, then viability was assessed by trypan blue exclusion. As expected, the ATM-deficient A-T cell line L3 was more sensitive to PARP-1 inhibition than the ATM-proficient cell line (BT) (
+Figures 3A and 3B
+). Moreover, Granta-519 and UPN2 were also significantly more sensitive to PARP-1 inhibition than were any of the ATM-proficient MCL cell lines tested (HBL-2, JVM-2, UPN1, Z138,
+Figures 3A and B
+). We note that MAVER-1 cells, in which one ATM allele is deleted (
+Supplementary Table 1
+), were not sensitive to either PARP-1 inhibitor (black triangles,
+Figures 3A and B
+). MAVER-1 cells were also shown to have functional ATM-signaling pathways (
+Supplementary Figure 2B
+), suggesting that the residual ATM in these cells is sufficient to protect from synthetic lethality to PARP-1 inhibitors. The effects of PARP inhibition on viability of Granta-519, HBL-2, JVM-2, UPN2 and Z128 cells were subsequently confirmed using the WST-1 cytotoxicity assay. Viability of BT, L3 and the MCL cell lines was determined 96 hours following treatment with either 10 μM PJ34 (
+Figure 3C
+) or 5 μM olaparib (
+Figure 3D
+). Again, decreased cellular viability was observed in the ATM-deficient cell lines treated with either PJ34 or olaparib. Asterisks represent statistically significant differences between BT and L3, and Granta-519 and HBL-2, JVM-2 and Z138 (
+Figure 3C
+). With olaparib, statistically significant differences were seen between BT and L3 and between Granta-519 and UPN2 and HBL-2, JVM-2 and Z138 (
+Figure 3D
+).
+Open in a separate window
+Figure 3
+PARP-1 inhibitors preferentially target ATM-deficient MCL cells
+BT, L3 and MCL cell lines were exposed to the indicated concentrations of A) PJ34, or B) olaparib or vehicle control for 96 hours and cellular viability was determined by trypan blue exclusion. Cell viability was normalized to the vehicle-treated control for each cell line. Granta-519 (white triangles), HBL-2 (black triangles), JVM-2 (inverted black triangles), MAVER-1 (black diamonds), UPN1 (black circles), UPN2 (white squares), Z138 (black squares), BT (black hexagons), and L3 (white diamonds). Error bars represent the standard error of the mean (SEM). Points marked by an asterisk (*) indicate statistical significance (p<0.05) between ATM-proficient and ATM-deficient MCL cell lines. In panel A the point marked by a cross (‡) indicates a statistically significant difference (p<0.05) between Granta-519 and ATM-proficient MCL cell lines. C) BT, L3 and MCL cell lines were incubated with vehicle alone or PJ34 (10 μM) for 96 hours after which point cell viability was determined using the WST-1 assay. Cell viability was normalized to the vehicle-treated control for each cell line. D) Cells were treated with vehicle alone or olaparib (5 μM). After 96 hours, cell viability was determined as in panel C. Error bars represent the standard error of the mean (SEM). For panels C and D, points marked by an asterisk (*) indicate statistical significance (p<0.05) between BT and L3, and ATM-proficient and ATM-deficient MCL cell lines. The line indicates which experimental parameters are being compared. In each experiment BT cells are compare to L3 cells, while all the MCL cell lines are compared to each other.
+Since the MCL cell lines analyzed were derived from different patient samples and therefore are not isogenic, we sought additional evidence that the cytotoxicity of PARP-1 inhibitors was indeed due to reduced ATM function. ATM protein was depleted in Z138 cells (ZC-shATM) using a vector expressing a short hairpin (sh) RNA to ATM that has previously been shown to stably reduce ATM levels in neural cells (
+32
+). As a control, Z138 cells were stably transfected with shRNA to GFP (ZC-shGFP). The level of ATM protein in ZC-shATM cells was determined by immunoblot and compared to levels in BT and L3 cells, the parental control Z138, and the knockdown control ZC-shGFP (
+Figure 4A
+). ATM protein levels in ZC-shATM were reduced by at least 75% compared to the levels in either Z138 or ZC-shGFP (
+Supplemental Figure 3
+). Reduction of ATM levels in the knockdown cell line had no effect on the expression of DNA-PKcs, SMC-1, PARP-1 or cyclin D1 (
+Figure 4A
+). As expected, ATM-dependent signaling was reduced in ZC-shATM as indicated by reduced autophosphorylation of ATM following 2 Gy of IR (
+Figure 4B
+). We next tested whether the ATM knockdown cells were sensitive to PARP-1 inhibition. For these and subsequent experiments we focused on olaparib rather than PJ34, as olaparib is a clinically relevant PARP inhibitor that has antitumour activity towards cancers with mutations in BRCA1 or 2 (
+36
+,
+43
+). Importantly, the ATM knockdown cell line ZC-shATM was significantly more sensitive to olaparib when compared to either Z138 or ZC-shGFP cells, as determined by either trypan blue exclusion (
+Figure 4C
+) or the WST-1 cytotoxicity assay (
+Figure 4D
+). Together, these results further confirm that loss or reduction of ATM function in MCL cell lines leads to increased sensitivity to PARP-1 inhibition.
+Open in a separate window
+Figure 4
+Inhibition of PARP-1 is cytotoxic in MCL cells with reduced ATM protein expression
+A) Z138 cells were stably transfected with a vector expressing shRNA targeting ATM (ZC-shATM) or GFP (ZC-shGFP) as a negative control as described in Materials and Methods. 50 μg of whole cell extract were run on SDS PAGE and immunoblots were probed for ATM, DNA-PKcs, SMC-1, PARP-1, cyclin D1 and actin protein expression as indicated. B) Z138, ZC-shGFP, or ZC-shATM cells were either unirradiated (-) or irradiated (2 Gy) and harvested following a two hour incubation. Whole cell extracts were probed for phosphorylated ATM (P-S1981), total ATM and DNA-PKcs as indicated. C) Cells were incubated with various concentrations of olaparib and after 96 hours cell viability was determined by trypan blue exclusion. Z138 (black squares), ZC-shGFP (black circles), ZC-shATM (white squares), BT (black diamonds) and L3 (white circles). Points marked by an asterisk (*) indicate statistical significance (p<0.05) between ZC-shATM and Z138/ZC-shGFP. D) BT, L3, Z138, ZC-shGFP and ZC-shATM cells were exposed to olaparib (5 μM) for 96 hours then cellular viability was determining using the WST-1 assay. For each panel, error bars represent the SEM. In each experiment BT cells are compare to L3 cells, while all the MCL cell lines are compared to each other.
+The mechanism of PARP inhibitor induced cell death in MCL cell lines
+It has been proposed that inhibition of PARP-1 leads to accumulation of DNA single strand breaks (SSBs) that are converted to DSBs during DNA replication. In DSB repair competent cells, these DSBs are repaired, whereas in cells with defects in pathways for DSB detection and/or repair, these DSBs induce cell death (
+2
+-
+5
+). In keeping with this, PARP-1 inhibitors have been shown to induce ATM autophosphorylation on Ser-1981 as well as phosphorylation of downstream ATM targets, Chk2, Nbs1 and H2AX (
+9
+,
+11
+,
+36
+). To determine the mechanism of cell death in olaparib-treated MCL cells, we asked whether olaparib induced phosphorylation of ATM on serine 1981. The ATM-proficient cell lines Z138 and UPN1, and the ATM-deficient cell lines Granta-519 and UPN2 were exposed to 2.5 μM olaparib for up to 96 hours and ATM autophosphorylaytion was determined by western blot. In Z138 (
+Figure 5A
+) and UPN1 (
+Supplementary Figure 4
+) cells, olaparib induced ATM Ser-1981 autophosphorylation by 24 hours, with the relative amount of phosphorylation increasing over time up to 96 hours. As expected, no phosphorylation of Ser-1981 was detected in the ATM-deficient cell lines, Granta-519 (
+Figure 5A
+) or UPN2 (
+Supplementary Figure 4
+). These results are consistent with olaparib inducing DSBs in MCL cells. To determine whether cell death was occurring via apoptosis, cells were analyzed using TUNEL assays and Annexin V staining. ATM-deficient UPN2 and Granta-519 cells displayed a 15 to 20-fold increase in TUNEL positive (apoptotic) cells compared to untreated cells (
+Figure 5B
+). This contrasts with ATM-proficient UPN1 and Z138 cells, where only a slight increase in apoptotic cells was seen over untreated controls. Moreover, a significant increase in the percentage of annexin positive apoptotic cells was observed in both Granta-519 and UPN2 cells upon treatment with olaparib, while few apoptotic cells were seen in Z138 or UPN1 cell lines (
+Figure 5C
+). Thus, we conclude that olaparib induces DSBs and that cell death occurs, at least in part, by apoptosis (
+Figure 5D
+).
+Open in a separate window
+Figure 5
+Olaparib induces serine-1981 phosphorylation in ATM-proficient MCL cells and apoptosis in ATM-deficient MCL cells
+A) Z138 and Granta-519 cells were exposed to olaparib (2.5 μM) or vehicle (VEH, DMSO) for 24, 48, 72 or 96 hours as indicated. Whole cell extracts (50 μg total protein) were run on SDS PAGE, immunoblotted and probed for ATM autophosphorylation at Ser-1981 (P-S1981), total ATM and total SMC-1 as indicated. Quantitation of olaparib-induced P-S1981 ATM compared to total ATM for Z138 is shown below the blot. As a positive control for P-Ser-1981, in the Granta-519 cells, BT cells were irradiated 2 Gy and harvested after 1 hour. B) Cells were treated with 2.5 μM olaparib for 24, 48, 72 or 96 hours as indicated and the proportion of cells undergoing apoptosis was determined using the TUNEL assay. The fraction of TUNEL positive cells was normalized to the untreated sample for each cell line. Results are presented as the percentage of TUNEL positive cells at each time point. Z138 (white bars), Granta-519 (black bars), UPN2 (hatched bars) and UPN1 (grey bars). C) Cells were treated with olaparib as in panel C then assayed for Annexin V and PI staining. The percentage of apoptotic cells (+ for Annexin V and – for PI) is shown. Z138 (white bars), Granta-519 (black bars), UPN2 (hatched bars) and UPN1 (grey bars) as in panel C. D) A model for the mechanism of PARP-1-induced cell death. DNA single strand breaks (SSBs) generated in cells by reactive oxygen species (ROS) or as intermediates during base excision repair (BER) are recognized by PARP-1 and repaired by the base excision and/or DNA single strand break (SSB) repair pathways. Small molecule inhibitors of PARP-1 (for example PJ34 or olaparib) block SSB repair, permitting the conversion of SSBs into DNA double strand breaks (DSBs) during DNA replication. MCL cells with wild-type ATM initiate an appropriate DSB damage response and survive, whereas cells in which ATM function is disrupted have reduced ability to respond to DNA DSBs, resulting in cell death via apoptosis.
+Olaparib reduces tumour growth and improves survival in an in vivo mouse model for MCL
+To test the effectiveness of olaparib in an
+in vivo
+setting, we utilized a mouse xenograft model of MCL (
+31
+). Immuno-compromised RAG2-deficient mice were inoculated subcutaneously with either Granta-519 or Z138 cells. Beginning 5 days after inoculation, mice were injected intraperitoneally with vehicle alone, 25 or 50 mg/kg olaparib, every day for 28 consecutive days. Notably, a statistically significant reduction in tumour growth was observed in mice bearing Granta-519 xenografts at both 25 and 50 mg/kg (
+Figure 6A
+). Moreover, olaparib significantly prolonged the survival of these mice in a dose-dependent manner (
+Figure 6B
+). The median survival of the control group (28 days) was extended by 25% (to 35 days) for mice receiving 25 mg/kg and 42% (to 40 days) for mice receiving 50 mg/kg olaparib. In contrast, in mice bearing Z138 xenografts, the difference in tumour growth rate between control mice and mice receiving 25 mg/kg olaparib was not statistically significant, and only a modest lag in tumour growth was observed at higher doses of olaparib (50 mg/kg) (
+Figure 6C
+). The effect of olaparib on the Z138 xenografts at high doses of olaparib was not unexpected, as high doses also decreased viability of Z138 cells in
+in vitro
+cytotoxicity assays (
+Figure 3
+). Median survival of the Z138 control group (44 days) was the same as the group receiving 25 mg/kg olaparib (44 days) and increased by 23% (54 days) for mice receiving 50 mg/kg (
+Figure 6D
+).
+Open in a separate window
+Figure 6
+Olaparib reduces tumour growth and prolongs survival of mice bearing ATM-deficient xenografts
+A) Mice were injected subcutaneously with Granta-519 (ATM-deficient) cells as described in Materials and Methods. Five days later mice were injected intraperitoneally with vehicle alone (circles, solid lines), 25 mg/kg olaparib (squares, dashed lines), or 50 mg/kg olaparib (triangles, dotted lines). Injections of drug/vehicle were continued for 28 consecutive days (indicated by solid line beneath the x axis). Tumour volume was determined as described in Materials and Methods. N = 8 mice for the 0 and 50 mg/kg groups and 9 for the 25 mg/kg group. Error bars represent the SEM. Statistical significance (p > 0.05), as determined by the student T-test between control and olaparib-treated mice is marked either by an asterisk (50 mg/kg group) or an octothorp/number sign (25 mg/kg group). B) Survival curves for the experiment shown in panel A. Solid lines represent mice injected with vehicle alone, dashed lines and dotted lines represent mice treated with 25 mg/kg or 50 mg/kg olaparib, respectively. End point survival at 25 and 50 mg/kg were considered statistically significant (p = 0.0018 and 0.0012, respectively) compared to vehicle treated animals using the Mantel-Cox test. Mean survival times were 28 days (vehicle alone), 35 days (25 mg/kg olaparib) and 40 days for 50 mg/kg olaparib. C) Tumour volume for mice injected with Z138 cells (ATM-proficient) followed by injection with vehicle alone (circles, solid lines), 25 mg/kg olaparib (squares, dashed lines) or 50 mg/kg olaparib (triangles, dotted lines) as described in panel A. N = 10 mice for the 0 and 25 mg/kg groups and 9 for the 50 mg/kg group. Error bars represent the SEM. Points marked by an asterisk (50 mg/kg group) are considered statistically significant (p > 0.05) compared to vehicle-treated controls as determined by the student T-test. D) Survival curves for the experiment shown in panel C. Vehicle alone (solid lines), 25 mg/kg olaparib (dashed lines), 50 mg/kg olaparib (dotted lines). End point survival between 0 and 25 mg/kg were not considered statistically significant (p = 0.316). End point survival between and 0 and 50 mg/kg were considered statistically significant (p = 0.0057) using the Mantel-Cox test. The mean survival of mice receiving no olaparib was 45 days, compared with 45 and 56 days for mice receiving 25 or 50 mg/kg olaparib, respectively.Discussion
+The synthetic lethal approach using PARP inhibitors represents a powerful new strategy for therapeutic intervention (
+2
+-
+5
+). To date this approach has been validated for breast and ovarian cancers (
+43
+), however, whether it is applicable to other human cancers was not known. Here, we addressed this question for MCL, an aggressive B-cell lymphoma, which represents approximately 10% of all cases of NHL.
+Characterization of ATM function in a panel of seven MCL cells lines showed reduced ATM function in Granta-519 and UPN2 cells. Consistent with previous results, no ATM protein was detected in UPN2 (
+25
+). Although Granta-519 contained low levels of ATM protein, no 1981-phosphorylation was detected and the cells were highly radiation sensitive and exhibited cell cycle checkpoint defects, consistent with lack of functional ATM. Previously reported alterations of
+ATM
+in UPN1 (
+25
+) and MAVER-1 (
+26
+) appeared to have little impact on ATM function, as ATM-dependent signaling, checkpoint arrest and sensitivity to IR were all similar to that observed in control lymphoblastoid cells and the other ATM-proficient MCL cell lines.
+Significantly, Granta-519 and UPN2 cell lines were significantly more sensitive to PARP-1 inhibitors than were the ATM-proficient MCL cell lines examined. The lethal dose required to kill 50% of cells (LD
+50
+) using the clinically relevant PARP-1 inhibitor olaparib was 3.3 μM for Granta-519 and 2.1 μM for UPN2 (
+Figure 3B
+). The toxicity of PARP-1 inhibition was further confirmed in MCL cells in which ATM protein levels were stably reduced by shRNA. The LD
+50
+for olaparib in the ATM knockdown cell line ZC-shATM was 2.7 μM, which was comparable to the values obtained in other ATM-deficient MCL cell lines and was significantly lower than the LD
+50
+for olaparib in either the control knockdown or parental control cell lines (>5 μM) (
+Figure 4C
+).
+Autophosphorylation of ATM on Ser-1981 in the ATM-proficient MCL cell lines following olaparib treatment indicates that inhibition of PARP-1 leads to the induction of DNA DSBs and activation of an ATM-dependent DNA damage response pathway. We propose that ATM-proficient MCL cells retain the ability to respond to such damage; while impairment of ATM function in Granta-519 and UPN2 cells, should lead to persistent unrepaired DSBs resulting in increased cell death (
+Figure 5D
+). Our results further suggest that apoptosis plays a role in PARP-1 inhibitor-induced cell death in ATM-deficient MCL cells. Indeed, apoptosis occurs in BRCA1 or BRCA2-deficient cells treated with PARP-1 inhibitors (
+7
+,
+36
+).
+ATM and p53 status are proposed to be critical in determining the cellular response to chemotherapy (
+44
+), however, the p53 status of the MCL cell lines examined here does not appear to correlate with sensitivity to PARP-1 inhibitors. For example, Granta cells have one wild type p53 allele while p53 is mutant in UPN2 (
+Supplementary Table 1
+), yet both are sensitive to PARP-1 inhibitors. Also, of the MCL cell lines that were resistant to PARP-1 inhibition, some are reported to contain mutations or deletions in p53 (MAVER-1, UPN1, HBL-2) while in others, both alleles of p53 are wild-type (JVM-2, Z138) (
+Supplementary Table 1
+, (
+28
+)). In addition, p53 status was consistent between the ATM knockdown (ZC-shATM), control knockdown (ZC-shGFP) and parental cells (Z138) (
+Figure 4A
+); however, ZC-shATM was more sensitive to olaparib than either the parental or control cell line. Although the relationship between p53 status and olaparib warrants further study, our results suggest that wild type p53 is not required for olaparib sensitivity.
+To further test the potential of olaparib as a therapeutic agent for MCL, we used an
+in vivo
+xenograft model using both ATM-deficient (Granta-519) and ATM-proficient (Z138) cells (
+Figure 6
+). Significantly, PARP-1 inhibition by olaparib reduced tumour growth and increased survival in a dose-dependent manner in mice bearing xenografts of ATM-deficient cells (
+Figure 6 A/B
+). While olaparib also reduced tumour growth and increased survival in xenografts with ATM-proficient tumours, this effect was only seen at the higher dose (50 mg/kg) (
+Figure 6 C/D
+).
+Our results suggest that PARP-1 inhibitors have potential in the treatment of malignancies in which the response to and/or repair of DNA damage is compromised and that the concept of synthetic lethality, initially developed for breast and ovarian cancers characterized by mutations in
+BRCA1
+or
+BRCA2
+(
+45
+), can also be extended to MCL cells with alterations in
+ATM
+. Moreover, as most
+ATM
+alterations seen in MCL occur only in malignant B-cells not in other somatic tissues (
+18
+,
+46
+), the use of PARP-1 inhibitors in MCL has the potential to offer a targeted approach to cancer therapy. We also note that the synthetic lethal approach may be applicable to other tumours with alterations in ATM, including B-cell chronic lymphocytic leukemia (B-CLL) (
+19
+,
+47
+) and non-small cell lung cancer (NSCLC) (
+48
+,
+49
+) as well as gastric cancer (
+50
+). Thus, targeting ATM-defective tumours by PARP-1 inhibitors may have broad utility beyond MCL.Supplementary Material
+1
+Click here to view.
+(1.4M, pdf)Acknowledgements
+We thank Dr. Y. Shiloh (Tel Aviv University) for shRNA vectors to ATM and GFP, Ms L. Robertson, Ms L. Kennedy and the University of Calgary Flow Cytometry Facility for their assistance with the FACS experiments, Ms M. Chisholm and the University of Calgary Animal Resource Centre, Dr. A. Cranston (KuDOS Pharmaceuticals Ltd.) for advice on
+in vivo
+experiments, Dr. D. Proud and lab members for use of the ELISA plate reader, Drs S. Robbins and E. Kurz and members of the SPLM lab for discussions and Dr. J. Tainer for helpful comments on the manuscript. M. J. O’C is an employee of KuDOS Pharmaceuticals Ltd., a wholly owned subsidiary of Astrazenica.
+Financial Support:
+This study was supported by grant number 016253 from the National Cancer Institute of Canada with funds from the Canadian Cancer Society (to SPLM) and a grant from the Leukemia and Lymphoma Society of Canada to DGB and SPLM. CTW was supported by graduate studentships from Alberta Health Services and the Translational Research in Cancer Program (TRTC) with funds from the Canadian Institutes of Health Research and the Alberta Cancer Foundation. SPLM holds the Engineered Air Chair in Cancer Research and is a Scientist of the Alberta Heritage Foundation for Medical Research.Abbreviations List
+ATM
+Ataxia-Telangiectasia Mutated
+A-T
+Ataxia-Telangiectasia
+ATR
+ATM-Rad 3-related
+B-CLL
+B-cell Chronic Lymphocytic Leukemia
+BRCA
+breast and ovarian cancer susceptibility genes
+DNA-PK
+DNA-dependent protein kinase
+DNA-PKcs
+catalytic subunit of DNA-PK
+DSBs
+DNA double strand breaks
+FBS
+fetal bovine serum
+IR
+ionizing radiation
+KAP-1
+KRAB-associated protein
+MCL
+Mantle Cell Lymphoma
+NHL
+Non-Hodgkin’s Lymphoma
+NSCLC
+Non-Small Cell Lung Cancer
+PARP-1
+Poly-ADP Ribose Polymerase-1
+PBS
+phosphate buffered saline
+PI
+propidium iodide
+Ser
+serine
+SMC-1
+Structural Maintenance of Chromosomes-1
+SSBs
+DNA single strand breaks
+TUNEL
+Terminal deoxynucleotide transferase dUTP Nick End Labeling.Footnotes
+Conflict of interest:
+none declared.

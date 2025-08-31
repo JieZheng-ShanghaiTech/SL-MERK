@@ -1,0 +1,467 @@
+Abstract
+Metastatic solid tumors are almost invariably fatal. Patients with disseminated small-cell cancers have a particularly unfavorable prognosis with most succumbing to their disease within two years. Here, we report on the genetic and functional analysis of an outlier curative response of a patient with metastatic small cell cancer to combined checkpoint kinase 1 (Chk1) inhibition and DNA damaging chemotherapy. Whole-genome sequencing revealed a clonal hemizygous mutation in the Mre11 complex gene RAD50 that attenuated ATM signaling which in the context of Chk1 inhibition contributed, via synthetic lethality, to extreme sensitivity to irinotecan. As Mre11 mutations occur in a diversity of human tumors, the results suggest a tumor-specific combination therapy strategy whereby checkpoint inhibition in combination with DNA damaging chemotherapy is synthetically lethal in tumor but not normal cells with somatic mutations that impair Mre11 complex function.
+Keywords:
+DNA damage and repair, cancer genomics, exceptional responders, targeted and systemic therapy, RAD50INTRODUCTION
+Curative therapy for patients with metastatic solid tumors remains elusive. Even with the much-heralded advent of targeted inhibitors of oncogenic signaling pathways, drug resistance and disease progression occur in essentially all patients. We sought to define the mechanistic basis of a dramatic and durable response to systemic therapy in a 51-year old woman originally diagnosed with an invasive small-cell cancer of the ureter (
+Supplementary Fig. S1A–B
+). Small cell variant, a rare histologic subtype that can arise throughout the urothelial tract, is associated with a particularly poor prognosis. Following initial surgical resection and a short course of adjuvant chemotherapy (etoposide and cisplatin), her disease rapidly recurred. After a second surgery to remove recurrent and metastatic tumors in her kidney and retroperitoneal lymph nodes, the patient again recurred with progressive metastatic disease prompting enrollment in an open-label phase 1 clinical trial of AZD7762, an ATP-competitive checkpoint kinase inhibitor (Chk1/2), and weekly irinotecan, a topoisomerase I inhibitor (
+1
+). Within 5 months, the patient achieved a complete response that has proven durable despite discontinuation of drug therapy nearly 3 years ago (
+Fig. 1A–B
+). We performed whole-genome sequencing (WGS) of the tumor and matched normal tissue from this patient to investigate the genetic basis of this outlier example of curative systemic cancer therapy.
+Open in a separate window
+Figure 1
+The treatment history and genomic landscape of a metastatic carcinoma with an extreme outlier response to combination therapy
+(A)
+Schematic representation of the treatment history of the index responder, a patient with metastatic small cell carcinoma of the ureter (PR, partial response; CR, complete response; NED, no evidence of disease).
+(B)
+Computed tomography images of the index patient prior to surgery of the recurrent tumor, prior to combined AZD7762 and irinotecan therapy, and one month after combined treatment (left, middle, and right respectively).
+(C)
+Somatic abnormalities in the responder’s genome (from outside to inside) included a heavy burden of copy number alterations; mutations at ~10-Mb resolution; regulatory, synonymous, missense, nonsense, and frameshift insertions and deletions (gray, black, orange, red, and green); and intra- and interchromosomal rearrangements (light and dark blue).
+(D)
+The allelic fraction of mutations is shown in genes identified by WGS of the post-etoposide/cisplatin tumor and also covered by the IMPACT assay and re-sequenced in the treatment-naïve primary tumor (blue and gray respectively).RESULTS
+WGS of tumor DNA from the second surgery and matched normal blood revealed a complex somatic tumor genome (
+Fig. 1C
+). We identified 19,011 somatic point mutations and small insertions and deletions (indels), of which 147 were located in protein-coding or non-coding RNA regions of the genome (
+Supplementary Table 1
+). Overall, the somatic mutation rate was 7.06 mutations per million bases, similar to the only other reported whole genome sequence of a metastatic urothelial cancer reported to date (
+2
+). This genome also had a substantial number of DNA copy number alterations (CNAs), as is typical of p53-mutant bladder cancers (the tumor harbored a TP53 A161T mutation) (
+3
+). CNAs were the source of ~60% of all structural rearrangements identified in this tumor genome, the burden of which was high (
+Supplementary Table 2
+).
+As WGS was performed on the recurrent tumor specimen obtained after etoposide/cisplatin therapy but before trial enrollment, we sought to determine whether the candidate driver mutations identified arose early in molecular time by analyzing the diagnostic tumor sample collected pre-etoposide/cisplatin therapy. Using a capture-based approach partly customized using the WGS findings (see Methods,
+Supplementary Fig. 2A
+), we deeply sequenced 281 genes (
+Supplementary Tables 3–4
+). This confirmed that most of the mutations identified by WGS of the recurrent tumor affecting known cancer genes were present in the treatment-naïve diagnostic tumor (
+Fig. 1D
+). Others pre-existed therapy but were not selected for and still others arose later in molecular time as they were present but subclonal only in the post-etoposide/cisplatin tumor.
+We then performed an integrated analysis using the mutation, DNA copy number, and tumor clonality data generated by the WGS analysis together with the sum of information on pathways proximal to the mechanism of drug action in order to prioritize genomic aberrations that may have contributed to this patient’s exceptional response. In addition to the mutation in
+TP53
+(A161T), mutations identified in
+ATR
+and
+RAD50
+were particularly noteworthy from the perspective of this patient’s profound response to checkpoint inhibitor-based combination therapy (
+Supplementary Fig. 2B–D
+). While both were missense mutations,
+in silico
+analyses suggested that whereas ATR H585D was unremarkable, the RAD50 L1237F mutant was deemed to be the likeliest contributor to the profound response to systemic therapy observed in this patient. Several lines of evidence supported this prediction. The
+ATR
+mutation was heterozygous, affected the poorly conserved H585 residue (
+Supplementary Fig. 2C
+), did not reside in a protein domain or motif of known significance, was not recurrently mutated nor among a pattern of clustered mutations at this site (data not shown), and was not affected by a focal CNA, arguing against selection for the ATR mutation during tumorigenesis (see
+Supplementary Materials
+).
+Conversely, the weight of the
+in silico
+evidence suggested that the novel missense mutation in RAD50 (L1237F) was a potential sensitizing lesion contributing to the profound response to systemic therapy observed in this patient. RAD50 is a component of the Mre11 complex, a multi-subunit nuclease comprised of
+RAD50
+,
+MRE11A
+, and
+NBN
+(
+4
+), mutations of which are associated with DNA repair deficiency. This RAD50 L1237F allele was clonal in the index patient (present in 100% of tumor cells;
+Supplementary Fig. 3
+) and accompanied by focal deletion of the wildtype allele (
+Fig. 2A
+), with corresponding tumor-specific reduction of RAD50 protein expression confirmed by immunohistochemistry (
+Supplementary Fig. 4A–D
+). Further, this mutation is situated in the D-loop of RAD50 (
+Fig. 2B
+), a region that influences ATP hydrolysis (
+5
+,
+6
+). Recent structural analyses indicate that ATP hydrolysis has a profound effect on the functionality of the Mre11 complex, which senses double strand breaks (DSB) and governs the DNA damage response (DDR) (
+7
+). Analyzing the mutational landscape of
+RAD50
+in 7,494 sequenced tumors across 28 tumor types (
+Supplementary Table 5
+and
+Supplementary Materials
+) revealed that not only do ~4% of all human tumors harbor Mre11 complex mutations, but a subset of these cluster in regions adjacent to the L1237F-mutant D-loop motif of the RAD50 protein in diverse tumors (
+Fig. 2B
+). Notably, these mutations were most common in urothelial bladder and colorectal tumors (11 and 8%) respectively, the latter of which are often treated with irinotecan-based regimens (
+8
+). Additionally, RAD50 L1237 is a very highly conserved residue, along with several of the other RAD50 mutant alleles detected (
+Fig. 2C
+). Essentially all Rad50 orthologs have a Leucine (L, Leu) at the position corresponding to human residue 1237. Bacteriophage T4 Rad50 is an exception, possessing a Phenylalanine (F, Phe) at this position (
+Fig. 2C
+). This suggested that the L1237F mutation would be hypomorphic rather than inactivating, with the gene product retaining some residual function. Finally, structural analysis of the Rad50 dimer confirmed the clustering of the L1237F mutation in the index tumor genome with other mutant alleles observed in diverse tumor types, which together affect the D-loop motif and Walker B elements adjacent to ATP binding (
+Fig. 2D
+). In summary,
+in silico
+analysis predicted that while ATR H585D was likely a passenger mutation, the L1237F mutation and others observed in RAD50 in additional tumors may exert a significant functional impact.
+Open in a separate window
+Figure 2
+D-loop and adjacent mutations in RAD50
+(A)
+DNA copy number segmentation inferred from WGS of the index case indicates a focal heterozygous loss spanning the
+RAD50
+locus on 5q31.1, deleting the wildtype allele (as indicated by the sequence logo representing the allelic frequency), retaining only RAD50 L1237F.
+(B)
+The RAD50 L1237F mutation (red) is present in the D-loop of the ATPase domain near the Walker B motif (top and bottom, schematic of RAD50 protein at multiple scales). Directly adjacent appear a cluster of mutations in diverse malignancies (black).
+(C)
+Conservation of the RAD50 D-loop motif and adjacent sequence is indicated across 9 organisms in which the mutated leucine and adjacent aspartate residues are highlighted in green and yellow respectively, along with the positions of other mutations. The mutation position for human and yeast (in brackets) are given and indicated by arrowheads (
+Hs, Homo sapiens; Mm, Mus musculus; Dm, Drosophila melanogaster; At, Arabidopsis thaliana; Sc, Saccharomyces cerevisiae; Sp, Schizosaccharomyces pombe; Ec, Escherichia coli; Pf, Pyrococcus furiosus; T4, Bacteriophage T4
+).
+(D)
+The three dimensional structure of the Rad50 dimer indicating the position of the affected subunit with mutations colored in red. Inset indicates the position of mutant residues within close proximity to bound ATP.
+We exploited the high degree of evolutionary conservation of the RAD50 D-loop to assess the functional significance of RAD50 L1237F by modeling this and other tumor-associated alleles in
+S. cerevisiae
+. Six
+rad50
+mutant yeast strains were established:
+rad50
+L1240F
+(the yeast version of the mutation in the tumor genome), as well as mutations predicted to exert minor and major effects on D-loop structure (
+rad50
+L1240A
+and
+rad50
+L1240R
+respectively; see Methods,
+Supplementary Table 6
+). Additionally, we established
+rad50
+mutant strains harboring D-loop (D1238N,
+rad50
+D1241N
+) and non-D-loop but highly conserved (Q1259K,
+rad50
+Q1262K
+) mutations identified in breast and endometrial carcinomas respectively.
+All three
+rad50
+L1240
+mutations appeared to destabilize the Rad50 protein, as the steady state levels of the
+rad50
+L1240F
+and
+rad50
+L1240A
+gene products were reduced compared to wildtype, while Rad50
+L1240R
+was nearly undetectable (
+Fig. 3A
+). Conversely, the
+rad50
+D1241N
+and
+rad50
+Q1262K
+mutants had levels of Rad50 similar to wildtype cells. Nevertheless, while these mutations had differing effects on Rad50 expression levels, the Mre11 complex itself remained intact, as indicated by co-immunoprecipitation with Mre11 (
+Fig. 3A
+). We further confirmed the apparent selection for
+RAD50
+hemizygosity in the tumor [mutation and loss of heterozygosity (LOH)], as only diploid strains expressing homozygous
+rad50
+L1240F/L1240F
+(or
+rad50
+L1240F
+haploid cells) exhibited impaired survival following camptothecin (CPT; an analog of irinotecan) treatment (
+Supplementary Fig. 5–6
+). These data indicate selection for RAD50 hypomorphism in the index patient through mutation and LOH (
+Fig. 2A
+), resulting in the retention of only a single mutant allele with compromised function.
+Open in a separate window
+Figure 3
+RAD50 hypomorphism attenuates ATM signaling, synergizing with checkpoint inhibition to confer chemotherapy sensitivity
+(A)
+While the Rad50
+L1240F
+protein level is reduced, the Mre11 complex is intact in
+rad50
+L1240F
+cells as well as those harboring similar D-loop or adjacent mutations. The Mre11-Rad50 interaction was assessed by co-immunoprecipitation with Rad50 or Mre11 antibodies (Rad50-IP or Mre11-IP) and western blot (anti-Rad50 or anti-Mre11) from yeast extracts of the indicated genotypes. Preimmune antibodies (PI) were included as a negative control. Rad50
+L1240R
+abundance was too low to rigorously determine whether complex formation was disrupted.
+(B)
+Mec1 (yeast ortholog of human ATR) deficiency dramatically potentiates the DNA damage sensitivity of
+rad50
+L1240F
+-mutant cells, an affect that could not be rescued by
+Sae2
+deletion. Mec1-proficient (
+MEC1 WT
+, top 8 strains) or Mec1-deficient (
+mec1Δ
+, which also contains the
+sml1Δ
+suppressor, bottom 14 strains) cells of the indicated genotypes were 1/5 serially diluted and spotted on plates with or without the indicated concentrations of camptothecin (CPT) and grown for 3 days.
+(C)
+While Rad53 is phosphorylated (P-Rad53) upon MMS treatment in Rad50-wildtype cells with (+) or without
+Mec1
+or
+Sae2
+(Δ), these levels are attenuated in
+rad50
+L1240F
+mec1Δ sae2Δ
+triple-mutant cells or those with adjacent mutations, indicating that Tel1 (ATM) is not activated in
+rad50
+-mutant cells.
+(D)
+Graphical summary of the impact of the indicated
+rad50
+alleles on Rad50 levels (blue); the integrity of the Mre11 complex; on CPT sensitivity in checkpoint-proficient (
+MEC1
+) and checkpoint-compromised (
+mec1Δ
+) cells (green), the ability of the Tel1 checkpoint to rescue cell survival (gray/black); Rad53 phosphorylation (blue) upon MMS treatment; telomere length (red).
+(E)
+A model of sensitivity to DNA damaging agents such as irinotecan driven by the synthetic lethality between simultaneous genetic and pharmacologic perturbation of both axes (ATM and ATR) of the DDR by RAD50 hypomorphism and checkpoint inhibition respectively.
+As the curative response in the index patient occurred in the setting of combined inhibition of topoisomerase 1 and the DNA damage checkpoint pathway, we assessed whether checkpoint inhibition was synergistic with
+rad50
+L1240F
+in the presence of CPT by examining drug sensitivity in a
+rad50
+L1240F
+mutant in which
+Mec1
+was ablated.
+MEC1
+is the yeast counterpart of the human
+ATR
+(ataxia telangiectasia and Rad3-related) gene, and is the major regulator of DDR in budding yeast (
+9
+). Therefore, an analysis of
+rad50
+L1240F
+mec1Δ
+double mutants is a surrogate of AZD7762 treatment in the patient. Whereas
+rad50
+L1240F
+cells exhibited only mild CPT sensitivity in a checkpoint-competent background, the
+rad50
+L1240F
+mec1Δ
+double mutants were at least 500-fold more sensitive to CPT than either of the single mutants (
+Fig. 3B
+). Other D-loop mutants exhibited variable CPT sensitivity, with
+rad50
+Q1262K
+sharing a pattern similar to L1240F whereas
+rad50
+D1241N
+was as sensitive as
+rad50Δ
+cells. These results indicate that L1237F-mutant cells are strongly dependent on the remaining intact checkpoint pathway for survival upon DNA damage by topoisomerase 1 inhibition. This synthetic lethal interaction likely accounts for the apparent hypersensitivity of the index patient’s RAD50 L1237F-mutant cells to co-treatment with irinotecan AZD7762.
+As the Mre11 complex also regulates the DDR kinase ATM, we next assessed the functional status of Tel1 (the yeast ATM ortholog and Mec1 paralogue) in
+rad50
+mutants. In
+mec1Δ sae2Δ
+mutants, cells that are only able to respond to DNA damage through Tel1 via a functional Mre11 complex (see
+Supplementary Note
+) (
+10
+,
+11
+),
+rad50
+L1240F
+triple mutant cells had a sensitivity to both CPT and the DNA damaging agent methyl methanesulfonate (MMS) equal to that of
+rad50
+-mutant
+mec1Δ
+alone, indicating defective activation of Tel1 in Rad50 D-loop-mutant cells (
+Fig. 3B
+,
+Supplementary Fig. 7
+). Next, we examined DNA damage-dependent activation of Rad53, which as a downstream substrate of Tel1 analogous to human Chk2, can only be activated by Tel1 in the absence of Mec1. While MMS treatment induced Rad53 phosphorylation levels in wildtype cells, and while some additional Rad53 stimulation is apparent upon Sae2 loss,
+sae2Δ
+cannot rescue Rad53 phosphorylation levels in any of the
+rad50
+mutants tested (
+Fig. 3C
+and
+Supplementary Fig. 8
+). This attenuation of Rad53 phosphorylation levels in the triple mutants confirms that Tel1 (ATM) signaling is defective in the Rad50-mutant cells.
+As Tel1 kinase activity is important for telomere maintenance, we assessed the impact of this molecular phenotype on telomere length in the
+rad50
+mutants. As in previous studies that showed significantly shorter telomeres resulting from
+tel1Δ
+and Tel1 kinase-dead strains (
+12
+), we also witnessed shorter telomeres in the
+rad50
+mutant cells (
+Supplementary Fig. 9
+). This observation, along with the defect in Rad53 phosphorylation in Mec1-deficient cells, suggests that ATM activation was compromised in the RAD50 L1237F index responder. In sum, the results suggest that the marked sensitivity of the RAD50 L1237F-mutant tumor to irinotecan was due at least in part to simultaneous inhibition of both the ATR (by AZD7762) and ATM (by RAD50 L1237F) axes of the DDR.
+We further recapitulated these findings in mammalian cells. We engineered mouse embryonic fibroblasts (MEFs) in which the sole source of Rad50 was
+Rad50
+L1237F. Upon treatment with the Chk1 inhibitor and CPT, these cells had reduced phosphorylation of the substrate Kap1 at Ser824, an ATM-dependent site (
+Supplementary Fig. 10A
+). Consequently, these cells have reduced γH2AX formation following irradiation (
+Supplementary Fig. 10B
+), confirming the ATM signaling defect. Moreover, while colony formation was reduced significantly upon irinotecan treatment irrespective of genotype, this was greatest upon co-treatment with the Chk1 inhibitor in Rad50 L1237F cells (
+Supplementary Fig. 10C
+).DISCUSSION
+In summary, we find that a hypomorphic mutation in
+RAD50
+accompanied by LOH identified by WGS of an extreme outlier responder likely contributed to a complete and durable response to irinotecan in combination with a selective inhibitor of Chk1. The
+RAD50
+L1237F mutant was both clonal and arose early, suggesting that
+RAD50
+dysfunction may have contributed to tumor initiation, perhaps in combination with mutant p53, by potentiating the profound structural remodeling of this patient’s tumor genome. While our functional results indicate that
+RAD50
+L1237F confers dramatically enhanced sensitivity to the combination of irinotecan and Chk1 inhibition, additional factors may have contributed to the profound and durable response observed. For example, the clonal nature of this responder’s tumor, with 95.1% of all somatic mutations identified present in the dominant tumor clone (
+Supplementary Fig. 3
+), may have contributed to the depth and durability of the response. It has been suggested that extensive subclonal mutations in treatment-naïve patients are associated with a shorter time to relapse and a worse outcome (
+13
+). The limited subclonal structure of this patient’s tumor may, therefore, have resulted in a less tolerant environment for the selection and outgrowth of a pre-existing resistant clone. This may have been especially true given the dose-dense weekly cytotoxic treatment regimen used, which may not have allowed the tumor sufficient time to adapt a fitter and more resistant clone.
+In addition to demonstrating the indispensability of the D-loop of RAD50 for proper ATM activation and downstream checkpoint signaling (
+Fig. 3D
+), the hypomorphic nature of the RAD50 L1237F allele is noteworthy. Whereas the somatic mutation was defective, innocuous D-loop alanine substitutions (
+rad50
+L1240A
+and
+rad50
+D1241A
+) had only a very mild impact, despite these residues being so highly conserved. Thus, there is considerable plasticity in the D-loop sequence that produces a narrow solution space in which RAD50 hypomorphism can be achieved through somatic mutation. This illustrates the potential importance of functional rather than fully inactivating mutations of highly conserved components of essential cellular systems like the DDR to various malignant phenotypes including treatment sensitivity.
+While D-loop mutations in Rad50 have been studied previously (
+5
+,
+14
+), our phenotypic characterization of the somatic RAD50 L1237F allele revealed new insights into RAD50 function that may be exploited therapeutically. Whereas RAD50 mutation produced a negligible DSB repair defect, ATM activation was severely impaired. This resulted in marked synergy with inhibition of the ATR-Chk1 axis of the DDR in the setting of co-treatment with a DNA damage-inducing cytotoxic chemotherapy (
+Fig. 3E
+). These data suggest a tumor-specific combination therapy strategy whereby checkpoint inhibition in combination with DNA damaging chemotherapy is synthetically lethal in tumor but not normal cells with somatic mutations impairing Mre11 complex function. Indeed, as we found Mre11 complex mutations along with those in ATM to be present in a significant minority of patients across diverse human cancer types (
+Supplementary Table 5
+), these data argue for the development of inhibitors of checkpoint control generally and also targeted inhibitors of the Mre11 complex specifically or its synthetic lethal partners (such as
+ATM
+). As suggest by prior studies, this combinatorial approach may prove particularly effective in p53-mutant patients, as was the case in the index patient described here (
+15
+). This synthetic lethality is thus analogous to the use of PARP inhibitors in patients with BRCA1/2 mutations and highlights the potential utility of targeting DNA repair pathways in combination with mutagenic chemotherapies in patients who have a tumor-restricted defect in DDR. Finally, this work highlights that the value of whole genome analyses of extreme outlier phenotypes is not limited to targeted therapeutics or the discovery of biomarkers of clinical benefit. Rather, analyses of exceptional responses can reveal new facets of pathway biology that suggest rational polytherapeutic strategies to interdict in a manner that extends profound, life-altering activity to molecularly defined patient populations.METHODS
+Clinical presentation and phase I trial
+A 47-year-old woman presented with severe flank pain and gross hematuria. Computed tomography (CT) identified a lesion in the right ureter, which biopsy confirmed was an invasive poorly differentiated carcinoma with small cell features (
+Supplementary Fig. 1
+). She underwent a distal right ureterectomy that showed high-grade small cell carcinoma with local invasion and lymph node metastasis (pT3N1). She was treated with six cycles of etoposide and cisplatin chemotherapy but four months later CT indicated a recurrent infiltrative soft-tissue mass within her right kidney and increasing retroperitoneal lymphadenopathy. At that time, she underwent a right nephroureterectomy with retroperitoneal lymph node dissection from which a recurrent small cell carcinoma was confirmed with invasion into the renal hilar fat and parenchyma with 2 of 16 positive retroperitoneal lymph nodes. Subsequent imaging indicated an enlarging retrocaval lymph node and a new left iliac bone metastasis. The patient was then enrolled in an open-label phase-I multi-center dose escalation study of AZD7762, an ATP-competitive checkpoint kinase inhibitor, and weekly irinotecan (ClinicalTrials.gov number
+{"type":"clinical-trial","attrs":{"text":"NCT00473616","term_id":"NCT00473616"}}
+NCT00473616
+) (
+1
+). This combination therapy was based on preclinical evidence that AZD7762, a potent inhibitor of Chk1 and Chk2, abrogates the G2/M checkpoint induced by SN-38, the active metabolite of irinotecan, resulting in enhanced DNA damage and cancer cell death (
+15
+). Within one month of treatment initiation, CT indicated a greater than 50% reduction in lymph nodes and evolving sclerosis of bone metastasis suggesting response. Within 8 cycles of therapy, this evolved into a complete response. She continued on AZD7762 in combination with irinotecan until trial termination (December 2010) and irinotecan alone until June 2011. As she had remained without evidence of disease for 1.5 years, chemotherapy was discontinued. At present, the patient remains free of disease. This patient was the only one of 68 trial participants to achieve a complete response. Due to the limited activity seen in an unselected population of solid tumors, the combination therapy did not move forward to a phase II trial. Moreover, AZD7762 is not under active development due to toxicities with monotherapy.
+Sample preparation and sequencing
+Clinical information and tumor and normal tissues were obtained from patients with informed consent and in accordance with Institutional Review Board approval at Memorial Sloan-Kettering Cancer Center (MSKCC IRB #89-076). For the index case on which whole genome sequencing was performed, DNA was extracted from frozen tumor tissue using the DNEasy Blood and Tissue Extraction Kit (Qiagen, Valencia, CA). Ten-micron thickness frozen tumor curls were available for extraction. Peripheral blood mononuclear cell DNA was extracted using the PreAnalytiX Kit (Qiagen, Valencia, CA). For targeted capture and sequencing, DNA was isolated from FFPE tissue. Sequencing was performed to an aligned read depth of ~40- or 250-fold (whole-genome and targeted sequencing respectively) using Illumina HiSeq instrumentation following manufacturer’s protocols. Compressed binary Sequence Alignment/Map files (BAM) were deposited in the Database of Genotypes and Phenotypes (dbGaP;
+http://www.ncbi.nlm.nih.gov/gap/
+) under accession number phs000706.v1.p1. Further details regarding the targeted capture and sequencing are available in the
+Supplementary Materials
+.
+Sequence analysis
+The alignment, processing, and variant detection analyses (point mutations, insertions and deletions, DNA copy number alterations, and structural rearrangements) were performed for the tumor and matched normal whole genome and targeted sequences all as previously described (
+2
+) and were supplemented with comprehensive mutational data in 7,494 human tumors assembled from published and public access sources (see
+Supplementary Materials
+). Further details regarding the phenotype-to-genotype analysis of mutational data; mutation rate and clonality analyses;
+in silico
+analysis of the predicted functional significance of mutations; and screening for MRN complex mutation in cancer is available in the
+Supplementary Materials
+.
+Yeast strains and validation
+Six
+rad50
+alleles (L1240F, L1240A, L1240R, D1241N, D1241A, and Q1262K) were integrated at the
+RAD50
+chromosomal locus in a diploid W303 (
+RAD5
+)
+S. cerevisiae
+yeast strain. The haploid
+rad50
+mutants were obtained by tetrad dissection after sporulation and confirmed by DNA sequencing. The
+mec1Δ sml1Δ rad50
+L1240, D1241, Q1262
+double and
+sae2Δ
+triple mutants were generated by standard yeast genetic manipulations. Yeast strains used in this study are provided in
+Supplementary Table 6
+. Cell viability analysis was performed as five-fold serial cell dilutions (250,000 to 80 cells per spot) that were spotted on YPD plates with or without Camptothecin (CPT) and incubated for 2–3 days at 30°C. Yeast cell extracts were prepared and immunoprecipitations and western blots were performed as described previously (
+16
+). To assess Rad53 phosphorylation upon MMS treatment, YPD over-night cultures were grown to 2–3×10
+7
+cells/ml. In total, 2 ml cells were transferred to tubes containing either 20 ul of 10% MMS (final concentration 0.1% MMS) or no MMS. Following 60–90 minutes of incubation at 30°C, 1 ml 15% sodium thiosulfate was added to all cultures and the cells were pelleted. Protein extracts were prepared by standard TCA-extraction and quantified using the
+RCDC
+kit from Biorad. 10 ug proteins were separated on an 8% SDS-PAGE (14 cm ×16 cm, 12–14 hours at 80V) and transferred to a nitrocellulose membrane. FLAG-Rad53 was detected by western blotting with FLAG M2 mAb (Sigma) and anti-mouse HRP (Pierce) antibodies and visualized by chemifluorescence using the
+ECL Prime Kit (
+Amersham). Finally, for the telomere southern blot, genomic DNA was XhoI-digested and probed with a telomere-specific probe as previously described (
+17
+). Sequencing by Sanger biochemistry was performed to validate the RAD50 L1237F mutation identified in the index patient by both whole genome and targeted exon capture sequencing.
+Mutant Rad50 cultured cells and cellular assays
+Two mutant
+mRad50
+-expressing vectors under the control of a PGK promoter (
+pmRad50
+L1237F
+and
+pmRad50
+L1237A
+) were established through mutagenesis by using the
+mRad50
+expression vector containing the full-length cDNA of the
+mRad50
+gene (
+18
+). Details of the
+pmRad50
+L1237F
+and
+pmRad50
+L1237A
+constructs are available upon request.
+Rad50
+Δ/−
+WT
+,
+Rad50
+Δ/−
+L1237F
+, and
+Rad50
+Δ/−
+L1237A
+cell lines were generated by co-transfection of pmRad50,
+pmRad50
+L1237F
+, or
+pmRad50
+L1237A
+with pPGK-Hygro into SV40-immortalized
+Rad50
+Δ/ind
+Rosa26
+CreERT2/CreERT2
+MEFs (
+18
+) and selected with hygromycin (0.4ug/ml). Cells were then treated with tamoxifen (500nM) for 48 hours to induce deletion of the
+Rad50
+ind
+allele and production of the
+Rad50
+−
+allele and single-cell clones were isolated. For colony formation assays, cells were plated in triplicate and pre-treated the next day with 500nM of the Chk1 inhibitor PF-477736 (Sigma-Aldrich) for 4hrs followed by treatment with irinotecan for 24 hours. Colonies were assessed 10 days later by staining with crystal violet. Western blots were performed on 30ug of protein extracted with SDS buffer (50nM Tris-HCL ph 6.8, 2% SDS, 10% glycerol, 0.1% bromophenol blue, 5% β-mercaptoethanol). Cells were pre-treated with 300nM of PF-477736 for 4hrs followed by 1.5uM CPT for 1 hour. All antibodies were incubated overnight at 4ºC and include Rad50 (J.H.J.P; antibody m84-7), γH2AX (Millipore), H2AX (Bethyl Labs), and Kap1 pS824 (Abcam). All cell lines were derived in the Petrini laboratory and re-genotyped after each experimental determination. In total, authentication of the cells was carried out three or more times for each version.
+RAD50 immunohistochemistry
+Immunohistochemistry for RAD50 was performed on a 4um-thick FFPE tissue section of the tumor from the salvage nephrectomy (same specimen undergoing WGS). A primary monoclonal anti-RAD50 antibody was used diluted to 1:100, CC1 standard (ab89; Abcam, Cambridge, MA). Staining was assessed with a Ventana Discovery XT Automated System with DAB Map kit detection system (Ventana Medical Systems, Tucson, AZ).​
+STATEMENT OF SIGNIFICANCE
+Strategies to affect deep and lasting responses to cancer therapy in patients with metastatic disease have remained difficult to attain, especially in early-phase clinical trials. Here, we present an in depth genomic and functional genetic analysis identifying RAD50 hypomorphism as a contributing factor to a curative response to systemic combination therapy in a patient with recurrent, metastatic small-cell cancer.Supplementary Material
+1
+Click here to view.
+(231K, docx)
+2
+Click here to view.
+(5.6M, docx)
+3
+Click here to view.
+(2.4M, pdf)Acknowledgments
+Financial support:
+This work was supported by NIH GM56888 (J.H.J.P.), Cycle for Survival (H.A., D.B.S.), the Wiener Fund (D.B.S), an American Society of Clinical Oncology Young Investigator Award (G.I.), and a Prostate Cancer Foundation Young Investigator Award (B.S.T.).Footnotes
+Conflict of interest:
+No potential conflicts of interest to disclose.

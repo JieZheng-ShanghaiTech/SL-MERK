@@ -1,0 +1,1643 @@
+Article
+
+Dependence on the Pyrimidine Biosynthetic Enzyme
+
+DHODH Is a Synthetic Lethal Vulnerability in Mutant
+
+KRAS-Driven Cancers
+
+Graphical Abstract
+
+Highlights
+
+d DHODH inhibitors selectively inhibit the growth of KRAS
+mutant cell lines
+
+d The inhibitors affect energy metabolism and glutamine levels
+in sensitive lines
+
+d DHODH inhibitors synergize with some clinically used
+anticancer agents
+
+Authors
+Malvika Koundinya, Judith Sudhalter,
+Albane Courjaud, ...,
+Ivan Cornella-Taracido,
+Rosalia Arrebola, Aaron Morris
+
+Correspondence
+sslicht@gmail.com (S.L.),
+aaronjmorris@gmail.com (A.M.)
+
+In Brief
+
+Koundinya et al. show that inhibitors of
+the pyrimidine biosynthetic enzyme
+dihydroorotate dehydrogenase
+selectively inhibit the growth of KRAS
+mutant cell lines. Differential sensitivity of
+the mutant lines correlates with
+differential effects of the inhibitors on
+primary energy metabolism and
+glutamine levels, and the inhibitors
+synergize with some clinically used
+anticancer agents.
+
+Koundinya et al., 2018, Cell Chemical Biology 25, 705–717
+June 21, 2018 ª 2018 Elsevier Ltd.
+https://doi.org/10.1016/j.chembiol.2018.03.005
+Cell Chemical Biology
+Article
+
+Dependence on the Pyrimidine Biosynthetic Enzyme
+DHODH Is a Synthetic Lethal Vulnerability in Mutant
+KRAS-Driven Cancers
+
+Malvika Koundinya,1 Judith Sudhalter,1 Albane Courjaud,2 Bruno Lionne,2 Gaetan Touyer,2 Luc Bonnet,2
+Isabelle Menguy,2 Isabelle Schreiber,2 Christelle Perrault,2 Stephanie Vougier,2 Brigitte Benhamou,2 Bailin Zhang,3
+Timothy He,3 Qiang Gao,3 Patricia Gee,3 Daniel Simard,3,4 M. Paola Castaldi,4 Ronald Tomlinson,4 Stephan Reiling,5
+Matthieu Barrague,6 Richard Newcombe,1 Hui Cao,7 Yanjun Wang,8 Fangxian Sun,8 Joshua Murtie,8 Mark Munson,6
+Eric Yang,7 David Harper,1 Monsif Bouaboula,1 Jack Pollard,7 Claudine Grepin,2 Carlos Garcia-Echeverria,3 Hong Cheng,3
+Francisco Adrian,1 Christopher Winter,1 Stuart Licht,3,9,
+* Ivan Cornella-Taracido,4 Rosalia Arrebola,2 and Aaron Morris1,
+* 1Cancer Biology, Oncology Division, Sanofi, Cambridge, MA 02138, USA
+2LGCR-LIT, Sanofi, Vitry-Sur-Seine 94400, France
+3Biochemistry, Bioanalytics, and Chemical Biology, Oncology Division, Sanofi, Cambridge, MA 02138, USA
+4Chemistry, Oncology Division, Sanofi, Cambridge, MA 02138, USA
+5LGCR-SDI, Oncology Division, Sanofi, Cambridge, MA 02138, USA
+6LGCR, Oncology Division, Sanofi, Cambridge, MA 02138, USA
+7TEM-BioInformatics, Oncology Division, Sanofi, Cambridge, MA 02138, USA
+8In Vivo Pharmacology, Oncology Division, Sanofi, Cambridge, MA 02138, USA
+9Lead Contact
+*Correspondence: sslicht@gmail.com (S.L.), aaronjmorris@gmail.com (A.M.)
+https://doi.org/10.1016/j.chembiol.2018.03.005
+
+SUMMARY
+
+Activating KRAS mutations are major oncogenic
+drivers in multiple tumor types. Synthetic lethal
+screens have previously been used to identify targets
+critical for the survival of KRAS mutant cells, but their
+application to drug discovery has proven challenging,
+possibly due in part to a failure of monolayer
+cultures to model tumor biology. Here, we report the
+results of a high-throughput synthetic lethal screen
+for small molecules that selectively inhibit the
+growth of KRAS mutant cell lines in soft agar. Chemoproteomic
+profiling identifies the target of the
+most KRAS-selective chemical series as dihydroorotate
+dehydrogenase (DHODH). DHODH inhibition is
+shown to perturb multiple metabolic pathways.
+In vivo preclinical studies demonstrate strong antitumor
+activity upon DHODH inhibition in a pancreatic
+tumor xenograft model.
+
+INTRODUCTION
+
+Despite the advance of pathway-targeted therapeutics, KRAS
+mutant cancers still remain a largely unmet medical need. The
+prevalence of activating KRAS mutations is particularly high
+(greater than 90%) in pancreatic ductal adenocarcinoma
+(Bardeesy and DePinho, 2002), which has a notoriously poor
+prognosis. KRAS mutations are also prevalent in lung and colon
+cancers, and the presence of these mutations negatively impacts
+therapeutic efficacy (Linardou et al., 2008). While direct
+targeting of the KRAS protein has shown renewed promise
+
+(Hunter et al., 2014; Ostrem et al., 2013; Sun et al., 2012),
+KRAS inhibitors have not yet entered the clinic. Synthetic
+lethality screens have frequently been used to find alternative
+points of intervention in mutant KRAS-driven cancers, but the results
+of these screens have not yet been translated to clinical
+benefit.
+Previous synthetic lethal screening efforts (Cox et al., 2014)
+have mainly used RNAi as a means of identifying potential targets
+(Barbie et al., 2009; Kim et al., 2016; Luo et al., 2009; Scholl
+et al., 2009), although a few screens (Shaw et al., 2011; Steckel
+et al., 2012) have been performed with small chemical libraries.
+In all cases, these screens have relied on adherent monolayer
+(2D) cell cultures, and in most cases have used only a matched
+pair of mutant/wild-type (WT) cell lines. To improve the probability
+of finding translatable targets, it might be beneficial to use
+more physiologically relevant cellular models and to screen
+larger panels of cell lines (Cox et al., 2014).
+In an effort to discover translatable mutant KRAS synthetic lethal
+targets, we have performed a 3D clonogenic synthetic lethal
+screen with a diverse small-molecule library of 280,000 compounds
+across six mutant KRAS-dependent cell lines and four
+KRAS-independent cell lines. We report here the results from
+this screen, and the identification and characterization of dihydroorotate
+dehydrogenase (DHODH) as the target of one of
+the most KRAS mutant-selective compounds. As expected,
+DHODH inhibition prevents de novo pyrimidine biosynthesis,
+which appears to be a particularly important pathway in the
+growth/survival of KRAS mutant cells. DHODH inhibition also
+substantially decreases cellular levels of glutamine and glutamate,
+suggesting a connection to the previously established
+glutamine dependence of KRAS mutant cells (Son et al., 2013;
+Weinberg et al., 2010). We also show that brequinar, a DHODH
+inhibitor that has previously failed to demonstrate efficacy in clinical
+trials as an anticancer agent (Moore et al., 1993), exhibits
+
+Cell Chemical Biology 25, 705–717, June 21, 2018 ª 2018 Elsevier Ltd. 705
+strong in vivo antitumor activity in a KRAS mutant pancreatic tumor
+xenograft model. The links observed in vitro between KRAS
+status and a requirement for metabolic flux through the de novo
+pyrimidine biosynthetic pathway suggest new strategies for the
+clinical application of potent DHODH inhibitors against KRAS
+mutant cancers.
+
+RESULTS
+
+KRAS Dependency of Cell Lines Used for Screening
+The panel of cell lines for screening was selected based on the
+dependence of growth and viability on mutant KRAS status.
+Because of the important contribution of oncogenic KRAS
+signaling to robust anchorage-independent growth (Campbell
+et al., 2007; Guerrero et al., 2000), we assessed the KRAS
+dependence of cell lines based on the impact of KRAS knockdown
+in a soft agar clonogenic growth assay. KRAS mutant
+cell lines showing a reduction in growth upon KRAS knockdown
+greater than 50% were designated as KRAS-dependent, while
+
+KRAS-independent cell lines were defined as those in which
+KRAS knockdown had no significant effect (Figure 1A).
+In testing growth conditions, we discovered that culturing cells
+in soft agar (3D culture) had a dramatic effect on their sensitivity
+to inhibition of Ras-MEK-ERK signaling. Cells cultured in 3D
+exhibited a half maximal inhibitory concentration (IC50) for the
+MEK inhibitor pimasertib that was approximately two orders of
+magnitude less than the same cells cultured on plastic (2D culture)
+(Figure 1B). Since 3D culture is likely to be a more faithful
+model for tumors in vivo, these conditions were chosen for
+screening.
+An additional important consideration in selecting cell lines
+was finding KRAS WT cell lines with 3D growth capacity and kinetics
+comparable to KRAS mutant cell lines. Based on the
+criteria of KRAS dependence and growth rate, we selected
+a panel that included six KRAS-dependent and four KRASindependent
+cell lines (Figure 1C). All the KRAS-independent
+cell lines chosen had WT KRAS genes. Notably, one cell
+line (H1299) presented an activating mutation of NRAS, which
+
+Figure 1. Determination of KRAS Dependence for a Panel of Cell Lines Cultured in 3D
+(A) RNAi knockdown of KRAS impairs growth and viability of HCT116 (mutant KRAS) cells in 3D culture, but SK-OV-3 (KRAS WT) cells are not affected. Nontargeted
+(NT) shRNA was used as a negative control. Dox, doxycycline; RFU, relative fluorescence units.
+(B) KP-4 cells (KRAS mutant) in 3D culture (circles) are more sensitive to a MEK inhibitor (pimasertib) than the same cells in 2D culture (squares).
+(C) Panel of validated mutant KRAS-dependent and -independent cell lines.
+Error bars represent the standard error of the mean. See also Figures S1 and S2. EGFR, epidermal growth factor receptor.
+
+706 Cell Chemical Biology 25, 705–717, June 21, 2018
+provided a unique control for the distinct oncogenic impact of
+mutant KRAS relative to other Ras isoforms.
+
+A Screen for Small Molecules with Selective Cytotoxicity
+
+toward KRAS Mutant Cell Lines
+The chosen cell lines were used in a high-throughput screen of
+a 280,000-compound chemical library (Figure S1). Following an
+initial primary screen for effects on viability in five KRAS mutant
+lines, a KRAS WT line was added to the panel, and actives
+were confirmed and tested for KRAS mutant selectivity. The
+list of active compounds was filtered to remove frequent hitters
+and other compounds known to be problematic in highthroughput
+screens. Potency of cell growth inhibition (IC50)
+against the five KRAS mutant lines/one KRAS WT line was
+measured for confirmed actives of interest, and compounds
+were chosen for further analysis based on their selectivity for
+mutant lines.
+To find compounds with high selectivity for KRAS mutant
+lines, potencies and efficacies were plotted (Figure S2). The
+molecules exhibiting both high potency and high efficacy
+were selected. The list was further curated by removing promiscuous
+and/or chemically intractable compounds, leaving a total
+of 277 compounds. Those were tested against an expanded
+panel of six KRAS mutant and four KRAS WT cell lines. Based
+on their differential activities against mutant and WT lines in
+this broader panel, the compounds were divided into tiers
+(Figure S2B).
+The compounds exhibiting high potency and KRAS-selectivity
+came from a number of chemical series. As expected, a MEK inhibitor,
+PD-0325901, was one of the most selective inhibitors of
+KRAS mutant lines. It showed activity against all six KRAS
+mutant lines, but was only active against one WT line. However,
+the most potent and KRAS mutant-selective compounds belonged
+to another series, based on a thiazolimine scaffold. Active
+members of this series were chosen for characterization in a second
+screen against a large cancer cell line panel.
+Because of the difficulty of screening a larger cell line panel in
+the 3D format (the automated work stream used for large-scale
+screening was customized for 2D cultures and many WT lines
+failed to grow robustly in 3D culture), only the thiazolimine series
+was tested against this panel of lines (374 diverse cancer cell
+lines characterized with respect to genetic mutations, copy
+number variations, and mRNA expression levels) in 2D culture.
+An analysis of the results (Figure 2A) showed that the thiazolimines
+were among the most KRAS mutant-selective agents
+tested; the KRAS mutant lines in the panel were, on average,
+more sensitive to the thiazolimines, and this selectivity was
+comparable to that observed for the MEK inhibitor pimasertib.
+In a complementary analysis, the known mutations in the cell
+line panel were examined to determine which were most highly
+enriched among cell lines that responded to the thiazolimine
+compound 1 (Table S1). This analysis showed that KRAS was
+the gene in which mutations were most strongly associated
+with sensitivity to the compound (Figure 2B). In addition, many
+lung and pancreatic cell lines in the panel were sensitive to
+compound 1, while cell lines from tissues of origin where
+KRAS mutation is less prevalent tended to be less sensitive to
+it (Figure 2C), consistent with a substantial effect of the KRAS
+mutation on differential sensitivity. These data thus suggest
+
+that the thiazolimines inhibit a pathway required for survival of
+KRAS mutant cell lines.
+
+Chemoproteomic Discovery of Potential Targets of the
+
+Thiazolimine Series
+
+Based on the promising results from the synthetic lethal screen
+and the cell line profiling, the thiazolimine series was chosen for
+compound deorphaning via a chemoproteomics approach. For
+this chemoproteomics approach, it was judged likely that, for
+cells that exhibited thiazolimine sensitivity in both 2D and 3D culture,
+the specific molecular target of the thiazolimine series would
+be the same in both culture systems, although the details of the
+phenotypic consequences of target inhibition might differ. In order
+to build a solid-supported affinity reagent for use in protein
+target pull-downs, the lead thiazolimine was functionalized with
+a short amine-terminated linker at various positions. Compound
+14, in which a phenol group was O-alkylated with the linker, retained
+activity in DLD-1 and KP-4 cells, thus validating the phenol
+moiety as a suitable attachment point for the solid support.
+Based on these results, an affinity reagent (compound 18), in
+which 14 was attached to Sepharose beads, was prepared.
+A SILAC-based (Mann, 2006) strategy was used to identify
+proteins that bind specifically to the thiazolimine-derivatized
+solid support (Figure 3A). To provide labeled proteome samples
+for affinity pull-downs, KP-4 cells were grown in either 2D or 3D
+cell culture using media containing amino acids with either a light
+or heavy stable isotope label. In the first of three related experiments,
+SILAC pull-downs were performed at two concentrations
+of the active competitor compound 2 (13 or 203 its half maximal
+effective concentration [EC50]; Table S1), comparing the pulldown
+efficiency in the presence of the competitor to the efficiency
+in the presence of DMSO as a control (Figure 3B).
+Dihydroorotate dehydrogenase (DHODH; Uniprot ID PYRD)
+was among the proteins most highly differentially competed
+from the affinity matrix. DHODH was identified from multiple
+peptides in the SILAC experiments. The SILAC ratios observed
+were qualitatively dependent on the concentration of competitor
+compound 2. These observations are consistent with a specific
+interaction between DHODH and the affinity reagent-derivatized
+support.
+In a second experiment, a four-plex tandem mass tag pulldown
+experiment on 2D-cultured KP-4 cells was used to quantify
+the dose-response trend observed in the SILAC experiment.
+The decrease in DHODH affinity pull-down correlated well with
+the concentration of free competitor compound 2 (Figure 3C).
+That observation further supports the hypothesis that DHODH
+binds specifically to the derivatized solid support.
+A third experiment was designed to determine whether
+DHODH would also exhibit affinity for a biologically inactive homolog
+of the active thiazolimine compound 2. Both the active
+compound 2 and its close analog 3 (Table S1), which does not
+inhibit KP-4 cell growth, were used as competitors in a SILAC
+experiment. The results of this experiment (Figure 3D) show
+that DHODH was selectively competed off the affinity matrix by
+2 relative to 3. This observation suggests that within the thiazolimine
+series, bioactivity against KP-4 cells is associated with
+binding affinity for DHODH. It is consistent with the hypothesis
+that the thiazolimine series exerts its effect on cell growth by inhibiting
+DHODH.
+
+Cell Chemical Biology 25, 705–717, June 21, 2018 707
+Mechanistic Validation of the DHODH Target Hypothesis
+
+To determine whether binding of the thiazolimines inhibits
+DHODH’s enzymatic activity, we investigated the inhibitory potency
+of a number of thiazolimines against purified recombinant
+DHODH. The tested compounds were highly potent on average
+(a median IC50 of 11 nM), with the more potent members of the
+series being comparably potent to brequinar, a previously characterized
+DHODH inhibitor with an IC50 of 5–10 nM (Chen et al.,
+1992; McLean et al., 2001). These results indicate that the thiazolimines
+bind to DHODH in a mode that prevents enzymatic
+catalysis.
+We next investigated whether the compounds’ DHODH inhibitory
+potencies were correlated with their potencies for cell
+growth inhibition (Figure 4A). Here, the issue of biological differences
+between 2D and 3D cultures becomes relevant; however,
+by choosing cells that exhibit a growth/survival phenotype in 2D
+culture, we can correlate DHODH inhibition with cellular phenotype
+in a 2D system where the phenotype is similar to what is
+observed in 3D cultures. A correlation analysis reveals a
+Spearman’s coefficient of 0.76 between these two potencies
+(p = 1 3 103
+), consistent with the hypothesis that DHODH inhibition
+is a key driver of cellular potency. However, there is a substantial
+(100-fold) shift toward lower potency when comparing
+the biochemical with the cellular assay (e.g., compounds with
+10 nM IC50 values in the biochemical assay exhibit IC50 values
+of 1 mM in the cellular assay).
+As an additional and more direct test of whether the thiazolimines
+also potently inhibit DHODH in a cellular context, a
+
+Figure 2. Phenotypic Profiling of Chemical Hit Series across a Large Cancer Cell Line Panel Identifies One Hit Series as Highly Selective for
+KRAS Mutant Cell Lines
+(A) Compounds from the thiazolimine series are among the most selective for KRAS mutant cell lines. Statistical significance is plotted as a function of selectivity,
+as expressed as the ratio of average potency against KRAS WT/KRAS mutant lines.
+(B) KRAS mutation status is the best predictor of cell sensitivity to the thiazolimine series among the mutations represented. Statistical significance is plotted
+against mutant/WT differential sensitivity to thiazolimine compound 1.
+(C) Compound 1 (red symbols) is highly potent against many pancreatic and lung cancer cell lines. Pimasertib (blue symbols) is plotted for comparison.
+
+708 Cell Chemical Biology 25, 705–717, June 21, 2018
+mass spectrometry-based pharmacodynamic (PD) assay for dihydroorotate
+(DHO) was used to measure the accumulation of
+this DHODH substrate in cells. The results (Figure 4B) show
+that the thiazolimines’ potencies for cellular inhibition of DHODH
+activity are highly correlated with their potencies for inhibition of
+cell growth (Spearman’s coefficient of 0.96, p = 3 3 103
+). These
+data thus support the hypothesis that thiazolimines inhibit cell
+growth in KRAS mutant cells by inhibiting DHODH enzymatic activity.
+Biochemical and cellular potencies are also reasonably
+well-correlated for DHODH inhibitors from other chemotypes
+(e.g., brequinar and analogs) (Figure S3A).
+Dose-response relationships were measured in all three assays
+(biochemical, cell PD, and cell viability) for representative
+molecules in each series. The data (Figures 4C and S3B) indicate
+
+that for all DHODH inhibitors examined, potencies in the three
+assays are mutually correlated with each other (Spearman
+coefficients of 0.7, 0.8, and 0.96 for biochemical/PD, biochemical/phenotypic,
+and PD/phenotypic correlations, respectively).
+Thus, on-target effects of DHODH enzyme inhibitors appear to
+contribute to growth inhibition of KRAS mutant cells.
+The hypothesis that the thiazolimines act via DHODH inhibition
+suggests that supplementation with exogenous pyrimidines may
+rescue cell growth inhibition. Treatment of cells with exogenous
+uridine, which can complement deficits in de novo pyrimidine
+biosynthesis (Connolly and Duley, 1999), was used to test this
+prediction. As predicted, addition of uridine rescued cell growth
+in thiazolimine-treated cells (Figure 4D). A similar rescue effect
+was observed for cells treated with brequinar (Figure S4).
+
+Figure 3. Chemoproteomic Deorphaning of the Thiazolimine Series Identifies DHODH (PYRD) as a Candidate Target for the Series
+(A) Outline of SILAC experiments in which light/heavy isotopically labeled media encodes the presence of active/inactive compound (or vehicle).
+(B) SILAC experiments in which active compound (compound 2) is used as a competitor at two concentrations (13 EC50 or 203 EC50). KP-4 cells were cultured in
+2D (blue graphs, left-hand side) or 3D (red graphs, right-hand side).
+(C) Quantitative dose-response relationship for a soluble competitor compound by iTRAQ.
+(D) SILAC experiment to determine ratio of proteins competed by active (compound 2)/inactive (compound 3) free compound. Lysates from 2D cultures (blue
+graph, left-hand side) or 3D cultures (red graph, right-hand side) were used.
+See also Table S1.
+
+Cell Chemical Biology 25, 705–717, June 21, 2018 709
+Notably, the concentration of uridine required for complete
+rescue (>100 mM) is greatly in excess of the normal physiological
+serum concentration (5 mM; Connolly and Duley, 1999).
+
+Mitochondrial Metabolic Effects and Other Cellular
+
+Consequences of DHODH Inhibition
+
+In addition to the role of DHODH in de novo pyrimidine biosynthesis,
+its role in mitochondrial electron transport may also
+contribute to these inhibitors’ effects.
+To investigate whether DHODH inhibitors affect the mitochondrial
+membrane potential, we measured mitochondrial potential
+in KP-4 cells as a function of DHODH inhibitor dose (Figure 5A).
+The results show that DHODH inhibitors from two distinct chemical
+series potently and dose-dependently induce mitochondrial
+depolarization. The MEK inhibitor pimasertib, which also inhibits
+KP-4 cell growth, does not affect mitochondrial membrane
+potential. In addition to the inactive compound 3, teriflunomide,
+which is a much less potent DHODH inhibitor than brequinar
+(Davis et al., 1996; Erra et al., 2011; McLean et al., 2001) or the
+best thiazolimine compounds, also has a minimal effect on mitochondrial
+membrane potential (data not shown). These results
+suggest that mitochondrial depolarization may contribute to
+the effects of potent DHODH inhibitors in cells.
+Inhibition of DHODH might also affect steady-state metabolite
+levels, since glutamine is a starting metabolite for de novo pyrimidine
+biosynthesis and DHODH is also linked to the citric acid cycle
+via its role in mitochondrial electron transport. For these
+detailed metabolomics experiments and subsequent in vivo
+experiments, we chose to use brequinar rather than a thiazolimine
+compound due to the extensive previous preclinical and
+clinical characterization of brequinar as a DHODH inhibitor.
+Mass spectrometric analysis indicates that treatment with
+brequinar perturbs the levels of a number of metabolites (Figures
+5B and S5). In KP-4 cells at the 24-hr time point after drug
+treatment, the effects include increases in the levels of malate,
+
+Figure 4. Validation of DHODH as a Biologically
+Relevant Target for the Thiazolimine
+Series in a KRAS Mutant Cell Line
+(A) Correlation of IC50 in the biochemical assay with
+EC50 in the cell growth inhibition assay (values
+expressed as the logarithm).
+(B) Correlation of EC50 in the pharmacodynamic
+(PD) assay with EC50 in the cell growth inhibition
+assay.
+(C) Correlation of biochemical IC50, PD EC50, and
+cell growth inhibition EC50.
+(D) Dose-dependent rescue of compound
+2-induced cell growth inhibition by uridine. Blue
+symbols: thiazolimine dose-response in the
+absence of uridine. Red symbols: 100 mM uridine.
+Green symbols, 500 mM uridine.
+Error bars represent the standard error of the
+mean. See also Figures S3 and S4.
+
+fumarate, and aspartate, and decreases
+in the levels of glutamate, succinate, and
+aKG. Brequinar also induces a substantial
+dose-dependent decrease in the steadystate
+level of glutamine (Figure 5B); a
+comparable but more potent decrease is observed using
+compound 2.
+To further investigate how DHODH inhibition might differentially
+affect KRAS WT and mutant cells, we carried out metabolomics
+experiments to compare the effects of brequinar on KRAS
+WT and mutant DLD-1 cells, as well as to compare metabolite
+levels between the WT and mutant cells in the absence of drug
+(Figures S6 and S7). Consistent with results in other cell lines,
+the mutant DLD-1 cells exhibited a greater response to brequinar
+and compound 2 than otherwise isogenic cells containing the WT
+allele (Figure S6). In the KRAS mutant DLD-1 cells at the 4-hr time
+point after drug treatment (i.e., before effects on cell viability are
+observed), the effects include an increase in the steady-state
+concentrations of fructose 1,6-bisphosphate; this increase is
+not observed in the WT cell line (Figure S7). In addition, the flux
+of glutamate (as judged by the change in isotopic incorporation
+from 13C-glutamine) increases in response to brequinar treatment,
+both for KRAS mutant and KRAS WT cells. In KRAS mutant
+cells, brequinar treatment is also associated with a large increase
+in AMP and ADP concentrations and a concomitant decrease
+in the concentration of ATP, indicative of energy stress. In
+contrast, brequinar treatment of KRAS WT cells leads to at
+most a modest increase in AMP and ADP, with an increase in
+ATP observed as well, suggesting that the mutant cells are differentially
+sensitive to energy stress induced by DHODH inhibition.
+DHODH inhibition does not affect the ratio of reduced/oxidized
+glutathione at the 4-hr time point, but, consistent with previous
+studies (Yun et al., 2015), the reduced/oxidized glutathione ratio
+is markedly smaller in KRAS mutant than KRAS WT cells.
+In addition to perturbing metabolite levels, DHODH inhibition
+also induces cell-cycle arrest. Flow cytometric analysis of
+cellular DNA content after treatment of KP-4 cells with compound
+2 (Figures 5C and S8) indicates that the cells become
+arrested in S phase. Inhibition of pyrimidine metabolism and/or
+other metabolic perturbations may mediate this cell-cycle arrest.
+
+710 Cell Chemical Biology 25, 705–717, June 21, 2018
+In Vivo Antitumor Activity of a DHODH Inhibitor
+Although DHODH inhibition has well-defined effects on cancer
+cells in vitro, the potential availability of metabolites from other
+tissues in vivo might limit the applicability of the in vitro findings.
+To address this issue, we carried out in vivo studies of the effects
+of brequinar on xenografts of KP-4 cells. Measurements of
+metabolite concentration in the tumors (Figure 6A) establish
+that the DHODH substrate dihydroorotate (DHO) in the tumor
+builds up following accumulation of brequinar, consistent with
+in vivo target engagement. Similarly, measurement of the pyrimidine
+biosynthesis product uridine as an additional PD marker
+(Figure 6B) indicates that it becomes depleted. In addition, as
+observed in vitro, glutamine was depleted in the tumor after brequinar
+treatment (Figure 6C).
+In addition to demonstrating target engagement, the xenograft
+studies also indicate that brequinar suppresses tumor growth
+in vivo in a dose-dependent fashion (Figure 6D). Consistent
+with previous reports (Moore et al., 1993; Peters et al., 1990,
+1992), brequinar also exhibits dose-dependent toxicity as
+measured by body weight loss in treated mice (Figure 6E); at
+the 30 mg/kg dose, this body weight loss was large enough to
+require termination of that arm of the study. However, at the
+
+3 mg/kg and 10 mg/kg doses that supported substantial tumor
+growth inhibition, body weight loss was minimal (at 3 mg/kg) or
+transient (at 10 mg/kg) over the course of the study, defining a
+therapeutic window for dosing in this system.
+
+Synergistic Combinations of a DHODH Inhibitor with
+
+Other Drugs
+
+Because DHODH inhibitors have already been clinically tested
+without demonstrating efficacy (Moore et al., 1993; Peters
+et al., 1992), we investigated whether brequinar (the DHODH
+inhibitor for which the most clinical data is available) might
+exhibit greater efficacy in vitro in combination with another
+drug. A set of 23 potential enhancer compounds with known
+mechanisms of action was chosen based on previous
+screening results against KRAS mutant cells and on an
+assessment of whether the compounds’ mechanisms of action
+were likely to synergize with DHODH inhibition. These compounds
+were screened against KP-4 cells in a 12 3 12 dose
+matrix with brequinar (in 2D culture) to test for synergistic
+response.
+The combination screen identified a number of drugs that synergize
+with brequinar in vitro (Figures 7A and 7B) using at least
+
+Figure 5. Effects of DHODH Inhibition on Cellular Metabolism and the Cell Cycle
+(A) Potent DHODH inhibitors induce mitochondrial depolarization in KP-4 cells. Magenta symbols: compound 2; green symbols, brequinar; orange symbols,
+pimasertib; black symbols, inactive thiazolimine (compound 3).
+(B) DHODH inhibitors (inactive thiazolimine 3, active thiazolimine 2, and brequinar) decrease cellular levels of glutamine.
+(C) Treatment of KP-4 cells with thiazolimine compound 2 for 24–48 hr induces arrest in S phase. DNA content was quantified using propidium iodide. Pink
+histogram: cells treated with compound 2. Blue histogram: DMSO-treated cells.
+Error bars represent the standard error of the mean. See also Figures S5–S8.
+
+Cell Chemical Biology 25, 705–717, June 21, 2018 711
+one standard criterion (Loewe [Chou and Talalay, 1984] and/or
+HSA [Berenbaum, 1989] drug synergy scores; none of the
+drugs listed scored as synergistic using the Bliss synergy score
+[Bliss, 1939]). Notably, two of these (floxuridine, gemcitabine) act
+directly on enzymes involved in pyrimidine nucleotide biosynthesis,
+and a third (everolimus) is expected to affect pyrimidine
+biosynthesis indirectly (Ben-Sahra et al., 2013; Robitaille
+et al., 2013).
+Because glutamate is a product of de novo pyrimidine biosynthesis,
+inhibiting pyrimidine biosynthesis may affect the steadystate
+glutamate concentration. Experimentally, brequinar as a
+single agent induces a decrease in steady-state glutamate concentration
+that, surprisingly, is comparable to the effect of an inhibitor
+of GLS1, a major contributor to glutamate flux in many
+cancer cells (Figure 7C). The combination of a GLS1 inhibitor,
+compound 4 (Table S1) (Gross et al., 2014), with brequinar
+was observed to decrease glutamate in KP-4 cells to lower
+levels than observed for equivalent concentrations of either
+agent individually (Figure 7C); however, it is not yet known
+whether this effect is due to additivity or synergism between
+the two agents. No synergistic effect on cell growth was
+observed for 4; however, preliminary results indicate that a
+
+second-generation GLS1 inhibitor exhibits strong synergy with
+brequinar (data not shown).
+
+DISCUSSION
+
+The current study integrates results from both a new screen in 3D
+culture and more conventional screens in 2D culture. Screening
+in 3D culture has the advantage of sensitizing KRAS mutant cells
+to Raf-MEK-ERK pathway inhibition (Figure 1D), so that the phenotypes
+observed may be more directly translatable to in vivo
+systems. Empirically, primary screening in 3D culture enabled
+the discovery of KRAS synthetic lethal mechanisms that had
+not previously been reported. However, screening in large
+numbers of different cell lines proved to be more technically tractable
+for 2D cell cultures. While results from both kinds of
+screens were broadly consistent with each other, responses of
+2D-cultured lines to synthetic lethal perturbation varied widely
+(see, e.g., Figure 2A). These results suggest that 3D culture systems
+are useful for studying KRAS mutant phenotypes, and that
+results from small numbers of cell lines cultured in 2D may or may
+not be predictive of results from 3D cultures and/or in vivo
+biology.
+
+Figure 6. Brequinar Exhibits an Antitumor Effect In Vivo Against KP-4 Xenograft Tumors
+(A) Accumulation of DHODH substrate DHO in tumors is correlated with the concentration of brequinar in the tumor.
+(B) Accumulation of DHO is correlated with depletion of uridine in vivo. Uridine concentration is presented in a.u. corresponding to ion counts from mass
+spectrometry.
+(C) Depletion of tumor glutamine is associated with brequinar treatment and occurs with a time course similar to uridine depletion.
+(D) Brequinar suppresses the growth of KP-4 xenografts. Po, by mouth; qd, every day.
+(E) Brequinar exhibits a therapeutic window in the KP-4 xenograft model.
+Error bars represent the standard error of the mean.
+
+712 Cell Chemical Biology 25, 705–717, June 21, 2018
+The primary finding of the current work is that KRAS mutant
+cells exhibit a synthetic lethal sensitivity to inhibitors of DHODH.
+However, it is clear that inhibition of DHODH has pleiotropic effects
+in cancer cells. Multiple downstream consequences of
+DHODH inhibition may thus contribute to the selective effect of
+DHODH inhibitors.
+Results in cells and in vivo (Figures 5, 6A, and 6B) indicate that,
+as expected, DHODH inhibition leads to decreased flux through
+the de novo pyrimidine biosynthetic pathway. In addition, cell
+growth inhibition by DHODH inhibitors is rescued by uridine (Figure
+4D), suggesting that inhibition of de novo pyrimidine biosynthesis
+contributes to cytotoxicity. The latter observation further
+suggests that de novo pyrimidine biosynthesis is required for
+growth and survival in KRAS mutant cells.
+Previous studies have also linked Ras-Raf-MEK-ERK signaling
+with increased de novo pyrimidine biosynthesis. Decreased
+expression of an inducible mutant KRAS downregulates pyrimidine
+biosynthetic genes at the transcriptional level (Ying et al.,
+2012). In addition, MAPK signaling abolishes feedback inhibition
+of carbamoyl phosphate synthetase, which catalyzes the ratelimiting
+step in de novo pyrimidine biosynthesis (Graves et al.,
+2000). Notably, glutamine deprivation in KRAS-driven cancer
+cell lines has recently been shown to interfere with deoxynucleotide
+biosynthesis, leading to S-phase arrest and replicative stress
+
+(Patel et al., 2016). Deprivation of pyrimidine nucleotides is thus
+likely to be a major contributor to the differential effect of DHODH
+inhibitors on cell viability in KRAS mutant cell lines.
+Mitochondrial depolarization induced by DHODH inhibition
+(Figure 5A) may also contribute to the selective effects of
+DHODH inhibitors on KRAS mutant cells. If so, the effect may
+arise more from pro-apoptotic effects of mitochondrial depolarization
+(Lemasters et al., 1998) than from impaired oxidative
+phosphorylation. Oncogenic KRAS mutations have been associated
+with decreased, rather than increased, oxidative phosphorylation:
+expression of mutant KRAS leads to an increased
+dependence on anabolic glucose metabolism (Weinberg et al.,
+2010; Ying et al., 2012), while ablation of mutant KRAS leads
+to an increased dependence on oxidative phosphorylation (Viale
+et al., 2014). However, to the extent that KRAS mutant cells
+exhibit enhanced flux through de novo pyrimidine biosynthesis,
+they may also exhibit a greater dependence on electron transport
+through DHODH to maintain consistently hyperpolarized
+mitochondrial membrane potentials and a pro-survival phenotype.
+A precedent for an association between hyperpolarized
+mitochondrial potentials and a pro-survival phenotype can be
+found in the example of CD8+ memory T cells, for which surplus
+capacity for oxidative phosphorylation enhances cellular survival
+(van der Windt et al., 2012).
+
+Figure 7. Screening for Agents That Synergize with a DHODH Inhibitor
+(A) Plot of statistical significance (adjusted false discovery rate, FDR) versus HSA synergy score.
+(B) Compounds exhibiting significant synergy as judged by two different synergy scores (Loewe and HSA). mTOR, mammalian target of rapamycin.
+(C) The combination of brequinar sodium and a GLS1 inhibitor (compound 4) decreases steady-state levels of glutamate in KP-4 cells to a greater extent than
+either compound alone. Glutamate is quantified as intensity of MS signal (ion counts). Error bars represent the standard error of the mean.
+
+Cell Chemical Biology 25, 705–717, June 21, 2018 713
+Measurements of metabolite levels in the current study are
+also consistent with the idea that KRAS mutant cells are differentially
+dependent on mitochondrial electron transport via DHODH,
+which may contribute to differential effects of DHODH inhibition.
+In KRAS mutant cells, brequinar treatment is associated with energy
+stress (Figure S7). However, brequinar does not induce
+similar energy stress in WT cells. Taken together, these data support
+the hypothesis that KRAS mutant cells are differentially
+dependent on flux through DHODH for survival, due in part to
+its role in primary energy metabolism. One possibility is that in
+KRAS mutant cells, increased electron transport via DHODH
+partially compensates for decreased electron transport via aerobic
+glucose metabolism.
+In addition to a role for DHODH inhibition in primary energy
+metabolism, the observation of decreased steady-state levels
+of glutamine and glutamate and increased isotopic exchange
+into glutamate (a proxy for metabolic flux) upon treatment with
+a DHODH inhibitor (Figures 5C, 6C, 7G, S5, and S7) suggests
+a link between DHODH activity and glutamine metabolism,
+which was previously demonstrated to be crucial for the growth
+and survival of KRAS mutant cancer cells (Son et al., 2013; Weinberg
+et al., 2010). These observations, as well as the increased
+steady-state level of aspartate observed upon DHODH inhibition,
+are consistent with increased conversion of glutamine and
+oxaloacetate to aKG and aspartate via GOT1. Therefore, the
+decreased steady-state levels of glutamine appear not to be
+caused by a lack of available glutamine as a metabolic substrate,
+but rather by increased consumption of glutamine.
+Since the decrease in glutamine levels appears to be associated
+with increased glutaminolysis rather than a decreased ability
+to accumulate glutamine, it might be hypothesized that this
+decrease in glutamine levels does not contribute to impaired
+growth and survival in KRAS mutant cells. However, the observation
+that uridine rescues both the effect of brequinar on glutamate
+flux and its cellular phenotypic effect suggests that the
+metabolic effects of DHODH do contribute to its broader biological
+effects. In addition, the results are consistent with synergism
+between GLS1 inhibition and DHODH inhibition both at the level
+of regulating glutamine levels and (at least for some GLS1 inhibitors)
+at the level of growth and survival. One hypothesis that accounts
+for the current observations is that DHODH activity helps
+to mediate the balance between two distinct glutaminolysisdependent
+redox metabolic pathways that have been implicated
+in growth/survival in KRAS mutant cells: generation of
+mitochondrial reactive oxygen species (ROS) (Weinberg et al.,
+2010) and flux through GOT1 enabling generation of NADPH
+and maintenance of reduced glutathione (Son et al., 2013; Yun
+et al., 2015).
+Electron transport via DHODH activity will allow the generation
+of mitochondrial ROS without the consumption of a-ketoglutarate
+or NADH. Glutamine-dependent flux through the TCA cycle
+and oxidative phosphorylation can also enable generation of
+mitochondrial ROS (Weinberg et al., 2010). The latter process
+requires partitioning of aKG derived from glutamine into the
+TCA cycle to generate reducing equivalents in the form of
+NADH, leading ultimately to reduction of molecular oxygen by
+Complex III to generate ROS (Weinberg et al., 2010). However,
+since production of NADPH via GOT1/MDH1/ME1 (Son et al.,
+2013; Yun et al., 2015) also requires consumption of aKG and
+
+NADH, these metabolites must partition between the two prosurvival
+pathways. DHODH activity may thus be required to
+enable high flux through both of these pathways simultaneously.
+KRAS mutant cells, unlike WT cells, also exhibit a large brequinar-mediated
+increase in fructose-1,6-bisphosphate levels
+(Figure S7). However, there does not appear to be a clear mechanism
+for DHODH inhibition to mediate this effect directly. One
+possibility is that developing arrest of the cells in S phase leads
+to upregulation of glycolytic flux (Kaplon et al., 2015) and an increase
+in fructose-1,6-bisphosphate (which is downstream of
+the rate-limiting enzymes in this pathway). In that case, the upregulation
+of glycolytic flux would appear to be mostly through the
+anaerobic (lactic acid) branch of the pathway; brequinar treatment
+is associated with a decrease in the steady-state level of
+citrate without a concomitant decrease of isotopic exchange
+into this metabolite (Figure S7), suggesting a decreased flux of
+metabolites into the citric acid cycle.
+The relative functional importance of DHODH’s pyrimidine
+biosynthetic, energy-producing, and redox-modulating functions
+is likely to depend on cellular context. DHODH has previously
+been characterized as a synthetic lethal target in several
+different oncogenic cell contexts, including the BRAF V600E mutation
+(White et al., 2011), PTEN deficiency (Mathur et al., 2017),
+and triple-negative breast cancer cell lines (Brown et al., 2017). In
+the case of the BRAF V600E mutation, oncogenic mutations of
+both BRAF and KRAS are gain-of-function with respect to the
+Ras-Raf-MEK-ERK pathway, which may account for the shared
+phenotype with respect to DHODH inhibition. However, KRAS
+signaling affects multiple signaling pathways in addition to RafMEK-ERK,
+so, in general, interventions that affect KRAS mutant
+cells may or may not affect BRAF mutant cells. Recently, de novo
+pyrimidine metabolism through carbamoyl phosphate generated
+in the urea cycle has been shown to be important for growth/survival
+in the KRAS/LKB1 double-mutant context (Kim et al., 2017),
+suggesting that DHODH inhibition might be useful specifically in
+this cellular context as well.
+The in vitro and in vivo results presented here suggest that
+DHODH inhibition may be clinically useful in the treatment of
+KRAS mutant tumors. However, in previous clinical trials, brequinar
+failed to demonstrate efficacy in multiple tumor types,
+including pancreatic and colorectal, a substantial fraction of
+which almost certainly harbored KRAS mutations (Moore et al.,
+1993; Peters et al., 1992). Understanding the basis for the
+discrepancy between in vitro/in vivo models and clinical results
+might enable the design of new and more effective clinical treatment
+strategies.
+One possible explanation for the lack of observed clinical
+effectiveness for brequinar is that target engagement in the
+clinical studies was insufficient to induce tumor cell death. In vivo
+studies suggest that prolonged exposure to brequinar is
+required to achieve the metabolite depletion effects required
+for maximum efficacy (Dexter et al., 1985; Schwartsmann
+et al., 1988). However, the clinical trials of brequinar were designed
+following a traditional chemotherapeutic regimen, in
+which the maximum tolerated dose was delivered, followed by
+an intervening recovery period. Pharmacokinetic data from these
+clinical trials (Arteaga et al., 1989) reveals that between doses,
+the plasma drug concentrations dropped below the efficacy
+threshold seen in our preclinical studies, and investigators in
+
+714 Cell Chemical Biology 25, 705–717, June 21, 2018
+the clinical studies speculated that maintaining effective drug
+concentrations over a longer period of time might be required
+to achieve clinical efficacy (Braakhuis et al., 1990).
+Another potential approach to achieving clinical benefit from
+DHODH inhibition would be to employ combination therapies.
+The results reported here suggest that promising combination
+candidates include floxuridine (an inhibitor of pyrimidine biosynthesis
+via thymidylate synthase) and gemcitabine (an inhibitor of
+ribonucleotide reductase), both of which also target nucleotide
+metabolism. Gemcitabine is a particularly intriguing potential
+combination partner because it is already in use as a first-line
+therapy for pancreatic cancer. Results on GLS1 inhibitors suggest
+that such agents might also be useful combination agents
+for DHODH inhibitors, although highly potent GLS1 inhibitors
+may be required for a synergistic effect to be observable at the
+level of growth inhibition.
+The current study provides evidence for a previously unknown
+role for DHODH as a growth/survival factor in KRAS mutant tumors.
+While many aspects of the link between DHODH inhibition
+and survival of KRAS mutant cells remain to be established,
+de novo pyrimidine biosynthesis appears to be a crucial pathway
+for KRAS mutant cells. The connection between KRAS mutant
+status and a requirement for DHODH enzymatic activity may
+enable new therapeutic approaches for KRAS mutant cancers.
+
+SIGNIFICANCE
+
+A synthetic lethal screen for small molecules that selectively
+inhibit the growth of KRAS mutant cell lines identifies inhibitors
+of dihydroorotate dehydrogenase (DHODH) as potential
+therapies for KRAS mutant cancers. An investigation of
+the metabolic effects of these inhibitors on KRAS mutant
+cell lines points to perturbation of primary energy metabolism
+and glutamine metabolism as possible contributors
+to the observed KRAS mutant selectivity. The results suggest
+that alternative clinical trial designs for potent clinical-stage
+DHODH inhibitors such as brequinar in KRAS
+mutant cancers may be worth evaluating.
+
+STAR+METHODS
+
+Detailed methods are provided in the online version of this paper
+and include the following:
+
+d KEY RESOURCES TABLE
+d CONTACT FOR REAGENT AND RESOURCE SHARING
+d EXPERIMENTAL MODEL AND SUBJECT DETAILS
+B In Vivo Animal Studies
+B Cell Lines
+d METHOD DETAILS
+B Reagents
+B Compound Screening in 3D Cultures
+B KRAS Knockdown: shRNA Expression and Gene
+Down-Regulation
+B Cell Line Sensitivity Profiling
+B Biochemical Pull-Down Experiment with ThiazolimineConjugated
+Beads
+B SDS/PAGE and In-Gel Digestion
+B iTRAQ Labeling of the Digested Pull-Down Samples
+
+B Mass Spectrometry Analysis and Data Interpretation
+B DHODH Biochemical Assay
+B Cell Cycle Analysis
+B Mitochondrial Membrane Potential Assay
+B LC-MS/MS Mass Spectrometric Metabolite Analysis of
+Cells and Tumor Tissues
+B CE-TOFMS Mass Spectrometric Metabolite Analysis
+of Cells and Tumor Tissues
+B Synergistic Combinations in KRAS Mutant Cell
+Context
+B General Synthetic Methods
+B Synthetic Protocols
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+
+SUPPLEMENTAL INFORMATION
+
+Supplemental Information includes seven figures and one table can be found
+with this article online at https://doi.org/10.1016/j.chembiol.2018.03.005.
+
+ACKNOWLEDGMENTS
+
+We thank Dr. Laura Shelton (Human Metabolome Technologies) for helpful discussions.
+We thank Dr. Dietmar Hoffmann and the Sanofi Molecular Cloning
+group for generation of inducible shRNA vectors for KRAS knockdown. We
+thank Dr. Joern Hopke for microscopic image acquisition and analysis.
+
+AUTHOR CONTRIBUTIONS
+
+M.K., J.S., A.C., B.L., G.T., L.B., I.M., I.S, C.P., S.V., B.B., B.Z., T.H., Q.G., P.G,
+D.S., M.P.C., R.T., M. Barrague, R.N., Y.W., F.S., J.M., E.Y., and D.H. designed
+and carried out experiments. S.R., H.C., M.M., E.Y., and J.P. analyzed data. M.
+Barrague, M. Bouaboula, J.P., C.G., C. G-E., H.C., F.A., C.W., S.L., I. C-T. R.A.,
+and A.M. designed and interpreted experiments. M.K., J.S., B.Z., Q.G., D.S.,
+R.N., S.L., and A.M. wrote the manuscript, with contributions from all other
+authors.
+
+DECLARATION OF INTERESTS
+
+The authors are current or former employees and/or shareholders of Sanofi.
+
+Received: November 23, 2016
+Revised: December 29, 2017
+Accepted: March 8, 2018
+Published: April 5, 2018
+
+REFERENCES
+
+Arteaga, C.L., Brown, T.D., Kuhn, J.G., Shen, H.S., O’Rourke, T.J., Beougher,
+K., Brentzel, H.J., Von Hoff, D.D., and Weiss, G.R. (1989). Phase I clinical and
+pharmacokinetic trial of brequinar sodium (DuP 785; NSC 368390). Cancer
+Res. 49, 4648–4653.
+Bantscheff, M., Eberhard, D., Abraham, Y., Bastuck, S., Boesche, M., Hobson,
+S., Mathieson, T., Perrin, J., Raida, M., Rau, C., et al. (2007). Quantitative
+chemical proteomics reveals mechanisms of action of clinical ABL kinase inhibitors.
+Nat. Biotechnol. 25, 1035–1044.
+Barbie, D.A., Tamayo, P., Boehm, J.S., Kim, S.Y., Moody, S.E., Dunn, I.F.,
+Schinzel, A.C., Sandy, P., Meylan, E., Scholl, C., et al. (2009). Systematic
+RNA interference reveals that oncogenic KRAS-driven cancers require
+TBK1. Nature 462, 108–112.
+Bardeesy, N., and DePinho, R.A. (2002). Pancreatic cancer biology and genetics.
+Nat. Rev. Cancer 2, 897–909.
+Ben-Sahra, I., Howell, J.J., Asara, J.M., and Manning, B.D. (2013). Stimulation
+of de novo pyrimidine synthesis by growth signaling through mTOR and S6K1.
+Science 339, 1323–1328.
+Berenbaum, M.C. (1989). What is synergy? Pharmacol. Rev. 41, 93–141.
+
+Cell Chemical Biology 25, 705–717, June 21, 2018 715
+Bliss, C.I. (1939). The toxicity of poisons applied jointly. Ann. Appl. Biol. 26,
+585–615.
+
+Braakhuis, B.J., van Dongen, G.A., Peters, G.J., van Walsum, M., and Snow,
+G.B. (1990). Antitumor activity of brequinar sodium (Dup-785) against human
+head and neck squamous cell carcinoma xenografts. Cancer Lett. 49,
+133–137.
+Brown, K.K., Spinelli, J.B., Asara, J.M., and Toker, A. (2017). Adaptive reprogramming
+of de novo pyrimidine biosynthesis is a metabolic vulnerability in triple-negative
+breast cancer. Cancer Discov. 7, 391–399.
+Campbell, P.M., Groehler, A.L., Lee, K.M., Ouellette, M.M., Khazak, V., and
+Der, C.J. (2007). K-Ras promotes growth transformation and invasion of
+immortalized human pancreatic cells by Raf and phosphatidylinositol 3-kinase
+signaling. Cancer Res. 67, 2098–2106.
+Chen, S.F., Perrella, F.W., Behrens, D.L., and Papp, L.M. (1992). Inhibition of
+dihydroorotate dehydrogenase activity by brequinar sodium. Cancer Res.
+52, 3521–3527.
+Chou, T.C., and Talalay, P. (1984). Quantitative analysis of dose-effect relationships:
+the combined effects of multiple drugs or enzyme inhibitors. Adv.
+Enzyme Regul. 22, 27–55.
+Connolly, G.P., and Duley, J.A. (1999). Uridine and its nucleotides: biological
+actions, therapeutic potentials. Trends Pharmacol. Sci. 20, 218–225.
+Cox, A.D., Fesik, S.W., Kimmelman, A.C., Luo, J., and Der, C.J. (2014).
+Drugging the undruggable RAS: mission possible? Nat. Rev. Drug Discov.
+13, 828–851.
+Davis, J.P., Cain, G.A., Pitts, W.J., Magolda, R.L., and Copeland, R.A. (1996).
+The immunosuppressive metabolite of leflunomide is a potent inhibitor of human
+dihydroorotate dehydrogenase. Biochemistry 35, 1270–1273.
+Dexter, D.L., Hesson, D.P., Ardecky, R.J., Rao, G.V., Tippett, D.L., Dusak,
+B.A., Paull, K.D., Plowman, J., DeLarco, B.M., Narayanan, V.L., et al. (1985).
+Activity of a novel 4-quinolinecarboxylic acid, NSC 368390 [6-fluoro-2-(2’-fluoro-1,1’-biphenyl-4-yl)-3-methyl-4-quinolinecarb
+oxylic acid sodium salt],
+against experimental tumors. Cancer Res. 45, 5563–5568.
+Erra, M., Moreno, I., Sanahuja, J., Andres, M., Reinoso, R.F., Lozoya, E.,
+Pizcueta, P., Godessart, N., and Castro-Palomino, J.C. (2011). Biaryl analogues
+of teriflunomide as potent DHODH inhibitors. Bioorg. Med. Chem.
+Lett. 21, 7268–7272.
+Graves, L.M., Guy, H.I., Kozlowski, P., Huang, M., Lazarowski, E., Pope, R.M.,
+Collins, M.A., Dahlstrand, E.N., Earp, H.S., 3rd, and Evans, D.R. (2000).
+Regulation of carbamoyl phosphate synthetase by MAP kinase. Nature 403,
+328–332.
+Gross, M.I., Demo, S.D., Dennison, J.B., Chen, L., Chernov-Rogan, T., Goyal,
+B., Janes, J.R., Laidig, G.J., Lewis, E.R., Li, J., et al. (2014). Antitumor activity
+of the glutaminase inhibtor CB-839 in triple-negative breast cancer. Mol.
+Cancer Ther. 13, 890–901.
+Guerrero, S., Casanova, I., Farre, L., Mazo, A., Capella, G., and Mangues, R.
+(2000). K-ras codon 12 mutation induces higher level of resistance to
+apoptosis and predisposition to anchorage-independent growth than codon
+13 mutation or proto-oncogene overexpression. Cancer Res. 60, 6750–6756.
+Hesson, D.P. (1987). 2-Phenyl-4-quinolinecarboxylic acids and pharmaceutical
+compositions thereof. US patent US4680299A, filed July 14, 1987.
+Hunter, J.C., Gurbani, D., Ficarro, S.B., Carrasco, M.A., Lim, S.M., Choi, H.G.,
+Xie, T., Marto, J.A., Chen, Z., Gray, N.S., et al. (2014). In situ selectivity profiling
+and crystal structure of SML-8-73-1, an active site inhibitor of oncogenic
+K-Ras G12C. Proc. Natl. Acad. Sci. USA 111, 8895–8900.
+Kaplon, J., van Dam, L., and Peeper, D. (2015). Two-way communication between
+the metabolic and cell cycle machineries: the molecular basis. Cell
+Cycle 14, 2022–2032.
+Kim, J., McMillan, E., Kim, H.S., Venkateswaran, N., Makkar, G., RodriguezCanales,
+J., Villalobos, P., Neggers, J.E., Mendiratta, S., Wei, S., et al.
+(2016). XPO1-dependent nuclear export is a druggable vulnerability in
+KRAS-mutant lung cancer. Nature 538, 114–117.
+Kim, J., Hu, Z., Cai, L., Li, K., Choi, E., Faubert, B., Bezwada, D., RodriguezCanales,
+J., Villalobos, P., Lin, Y.F., et al. (2017). CPS1 maintains pyrimidine
+
+pools and DNA synthesis in KRAS/LKB1 mutant lung cancer cells. Nature
+546, 168–172.
+
+Lemasters, J.J., Nieminen, A.L., Qian, T., Trost, L.C., Elmore, S.P., Nishimura,
+Y., Crowe, R.A., Cascio, W.E., Bradham, C.A., Brenner, D.A., et al. (1998). The
+mitochondrial permeability transition in cell death: a common mechanism in
+necrosis, apoptosis and autophagy. Biochim. Biophys. Acta 1366, 177–196.
+Linardou, H., Dahabreh, I.J., Kanaloupiti, D., Siannis, F., Bafaloukos, D.,
+Kosmidis, P., Papadimitriou, C.A., and Murray, S. (2008). Assessment of somatic
+k-RAS mutations as a mechanism associated with resistance to
+EGFR-targeted agents: a systematic review and meta-analysis of studies in
+advanced non-small-cell lung cancer and metastatic colorectal cancer.
+Lancet Oncol. 9, 962–972.
+Luo, J., Emanuele, M.J., Li, D., Creighton, C.J., Schlabach, M.R., Westbrook,
+T.F., Wong, K.K., and Elledge, S.J. (2009). A genome-wide RNAi screen identifies
+multiple synthetic lethal interactions with the Ras oncogene. Cell 137,
+835–848.
+Mann, M. (2006). Functional and quantitative proteomics using SILAC. Nat.
+Rev. Mol. Cell Biol. 7, 952–958.
+Mathur, D., Stratikopoulos, E., Ozturk, S., Steinbach, N., Pegno, S.,
+Schoenfeld, S., Yong, R., Murty, V.V., Asara, J.M., Cantley, L.C., and
+Parsons, R. (2017). PTEN regulates glutamine flux to pyrimidine synthesis
+and sensitivity to dihydroorotate dehydrogenase inhibition. Cancer Discov.
+7, 380–390.
+McLean, J.E., Neidhardt, E.A., Grossman, T.H., and Hedstrom, L. (2001).
+Multiple inhibitor analysis of the brequinar and leflunomide binding sites on human
+dihydroorotate dehydrogenase. Biochemistry 40, 2194–2200.
+Moore, M., Maroun, J., Robert, F., Natale, R., Neidhart, J., Dallaire, B., Sisk, R.,
+and Gyves, J. (1993). Multicenter phase II study of brequinar sodium in patients
+with advanced gastrointestinal cancer. Invest. New Drugs 11, 61–65.
+Ostrem, J.M., Peters, U., Sos, M.L., Wells, J.A., and Shokat, K.M. (2013).
+K-Ras(G12C) inhibitors allosterically control GTP affinity and effector interactions.
+Nature 503, 548–551.
+Patel, D., Menon, D., Bernfeld, E., Mroz, V., Kalan, S., Loayza, D., and Foster,
+D.A. (2016). Aspartate rescues S-phase arrest caused by suppression of
+glutamine utilization in KRas-driven cancer cells. J. Biol. Chem. 291,
+9322–9329.
+Peters, G.J., Kraal, I., and Pinedo, H.M. (1992). In vitro and in vivo studies on
+the combination of brequinar sodium (DUP-785; NSC 368390) with 5-fluorouracil;
+effects of uridine. Br. J. Cancer 65, 229–233.
+Peters, G.J., Schwartsmann, G., Nadal, J.C., Laurensse, E.J., van Groeningen,
+C.J., van der Vijgh, W.J., and Pinedo, H.M. (1990). In vivo inhibition of the pyrimidine
+de novo enzyme dihydroorotic acid dehydrogenase by brequinar sodium
+(DUP-785; NSC 368390) in mice and patients. Cancer Res. 50,
+4644–4649.
+Robitaille, A.M., Christen, S., Shimobayashi, M., Cornu, M., Fava, L.L., Moes,
+S., Prescianotto-Baschong, C., Sauer, U., Jenoe, P., and Hall, M.N. (2013).
+Quantitative phosphoproteomics reveal mTORC1 activates de novo pyrimidine
+synthesis. Science 339, 1320–1323.
+Scholl, C., Frohling, S., Dunn, I.F., Schinzel, A.C., Barbie, D.A., Kim, S.Y.,
+Silver, S.J., Tamayo, P., Wadlow, R.C., Ramaswamy, S., et al. (2009).
+Synthetic lethal interaction between oncogenic KRAS dependency and
+STK33 suppression in human cancer cells. Cell 137, 821–834.
+Schwartsmann, G., Peters, G.J., Laurensse, E., de Waal, F.C., Loonen, A.H.,
+Leyva, A., and Pinedo, H.M. (1988). DUP 785 (NSC 368390): schedule-dependency
+of growth-inhibitory and antipyrimidine effects. Biochem. Pharmacol.
+37, 3257–3266.
+Shaw, A.T., Winslow, M.M., Magendantz, M., Ouyang, C., Dowdle, J.,
+Subramanian, A., Lewis, T.A., Maglathin, R.L., Tolliday, N., and Jacks, T.
+(2011). Selective killing of K-ras mutant cancer cells by small molecule inducers
+of oxidative stress. Proc. Natl. Acad. Sci. USA 108, 8773–8778.
+Son, J., Lyssiotis, C.A., Ying, H., Wang, X., Hua, S., Ligorio, M., Perera, R.M.,
+Ferrone, C.R., Mullarky, E., Shyh-Chang, N., et al. (2013). Glutamine supports
+pancreatic cancer growth through a KRAS-regulated metabolic pathway.
+Nature 496, 101–105.
+
+716 Cell Chemical Biology 25, 705–717, June 21, 2018
+Steckel, M., Molina-Arcas, M., Weigelt, B., Marani, M., Warne, P.H.,
+Kuznetsov, H., Kelly, G., Saunders, B., Howell, M., Downward, J., et al.
+(2012). Determination of synthetic lethal interactions in KRAS oncogenedependent
+cancer cells reveals novel therapeutic targeting strategies. Cell
+Res. 22, 1227–1245.
+Sun, Q., Burke, J.P., Phan, J., Burns, M.C., Olejniczak, E.T., Waterson, A.G.,
+Lee, T., Rossanese, O.W., and Fesik, S.W. (2012). Discovery of small molecules
+that bind to K-Ras and inhibit Sos-mediated activation. Angew. Chem.
+Int. Ed. 51, 6140–6143.
+van der Windt, G.J.W., Everts, B., Chang, C.-H., Curtis, J.D., Freitas, T.C.,
+Amiel, E., Pearce, E.J., and Pearce, E.L. (2012). Mitochondrial respiratory capacity
+is a critical regulator of CD8+ T cell memory development. Immunity
+36, 68–78.
+Viale, A., Pettazzoni, P., Lyssiotis, C.A., Ying, H., Sanchez, N., Marchesini, M.,
+Carugo, A., Green, T., Seth, S., Giuliani, V., et al. (2014). Oncogene ablationresistant
+pancreatic cancer cells depend on mitochondrial function. Nature
+514, 628–632.
+
+Weinberg, F., Hamanaka, R., Wheaton, W.W., Weinberg, S., Joseph, J.,
+Lopez, M., Kalyanaraman, B., Mutlu, G.M., Budinger, G.R., and Chandel,
+N.S. (2010). Mitochondrial metabolism and ROS generation are essential for
+Kras-mediated tumorigenicity. Proc. Natl. Acad. Sci. USA 107, 8788–8793.
+White, R.M., Cech, J., Ratanasirintrawoot, S., Lin, C.Y., Rahl, P.B., Burke, C.J.,
+Langdon, E., Tomlinson, M.L., Mosher, J., Kaufman, C., et al. (2011). DHODH
+modulates transcriptional elongation in the neural crest and melanoma. Nature
+471, 518–522.
+Ying, H., Kimmelman, A.C., Lyssiotis, C.A., Hua, S., Chu, G.C., FletcherSananikone,
+E., Locasale, J.W., Son, J., Zhang, H., Coloff, J.L., et al. (2012).
+Oncogenic Kras maintains pancreatic tumors through regulation of anabolic
+glucose metabolism. Cell 149, 656–670.
+Yun, J., Mullarky, E., Lu, C., Bosch, K.N., Kavalier, A., Rivera, K., Roper, J.,
+Chio, , II, Giannopoulou, E.G., Rago, C., et al. (2015). Vitamin C selectively kills
+KRAS and BRAF mutant colorectal cancer cells by targeting GAPDH. Science
+350, 1391–1396.
+
+Cell Chemical Biology 25, 705–717, June 21, 2018 717
+STAR+METHODS
+
+KEY RESOURCES TABLE
+
+REAGENT or RESOURCE SOURCE IDENTIFIER
+
+Antibodies
+
+Anti-Ras Antibody, clone RAS10 Millipore Sigma Cat#05-516; RRID: AB_11211664
+
+Monoclonal Anti-b-Actin Millipore Sigma Cat#A5316; RRID: AB_476743
+
+Chemicals, Peptides, and Recombinant Proteins
+
+Recombinant DHODH Creative Biomart Cat#DHODH-2486
+
+PD0325901 MEK Inhibitor Selleck Chemicals Cat#S1036
+
+Pimasertib (AS-703026) MEK Inhibitor Selleck Chemicals Cat#S1475
+
+Brequinar Sanofi internal collection N/A
+
+Teriflunomide Sanofi internal collection N/A
+
+Floxuridine Selleck Chemicals Cat#S1299
+
+Gemcitabine Selleck Chemicals Cat#S1149
+
+Everolimus (RAD001) Selleck Chemicals Cat#S1120
+
+Staurosporine Sigma Cat#62996-74-1
+
+SeaPrep Agarose Lonza Cat#50302
+
+Hoeschst 35480 Invitrogen Cat#H21486
+
+MitoTracker Red Thermofisher Cat#M7512
+
+Critical Commercial Assays
+
+Trans-Lentiviral shRNA Packaging Kit Open Biosystems Cat#TLP5912
+
+KRAS Taqman Gene Expression assay Thermofisher Cat#Hs00270666_m1
+b Actin Taqman Gene Expression assay Thermofisher Cat#Hs01102345_m1
+TaqMan Gene Expression Cells-to-CT Kit Thermofisher Cat#AM1729
+iTRAQ
+Reagents SCIEX iTRAQ
+Reagents
+Cell Titer Glo Promega Cat#G7570
+Experimental Models: Cell Lines
+KP-4 JCRB JCRB0182
+DLD-1 ATCC ATCC CCL-221
+PANC-1 ATCC ATCC CRL-1469
+CFPAC-1 ATCC ATCC CRL-1918
+HCT116 ATCC ATCC CCL-247
+MIA PaCa-2 ATCC ATCC CRL-1420
+H1299 ATCC ATCC CRL-5803
+UISO-BCA-1 Southern Research Institute CVCL_D249
+ACHN ATCC ATCC CRL-1611
+SK-OV-3 ATCC ATCC HTB-77
+DLD1 KRAS (+/-) Horizon Discovery HD 105-002
+DLD1 KRAS (G13D/-) Horizon Discovery HD 105-011
+Experimental Models: Organisms/Strains
+Female SCID mice Charles River Laboratories N/A
+Oligonucleotides
+shRNA KRAS B sequence : CACCGTT
+GGAGCTGGTGGtGTgGGCTTCAA
+GAGAGCCTACGCCACCAGCTCCAAC
+
+This paper, Sanofi N/A
+
+shRNA KRAS H sequence : CACCGGT
+CCTGCTGACAAATCAgGATTCAAGAG
+ATCTTGATTTGTCAGCAGGACC
+
+This paper, Sanofi N/A
+
+(Continued on next page)
+
+e1 Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018
+CONTACT FOR REAGENT AND RESOURCE SHARING
+
+Further information and requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Stuart
+Licht (sslicht@gmail.com).
+
+EXPERIMENTAL MODEL AND SUBJECT DETAILS
+
+In Vivo Animal Studies
+All in vivo experiments were performed according to institutional guidelines as approved by the Sanofi Institutional Animal Care and
+Use Committee. 5x106 KP-4 cells were suspended in 50% matrigel and 50%DPBS and implanted subcutaneously into the right flank
+of 78 week old female Severe Combined Immuno Deficiency (SCID) mice (Charles River Laboratories). The tumors were allowed to
+establish until average tumor volume reached about 200-250 mm3
+. Subsequently mice were randomized into control and treated
+groups (n=10/group), Tumor growth was monitored over time using caliper measurements. Subcutaneous tumor volume was calculated
+using the formula: length 3 width2
+/2. Brequinar was formulated in 20% HPbCD in 10mM phosphate buffer. Animals were orally
+administered brequinar at 1, 3, 10, 30 mg/kg once daily for 14 days. For the pharmacodynamic studies (Figures 6A–6C), three mice
+were used for each time point. In the efficacy study (Figure 6D), ten mice were used in each group.
+
+Cell Lines
+
+The following cell lines were used as a panel for initial testing in soft agar : PANC-1 (pancreatic), KP-4 (pancreatic), CFPAC-1 (pancreatic),
+MiaPaCa-2 (pancreatic), HCT-116 (colon), DLD-1 (colon), SK-OV-3 (ovarian), ACHN (kidney), H1299 (lung), UISO-BCA-1
+(breast). Chemoproteomic experiments, cell cycle analysis, mitochondrial potential experiments, metabolite profiling, and drug
+synergy experiments were carried out using KP-4 cells. For capillary electrophoresis-based metabolomics experiments, DLD-1 cells
+bearing either a single mutant or single wild-type allele were used (DLD1 KRAS (+/-) HD-105-002 and DLD1 KRAS (G13D/-) HD-105-
+011, Horizon Discovery). All cells were cultured at 37C in humidified incubators at 5% CO2.
+
+METHOD DETAILS
+
+Reagents
+
+Biochemical reagents were obtained from Sigma-Aldrich unless otherwise specified. Brequinar was synthesized as previously
+described (Hesson, 1987). MEK inhibitor PD0325901 was purchased from Selleck Chemicals.
+
+Compound Screening in 3D Cultures
+
+SeaPrep agarose (Lonza #50302) was used for cell culture. A 6% (w/v) agarose solution in PBS (Gibco#10010) was prepared by mixing
+the components in an autoclavable bottle via magnetic stirring. The suspension was autoclaved, then stirred again until homogeneous.
+The final concentration diluted in media for cell culture was 1%; volumes of the 6% stock solution (1.05 g/mL) were
+measured gravimetrically.
+For assay purposes, a mixture of cells and agarose (final concentration of agarose 1% in complete media, 40,000 cells/ml) was
+prepared from cell and agarose stocks pre-warmed to 37C, and kept at 37C until it was dispensed via an automated liquid handling
+system (Thermo Scientific Multidrop Combi) into 384-well ultra low-attachment plates (Corning, #3827); low-attachment plates were
+used to ensure that any cells that settle will remain rounded rather than attaching to the plate, such plates eliminate the need for the
+traditional bottom agar layer. The plates were incubated at 4C for 15-30 minutes to allow gelling to occur. After gelling of the agarose,
+the cultures were incubated at 5% CO2 and 37C in a humidified incubator. Clonogenicity of cell lines was determined using this culture
+system for cell lines of interest.
+Compound plates for screening were prepared in advance using acoustic dispensing (Labcyte Echo). On day 4 after plating of
+cells, compounds to be screened (in DMSO stock) were diluted in media and added to the culture plates using an automated liquid
+dispenser (BioMek FX). On day 7 after plating of cells,Alamar Blue dye (10 ml) was added to culture plates using an automated liquid
+dispenser (BioMek FX), and the plates were incubated at 37C (incubation periods were optimized for each cell line to maximize the
+
+Continued
+
+REAGENT or RESOURCE SOURCE IDENTIFIER
+
+Recombinant DNA
+
+pLKO_IRES-Puro_DEST Sanofi internal collection N/A
+
+Other
+
+Ultra low-attachment 384 well plates Corning Cat#3827
+
+Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018 e2
+fluorescence signal and avoid reagent depletion). Fluorescence (Ex/Em 530 nm/590 nm) was measured (Envision 2104 multi-label
+reader) to determine cell viability.
+
+KRAS Knockdown: shRNA Expression and Gene Down-Regulation
+
+shRNAs against KRAS were cloned in a Tet-inducible pLKO vector (pLKO_IRES_Puro_Dest). The shRNA sequences used were the
+following: shRNA KRAS B, CACCGTTGGAGCTGGTGGtGTgGGCTTCAAGAGAGCCTACGCCACCAGCTCCAAC ; shRNA KRAS H,
+CACCGGTCCTGCTGACAAATCAgGATTCAAGAGATCTTGATTTGTCAGCAGGACC.
+The shRNA-expressing lentiviral vectors were packaged in 293T cells using the Trans-Lentiviral packaging kit (OpenBiosystems).
+Culture medium containing virus was collected and filtered. Cells were transduced with virus and subjected to puromycin selection.
+After selection, the surviving cells were grown in 3D culture as previously described, and doxycycline was added to the culture to
+induce shRNA expression. Cells were re-fed with doxycycline every 2 or 3 days.
+Downregulation of KRAS at the mRNA level was determined using a KRAS Taqman Gene Expression assay - Hs00270666_m1
+(Thermofisher) and Cells-To-Ct kit (Ambion/ABI, #4399002). RPL37A - Hs01102345_m1 (ThermoFisher) was used as a housekeeping
+gene for normalization. Cells were plated in a 96-well format. Seventy-two hours after shRNA induction, cells were washed with 1X
+PBS. cDNA preparation from cell lysates and qPCR were carried out according to the manufacturer’s instructions.
+To determine down-regulation of KRAS protein, cells were plated in 6-well plates. Seventy-two hours after shRNA induction, the
+cells were washed with 1X PBS and lysed in 1X RIPA lysis buffer (Thermo 89901) containing 1X Halt Protease and phosphatase inhibitor
+(Thermo 78440). Samples were run on NuPage Novex 4-12% Bis-Tris polyacrylamide protein gels, and transferred to membranes
+using the iBlot system (Invitrogen). Membranes were incubated with an anti-Ras antibody (Millipore Sigma #: 05-516) and
+probed using secondary antibodies (LiCOR). b-actin (Millipore sigma #A5316) was used a loading control.
+
+Cell Line Sensitivity Profiling
+
+A set of 640 mechanistically diverse compounds were obtained from commercial sources or an internal library. A total of 374 cancer
+cell lines of diverse origin were obtained from commercial vendors. Cell lines were chosen to sample diverse gene expression profiles.
+The cell lines represented 27 tissue types, with some lineages, such as liver, lung, pancreas, and stomach, being more highly
+represented. The cell lines were cultured in vendor-recommended media using standard culturing techniques, either in a biological
+safety cabinet or using an automated cell culture system (CompacT, Sartorius, Wilmington DE.). For dose-response studies, all compounds
+were dissolved in DMSO and diluted in an 8-point dilution series, and an aliquot (10 mL) of each dilution was placed in a Labcyte-certified
+LDV 384-well polystyrene plate. The starting stock concentrations used were between 0.1 mM to 10 mM, depending on
+compound activity, solubility, and availability.
+To screen the compounds for bioactivity against the cell line panel, a Labcyte Echo (Sunnyvale CA) liquid dispensing system was
+used to transfer compound solution (25 nL) to 384-well assay plates (Greiner Bio-One, Monroe, NC). In addition to library compounds,
+each assay plate also contained DMSO vehicle controls and a staurosporine (Sigma, St Louis MO) positive control. All liquid
+dispensing and assay steps subsequent to the initial compound transfer were performed using a custom robotics platform (GNF,
+San Diego CA). Cell suspension (25 mL) was added to each well, using a seeding density between 250 and 1500 cells per well, depending
+on the cell line. Assay plates were incubated at 37C for 72-168 hours. Cell numbers were determined by adding
+Hoechst34580 DNA staining dye (5 mL; Invitrogen) to a final concentration of 2 mg/mL. Assay plates were incubated for 3 hours at
+37C, 9% paraformaldehyde (10 mL; EMS Hatfield, PA ) was added, and the plates were incubated at room temperature for 4 h.
+Following fixation, cell counts were determined using an Acumen microplate cytometer (TTP Labtech Cambridge MA). Cell number
+values were corrected for pattern artifacts, and normalized to the vehicle control and the number of untreated cells initially plated in
+order to quantify effects on growth inhibition; growth inhibition was calculated as (median cell number-treated/median cell number
+untreated)*100. All dose-response fitting was performed on normalized data using either a four-parameter logistic nonlinear regression
+model or a constant model (Genedata AG).
+For DLD-1 cell lines, cells were plated at a density of 3000 cells/well and cultured for 2 days before drug and/or uridine treatment;
+after 72 hours of treatment, viable cell density was quantified using the CellTiter Glo assay (Promega).
+A subset of data containing a matrix of growth inhibition potencies from 372 cell lines (53 of which contain mutant KRAS) and 489
+compounds was used for the analysis of the effect of KRAS mutation status on compound bioactivity. A t-test was performed for each
+compound, comparing the mean of potencies in KRAS-mutant and wild-type cell lines. The Bonferroni correction for multiple comparisons
+was applied to the final p-values. The result is shown in a volcano plot. In a similar analysis, the effects of mutation status of
+multiple oncogenes on the potencies of the lead thiazolimine was also compared.
+
+Biochemical Pull-Down Experiment with Thiazolimine-Conjugated Beads
+
+Protein pull-down using chemically modified beads was performed as described previously (Bantscheff et al., 2007). KP-4 cells separately
+SILAC-labeled with either L-arginine and L-lysine (light) or L-arginine-13C6 and L-lysine-13C6-
+15N2 (heavy) were prepared in lysis
+buffer containing 1% Nonidet P-40, 50 mM Tris/HCl, pH 7.5, 5% glycerol, 1.5 mM MgCl2, 150 mM NaCl, 1 mM EDTA, and protease
+inhibitors (Complete tablets, Roche Applied Science, IN). Lysates were vortexed intermittently and chilled on ice for 10 min, followed
+by centrifugation at 14,0003g. Protein concentrations of lysates were measured using the Protein BCA Assay (Thermo Pierce, CA),
+
+e3 Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018
+and lysates were diluted to a final protein concentration of 5 mg/ml in the lysis buffer. The heavy amino acid-labeled cell lysate was
+pre-incubated with the active competitor compound Compound 2 (50 nM or 1 mM, in separate aliquots) for 1 h. The light amino acidlabeled
+cell lysate was treated with DMSO as a control. Beads conjugated with the thiazolimine (200 ml) were added to each lysate
+and incubated on an end-over-end rotator for 4 h at 4C. After incubation, the bead/lysate mixture was centrifuged at 10003g and the
+supernatant was aspirated. The beads from each lysate were washed with lysis buffer to remove excess soluble small molecule
+competitor. Beads from the heavy and light amino acid-labeled lysates were combined and washed (3X) with lysis buffer supplemented
+with 0.1% SDS buffer. After the final wash, beads were collected by centrifugation at 10003g, and the residual buffer
+was carefully aspirated to avoid disturbing the beads.
+
+SDS/PAGE and In-Gel Digestion
+
+Proteins bound to thiazolimine-conjugated beads were reduced and alkylated on-bead in 10 mM DTT and 25 mM iodoacetamide
+respectively. NuPAGE LDS sample buffer (Invitrogen) was added to bead mixtures, followed by heating to 60C for 40 min. Eluted
+proteins were resolved on a 4n) was added to bead Bis-Tris gel with MES running buffer (Nupage, Invitrogen), and stained with Coomassie
+Blue (Simply Blue, Invitrogen). Gel lanes were excised into twelve pieces, each of which was cut into 1 x 1 mm cubes. The gel
+pieces were further destained three times in a solution containing 50% acetonitrile and 50% ammonium bicarbonate (50 mM), then
+dehydrated in 100% acetonitrile and completely dried in a vacuum concentrator (SpeedVac, Thermo Scientific) before addition of
+sufficient trypsin solution (12.5 ng/L) to swell the gel pieces. The gel pieces were incubated in the trypsin solution at 37C overnight.
+The peptides were extracted three times from the gel in 2:1 (vol/vol) acetonitrile/5% formic acid and dried in a vacuum concentrator to
+remove organic solvents. The peptides were re-dissolved in an aqueous solution containing 0.1% formic acid and 5% acetonitrile for
+mass spectrometry analysis.
+
+iTRAQ Labeling of the Digested Pull-Down Samples
+
+iTRAQ labeling was performed using the iTRAQ Reagent kit (AB SCIEX, CA) according to the manufacturer’s instructions. The peptides
+extracted from the SDS-PAGE gel were dried and reconstituted in the labeling buffer (0.5 M tetraethylammonium bromide) provided
+with the kit. The peptides from the control lysate (treated with DMSO) were labeled with iTRAQ reagent 114, and the peptides
+from lysate treated with 10 nM, 100 nM and 1 mM active competitor Compound 2 were labeled with iTRAQ reagents 115, 116, and
+117, respectively. After labeling with iTRAQ reagents, the peptides were incubated at room temperature for 2 h and pooled.
+
+Mass Spectrometry Analysis and Data Interpretation
+
+LC-MS/MS analysis was carried out on a LTQ OrbitrapVelos mass spectrometer (Thermo Scientific, MA) equipped with a
+Thermo nanospray source (Thermo, San Jose, CA) and coupled to an Eksigent NanoLC Ultra 2D system (ABsciex). Separation
+of peptide mixtures was achieved on a 75 mm I.D. microcapillary trap column packed with 18 cm of Magic C18resin (3 mm, 200 A˚ ,
+MichromBioresources) with a gradient of acetonitrile (3% -35%) in 0.1% FA for 145 minutes at a flow rate of 300 nL/min.
+A voltage of 3 kV was applied to generate electrospray. All the MS and MS/MS spectra were acquired in the data-dependent
+mode. The full-scan spectra (from m/z 300-1800) were acquired at resolution 60,000 at m/z 400, with an accumulation target value
+of 1 x 106
+. The top 20 most intense ions at a threshold above 500 counts were selected for fragmentation by CID at a normalized
+collision energy of 40%. Dynamic exclusion was applied to reject ions from repeated MS/MS selection for 90 ms using monoisotopic
+precursor selection. Singly-charged ions and those with unassigned charge state were also excluded from MS/MS.
+The mass spectrometry data were processed using the Proteome Discoverer 1.3 software (Thermo Scientific). The MS/MS peak
+lists were extracted and searched by MASCOT against a concatenated forward and reversed version of the Swiss-prot human database.
+The precursor and fragment mass tolerances were set to 10 ppm and 0.5 Da, respectively. Cysteine carbamidomethylation was
+searched as a fixed modification, while N-acetyl protein, N-pyroglutamine, oxidized methionine, phosphorylation of serine, threonine,
+and tyrosine and SILAC labels on arginine and lysine were searched as variable modifications. The raw MS files were loaded to PD
+1.3, and peptides were quantified with the MSQuant software embedded in the PD. MSQuant was used to calculate the ratio averaged
+over the peptide elution time, and the assignments used for quantification were visually displayed and validated. To minimize
+the false-discovery rate (FDR), all phosphopeptide identifications were filtered by MASCOT score. We accepted peptides based on
+the criterion that the number of forward hits in the database was at least 200-fold higher than the number of reversed database hits,
+which gives an estimated FDR of less than 1% (p < 0.01). The final filtering criteria were MASCOT score R 20 (p < 0.01), identification
+of the peptide in the correct SILAC form (heavy or light), and presence of the correct number of lysine and arginine residues specified
+by the mass difference observed in the full scan between the SILAC partners.
+
+DHODH Biochemical Assay
+
+DHODH activity was measured using a coupled assay with 2,6-dichloroindophenol (DCIP) as the terminal electron acceptor. Reactions
+were carried out in UV-transparent plates (Corning #3675). The reaction mixture comprised HEPES buffer (100 mM, pH 7.5),
+sodium chloride ( 150 mM), Triton X-100 (0.01%), dihydroorotate (10 mM), decylubiquinone (10 mM), and DCIP (60 mM). The reaction
+was initiated by the addition of recombinant dihydroorotate dehydrogenase (5 nM, Creative Biomart part #DHODH-2486). Reaction
+progress was monitored by measuring the absorbance at 600 nm (extinction coefficient of the reduced DCIP product, 18.8 M-1 cm-1;
+absorbance measured using an Envision 2104 plate reader equipped with a monochromator).
+
+Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018 e4
+Cell Cycle Analysis
+
+KP-4 cells were treated with Compound 2 or DMSO (vehicle control) for 24 or 48 h, then collected and fixed with ice-cold ethanol.
+Fixed cells were treated with RNAse, stained with propidium iodide, and subjected to flow cytometric analysis in duplicate to quantify
+DNA content.
+
+Mitochondrial Membrane Potential Assay
+
+KP-4 cells were treated with DHODH inhibitors at the defined concentrations for 72 h. After treatment, cells were stained with
+MitoTracker dye (ThermoFisher M7512; 300nM), washed with 1X PBS, fixed with paraformaldehyde (3.7%), and stained with
+Hoechst dye (Life Technologies H1399). Image acquisition was performed using a Perkin Elmer Opera QEHS automated microscope
+equipped with an Olympus 10X UPlanSApo objective. Hoechst33342 and Mitotracker Red CMXRos epifluorescence were detected
+using 450/50 nm and 600/40 nm bandpass filters, respectively, with excitation from 405 nm and 561 nm solid-state lasers. Mitochondrial
+depolarization was quantified by measuring the decrease in Mitotracker Red CMXRos relative fluorescence intensity (RFI). Fluorescene
+intensity data were analyzed using Perkin Elmer Columbus software: nuclei were segmented based on Hoechst staining,
+and through dilation of the nuclei segmentation mask, a ring region was created in which Mitotracker mean relative fluorescence
+intensity was calculated.
+
+LC-MS/MS Mass Spectrometric Metabolite Analysis of Cells and Tumor Tissues
+
+LC-MS/MS analysis was carried out using an ABSciex QTrap 5500 mass spectrometer coupled to a 1290 Infinity UHPLC system
+(Agilent). Samples were injected using a PAL HTC autosampler (LEAP Technologies). Separation of DHO and metabolites in the pyrimidine
+synthesis pathway was achieved on an ACQUITY UPLC CSH Fluoro-Phenyl column (50 mm 3 2.1 mm, 1.7 mm Waters) at a
+flow rate of 0.50 ml/min. The elution protocol used was the following: holding mobile phase A (0.1% acetic acid in water) at 95% for
+0.5 min; ramping mobile phase B (0.1% acetic acid in acetonitrile) from 5 to 95% over 4 min; holding mobile phase B at 90%
+for 0.5 min.
+DHO and orotate were detected via their MRM transitions in the ESI negative mode; these were m/z 157 / 113 and m/z 155 /
+111, for DHO and orotate, respectively. The transition for uridine was m/z 245/113 in the ESI positive mode. Instrument parameters
+were the following: spray voltage, 4000 V; source temperature, 450C; ion source gas, 30 liter/h; and collision energy, 17 eV. Mass
+spectrometric data were acquired and processed using the Analyst software (ABSciex).
+For analysis of cellular samples, cells were treated with compounds of interest for 24 h. Cell pellets (1 million cells) were suspended
+in 80% methanol/water (500 ml) that had been chilled on dry ice. After brief sonication, the samples were centrifuged and
+the supernatants were collected. The pellets were resuspended in the methanol/water mixture used previously, and the extraction
+was repeated two additional times. The combined supernatants were dried in a centrifugal evaporator. The residues were reconstituted
+in water, and the resulting solutions were injected directly into the LC/MS-MS instrument for analysis of metabolites.
+For samples from in vivo studies, tissue blocks were homogenized in 80% methanol/water (1 ml) using Precelly-24 with 2.8 mm
+ceramic beads (5500 rpm for 2 x 30 sec). The homogenate was centrifuged at 14000 rpm for 10 min and the supernatants were transferred.
+The methanol was removed by evaporation under vacuum, and the residue was reconstituted in water (2 ml) for the LC/MS/
+MS analysis.
+
+CE-TOFMS Mass Spectrometric Metabolite Analysis of Cells and Tumor Tissues
+
+DLD1 KRAS (+/-) HD-105-002 and DLD1 KRAS (G13D/-) HD-105-011 were obtained from Horizon Discovery. Cells were plated in
+RPMI 1640 with glutamine. Culture medium was aspirated the next day and cells treated with 2 mM Brequinar in absence or presence
+of 500 mM uridine in C13 glutamine labeled RPMI for 4 hours. For extraction of intracellular metabolites, culture medium was aspirated
+and cells were washed twice with a 5% mannitol solution. The cells were treated with 800 mL of methanol and 550 mL of Milli-Q water
+containing internal standards (H3304-1002, Human Metabolome Technologies, Inc., Tsuruoka, Japan). The extract was centrifuged
+at 2,300 3g and 4C for 5 min and then 800 mL of upper aqueous layer was centrifugally filtered through a Millipore 5-kDa cutoff filter
+at 9,100 3g and 4C for 120 min to remove proteins. The filtrate was centrifugally concentrated and re-suspended in 50 mL of Milli-Q
+water for CE-MS analysis.
+Metabolome measurements were carried out through a facility service at Human Metabolome Technology Inc., Tsuruoka, Japan.
+Hierarchical cluster analysis (HCA) and principal component analysis (PCA) were performed using proprietary software: PeakStat
+and SampleStat, respectively. Detected metabolites were plotted on metabolic pathway maps using VANTED (Visualization and
+Analysis of Networks containing Experimental Data) software.
+
+Synergistic Combinations in KRAS Mutant Cell Context
+
+A 12x12 dose matrix of co-plated enhancer and enhancee compounds was used to evaluate whether combination exhibited synergy.
+Cell culture was carried out in 2D format, as described in ‘‘Cell Line Sensitivity Profiling.’’
+Compounds were diluted in a 12-point dilution series and dispensed in 40 ml aliquots into each well of a Labcyte-certified 384-well
+polypropylene plate. The enhancee compounds, brequinar and a DHODH inhibitor from the thiazolimine series (Compound 2), were
+diluted and plated (in 25 nL aliquots) in the same format as the enhancer compounds using a Labcyte Echo (Sunnyvale CA)
+dispensing system. Cell culture and cell-based screening for growth inhibition effects (using KP-4 cells at a density of 500 cells/
+well, and a 72-hour treatment period) were carried out as described for ‘‘Cell Line Sensitivity Screening.’’
+
+e5 Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018
+Three types of synergy scores, including Loewe, Bliss and HSA, were generated using software for analysis of in vitro pharmacology
+data (GeneData AG). For each type of synergy score (Loewe, Bliss, and HSA), a robust Z-test was performed to identify potential
+combination partners for Compound 2. Specifically, a robust Z score was calculated for each compound combination as the
+difference between the synergy score from given combination and the median of synergy scores from self-cross experiments,
+divided by the median absolute deviation of synergy scores from self-cross experiments. The distributions of synergy scores from
+the self-cross experiments were found to be approximately normal for all three synergy score types, enabling the generation of
+two-tailed p values for each robust Z score. Since multiple robust Z tests were performed, multiple testing adjustment of p values
+was performed, using the Benjamini-Hochberg method. Any compound combination with a synergy score satisfying the criteria
+of Z > 0 and adjusted p value <= 0.05 was flagged as ‘‘synergistic.’’
+
+General Synthetic Methods
+
+Reagents and solvents were purchased from commercial sources and were used without further purification. All reactions were run
+under nitrogen atmosphere unless otherwise noted. Purification of reaction products was carried out by flash column chromatography
+using Teledyne Isco Combiflash Rf and Redisep normal-phase silica flash columns (230-400 mesh). Analytical thin layer chromatography
+was performed on EMD Millipore DC-Kieselgel 60 F254 plates. Visualization was accomplished with UV light, potassium
+permanganate, ninhydrin or Hanessian stain followed by heating. Proton nuclear magnetic resonance spectra (1
+H NMR) were
+recorded on a Varian Inova 400MHz spectrometer and are reported in ppm using solvent as an internal standard (DMSO-d6 at
+2.50 ppm, methanol-d4 at 3.31 ppm, acetone-d6 at 2.09 ppm). Data are reported as br = broad peak, s = singlet, d = doublet,
+t = triplet, q = quadruplet, p = quintuplet, dd = doublet of doublets, ddd = doublet of doublet of doublets, m = multiplet; integration;
+coupling constant(s) in Hz. HPLC-MS analysis was carried out on a Waters Acquity UPLC
+with autosampler, PDA detector and SQ
+mass spectrometer using Acquity UPLC
+BEH C18 1.7um 2.1 x 50mm column. Preparative HPLC was performed on a Gilson Preparative
+HPLC system using a SunFireTM Prep C18 OBDTM 5uM 19x100mm column.
+
+Synthetic Protocols
+
+Scheme 1. Synthetic Routes
+
+Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018 e6
+Procedure 1a
+
+1-(4-Methyl-2-phenylthiazol-5-yl)ethanone (5)
+To a solution of benzothioamide (5 g, 36.44 mmol) in ethanol (36.44 ml, 36.44 mmol) was added 3-chloro-2,4-pentanedione (4.24 ml,
+36.44 mmol) at room temperature. The mixture was stirred at reflux for 4 h. An LC/MS indicated complete reaction. The mixture
+was allowed to cool down to room temperature. A precipitate formed. It was concentrated under reduced pressure. The residue
+was recrystallized from hexanes to provide 1-(4-methyl-2-phenylthiazol-5-yl)ethanone (3.6 g, 16.57 mmol, 45.5 % yield). 1
+H NMR
+(400 MHz, DMSO-d6) d 8.07 – 7.93 (m, 2H), 7.61 – 7.46 (m, 3H), 2.71 (s, 3H), 2.58 (s, 3H). ESI-MS m/z 218.2 [(M + H)+
+; calcd. for
+C12H12NOS: 218.06].
+Procedure 1b
+
+2-Bromo-1-(4-methyl-2-phenylthiazol-5-yl)ethan-1-one (6)
+To a solution of 1-(4-methyl-2-phenylthiazol-5-yl)ethanone (3 g, 13.81 mmol) in dichloromethane (69.03 ml, 13.81 mmol) was added
+bromine (924.67 ml, 17.95 mmol). The solution was stirred at 40C overnight. The mixture was concentrated under reduced pressure.
+The residue was triturated in methanol then dried under vacuum to give 2-bromo-1-(4-methyl-2-phenylthiazol-5-yl)ethan-1-one
+(3.26 g, 10.99 mmol, 79.6 %). 1
+H NMR (400 MHz, DMSO-d6) d 7.97 (m, 2H), 7.64 – 7.40 (m, 3H), 4.75 (s, 2H), 2.69 (s, 3H). ESI-MS
+m/z 296.1 [(M + H)+
+; calcd. for C12H11BrNOS: 295.97].
+
+2-Bromo-1-(4-methyl-2-(pyrazin-2-yl)thiazol-5-yl)ethan-1-one
+This compound was obtained from a commercial source (Oakwood Chemical, West Columbia, South Carolina).
+Procedure 2
+
+1-(4-Hydroxy-2-methylphenyl)-3-methylthiourea (7)
+To a solution of 4-amino-3-methylphenol (1 g, 8.12 mmol) in THF (27.07 ml, 8.12 mmol) was added isothiocyanatomethane (610.36 ml,
+8.93 mmol). The mixture was stirred at 60C overnight then concentrated under reduced pressure. The residue was purified by flash
+chromatography (using a gradient of 10% ethyl acetate in hexanes to 100% ethyl acetate) to afford 1-(4-hydroxy-2-methylphenyl)-3-
+methylthiourea (1.05 g, 5.35 mmol, 65.9 % yield) 1
+H NMR (400 MHz, DMSO-d6) d 9.30 (s, 1H), 8.83 (s, 1H), 6.98 (d, J = 57.0 Hz, 1H),
+
+e7 Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018
+6.84 (d, J = 8.4 Hz, 1H), 6.60 (d, J = 2.6 Hz, 1H), 6.54 (dd, J = 8.4, 2.7 Hz, 1H), 2.81 (d, J = 4.5 Hz, 3H), 2.02 (s, 3H). ESI-MS m/z
+197.1 [(M + H)+
+; calcd. for C9H13N2OS: 197.08].
+
+1-(2-Chloro-4-hydroxyphenyl)-3-methylthiourea (8)
+To a solution of 4-amino-3-chlorophenol (0.749 g, 5.22 mmol) in THF (17.39 ml, 5.22 mmol) was added isothiocyanatomethane
+(427.79 ml, 6.26 mmol). The solution was stirred at 60C overnight. The resulting suspension was cooled to room temperature and
+filtered. The remaining solid was washed with ethanol to produce 1-(2-chloro-4-hydroxyphenyl)-3-methylthiourea (785 mg,
+3.62 mmol, 69.4 % yield) 1
+H NMR (400 MHz, methanol-d4) d 7.16 (d, J = 8.7 Hz, 1H), 6.88 (d, J = 2.7 Hz, 1H), 6.73 (dd, J = 8.7,
+2.7 Hz, 1H), 2.97 (s, 3H). ESI-MS m/z 217.1 [(M + H)+
+; calcd. for C8H10ClN2OS: 217.02].
+
+Tert-butyl (3-(3-(4-hydroxy-2-methylphenyl)thioureido)propyl)carbamate (9)
+To a solution of 4-amino-3-methylphenol (50 mg, 406.00 mmol) in THF (2.0 ml, 24.41 mmol) was added tert-butyl (3-isothiocyanatopropyl)carbamate
+(131.73 mg, 609.00 mmol). The mixture was stirred at room temperature for 3 hours. An LC/MS indicated reaction
+completion. The mixture was concentrated under reduced pressure. The residue was purified by flash chromatography (using a
+gradient of 10% ethyl acetate in hexanes to 100% ethyl acetate) to provide tert-butyl (3-(3-(4-hydroxy-2-methylphenyl)thioureido)
+propyl)carbamate (117 mg, 344.67 mmol, 84.9 % yield). 1
+H NMR (400 MHz, acetone-d6) d 8.44 (br s, 1H), 8.30 (br s, 1H), 6.99
+(d, J = 8.4 Hz, 1H), 6.83 (br s, 1H), 6.75 (d, J = 2.7 Hz, 1H), 6.68 (dd, J = 8.4, 2.8 Hz, 1H), 6.09 (br s, 1H), 3.63 (q, J = 6.3 Hz, 2H),
+3.06 (q, J = 6.3 Hz, 3H), 2.17 (s, 3H), 1.74 – 1.61 (m, 2H), 1.36 (s, 9H). ESI-MS m/z 340.2 [(M + H)+
+; calcd. for C16H26N3O3S: 340.17].
+Procedure 3
+
+(Z)-3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenol (10)
+A suspension of 1-(2-chloro-4-hydroxyphenyl)-3-methylthiourea (35 mg, 161.52 mmol) and 2-bromo-1-(4-methyl-2-(pyrazin-2-yl)
+thiazol-5-yl)ethanone (48.16 mg, 161.52 mmol) in isopropanol (2.0 mL) was stirred with microwave heating at 100C for 1 h. The
+mixture was then dissolved in methanol (1.0 mL) and triethylamine (1.0 mL). The solution was concentrated under reduced pressure.
+The residue was purified via flash chromatography on silica gel (using a gradient of 30% to 100% of ethyl acetate in hexanes, followed
+by 10% methanol in dichloromethane) to give (Z)-3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)
+phenol (43 mg, 103.39 mmol, 64.0 % yield). 1
+H NMR (400 MHz, DMSO-d6) d 9.47 (s, 1H), 9.32 (d, J = 1.5 Hz, 1H), 8.78 (d, J =
+2.5 Hz, 1H), 8.73 (dd, J = 2.5, 1.5 Hz, 1H), 6.93 (d, J = 8.6 Hz, 1H), 6.86 (d, J = 2.7 Hz, 1H), 6.71 (dd, J = 8.6, 2.7 Hz, 1H),
+6.58 (s, 1H), 3.26 (s, 3H), 2.46 (s, 3H). ESI-MS m/z 416.2 [(M + H)+
+; calcd. for C18H15ClN5OS2: 416.04].
+
+Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018 e8
+(Z)-3-(2-((4-hydroxy-2-methylphenyl)imino)-4’-methyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-3(2H)-yl)propan-1-aminium
+2,2,2-trifluoroacetate (11)
+2-bromo-1-(4-methyl-2-(pyrazin-2-yl)thiazol-5-yl)ethanone (102.77 mg, 344.67 mmol) and tert-butyl (3-(3-(4-hydroxy-2-methylphenyl)thioureido)propyl)carbamate
+(117 mg, 344.67 mmol) were dissolved in dry isopropanol (2 mL). The solution was stirred with
+microwave heating at 80C for 8 hours. Triethylamine (1.0 mL) was added. The mixture was concentrated under reduced pressure.
+The residue was purified by flash chromatography (using a gradient of 100% dichloromethane to 15% methanol in dichloromethane).
+The product was dissolved in dichloromethane (2.0 mL). TFA (1.0 mL) was added. The mixture was stirred at room temperature for
+2 h. LC-MS indicated reaction completion. The mixture was concentrated under reduced pressure. The residue was dissolved in
+DMSO and purified by preparative HPLC to afford (Z)-4-((3-(3-aminopropyl)-4’-methyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)-3-methylphenol
+2,2,2-trifluoroacetate (88 mg, 112.73 mmol, 32.7 % yield) after lyophilization of the fraction containing
+the pure product. 1
+H NMR (400 MHz, DMSO-d6) d 9.36 (d, J = 1.5 Hz, 1H), 8.83 (d, J = 2.5 Hz, 1H), 8.77 (dd, J = 2.5, 1.5 Hz, 1H),
+7.78 (br s, 3H), 7.04 (br s, 1H), 6.77 (d, J = 2.2 Hz, 1H), 6.70 (dd, J = 8.5, 2.3 Hz, 1H), 4.00 – 3.90 (m, 2H), 2.95 – 2.68 (m, 2H),
+2.54 (s, 1H), 2.48 (s, 3H), 2.18 (s, 3H), 1.93 (p, J = 7.9 Hz, 2H). ESI-MS m/z 439.2 [(M + H)+
+; calcd. for C21H23N6OS2: 439.14
+
+(Z)-N-(3-(2-((4-hydroxy-2-methylphenyl)imino)-4’-methyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-3(2H)-yl)propyl)
+acetamide (12)
+Acetic anhydride (1.90 ml, 20.18 mmol was added dropwise to a solution of (Z)-4-((3-(3-aminopropyl)-4’-methyl-2’-(pyrazin-2-yl)-[4,5’-
+bithiazol]-2(3H)-ylidene)amino)-3-methylphenol 2,2,2-trifluoroacetate (15 mg, 19.22 mmol) in pyridine (64.05 ml, 19.22 mmol) ). The
+mixture was stirred at room temperature for 30 minutes. An LC/MS indicated reaction completion. The reaction mixture was concentrated
+under reduced pressure. The residue was purified using flash chromatography (with a gradient of 30% to 100% ethyl acetate in
+hexanes) to provide (Z)-N-(3-(2-((4-hydroxy-2-methylphenyl)imino)-4’-methyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-3(2H)-yl)propyl)acetamide
+(4.73 mg, 9.84 mmol, 51.2 % yield). 1
+H NMR (400 MHz, methanol-d4) d 9.37 (d, J = 1.4 Hz, 1H), 8.68 (d, J = 2.5 Hz, 1H),
+8.66 (dd, J = 2.5, 1.5 Hz, 1H), 6.83 (d, J = 8.4 Hz, 1H), 6.73 (d, J = 2.7 Hz, 1H), 6.65 (dd, J = 8.4, 2.8 Hz, 1H), 6.43 (s, 1H), 3.95 –
+3.81 (m, 2H), 3.14 (t, J = 6.5 Hz, 2H), 2.66 (s, 1H), 2.50 (s, 3H), 2.16 (s, 3H), 1.90 (p, J = 6.8 Hz, 2H), 1.75 (s, 3H). ESI-MS m/z
+481.2 [(M + H)+
+; calcd. for C23H25N6O2S2: 481.15].
+
+(Z)-3-chloro-4-((3,4’-dimethyl-2’-(4-(trifluoromethyl)phenyl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenol (13)
+This compound was synthesized as previously described for (Z)-3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenol.
+1
+H NMR (400 MHz, DMSO-d6) d 9.93 (br s, 1H), 8.15 (d, J = 8.1 Hz, 2H), 7.87 (d, J = 8.2 Hz, 2H), 7.13 (d, J = 8.5 Hz,
+1H), 6.94 (d, J = 2.7 Hz, 1H), 6.89 (br s, 1H), 6.79 (dd, J = 8.6, 2.7 Hz, 1H), 3.37 (s, 3H), 2.42 (s, 3H). ESI-MS m/z 482.0 [(M + H)+
+; calcd.
+for C21H16ClF3N3OS2: 482.04].
+
+(Z)-3-chloro-4-((3,4’-dimethyl-2’-phenyl-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenol (14)
+This compound was synthesized as previously described for (Z)-3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenol.
+1
+H NMR (400 MHz, DMSO-d6) d 7.97 (dd, J = 6.5, 3.1 Hz, 2H), 7.64 – 7.47 (m, 3H), 7.22 (s, 1H), 6.99 (d, J = 2.5 Hz,
+1H), 6.84 (dd, J = 8.5, 2.7 Hz, 1H), 3.42 (s, 3H), 2.43 (s, 3H). ESI-MS m/z 414.0 [(M + H)+
+; calcd. for C20H17ClN3OS2: 414.05].
+
+e9 Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018
+Procedure 4
+
+(Z)-tert-butyl (3-(3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenoxy)propyl)
+carbamate (15)
+To a solution of (Z)-3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenol (50 mg, 120.22 mmol)
+in THF (0.4 mL) was added triphenylphosphine (63.06 mg, 240.43 mmol) and tert-butyl (3-hydroxypropyl)carbamate (41.10 ml,
+240.43 mmol). (E)-diisopropyl diazene-1,2-dicarboxylate (47.34 ml, 240.43 mmol) was then added dropwise. The reaction mixture
+was stirred at room temperature for 3 h. Upon reaction completion, the mixture was purified by preparative HPLC, using a gradient
+of 10% acetonitrile in water (containing 0.1% trifluoroacetic acid) to 100% in acetonitrile (containing 0.1% trifluoroacetic acid), to give
+(Z)-tert-butyl (3-(3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenoxy)propyl)carbamate (43 mg,
+75.03 mmol, 62.4 % yield). 1
+H NMR. ESI-MS m/z 573.4 [(M + H)+
+; calcd. for C26H30ClN6O3S2: 573.15].
+Procedure 5
+
+(Z)-3-(3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenoxy)propan-1-amine
+bis(2,2,2-trifluoroacetate) (16)
+To a solution of (Z)-tert-butyl (3-(3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenoxy)propyl)
+carbamate (43 mg, 75.03 mmol) in dichloromethane (2 mL) was added trifluoroacetic acid (2 mL). The mixture was stirred at room
+temperature for 30 minutes. LC/MS indicated reaction completion. The solvents were removed under reduced pressure to afford
+(Z)-3-(3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenoxy)propan-1-amine bis(2,2,2-trifluoroacetate)
+(49 mg, 69.89 mmol, 93.2 % yield). 1
+H NMR. ESI-MS m/z 473.3 [(M + H)+
+; calcd. for C21H22ClN6OS2: 473.10].
+Procedure 6
+
+(Z)-N-(3-(3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenoxy)propyl)
+acetamide (17)
+(Z)-3-chloro-4-((3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenol (5.8 mg, 13.95 mmol), tert-butyl (4-hydroxypropyl)carbamate
+(5.28 mg, 30.13 mmol), and triphenylphosphine (7.32 mg, 27.89 mmol) were dissolved in THF (46.48 ml,
+13.95 mmol). (E)-diisopropyl diazene-1,2-dicarboxylate (5.49 ml, 27.89 mmol) was added dropwise at 0C. The mixture was stirred
+at room temperature for 2 h. LC/MS indicated reaction completion. The reaction mixture was concentrated under reduced pressure.
+The residue was dissolved in dichloromethane (1.0 mL). TFA was added (1.0 mL) and the mixture was stirred for 30 minutes. LC/MS
+indicated full deprotection. The mixture was concentrated under reduced pressure. The residue was dissolved in pyridine (1.0 mL).
+Acetic anhydride (7 ml, 74.19 mmol) was added. The reaction mixture was stirred at room temperature for 20 min and concentrated
+under reduced pressure. The residue was purified using preparative HPLC, with a gradient of 10% acetonitrile in water (containing
+
+Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018 e10
+0.1% trifluoroacetic acid) to 100% in acetonitrile (containing 0.1% trifluoroacetic acid), to give (Z)-N-(3-(3-chloro-4-((3,4’-dimethyl-2’-
+(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)amino)phenoxy)propyl)acetamide 2,2,2-trifluoroacetate (5.23 mg, 8.31 mmol, 59.6 %
+yield). 1
+H NMR (400 MHz, DMSO-d6) d 9.33 (d, J = 1.5 Hz, 1H), 8.79 (d, J = 2.5 Hz, 1H), 8.74 (dd, J = 2.5, 1.5 Hz, 1H), 7.89 (br t,
+J = 5.4 Hz, 1H), 7.17 (br d, J = 8.7 Hz, 1H), 7.12 (d, J = 2.8 Hz, 1H), 6.94 (dd, J = 8.8, 2.8 Hz, 1H), 6.79 (br s, 1H), 3.99 (t, J =
+6.3 Hz, 2H), 3.34 (s, 3H), 3.17 (q, J = 6.8 Hz, 2H), 2.46 (s, 3H), 1.88 – 1.73 (m, 5H). ESI-MS m/z 515.3 [(M + H)+
+; calcd. for
+C23H24ClN6O2S2: 515.11].
+Procedure 7
+
+Loading of Thiazolimine onto Sepharose FastFlow Beads (18)
+Sepharose beads (8 mL of a 1:1 suspension in isopropanol) were separated in two 15 mL conical tubes (Falcon) and centrifuged at
+1200 rpm for 2 minutes. The supernatant was removed. DMSO (10 mL) was added to each tube. The beads were resuspended and
+the tubes were centrifuged as previously described. This centrifugation and re-suspension process was repeated twice, then once
+more with the exception that anhydrous DMSO was used to suspend the beads. The supernatant and excess beads were removed to
+adjust the volume to 2 mL of beads in each tube. Anhydrous DMSO (2.0 mL) was added to each tube, followed by a 50 mM DMSO
+solution of (Z)-4-(3-aminopropoxy)-2-chloro-N-(3,4’-dimethyl-2’-(pyrazin-2-yl)-[4,5’-bithiazol]-2(3H)-ylidene)aniline 2,2,2-trifluoroacetate
+(a total of 200.00 ml, 10 mmol). Triethylamine (60 ml, 430.48 mmol) was added to each tube and the beads were resuspended.
+The suspension was centrifuged at 1200 rpm for 2 minutes. An aliquot (20 mL) of the supernatant in each tube was diluted 1:1 with
+DMSO. The samples were analyzed using LC-MS to quantify the initial amount free amine in the reaction.
+The beads were stirred at room temperature via inversion overnight (16 h) then centrifuged. An LC/MS of the aliquot of the supernatants
+no longer showed the presence of free amine. Ethanolamine (200 ml, 3.31 mmol) was then added to each tube. The mixture
+was stirred at room temperature overnight. The beads were centrifuged. The supernatant was removed, and the beads were resuspended
+in anhydrous DMSO (10 mL) and centrifuged. The supernatant was removed and the beads were washed three times with
+anhydrous ethanol (10 mL portions). The recovered beads from both tubes were combined and suspended in anhydrous ethanol in a
+1:1 ratio.
+
+QUANTIFICATION AND STATISTICAL ANALYSIS
+
+Statisitical details can be found in the STAR Methods sub-section for each experiment, or in the Results section. Uncertainties are
+expressed as the standard error in the mean. For in vitro experiments, n represents the number of independent biological replicates;
+for in vivo experiments, n represents the number of animals. For correlations of potencies in biochemical/cell-based experiments,
+Spearman’s rank order correlation was used, with use of the t-test for calculation of p values (reported in the Results section).
+
+e11 Cell Chemical Biology 25, 705–717.e1–e11, June 21, 2018

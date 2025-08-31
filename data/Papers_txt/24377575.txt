@@ -1,0 +1,933 @@
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 6605
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.11.6605
+Tumour Suppressive Effects of WEE1 Silencing on Breast Cancer Cells
+
+Asian Pac J Cancer Prev, 14 (11), 6605-6611
+
+Introduction
+
+Breast cancer is the most common malignancy
+among women affecting more than a million women per
+year worldwide (Hortobagyi et al., 2005). Conventional
+treatments, including chemotherapy and radiotherapy,
+have been used as front line anti-cancer strategies in past
+decades. However, those therapies are involved with
+toxic side effects, as they do not discriminate effectively
+between normal and tumor cells. In contrast, biological
+therapies targeting tumor cells focus on molecular and
+cellular changes/pathways that are relatively specific
+to cancer cells. Such approaches may block molecules
+involved in signal transduction, or inhibit tumor cell
+invasion or angiogenesis. Some others may target specific
+cell cycle components to stop tumor cell proliferation or
+push them toward apoptosis (Schlotter et al., 2008). The
+
+1
+Shiraz Institute for Cancer Research, 2
+ Department of Immunology, School of Medicine, Shiraz University of Medical Sciences,
+Shiraz, Iran, 3
+Genetic Medicine Research Centre, Faculty of Medicine and Health Sciences, 4
+UPM-MAKNA Cancer Research
+Laboratory, Institute of Bioscience, 5
+Department of Microbiology, Faculty of Biotechnology and Biomolecular Sciences, Universiti
+Putra Malaysia, Selangor, Malaysia *For correspondence: jaberim@sums.ac.ir
+
+Abstract
+
+Background: WEE1 is a G2/M checkpoint regulator protein. Various studies have indicated that WEE1
+
+could be a good target for cancer therapy. The main aim of this study was to asssess the tumor suppressive
+potential of WEE1 silencing in two different breast cancer cell lines, MCF7 which carries the wild-type p53 and
+MDA-MB468 which contains a mutant type. Materials and Methods: After WEE1 knockdown with specific
+shRNAs downstream effects on cell viability and cell cycle progression were determined using MTT and flow
+cytometry analyses, respectively. Real-time PCR and Western blotting were conducted to assess the effect of
+WEE1 inhibition on the expression of apoptotic (p53) and anti-apoptotic (Bcl2) factors and also a growth marker
+(VEGF). Results: The results showed that WEE1 inhibition could cause a significant decrease in the viability of
+both MCF7 and MDA-MB-468 breast cancer cell lines by more than 50%. Interestingly, DNA content assays
+showed a significant increase in apoptotic cells following WEE1 silencing. WEE1 inhibition also induced upregulation
+of the apoptotic marker, p53, in breast cancer cells. A significant decrease in the expression of VEGF
+and Bcl-2 was observed following WEE1 inhibition in both cell lines. Conclusions: In concordance with previous
+studies, our data showed that WEE1 inhibition could induce G2 arrest abrogation and consequent cell death
+in breast cancer cells. Moreover, in this study, the observed interactions between the pro- and anti-apoptotic
+proteins and decrease in the angiogenesis marker expression confirm the susceptibility to apoptosis and validate
+the tumor suppressive effect of WEE1 inhibition in breast cancer cells. Interestingly, the levels of the sensitivity
+to WEE1 silencing in breast cancer cells, MCF7 and MDA-MB468, seem to be in concordance with the level of
+p53 expression.
+Keywords: WEE1 - Breast cancer - shRNA - viability inhibition - G2 arrest abrogation
+
+RESEARCH ARTICLE
+
+Tumour Suppressive Effects of WEE1 Gene Silencing in Breast
+Cancer Cells
+
+Naghmeh Ghiasi1,3, Mojtaba Habibagahi2
+, Rozita Rosli3,4, Abbas Ghaderi1,2
+,
+Khatijah Yusoff4,5, Ahmad Hosseini1
+, Syahrilnizam Abdullah3
+, Mansooreh
+Jaberipour1
+*
+
+development of an effective targeted therapy requires the
+identification of a good target, which plays a key role in
+cancer cell growth and survival but less affected in normal
+cells.
+Regulation of the cell cycle is frequently distorted
+in human cancer cells which leading to uncontrolled
+proliferation. When normal cells are subject to DNA
+damage, the checkpoints of cell cycle control induce a
+series of DNA repair mechanisms. Several studies have
+shown defective G1 checkpoint in many cancer cells,
+including breast cancer cells. Such cells depend to a great
+extent on the G2 checkpoint for DNA repair mechanisms
+(Dixon and Norbury, 2002; Foulkes et al., 2003). That is
+why abrogation of the G2 checkpoint could reduce the
+time needed to repair sub-lethal DNA damages, motivated
+premature mitotic entry and consequent apoptosis. In this
+way, targeting G2 repair pathway can be exploited as a
+Naghmeh Ghiasi et al
+
+6606 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+potential anti-cancer strategy in such tumor cells (Bucher
+and Britten, 2008).
+WEE1, a member of the tyrosine kinase family, is a
+G2/M checkpoint regulatory protein that plays a crucial
+role in controlling the timing of mitosis under normal
+circumstances. Activated WEE1 causes an inhibitory
+phosphorylation of CDC2/CDK1 on Tyr15, which
+prevents cells from entering mitosis in order to provide
+time for DNA repair (Igarashi et al., 1991; Wang et al.,
+2004). It has been shown that WEE1 gene silencing causes
+G2 arrest abrogation, premature termination DNA repair
+and cell death in Glioblastoma (Mir et al., 2010). It was
+also reported that inhibition of WEE1 could improve the
+effects of radiotherapy and chemotherapy to induce DNA
+damage in different cancer cells (Bridges et al., 2011;
+Carrassa et al., 2012). Suppression of WEE1 in leukemia
+cell lines or ex-vivo derived leukemia cells also made the
+cells more sensitive to conventional drugs (Tibes et al.,
+2012). Recently it was shown that pushing breast cancer
+cells through G2 arrest, which results from inhibition or
+loss of WEE1, may allow DNA damage to accumulate
+and induce programmed cell death in breast cancer cells
+(Murrow et al., 2010).
+Therefore, WEE1 could be a potential molecular target
+for breast cancer treatment. But the basis for this toxicity
+in different cell lines needs to be more clarified. Here, to
+do more investigation, we modeled to knockdown WEE1
+with specific shRNAs and assessed the downstream
+effects in the two different breast cancer cells, MCF7,
+which carries the wild-type p53 and MDA-MB-468 which
+contains a mutant type.
+
+Materials and Methods
+
+Cell lines and Cell culture
+MCF7 and MDA-MB-468 cell lines were purchased
+from the National Cell Bank of the Institute Pasteur of
+Iran. The cell lines were cultured in RPMI-1640 (SigmaAldrich,
+Honkong, China) medium supplemented with
+10% fetal bovine serum and contained 100 unit/ml
+penicillin and 100 µg/ml streptomycin under standard
+conditions (37°C incubator with 95% humidified air and
+5% CO2
+).
+
+shRNA plasmids and transfection
+Plasmids encoding specific shRNA against WEE1
+were purchased from Origene Company (Beijing, China).
+The sequence of each 29mer shRNA constructs and the
+target locations are listed in Table 1. In order to investigate
+the effect of WEE1 inhibition on breast cancer cells,
+MCF7 and MDA MB-468 cells were transfected with
+these plasmids separately and in combination (pooled).
+Briefly, 5×105
+ cells were transfected with 4µg of each
+WEE1 specific shRNA construct separately with 8µL of
+Lipofectamine 2000 (Invitrogen, Grand Island, New York,
+USA) in a 6 well plate according to the manufacturer’s
+protocol. For transfection with pooled shRNAs, 1µg of
+each construct was used in combination.
+
+Quantitative real-time PCR
+Quantification of gene expression at the mRNA
+
+level was performed using quantitative real-time PCR
+(quantitative RT-PCR). Total RNA was extracted from
+transfected cells using TRIzol reagent at different time
+points (24, 48, and 72h) following transfection. Reverse
+transcription to cDNA was performed using Revert AidTM
+HMinus First Strand cDNA Synthesis Kit (Fermentas,
+Helsinki, Finland). Real-Time PCR was carried out to
+determine the expression levels of target genes using
+specifically designed primers and probes (Table 2). Each
+sample was normalized based on β-actin expression.
+
+Western blotting
+Protein lysates from transfected (24, 48, 72 hours posttransfection)
+and untreated cells were prepared using RIPA
+lysis buffer (150 mMNaCl, 0.1% SDS, 50 nMTris pH 8.0,
+1% TritonX-100, 0.1% DOC). Total cell lysate from each
+condition (40µg) was loaded onto 6-12% polyacrylamide
+SDS gels and subjected to electrophoresis. Molecular
+weight markers (Fermentas, Helsinki, Finland) were run
+on each gel for a size reference. Proteins were transferred
+onto PVDF membranes (BioRad, Hercules, California,
+USA), blocked and probed with primary antibody. After
+overnight incubation in 4ºC, the membrane was washed
+3 times with wash buffer (PBS containing 0.05% Tween
+20) and then probed with secondary antibody for 2 h in
+4ºC. All primary and secondary antibodies were diluted
+in blocking buffer (1X PBS with 5 % skim milk) to the
+suggested concentrations in their datasheets. Protein
+bands were visualized using ECL (Thermo SIENTIFIC,
+Waltham, Massachusetts, USA) and XAR film (Kodak,
+Rochester, New York, USA). The following antibodies
+were used: β-actin (ab20272), WEE1 (ab37597), CDC2
+(phospho Y15) (ab47594), VEGF (ab46154), p53
+(ab1101), Bcl-2 (ab692), goat polyclonal secondary
+antibody to rabbit IgG-H&L (HRP-conjugated) (ab6721)
+and rabbit polyclonal secondary antibody to mouse IgGH&L
+(HRP-conjugated) (ab6728).
+
+Table 1. The Sequence of Each 29mer shRNA Construct
+and Its Target Location
+ShRNAs 29mer shRNA sequence Target location
+ShRNA1 GCTGGCGAACAAATGTAAACACGGAGATC 5’ UTR
+ShRNA 2 GCCAGTGTCCAGCCTAAGCACATCGGCTC 5’ UTR
+ShRNA 3 TGATGTGCGACAGACTCCTCAAGTGAATA CDS
+ShRNA 4 TGTTGCTTCATTCCTCAGGACAGTGTCGT CDS
+
+Table 2. Sequences of Primers and Probes Used
+
+Gene Sequence
+
+β-actin Forward GGCGGCACCACCATGTACCC
+Reverse GGAGGGGCCGGACTCGTCAT
+Probe CGGCGGCTCCATCCTGGCCTCGC
+WEE1 Forward GGCTCTGTTGATGAGCAGAACGCTT
+Reverse CTCAAGCCTCGGCGGCCAACTTGC
+Probe TGCTCATGCAGTGCTTGGACAGCATTCTCATGT
+VEGF Forward CACAGCCCGAGCCGGAGAG
+Reverse CAGCCTGGGACCACTTGGCA
+Probe GGCCCCGGTCGGGCCTCCGAAACCATG
+Bcl-2 Forward ACGGAGGCTGGGATGCCTTT
+Reverse CAAGCTCCCACCAGGGCCAA
+Probe TGTACGGCCCCAGCATGCGGCCTCTGT
+MDM2 Forward TCCTTTGATGAAAGCCTGGCTCTGT
+Reverse TCACCTGAATGTTCACTTACACCAGCA
+p53 Forward GGCCCACTTCACCGTACTAA
+Reverse GTGGTTTCAAGGCCAGATGT
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 6607
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.11.6605
+Tumour Suppressive Effects of WEE1 Silencing on Breast Cancer Cells
+at 1000 rpm for 5 min, after which, the supernatant was
+aspirated. The cells were re-suspended in 500 µl cold PBS
+and 5 µl of RNaseA (Fermentas, Helsinki, Finland) was
+added to each tube then staining was performed with 5
+µg/ml propidium iodide (PI) (P4170-100MG SIGMA).
+Analysis was done on the Becton Dickinson FACS Calibur
+using FLOWJO software.
+
+Statistical analysis
+The expression levels of target genes were determined
+from the ∆Ct and 2-∆Ct formulae. Data were analyzed
+with the Mann-Whitney U test to compare the means
+of cell viability percentages and also gene expression
+levels between transfected and untreated cells. All data
+are presented as mean±standard error. A p value of <0.05
+was considered statistically significant.
+
+Results
+
+WEE1 gene silencing
+The evaluated transfection efficiency using flow
+cytometry analysis was about 60% in MCF7 and MDAMB-468.
+Quantitative RT-PCR and western blot analysis
+showed a reduction in WEE1 expression at both mRNA
+and protein levels, 24h post-transfection by WEE1 specific
+shRNAs (Figure 1). WEE1 gene expression showed 16%,
+63%, 78%, 83% and 84% down regulation after shRNA1,
+2, 3, 4 and pooled shRNAs transfection, respectively, in
+MCF7 cells compared with control-shRNA (Figure 1A).
+In addition, in MDA-MB-468 cells WEE1 transcript levels
+were reduced to 12%, 43%, 66%, 79% and 81% in the
+conditions, respectively, compared to the control (Figure
+1B).
+The expression level of phosphorylated CDC2
+(p-CDC2) was considered to evaluate the efficiency of
+WEE1 silencing, since p-CDC2 is a major determinant of
+the DNA damage induced G2 arrest. In both breast cancer
+cells, WEE1 inhibition led to decreased level of p-CDC2
+(Figure 5). This data suggests that both MCF7 and MDAMB-468
+cell lines could be sensitive to the downstream
+effects of WEE1 inhibition.
+
+WEE1 inhibition decreased the viability of breast cancer
+cell lines
+To investigate the effect of WEE1 silencing on the
+viability of breast cancer cells, MTT assay was performed.
+The shRNA 2, 3, 4 indicated significant inhibitory effects
+on cell viability in comparison with the control shRNA,
+60 and 90 h post-transfection, in MCF7 (p≤0.02) and
+
+Figure 2. MTT Assay Analysis Following WEE1
+Silencing in Breast Cancer Cells. A) Transfected MCF7
+cells with shRNA 2, 3, 4 and pooled shRNAs show significant
+decrease (p≤0.02) in cell viability compared with control shRNA
+60 h post-transfection; B) Transfected MDA-MB-468 cells with
+shRNA 2, 3, 4 and pooled shRNAs show significant decrease
+(p≤0.05) in cell viability compared with control shRNA, 90 h
+post-transfection. The data is presented as mean±SEM *p<0.05,
+**p<0.02
+
+A	
+   B
+
+Cell viability assay
+The effect of WEE1 silencing on the viability of the
+breast cancer cell lines was determined by performing
+MTT assays. Cells (15×103
+) were seeded in 96 well
+plates overnight, transfected with 200ng of each shWEE1
+plasmid using 0.4µl Lipofectamine™ 2000 per well
+according to the manufacturer’s protocol. Media was
+replenished with 150µl of tetrazolium bromide solution (5
+mg/ml in complete media) at 24, 48, 60 and 96h following
+transfection. Plates were incubated in the dark at room
+temperature for 4h and subsequently, the supernatant was
+removed and the crystal products were dissolved in 150µl
+DMSO (Merck, Darmstadt, Germany). After an overnight
+incubation in the dark at room temperature, colorimetric
+evaluation was performed using a spectrophotometer at
+490 nm. All MTT measurements were done in replicates of
+4 wells and each experiment was carried out in triplicate.
+The absorbance at each condition was compared with the
+control and the percentage of viable cells was calculated
+based on the following formula: % cell growth=(OD490
+transfected/OD490 untreated)×100
+
+DNA content assay
+Cells (5×105
+) were plated in 6 well plates overnight
+and then transfected with combination of 4 specific shRNA
+plasmids against WEE1 (pooled) and the control plasmid
+separately using 8µl Lipofectamine™ 2000 for each well.
+They were trypsinized and washed with cold PBS after 24,
+48 and 60 h post-transfection. Then, 1 ml cold ethanol 75%
+was added to the cell plate drop by drop to fix them. The
+cells were incubated for10 min at -20ºC and centrifuged
+
+Figure 1. WEE1 Expression in Transfected Cells with Specific WEE1 shRNAs. A) Real time PCR analysis shows
+WEE1 expression decreased 24 h post-transfection in MCF7 (a1) and MDA-MB-468 (a2) cells; B) Western blot analysis also shows
+WEE1 efficiently silenced in MCF7 (b1) and MDA-MB-468 (b2) cell lines after transfection by different WEE1 shRNA constructs
+in comparison with control shRNA. The data is presented as mean±SEM *p<0.05
+
+β-‐Ac%n β-‐Ac%n
+
+WEE1 WEE1 Sh1 Sh2 Sh3 Sh4 Pool Sh-‐Control Untreated
+Sh1
+Sh2
+Sh3
+Sh4
+Pool
+Sh-‐Control
+Untreated
+
+A
+
+B
+
+a1 a2
+
+b1 b2
+
+β-‐Ac%n β-‐Ac%n
+
+WEE1 WEE1 Sh1 Sh2 Sh3 Sh4 Pool Sh-‐Control Untreated
+Sh1
+Sh2
+Sh3
+Sh4
+Pool
+Sh-‐Control
+Untreated
+
+A
+
+B
+
+a1 a2
+
+b1 b2
+
+β-‐Ac%n β-‐Ac%n
+
+WEE1 WEE1 Sh1 Sh2 Sh3 Sh4 Pool Sh-‐Control Untreated
+Sh1
+Sh2
+Sh3
+Sh4
+Pool
+Sh-‐Control
+Untreated
+
+A
+
+B
+
+a1 a2
+
+b1 b2
+
+A a1 a2 B b1 b2
+Naghmeh Ghiasi et al
+
+6608 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+MDA-MB-468 cells (p≤0.05), respectively. The highest
+percentage of viability reduction was 50% upon WEE1
+silencing using pooled shRNAs (Figure 2). WEE1
+shRNA1 had no significant effect on viability of both
+breast cancer cell lines which probably was not functional.
+
+WEE1 gene silencing induced cell-cycle arrest abrogation
+and cell death in breast cancer cells
+As WEE1 is a gatekeeper of the DNA damage-induced
+G2 arrest which controls mitotic entry of the cells, we
+investigated the effect of WEE1 inhibition on the cell
+cycle profile of breast cancer cell lines, MCF7 and MDAMB-468,
+using propidium iodide (PI) staining by FACS
+analysis (Figure 3A). Results summarized in Figure
+3B show that the population of cells with sub-G1 DNA
+content (which is indicative of apoptosis) increased up to
+2 fold 48 h and 60 h following WEE1 silencing in MCF7
+and MDA-MB-468 cells, respectively. The 50% reduction
+in the fraction of cells in G2 phase, indicate that WEE1
+silencing could significantly abrogate G2 arrest in both
+cell lines and push them toward premature mitosis.
+
+WEE1 inhibition induced up-regulation of p53 (apoptotic
+marker) and down-regulation of Bcl-2 (anti-apoptotic
+marker)
+p53 is a nuclear transcription factor which transactivates
+many target genes involved in the cell cycle arrest
+induction or apoptosis (Chen et al., 1990). We investigated
+the effect of WEE1 inhibition on the expression of p53 at
+the both mRNA (Figure 4) and protein (Figure 5) levels
+in transfected MCF7 and MDA-MB-468 cells. The results
+showed that the expression level of p53 significantly
+increased in transfected cells after 48 h (p≤0.05). In
+transfected MCF7 cells, p53 mRNA level increased up to
+23%, 38%, 61%, and 70% in shRNA 2, 3, 4 and pooled
+conditions, respectively, compared to the control (Figure 4,
+a1). The MDA-MB-468 cells showed 30%, 38%, and 41%
+increase in p53 mRNA level after shRNA 3, 4, and pooled
+transfection conditions, respectively, in comparison to
+control [Figure 4 (b1)]. ShRNA1 in both cell lines and
+shRNA 2 in MDA-MB-468 cells showed no significant
+effect on p53 transcripts level. These results indicate that
+
+WEE1 silencing could induce p53 accumulation, which
+could exert the pro-death function and eliminate cancer
+cells with serious DNA damage.
+MDM2 mRNA level (the major cellular antagonist of
+p53) was determined using real time PCR in both cell lines
+48 hours post-transfection. Transfected MCF7 cells with
+shRNA 2, 3, 4 and pooled of shRNAs showed 10%, 40%,
+22% and 42% down regulation in MDM2 gene expression
+level, respectively, in comparison to the control [Figure
+4 (a2)]. On the other hand, MDA-MB-468 cells did not
+show any significant change in MDM2 mRNA level posttransfection
+(Figure 4, b2).
+
+0
+
+25.0
+
+50.0
+
+75.0
+
+100.0
+
+Newly diagnosed without treatment 
+Newly diagnosed with treatment 
+Persistence or recurrence
+
+Remission
+None
+
+Chemotherapy
+Radiotherapy
+
+Concurrent chemoradiation
+
+10.3
+
+0
+
+12.8
+
+25.0 30.0
+20.3 6.3 10.1
+
+51.7
+75.0
+51.1
+
+30.0 31.3
+54.2
+46.8 56.3
+
+25.0 27.6 33.1 31.3 30.0 23.7
+38.0 31.3
+
+A	
+   B
+a1
+
+a2
+
+a3
+
+a4
+
+b1
+
+b2
+
+b3
+
+b4
+
+Figure 4. Real time PCR analysis 48 h post-transfection
+in MCF7 (A) and MDA-MB-468 (B) cell lines. The data
+is presented as mean±SEM *p< 0.05
+
+Figure 3. Cell cycle analysis after WEE1 silencing (A) DNA content histogram of MCF7 (a1) and MDA-MB-468
+(a2) cells, 48 h and 60 h post-transfection, respectively. (B) The percentage of cells in sub-G1-, G1- and G2-phase of cell
+cycle in MCF7 (b1) and MDA-MB-468 cells (b2). DNA content assay shows WEE1 silencing caused a significant increase in the
+fraction of cells with sub-G1 DNA content (which could be the indicative of apoptosis) and abrogation of G2 arrest in both cell
+lines. The graph represents the mean values ± SEM of 3 independent experiments *p< 0.05
+
+Untreated
+
+Sh-‐Control
+
+Pool	
+  of	
+  shRNAs
+
+DNA	
+  Content
+
+A	
+  
+a1	
+   a2
+
+Sub-G1
+G1
+G2
+0
+10
+20
+30
+40
+50 untreated
+Control-shRNA
+Pooled shRNAs
+«
+
+«
+
+«
+
+DNA Content
+
+Percentage (%)
+
+Sub-G1
+G1
+G2
+0
+10
+20
+30
+40 untreated
+Control-shRNA
+Pooled shRNAs
+«
+
+«
+
+DNA Content
+
+Percentage (%)
+
+b1	
+   b2
+B
+
+Sub-G1
+G1
+G2
+0
+10
+20
+30
+40
+50 untreated
+Control-shRNA
+Pooled shRNAs
+«
+
+«
+
+«
+
+DNA Content
+
+Percentage (%)
+
+Sub-G1
+G1
+G2
+0
+10
+20
+30
+40 untreated
+Control-shRNA
+Pooled shRNAs
+«
+
+«
+
+DNA Content
+
+Percentage (%)
+
+b1	
+   b2
+B
+
+Sub-G1
+G1
+G2
+0
+10
+20
+30
+40
+50 untreated
+Control-shRNA
+Pooled shRNAs
+«
+
+«
+
+«
+
+DNA Content
+
+Percentage (%)
+
+Sub-G1
+G1
+G2
+0
+10
+20
+30
+40 untreated
+Control-shRNA
+Pooled shRNAs
+«
+
+«
+
+DNA Content
+
+Percentage (%)
+
+b1	
+   b2
+B
+Untreated
+
+Sh-‐Control
+
+Pool	
+  of	
+  shRNAs
+
+DNA	
+  Content
+
+A	
+  
+a1	
+   a2
+Asian Pacific Journal of Cancer Prevention, Vol 14, 2013 6609
+
+DOI:http://dx.doi.org/10.7314/APJCP.2013.14.11.6605
+Tumour Suppressive Effects of WEE1 Silencing on Breast Cancer Cells
+
+Bcl-2 is unique amongst pro-oncogenes. Increased
+expression of Bcl-2 as an anti-apoptotic protein has been
+reported in many tumors (Kelly and Strasser,2011). In the
+current study, Bcl-2 decreased at both mRNA (Figure4)
+and protein (Figure 5) levels in breast cancer cell lines
+48 h following transfection with specific WEE1 shRNAs
+(p≤ 0.05). The gene expression level of Bcl-2 was downregulated
+18%, 30%, 22%, and 60% in transfected MCF7
+cells using shRNA 2, 3, 4, and pooled, respectively, in
+comparison with control shRNA (Figure 4, a3). MDAMB-468
+cells showed 25%, 26%, and 32% reduction in
+Bcl-2 mRNA level after 48 h transfection with shRNA 3,
+4, and pooled, respectively compared to control (Figure 4,
+b3). shRNA 2 in MDA-MB-468 cells and shRNA1 in the
+both cell lines, caused no significant change in the Bcl-2
+transcript level.
+
+Down-regulation of the angiogenesis marker, VEGF, upon
+WEE1 silencing
+VEGF is the most important angiogenesis marker and
+known to be a powerful growth factor playing a central role
+in promoting tumor angiogenesis via activation of VEGFR
+(Hirakawa et al., 2005). When examined whether WEE1
+inhibition could affect VEGF expression, a significant
+decrease in the expression of VEGF at both mRNA (Figure
+4) and protein (Figure 5) levels was observed after 48 h
+transfection with specific shRNAs (p≤0.05). The VEGF
+transcript levels were reduced 10%, 50%, 30%, and 70%
+in shRNA 2, 3, 4, and pooled conditions, respectively, in
+transfected MCF7 cell line (Figure 4, a4). It was downregulated
+by 26%, 25%, 40%, and 38%, respectively, in
+transfected MDA-MB-468 cells compared to the control
+(Figure 4, b4). shRNA1 in both cell lines, caused no
+significant change in the VEGF transcript level.
+
+Discussion
+
+In the present study; we investigated the effects
+of WEE1 silencing on breast cancer cell lines. In this
+regard, its effect on breast cancer cell’s viability was first
+determined by MTT assay. The results showed WEE1
+inhibition could significantly decrease the viability of
+the breast cancer cells. The observed viability reduction
+was more than 50 % upon WEE1 silencing using pooled
+shRNAs, 60 and 90 h post-transfection in MCF7 and
+MDA-MB-468, respectively, compared to the control
+shRNA (Figure 2). To investigate functional impact of
+WEE1 silencing on the cell cycle, we performed cell cycle
+DNA analysis following WEE1 silencing. As shown in
+
+Figure 3, WEE1 inhibition led to the abrogation of G2
+arrest, and significant increase in cells with sub-G1 DNA
+content (which could be the indicative of apoptosis).
+Our results are consistent with previous studies which
+reported the sensitivity to WEE1 inhibition in different
+breast cancer cell lines (Iorns et al., 2009; Murrow,
+Garimella et al., 2010). Although they have shown pushing
+breast cancer cells through G2 arrest, which results from
+inhibition or loss of WEE1, may allow DNA damage to
+accumulate and induce programmed cell death in breast
+cancer cells, but they have not clarified the basis for this
+toxicity in different cell lines. To do more investigation,
+we also examined the effect of WEE1 inhibition on the
+expression of apoptotic (p53) and anti-apoptotic (Bcl-2)
+and also growth marker (VEGF), in the two different
+breast cancer cells, MCF7, which carries the wild-type
+p53 and MDA-MB-468 which contains a mutant type.
+The results of real-time PCR and western blotting analysis
+showed that the expression of p53 significantly increased
+at both mRNA (Figure 4a1, b1) and protein (Figure 5)
+levels. In a recent study done by Mir et al (2010), WEE1
+inhibition in irradiated glioblastoma cells could abrogate
+G2-arrest and induce mitotic catastrophe and cell death.
+Mitotic catastrophe constitutes a special case of apoptosis
+and occurs in a p53-independent manner (Castedo et
+al., 2004). In our study, WEE1 inhibition induced G2
+arrest abrogation and caused a significant increase in the
+fraction of sub-G1 cells (Figure 3, A and B). However,
+based on these results, the induced cell death in the
+breast cancer cells might be as a result of pushing breast
+cancer cells toward premature mitosis and induction
+of mitotic catastrophe, but the observed significant
+increase in p53 level following WEE1 inhibition in
+breast cancer cells should be also noted. The maximum
+level of this increase was 70% and 41% in MCF7 and
+MDA-MB-468, respectively. p53 has a crucial role in
+the maintenance of genomic integrity and in the response
+to cellular DNA damage accumulation, can stimulate
+apoptosis (Amundson et al., 1998). MDA-MB-468 cells,
+which carry a mutant type of p53, can undergo a change
+to the pseudo-normal wild-type species under certain
+circumstances (Prasad and Church,1997; Mandal et al.,
+2007). Therefore, MDA-MB-468 cell line was used to
+study the status of p53 following WEE1 gene silencing.
+In normal conditions, p53 is expressed at an extremely
+low level (Vousden and Lu,2002). Accumulation of
+DNA damage is a p53-activating signal which leads to
+a marked increase of active p53 protein to exert its prodeath
+function. This activation occurs mainly through
+post-translational mechanisms that cause an increase in the
+protein half-life of p53 (Lacroix et al., 2006). Time course
+experiments which done by Murrow et al (2010) suggested
+that WEE1 inhibition causes DNA damage followed by
+caspase activation. The observed increase in the amount
+of p53 in this study following WEE1 silencing could be
+explained through this effect of WEE1 inhibition on DNA
+damage induction. On the other hand, pro-death activity
+of p53 could be inhibited by increase transcription from
+MDM2 promoter; MDM2 protein can bind to p53 and
+inactivates it through enhancing the association of p53
+with the proteasome (Lai et al., 2001). In the current study,
+
+β-‐Ac%n
+
+Sh1
+Sh2
+Sh3
+Sh4
+Pool
+Sh-‐Control
+Untreated
+
+	
+  p53
+
+	
+  Bcl2
+
+	
+  VEGF
+
+Sh
+Untreated
+-‐Control
+Sh1
+Sh2
+Sh3
+Sh4
+Pool
+A	
+   B
+
+β-‐Ac%n
+
+	
+  p53
+
+	
+  Bcl2
+
+	
+  VEGF
+
+CDC2-‐p CDC2-‐p
+
+Figure 5. Western blot analysis 48 h post-transfection
+in MCF7 (A) and MDA-MB-468 (B) cell lines.
+Naghmeh Ghiasi et al
+
+6610 Asian Pacific Journal of Cancer Prevention, Vol 14, 2013
+
+as shown in Figure 4 (a2 and b2), MDM2 mRNA levels
+decreased up to 40% in transfected MCF7 cells while no
+significant changes were observed in transfected MDAMB-468
+cells in comparison with the control.
+Interactions between pro- and anti-apoptotic proteins
+are critical for susceptibility to apoptosis. The antiapoptotic
+protein, Bcl-2, has been shown to effectively
+confer resistance to programmed cell death. High
+expression of Bcl-2 prevents cells from apoptosis caused
+by cellular stress and contributed to the DNA damage
+accumulation (Jiang and Milner, 2003). There are
+established evidences that activated p53 function has the
+capacity to repress the expression ratio of Bcl-2 (antiapoptotic
+protein) and also to up-regulate the pro-apoptotic
+marker, Bax, in favor of apoptosis (Porebska et al., 2006).
+Our results indicated that Bcl-2 is down-regulated up
+to 60% and 32% in MCF7 and MDA-MB-468 cells,
+respectively, upon WEE1 silencing [Figure 4 (a3 and
+b3)]. These outcomes also can suggest that loss of WEE1
+function might stimulate the pro-death activity of p53.
+In the present study, we also assessed the effect of
+WEE1 inhibition on VEGF expression. Interestingly,
+real-time PCR (Figure 4) and western blotting analysis
+(Figure 5) showed a significant decrease in VEGF
+expression in both breast censer cells. The maximum
+level of this reduction was 70% and 38% in MCF7 and
+MDA-MB-468 cells, respectively [Figure 4 (a4 and b4)].
+VEGF is a survival factor for tumor cells and plays a major
+role in the progression of different cancers, including
+breast cancer, by modulating tumor proliferation through
+its promotion of tumor angiogenesis. Different studies
+suggested a significant correlation between VEGF and p53
+expression, they described a regulatory role for the tumor
+suppressor gene p53 in angiogenesis by down-regulating
+VEGF mRNA level, as well as VEGF promoter activity
+(Mukhopadhyay et al., 1995; Fujisawa et al., 2003). It has
+been reported that p53 has a central inhibitory role on the
+transcriptional regulation of VEGF. They suggested that
+p53 makes a complex with the transcription factor sp1 and
+thereby inhibits the transcriptional activation of VEGF
+promoter in mammary carcinoma (Pal et al., 2001). Based
+on these available data, the observed decrease in the VEGF
+transcript level may be as a result of the increased p53
+protein expression following WEE1 inhibition. Notably,
+it has been reported that the absence of growth factors
+could be a major signal to trigger p53-dependent apoptosis
+following p53 activation and accumulation (Canman et
+al., 1995; Gottlieb and Oren,1998). However, additional
+studies will be necessary to clarify the exact signaling
+pathway.
+Although in this study, the tumor suppressive effects
+of WEE1 inhibition was observed in both breast cancer
+cell line, but MDA-MB-468 cells showed a considerable
+delay in cell viability reduction after WEE1 inhibition
+and the levels of observed decrease in the Bcl-2 and
+VEGF expression after WEE1 inhibition was also lower
+in compare to MCF7.
+It is important to note that p53 is haploinsufficient for
+tumor suppression. It is suggested that mere reduction
+in p53 dosage is sufficient to promote cancer formation
+(Gottlieb et al., 1997). In an interesting research,
+
+Vankatachalam et al. (2001) studied the p53 function for
+various parameter of growth control and stress response
+such as induction of G1 arrest or apoptosis, in p53+/+,
+p53+/-, p53-/- cells. They showed that although in p53-/-
+cells, growth control and stress response was completely
+eliminated, p53+/- cells showed the reduced parameters
+compared to their p53+/+ counterparts. They hypothesized
+that the reduced p53 dosage in p53+/- cells, provided a
+reduction in their ability to response to DNA damage
+(Venkatachalam et al., 2001). It could be suggested that,
+the lower p53 dosage might be expected to result in less
+efficient biological effects in MDA-MB-468 following
+WEE1 inhibition.
+In the present study, we documented the inhibitory
+effects of WEE1 gene knockdown onto breast cancer
+cell lines using shRNAs against WEE1. Our results are
+in concordance with the previous studies which showed
+WEE1 inhibition could decrease breast cancer cell’s
+viability; induce G2 arrest abrogation and an increase
+in apoptotic cells (sub-G1) following WEE1 silencing.
+Moreover, in this study, the observed interactions between
+the pro- and anti-apoptotic proteins and decrease in the
+angiogenesis marker expression confirm the susceptibility
+to cell death and validate the tumor suppressive effect
+of WEE1 inhibition in breast cancer cells. Although,
+the levels of the sensitivity to WEE1 silencing in breast
+cancer cells, MCF7 and MDA-MB-468, seem to be in
+concordance with the level of p53 expression.
+

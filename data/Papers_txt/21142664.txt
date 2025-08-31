@@ -1,0 +1,1373 @@
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ifon20
+
+Future Oncology
+
+ISSN: (Print) (Online) Journal homepage: www.tandfonline.com/journals/ifon20
+
+Exploration of Synthetic Lethal Interactions as
+Cancer Drug Targets
+
+Hendrik J Kuiken & Roderick L Beijersbergen
+
+To cite this article: Hendrik J Kuiken & Roderick L Beijersbergen (2010) Exploration of Synthetic
+Lethal Interactions as Cancer Drug Targets, Future Oncology, 6:11, 1789-1802, DOI: 10.2217/
+fon.10.131
+
+To link to this article: https://doi.org/10.2217/fon.10.131
+
+Published online: 09 Dec 2010.
+
+Submit your article to this journal
+
+Article views: 294
+
+View related articles
+ISSN 1479-6694
+
+part of
+
+Future Oncology
+
+10.2217/FON.10.131 © 2010 Future Medicine Ltd Future Oncol. (2010) 6(11), 1789–1802 1789
+
+The need for cancer-specific
+treatment strategies
+Tumor development is an evolutionary process
+driven by an accumulation of mutations allowing
+cells to acquire traits that can ultimately
+lead to a cancerous state [1]. As a consequence
+cancer is presented as a collection of diseases
+with high differential complexity that is not
+limited to differences in the location of origin
+and the stage of the disease, but extends to the
+genetic context and heterogeneity within one
+tumor type. Although surgery may be used to
+efficiently resect a primary tumor, it cannot clear
+the patient of metastatic cancer cells that might
+already reside at distant locations. Furthermore,
+the location of the primary tumor might not
+allow sufficient surgical margins to assure resection
+of infiltrating tumor cells in nearby tissue.
+Hence, in most instances, localized or systemic
+treatment with radiation, conventional cytotoxic
+or targeted molecular therapeutics is needed to
+prevent both recurrence of the primary tumor
+and metastasis.
+Even after 70 years of cancer drug discovery,
+most of the molecular therapeutics in use
+today share the same mode of action: interference
+with the DNA replication processes by
+causing DNA damage, or interference with cell
+division through (de)stabilization of microtubules
+[2]. Their effectiveness is based on two
+general cancer hallmarks: increased proliferation
+and impaired DNA damage checkpoints,
+
+both of which drive cancer cells to a certain
+death in the presence of additional damage.
+Despite their established effectiveness in a wide
+range of cancers, and some remarkable success
+stories, such as the use of cisplatin regimens in
+testicular cancer and combinations of conventional
+regimens in Hodgkin’s lymphoma, these
+conventional cytotoxic drugs generally have
+low therapeutic indices as they cause many side
+effects at the cost of therapeutic efficacy [3,4].
+Moreover, differences in sensitivity as well as
+intrinsic or acquired resistance to a treatment
+can cause patients with similar tumor types to
+display diverse response rates. For this reason,
+it is of equal importance to identify biomarkers
+that can predict the responsiveness to cancer
+therapeutics and which can guide personalized
+treatment strategies by selecting patients
+for specific therapies in order to develop novel
+cancer-specific therapeutics [5].
+To develop new cancer-specific treatments
+with an improved therapeutic index two strategies
+can be followed: first, targeting a cancerspecific
+molecule or process; or second, targeting
+a noncancer-specific molecule or process for
+which the cancer cell has acquired a qualitative
+or quantitative requirement [6]. A major challenge
+in cancer treatment is the presence of
+dormant cells within the tumor, which rarely or
+never divide during the treatment, and as such
+are not killed by conventional molecular therapeutics.
+This population of cells can include
+
+Exploration of synthetic lethal
+interactions as cancer drug targets
+
+Hendrik J Kuiken1 & Roderick L Beijersbergen†1
+1
+
+Division of Molecular Carcinogenesis, The Netherlands Cancer Institute, Plesmanlaan 121, 1066 CX
+Amsterdam, The Netherlands
+†
+
+Author for correspondence: Tel.: +31 20 512 1960 n Fax: +31 20 512 1954
+n r.beijersbergen@nki.nl
+
+In cancer research the quest continues to identify the Achilles’ heel of cancer.
+The ideal cancer drug targets are those that are essential in tumor cells but not
+in normal cells. Such targets are defined as cancer-specific vulnerabilities or as
+synthetic lethal interactions with cancer-specific genetic lesions. The search for
+synthetic lethal interactions focuses on proteins that are frequently mutated but
+elude pharmacological inhibition, for example, RAS, or proteins that are lost in
+cancer cells and by definition cannot be targeted, such as the tumor suppressor
+genes p53, APC and RB. These genetic interactions could yield alternative,
+effective targets for cancer treatment. However, it remains very difficult to predict
+or extrapolate these synthetic lethal interactions based on existing knowledge.
+With the discovery of RNAi, unbiased large-scale functional genomic screens for
+the identification of such targets have become possible potentially leading to
+major advances in the treatment of cancers. In this review we will discuss the
+biological basis of synthetic lethal interactions in relation to existing targeted
+therapeutics, lessons taught by targeted therapeutics already used in the clinic
+and the implementation of RNAi as tool to identify such synthetic lethal interactions.
+
+Keywords
+
+n chemical–genetic n network
+addiction n (non)oncogene
+addiction n RAS n RNAi
+n screen n shRNA n siRNA
+n synthetic lethal interaction
+
+For reprint orders, please contact: reprints@futuremedicine.com
+
+Review
+1790 Future Oncol. (2010) 6(11) future science group
+
+Review Kuiken & Beijersbergen
+
+cancer stem or initiator cells, which can give rise
+to a recurrent tumor or metastasis [7]. Hence,
+there is a need for targeted therapies, which are
+highly selective for cancer cells, and do not rely
+on cell division for their toxicity. Ideally such
+therapies should also target and kill dormant
+cancer cells.
+
+Targeted cancer therapies
+& network addiction
+Advances in molecular and cancer biology have
+led to rational drug-design strategies, resulting
+in the development of so-called targeted
+therapeutics [2,8]. Among these are therapeutics
+that target driving oncogenes, such as the
+successful small-molecule inhibitor, imatinib
+mesylate, which targets the BCR–ABL fusion
+protein, c-KIT and PDGF receptor in chronic
+myelogenous leukemia, gastrointestinal stromal
+tumors, and hypereosinophilic syndrome,
+respectively [9–11]. Other targeted therapeutics
+such as gefitinib, an inhibitor of mutant
+or overexpressed EGF receptor (EGFR) in
+non-small-cell lung cancers, and the antibody
+trastuzumab, which blocks signaling from
+overexpressed HER2/neu in breast cancers,
+have also shown success in the clinic [12–15].
+The mechanism of action for this class of targeted
+therapeutics is based on an acquired
+dependency on a specific oncogenic signaling
+pathway; a concept known as oncogene addiction
+[16]. The importance of sustained oncogenic
+signaling is also strengthened by the mechanisms
+by which tumor cells become resistant
+to these targeted therapeutics. In the case of
+acquired resistance to imatinib mesylate, these
+tumors harbor mutations in the kinase domain
+of BCR–ABL, or contain genomic amplification
+of the BCR–ABL locus [17]. However, the
+mechanisms of resistance do not always imply
+the target itself, but can also occur in downstream
+components of the signaling network.
+In the case of trastuzumab, mutations that
+result in the activation of the PI3K effector
+pathway, which is downstream of HER2/Neu,
+are a major determinant of resistance [18]. With
+respect to gefitinib, mutations or amplification
+of its target EGFR, but also amplification
+of MET confers resistance to gefitinib in
+non-small-cell lung cancers. However, MET
+is not downstream of HER2/Neu, but confers
+resistance to gefitinib by driving HER3-
+dependent activation of the PI3K pathway [19].
+This, and the observation that introduction of
+a constitutive active PI3K mutant is sufficient
+to confer resistance to gefitinib, indicates that
+
+these tumors have in fact become addicted to
+the activation of a specific molecular network,
+which is not mutated itself, but deregulated by
+distinct upstream genetic alterations [20–22].
+The observations that cancer cells can acquire
+a dependency for a genetic alteration led to the
+oncogenic shock model [23]. Oncogenic signaling
+induces both pro-apoptotic signals as well
+as prosurvival signals. Upon inactivation of the
+oncogenic signal, the pro-apoptotic signaling
+is sustained longer than the prosurvival signal,
+thereby inducing apoptosis. An alternative
+explanation is based on the hypothesis that (epi)
+genetic mutations can occur, which are dependent
+on a pre-existing genetic alteration. In
+the absence of this alteration, these mutations
+would be lethal for the cells. Consequently,
+reversion of the genetic alteration results in a
+lethal phenotype caused by unmasking a secondary
+mutation. Rather than (epi)genetic
+events, these secondary events can be an accumulation
+of cell intrinsic or extrinsic events
+only tolerated in the presence of the genetic
+alteration to which the cancer cell is addicted.
+The addiction to specific genetic alterations
+is not restricted to oncogenes, as reintroduction
+of tumor-suppressor genes such as P53,
+RB or APC also cause cancer cells to arrest or
+undergo apoptosis [16,24] This phenomenon
+is named tumor-suppressor hypersensitivity,
+illustrated by stabilization of wild-type p53 in
+human cancer cells. A large fraction of human
+tumors have retained expression of wild-type
+p53. However, the p53 pathway is inactivated
+due to other alterations, for example, increased
+expression of MDM2, a negative regulator of
+p53. Inhibition of the MDM2–p53 interaction
+by treatment with a MDM2 inhibitor known
+as Nutlin-3 results in stabilization of p53 and
+induction of apoptosis in cancer cells, but not
+in normal cells. The finding that knockdown of
+53BP1 can rescue cancer cells from Nutlin-3-
+mediated effects suggests that these cancer cells
+exhibit intrinsic DNA damage signals, which
+are masked by the absence of p53 function,
+but which upon restoration of p53 expression
+causes activation of the p53 pathway resulting
+in apoptosis [25].
+The mechanisms by which tumor cells can
+become resistant to targeted therapeutics have
+increased our understanding of mechanisms of
+drug action and the networks to which cancer
+cells are addicted. These detailed insights
+can guide the development of novel targeted
+therapeutics directed to crucial hubs in these
+networks. In addition to being more widely
+future science group www.futuremedicine.com 1791
+
+Exploration of synthetic lethal interactions as cancer drug targets Review
+
+applicable, such targets might be less prone to
+acquired resistance caused by additional mutations
+in upstream or downstream signaling molecules.
+These hubs might not be oncogenic by
+themselves and this form of dependency is often
+referred to as non-oncogene addiction [26]. The
+concepts of oncogene and non-oncogene addiction
+are extensively discussed by Sharma and
+Settleman, and Luo et al. [27,28]. Although the
+exploration of these concepts has just started,
+it is clear that these acquired cancer-specific
+dependencies are of great importance for the
+development of novel targeted therapeutics.
+
+Molecular buffering
+& genetic interactions
+As discussed above, the majority of the current
+targeted therapeutics are based on the concept of
+oncogene addiction. However, many oncogenes
+have proven to be difficult targets for smallmolecule
+inhibition. For example, activating
+mutations in the RAS oncogenes are frequent
+in human cancer, but so far targeting RAS
+itself has remained a major challenge [29]. An
+analogous situation applies to MYC, a transcription
+factor that upon mutation or amplification
+acts as an oncogene. It is clear that cancer cells
+driven by oncogenic RAS or MYC can become
+addicted to these oncogenic signaling pathways.
+This is clearly illustrated in mouse models
+with inducible expression of mutant RAS
+or MYC, where inactivation of their expression
+in established tumors resulted in tumor regression
+[30–32]. Inhibition of non-oncogenic molecules
+acting up- or down-stream of these oncogenes
+may provide an indirect mean of targeting
+these genetic lesions. However, the tumor cells’
+acquired dependencies are not restricted to the
+linear network downstream of the oncogenic
+alteration per se. Different molecular networks
+can control or buffer overlapping cellular processes,
+and perturbations in one network can
+result in an acquired dependency for another.
+Such possible interactions are difficult to predict
+from existing knowledge, and require unbiased
+approaches for their identification. Examples
+of these genetic interactions include synthetic
+lethal interactions. Two genes have a synthetic
+lethal interaction when cells die if they have
+both genes mutated but can survive if either
+gene alone is mutated [33,34]. The identification
+of negative genetic interactions associated with
+genetic alterations specific for human cancer
+can be exploited directly as drug targets or
+provide anchors for further investigation of
+cancer-specific vulnerabilities [35,36].
+
+One of the best characterized synthetic lethal
+interactions that is presently being investigated
+in clinical trials is between breast cancer
+(BRCA)1/2 and poly(ADP-ribose) polymerase
+(PARP)1 [37,38]. PARP1 is required for base excision
+repair, which is the preferred method of
+repairing modified bases in DNA prior to entry
+in S-phase. Loss of PARP1 function results in
+single-strand breaks, leading to the collapse of
+replication forks during S-phase. On the other
+hand, BRCA proteins are involved in homologous
+recombination repair and can resolve these
+single-strand breaks during S-phase by using sister
+chromatids as templates. In the absence of
+both PARP1 and BRCA1/2, error-prone repair
+mechanisms take over, which eventually lead to
+an accumulation of DNA damage resulting in cell
+death. Recently, a synthetic interaction between
+loss of PTEN and PARP was observed [39]. Cells
+that have lost expression of PTEN also lost the
+expression of RAD51, which like BRCA1/2 is
+involved in homologous recombination repair.
+The enhanced sensitivity to PARP inhibitors
+could be restored by introduction of either
+PTEN or RAD51. These are clear examples
+of two DNA damage repair networks having a
+genetic interaction. The BRCA1/2 interaction
+with PARP1 and other examples of synthetic
+lethal interactions based on DNA repair and
+checkpoint networks, including p53–ATM and
+p53–MK2, are reviewed by Rouleau et al. and
+Reinhardt et al. [40,41].
+Most insights into genetic interactions
+have been obtained from the model organism
+Saccharomyces cerevisiae, in which a genome-wide
+deletion collection has been generated that can
+be used with high-throughput screening techniques
+[42]. An extensive review on genetic
+interactions and large-scale studies in model
+organisms is provided by Dixon et al. [43]. To
+identify genetic interactions in human cancer
+cells, one can take two approaches: an educated
+approach based on current knowledge of signaling
+pathways and data from model organisms,
+or a completely unbiased approach by means
+of functional genomic screening approaches
+with large gene sets. The first approach is
+based upon the assumption that the synthetic
+interactions are conserved during evolution.
+In addition to S. cerevisiae, large-scale genetic
+interaction screens have been performed in
+Schizosaccharomyces pombe and Caenorhabditis
+elegans, allowing assessment of the conservation
+of such networks between different species [43].
+Comparative analysis of genetic interaction
+networks between S. pombe and S. cerevisiae
+1792 Future Oncol. (2010) 6(11) future science group
+
+Review Kuiken & Beijersbergen
+
+show that approximately 30% of the negative
+interactions are conserved [44]. However, it was
+shown that a very small percentage (~5%) of
+the genetic interactions are conserved between
+C. elegans and yeast [45,46]. A possible explanation
+for the higher conservation between S. cerevisiae
+and S. pombe compared with C. elegans is given
+by Dixon et al. [43]. Cellular-level redundancy in
+multicellular organisms might mask the detection
+of certain genetic interactions, which manifest
+themselves in a subtle way and require alternative
+phenotypic readouts. Yet another plausible
+explanation is the lack of selective pressure on
+synthetic genetic interactions and as a consequence
+low conservation [45,46]. During evolution,
+additional redundancies for a certain process
+can be acquired resulting in the loss of the
+genetic interaction without affecting the genes
+that displayed that interaction. One obvious
+example is that of gene duplication. Questions
+arising from these observations are: how much
+rewiring of such genetic interactions can occur
+in human cancer, and what are the implications
+for acquired resistance to cancer therapies
+based on such genetic interactions? With regard
+to the search for novel cancer-specific targets,
+the low conservation of synthetic genetic interactions
+between species directs us to the second
+approach, unbiased functional genomic screens
+to identify synthetic genetic interactions with
+genetic alterations in human cancer.
+
+RNAi as a tool for functional genomics
+& identification of synthetic
+lethal interactions
+Although the phenomenon of RNAi was first
+described in plants in 1990, the discovery of this
+mechanism in C. elegans stands at the basis of
+loss-of-function genomics in higher organisms,
+rewarded with the Nobel price in 2006 [47,48].
+RNAi is the mechanism whereby introduction
+of dsRNA into a cell results in the degradation
+of a mRNA product that shares high complementarity
+with the dsRNA. Since its discovery,
+advances in the generation of tools that mediate
+RNAi have resulted in an extensive set of
+genome-wide RNAi libraries [49]. These libraries
+can be divided into two major classes: synthetic
+siRNA and vector-based shRNA libraries
+(Figure 1). The siRNA libraries can be subdivided
+into those derived from algorithm-driven design
+and chemical synthesis, and those which are
+enzymatically generated by RNaseIII digestion
+of dsRNA fragments of approximately 500 bp
+(endoribonuclease-prepared siRNAs). The wide
+availability and ease of use of synthetic siRNAs
+
+have led to their extensive application in many
+studies [50]. Although knockdown efficiency of
+siRNAs is high, the knockdown is transient,
+restricting the use of siRNAs to short-term
+experiments. In addition, testing siRNAs across
+multiple cell lines can be challenging, as it may
+require optimization of transfection conditions
+for every individual cell line.
+The development of vector systems expressing
+shRNAs, which are processed in the cell to
+siRNAs, have provided a tool for long-term experiments
+[51,52]. These libraries can be subdivided by
+the vector used (e.g., retroviral or lentiviral) or by
+the shRNA design (i.e., a shRNA or the shRNA
+embedded in a miRNA structure [shRNAmiR])
+[49]. The introduction of the shRNA
+constructs through viral infection makes these
+libraries more suitable for testing in large panels
+of different cell lines. Similar to siRNA libraries,
+shRNA libraries can be used for screens in a
+single-well format (Figure 1). However, in contrast
+to siRNA libraries, shRNA libraries can be used
+in a pooled format (Figure 1). In this approach large
+numbers of shRNA vectors are combined and
+used to infect a single, large population of cells.
+After selection, the integrated shRNA cassettes
+can be recovered by PCR on genomic DNA and
+the relative abundance of each individual shRNA
+can be determined by hybridization to DNA
+microarrays or deep sequencing [53]. The barcode
+technology has been applied successfully for positive
+selection screens and, to a lesser extent, in
+negative selection screens. The latter approach
+can be affected by the under-representation of
+individual vectors due to library construction and
+virus production, the limits of the detection system
+to measure highly complex populations, or
+due to cross-hybridization and background issues
+associated with barcode arrays. However, owing
+to technical advances in the design and generation
+of the shRNAs and barcodes, the pooledformat
+approach has recently found its entry into
+negative selection screens [54,55].
+Both RNAi platforms, as reviewed by
+Mullenders and Bernards, have led to the identification
+of novel modulators in signaling pathways,
+yielded insight into complex biological
+processes and will undoubtedly contribute to the
+discovery of potential cancer drug targets [50].
+Several screens have selected genes based on
+their effects on proliferation or the induction of
+apoptosis. When such screens are performed in
+a pair of cell lines, one of which carries a specific
+genetic alteration, it is possible to identify
+genes that have a synthetic lethal interaction
+with that specific genetic alteration. Several
+future science group www.futuremedicine.com 1793
+
+Exploration of synthetic lethal interactions as cancer drug targets Review
+
+labs have applied such screening systems, and
+those that have been completed are discussed
+below (Table 1). Although these screens have been
+productive and initial results are encouraging,
+we likely have only seen the beginning of the
+potential outcomes.
+
+RNAi screening systems & models for the
+identification of genetic interactions
+One of the first genetic interaction siRNA
+screens in human cells was aimed at the identification
+of genes that, upon knockdown, selectively
+sensitize MYC overexpressing cells to a
+DR5-agonistic antibody [56]. DR5 is one of
+the five receptors that can bind TNF-related
+apoptosis-inducing ligand (TRAIL) and like
+TRAIL, DR5-agonistic antibodies can stimulate
+DR5-mediated apoptotic signaling. The
+cytokine TRAIL and DR5-agonistic antibodies
+have received much attention as potential cancer
+therapeutics, and several tumors, including those
+with high expression of MYC, display increased
+sensitivity [57]. Rottmann et al. screened a library
+of 624 siRNAs and identified 13 hits including
+GSK3b that upon knockdown differentially
+sensitizes a MYC overexpressing cell line [56].
+It was previously shown that GSK3b phosphorylates
+MYC resulting in SCFFBW7-mediated
+
+ubiquitination and subsequent proteasomal
+degradation [58]. As a consequence, knockdown
+of either GSK3b or FBW7 results in increased
+levels of MYC and its downstream target DR5.
+Because DR5 is required in a dose-dependent
+manner for DR5-agonistic antibody-mediated
+apoptosis, high expression or stabilization of
+MYC results in increased sensitivity. Hence,
+MYC and proteins controlling the levels of MYC
+might act as indirect markers for the treatment
+response to TRAIL and DR5-agonistic antibodies.
+The use of GSK3b inhibitors could
+be beneficial in combination with TRAIL or
+DR5-agonistic antibody therapies. The question
+remains whether GSK3b inhibition by
+itself induces apoptosis in MYC overexpressing
+cells, as high levels of MYC are associated with
+apoptosis. If this is not the case this would suggest
+that the genetic interaction between GSK3b
+and MYC is restricted to a context wherein the
+DR5 receptor is sufficiently activated.
+Another RNAi screen was designed to identify
+lethal genes in specific cell types. Ngo
+et al. used an inducible shRNA library targeting
+approximately 700 genes selected on their
+relevance to cancer cell proliferation and survival
+[59]. Using this library, they identified
+several genes that are specifically required for
+
+Library
+
+Format
+
+Screening model
+
+Readout
+
+Synthetic siRNAs
+
+Single well
+
+Cell viability and/or cell death Relative abundance and depletion
+
+Pooled
+
+Vector-based shRNAs
+
+Isogenic cell lines
+
+Cell line panel based
+on distinct tumor types
+
+Cell line panel based
+on mutational status
+
+Figure 1. Screening systems and models for cancer-specific vurnerabilities. Advances in the
+field of RNAi have led to the generation of several distinct siRNA and shRNA libraries, which can be
+used in single-well, or in the case of shRNA libraries, in either single-well or pooled format screens.
+To identify cancer-specific vulnerabilities, three strategies can be taken: a RNAi screen in isogenic cell
+lines, a panel of cell lines based on their tumor type or a panel of cell lines for which the mutation
+status for a given gene is known. When the single-well approach is taken, the effect of the siRNA or
+shRNA on the viability of the cell can be measured with either cell viability or cell death assays.
+In the case of a pooled shRNA library approach, a microarray barcode or deep-sequencing readout
+can be used for measuring the negative selection against a shRNA over time.
+1794 Future Oncol. (2010) 6(11) future science group
+
+Review Kuiken & Beijersbergen
+
+the survival of activated B-cell-like diffuse
+large B-cell lymphoma (DLBCL) cells, but
+not germinal center B-cell-like DLBCL cells.
+Among the hits were genes involved in NF-kB
+signaling, including CARD11. The identification
+of NF-kB components validates the screen
+as it was previously shown that DLBCL cells
+are dependent on NF-kB activation for their
+survival [60]. Similarly, Shaffer et al., using an
+inducible shNRA library, screened for genes
+that, upon knockdown, selectively kill myeloma
+cell lines but not lymphoma cell lines [61]. They
+validated IRF4 as a crucial transcription factor
+for myeloma cells. IRF4 controls the expression
+of a large number of genes including MYC,
+which implied that the selective sensitivity to
+IRF4 knockdown can be the result of changes
+in expression of one of many, or even a combination
+of target genes. Hence, additional
+research will be required to fully understand the
+mechanism behind this selectivity. Despite the
+fact that these screening models wherein two
+or more tumor types are used as a query panel
+do not allow pinpointing of the gene associated
+with the genetic interaction, the genes identified
+can be of great interest as tumor-type-specific
+drug targets.
+Naik et al. took a different approach to identify
+synthetic lethal interactions [62]. They tested
+a siRNA collection targeting kinases for genes
+involved in the WNT pathway as measured by
+a WNT/b-catenin luciferase reporter. As a fraction
+of colon cancers have constitutive activation
+of the WNT pathway, and have become
+addicted to this pathway activation, the identification
+of genes that upon knockdown reduce the
+WNT/b-catenin luciferase reporter activity represent
+interesting drug targets. This screen led to
+the identification of five genes that upon knockdown
+reduced the WNT/b-catenin reporter
+activity, including VEGFR1. Follow-up experiments
+showed that knockdown of VEGFR1 is
+only toxic to colon cancer cell lines, which have
+constitutive activation of, and are addicted to the
+WNT pathway. Knockdown of VEGFR1 results
+in decreased phophorylation of b-catenin, but
+does not affect the stability or nuclear accumulation
+of b-catenin. Thus VEGFR1-mediated
+direct or indirect phosphorylation of b-catenin
+might be required for b-catenin-dependent transcription.
+Although the approach taken in this
+screen led to the identification of a specific vulnerability
+to VEGFR1 inhibition for cells with an
+addiction to an activated WNT/b-catenin pathway,
+it was restricted to the identification of genes
+Table 1. RNAi screens for synthetic lethal interactions with genetic alterations in human cancer.
+Author
+directly involved in b-catenin-mediated activity
+
+Library type Library size Targets
+
+Assay
+
+System
+
+Hits (n) Validated hits
+
+Ref.
+
+Rottmann et al.
+(2005)
+
+siRNA
+
+624
+
+Kinases
+
+Single well 
+(cell viability)
+MYC isogenic cell lines
+
+13
+
+1 (GSK3b)
+
+[56]
+
+Ngo et al.
+(2006)
+
+Inducible shRNA 683
+
+NA
+
+Barcode
+
+B-cell-like DLBCL vs germinal 
+center B-cell-like DLBCL
+
+15
+
+1 (CARD11)
+
+[59]
+
+Shaffer et al.
+(2008)
+
+Inducible shRNA ~2500
+
+Genome wide
+
+Barcode
+
+Myeloma vs lymphoma
+
+NA
+
+1 (IRF4)
+
+[61]
+
+Naik et al.
+(2009)
+
+siRNA
+
+691
+
+Kinases
+
+Reporter
+
+WNT/b-cat luciferase reporter 
+followed by validation in 
+WNT/b-cat addicted cell lines
+11
+
+5 (Cdc2L1, Lmtk3, Pank2, ErbB3 
+and VEGFR)
+
+[62]
+
+Bommi-Reddy 
+et al. (2008)
+shRNA
+
+88
+
+Kinases
+
+Single well 
+(cell viability)
+Two pairs of VHL isogenic 
+cell lines
+
+28
+
+5 (CDK6, HER4, IRR, MAP2K1 
+and MET)
+
+[63]
+
+Sarthy et al.
+(2007)
+
+siRNA ~4000
+
+Genome wide
+
+Single well 
+(apoptosis)
+KRAS isogenic cell lines
+
+3
+
+1 (Survivin)
+
+[64]
+
+Luo et al.
+(2009)
+
+shRNA
+
+32293
+
+Genome wide
+
+Barcode
+
+Two pairs of KRAS isogenic 
+cell lines
+
+50
+
+13 (THOC1, DHX8, USP39, 
+Ubc9, COPS3, COPS4, hMis18
+a,
+
+CASC5, borealin, SMC4, PLK1, 
+APC1 and APC4)
+
+[65]
+
+Scholl et al.
+(2009)
+
+shRNA
+
+1011
+
+Kinases, phosphatases and 
+cancer-related genes
+
+Single well 
+(cell viability)
+Panel of tumor cell lines with 
+known RAS status
+
+1
+
+1 (STK33)
+
+[67]
+
+Barbie et al.
+(2009)
+
+shRNA
+
+957
+
+Kinases, phosphatases and 
+cancer-related genes
+
+Single well 
+(cell viability)
+Panel of tumor cell lines with 
+known RAS status
+
+45
+
+1 (TBK1)
+
+[68]
+
+DLBCL: Diffuse large B-cell lymphoma; KRAS: Kirsten ras protein; VHL: Von Hippel–Lindau.
+future science group www.futuremedicine.com 1795
+
+Exploration of synthetic lethal interactions as cancer drug targets Review
+
+of an artificial reporter, and did not allow identification
+of vulnerabilities connected to altered
+expression of genes as a consequence of activation
+of the WNT/b-catenin pathway. Nevertheless,
+VEGFR1 might be an interesting candidate
+for the treatment of WNT/b-catenin-addicted
+colon cancers.
+Bommi-Reddy et al. performed a true synthetic
+genetic interaction screen for genes that specifically
+affect the viability of cells that have lost the
+expression of Von Hippel–Lindau (VHL) [63].
+They infected two pairs of isogenic cell lines with
+100 shRNAs targeting 88 kinases, representing
+a preselected set based on viability screens executed
+in HeLa and HEK293 cell lines. One of
+the five validated hits was CDK6. It was shown
+that VHL-/- cells are more sensitive to a CDK4/6
+inhibitor than the wild-type VHL reconstituted
+cell lines. Although the mechanism behind these
+synthetic genetic interactions remains to be elucidated,
+these observations do suggest that patients
+with clear cell renal carcinomas that have frequently
+inactivated VHL might benefit from
+targeted molecular therapeutics for CDK6.
+
+RNAi screens for synthetic lethal
+interactions with oncogenic RAS
+Several groups have undertaken RNAi screens
+aimed at the identification of synthetic genetic
+interactions with oncogenic RAS, a protein that
+until now has escaped direct inhibition by small
+molecules. Sarthy et al. screened a siRNA library
+targeting 4000 genes for selective toxicity with
+mutant KRAS and found that KRAS cells are
+more sensitive to depletion of survivin. They
+showed that survivin knockdown results in a
+G2/M arrest followed by resynthesis of DNA
+and polyploidy due to a failure to undergo cell
+division [64]. In another effort, Luo et al. screened
+a genome-wide shRNA library in a pooled format
+and identified several genes, which upon
+knockdown show selective growth impairment
+for KRAS-mutant cells [65]. These genes included
+components of the anaphase promoting complex
+(APC/C) and PLK1, suggesting an increased
+dependency of KRAS-mutant cells on mitotic
+checkpoints and progression. Interestingly, these
+KRAS-mutant cell lines are also more sensitive to
+treatment with a PLK1 inhibitor. Furthermore,
+xenograft models in mice using these cell lines
+show regression upon treatment with the PLK1
+inhibitor. This and many other studies suggest
+that PLK1 inhibitors might be effective in treating
+a broad range of tumors. A comprehensive
+discussion on PLK1 and the therapeutic potential
+of PLK1 inhibitors is given by Strebhardt and
+
+Ullrich [66]. Although these KRAS-mutant cells
+show an increased mitotic index and a higher
+fraction of lagging chromosomes, the mechanism
+behind the mitotic-specific vulnerabilities
+is still unclear. PLK1 inhibitors are currently
+in clinical trials and it will be very interesting
+to see whether RAS tumors show an increased
+sensitivity in a clinical setting.
+The single-well shRNA screen described
+by Scholl et al. led to the identification of
+STK33 [67]. The oncogenic KRAS-dependent
+effects were tested in a large panel of tumor cell
+lines from different origins and showed that the
+dependency on STK33 correlated with addiction
+to oncogenic KRAS expression. In addition to a
+reduction of cell viability in vitro under adherent
+conditions, knockdown of STK33 reduced the
+number of colonies in soft agar, and impaired
+tumor growth of KRAS-mutant cell lines in
+mouse xenograft experiments. Knockdown
+of STK33 causes reduction of the levels of
+phosphorylated S6K1, resulting in decreased
+phosphorylation of S6K1’s target BAD. As a
+consequence, BAD is stabilized and promotes
+apoptosis. Knockdown of BAD rescues cells
+from apoptosis induced by STK33 knockdown,
+indicating that BAD-mediated apoptosis is
+required for the STK33 dependency. However,
+BAD knockdown cannot rescue KRAS-addicted
+cells from KRAS knockdown suggesting that,
+in addition to BAD-mediated apoptosis, loss of
+mutant KRAS expression results in additional,
+BAD-independent, pro-apoptotic signaling.
+Finally, Barbie et al. performed a single-well
+shRNA screen in 19 different cell lines to identify
+synthetic genetic interactions with oncogenic
+KRAS [68]. They identified a synthetic
+lethal interaction between KRAS and TBK1,
+and were able to validate this interaction in an
+isogenic cell line panel and an independent panel
+of lung cancer cell lines. The impaired growth
+upon knockdown of TBK1 in this cell line panel
+correlated with the lethal effect of KRAS knockdown,
+indicating that the dependency on TBK1
+is correlated with addiction to oncogenic KRAS.
+Analysis of the expression profiles derived from
+the isogenic cell lines suggested that oncogenic
+KRAS activates the NF-kB pathway resulting
+in a prosurvival signal. This is concordant
+with the observation that upon knockdown of
+TBK1, total and nuclear levels of the NF-kB
+family member c-Rel decrease, as well as the
+c-Rel target BCL-XL, an antiapoptotic protein.
+Interestingly, in the absence of KRAS addiction,
+knockdown of either STK33 or TBK1
+does not result in a synthetic lethal phenotype.
+1796 Future Oncol. (2010) 6(11) future science group
+
+Review Kuiken & Beijersbergen
+
+Similar to the WNT/b-catenin and VEGFR1
+interaction, the observations by Scholl et al. and
+Barbie et al. suggest that STK33 and TBK1 do
+not have a direct genetic interaction with KRAS,
+but are linked to characteristics associated with
+the addiction to oncogenic KRAS signaling.
+Together with a biomarker that classifies tumors
+that are addicted to oncogenic KRAS signaling,
+STK33, TBK1 and similar genes can be
+exploited therapeutically.
+
+Lessons learned & challenges ahead
+It has become clear that many approaches can be
+taken to screen for novel drug targets. Whether
+the screen is aimed at the identification of synthetic
+lethal interactions or genes for which a
+differential dependency exists between tumor
+types, they will undoubtedly provide us with
+novel candidate drug targets for cancer therapy.
+Although it is less effort to screen a pair of isogenic
+cell lines, synthetic genetic interactions
+that show a high degree of context independency
+are more likely to be clinically relevant. On the
+other hand, synthetic lethal interactions identified
+based on a number of cell lines should also
+be validated in a relevant isogenic cell line pair
+to exclude the effects of confounding mutations
+and adaptations contributing to the synthetic
+genetic interaction. Technical advances related
+to screening with pooled shRNA libraries, particularly
+those allowing for hit selection based
+on negative selection, can be used to identify
+genes that, upon knockdown, are only lethal in
+a specific subset out of a large and diverse set
+of different cancer cell lines [54,55]. Although
+several screens discussed above have yielded
+interesting candidates for cancer-specific drug
+therapy, additional research is required to fully
+understand the molecular basis of the contextspecific
+dependency. Of specific interest are the
+screens that identified genes for which a dependency
+exists that correlate with the addiction of
+a cell to a certain oncogenic lesion (e.g., STK33
+with KRAS). Further research will undoubtedly
+increase our understanding of these network
+addictions, and provide an explanation
+for the fact that only a fraction of tumor cell
+lines harboring such genetic lesions displays
+an addiction.
+It is clear from published work that the percentage
+of hits that hold true in a larger panel
+of cell lines can be quite low. Despite the fact
+that this approach will help the researcher to
+narrow down the hit list to the most relevant
+candidates to pursue, he or she might falsely discard
+a relevant hit. Controlling for comparable
+
+knockdown efficiency when testing in multiple
+cell lines might reduce this risk, but will also
+make the validation more laborious.
+Many of the RNAi-based screen publications
+contain follow-up on hits that have previously
+been linked with the phenotype or pathway
+of interest. When hit lists are long, pathway
+analyses or queries in interaction databases are
+frequently performed to narrow down the list
+to a manageable number of hits for which hypotheses
+can be raised and tested with a higher
+confidence of success than would be applicable
+to hits for which no link has been established yet,
+or for which no biological information is available.
+It is questionable whether this undermines
+the unbiased screening approach as it implicates
+neglecting true novel hits. One way to prevent
+this is by performing high-throughput follow-up
+studies with secondary assays to pinpoint the
+approximate level of action for signaling pathways.
+Another approach is to combine the analysis
+with that of clinical data, including therapy
+responses. This will lead to a more rapid identification
+of those hits that are clinically relevant
+and can be explored for therapy.
+Despite ample examples of RNAi screens in
+identifying novel targets, novel biomarkers, and
+detailed insights in complex molecular networks
+controlling essential aspects of tumor cell behavior
+and survival, it is clear that the elaborate validation
+and follow-up of RNAi screening results
+still pose a significant barrier in the interpretation
+of the genes identified. The results of RNAi
+experiments can be influenced by the alteration
+of the expression of genes other than the intended
+target, known as off-target effects. As a consequence,
+multiple individual siRNA or shRNA
+sequences are required to display the same phenotype.
+In addition, one should confirm the knockdown
+phenotype correlation for the individual
+reagents and where possible rescue experiments
+should be performed with cDNA sequences that
+are resistant to the RNAi effects. These validation
+steps are both complicated and time consuming
+and as a result most screening efforts have
+only validated a very limited set of genes rather
+than generating completely validated gene lists.
+Technical advances in the field of RNAi reagents
+that reduce off-target effects and the generation of
+matching RNAi-resistant cDNA rescue libraries
+might bring some change to this.
+Most of the RNAi screens and follow-up
+experiments are performed in cell lines grown as
+a monolayer in vitro. The extrapolation of these
+results to an in vivo situation and even clinical
+responses remains to be investigated. Several
+future science group www.futuremedicine.com 1797
+
+Exploration of synthetic lethal interactions as cancer drug targets Review
+
+studies have addressed this issue, in part, for the
+identified hits, including the studies of Scholl
+et al. and Luo et al. [65,67]. Luo et al. confirmed
+the dependency on PLK1 in a mouse xenograft
+model with a PLK1 inhibitor rather than PLK1
+knockdown [65]. It is worth noting that most of
+the small molecules act by impairing a protein’s
+function and therefore do not necessary mimic
+the effect of reduced protein levels upon RNAimediated
+knockdown. However, PLK1 inhibitors
+are currently being investigated in the clinic,
+and this might provide clinical confirmation of
+this RAS-specific vulnerability.
+
+RNAi drug enhancer, resistance
+& chemical genetic screens
+RNAi screening technology can also be applied
+to identify genes that upon knockdown sensitize
+cells to a specific cancer drug. Such genes
+can be used as targets in combination therapy,
+but can also act as potential biomarkers of drug
+response. Drug-enhancer screens have been
+performed using conventional cytotoxic drugs,
+including paclitaxel, gemcitabine, cisplatin,
+doxorubicin and fluorouracil [69–74]. However,
+there are also some examples of RNAi screens for
+drug-enhancing effects with targeted molecular
+therapeutics, such as TRAIL and PARP inhibitors
+[75,76]. Turner et al. performed a siRNA
+screen to identify kinases that upon knockdown
+sensitize cells to a PARP inhibitor [76]. Among
+the four validated genes that upon knockdown
+enhance the sensitivity is CDK5, a gene that has
+not been linked to DNA damage repair or DNA
+damage response before. The sensitizing effect
+of CDK5 suppression is not limited to PARP
+inhibition but is also associated with enhanced
+sensitivity to treatment with camptotecin and
+cisplatin. Although the molecular mechanism
+behind the increased sensitivity to these therapeutics
+remains to be elucidated, these findings
+demonstrate the power of drug-enhancer screens
+in identifying novel drug response modulators.
+Furthermore, drug-enhancer screens with targeted
+therapeutics can result in the identification
+of genetic interactions between the identified
+gene and the drug target, such as the
+CDK5–PARP interaction.
+In addition to drug-enhancer screens, RNAi
+can be used for the identification of genes that
+upon knockdown confer resistance to a specific
+drug treatment [18,25,77–79]. Iorns et al. describe a
+siRNA screen compromising the human kinome
+to identify kinases involved in the response to
+tamoxifen in estrogen receptor-positive breast
+cancer [79]. They subsequently showed that one of
+
+their validated hits, CDK10, regulates the expression
+of c-RAF. The increase of c-RAF expression
+results in activation of the downstream p42/p44
+MAPK pathway, which has previously been
+implicated in tamoxifen resistance. As reduced
+levels of CDK10 expression confer resistance to
+tamoxifen, Iorns et al. analyzed whether CDK10
+expression can be used to predict the response
+in patients treated with tamoxifen. From this
+analysis, they concluded that low expression of
+CDK10 was associated with a statistical significantly
+shorter time to disease progression, and
+significantly shorter overall survival. This and
+other examples clearly illustrate the potential
+of large-scale RNAi screens to identify novel
+mechanisms of drug resistance.
+In addition to synthetic genetic interaction
+screens and RNAi drug-enhancer screens, several
+chemical–genetic screens have been performed in
+which chemical compounds are screened for selective
+toxicity in isogenic cell lines [80–82]. Although
+both RNAi and a specific inhibitor would impair
+protein function, they are not completely complementary
+to each other. The partial or complete
+loss of protein expression by RNAi can be dissimilar
+to the consequence of treatment with a
+chemical agent. For example, loss of expression
+can result in both the loss of a protein’s activity
+as well as disruption of protein complexes, while
+binding of an inhibitor can specifically affect
+either protein activity or protein–protein interactions.
+Hence, chemical–genetic screens will
+complement the synthetic genetic screens in the
+identification of novel cancer-specific drug targets
+and therapeutics.
+
+Conclusion
+The recent developments in RNAi-based screening
+tools have provided a powerful combination
+of target identification in a functional manner,
+and on a genome-wide scale. The implementation
+of this strategy in an unbiased search
+for synthetic interactions in mammalian cells
+has resulted in a number of potential targets.
+Although these targets still need further validation
+in vivo and inhibitors should be developed
+to test their value in clinical settings, they do
+show the promise of RNAi-based screening in
+cancer drug target discovery. In addition to
+further validation as drug targets, additional
+research is required to fully understand the
+molecular basis of the context specific dependency.
+Of specific interest are the screens that
+identified genes for which a dependency exists
+that correlate with the addiction of a cell to a certain
+oncogenic lesion (e.g., STK33 with KRAS).
+1798 Future Oncol. (2010) 6(11) future science group
+
+Review Kuiken & Beijersbergen
+
+Further research might increase our understanding
+of these network addictions, which are only
+present in a fraction of tumor cell lines harboring
+such genetic lesions. Moreover, the identification
+of biomarkers for such addicted tumors will
+help selecting the patients that are most likely to
+respond to this type of targeted therapies.
+
+Future perspective
+Since its discovery, RNAi made it possible to
+interrogate the role of individual genes in complex
+cellular processes. In combination with
+the unraveling of the complete human genome,
+genome-wide RNAi screens can be performed
+that can identify, in an unbiased way, genes
+involved in biological and clinical relevant processes.
+Developments in RNAi-based screening
+technologies have fuelled the expectation of new
+discoveries. These include the identification of
+novel targets, novel biomarkers and detailed
+insights in complex molecular networks controlling
+essential aspects of tumor cell behavior
+and survival. It is to be expected that in the
+coming years improvements in not only RNAi
+
+technologies, but also in screening models and
+validation strategies, will increase the output
+of RNAi screens. We will see an expansion of
+RNAi screening reagents, including large collections
+with validated knockdown and a better
+understanding of potential off-target effects
+and strategies to exclude or prevent them. These
+developments will be followed by an increase
+in throughput, miniaturization and highthroughput
+validation reagents and methods.
+One major development will be the routine
+implementation of spotted RNAi reagents on
+glass slides to enable high-throughput, highcontent
+screens in living cells. Further development
+of more complicated phenotypical readouts
+will increase the relevance of the cellular
+screening models, resulting in more relevant hits.
+At the same time, rather than end-point assays,
+the developments in kinetic measurements will
+more specifically address the questions of the
+role of individual components in complex cellular
+networks. This will undoubtedly lead to
+a better and more complete understanding of
+the regulatory networks and more importantly
+
+Executive summary
+
+The need for cancer-specific treatment strategies
+
+n	Despite the established effectiveness of conventional cancer therapeutics, their shared mode of action – interference with cell division
+or DNA replication processes by causing DNA damage – is generally associated with low therapeutic indices.
+
+n	As the conventional cancer therapeutics rely on cell division, they do not target dormant tumor cells, which might include cancer stem
+or initiator cells.
+
+n	Hence, there is a need for cancer-specific therapeutics that do not solely rely on cell division for their effects.
+Targeted cancer therapies & network addiction
+n	Targeted therapeutics, including those based on pathway-targeted therapeutics, are based on the addiction of a tumor to certain
+cancer-specific cellular signaling pathways, and target the driving oncogenic event.
+n	Resistance mechanisms to these targeted therapeutics confirm the importance of oncogenic network addiction, and can direct us to
+critical nodes in cancer signaling pathways.
+n	In addition to addiction to oncogenic signaling, tumor cells can become hypersensitive to the reactivation of tumor-suppressor genes.
+Molecular buffering & genetic interactions
+n	Not all cancer-specific lesions that lead to an addiction or acquired hypersensitivity can be targeted, however, up- or down-stream
+effectors can provide an indirect means of targeting these lesions.
+n	In addition, distinct networks that buffer overlapping cellular processes can contain valuable drug targets in the context of untargetable
+genetic lesions.
+n	Comparison of genetic interaction data from Caenorhabditis elegans with that of Saccharomyces cerevisiae has taught us that these
+genetic interactions are either not well conserved or masked by cellular-level redundancy in multicellular organisms.
+n	Consequently, unbiased functional genomic screens are required to identify negative genetic interactions with oncogenes or
+tumor-suppressor genes in human cancer.
+n	The identification of such interactions can yield novel drug targets and guide further investigation of cancer-specific vulnerabilities.
+RNAi as a tool for functional genomics & identification of synthetic lethal interactions
+n	RNAi is the mechanism whereby introduction of dsRNA into a cell results in the degradation of a mRNA product that shares high
+complementarity with the dsRNA.
+n	Advances in the field of generating tools that mediate RNAi have yielded an extensive set of genome-wide RNAi libraries.
+n	Use of RNAi libraries in combination with a wide variety of assays have allowed the identification of novel modulators in signaling
+pathways and yielded insight into complex biological processes.
+n	Screens designed for the identification of genes involved in proliferation and apoptosis, or that have synthetic lethal interactions with
+oncogenes or tumor-suppressor genes will undoubtedly contribute to the discovery of novel cancer drug targets.
+future science group www.futuremedicine.com 1799
+
+Exploration of synthetic lethal interactions as cancer drug targets Review
+
+Financial & competing interests disclosure
+The authors have no relevant affiliations or financial
+involvement with any organization or entity with a
+financial interest in or financial conflict with the subject
+matter or materials discussed in the manuscript.
+This includes employment, consultancies, honoraria,
+stock ownership or options, expert testimony, grants or
+patents received or pending, or royalties.
+No writing assistance was utilized in the production
+of this manuscript.
+
+Executive summary
+
+RNAi screens for synthetic lethal interactions with oncogenic RAS
+
+n	RAS-mutant cells are more sensitive to perturbations in mitosis as reflected by an increased sensitivity to inhibition of survivin, APC/C or
+PLK1 function.
+
+n	Oncogene-addicted Ras mutant cells are also more sensitive to inhibition of STK33, which is required for the suppression of BAD’s
+function as a pro-apoptotic factor.
+
+n	In addition, RAS-mutant cells are specifically sensitive to inhibition of TBK1, which is involved in NF-kB signaling and controls the
+expression of BCL-XL, an antiapoptotic protein.
+
+n	Both TBK1 and STK33 have a genetic interaction with mutant RAS that is limited to cells that display an addiction to oncogenic
+RAS signaling.
+Lessons learned & challenges ahead
+n	Several RNAi synthetic lethal screens have been completed and resulted in the identification and subsequent validation of a small
+number of hits, most of which had a previously established link. Unbiased follow-up strategies might increase the list of validated hits.
+n	Synthetic lethal interactions identified in screens encompassing a panel of cell lines with known mutational status, require validation in
+isogenic cell lines to exclude interactions with confounding genetic events, and visa versa, hits from screens in isogenic cell lines need
+validation in other cell lines to exclude context dependency.
+n	Technical advances in the field of RNAi reagents that reduce off-target effects and the generation of matching RNAi resistant cDNA
+libraries will simplify the currently elaborate validation experiments.
+n	In vivo experiments, preferably with small-molecule inhibitors, are needed to investigate the potential of the identified genetic
+interactions as drug targets.
+RNAi drug enhancer, resistance & chemical genetic screens
+n	In addition to genetic interaction screens, RNAi drug enhancer, resistance and chemical genetic screens can contribute to our
+understanding of network addiction and tumor-specific vulnerabilities.
+n	Furthermore, enhancer and resistance screens can lead to the identification of valuable biomarkers that may help guide selection of
+patients that will benefit most from a certain therapy.
+n	Chemical–genetic screens complement RNAi genetic screens in that they have distinct modes of action regarding the suppression of a
+protein’s function; hindering protein–protein interaction, protein stability or catalytic activity verus suppression of gene expression.
+Conclusion
+n	The recent developments in RNAi-based screening tools have resulted in a number of potential cancer drug targets based on synthetic
+lethal interactions.
+n	Further validation of these hits in vitro, but especially in vivo, and preferably with small-molecule inhibitors, can further pave the road to
+clinical implementation.
+n	More research is required to elucidate mechanisms of network addiction and to identify biomarkers for tumors that are addicted to
+specific network signaling. This will help select patients that are most likely to benefit from this type of targeted therapy.
+the crucial nodes within these networks. Finally,
+the integration of other large-scale efforts with
+RNAi screening results, such as expression profiling,
+genomic alteration, complete genome
+sequencing, protein–protein interaction networks
+and the aforementioned complex, kinetic
+cellular network models, will definitely aid better
+hit stratification and result in the identification
+of novel cancer-specific vulnerabilities.
+Combination with the analysis of clinical data,
+including therapy responses, will lead to a more
+rapid identification of those hits that are clinically
+relevant and can be explored for therapy.
+The increase in screening speed and scale will
+result in more detailed understanding of network
+addiction and resistance to targeted therapies.
+This will further aid the selection of crucial
+nodes in cellular signaling networks relevant
+for tumor cell behavior and clinical response.
+Targeted therapies for such nodes might be less
+prone to acquired resistance, and applicable to
+a wider range of tumors that share a network
+
+addiction driven by distinct genetic lesions.
+Based on these results, we will be able to predict
+which tumors are vulnerable to the inhibition
+of specific genes, and as such we will be able
+to select those patients that will benefit most
+from the targeted therapy. All together, these
+developments in RNAi screening technologies
+and interpretation of the results will lead to the
+identification of more relevant genes that can be
+explored for more specific and effective cancer
+treatment in a personalized manner.
+1800 Future Oncol. (2010) 6(11) future science group
+
+Review Kuiken & Beijersbergen
+

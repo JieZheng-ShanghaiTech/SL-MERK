@@ -1,0 +1,545 @@
+IN PERSPECTIVE REVIEW
+
+p53 and Its Downstream Proteins as Molecular
+Targets of Cancer
+
+Yi Sun*
+
+Division of Cancer Biology, Department of Radiation Oncology, University of Michigan Comprehensive Cancer Center,
+Ann Arbor, Michigan
+
+The p53 tumor suppressor gene plays a key role in prevention of tumor formation through transcriptional
+dependent and independent mechanisms. Transcriptional-dependent mechanisms are mainly mediated by p53
+regulation of downstream targets, leading to growth arrest and apoptosis. Mutational inactivation of the p53 gene is
+detected in more than 50% of human cancers. Mutation of p53 renders cancer cells more resistant to current cancer
+therapies due to lack of p53-mediated apoptosis. Extensive studies have been conducted to identify small molecules
+that manipulate p53, including restoration of mutant p53 conformation to wild-type, disruption of murine double
+minute-2 (Mdm2)-p53 binding to increase p53 level and inhibition of Mdm2 E3 ubiquitin ligase activity to prevent p53
+degradation. Another approach was to identify and validate ‘‘drugable’’ target(s) in p53 signaling pathways that
+modulate p53-induced apoptosis. We profiled a p53 temperature-sensitive lung cancer cell model with the Affymetrix
+human HG-U133 GeneChip, covering the entire human transcriptome. We identified thousands of unique genes that
+were either induced or repressed in response to p53-induced apoptosis. A follow-up study characterized a p53-
+repressed gene, SAK, a polo-like kinase (PLK) family member, as an appealing cancer drug target. Snk/Plk-akin kinase
+(SAK) silencing via small interfering RNA (siRNA) induced apoptosis, whereas SAK overexpression attenuated p53-
+induced apoptosis. Thus, SAK repression by p53 contributes to p53-induced apoptosis. Future work is directed at
+determining the normal cell response to SAK silencing. If a therapeutic window is obtained, a SAK inhibitor identified
+from high throughput screening (HTS) could serve as a lead compound for development of a novel class of apoptosisinducing
+anticancer drugs.  2006 Wiley-Liss, Inc.
+Key words: chip profiling; SAK; cancer target identification and validation; anticancer drug discovery
+
+INTRODUCTION
+Apoptosis is a genetically programmed process of
+cell death required for maintaining homeostasis
+under physiological conditions and for responding
+to various internal and external stimuli. Cells
+committed to apoptosis are characterized by membrane
+blebbing, cytoplasmic shrinkage, nuclear
+chromatin condensation, and DNA fragmentation
+[1]. Cancer is associated with decreased apoptosis,
+and development of apoptosis resistance in cancer
+cells is a significant contributing factor to the failure
+of cancer therapies. Thus, induction of apoptosis in
+apoptosis-resistant cancer cells through a variety of
+approaches would be an ideal strategy for effective
+cancer therapy [2,3]. One promising approach to
+achieve this end is through the modulation of p53 or
+the components of p53 signaling pathways.
+The p53 protein is known to act biochemically as
+a transcription factor and biologically as a tumor
+suppressor. p53 specifically binds to a consensus
+DNA binding sequence, consisting of repeats of the
+10 bp motif 50
+-PuPuPuC(A/T)(T/A)GPyPyPy-30
+,
+located in the promoter or introns of its downstream
+target genes and thus transactivates the expression of
+
+these genes. The biological functions of p53 are
+mainly mediated through transcriptional regulation
+of its downstream target genes. For example, p53-
+induced growth arrest is achieved mainly by transactivation
+of p21 (for G1 arrest), of 14-3-3s (for G2
+arrest), and of placenta transforming growth factorbeta
+(PTGF-b). p53-induced apoptosis, on the other
+hand, is mediated by activation of genes involved in
+two major apoptotic pathways: (1) the mitochondrial
+pathway, with genes such as BAX, NOXA,
+PUMA, p53AIP1, PIGs, and APAF-1; and (2) the death
+receptor pathway, with genes such as KILLER/DR5,
+FAS, and PIDD. p53 also transcriptionally represses
+cell survival genes, such as IGFR, BCL-2, or survivin,
+
+MOLECULAR CARCINOGENESIS 45:409–415 (2006)
+
+ 2006 WILEY-LISS, INC.
+
+Abbreviations: Mdm2, murine double minute-2; HDAC, histone
+deacetylase; IGFR, insulin-like growth factor receptor; PIGs, p53-
+induced genes; SAK, Snk/Plk-akin kinase; PLK, polo-like kinase;
+SiRNA, small interfering RNA.
+*Correspondence to: Department of Radiation Oncology, University
+of Michigan Comprehensive Cancer Center, 4304 CCGC,
+1500 East Medical Center Drive, Ann Arbor, MI 48109-0936.
+Received 10 March 2006; Accepted 14 March 2006
+DOI 10.1002/mc.20231
+Published online 1 May 2006 in Wiley InterScience
+(www.interscience.wiley.com)
+leading to apoptosis induction [4,5]. Furthermore,
+a number of recent studies have shown that cytoplasmic
+p53 can regulate apoptosis in a transcriptionally
+independent manner through binding to
+mitochondria and modulating the Bcl-2 homolog
+region-3 (BH3) family of proapoptotic proteins such
+as BAX [6,7]. Figure 1 illustrates the p53 signaling
+pathways in the regulation of growth arrest and
+apoptosis.
+As a key regulator of cell growth and cell death, p53
+is activated by many environmental stimuli, including
+DNA-damaging agents. Activated p53 acts as a
+guardian of the genome by inducing growth arrest to
+allow cells to repair the damage or apoptosis, if the
+damage is too severe and irreparable [8]. Thus, not
+surprisingly, p53 is frequently inactivated via multiple
+mechanisms during human carcinogenesis. The
+most common mechanism of p53 inactivation is
+mutation at the p53 gene, which occurs in more than
+50% of all human cancers. Moreover, in some cancer
+cells that bear a wild-type p53, p53 is nonfunctional,
+either being targeted for degradation by overexpression
+of murine double minute-2 (Mdm2), an E3
+ubiquitin ligase that binds to p53, or by being
+excluded from the nucleus where p53 acts as a
+transcription factor [4].
+p53 AS A DIRECT DRUG TARGET
+Due to its pivotal role in controlling abnormal cell
+growth and its frequent inactivation in a majority of
+
+human cancers, p53 has been a central cancer target
+for mechanism-driven novel cancer drug discovery.
+Several different approaches aiming at p53 reactivation
+or mutant p53 elimination have been
+attempted. One approach is to restore wild-type
+p53 conformation in mutant p53-containing cancer
+cells by small molecule compounds. At least two
+classes of compounds have been identified so far, CP31398
+and PRIMA-1 [9,10]. CP-31398 was identified
+through a screening based upon an in vitro biochemical
+assay that detects wild-type or mutant p53
+conformation via two specific antibodies [9],
+whereas PRIMA-1 was identified through a cell-based
+assay by monitoring cell growth inhibition [10].
+Indeed, at a high drug concentration, both compounds
+were found to restore p53 conformation and
+to induce growth arrest or apoptosis in a subset of
+cancer cells or to sensitize cancer cells to radio- and
+chemotherapies [9,10]. However, the selectivity,
+specificity, and mechanism of action of these
+compounds are still unclear. The second approach
+is to disrupt Mdm2-p53 binding by small molecules,
+thus activating wild-type p53. Three such compounds,
+Nutlin, RITA, and a nonpeptide Mdm2
+inhibitor, with distinct chemical structures, were
+reported [11–13]. These compounds bind to Mdm2
+or p53 in the p53-binding pocket and release p53
+from Mdm2-mediated p53 degradation. Mechanistically,
+these compounds will only work in human
+cancers harboring a wild-type p53 and preferentially
+
+Figure 1. p53 signaling pathways for growth arrest and apoptosis:
+Under unstressed conditions, the p53 level is very low in cells due to
+MDM2 binding and degradation. Upon DNA damage by ionizing
+radiation or anticancer drugs, p53-MDM2 binding is dissociated as a
+result of p53 phosphorylation by ATM and acetylation by p300/
+pCAF, leading to p53 activation. Activated p53 acts as a transcription
+factor to transactivate growth regulatory genes such as p21
+and 14-3-3s to induce growth arrest. p53 regulates apoptosis in
+
+transcriptional-dependent and -independent manners. Under a
+transcriptional-dependent mechanism, p53 induces apoptosis by
+transactivating the genes in both mitochondrial and death receptor
+pathways as well as trans repressing cellular survival genes such as
+IGFR and BCL-2. Under a transcriptional-independent mechanism,
+p53 binds to mitochondria and modulates activity of BH3-containing
+proapoptotic proteins.
+
+410 SUN
+
+Molecular Carcinogenesis DOI 10.1002/mc
+
+ 10982744, 2006, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mc.20231 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+with Mdm2 overexpression. The third approach is to
+identify inhibitors of the Mdm2 E3 ubiquitin ligase,
+aiming at inhibiting Mdm2-mediated p53 degradation.
+One such compound, HLI98, was recently
+reported [14]. The compound stabilized p53 and
+Mdm2 and activated p53-dependent transcription
+and apoptosis with some p53-independent cytotoxicity.
+Again, the compound worked much better in
+wild-type p53-containing cancer cells than those
+with a mutant p53 [14]. Nevertheless, the compounds
+that activate wild-type p53 through disrupting
+or inhibiting Mdm2 have an intrinsic risk to be
+toxic to wild-type p53-containing normal cells. The
+fourth approach is to eliminate mutant p53 via
+Hsp90-active agents such as geldanamycin [15] and
+via induced degradation by histone deacetylase
+(HDAC) inhibitors, such as trichostatin [16]. However,
+depletion of mutant p53 cannot and does not
+restore p53 functions, although it may abolish the
+gain-of-function effect of mutant p53.
+CANCER DRUG TARGETS IN p53
+SIGNALING PATHWAYS
+An ideal cancer target will meet the following
+criteria: (1) it plays an essential role in carcinogenesis,
+and/or is required for the maintenance of cancer
+cell phenotype, and/or is apoptosis protective and
+renders cancer cells resistant to apoptosis; (2) it is
+activated or overexpressed in cancer cells and its
+activation or overexpression is associated with a poor
+prognosis of patient survival; (3) inhibition of its
+expression or activity induces growth suppression
+and/or apoptosis in cancer cells; (4) it is preferably
+‘‘drugable;’’ that is, it is an enzyme or G proteincoupled
+receptor (GPCR) or a cell surface molecule,
+which can be easily screened with a high throughput
+for small molecular inhibitors or targeted by specific
+antibodies; and (5) importantly, it is either not
+expressed or is only expressed at a very low level in
+normal cells and its inhibition has a minimal effect
+on normal cell growth and function. Inhibition of
+such a target would achieve a maximal therapeutic
+index with a minimal toxicity.
+Based upon the above criteria, p53 is not an ideal
+direct cancer drug target, because it is a tumor
+suppressor and a transcription factor. An alternative
+approach will be to identify ‘‘drugable’’ p53 downstream
+targets that regulate p53-induced apoptosis,
+followed by drug screening of their chemical inhibitors
+for anticancer drug discovery. Two categories of
+genes that are responsive to p53-induced apoptosis
+are expected to be identified. The first category
+will be those that are transactivated by p53. These
+genes can be further subgrouped into apoptosisinducing
+genes such as BAX, p53-upregulated modulator
+of apoptosis (PUMA), or NOXA (see Figure 1)
+or apoptosis-inhibiting genes, such as heparinbinding
+EGF-like growth factor [17], Cox-2 [18], or
+discoidin domain receptor 1 [19]. Induction of these
+
+genes by p53 is believed to counter-act p53-induced
+apoptosis as a cellular defensive mechanism. The
+genes that are transrepressed by p53 fall into the
+second category, which can also be subgrouped into
+apoptosis-inducing genes such as endothelial cell
+nitric-oxide synthase [20] or p53-interacting protein
+p53BP2 [21] and apoptosis-inhibiting genes, such as
+insulin-like growth factor receptor (IGFR), BCL-2,
+or survivin (Figure 1). Although apoptosis-inducing
+genes can be used as anticancer agents through a
+gene therapy approach or to elucidate apoptosis
+signaling pathways, the direct pharmaceutical targets
+for small molecule intervention have to come
+from the apoptosis-inhibiting genes. Indeed, the
+inhibitors of BCL-2 and IGFR as cancer therapeutic
+agents are under extensive discovery and development
+[22,23].
+
+CHIP-PROFILING TO IDENTIFY NOVEL CANCER DRUG
+TARGETS IN p53 SIGNALING PATHWAYS
+To further identify novel ‘‘drugable’’ cancer drug
+targets in p53 signaling pathways, we used a p53-
+temperature sensitive lung cancer cell model [24]
+after a detailed characterization. H1299 lung carcinoma
+cells (p53-null) were transfected with a mutant
+p53A138V, which is temperature sensitive. The p53
+in these cells adopts a mutant conformation at 398C
+and a wild-type conformation at 328C. Shifting the
+culture temperature from 39 to 328C restores the
+wild-type p53 conformation, as confirmed by induction
+of p53 target genes, p21 and Mdm2, induction
+of p53 transactivation, and induction of growth
+arrest. Induction of apoptosis only occurs in the
+presence of DNA damaging agents [25]. The advantage
+of this model is the ability to use the same cancer
+line with differences only in p53 status, dependent
+upon culture temperature. Changes due to temperature
+shift can be easily eliminated by including a
+control line that undergoes the same temperature
+shift in the experiment. Using this model we profiled
+the Affymatrix gene chip HG-U133, consisting of
+39 000 genes that cover the entire human transcriptome,
+in an attempt to identify genes that respond to
+p53-induced growth arrest or apoptosis. As shown in
+Table 1, which summarizes the detailed experimental
+design, cells were grown at 398C and switched to
+328C for 6 h (early), 16 h (intermediate), or 24 h (late)
+in the absence (to induce growth arrest) or in the
+presence of etoposide (to induce apoptosis). As a
+temperature control, H1299-Neo control cells were
+similarly treated. A total of 24 sets of chips were used
+for profiling. Comparisons among samples 1–6 and
+13–18 were made in order to identify specific
+genes that respond to p53-induced growth arrest
+with elimination of false positives associated with
+temperature shifting. Similarly, the comparison
+among samples 7–12 and 19–24 was made to
+identify specific genes that respond to p53-induced
+apoptosis with elimination of those that respond to
+
+CANCER TARGETS: p53 AND ITS DOWNSTREAM PROTEINS 411
+
+Molecular Carcinogenesis DOI 10.1002/mc
+
+ 10982744, 2006, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mc.20231 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+etoposide, regardless of p53 status. After subtraction
+from controls for temperature shifting or etoposide
+treatment, a total of 2977 genes were identified as
+being either induced or repressed by p53-induced
+growth arrest, 3033 genes by p53-induced apoptosis,
+and 1057 genes by both growth arrest and apoptosis
+by greater than twofold in at least one given time
+point. Approximately, one half of the responsive
+genes were induced, whereas the other half was
+repressed. Among 113 common genes that respond
+to both arrest and apoptosis at all three time points,
+10 are well-known p53 targets, including p21,
+MDM2, growth arrest and DNA damage-45
+(GADD45), cyclin G1, NOXA, BTG, DDB48, activating
+transcription factor-3 (ATF3), and two p53-
+induced genes (PIG) genes (ferredoxin reductase
+and quinone oxidoreductase). This indicated that
+our cell model and chip profiling method produce
+the expected response for known p53-related genes
+and thus are reliable for identifying genes not known
+to be regulated by p53 [25].
+Previously some p53 target genes were noticed as
+being preferentially responsive to growth arrest,
+whereas others were responsive to apoptosis. To
+compare the expression patterns of genes that are
+responsive to growth arrest and apoptosis, we
+performed hierarchical clustering analysis based
+upon similar patterns of gene expression (Figure 2).
+The genes in the analysis were selected if they were
+differentially expressed with at least a twofold
+change at all three time points under growth arrest
+
+conditions and at all three time points under
+apoptosis conditions. A total of 113 genes were
+identified and all 89 known transcripts, representing
+66 unique genes were analyzed. The red color
+indicates increased expression and blue color represents
+decreased expression. The magnitude of the
+change is depicted by the intensity of color. This
+analysis gave rise to five clusters of genes. Cluster 1
+consists of a group of genes that showed a higher
+induction under growth arrest conditions, particularly
+at the intermediate or later time points and
+included genes such as connective tissue growth
+factor (CTGF). Cluster 2 contains a group of genes
+that again showed higher induction under growth
+arrest conditions, but at the early time point, and
+include genes such as ethanolamine kinase (EKI1).
+Cluster 3 consists of genes that showed higher
+expression under apoptosis conditions at all time
+points, and include genes such as quinone oxidoreductase
+(PIG3) and ferredoxin reductase (FDXR),
+two well-known apoptosis-associated genes, whereas
+cluster 4 consists of genes that showed a similar
+induction level between the two growth conditions,
+and included genes such as BTG2 and Gadd45.
+Cluster 5 consists of genes whose expression was
+downregulated in both growth conditions, and
+included ID1 and ID3 (inhibitor of DNA binding).
+Thus, cluster analysis of the chip profiling data
+revealed a group of genes that is preferably induced
+during growth arrest conditions, whereas others are
+preferably induced by apoptosis.
+
+Table 1. Chip Experimental Design
+
+Group no. Cell line Treatment Growth phenotype
+
+1 H1299-p53ts 6 h DMSO at 398C Mutant p53, normal growth
+2 H1299-p53ts 16 h DMSO at 398C Mutant p53, normal growth
+3 H1299-p53ts 24 h DMSO at 398C Mutant p53, normal growth
+4 H1299-p53ts 6 h DMSO at 328C Wild-type p53, growth arrest
+5 H1299-p53ts 16 h DMSO at 328C Wild-type p53, growth arrest
+6 H1299-p53ts 24 h DMSO at 328C Wild-type p53, growth arrest
+7 H1299-p53ts 6 h Etoposide at 398C Mutant p53, normal growth
+8 H1299-p53ts 16 h Etoposide at 398C Mutant p53, normal growth
+9 H1299-p53ts 24 h Etoposide at 398C Mutant p53, normal growth
+10 H1299-p53ts 6 h Etoposide at 328C Wild-type p53, apoptosis
+11 H1299-p53ts 16 h Etoposide at 328C Wild-type p53, apoptosis
+12 H1299-p53ts 24 h Etoposide at 328C Wild-type p53, apoptosis
+13 H1299-Neo 6 h DMSO at 398C p53-null, normal growth
+14 H1299-Neo 16 DMSO at 398C p53-null, normal growth
+15 H1299-Neo 24 DMSO at 398C p53-null, normal growth
+16 H1299-Neo 6 h DMSO at 328C p53-null, normal growth
+17 H1299-Neo 16 h DMSO at 328C p53-null, normal growth
+18 H1299-Neo 24 h DMSO at 328C p53-null, normal growth
+19 H1299-Neo 6 h Etoposide at 398C p53-null, normal growth
+20 H1299-Neo 16 h Etoposide at 398C p53-null, normal growth
+21 H1299-Neo 24 h Etoposide at 398C p53-null, normal growth
+22 H1299-Neo 6 h Etoposide at 328C p53-null, normal growth
+23 H1299-Neo 16 h Etoposide at 328C p53-null, normal growth
+24 H1299-Neo 24 h Etoposide at 328C p53-null, normal growth
+
+412 SUN
+
+Molecular Carcinogenesis DOI 10.1002/mc
+
+ 10982744, 2006, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mc.20231 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+CHARACTERIZATION OF SAK AS A p53-REPRESSED
+GENE: MECHANISM OF ACTION
+
+Among many p53-repressed genes, we selected
+Snk/Plk-akin kinase (SAK) for further detailed characterization,
+because SAK appears to meet some of
+criteria defined as an ideal cancer drug target. First of
+all, SAK, also called Plk4, encodes a new member
+of the polo-like kinases (PLKs) with other members
+including PLK-1, PLK-2/Snk, and PLK-3/Fnk/Prk,
+known to play pivotal roles in cell cycle regulation,
+specifically in the control of entry and exit of mitosis
+[26]. Secondly, SAK is a kinase with a Ser/Thr kinase
+domain at the N-terminus and is thus ‘‘drugable’’
+[27,28]. Thirdly, SAK is highly expressed in colon
+cancers, compared to adjacent normal intestinal
+mucosa [29]. Lastly, SAK knock-out studies showed
+that SAK expression appears to be required for the
+cellular exit from mitosis through the APC-dependent
+inactivation of the Cdc2/cyclinB complex [27]
+and SAK haploinsufficiency causes mitotic infidelity
+
+and carcinogenesis [30]. Thus, manipulation of SAK
+level is likely to disturb well-coordinated cell cycle
+progression, leading to cell death.
+After confirming the chip data in H1299 p53
+temperature sensitive model using Northern analysis
+to show a SAK repression by wild-type p53, we went
+on to demonstrate that SAK expression was also
+downregulated by wild-type p53 in several cancer
+cell models, indicating a wild-type p53-dependent,
+rather than cell line-dependent downregulation.
+Gene repression induced by p53 is known to fall
+mechanistically into three general categories. First,
+p53 may directly bind to a promoter through either
+its consensus binding site or other sites that overlap
+with some cis-elements such as E2F, SP-1, or HNF3.
+Secondly, p53 may interact with a transcription
+factor in the promoter and interfere with its normal
+function of transactivation. Third, p53 may directly
+interact with some factors of the basal transcription
+machinery such as TBP. The binding of p53 to these
+factors could recruit a HDAC complex to the
+
+Figure 2. Hierarchical clustering analysis of the expression data of p53 responsive genes performed in Gene
+Spring 4.2.1 (Silicon Genetics). The fold change data of 89 transcripts representing 65 unique genes were used.
+These genes were differentially expressed with at least a twofold change at all three time points under growth
+arrest and apoptosis conditions. Each column represents a treatment condition and each row represents a
+transcript of the gene. The degree of fold change in gene expression is represented by different colors. The red
+color indicates increased expression and the blue color represents decreased expression.
+
+CANCER TARGETS: p53 AND ITS DOWNSTREAM PROTEINS 413
+
+Molecular Carcinogenesis DOI 10.1002/mc
+
+ 10982744, 2006, 6, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/mc.20231 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+minimal promoter region and cause repression of
+transcription. Such repression may be reversed in the
+presence of HDAC inhibitors.
+To further characterize the molecular basis of SAK
+p53 repression, we cloned a 1.7 kb SAK promoter
+sequence and identified three putative p53 binding
+sites. However, both the in vitro gel retardation assay
+and the in vivo chromatin immunoprecipitation
+assay revealed that p53 does not bind to any of these
+sites, indicating SAK repression by p53 did not occur
+through a direct p53 binding to the promoter.
+Transcriptional analysis with luciferase reporters
+driven by a series of SAK promoter deletion fragments
+identified SP-1 and CREB binding sites, which
+together conferred a twofold SAK repression by p53.
+However, the repression was not reversed by cotransfection
+of SP-1 or CREB, suggesting a lack of interference
+between p53 and SP-1 or CREB, which
+excluded the second possibility. Significantly, p53-
+mediated SAK repression was largely reversed in a
+dose-dependent manner by Trichostatin A, a potent
+HDAC inhibitor, suggesting an involvement of
+HDAC transcription repressors in SAK repression by
+p53 [31].
+SAK, AN APPEALING CANCER DRUG TARGET?
+To understand the biological significance of SAK
+repression by p53 during apoptosis, we knocked
+down SAK expression using small interfering RNA
+(siRNA) and looked for phenotype changes. HeLa
+cells were transfected with two SAK RNAi (K1 and K2)
+and a semiquantitative RT-PCR study revealed that
+K1, but not K2, caused a significant reduction of
+endogenous SAK expression. Accompanying the SAK
+reduction, morphological signs of apoptosis appeared
+in K1-, but not K2-transfected cells. A
+quantitative DNA fragmentation assay showed
+that indeed K1siRNA, but not K2siRNA, induced
+apoptosis in a dose-dependent manner. Thus, SAK
+repression probably contributes to p53-induced
+apoptosis [31].
+If SAK repression is critical for p53-mediated
+apoptosis induction, one would expect that overexpression
+of SAK should block or attenuate the
+effect of p53. To test this hypothesis, we went on to
+establish SAK stable lines by transfecting a SAKexpressing
+plasmid or vector control into wt p53-
+containing U2-OS cells. Two independent SAK overexpressing
+clones, along with a vector control clone,
+were then subjected to etoposide treatment to induce
+p53, followed by a gel assay for DNA fragmentation,
+a hallmark of apoptosis. Etoposide
+treatment significantly induced DNA fragmentation
+in U2-OS vector control cells. The degree of DNA
+fragmentation was significantly reduced in both SAK
+overexpressing clones, indicating that SAK overexpression
+attenuates p53-induced apoptosis. Thus,
+SAK repression by p53 contributes to p53-induced
+apoptosis [31].
+
+SAK has been previously shown to be overexpressed
+in colon cancer tissues. Our work presented
+here showed that silencing of SAK level could induce
+apoptosis in cancer cells. Further validation of SAK
+as a cancer target requires determination of the
+normal cellular response to SAK elimination via
+siRNA silencing. If a differential apoptotic response
+between normal and cancer cells can be established,
+which is the basis for therapeutic index, SAK could be
+an appealing cancer drug target.
+
+SUMMARY AND CONCLUSION
+Overall, chip profiling in combination with
+knowledge-based computer analysis provided us
+with a wealth of information on genes or signaling
+pathways possibly involved in p53-induced growth
+arrest and apoptosis. This will lead to a better
+understanding of p53 biological functions and its
+mechanism of action. The gene list derived from this
+genome-wide expression profiling and analysis provides
+a solid basis for further characterization and
+functional assays of each individual gene or several
+genes in a particular pathway as potential p53
+targets. SAK, as an example presented here, appears
+to be a promising target if its manipulation in normal
+cells shows a minimal effect. Thus, we hope our
+study can provide a battery of potential targets
+for further characterization as novel gene-targeted
+cancer therapies with an ultimate goal to discover
+and develop a novel class of apoptosis-inducing
+anticancer drugs.
+
+ACKNOWLEDGMENTS
+
+This work is supported by NIH grant R01-
+CA111554. I would like to thank Ping Jiang at
+Pfizer Global Research and Development, Ann Arbor
+Laboratories for hierarchical clustering analysis.
+

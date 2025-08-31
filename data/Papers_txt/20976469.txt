@@ -1,0 +1,683 @@
+REVIEW ARTICLE
+
+Synthetic lethal interactions for the development of cancer
+therapeutics: biological and methodological advancements
+
+Shinji Mizuarai • Hidehito Kotani
+
+Received: 15 September 2010 / Accepted: 12 October 2010 / Published online: 26 October 2010
+Springer-Verlag 2010
+
+Abstract Synthetic lethal interaction is defined as a
+combination of two mutations that is lethal when present in
+the same cell; each individual mutation is non-lethal.
+Synthetic lethal interactions attract attention in cancer
+research fields since the discovery of synthetic lethal genes
+with either oncogenes or tumor suppressor genes (TSGs)
+provides novel cancer therapeutic targets. Due to the
+selective lethal effect on cancer cells harboring specific
+genetic alterations, it is expected that targeting synthetic
+lethal genes would provide wider therapeutic windows
+compared with cytotoxic chemotherapeutics. Here, we
+review the current status of the application of synthetic
+lethal screening in cancer research fields from biological
+and methodological viewpoints. Very recent studies seeking
+to identify synthetic lethal genes with K-RAS and p53,
+which are known to be the most frequently occurring
+oncogenes and TSGs, respectively, are introduced. Among
+the accumulating amount of research on synthetic lethal
+interactions, the synthetic lethality between BRCA1/2 and
+PARP1 inhibition has been clinically proven. Thus, both
+preclinical and clinical data showing a preferential antitumor
+effect on BRCA1/2 deficient tumors by a PARP1
+inhibitor are the best examples of the synthetic lethal
+approach of cancer therapeutics. Finally, methodological
+progress regarding synthetic lethal screening, including
+
+barcode shRNA screening and in vivo synthetic lethal
+screening, is described. Given the fact that an increasing
+number of synthetic lethal genes for major cancerous genes
+have been validated in preclinical studies, this intriguing
+approach awaits clinical verification of preferential benefits
+for cancer patients with specific genetic alterations as a
+clear predictive factor for tumor response.
+
+Introduction
+
+Identification of therapeutic targets is one of the most
+imperative steps in cancer drug development. The emerging
+molecular cancer therapeutics, in addition to the classical
+cytotoxics, reiterate the importance of target
+identification approach as the primary upstream process of
+cancer drug development. Targets of molecular cancer
+therapeutics can be categorized into three classes. The first
+example of a cancer target class that has achieved successful
+outcomes is the one harboring genetic alterations,
+such as mutations or translocations. Clinical data have
+recently shown that epidermal growth factor receptor
+(EGFR) inhibitors provided benefits for non-small cell lung
+cancer (NSCLC) patients with an EGFR mutation, whereas
+a poor response was observed for patients with the wildtype
+EGFR gene (Maemondo et al. 2010; Mok et al. 2009).
+Despite the relatively recent clinical development of
+B-RAF inhibitors, targeting the mutated B-RAF gene by
+PLX-4032 resulted in a significant improvement in the
+overall response rate in melanoma patients (Smalley 2010).
+In in vitro enzyme kinase inhibition assays, PLX-4032 and
+its derivatives preferentially inhibited mutant B-RAF
+compared with the wild-type B-RAF, which could explain
+the promising results in the phase I trial of the B-RAF
+inhibitor (Tsai et al. 2008). One of the most successful
+
+S. Mizuarai
+H. Kotani (&)
+Department of Oncology, Tsukuba Research Institute,
+Banyu Pharmaceutical Co., Ltd., 3 Okubo, Tsukuba,
+Ibaraki 300-2611, Japan
+e-mail: hidehito_kotani@merck.com
+
+H. Kotani
+President’s Office and Business Development,
+Banyu Pharmaceutical Co., Ltd., Kitanomaru Square,
+1-13-12 Kudan-kita, Chiyoda-Ku, Tokyo 102-8667, Japan
+
+123
+
+Hum Genet (2010) 128:567–575
+DOI 10.1007/s00439-010-0900-x
+targets for molecular cancer therapeutics is imatinib for
+CML patients with a BCR-Abl translocation. After
+impressive data were reported that showed a drastically
+improved outcome in chronic myelogenous leukemia
+(CML) patients (Druker et al. 2001), imatinib was first
+approved for CML in 2001. This established a clinical
+proof of concept that cancer can be treated by targeting
+genetic defects that clearly differ from normal cells.
+Another target with a genetic alteration in clinical samples
+is the ALK inhibitor for NSLC with the EML4-ALK
+translocation. The EML4-ALK fusion oncogene has been
+reported to occur in about 4% of NSCLC (Janku et al.
+2010). A phase II trial with an ALK inhibitor, PF02341066,
+showed a remarkable response rate (OR 57%) in
+NSCLC patients harboring the EML4-ALK translocation
+(Bang et al. 2010). PF-02341066 is now being examined in
+phase III trials, which are comparing the inhibitor with a
+standard of care in second line treatment.
+Although targeting the driver mutations in cancers is a
+straightforward approach, mutated genes are often not
+druggable; the gene products are not amenable to pharmacological
+intervention by small molecule compounds.
+Thus, a pathway focused approach is the second class of
+target identification that many researchers have pursued.
+K-RAS is the most frequently mutated oncogene known to
+date; however, it is relatively difficult to pharmacologically
+inhibit the activity of K-RAS compared with other classes
+of proteins, such as kinases, GPCRs or ion channels
+(Saxena et al. 2008). Examples include RAS farnesyl
+protein transferase inhibitors which showed little activity in
+tumors that frequently contain Ras mutation (Morgillo and
+Lee 2006). Therefore, MEK and B-RAF, which are
+downstream effectors of the RAS signaling pathway, have
+been targeted in a pathway focused approach, although the
+targets themselves were not mutated in the cell lines
+examined. The inhibitors showed a preferential anti-tumor
+effect on K-RAS pathway deregulated cells in preclinical
+research (Solit et al. 2006; Garon et al. 2010). mTOR is
+targeted to suppress the phosphoinositide 3-kinase (PI3K)
+pathway, and its allosteric inhibitors have been clinically
+approved (Shor et al. 2009). Although patient stratification
+was not conducted for the prescription of mTOR inhibitors,
+preclinical data indicated that tumors with an activated
+PI3K pathway show a higher response compared with
+inactivated ones (Neshat et al. 2001; Shi et al. 2002). In
+addition, PI3K pathways are known to be deregulated at
+high prevalence in the indications of drugs that include
+renal cell carcinoma (RCC) (Cho et al. 2007).
+Recent years have witnessed a number of research studies
+focusing on synthetic lethal screening as the third class for
+cancer target identification (Mizuarai et al. 2008; Ferrari
+et al. 2010). With synthetic lethal interaction, either single
+mutation is compatible with viability, but the combinational
+
+disruption of these two non-essential genes leads to lethality.
+Targets with synthetic lethal interactions are expected to
+possess several advantages. In principle, targeting of synthetic
+lethal interactions would provide wider therapeutic
+windows. Since a cancer-related mutation of interest sensitizes
+tumor cells to the drug that inhibits its synthetic lethal
+partner, normal cells without the cancer-related mutation are
+not affected by the drug. In addition, this method can be
+applied to the mutation of tumor suppressor genes (TSGs)
+that cannot be addressed by other two approaches (BommiReddy
+et al. 2008). Since mutations of TSGs account for
+more than 80% of cancer-related mutations, various synthetic
+lethal targets have been explored for TSGs.
+Application of synthetic lethal genes has a large variety
+of possibilities, especially for the target identification of
+molecular therapeutics for cancers with non-druggable
+mutated genes, including p53, K-RAS and breast cancer
+gene 1/2 (BRCA1/2). In parallel with the recognition of
+synthetic lethal genes in the cancer field, great progress in
+methodology has been made for the establishment of highthroughput
+screening of synthetic lethal interactions.
+
+Synthetic lethal genes with K-RAS
+
+Several recent studies have independently identified synthetic
+lethal genes with K-RAS oncogenic mutations
+(Fig. 1). Barbie et al. (2009) have identified TANK-binding
+kinase 1 (TBK1) as a synthetic lethal gene with mutant
+K-RAS by RNA interference (RNAi) screening in a cell
+panel composed of wild-type and mutant K-RAS cells. The
+selective anti-cell growth effect was confirmed by another
+set of cell lines, demonstrating the generality of TBK1 as a
+synthetic lethal gene with mutant K-RAS. TBK1 is a noncanonical
+IkB that is known to regulate the NFkB pathway.
+To provide insight into the mechanism underlying the
+synthetic lethality of TBK1 and K-RAS, expression profiling
+by microarray analysis was performed for cancer cell
+lines and clinical samples. They found that both K-RAS
+and NFkB pathways were activated in mutant K-RAS cells
+when examined by pathway signatures, which consisted of
+two individual gene sets to measure the extent of K-RAS
+and NFkB deregulation, respectively.
+Luo et al. (2009) performed a genome-wide RNAi assay
+to find genes whose inhibition selectively reduces cell
+viability in mutant K-RAS cells. The identified genes
+included cyclin A2 (CCNA2), KIF2C, PLK1, and anaphase-promoting
+complex/cyclosome (APC/C), suggesting
+that mutant K-RAS cells are vulnerable to mitotic perturbations.
+Microarray analysis of clinical lung adenocarcinoma
+showed an inverse correlation between the mitotic
+machinery genes with patient survival in a K-RAS statusdependent
+manner.
+
+568 Hum Genet (2010) 128:567–575
+
+123
+Another research study, conducted by Scholl et al.
+(2009), also showed that mutant KRAS has a synthetic
+interaction with STK33 ablation in a large-scale RNAi
+screening containing kinase, phosphatase, and cancerrelated
+genes. Interestingly, the selective anti-tumor effect
+of STK33-silencing on KRAS mutant cells was shown to
+be irrespective of tissue type through extensive studies with
+cell lines derived from AML, multiple myeloma, breast,
+colon pancreatic, and lung cancers. Although the synthetic
+lethal effect of STK33-silencing was mediated by modulating
+p70 ribosomal S6 kinase 1 dephosphorylation followed
+by BCL2-associated agonist of cell death (BAD)
+inactivation, it remains elusive why STK33 showed synthetic
+lethality with the K-RAS mutation. Therefore,
+understanding the molecular mechanism of the synthetic
+lethal interaction and elucidating the molecular function of
+STK33 are necessary.
+Puyol et al. (2010) found an unexpected synthetic lethal
+interaction between mutant K-RAS and CDK4 ablation in a
+mouse NSCLC model. Among the three interphase cyclindependent
+kinases (CDKs: CDK2, CDK4, and CDK6)
+examined, only genetic disruption of CDK4 prevented the
+development of mutant K-RAS-induced NSCLC development
+in vivo. The approach was unique in that synthetic
+
+interaction was demonstrated with a transgenic mouse
+cancer model that recapitulates human NSCLC. This study
+suggested that CDK4 selective inhibitors should be
+examined in NSCLC patients with mutant K-RAS.
+Since the discovery of an oncogenic mutation in the
+K-RAS gene in 1982 (Tabin et al. 1982), a large number of
+basic research articles that indicated the importance of
+K-RAS in tumorigenesis have been published. Until now,
+however, no anti-tumor drug targeted for K-RAS mutated
+cancers has been approved, although wild-type K-RAS is
+used as a predictor of non-response to EGFR targeted
+therapy (Van Cutsem et al. 2009). In order to develop novel
+therapeutics effective for K-RAS mutant cancer cells, it
+would be valuable to perform head-to-head comparisons of
+the selective anti-tumor effects on K-RAS mutated cancers
+among the candidate targets identified in the previous
+studies (Table 1) in the same experimental platform.
+
+Synthetic lethal genes with p53
+
+P53 is a tumor suppressor gene that is activated in response
+to various types of DNA damage, including chemotherapeutics,
+radiation, and oxidative stresses. The activation
+leads to the up-regulation of p53 regulatory genes, leading
+to arrest of the cell cycle at the G1 stage, and repair of the
+damaged DNA, which is known as G1 cell cycle checkpoint
+(Dasika et al. 1999). When the damage is detrimental,
+p53 transactivates additional genes involved in apoptosis to
+prevent the accumulation of the severe DNA damage.
+Among a variety of TSGs, p53 is the most frequently
+mutated one in multiple types of cancers. For instance, 33,
+43, and 38% of mutations are found in pancreatic, colorectal
+and lung cancer, respectively. Therefore, the identification
+of cancer therapeutic targets with synthetic
+lethality with p53 deregulation attracts great attention since
+they are expected to exert selective lethal effects only in
+p53 mutant tumor cells, without causing side effects in
+normal wild-type somatic cells.
+When DNA is damaged, both G1 and G2/M cell cycle
+checkpoints are activated to prevent the accumulation of
+DNA damage. Wee1 is a tyrosine kinase involved in the
+G2/M cell cycle checkpoint (Rowley et al. 1992). Wee1
+kinase activated by DNA damage prevents cell cycle progression
+at the G2/M phase by inactivating phosphorylation
+of cyclin-dependent kinase1 (CDK1) (Lundgren et al.
+1991). In p53 wild-type cells, DNA damage is repaired by
+both G1 and G2/M cell cycle checkpoints, whereas only the
+G2/M checkpoint mediated by Wee1 sustains cell cycle
+integrity in mutant p53 cells. In accordance with the pivotal
+role of Wee1 in the G2/M checkpoint, the inhibition of
+Wee1 was found to exert a preferential anti-tumor effect on
+p53-negative cells in the presence of DNA damage (Wang
+
+K-RAS K-RAS
+
+STK33 TBK1 CDK4 Mitotic
+regulators
+
+Signal transduction effectors Cell cycle regulators
+
+CHK1 ATM Wee1
+
+G2 checkpoint abrogators Rho pathway
+
+GEF-H1
+
+Synthetic interactions with the most frequently mutated oncogene
+
+Synthetic interactions with the most frequently mutated TSG
+
+In the presence of DNA damage
+
+Unknown NFkB S phase M phase Related
+function
+
+SGK2 PAK3
+
+TP53 TP53
+
+Fig. 1 Synthetic lethal interactions with the most frequently mutated
+oncogene or TSG. The upper panel shows the synthetic lethal
+interactions with the K-RAS oncogene. SKT33, TBK1, CDK4 and
+mitotic regulators, such as APC/C, were shown to be synthetically
+lethal with K-RAS in both in vitro and in vivo studies. STK33 and
+TBK1 are categorized into signal transduction notes, whereas CDK4
+and mitotic regulators are cell cycle effectors. The lower panel shows
+the synthetic lethal interactions with p53-deficiency. CHK1, ATM
+and Wee1 were shown to be synthetically lethal with p53-deficiency
+in the presence of DNA damage, whereas GEF-H1, SGK2 and PAK3
+showed the synthetic lethal interaction without DNA damage
+
+Hum Genet (2010) 128:567–575 569
+
+123
+et al. 2004). The synthetic lethality with the p53 gene was
+also observed for the inhibition of other G2/M checkpointrelated
+genes, such as CHEK1 and ATM (Wang et al.
+2004; Jiang et al. 2009), which leads to the establishment
+of a field of G2/M checkpoint abrogators as mutant p53-
+targeted therapies. In addition, MK2-silencing was shown
+to exhibit synthetic lethality with p53-deficiency in the
+presence of DNA damage (Reinhardt et al. 2007). MK2-
+depletion dramatically decreased the phosphorylation level
+of Cdc25A/B, providing initial evidence that MK2 plays an
+important role in cell cycle checkpoints. We also confirmed
+the synthetic lethal effect of Wee1 inhibition with mutant
+p53 by a selective small molecule inhibitor in the presence
+of DNA damaging agents (Hirai et al. 2009; Mizuarai et al.
+2009). The context specificity of anti-tumor effects of
+Wee1 inhibition depending on p53 status was examined in
+detail with an isogenic pair of ovarian cancer cell lines
+(wild-type and mutant p53 TOV21G), followed by additional
+cells with either wild-type or mutant p53 genes. The
+effect was closely correlated with the indices of G2/M cell
+cycle abrogation that can be measured by phosphorylatedCDK1,
+phosphorylated-histone H3, and mRNA induction
+of Wee1 signature genes. With the accumulating evidence
+showing synthetic lethal interaction of p53 mutation with
+G2 checkpoint abrogators, development of Wee1 inhibitors
+holds promise for p53 mutant-targeted therapy in combination
+with DNA damaging agents.
+Multiple studies have found that a missense mutation of
+the p53 gene provides gain-of-function for the mutated
+form of p53, in addition to well-recognized loss-of-function
+of p53 to transactivate mRNAs of genes related to
+apoptosis or cell cycle arrest (Frazier et al. 1998; Brosh and
+Rotter 2009). In p53 mutated cancers, numerous genes
+were reported to be up-regulated, promoting tumorigenesis.
+As one of the gain-of-function properties of p53 mutation,
+we and other groups have reported that the Rho pathway is
+more highly activated in mutant p53 cancer cells compared
+with wild-type p53 cells (Guo and Zheng 2004; Mizuarai
+et al. 2006). Expression of different types of mutant p53
+was shown to induce mRNA expression of guanine
+exchange factor H1 (GEF-H1) for RhoA in cancer cells,
+implying that the Rho pathway that facilitates evasion or
+proliferation processes of tumor progression is relatively
+up-regulated by p53 mutation (Mizuarai et al. 2006). These
+data suggested that the gain-of-function of mutant p53
+could be an Achilles’ heel for cancer cells harboring its
+genetic alteration and thereby offers an alternative
+approach for p53 targeted therapy.
+Additionally, an RNAi screen with a small set of 86
+kinases also identified that SGK2 and PAK3 are selectively
+effective for the growth suppression of p53-deficient cells
+(Baldwin et al. 2010). The synthetic lethality was illusTable
+1
+trated in a pair of human foreskin keratinocytes with or
+
+Summary of the identification and validation of K-RAS synthetic lethal genes
+
+Validation method TBK1 STK33 Mitotic regulators CDK4
+Isogenic cell lines Immortalized lung epithelial
+cells: mutant K-RAS versus
+control
+
+NA DLD1: WT K-RAS versus
+mutant K-RAS
+
+NA
+
+Cancer cell panel Primary screen: 19 cancer cell
+lines, secondary screen: 11
+NSCLC cells
+
+25 cancer cell lines and two
+untransformed cell type
+
+14 NSCLC cell lines 10 human NSCLC cell
+lines
+
+Confirmation in vivo Xenograft tumors: two WT
+K-RAS versus two mutant
+K-RAS
+
+Xenograft tumors: four WT
+K-RAS versus three mutant
+K-RAS
+
+Xenograft tumors: DLD1 (WT)
+versus HCT116 (mutant)
+
+A transgenic NSCLC
+mouse model: with
+and without inducible
+mutant K-RAS
+
+Correlation in clinical samples Positive correlation between
+RAS signature and NFkB
+signatures
+
+NA Expression of COPS3, CDC16
+and EVI5 showed correlation
+with prognosis
+
+NA
+
+Tissue type Lung Irrespective of tissue origin Lung adenocarcinoma,
+colorectal cancer
+
+NSCLC
+
+570 Hum Genet (2010) 128:567–575
+
+123
+without the HPV E6 protein that is known to inactivate
+p53. PAK3 interacts with the Rho family proteins,
+including CDC42 and RAC (Manser et al. 1995), and
+PAK3 is known to modulate actin filament that is also
+regulated in the downstream pathway of Rho family proteins
+(Kumar et al. 2006). Baldwin et al. (2010) also used
+the primary cells where p53 had been depleted by RNAi to
+confirm the synthetic lethal interaction between p53-deficiency
+and either SGK2 or PAK3. It would be interesting to
+further decipher the molecular mechanism of the synthetic
+lethal interaction with p53 deficiency.
+
+Synthetic lethal genes with BRCA1/2
+
+Poly (ADP-ribose) polymerase 1 (PARP-1) is a DNA
+repair enzyme that triggers the DNA damage signaling
+pathway by binding to DNA strand breaks. PARP1 cleaves
+NAD? to produce ADP-ribose, which is followed by the
+addition of ADP polymers onto various proteins, including
+histones and other DNA repair enzymes (Peralta-Leal et al.
+2008). The ADP ribosylated proteins at the site of DNA
+breaks enable the unwinding of the DNA helix and expose
+the matrix for the recruitment of proteins involved in DNA
+repair. PARP-1 inhibitor has gained attention, since it was
+the initial anti-tumor agent that was used to establish proof
+of concept of synthetic lethality in a clinical trial. Several
+years ago, two pioneering studies established the preclinical
+proof of concept of the selective anti-tumor effect of a
+PARP1 inhibitor on cancer cell lines devoid of BRCA1/2
+(Bryant et al. 2005; Farmer et al. 2005). In xenograft tumor
+models, pharmacological intervention of PARP1 by AG14361
+or KU0058684 resulted in profound tumor regression in
+BRCA1/2 deficient cell lines compared with wild-type or
+heterozygous cancer cells while sparing normal rodent
+cells. The preclinical studies also demonstrated the
+molecular mechanism of synthetic lethal interaction of
+PARP-1 inhibition with the BRCA1/2 mutation. Pharmacological
+intervention of PARP-1 inhibits the baseexchange-repair
+(BER) process, leading to the accumulation
+of single strand breaks (SSBs). This accumulation eventually
+results in the formation of detrimental double strand
+breaks (DSBs), which cannot be repaired in BRCA1/2
+deficient cells. Given the prominent preclinical evidence of
+the efficacy of the PARP1 inhibitor for BRCA1/2 mutant
+cancer cells, clinical studies have been immediately adapted
+to target cancer patients who harbor these mutations.
+Preliminary results of a phase I clinical trial of a PARP1
+inhibitor, olaparib, was reported with patients with a wide
+range of solid tumors, including BRCA1/2 deficient
+patients. Olaparib was well tolerated and showed singleagent
+anti-tumor efficacy only to BRCA1/2 mutation carriers
+(Fong et al. 2009). According to data obtained with
+
+the pharmacodynamic biomarker, which examined poly
+(ADP-ribose) (PAR) formation and cH2X in peripheralblood
+mononuclear cells and plucked eyebrow-hair follicles,
+respectively, more than 90% of PARP inhibition was
+observed at tolerable doses. To further evaluate anti-tumor
+efficacy selective to subpopulations, phase II trials were
+conducted in patients of both chemotherapy-refractory
+breast and ovarian cancer patients harboring BRCA1/2
+mutations. Olaparib showed striking clinical efficacy; the
+objective response rate (ORR) was 41 and 33%, respectively,
+as determined by RECIST criteria as an initial
+successful example of synthetic lethal interaction in clinical
+cancer research (Audeh et al. 2010; Tutt et al. 2010).
+Multiple ongoing phase I and II studies might further
+strengthen the clinical evidence of synthetic interactions
+between PARP1 suppression and BRCA1/2 deregulation.
+In addition, other defects in repair genes that exhibited
+synthetic lethal interaction with PARP inhibition in preclinical
+research could increase the number of responder
+patients (Lo¨ser et al. 2010; Weston et al. 2010).
+
+Methodological advancement in synthetic lethal
+screening for cancer target identification
+
+Cancer models used for synthetic lethal screens
+
+In order to identify and validate synthetic lethal genes in
+the field of cancer research, cancer cell lines were used in
+three ways. First, isogenic cell lines have been most
+frequently used for synthetic lethal screening (Torrance
+et al. 2001; Bommi-Reddy et al. 2008). Since the paired
+cell lines differ only in the status of oncogene or tumor
+suppressor gene, it is quite useful to examine the effect of
+this genetic status on the knockdown of potential synthetic
+partners. Isogenic cell lines for research on most of
+the cancer-related genetic alterations are now available,
+including cell lines with alterations in the cell cycle, such
+as p53 (Bartz et al. 2006), RB1 (Eguchi et al. 2007) and
+CDKI (Geller et al. 2004) and ones with alterations in
+signaling transduction, such as PTEN (Lee et al. 2004),
+K-RAS (Barbie et al. 2009) and b-catenin (Kim et al.
+2002). In an interesting study using isogenic cell lines, a
+pair of two isogenic cell lines with differing K-RAS
+statuses was marked by a distinct mutant of GFP that
+enables double-label reading (Torrance et al. 2001). The
+fluorescent labeling in each of the isogenic cell lines
+presented advantages: co-culturing of the two cell lines
+that creates an even growth environment and multiple
+time-point assessment in phenotypic assays. It is also
+worth noting that primary cells and their matched cells
+that were engineered to have a single oncogenic lesion
+have been successfully used to discover synthetic lethal
+
+Hum Genet (2010) 128:567–575 571
+
+123
+interactions (Baldwin et al. 2010). The second approach
+leverages a cell panel that harbors naturally occurring
+genetic alterations (Scholl et al. 2009). Since cell lines in
+the panel possess additional genetic alterations, as well as
+the mutation of interest, it would be important to use a
+larger number of cell lines to compare the approach with
+isogenic cell lines in order to exclude the possibility that
+observed differences in phenotype between the two
+groups are derived from genetic backgrounds other than
+genetic alterations under the examination of synthetic
+lethal interactions. In addition, the observation of synthetic
+lethal interactions in a cell panel assay generates
+more robust data compared with studies using only isogenic
+cell lines. Thus, candidates of synthetic lethal genes
+identified in large-scale RNAi screens with isogenic cell
+lines are often validated in cell panel assays. Conventionally,
+synthetic lethal genes are initially identified in in
+vitro studies with cultured cells and then examined in in
+vivo model animals, such as the rodent xenograft tumor
+model, for validation. However, some studies have
+attempted initially to identify the synthetic lethal interactions
+in vivo, which is the third method of synthetic
+lethal screening. Michiue et al. (2009) showed that
+simultaneous gene-silencing of both EGFR and AKT2 by
+siRNA synergized to induce apoptosis specifically in
+glioblastoma cells in vivo. In general, it is difficult to
+achieve sufficient gene-silencing by siRNA in vivo.
+However, efficient siRNA delivery for the gene-silencing
+of both genes was achieved by fusing the dsRNA binding
+domain with a TAT peptide transduction domain (PTD)
+delivery peptide. The fact that the PTD-mediated delivery
+into cells is utilized in multiple clinical trials with peptide
+and protein cargos also supports the idea that this technology
+could enhance the development of a research field
+of in vivo synthetic lethal assays by allowing simultaneous
+targeting of multiple cancer-related genes. Several
+other methods have also successfully delivered siRNA in
+vivo, which include lipid formation, polymer mediated
+delivery, and antibody fusion proteins. An alternative
+approach to examine in vivo synthetic lethality is to
+leverage genetically modified mouse models, as exemplified
+by mutant K-RAS and the CDK disruption mouse
+models (Puyol et al. 2010). Gene disruption of CDK4
+prevented tumor progression in mice with oncogenic KRAS.
+Various types of double knockout mice have been
+generated in other therapeutic fields that lead to the
+maturation of compound transgenic mice generation
+technology (Sainsbury 2002). Since synthetic lethal
+interaction screening examines growth inhibitory effects,
+conditional knockout or inducible gene expression systems
+that enable the site- and time-specific regulation of
+gene expression are essential for the application of double
+knockout mice technology.
+
+Barcode shRNA pooled library for high-throughput
+synthetic lethal screens
+
+Most of the synthetic lethal interactions in mammalian
+cells have been identified through large-scale screening
+with RNAi ranging from 500 to 20,000 covered genes
+(Berns et al. 2004; Siva et al. 2005; Schlabach et al. 2008).
+Whereas siRNA is used to perform high-throughput
+screening that enables knockdown for individual genes in
+single-well assays, shRNA screening allows researchers to
+investigate long-term knockdown effects on cancer-related
+phenotypes, such as viability, apoptosis, and cell cycle, in a
+pooled shRNA assay in which a single dish of cells is
+infected in culture with a large number of shRNA viral
+vectors. For example, in order to identify synthetic lethal
+targets, both isogenic cell lines are infected with the pooled
+shRNAs by the viral vectors. After cells were cultured in a
+selection medium, genomic DNA integrated with shRNA
+by retroviral or lentiviral infection is recovered and subjected
+to PCR amplification followed by DNA microarray
+analysis to determine the shRNA sequence. Comparing the
+relative abundance of individual shRNAs from the two
+isogenic cell lines using DNA microarray analysis enables
+the identification of novel synthetic lethal genes. In the
+process of PCR amplification of the integrated viral
+sequences in order to decode pooled shRNA, two methods
+have been employed to analyze the pool shRNA sequences.
+One employs a direct method by utilizing probe sequences
+complementary to shRNAs. However, since shRNAs are
+generally 21 nucleotides in length, self-annealing poses a
+problem during the process of recovery of shRNA from
+genomic DNA. To solve the annealing issue, the other
+method utilizes individual unique barcode sequences,
+which are an integral part of the shRNA cassette (Fig. 2).
+Since sequences of the 60 nucleotides barcode are different
+among shRNAs in a library, the barcode sequence enables
+the measurement of the abundance of each shRNA in a
+pool screen by subsequent shRNA microarray analysis
+(Silva et al. 2005). Alternatively, the current advancement
+of deep sequencing was also used for the analysis of
+quantification of pooled shRNA (Bassik et al. 2009). As
+compared with microarray analysis, this technique generates
+more accurate data for the analysis of barcode
+sequences.
+
+Future direction
+
+Since an increasing number of synthetic lethal genes have
+been proposed in basic research studies, it is hoped that
+synthetic lethal interactions will be demonstrated in clinical
+trials as well. For the clinical development of molecular
+cancer therapeutics, the identification of predictive
+
+572 Hum Genet (2010) 128:567–575
+
+123
+biomarkers that can be used for the stratification of
+responder patients is of great significance. Imatinib and
+trastuzumab, which are recognized as milestones of
+molecular cancer therapeutics, have scored considerable
+success with the help of the predictive biomarkers of BCRAbl
+translocation and Her2 over-expression, respectively.
+The promising candidate of predictive biomarkers for
+cancer therapeutic targets identified in synthetic lethal
+screens is the partner mutation associated with synthetic
+lethality. In general, the measurement of genetic alterations
+generates more accurate data compared with other molecular
+markers, such as protein over-expression and activation
+of proteins or pathways, offering an advantage for
+synthetic lethal targets. Furthermore, combination of two
+predictive biomarkers might be feasible for synthetic lethal
+genes, which predicts responder population more accurately
+compared with the cases with a single predictive
+biomarker. For example, a candidate predictive biomarker
+for CDK inhibitors could be a K-RAS mutation based on
+the aforementioned synthetic lethal study (Puyol et al.
+2010). We and other groups also reported that deregulation
+of RB tumor suppressor pathway, which is composed of
+p18INK4C, RB1, and CDK4/6, affects responses to CDK
+inhibitors (Eguchi et al. 2009). The combination of K-RAS
+mutation and CDK pathway deregulation as predictive
+biomarkers could select hyper-responder populations or
+tumors. Since each of the two genes that exhibit synthetic
+
+lethality is frequently located in different cancer-related
+pathways, both dysfunction of the pathway in which the
+target is directly involved and the genetic mutation of the
+synthetic lethal partner could contribute to the improvement
+of the anti-cancer response rate for synthetic lethal
+target inhibitors. The unique characteristic of availability
+of the two predictive biomarkers holds great promise for
+the success of clinical evaluation of synthetic lethal genes.
+

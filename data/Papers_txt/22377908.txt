@@ -1,0 +1,1043 @@
+Abstract
+An apurinic/apyrimidinic (AP) site is an obligatory cytotoxic
+intermediate in DNA Base Excision Repair (BER) that is processed by human AP
+endonuclease 1 (APE1). APE1 is essential for BER and an emerging drug target in
+cancer. We have isolated novel small molecule inhibitors of APE1. In the current
+study we have investigated the ability of APE1 inhibitors to induce synthetic
+lethality in a panel of DNA double strand break (DSB) repair deficient and
+proficient cells; a) Chinese hamster (CH) cells: BRCA2 deficient (V-C8), ATM
+deficient (V-E5), wild type (V79) and BRCA2 revertant (V-C8(Rev1)). b) Human
+cancer cells: BRCA1 deficient (MDA-MB-436), BRCA1 proficient (MCF-7), BRCA2
+deficient (CAPAN-1 and HeLa SilenciX cells), BRCA2 proficient (PANC1 and control
+SilenciX cells). We also tested synthetic lethality (SL) in CH ovary cells
+expressing a dominant–negative form of APE1 (E8 cells) using ATM
+inhibitors and DNA-PKcs inhibitors (DSB inhibitors). APE1 inhibitors are
+synthetically lethal in BRCA and ATM deficient cells. APE1 inhibition resulted
+in accumulation of DNA DSBs and G2/M cell cycle arrest. Synthetic lethality was
+also demonstrated in CH cells expressing a dominant–negative form of
+APE1 treated with ATM or DNA-PKcs inhibitors. We conclude that APE1 is a
+promising synthetic lethality target in cancer.
+Keywords:
+Base excision repair (BER), BRCA deficiency, human apurinic, apyrimidinic endonuclease 1 (APE1), Synthetic lethal targeting, DNA repair, small molecule inhibitorsIntroduction
+DNA base excision repair (BER) is critical for processing base damage induced
+by alkylating agents and radiation
+1
+,
+2
+. Inhibitors that block BER,
+specifically those developed against PARP [poly-(ADP-ribose)
+polymerase], not only potentiate the cytotoxicity of chemotherapeutics and
+radiation, but also induce synthetic lethality in BRCA-deficient breast and ovarian
+cancers
+3
+-
+5
+. The BRCA genes encode BRCT repeat containing proteins that
+facilitate the efficient resolution of DNA double-strand breaks (DSBs) through a
+process called homologous recombination (HR). Cells lacking functional BRCA proteins
+are deficient in HR, and thus dependent on the more error-prone non-homologous end
+joining (NHEJ) pathway. This transition results in chromosomal instability, which
+could include oncogene activation and tumour-suppressor deletion that drives the
+malignant phenotype. Women carrying deleterious germline mutations in the BRCA1 and
+BRCA2 genes have a high risk of developing breast and ovarian cancers
+6
+. It was recently demonstrated that
+HR impaired BRCA deficient cells are hypersensitive to PARP inhibitors that block
+single strand break (SSB) repair, a subpathway of BER
+3
+,
+4
+.
+Although the precise mechanism for synthetic lethality is not fully known
+7
+, SSB repair inhibition may result in
+the formation and accumulation of toxic DSBs at replication forks in BRCA deficient
+cells and induces synthetic lethality
+3
+,
+4
+. Emerging data from clinical
+trials using PARP inhibitors in BRCA deficient breast and ovarian tumours has
+provided confirmatory evidence that synthetic lethality by targeting BER has the
+potential to improve patient outcomes
+8
+.
+Apurinic/apyrimidinic (AP) sites are obligatory repair intermediates in BER,
+and are formed spontaneously or as products of damage-induced or enzyme-catalyzed
+hydrolysis of the N-glycosylic bond. Unrepaired AP sites block replication fork
+progression and generate SSBs that eventually progress to toxic DSBs. Moreover, the
+ring opened aldehyde form of an AP site may be cytotoxic by virtue of its ability to
+react with nuclear proteins resulting in protein-bound DNA lesions that further
+interfere with DNA replication
+9
+-
+15
+. AP sites also affect
+topoisomerase activity and/or trap topoisomerase-DNA covalent complexes
+16
+,
+17
+, contributing additional DNA strand breaks in genomic DNA.
+A recent study in yeast lacking AP endonucelase activity, accumulation of DSB was
+also demonstrated in G2 phase of the cell cycle
+18
+. In human BER, AP sites are processed predominantly by AP
+endonuclease 1 (APE1), a multifunctional protein
+1
+. The DNA repair function is performed by the conserved
+C-terminal domain of the human enzyme. APE1 is also intimately involved in the
+coordination of BER and interacts with several factors within the pathway
+1
+. The N-terminal region of APE1 is
+involved in redox regulation of transcription factors, reducing an oxidized cysteine
+residue in the target protein to activate DNA binding and transcriptional activities
+1
+. The DNA repair and the
+redox functions of APE1 can operate independently from each other. In addition, APE1
+is also involved in acetylation-mediated gene regulation
+19
+and RNA quality control
+20
+.
+APE1 is essential for cell growth and survival, and is an emerging anticancer
+drug target. APE1 knockdown correlates with the accumulation of AP sites, induction
+of apoptosis and reduced cell proliferation. APE1 depletion sensitizes mammalian
+cells to a variety of DNA damaging agents
+1
+, and APE1 overexpression results in resistance to alkylating
+agents, bleomycin and radiation
+1
+.
+APE1 expression has prognostic and/or predictive significance in several human
+tumours including ovarian and breast cancers
+1
+. Nuclear expression of APE1 has been consistently observed
+in cervical, non–small cell lung cancer, rhabdomyosarcomas, and squamous
+cell head-and-neck cancer
+1
+. High
+APE1 expression correlates to poor survival in osteosarcoma. APE1 expression may
+also predict response to cytotoxic therapy in cervical and germ cell tumours
+1
+. We and others have
+initiated drug discovery programmes and isolated several small molecule inhibitor
+compounds of APE1
+21
+-
+27
+. We have shown that APE1 inhibitors lead to
+accumulation of AP sites
+in vivo
+and potentiate the cytotoxicity of
+alkylating agents such as temozolomide in human cancer cell lines
+21
+-
+24
+.
+The ability of PARP inhibitors (that block single strand break repair) to
+induce synthetic lethality in BRCA deficient breast and ovarian cancers
+3
+-
+5
+implies that other factors within BER are potential synthetic
+lethality targets. Given the essential role of APE1 in BER, we have investigated in
+the current study the ability of APE1 inhibitors to induce synthetic lethality in
+DSB repair deficient cells. This study using DNA repair deficient systems provides
+the first evidence that APE1 inhibition is a promising new synthetic lethality
+strategy in cancer.Materials and Methods
+Compounds and reagents
+APE1 inhibitors were purchased from ChemDiv Inc. (CA, USA),
+Ukrorgsynthesis Ltd (Kiev, Ukraine) and Sigma-Aldrich (UK). E3330 and
+methoxyamine were purchased from Sigma-Aldrich (UK). NU1025, NU7441 and KU55933
+were purchased from Tocris Bioscience, UK. Wortmannin was obtained from
+Calbiochem,UK. All compounds were dissolved in 100% DMSO and stored at
+-20
+0
+C. shRNA for APE1 knock down and transfection reagents were
+purchased from SA Biosciences, MD, USA.
+Cell lines and culture
+Previously well characterized CH lung fibroblast cells; V79 (Wild type),
+V-C8 (BRCA-2 deficient), V-C8(Rev1) (BRCA2 revertant), and V-E5 (ATM-like
+deficient)
+28
+,
+29
+were grown in Ham's F-10 media
+(PAA, UK) [supplemented with 10% fetal bovine serum (FBS)
+(PAA,UK) and 1% penicillin/streptomycin]. A CH ovary cell line
+that allows tetracycline-regulated expression of a dominant–negative
+form of APE1 (E8 cells) and its comparative control line (T-REx) were grown in
+DMEM (InVitrogen, Carlsbad, CA, USA), supplemented with 10% FBS
+(tet-minus; Clontech Laboratories Inc., Mountain View, CA, USA), and 1%
+penicillin, streptomycin and glutamate
+30
+. The human breast cancer cell lines, MDA-MB-231 and
+MCF-7, were grown in RPMI1640 (Sigma, UK). MDA-MB-436 (BRCA1 deficient human
+breast cancer cell line) and PANC1 (human pancreatic cancer cell line) were
+grown in DMEM (Sigma, UK). CAPAN1 (BRCA2 deficient human pancreatic cancer cell
+line) was grown in IMDM (PAA, UK). All media used to culture human cancer cell
+lines were supplemented with 10% FBS (PAA, UK) and 1%
+penicillin/streptomycin. BRCA2 deficient HeLa SilenciX® cells and
+control BRCA2 proficient HeLa SilenciX® cells were purchased from
+Tebu-Bio (
+www.tebu-bio.com
+). HeLa SilenciX cells were grown in DMEM medium
+(with L-Glutamine 580mg/L, 4500 mg/L D-Glucose, with 110mg/L Sodium Pyruvate)
+supplemented with 10% FBS, 1% penicillin/streptomycin and 125
+μg/ml Hygromycin B.
+Clonogenic survival assay
+For CH lung fibroblasts
+,
+two hundred cells per well were
+seeded in six-well plates. Cells were allowed to adhere for 4 hours. Compounds
+(APE1 inhibitors, E3330, methoxyamine, or APE1 non-inhibitors) were added at the
+indicated concentrations. The plates were left in the incubator for 10 days.
+After incubation, the media was discarded, fixed (with methanol and acetic acid
+mixture) and stained with crystal violet.
+For T-REx CH control and E8 cell lines, cells were grown to confluence,
+then trypsinized and counted. One hundred fifty cells of each cell line were
+subsequently transferred to each well of a six-well plate. Cells were allowed to
+adhere for 2 hours before being treated with 1 μg/ml tetracycline
+30
+. At the end of 24
+hour incubation, cells were treated for 1 hour at the indicated concentrations
+of NU7441, KU55933 or Wortmannin. Cells were then gently washed 2 times with
+1× phosphate buffered saline and incubated for 10 days in fresh DMEM to
+allow colonies to form. Colonies were fixed with methanol, stained with
+methylene blue and counted. Surviving fraction = (No. of colonies
+formed/No. of colonies in untreated) ×100.
+For human cancer cell lines, 200-400 cells per well were seeded in 6
+well plates, and allowed to adhere for 4 hrs. APE1 inhibitor was then added at
+indicated concentrations. The plates were left in the incubator for 12-14 days.
+After 2 weeks of incubation, the media was discarded, fixed (with methanol and
+acetic acid mixture) and stained with crystal violet. Colonies were counted and
+survival fraction was calculated as follows: Surviving Fraction =
+[No. of colonies formed/(No. of cells seeded × Plating
+efficiency)] ×100. All clonogenic assays were done in
+triplicate.
+AQ
+ueous
+Non-Radioactive Cell Proliferation Assay (MTS
+assay)
+To evaluate cytotoxic agents by APE1 inhibitors, MTS assays were
+performed as per the manufacturer's recommendation (Promega). Briefly,
+2,000 cells per well (in 200 μL of medium) were seeded into a 96-well
+plate. Cells were incubated with varying concentrations of APE1 inhibitors and
+the MTS assay was performed on day 4.
+Aldehyde Reactive Probe assay
+AP sites were quantified as described previously
+22
+. Untreated cells were compared to cells
+exposed to APE1 inhibitor. DNA was extracted pre-treatment, at 2 hours and 4
+hours using the guanidine/detergent lysis method. AP site determinations were
+performed on the genomic DNA using an aldehyde reactive probe assay kit using
+the protocol provided by the manufacturer (BioVision Research Products, CA,
+USA). All experiments were performed in triplicate.
+Alkaline and neutral COMET assay
+This assay was performed as described previously
+31
+. Briefly, sub-confluent cells were
+exposed to APE1 inhibitor. At various time points after exposure (pretreatment,
+2 hours, 4 hours, 8 hours, 24 hours and 48 hours) cells were extracted and comet
+assays were performed. Alkali electrophoresis buffer consisted of 200 mM NaOH, 1
+mM EDTA and pH 13. Neutral electrophoresis buffer (TBE buffer) consisted of (89
+mM Tris-base, 89 mM Boric acid, 2 mM EDTA and pH 8.3. The slides were then
+stained with SYBR® green (1:10,000 dilution) (Molecular Probes) for 10
+minutes and images were visualized under a rhodamine filter with an Olympus BX40
+microscope. The comets were analysed using Comet Assay III image analysis
+software (Perceptive Instruments, Suffolk, UK). A total of 200 comet images were
+evaluated for olive tail moment for each time point (pretreatment, 2 hours, 4
+hours, 8 hours, 24 hours and 48 hours).
+γH2AX immunocytochemistry
+This assay was performed as described previously
+3
+. Briefly, cells were incubated in medium
+containing APE1 inhibitor for 24 hours. After incubation, cells were washed,
+permeabilized and incubated with primary anti–phosphohistone H2AX
+(Ser139) antibody (clone JBW301, mouse monoclonal antibody; Upstate, Millipore
+Corp.) (1:200 dilution in blocking buffer) at room temperature for 1 hour. After
+incubation, the cells were washed and incubated with secondary anti-mouse
+antibody (polyclonal goat anti-mouse immunoglobulins, DAKO, dilution 1:200) at
+room temperature for 1 h in the dark, later washed, air dried at room
+temperature, stained with DAPI and stored overnight at 4°C before
+analyses. Images were obtained using Olympus BX40 microscope and the images
+captured by cellSens (Vers 1.4) Imaging Software and camera (Olympus). The
+frequencies of cells containing γH2AX foci were determined in 100 cells
+per slide in three separate experiments. Nuclei containing more than six
+γH2AX foci were considered positive.
+Flow cytometric analyses (FACS)
+Cells grown to sub-confluence were exposed to APE1 inhibitors and
+collected by trypsinization and centrifugation (1000 rpm for 5 minutes). The
+cell pellets were fixed in 70% ethanol in PBS, incubated at 4°C
+for atleast 12 hours to allow fixation and then stored under these conditions
+until FACS analyses. Prior to FACS analysis, fixed cells were harvested by
+centrifugation (1000 rpm for 5 mins) and the pellet was resuspended in PBS
+containing propidium iodide (2 μg/ml) and DNAse-free RNase A (10
+μg/ml). After incubation at 37°C for 1 hr, the samples were
+analysed by flow cytometry using a Becton Dickinson FACS machine with a 488nm
+laser. Red fluorescence (DNA) was collected for 10,000 cells for each sample.
+Data were analysed using Flow Jo7.6 software.
+APE1 knock down using shRNA
+Transfection reagent was prepared according to manufacturers guidelines
+by adding 100 μl of Opti-MEM™ reduced –serum medium
+(Gibco), 0.40 μg of scrambled and APE1 knock out sequence containing
+shRNA plasmid (SA Bioscience) and 3 μl of Sure effect (SA Bioscience)
+into appropriate wells of a 24-well cell culture plate and mixed gently by
+rocking for 20 minutes. Cells at a density of 1.6 ×10
+6
+cells/ml were prepared according to manufacturers indicated protocol. When the
+transfection complex formation was complete, 500μl of the cell
+suspension was added, mixed gently and incubated in an atmosphere of 5%
+CO
+2
+and 95% air for 24 to 48 hours. Cells were later
+passaged into 6 well plates, incubated and selected in media containing
+800μg/ml of G418 (Gibco) for seven days (The concentration for G418 was
+selected after determining the dose response curve as recommended by the
+manufacturer and media replaced every 72 hrs). Stable APE1 knock cells were
+generated over a 12 weeks period and APE1 knockdown was confirmed by western
+blot analysis.
+Western blot analysis
+Protein samples were prepared by lysing cells in RIPA buffer (20mM Tris,
+150mM Nacl, 1% Nonidet p-40, 0.5% sodium deoxycholate, 1mMEDTA,
+0.1% SDS) containing protease inhibitor (Sigma) and phosphatase
+inhibitor cocktail 1 and 2 (Sigma). Western blot analyses was performed.
+Membranes were incubated with primary antibodies (4°C/overnight, APE-1,
+Novus Biologicals Inc, Littleton, CO 1:1000 dilution and Actin (Abcam) 1:10000
+dilution) and infrared dye labeled secondary antibodies (Li-cor) (IRDye 800CW
+Donkey Anti-Rabbit IgG (H+L) and IRDye 680CW Donkey Anti-Mouse IgG
+(H+L) in the dilution of 1:15000 for 60 min. Protein expression was
+determined by scanning the membranes on Licor-Odyssey's Scanner at the
+predefined intensity fluorescence channel (700nm and 800nm).
+Statistical analysis
+Statistical significance of differences was determined using the student
+t
+-test in Microsoft Excel.Results
+APE1 inhibitors
+We have recently developed complementary drug screening strategies to
+isolate APE1 inhibitors
+21
+-
+24
+. Although detailed biochemical
+and cellular investigations have been presented in previous publications
+21
+-
+24
+,
+Table
+1
+summarises several key features of the three top prototypical APE1
+inhibitors selected for the current study. Inhibitor-1
+(N-(4-fluorophenyl)-2-[4-phenylsulfonyl-2-(p-tolyl)oxazol-5-yl]sulfanyl-acetamide)
+and inhibitor-2
+(N-(9,10-dioxo-1-anthryl)-2-(1H-1,2,4-triazol-5-ylsulfanyl)acetamide) have an
+IC
+50
+for APE1 inhibition of 11.6 μM and 4 μM,
+respectively
+22
+, while
+inhibitor-3 (3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)- 4-chromenone, a.k.a.
+myricetin) was reported to have an IC
+50
+of 0.32 μM
+23
+. All three inhibitors are
+specific for APE1, in that they do not appear to interact with DNA and have no
+activity against
+E. coli
+endonuclease IV (a functional homolog
+with no sequence or structural homology to APE1). All these compounds have been
+found to be potent inhibitors of AP site cleavage activity in HeLa whole cell
+extract assays, lead to accumulation of AP sites
+in vivo
+in
+cancer cells (confirming target inhibition) and to potentiate the cytotoxicity
+of alkylating agents in cancer cell lines
+22
+,
+23
+. Molecular
+modelling studies indicate that these compounds dock onto the active site of
+APE1
+22
+,
+23
+. Methoxyamine, a non-specific indirect
+inhibitor of APE1, binds irreversibly to AP sites in DNA
+15
+and prevents APE1 (and endonuclease IV)
+from processing the adducted AP lesion. E3330 is a APE1 redox domain inhibitor
+and does not inhibit the AP site cleavage activity of the protein
+32
+. Three non-inhibitors of APE1
+from a previous screen
+22
+were
+also chosen randomly as negative controls. NU1025, a well characterised PARP
+inhibitor, was chosen as a positive control. These compounds were employed
+collectively to explore synthetic lethality relationships in a panel of DNA
+repair deficient cells.
+Table 1
+APE1 Inhibitors
+Inhibitor
+Structure
+APE1 inhibition
+Endo IV inhibition
+IC
+50
+BRCA2(−/−):SL
+ATM(−/−):SL
+N-(4-fluorophenyl)-2-[4-phenylsulfonyl-2-(p-tolyl)oxazol-5-yl]sulfanyl-acetamide
+Open in a separate window
++
+−
+11.6 μM
++
++
+N-(9,10-dioxo-1-anthryl)-2-(1H-1,2,4-triazol-5-ylsulfanyl)acetamide
+Open in a separate window
++
+−
+4 μM
++
++
+3,5,7-Trihydroxy-2-(3,4,5-trihydroxyphenyl)- 4-chromenone
+(Myricetin)
+Open in a separate window
++
+−
+0.32 μM
++
++
+Methoxyamine
+*
+Open in a separate window
++
++
+NA
++
++
+(2E)-2-[(4,5-Dimethoxy-2-methyl-3,6-dioxo-1,4-cyclohexadien-1-yl)methylene]-undecanoic
+acid (E3330)
+**
+Open in a separate window
+−
+−
+−
+−
+−
+Open in a separate window
+*
+= methoxyamine binds irreversibly to AP site in DNA. Methoxyamine
+bound AP sites are resistant to processing by APE1. Therefore, methoxyamine
+is an indirect inhibitor of APE1.
+**
+= E3330 blocks redox domain activity of APE1 but has no inhibitory
+activity on the DNA repair domain of APE1. IC
+50
+=
+biochemical inhibition of AP site cleavage activity, SL= synthetic
+lethality.
+APE1 inhibitors exhibit increased toxicity against BRCA2 deficient and ATM
+deficient CH cells
+V79 (Wild type), V-C8 (BRCA-2 deficient) and V-C8(Rev1) (BRCA2
+revertant) were investigated in clonogenic survival assays.
+Figure 1
+demonstrates that inhibitor-1 (
+Figure 1A
+), inhibitor-2 (
+Figure 1B
+) and inhibitor-3 (
+Figure
+1C
+) induce reduced survival of V-C8 cells in comparison to V79 and
+V-C8(Rev1) cells. We then tested APE1 inhibitors in V-E5 cells (ATM-like
+deficient).
+Figure 1D
+demonstrates that
+inhibitor-1 is more toxic to V-E5 cells than V-79 cells. A similar lethality
+profile was also seen when using inhibitors-2 and -3 (
+Table 1
+). Similar results were also seen with MTS
+assays. We then tested the effects of methoxyamine.
+Figure 1E
+demonstrates that methoxyamine is more
+lethal to V-C8 cells than V79 and V-C8(Rev1) cells. Similar lethality was also
+demonstrated with methoxyamine in V-E5 cells (data not shown). E3330, the redox
+inhibitor of APE1, did not show increased toxicity to V-C8 (
+Figure 1F
+) or V-E5 cells (data not shown). We also
+investigated the ability of NU1025 (PARP inhibitor) to induce lethality in our
+model systems.
+Figure 2A
+demonstrates the
+expected synthetic lethality of NU1025 in V-C8 cells compared to V79 and
+V-C8(Rev1) cells. Similar synthetic lethality was seen in V-E5 cells with NU1025
+as well (data not shown). As an additional control, we tested three
+non-inhibitors of APE1 randomly chosen from a previous screen
+22
+.
+Figure 2B
+shows that non-inhibitor-1 (tested at concentrations
+similar to the above APE1 inhibitors) did not induce lethality in V-C8 or V-E5
+cells compared to V79 and V-C8(Rev1) cells. The other two non-inhibitors also
+did not induce lethality (data not shown).
+Open in a separate window
+Figure 1
+Clonogenic survival assays for CH lung cells. Inhibitors were added at the
+indicated concentrations (see methods for details):
+A.
+Inhibitor-1,
+B
+. Inhibitor-2, and
+C.
+Inhibitor-3 with V-C8, V79
+and V-C8(Rev1) cells.
+D
+. Inhibitor-1 with V-E5 and V79 cells.
+E.
+Methoxyamine induces synthetic lethality in V-C8 cells
+compared to V-79 and V-C8 (Rev1) cells.
+F
+. E3330 does not induce
+synthetic lethality in V-C8 cells. Survival of V-C8 cells is similar to V79 and
+V-C8 (Rev1) cells.
+Open in a separate window
+Figure 2
+Clonogenic survival assays. Inhibitors were added at indicated concentrations
+(see methods for details).
+A.
+NU1025 induces synthetic lethality in
+V-C8 cells compared to V79 and V-C8 (Rev1) cells.
+B
+.
+Non-inhibitor-1 has no effect on V-C8 cells. Survival of V-C8 cells is similar
+to V79 and V-C8 (Rev1) cells. Clonogenic survival assays for T-REx CHO control
+cells and E8 cells.
+C.
+NU7441,
+D.
+KU55933, and
+E.
+Wortmannin. Results shown in panels C-E represent the
+average and standard deviation of six independent data points.
+F.
+Western blot (inset) confirming stable APE1 knock down (KO) in MDA-MB-231
+treated with shRNA constructs compared to scramble and wild type cells.
+Clonogenic survival assays preformed with wortmannin at the indicated
+concentrations.
+DSB repair inhibitors induce lethality in CH cells expressing
+dominant-negative APE1 or human cancer cells depleted for APE1
+A CH ovary cell line (E8) was recently generated to permit
+tetracycline-regulated expression of a dominant–negative form of APE1
+30
+. Tetracycline
+induced E8 cells were shown to be BER deficient, in that they lack efficient AP
+site processing and display hypersensitive to DNA base damaging agents and
+certain anti-metabolites
+30
+.
+We have exploited this model system to investigate if DSB repair inhibitors such
+as KU55933 (ATM kinase inhibitor), NU7441 (DNA-PKcs inhibitor) and Wortmannin
+(broad spectrum DSB inhibitor) would induce lethality in BER defective CH cells.
+Each of these inhibitor compounds was found to be more toxic to the tetracycline
+induced E8 cell line in comparison to the T-REx CH ovary control cells (
+Figure 2C, Figure 2D and Figure 2E
+). We also
+confirmed this observation in E8 cells only that were either tetracycline
+induced (tet
++
+) or un-induced (tet
+−
+).
+Western blot analysis for ED protein expression in the presence (+) or
+absence (−) of tetracycline is shown in
+supplemental Figure 2D
+. E8
+tet
++
+cells are hypersensitive to NU7441 (
+supplemental Figure 2A
+), KU55933
+(
+supplemental Figure
+2B
+) and Wortmannin (
+supplemental Figure 2C
+).
+To expand the studies using BER deficient CH cells, we developed a
+stable APE1 knockdown human breast cancer cell line using shRNA.
+Figure 2F
+(inset) demonstrates that compared to wild
+type and the scramble knockdown controls, cells transfected with APE1 shRNA had
+a near complete knockdown of APE1. We then tested lethality with the DSB repair
+inhibitors in this system.
+Figure 2F
+confirms that APE1 knockdown cells are hypersensitive to Wortmannin. Similar
+results were seen with KU55933 and NU7441 (
+supplemental Figures 1D and 1E
+).
+The results with human cancer cells concur with the data from the CH cells and
+confirm that in BER deficient systems, DSB repair inhibition by small molecule
+inhibitors likely leads to synthetic lethality.
+Evidence for synthetic lethality upon APE1 inhibition in CH mutant
+cells
+The clonogenic survival studies presented above provide the first
+evidence that modulation of APE1 is a promising new synthetic lethality
+strategy. To provide further evidence, we proceeded to investigate the
+functional consequence of APE1 inhibition in the DSB repair deficient and
+proficient CH cells.
+To determine targeted inhibition of APE1
+in vivo
+, the
+aldehyde reactive probe assay was performed to measure the level of unrepaired
+chromosomal AP sites.
+Figure 3A
+summarizes
+the results for V79, V-C8 and V-C8(Rev1) cells treated with 10 μM of
+inhibitor-1. In samples prior to inhibitor treatment, the background AP site
+level in genomic DNA was low (range 2-3 AP sites per 10
+5
+base pairs).
+Conversely, within 2 hours of treatment with 10 μM of inhibitor-1, cells
+accumulated a significant number of AP sites (range 11-12 AP sites per
+10
+5
+base pairs). At 4 hours, AP site accumulation increased
+further to more than 15 AP sites per 10
+5
+base pairs in genomic DNA
+(p<0.05). This data confirms APE1 specific inhibition
+in
+vivo
+. Similar accumulation of AP sites was also demonstrated using
+inhibitor-2 and inhibitor-3 (data not shown).
+Open in a separate window
+Figure 3
+A.
+Aldehyde Reactive Probe (ARP) assay. In pre-treatment samples,
+background AP site level was low in all CH cell lines. At 2 hours and 4 hours of
+treatment with 10 μM of inhibitor-1, cells accumulated a significantly
+(p<0.001) higher level of AP sites. See text for details.
+B.
+Alkaline COMET assay. V-C8 cells demonstrated a higher mean
+tail moment compared to V79 and V-C8(Rev1) cells at 24 hours (p=
+0.0008).
+C
+. Neutral COMET assay was performed as described in
+methods at various time points. Mean tail moment was higher in V-C8 cells at 24
+hours (p=0.002) and 48 hours (p=0.003) compared to V-79 and
+V-C8-Rev1 cells.
+D.
+γH2AX immunocytochemistry. After 24
+treatment with 10μM of inhibitor-1, γH2AX positive cells are
+more (p=0.04) in V-C8 cells compared to, V-C8 (Rev1) and V79 cells
+(UT= untreated, T = treated).
+E.
+FACS analyses. At
+24 hours, V-C8 cells were shown to be arrested in G2/M phase compared to V-79
+cells. F. Quantification of each stage of cell cycle including standard
+deviations is shown here. See text for details
+The alkaline COMET assay detects natural AP sites, as well as SSBs and
+DSBs.
+Figure 3B
+summarizes the results for
+V79, V-C8 and V-C8(Rev1) cells treated with 10 μM of inhibitor-1.
+Compared to pre-treatment samples, after 24 hours of exposure to APE1 inhibitor,
+V-C8 cells demonstrate a significantly higher mean tail moment compared to V-79
+and V-C8(Rev1) cells (p=0.0008). Such data indicates that V-C8 cells
+accumulate alkaline sensitive sites and DNA strand breaks after exposure to an
+APE1 inhibitor compared to V-79 and V-C8(Rev1) cells. Similar results were seen
+with inhibitor-2 and inhibitor-3 (data not shown).
+The neutral COMET assay specifically detects DSBs in DNA.
+Figure 3C
+summarizes the results for V79, V-C8 and
+V-C8(Rev1) cells treated with 10 μM of inhibitor-1. Compared to
+pre-treatment samples, after 24 hours of exposure to APE1 inhibitor, the mean
+tail moment was significantly higher in V-C8 cells at 24 hours (p=0.002)
+and at 48 hours (p=0.003) in comparison to V79 and V-C8(Rev1) cells.
+This data demonstrates that V-C8 cells accumulate DSBs after exposure to an APE1
+inhibitor compared to V79 and V-C8(Rev1) cells. Similar results were seen with
+inhibitor-2 and inhibitor-3 (data not shown). We also demonstrated significant
+accumulation of DSBs in VE5 cells compared to V79 cells at 24 hours
+(p<0.006) and at 48 hours (p<0.001) (
+supplemental Figure 1A
+).
+DSBs induce phosphorylation of H2AX at serine 139 (γH2AX), and
+accumulation of γH2AX foci in the nucleus is a marker of DSBs
+33
+. Therefore, γH2AX
+immunocytochemistry was performed in V-C8 cells, V-C8(Rev-1) and V-79 cells.
+Nuclei containing more than six γH2AX foci were considered positive.
+Cells were exposed to 10 μM inhibitor-1 for 24 hours and compared to
+control samples prior to compound treatment. In V79 cells, the mean
+γH2AX positive cells was 5 in pre-treatment cells and increased to 14
+after the 24 hour treatment (
+Figure 3D
+). In
+V-C8(Rev-1) cells, the mean γH2AX positive cells was 11 in pre-treatment
+cells and increased to 20 after the 24 hour treatment. In V-C8 cells, the mean
+γH2AX positive cells was 9 in pre-treatment cells and increased to 30
+after the 24 hour treatment (p=0.04). The data here provide additional
+evidence that V-C8 cells accumulate DSBs, consistent with the results obtained
+using the neutral COMET assay (
+Figure 3C
+).
+Similar γH2AX immunocytochemistry results were seen with inhibitor-2 and
+inhibitor-3 (data not shown). Similarly, in VE5 cells, the mean γH2AX
+positive cells were significantly high compared to wild type cells (
+supplemental Figure 1B
+)
+(p=0.03). Although γ H2AX foci may be indicative of other types
+of damage as well as DSBs, the data presented above along with the results
+presented for neutral COMET assays implies that there is DSB accumulation in
+BRCA deficient cells.
+Accumulation of DSBs may delay cell cycle progression. FACS analyses
+were therefore performed in V-C8 cells and V79 cells exposed to inhibitor-1 for
+24 hours, and cell cycle progression was evaluated and compared to control
+samples before treatment.
+Figures 3E and 3F
+summarise the data for cells treated with 10 μM of inhibitor-1. At 24
+hours, V-C8 cells were shown to be arrested in G2/M phase of the cell cycle
+compared to V79 cells. This is consistent with a previous study where a PARP
+inhibitor was shown to induce G2/M arrest in BRCA deficient cells
+4
+. Similar cell cycle results were
+seen with inhibitor-2 and inhibitor-3 (data not shown).
+Evidence for synthetic lethality in BRCA deficient human cancer cell
+lines
+Studies in the DNA repair deficient CH systems presented above provide
+clear mechanistic evidence that APE1 inhibition is a promising new synthetic
+lethality strategy. To confirm this observation in human systems, we employed a
+panel of human cancer cell lines known to be deficient in DSB repair.
+Figure 4A
+demonstrates that inhibitor-1 is
+lethal in BRCA2 deficient HeLa SilenciX cells in comparison to control BRCA2
+proficient SilenciX cells. We then performed neutral comet assays to evaluate
+DSB accumulation (
+Figure 4B
+). The mean tail
+moment was higher in BRCA2 deficient HeLa SilenciX cells at 24 hours
+(p=0.01) and at 48 hours (p=0.01) post-treatment in comparison
+to BRCA2 proficient control SilenciX cells. γH2AX immunocytochemistry
+was performed as described above.
+Figure 4C
+summarises the results for cells treated with 10 μM of inhibitor-1. In
+BRCA2 proficient control SilenciX cells, the mean γH2AX positive cells
+was 14 in pre-treatment cells and increased to 28 after a 24 hour treatment with
+inhibitor-1. In BRCA2 deficient SilenciX cells, the mean γH2AX positive
+cells was 18 in pre-treatment cells and increased to 44 after a 24 hour
+treatment (p=0.02).
+Open in a separate window
+Figure 4
+A.
+Inhibitor-1 induces synthetic lethality in BRCA2 deficient
+SilenciX cells compared to BRCA2 proficient control SilenciX cells.
+B.
+Neutral COMET assay was performed as described in methods at
+various time points. Mean tail moment was higher in BRCA2 deficient SilenciX
+cells at 24 hours (p= 0.01) and 48 hours (p= 0.01) compared to
+BRCA2 proficient control SilenciX.
+C.
+γH2AX
+immunocytochemistry. After 24 hour treatment with 10μM of inhibitor-1,
+γH2AX positive cells are significantly more (p=0.02) in BRCA2
+deficient SilenciX compared to BRCA2 proficient control SilenciX (UT=
+untreated, T = treated).
+D.
+Inhibitor-1 induces synthetic
+lethality in CAPAN1 cells compared to PANC1 cells.
+E.
+NU1025
+induces similar synthetic lethality in CAPAN1 cells compared to PANC1 cells.
+We then evaluated lethality in well characterised BRCA deficient human
+cancer cell lines.
+Figure 4D
+demonstrates
+that inhibitor-1 is more toxic to BRCA2 deficient CAPAN1 pancreatic cancer cells
+in comparison to BRCA2 proficient PANC1 pancreatic cancer cells. As a positive
+control we tested NU1025 (PARP inhibitors) in this system and observed the
+anticipated synthetic lethality (
+Figure
+4D
+). We then performed neutral comet assays to evaluate DSB accumulation
+(
+Figure 5A
+). The mean tail moment was
+higher in CAPAN1 cells at 24 hours(p=0.03) and 48 hours (p=0.05)
+post-treatment (inhibitor-1) in comparison to PANC1 cells (
+Figure 5A
+). γH2AX immunocytochemistry was also
+performed, and
+Figure 5B
+summarises the
+results for cells treated with 10 μM of inhibitor-1. In PANC1 cells, the
+mean γH2AX positive cells was 7 in pre-treatment cells and increased to
+11 after a 24 hour treatment with inhibitor-1. In CAPAN1 cells, the mean
+γH2AX positive cells was 9 in pre-treatment cells and increased to 17
+after a 24 hour treatment with 10 μM of inhibitor-1
+(p=0.05).
+Open in a separate window
+Figure 5
+A.
+Neutral COMET assay was performed as described in methods at
+various time points. Mean tail moment was significantly higher in CAPAN1 cells
+at 24 hours (p=0.03) and 48 hours (p=0.05) compared to PANC1
+cells.
+B.
+γH2AX immunocytochemistry. After 24 treatment
+with 10μM of inhibitor-1, γH2AX positive cells are more
+(p=0.05) in CAPAN1 cells compared to PANC1 cells(UT= untreated,
+T = treated).
+C.
+Inhibitor-1 induces synthetic lethality in
+MDA-MB-436 cells compared to MCF-7 cells.
+D.
+NU1025 induces similar
+synthetic lethality in MDA-MB-436 cells compared to MCF-7 cells.
+E.
+Neutral COMET assay was performed as described in methods at various time
+points. Mean tail moment was higher in MDA-MB-436 cells at 24 hours
+(p=0.002) and 48 hours (p=0.005) compared to MCF-7 cells.
+F.
+γH2AX immunocytochemistry. After 24 treatment with
+10μM of inhibitor-1, γH2AX positive cells are more
+(p=0.05) in MDA-MB-436 cells compared to MCF-7 (UT= untreated, T
+= treated).
+We then examined lethality in BRCA1 deficient human breast cancer cells.
+Figure 5C
+demonstrates that inhibitor-1
+is more toxic to MDA-MB-436 cells (BRCA1 deficient) than MCF-7 cells (BRCA1
+proficient). As a positive control, we tested NU1025 (PARP inhibitor) and
+demonstrated similar lethality (
+Figure 5D
+).
+We then performed neutral comet assays to evaluate DSB accumulation (
+Figure 5E
+). The mean tail moment was higher
+in MDA-MB-436 cells at 24 hours (p=0.002) and 48 hours (p=0.005)
+post-treatment (inhibitor-1) in comparison to MCF-7 cells. These results
+demonstrate that BRCA deficient human cancer cells accumulate DSBs after
+exposure to an APE1 inhibitor compared to BRCA proficient cells. γH2AX
+immunocytochemistry was performed as described previously.
+Figure 5F
+summarises the results for cells treated
+with 10 μM of inhibitor-1. In MCF-7 cells, the mean γH2AX
+positive cells was 5 in pre-treatment cells and increased to 7 after a 24 hours
+treatment with 10 μM of inhibitor-1. In MDA-MB-436 cells, the mean
+γH2AX positive cells was 4 in pre-treatment cells and increased to 11
+after 24 hours treatment with 10 μM of inhibitor-1 (p=0.05).
+The data presented in human cancer cell lines concurs with the results
+using CH cells. The findings in their entirety provide compelling evidence that
+APE1 inhibitors induce synthetic lethality in BRCA 1 deficient and BRCA 2
+deficient cells by interfering with AP site processing and thereby driving DSB
+formation and cell death.Discussion
+BER is essential for processing base damage induced by alkylating agents and
+radiation. AP sites are obligatory cytotoxic repair intermediates in BER formed
+after excision by a DNA glycosylase and are subsequently processed by human APE1
+34
+,
+35
+. Preclinical and clinical studies have
+confirmed that APE1 is a promising target for drug development in cancer
+1
+. Multiple drug discovery programmes
+have been initiated and several novel small molecule inhibitor compounds of APE1
+have been identified
+21
+-
+24
+. In previous studies, we have shown that
+APE1 inhibitors potentiate the cytotoxicity of alkylating agents, such as
+temozolomide, in cancer cell lines
+21
+-
+24
+.
+Preclinical and clinical studies have confirmed the ability of PARP
+inhibitors, which block a subpathway of BER, to induce synthetic lethality in BRCA
+deficient breast and ovarian cancers
+3
+-
+5
+. Although a model
+has been proposed whereby inhibition of SSB repair leads to the excessive formation
+of DSBs upon replication fork collapse and cellular lethality, this model is far
+from complete
+7
+. Recent studies
+have also challenged the targeting of PARP. For instance, the PARP superfamily of
+enzymes includes at least 17 members that have different structures and functions
+36
+,
+37
+. Moreover, PARP1 appears to be essential for
+the repair of SSBs, yet has other functions including roles in nucleotide excision
+repair, telomere length maintenance and organisation of the spindle apparatus. PARP2
+is also involved in DNA repair as well as gene transcription and T-cell development
+38
+The functions of other
+PARP superfamily enzymes in DNA repair and other cellular pathways remains less
+clear
+37
+.
+PARP enzymes utilize NAD+ (nicotinamide adenine dinucleotide) as a
+substrate to catalyze the formation of large branched chains of poly(ADP)-ribose on
+several acceptor proteins including those involved in DNA damage repair and
+chromatin remodeling. PARP inhibitors under clinical development compete with
+endogenous NAD+ for active site binding. However, the specificity of several
+PARP inhibitors currently undergoing clinical development remains unclear, and some
+inhibitors not only block PARP1 but also PARP2 and other members of the superfamily
+36
+,
+37
+. Given the large PARP superfamily and the
+number of unrelated proteins that also utilize NAD+, concerns regarding
+non-specific activity and long term toxicity of PARP inhibitors has emerged
+36
+,
+38
+-
+40
+.
+Nevertheless, evidence from studies of PARP inhibitors suggests that other targets
+specific to BER are likely to be promising candidates for drug development.
+APE1 inhibition in cells leads to AP site accumulation. AP sites are
+cytotoxic by virtue of replication fork blockage, generation of SSBs and DSBs.
+Clearly in somatic cancer cells this will be of therapeutic value. Although there is
+possibility of ‘off-target’ activity, our data that APE1 inhibitors
+result in AP site accumulation (as assessed by aldehyde reactive probe assay) and
+previous studies of APE1 depletion by siRNA/shRNA/anti-sense oligonucleotide
+1
+demonstrating AP site
+accumulation and reduced cell viability implies that our data is consistent with
+previous observations. AP site quantification is a robust assay for target
+inhibition
+in vivo
+and holds promise as a biomarker of target
+activity
+in vivo
+. We speculate that aldehyde reactive probe assays
+can be performed either in peripheral blood mononuclear cells (as a surrogate
+biomarker) or in tumour tissue sampled after exposure to APE1 inhibitors in
+xenograft studies and possibly in future early phase human trials of APE1
+inhibitors.
+As the DNA repair domain of APE1 is highly specific to BER, we hypothesised
+that APE1 is a promising alternative synthetic lethality target and could
+potentially bypass many of the challenges concerning the development of PARP
+inhibitors. We demonstrate herein that APE1 inhibitors are synthetically lethal in
+BRCA deficient and ATM deficient cells. We have concluded synthetic lethality for
+the following reasons. First, in a CH cell system that expresses a dominant-negative
+form of APE1 we observed increased sensitivity to DSB repair inhibitors, a
+phenomenon also seen in a human cancer cell line deficient in APE1. Second,
+functional analyses in DSB repair deficient CH and human cells confirmed that
+inhibitors against APE1 led to an accumulation of AP sites, elevated DNA DSBs,
+and/or arrest of G2/M cell cycle progression. Weigent et al
+28
+reported the generation of BRCA2 revertants.
+V-C8 cells display non-sense mutation in Brca2, one in exon 15 and another in
+exon-16, both resulting in a truncated Brca-2 protein. Mitomycin-c resistant clones
+were generated from V-C8 cells in that study
+28
+. V-C8(Rev1) clones were isolated that had restoration of
+one of the brca2 alleles. Although the Brca2 heterozygote
+[V-C8(Rev1)] did not gain the entire wild-type phenotype in that
+study, the inability of APE1 inhibitors to induce selective toxicity in the Brca2
+heterozygote [V-C8(Rev1)] cells compared to VC8 in our study implies
+that endogenous BRCA2 in this heterozygote is sufficient to allow DSB repair and to
+rescue the synthetic lethality phenotype. This data is consistent with the
+preclinical studies that employed PARP inhibitors using BRCA deficient cell systems
+3
+,
+4
+. VC8 cells were BRCA2 corrected using a BAC with the murine
+Brca2 gene in the Bryant et al study
+3
+. VC8-B2 cell which was BRCA2 proficient was compared to VC8
+cells. In contrast to VC8-B2 cells, BRCA2 deficient VC8 cells were hypersensitive to
+PARP inhibitors in that study
+3
+.
+Thus, our study provides not only confirmation that BER inhibition is responsible
+for the synthetic lethality observed with DSB repair deficient cells treated with
+PARP inhibitor, but also evidence that APE1 inhibitors must be evaluated further as
+a synthetic lethality strategy in
+in vivo
+models . We present a
+working model for APE1 inhibition as a synthetic lethality strategy in DSB deficient
+cells. In brief, APE1 inhibition leads to AP site accumulation, which results in the
+indirect generation of SSBs that are eventually converted to toxic DSBs at
+replication forks. In cells deficient in DSB repair, DSBs would persist and lead to
+the observed synthetic lethality. In cells that are proficient in DSB repair, DSBs
+would be repaired and cells would survive.
+Aberrant vasculature and oxygen starvation results in acute/chronic tumour
+hypoxia. Tumour hypoxia is a feature of common solid tumours such as breast, lung
+and colorectal cancers. Hypoxia in the tumour microenvironment promotes anaerobic
+glycolysis and lactic acid accumulation leading to a low extracellular pH and an
+acidic microenvironment. A recent study highlighted the critical role of BER in
+cancer cell survival in acidic tumour microenvironments
+41
+. An acidic microenvironment enhances
+oxidative stress which results in oxidative base damage that leads to the
+up-regulation of BER factors such as APE1. An APE1 inhibitor was shown to be more
+cytotoxic to cancer cells in the acidic microenvironment in that study
+41
+. Interestingly, this BER
+up-regulation in a hypoxic tumour microenvironment may be coincident with a decrease
+in DSB repair, including HR
+42
+-
+44
+. Thus, BER up-regulation and HR
+depletion may present an opportunity in the more common sporadic solid tumour
+microenvironment for synthetic lethality. This has potential for wider clinical
+application as current synthetic lethality strategies are only applicable to tumours
+from patients with germ-line deficiency in the BRCA 1 and BRCA 2 genes. The
+mechanistic study presented here provides the first preclinical proof that APE1 is a
+promising new synthetic lethality target and that APE1 inhibitors could have
+significant translational clinical applications in patients.Supplementary Material
+Supp Fig S1
+Supplemental Figure 1.
+A. Neutral COMET assay was
+performed as described in methods at various time points. Mean tail moment
+was higher in V-E5 cells at 24 hours (p=0.006) and 48 hours
+(p=0.001) compared to V-79 cells.
+B.
+γH2AX
+immunocytochemistry. After 24 treatment with 10μM of inhibitor-1,
+γH2AX positive cells are more (p=0.03) in V-E5 cells
+compared to, V79 cells (UT= untreated, T = treated).
+C.
+MTS proliferation assay showing that V-C8 cells have
+reduced viability and proliferation compared to V-C8(Rev1) and V-79 cells.
+D.
+Clonogenic survival assays preformed with KU55933 at the
+indicated concentrations.
+E.
+Clonogenic survival assays
+preformed with NU7441 at the indicated concentrations.
+Click here to view.
+(241K, TIF)
+Supp Fig S2
+Supplemental Figure 2.
+ED expression induces increased
+cellular lethality in the presence of DNA DSB repair inhibitors. E8 T-REx CH
+ovary cells were treated with (tet +) or without (tet -)
+tetracycline for 24 hours (see Materials and Methods); tetracycline induces
+ED protein expression (see panel D). Subsequently, NU7441 (A), KU55933 (B),
+or Wortmannin (C) was added and incubated at the indicated concentrations as
+described in Materials and Methods. Shown are the averages and standard
+deviations of six independent data points from a single colony formation
+experiment. (D) Western blot analysis for ED protein expression in the
+presence (+) or absence (-) of tetracycline. Included is a positive
+human APE1 control protein.
+Click here to view.
+(142K, TIF)Acknowledgments
+This work was supported by the Breast Cancer Campaign, UK, and by the Intramural
+Research Program of NIH, National Institute on Aging, USA. M.Z. Mohammed, R Sultana
+and S Madhusudan are supported by the University of Nottingham, UK. R. Abbotts is
+supported by Medical Research Council, UK.Footnotes
+Conflict of interest:
+None declared

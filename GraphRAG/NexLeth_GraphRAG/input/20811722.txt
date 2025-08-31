@@ -1,0 +1,726 @@
+Abstract. Activation to a large extent of the phosphatidylinositol
+3-kinase (PI3K)/Akt pathway and mutations in the
+p53 gene are involved in lung cancer therapeutic resistance.
+The mammalian target of rapamycin (mTOR) acts as a downstream
+effector for Akt. Activation of the Akt/mTOR signal
+is a contributing factor to decreased radiation sensitivity. The
+purpose of this study was to examine whether the effect of
+rapamycin on radiation sensitivity is affected by cellular p53
+gene status. Cellular radiation sensitivity was evaluated by
+using two human non-small cell lung cancer (NSCLC) cell
+lines with the same genetic background except for their p53
+gene status (H1299/wtp53 and H1299/mp53). The cells were
+treated with rapamycin and/or radiation. Cell viability, cell
+proliferation, apoptosis, cell cycle and Akt/mTOR signaling
+activity were explored. Rapamycin synergistically enhanced
+the cytotoxicity of radiation, promoting the induction of
+apoptosis. Moreover, the combined treatment augmented the
+cytostatic effects of radiation regardless of cellular p53 gene
+status. Rapamycin in combination with radiation increased
+G1 arrest and suppressed progression to S phase in both cell
+lines. Furthermore, the combined treatment conduced to a
+prominent p53-independent down-regulation of the mTOR
+signal and pro-survival molecule, cyclin D1. Rapamycin can
+enhance the effect of radiation through the repression of prosurvival
+signals and the reduction in the apoptotic threshold.
+Taken together, inhibition of the mTOR signal may be a
+promising strategy for radiosensitization with no relevance to
+p53 gene status from the aspects of cell lethality and cell
+growth depression.
+
+Introduction
+
+Lung cancer is the leading cause of cancer-related deaths
+worldwide (1). High mortality rates seen in lung cancer reflects
+its invasive nature and its resistance to current treatment
+modalities. Most patients with lung cancer are diagnosed at
+advanced stages and are not cured with a 5-year relative
+survival rate of 15% (1). Systemic chemotherapy and radiotherapy
+are the two mainstays of treatment for inoperable
+advanced disease. Although radiotherapy is applied for local
+disease control, the beneficial effect of current radiotherapy
+seems to be restricted to initial responders alone. Most patients
+will relapse due to the development of radiation resistance
+and lack of an adequate salvage therapy. This dismal prognosis
+has prompted a search for new therapeutic strategies.
+Radiation resistance in tumors is associated with the
+activation of cell survival pathways, aberrations in tumor
+suppressor genes, and DNA damage repair mechanisms
+(2,3). The PI3K/Akt pathway represents a major cell survival
+pathway and plays a critical role in oncogenesis and tumor
+cell growth (4). Recent studies have reported that Akt
+activation contributes to resistance to radiation, chemotherapy
+and tyrosine kinase inhibitors by promoting survival
+signals which protect cancer cells from undergoing apoptosis
+(5-8). It has been shown that inhibition of PI3k/Akt through
+pharmacologic or genetic means induces antiproliferative
+effects on certain NSCLC cell lines in vitro and in vivo
+(9,10). Similarly, it has been demonstrated that inhibition of
+Akt activity, by pharmacologic or genetic approaches, greatly
+improves the cellular response to radiation in NSCLC cells
+(11). Although inhibition of the PI3K/Akt signal may be a
+promising strategy to enhance the effect of radiation, there
+are concerns about the possible side-effects of inhibiting
+these upstream proteins.
+The mammalian target of rapamycin, mTOR, is a 289-kDa
+serine-threonine kinase which acts as a downstream effector
+for Akt (12). It regulates key processes such as cell growth
+and proliferation, cell cycle progression and protein translation
+through two distinct pathways: one involving the ribosomal
+p70S6 kinase (p70S6K), and one involving eukaryotic
+translation initiation factor 4E (eIF4E) binding proteins
+
+INTERNATIONAL JOURNAL OF ONCOLOGY 37: 1001-1010, 2010
+
+Effect of rapamycin, an mTOR inhibitor, on radiation sensitivity
+of lung cancer cells having different p53 gene status
+
+YOKO NAGATA1
+, AKIHISA TAKAHASHI2
+, KEN OHNISHI3
+, ICHIRO OTA4
+, TAKEO OHNISHI2
+,
+TAKASHI TOJO1 and SHIGEKI TANIGUCHI1
+
+1
+Department of Thoracic and Cardiovascular Surgery, 2Department of Biology, School of Medicine, Nara Medical University;
+3Department of Biology, Center for Humanity and Sciences, Ibaraki Prefectural University of Health Sciences,
+4669-2 Ami, Inashiki, Ibaraki 300-0394; 4Department of Otolaryngology, School of Medicine,
+Nara Medical University, 840 Shijo-cho, Kashihara, Nara 634-8521, Japan
+
+Received April 27, 2010; Accepted June 18, 2010
+
+DOI: 10.3892/ijo_00000751
+
+_________________________________________
+
+Correspondence to: Dr Yoko Nagata, Department of Thoracic
+and Cardiovascular Surgery, School of Medicine, Nara Medical
+University, 840 Shijo-cho, Kashihara, Nara 634-8521, Japan
+E-mail: oyjsyk@naramed-u.ac.jp
+
+Key words: mTOR, rapamycin, radiosensitization, p53,
+apoptosis
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1001
+(4E-BPs) (13). A recent study has reported that frequent Akt
+activation and mTOR phosphorylation occurs in NSCLC, and
+Akt activation is closely associated with the up-regulation of
+mTOR activity (14). It has been suggested that dysregulation
+of mTOR contributes to lung cancer progression (15,16).
+Alterations in protein synthesis, aberrant cell cycle signaling
+and inhibition of apoptosis mediated by mTOR may play a
+critical role (13). Therefore, mTOR may be a potential
+therapeutic target to inhibit or block the PI3K/Akt pathway.
+Several mTOR inhibitors are currently under development:
+rapamycin and its derivatives CCI-770, AP23573 and
+RAD001. Antiproliferative effects of mTOR inhibitors have
+been shown to occur in various tumor cells in vitro and
+in vivo (17-19). These mTOR inhibitors are generally regarded
+as cytostatic agents, because they induce G1 cell cycle arrest,
+but not apoptosis (17). Previous studies have reported that
+cellular sensitivity to mTOR inhibitors has been linked to
+mutations of PTEN or to Akt activation (20-23). It has been
+suggested that high levels of Akt activity result in hypersensitivity
+to mTOR inhibition in several tumors (19,24).
+Recent studies have shown that activation of the Akt/
+mTOR signal is a contributing factor to decreased radiation
+sensitivity, and that mTOR inhibitors were able to sensitize
+some tumor cell lines to radiation (25,26).
+The p53 tumor suppressor gene is activated by DNAdamaging
+agents such as ionizing radiation (27). This gene
+regulates proliferation and survival in cells with damaged
+DNA by modulating the transcription of p53-target genes,
+which can lead to G1 arrest or apoptosis. Mutations in the p53
+gene are the most common genetic change found in human
+lung cancer (in ~70% of small cell lung cancer and in 50% of
+NSCLC, respectively) (28) and these mutations are frequently
+associated with drug resistance and radiation resistance (2).
+As previously reported, H1299 (NSCLC) cells with a mutated
+p53 gene (mp53 gene) were more resistant to radiation than
+wild-type cells (29,30). Recent reports have demonstrated
+that mTOR inhibitors can enhance the cytotoxic effects of
+chemotherapeutic agents and radiation in many human
+cancers (24-26). There are several reports which discuss the
+dependence of chemosensitization by mTOR inhibitors on
+cellular p53 gene status. However, whether mTOR-mediated
+radiosensitization depends on p53 status is still uncertain. In
+examining the relation of mTOR-mediated chemosensitization
+to p53 status, some conflicting results in various tumor cells
+have been reported. Rapamycin was found to sensitize lung
+cancer cells with a wild-type p53 gene (wtp53) to cisplatininduced
+apoptosis by inhibiting p21 translation (17). In
+contrast, RAD001 enhanced the sensitivity of ovarian cancer
+cells to cisplatin in a p53-independent manner (24). Moreover,
+rapamycin chemosensitization of tumor cells with a mutant
+p53 was reported in ovarian and breast cancer cells (31,32).
+In particular, a recent study has shown that RAD001 was
+able to enhance the sensitivity of hepatocellular carcinoma
+(HCC) cells to cisplatin in both, a p53-dependent and p53-
+independent manner (33). It seems possible that understanding
+the mechanism through which rapamycin functions
+could lead to improved therapeutic effects in the treatment of
+radioresistant tumors. Although the effects of p53 status on
+chemosensitization by mTOR inhibitors may be tumor typespecific,
+it seems likely that such factors as a genetically
+
+heterogeneous background may have affected previous work
+in this field.
+The aim of this study was to learn if the effect of rapamycin
+on radiation sensitivity is affected by cellular p53 gene status
+in two human NSCLC cell lines with the same genetic
+background except for their p53 gene status. These cell lines
+exhibit different radiation sensitivities which presumably
+derive from their differing p53 status (29). In addition, molecular
+mechanisms underlying radiosensitization by mTOR
+inhibition were also to be investigated.
+
+Materials and methods
+
+Cell lines and cell culture. Human H1299 cells, a non-small
+cell lung cancer cell line with a deleted p53 gene (provided
+by Dr Moshe Oren, Weizmann Institute of Science, Rehovot,
+Israel) were stably transfected with either a wtp53 gene or an
+mp53 gene [in which codon 248 is altered to code for Trp
+(TGG) rather than Arg (CGG)]. The cell lines with a wtp53
+or an mp53 gene are designated H1299/wtp53 or H1299/
+mp53 cells, respectively (34). These resulting H1299/wtp53
+and H1299/mp53 cell lines were kindly provided by Dr
+Hideki Matsumoto (Fukui University). H1299/mp53 cells
+have lost p53 functions such as the induction of apoptosis
+and p53-regulated gene products after X-irradiation. All cells
+were cultured in Dulbecco's modified Eagle's medium (MP
+Biomedicals Inc., Illkirch, France) containing 10% (v/v) fetal
+bovine serum (MP Biomedicals Inc.), 20 μmol/ml 2-[4-
+(2-hydroxyethyl)-1-piperazinyl] ethanesulfonic acid (Nacalai
+Tesque, Kyoto, Japan), 50 U/ml penicillin (Meiji Seika
+Kaisha Ltd., Tokyo, Japan), 50 μg/ml streptomycin (Meiji
+Seika Kaisha Ltd.), and 50 μg/ml kanamycin (Nacalai
+Tesque) (DMEM-10). The doubling time of these cell lines
+was ~24 h. Exponentially growing cells grown to a density of
+~80% of confluency were used for each experiment, and were
+cultured at 37˚C in a conventional humidified CO2 incubator.
+
+Drug preparation. Rapamycin was purchased from Calbiochem
+(San Diego, CA). Rapamycin was dissolved in DMSO at a
+concentration of 1 mM and stored at -20˚C. A stock solution
+was diluted to the appropriate concentration in serum containing
+culture medium just before addition to cell cultures. The drug
+was used at a final concentration of 0.01% of the vehicle.
+
+Treatment with rapamycin and/or radiation. Exponentially
+growing cells were seeded in 60-mm dishes or in 25-cm2 flasks
+containing DMEM-10 and cultured overnight. The day after
+plating, cell cultures were prepared for individual experiments
+as follows: DMSO alone as a control, a single treatment
+(rapamycin or radiation alone), or a combined treatment with
+rapamycin and radiation. Cells used for each treatment were
+pretreated with either DMSO (0.01%) or rapamycin (100 nM)
+for 1 h at 37˚C in a CO2 incubator. Cells were irradiated
+with 0-9 Gy as indicated, at a dose rate of 1.2 Gy/min with a
+150-kVp X-ray generator (Model MBR-1520R; Hitachi,
+Tokyo, Japan). Following X-irradiation, culture medium was
+replaced with fresh medium and the cells were returned to a
+37˚C incubator for further growth.
+
+Colony formation assay. Exponentially growing cells were
+treated at 12 h after plating in 60-mm dishes. The surviving
+
+NAGATA et al: RADIOSENSITIZATION BY mTOR INHIBITOR 1002
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1002
+cell fraction was determined using colony formation assays.
+Three replicate dishes were used per experiment, and two or
+more independent experiments were performed for each
+survival point. Eight days after X-irradiation, colonies were
+fixed with methanol and stained with a 2% Giemsa solution.
+Microscopic colonies containing >50 cells were counted as
+having arisen from single surviving cells. Points indicate
+mean values. Error bars indicate standard deviations.
+
+Analysis of apoptosis. After a 100-nM rapamycin exposure
+and/or 6 Gy of radiation exposure, attached and floating cells
+were collected with trypsin, fixed with 1% glutaraldehyde
+(Nacalai Tesque) in phosphate-buffered saline (PBS) at 4˚C,
+washed with PBS, stained with 0.2 mM Hoechst 33342
+(Nacalai Tesque), and then observed under a fluorescence
+microscope. Induction of apoptosis was scored by the detection
+of nuclear and cytoplasmic condensation and the formation
+and release of apoptic bodies. A minimum of 300 cells was
+counted in every sample, and the percentage of apoptotic
+cells was determined. Values are the means of two independent
+experiments. Error bars indicate standard deviations.
+
+Analysis of cell proliferation. Using colony formation assays
+as described above, the size of all of the colonies was also
+measured for analysis of cell proliferation. Ten days after
+X-irradiation, colonies were fixed with methanol and stained
+with a 2% Giemsa solution. Photographs of the colonies
+were taken under a microscope (Olympus BX51, Olympus
+Optical, Tokyo, Japan). The diameter of each colony was
+measured from scanning profiles using a Windows computer
+with the Scion image program (Scion Co., Frederick, MD).
+The area of each colony (Ax) in mm2 was calculated from the
+diameter of the colony. On the basis of the mean value of
+the colony area, Am, for each cell line control treated with
+DMSO only, colonies were sorted into three groups as
+follows; Ax ≤ 1/2xAm, where Ax was defined as a small-sized
+colony; 1/2xAm < Ax ≤ Am, where Ax was defined as a
+medium-sized colony; Am < Ax was defined as a large-sized
+colony. The number of colonies in each colony group classification
+was determined and calculated as a percentage of the
+entire colony population. Values are the means of at least two
+independent experiments. Error bars indicate standard
+deviations.
+
+Cell cycle analysis. Cell cycle distributions were assayed by
+determining DNA content. After treatment with 100 nM
+rapamycin and/or 9 Gy of radiation, cells were fixed with
+cold 70% methanol and stored at 4˚C for 24 h before analysis.
+For cell cycle analysis, the cells were incubated for 30 min at
+room temperature with 1 mg/ml RNase and 50 μg/ml propidium
+iodide (PI). Before flow cytometric analysis, samples
+were filtered through a 35-μm nylon mesh. Samples were
+analyzed using a flow cytometer (Becton-Dickinson, San
+Jose, CA). Three independent experiments were performed
+for each data point. Values are the means of three independent
+experiments. Error bars indicate standard deviations.
+
+Western blot analysis. Cells were treated with rapamycin
+alone (100 nM, 1 h), radiation alone (6 Gy), or a combination
+in individual experiments. After X-irradiation, the medium
+
+was replaced with fresh medium. At indicated time points,
+cells were harvested and then washed with ice-cold PBS
+twice. Cells were suspended in RIPA buffer (50 mM TrisHCl,
+pH 7.2, 150 mM NaCl, 1% NP-40, 1% sodium deoxycholate,
+0.05% SDS). Whole cell protein lysates were then
+subjected to freezing and thawing three times. The protein
+levels in the whole cell protein lysate supernatants obtained
+after centrifugation (15,000 rpm x 10 min) were quantified
+with a Bio-Rad protein assay kit (Bio-Rad Labs, Richmond,
+CA). Aliquots containing 20 μg of protein were electrophoresed
+through 7, 10, or 15% polyacrylamide gels containing
+0.1% SDS. The separated proteins were transferred electrophoretically
+onto Poly Screen PVDF membranes (Dupont/
+Biotechnology Systems, NEN Research Products, Boston,
+MA). Membranes were blocked with 1% (w/v) non-fat dry
+milk in PBS-T for 1 h at room temperature. The membranes
+were then incubated overnight at 4˚C with primary antibodies.
+Rabbit polyclonal anti-phospho-mTOR (Ser2448), antiphospho-Akt
+(Ser473) antibodies, and rabbit monoclonal antiphospho-S6
+(Ser240/244) antibodies were purchased from Cell
+Signaling Technology, Inc. (Beverly, MA). Mouse monoclonal
+anti-cyclin D1 (Ab-3), and anti-p21WAF1 (Ab-1) antibodies
+were acquired from Oncogene Sciences, Inc. (Uniondale,
+NY) and Calbiochem (San Diego, CA), respectively. Goat
+polyclonal anti-actin antibody (I-19) was obtained from
+Santa Cruz Biotechnology (Santa Cruz, CA). Appropriate
+horseradish peroxidase-conjugated secondary antibodies
+[anti-mouse IgG antibody (Zymed Laboratories Inc., San
+Francisco, CA), anti-rabbit IgG antibody (Amersham
+Pharmacia Biotech, Inc., Piscataway, NJ)] were incubated for
+1 h at room temperature. For visualization of the bands, an
+enhanced chemiluminescence detection system (Amersham,
+Piscataway, NJ) was used according to the manufacturer's
+protocol. The amounts of the proteins in the samples were
+quantified by scanning profiles using the Scion imaging
+program.
+
+Statistical analysis. Significance levels were calculated using
+the Student's t-test. Values of P<0.05 were considered statistically
+significant.
+
+Results
+
+Effect of rapamycin on radiation sensitivity. To clarify the
+effect of rapamycin on radiation sensitivity in H1299 cells
+with a wtp53 or mp53 gene, cell survival was estimated with
+colony formation assays. The inhibitory effect of rapamycin
+alone on cell survival was not striking at concentrations
+ranging from 0.01 to 1,000 nM in either cell line (data not
+shown). Using a non-toxic concentration of the drug, cells
+were treated with or without 100 nM rapamycin for 1 h
+and/or 0-9 Gy of radiation. Previously, it was shown that 1 h
+provides sufficient time for mTOR inhibition to be induced
+without significant cytotoxicity (35). In agreement with a
+previous report (36), H1299/mp53 cells were more resistant
+to radiation than H1299/wtp53 cells (Fig. 1). In the presence
+of 100 nM rapamycin, decreased cell survival levels were
+observed in a dose-dependent manner in both cell lines. At a
+dose of 6 Gy, there was a statistically significant difference
+in the inhibition of cell survival between the combined
+
+INTERNATIONAL JOURNAL OF ONCOLOGY 37: 1001-1010, 2010 1003
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1003
+treatment and radiation alone. These results showed that the
+cytotoxic effect of radiation is synergistically enhanced by
+rapamycin, independently of cellular p53 gene status.
+
+Effect of rapamycin on radiation-induced apoptosis. To
+examine whether the cytotoxic effect of rapamycin depends
+on the induction of apoptosis, H1299 cells were analyzed at
+48 h after X-irradiation with or without 100 nM rapamycin,
+
+using Hoechst 33342 staining. As shown in Fig. 2, a single
+treatment with rapamycin did not alter the proportion of
+apoptotic cells when compared to controls in either H1299-
+derived cell line. Radiation-induced apoptosis to a significant
+extent, and the proportion of apoptotic cells in H1299/wtp53
+cells was almost three times as high as in H1299/mp53 cells
+(8.0% in H1299/wtp53 cells and 2.6% in H1299/mp53 cells).
+Moreover, in the presence of rapamycin, the incidence of
+radiation-induced apoptosis was increased 1.6-fold in the
+wild-type cells and 2.2-fold in the mutated cells. These results
+indicated that the combined treatment promotes radiationinduced
+apoptosis regardless of p53 gene status.
+
+Effect of rapamycin on cell proliferation. To investigate the
+effect of rapamycin on cell proliferation in H1299 cells
+containing differing p53 gene status, colony formation assays
+were used. Cells were treated with or without 100 nM rapamycin
+for 1 h and/or 6 Gy of radiation. The area of each
+resulting cell colony was measured and colonies were classified
+into three groups; small, medium and large-sized colonies.
+As shown in Fig. 3, the number of each group of colonies
+was calculated as a percentage of the entire population of
+colonies. For H1299/wtp53 cells, each single treatment
+increased the proportion of small colonies (55.5% for rapamycin
+alone and 80.7% for radiation alone, versus 20.3% for
+controls). For H1299/mp53, the cytostatic effect of each
+single treatment was similar (57.6% for rapamycin alone
+and 80.1% for radiation alone, versus 29.0% for controls,
+respectively). Moreover, the combined treatment produced a
+greater cytostatic effect than either single treatment did
+in both of the cell lines (H1299/wtp53, 97.4% and H1299/
+mp53, 91.7%, respectively). These results showed that the
+combined treatment results in an augmented cytostatic effect
+of radiation in a p53-independent manner.
+
+Effect of rapamycin combined with radiation on the cell
+cycle. To explore the effect of radiosensitization by rapamycin
+
+NAGATA et al: RADIOSENSITIZATION BY mTOR INHIBITOR 1004
+
+Figure 1. Effect of rapamycin on radiation sensitivity. Cells were treated
+with or without 100 nM rapamycin for 1 h and/or X-rays. After X-irradiation,
+the cells were cultured with fresh medium for eight days to assay
+cell survival with colony formation assays. Circles, H1299/wtp53 cells;
+triangles, H1299/mp53 cells. Open symbols, radiation alone; closed symbols,
+rapamycin plus radiation. Points, mean values; bars, SD. *P<0.01 versus
+radiation alone at the same dose.
+
+Figure 2. Effect of rapamycin on radiation-induced apoptosis; (A) H1299/wtp53, (B) H1299/mp53. Cells were treated with or without 100 nM rapamycin
+(Rap) for 1 h and/or 6 Gy of radiation. At 48 h after X-irradiation, cells were analyzed with Hoechst 33342 staining. Open columns, controls; shaded columns,
+rapamycin alone; dotted columns, radiation alone; solid columns, combined treatment. Columns, mean values; bars, SD. *P<0.01 versus control; †P<0.01
+versus rapamycin alone; ‡P<0.01 versus radiation alone.
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1004
+on the cell cycle in H1299 cells, the proportion of cells in
+each phase of the cell cycle was analyzed with flow cytometry
+using propidium iodide staining. In addition, the
+question of whether the cell cycle response to the combined
+treatment was altered by p53 gene status was examined. At
+12 h after a 100-nM rapamycin exposure, there was a slight
+increase in G1 phase cells in both cell lines, whereas following
+9 Gy of radiation there was a transient arrest in G2/M phase
+even in the presence of 100 nM rapamycin (data not shown).
+At 24 h, rapamycin showed larger effects on the cell cycle
+
+distribution, whereas there was no significant difference in
+the cell cycle distribution in cells treated with radiation alone
+or in controls in both H1299 cell lines (Fig. 4). A significant
+accumulation of cells in G1 phase was induced by rapamycin
+(67% in H1299/wtp53 cells versus 46.1% for radiation alone,
+and 56.9% for control cells, 54.1% in H1299/mp53 cells
+versus 45.3% for radiation alone, and 49.7% in controls,
+respectively). Furthermore, a marked decrease in S phase
+cells was observed in H1299/wtp53 cells after exposure to
+rapamycin (13.0% versus 28.4% for radiation alone, and 28.4%
+
+INTERNATIONAL JOURNAL OF ONCOLOGY 37: 1001-1010, 2010 1005
+
+Figure 3. Effect of rapamycin on cell proliferation; (A) H1299/wtp53, (B) H1299/mp53. An increase in the number of small-sized colonies after exposure to
+rapamycin and/or radiation is illustrated. Cells were treated with or without 100 nM rapamycin (Rap) for 1 h and/or 6 Gy of radiation. The cells were cultured
+with fresh medium for ten days to assay cell proliferation with colony formation assays. The diameter of each colony was measured using the Scion image
+program, and the images were used to estimate the area of each colony. Solid columns indicate small-sized colonies; open columns, medium sized colonies;
+dotted columns, large-sized colonies. Columns, mean values; bars, SD. *
+P<0.01 versus control; †
+P<0.01 versus rapamycin alone; ‡
+P<0.01 versus radiation
+alone.
+
+Figure 4. Effect of rapamycin combined with radiation on the cell cycle; (A) H1299/wtp53, (B) H1299/mp53. Changes in the cell cycle distribution 24 h after
+exposure to rapamycin (Rap) and/or 9 Gy of radiation. Cells were treated with or without 100 nM rapamycin for 1 h and/or radiation. The proportion of cells
+in each phase of the cell cycle was analyzed by flow cytometry. Solid columns, G1 phase cells; open columns, S phase cells; shaded columns, G2/M phase
+cells. Columns indicate mean values; bars indicate the SD. *P<0.01 versus control; †P<0.01 versus rapamycin alone; ‡P< 0.01 versus radiation alone.
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1005
+for controls, respectively). In particular, regardless of p53
+gene status, the combined treatment showed a greater increase
+in G1 arrest (78.1% in H1299/wtp53 cells, and 61.9% in
+H1299/mp53 cells), and a reduction of S phase cells (3.6% in
+H1299/wtp53 cells, and 6.5% in H1299/mp53 cells versus
+24.7% for rapamycin alone, 20.8% for radiation alone and
+27.0% for controls, respectively).
+
+Radiation-induced Akt/mTOR signal. To investigate dynamic
+molecular changes in the Akt/mTOR signal in response to
+radiation, the activation states of Akt and mTOR were first
+examined in the two H1299 cell lines. Secondly, to evaluate
+whether radiation activates the Akt/mTOR signal in H1299
+cells, Western blotting was used to examine the time course
+of alterations in the expression levels of phospho-Akt (Ser473),
+p-mTOR (Ser2448) and p-S6 (Ser240/244) ribosomal protein,
+
+which is a downstream effector of mTOR action. Cells were
+irradiated with 6 Gy of radiation in medium containing 10%
+serum. In both H1299 cell lines, Akt and mTOR were both
+phosphorylated, indicating the constitutive activation of the
+Akt/mTOR signal pathway (Fig. 5). After X-irradiation, the
+phosphorylation level in both of these proteins was increased
+in both H1299 cell lines. The p-Akt (Ser473) levels increased
+soon after X-irradiation, and this increase was sustained for
+up to 1 h in H1299/wtp53 cells and 2 h in H1299/mp53 cells. In
+both H1299 cell lines, the increase of p-mTOR (Ser2448) was
+evident at 1 h after X-irradiation. The elevated level of pmTOR
+(Ser2448) in the p53-mutated cells was higher than in the
+wild-type p53 cells. The levels of p-mTOR (Ser2448) remained
+elevated up to 6 h after X-irradiation in both cell lines. A
+delayed increase in p-S6 (Ser240/244) levels was observed at
+3 h after X-irradiation in both cell lines. The level of p-S6
+
+NAGATA et al: RADIOSENSITIZATION BY mTOR INHIBITOR 1006
+
+Figure 5. Radiation-induced Akt/mTOR signal; (A) H1299/wtp53, (B) H1299/mp53. Cells were exposed to 6 Gy of radiation in medium containing 10%
+serum. At the indicated time points, cells were harvested and whole cell protein lysates were extracted. The levels of phospho-Akt (Ser473), p-mTOR (Ser2448),
+p-S6 (Ser240/244) were estimated with Western blotting. Equal protein loading was confirmed by blotting for actin (42 kDa) protein.
+
+Figure 6. Inhibition of the mTOR signal by rapamycin; (A) H1299/wtp53, (B) H1299/mp53. Cells were treated with or without 100 nM rapamycin (Rap) for 1 h
+and/or 6 Gy of radiation. Cells were grown in medium containing 10% serum. At 3 h after X-irradiation, cells were harvested and whole cell protein lysates
+were extracted. Expression of phospho-Akt (Ser473), p-mTOR (Ser2448), p-S6 (Ser240/244), relative to actin (loading control) was determined with Western
+blotting.
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1006
+(Ser240/244) in both H1299 cell lines still remained high up to
+12 h after X-irradiation (data not shown). The level of the
+Akt/mTOR signal in H1299/mp53 cells was higher than in
+H1299/wtp53 cells. From this finding, it would appear that
+H1299 cells with elevated Akt/mTOR activity are good candidates
+for mTOR inhibition combined with radiation.
+
+Inhibition of the mTOR signal by rapamycin. To investigate
+the molecular mechanism underlying the effect of mTOR
+inhibition on the Akt/mTOR pathway, cells were treated
+with or without 100 nM rapamycin for 1 h and/or 6 Gy of
+radiation. The changes in the phosphorylation status of Akt
+(Ser473), mTOR (Ser2448) and S6 (Ser240/244) were estimated. At
+3 h after exposure to rapamycin, significant decrease in p-S6
+(Ser240/244) was observed in H1299/wtp53 and in H1299/
+mp53 cells (Fig. 6), and this decrease persisted for 12 h (data
+not shown). In particular, the level of this protein was much
+lower than its basal level, and the levels of p-Akt (Ser473)
+and p-mTOR (Ser2448) were attenuated in the wild-type
+cells. Furthermore, despite activation of the Akt/mTOR
+signal induced by radiation, the combined treatment led to a
+dramatic suppression of p-mTOR (Ser2448) and p-S6 (Ser240/244)
+p53 independently. As seen after a single treatment with
+rapamycin, the level of p-S6 (Ser240/244) was much lower than
+its basal level in both types of cells. The combined treatment
+also resulted in a small decrease in p-Akt (Ser473) in
+H1299/wtp53 cells, whereas there was no difference in p-Akt
+(Ser473) levels in H1299/mp53 cells. In addition, the expression
+of the pro-survival molecules cyclin D1 and p21WAF1
+were analyzed. At 6 h after a single treatment with rapamycin,
+repression of cyclin D1 was detected only in the wild-type
+cells (Fig. 7). At the same time point, regardless of p53 gene
+status, significant down-regulation of cyclin D1 was detected
+after the combined treatment. Induction of p21WAF1 was
+apparent following X-irradiation in H1299/wtp53 cells and
+rapamycin repressed p21WAF1 expression through blockade
+of mTOR. However, no significant induction of p21WAF1
+was detected in H1299/mp53 cells after any treatment, confirming
+an impaired p53/p21WAF1 signal pathway.
+
+Discussion
+
+It was observed that the Akt/mTOR signal is constitutively
+activated in H1299 cells harboring either a wtp53 or mp53 gene
+(Fig. 5). It was also seen that dynamic molecular changes in
+the Akt/mTOR signal in response to X-irradiation occurred
+in H1299 cells, regardless of p53 gene status. Radiation
+activated Akt, stimulating downstream signal transduction
+molecules such as mTOR and S6. However, rapamycin at a
+non-toxic concentration (100 nM) caused a pronounced p53-
+independent down-regulation of p-S6 (Ser240/244) and cyclin
+D1 after the combined treatment (Figs. 6 and 7). The sensitivity
+of cancer cells to radiation-induced cytotoxicity depends
+on the balance between pro-survival and pro-apoptotic signals.
+Therefore, the effective induction of apoptosis by a specific
+blockade of pro-survival signals can be a significant event
+leading to radiosensitization. It was found that rapamycin
+sensitizes both types of H1299 cells (containing either wtp53
+or mp53) to radiation by promoting apoptosis, whereas a
+single treatment of rapamycin did not induce apoptosis in
+either H1299 cell line (Fig. 2). In comparison to H1299/
+mp53 cells, a 3-fold higher incidence of apoptosis was seen
+in H1299/wtp53 cells after the combined treatment. This
+result suggests that rapamycin can enhance radiation-induced
+apoptosis through a p53-dependent pathway. Although in
+the presence of rapamycin, there was still a small increase
+in radiation-induced apoptosis in mp53 cells, this result
+indicates that the combined treatment may promote radiationinduced
+apoptosis in a p53-independent manner by downregulation
+of pro-survival signals. It has been shown that Akt
+deactivation acts as a causal mediator of cell death in several
+types of cancer cells in response to diverse stimuli including
+DNA-damaging agents and UV-B irradiation (37). In particular,
+Akt activation is closely associated with the upregulation
+of mTOR in NSCLC (14). Therefore, in this study,
+mTOR inhibition by rapamycin combined with radiation
+might reduce the level of the Akt/mTOR pro-survival signal
+below a threshold level which maintains cell survival. If so,
+an apoptotic signal may be promoted in both cell lines. The
+
+INTERNATIONAL JOURNAL OF ONCOLOGY 37: 1001-1010, 2010 1007
+
+Figure 7. Rapamycin-mediated repression of pro-survival signals; (A) H1299/wtp53, (B) H1299/mp53. Cells were treated with or without 100 nM rapamycin
+(Rap) for 1 h and/or 6 Gy of radiation. At 6 h after X-irradiation, cells were harvested and whole cell protein lysates were extracted. The expression of cyclin
+D1 and p21WAF1, relative to actin (loading control) were assessed with Western blotting.
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1007
+p53-independent enhanced cytotoxicity of radiation produced
+by rapamycin was confirmed by colony formation assays
+(Fig. 1). The cytotoxic effect of radiation was synergistically
+enhanced by rapamycin at a non-toxic concentration regardless
+of cellular p53 gene status.
+A single treatment of rapamycin suppressed cell proliferation
+in both cell lines (Fig. 3). In particular, observations of
+cell cycle distributions with flow cytometric analysis provide
+additional evidence of the cytostatic effect of rapamycin on
+H1299 cells. At 24 h after exposure, a single treatment
+with rapamycin (100 nM) mediated a slight increase in the
+proportion of G1 phase in cells containing wtp53 (10%) and it
+led to a remarkable reduction in S phase cells (15%) (Fig. 4).
+In H1299/mp53 cells, a small increase in G1 arrest (5%) was
+induced by rapamycin alone, along with a less pronounced
+decrease in S phase cells. In agreement with previous reports
+(38,39), these findings indicate that a G1 cell cycle arrest or a
+suppression of progression to S phase may contribute to
+the cytostatic effect of rapamycin observed in H1299 cells.
+These results were associated with the down-regulation of
+cyclin D1 in wtp53 cells (Fig. 7). However, the proportion of
+S phase cells in cells containing mp53 was unaffected by
+rapamycin which was consistent with no change in cyclin D1
+expression. In agreement with a previous study using rhabdomyosarcoma
+cells with an mp53 gene (40), these results
+suggest that rapamycin does not stop the cell cycle, but may
+retard progression of the cell cycle in H1299/mp53 cells. Cell
+cycle regulation in tumor cells is important in order to
+account for the radiosensitizing effect of this drug. At 12 h
+after radiation with or without rapamycin, a remarkable cell
+cycle arrest at G2/M was induced when compared with control
+cells (data not shown). After 24 h, no G2/M delay was seen in
+cells treated with radiation alone, showing no significant
+difference in cell cycle distributions when compared with
+controls (Fig. 4). However, at the same time point, rapamycin
+showed promising effects on the cell cycle distribution when
+compared with control cells and radiation alone. Regardless
+of p53 gene status, the combination of radiation and rapamycin
+caused a significant increase in G1 arrest and a remarkable
+inhibition of progression to S phase. This result corresponded
+with the observed decrease in cell proliferation seen with the
+colony formation assay, and the repression of the mTOR
+signal and cyclin D1 expression seen with Western blotting
+(Fig. 7). The activation of mTOR can increase the proliferation
+rate through the increased translation of cell cycle
+effectors such as cyclin D1 (41). In thyroid cancer cells,
+RAD001 treatment reduced cyclin D1 and cyclin D3 protein
+levels, confirming that mTOR activation contributes to cell
+proliferation (42). Therefore, these results demonstrated that
+rapamycin might enhance the cytostatic effect of radiation
+due to cell cycle arrest. However, it has been demonstrated
+that growth-arrested cells can be relatively radioresistant
+when compared to actively cycling cells (43). In glioma
+spheroid cells, it has been shown that despite the induction
+of G1 arrest and the inhibition of tumor cell proliferation,
+rapamycin does not diminish the efficacy of radiation. Another
+study has shown that an increase in the frequency of G2/M
+cell cycle arrest was seen in breast cancer cells treated with
+rapamycin and radiation, suggesting that cell cycle arrest
+may have been a contributing factor in the increased radiosensitization
+(26). In the data shown here, a time-dependent
+effect on the cell cycle was seen in both cell lines after a
+combined treatment although there could conceivably be an
+alteration in the effect of these treatments in asynchronously
+growing cell populations. However, the actual response to a
+treatment may depend on the cellular context, including the
+cell cycle, even in asynchronous cell populations. Thus, the
+mechanism underlying the radiosensitization by rapamycin
+described in this study may be reasonable.
+In response to radiation, the p53 protein is stabilized and
+can both initiate and suppress gene expression. The transactivation
+of p53-target genes mediates apoptosis and cell cycle
+arrest (2,27,44). p53-dependent cell cycle arrest is primarily
+mediated by the CDK (cyclin-dependent kinase) inhibitor
+p21WAF1. p21WAF1 acts as a crucial regulator of the cell cycle
+checkpoint during the G1 transition, and enables the potential
+for DNA damage repair (45). In addition to being an inhibitor
+of cell proliferation, p21WAF1 plays a role as an inhibitor of
+apoptosis. High levels of p21WAF1 expression protect damaged
+cells from p53-dependent apoptosis. Some previous studies
+suggested that RAD001 sensitizes cancer cells with wild-type
+p53 to cisplatin by blocking p53-induced p21WAF1 expression
+through the inhibition of mTOR, and enhances cisplatininduced
+apoptosis in human lung cancer and HCC (17,33).
+Treatment with p21 antisense resulted in enhanced radiation
+sensitivity by converting growth arrest to apoptosis in colon
+cancer cells (46). Consistent with these previous reports,
+Western blotting here showed that rapamycin strongly inhibits
+p53-induced p21WAF1 expression following X-irradiation and
+results in induction of apoptosis in H1299 cells with a wtp53
+(Figs. 2 and 7). These findings suggest that rapamycin leads
+to radiosensitization in a p53-dependent manner through the
+suppression of p21WAF1. Although H1299/mp53 cells lack the
+ability to induce expression of p21WAF1 after X-irradiation,
+radiation-induced apoptosis was promoted following the
+combined treatment regardless of p53 gene status (Fig. 2). In
+human HCC with a mutated p53 gene, RAD001 enhanced
+cisplatin-induced apoptosis through the down-regulation of
+pro-survival molecules such as Bcl-2, survivin and cyclin
+D1, suggesting that rapamycin could lower the apoptotic
+threshold (33). In this study, the combined treatment led to a
+decrease in cyclin D1 expression and increased the incidence
+of apoptosis in mp53 cells (Figs. 2 and 7). There is a possible
+explanation for these results. The sensitivity of cancer cells
+to radiation-induced apoptosis depends on the balance
+between pro-survival and pro-apoptotic signals. It appears
+that the p53-independent signaling pathway leading to the
+induction of apoptosis might be dominant over the prosurvival
+signals in the presence of a blockade of the Akt/
+mTOR signal, and result in an induction of apoptosis in
+H1299 cells with mp53.
+In conclusion, this study indicates that rapamycin may
+enhance radiation sensitivity in a p53-dependent and in a
+p53-independent manner. The sensitivity of cancer cells to
+radiation-induced apoptosis may involve the depression of
+pro-survival signals. Both, the loss of p53-pathway functions
+and radiation-induced up-regulation of the mTOR signal are
+responsible for radiation resistance. Therefore, inhibition of
+the mTOR signal may be a promising strategy to enhance the
+effect of radiation regardless of p53 gene status through the
+
+NAGATA et al: RADIOSENSITIZATION BY mTOR INHIBITOR 1008
+
+1001-1010.qxd 19/8/2010 11:30 Ì ™ÂÏ›‰·1008
+down-regulation of pro-survival signals and a reduction in
+the apoptotic threshold. Since these results suggest that
+rapamycin can enhance radiation therapy, not only in wtp53
+cancer patients but also in mp53 cancer patients, through the
+two aspects of cell lethality and cell growth depression, it
+may be possible to hope for a high efficacy in treatments
+against human lung cancer with a suitable application of
+these agents.
+

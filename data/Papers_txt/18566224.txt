@@ -1,0 +1,471 @@
+Abstract
+MDM2 oncoprotein binds directly to the p53 tumor suppressor and inhibits its function in cancers retaining wild-type p53. Blocking this interaction using small molecules is a promising approach to reactivate p53 function and is being pursued as a new anti-cancer strategy. The spiro-oxindole MI-43, a small-molecule inhibitor of the MDM2-p53 interaction, was designed and examined for its cellular mechanism of action and therapeutic potential in colon cancer. MI-43 binds to MDM2 protein with a K
+i
+value of 18 nmol/L and is 300-times more potent than a native p53 peptide. MI-43 blocks the intracellular MDM2-p53 interaction and induces p53 accumulation in both normal and cancer cells with wild-type p53 without causing p53 phosphorylation. Induction of p53 leads to modulation of the expression of p53-target genes, including up-regulation of p21 and MDM2 in normal primary human cells and in colon cancer cells with wild-type p53. Using HCT-116 isogenic colon cancer cell lines differing only in p53 status or RNAi to knockdown expression of p53 in the RKO colon cancer cell line, we show that the cell growth inhibition and cell death induction by MI-43 is p53-dependent. Furthermore, induction of cell cycle arrest by MI-43 is dependent on p53 and p21. In normal cells, MI-43 induces cell cycle arrest, but not apoptosis. This study suggests that p53 activation by a potent and specific spiro-oxindole MDM2 antagonist may represent a promising therapeutic strategy for the treatment of colon cancer and should be further evaluated
+in vivo
+and in the clinic.
+Keywords:
+MDM2, HDM2, MI-43, MI-219, Nutlin, p53, apoptosis, cell cycleIntroduction
+The tumor suppressor p53 is a powerful transcriptional factor and is a central regulator of the cell cycle, apoptosis, DNA repair, senescence and angiogenesis (
+1
+–
+4
+). Since p53 plays a critical role in suppressing oncogenesis, it is not surprising that in approximately half of all human malignancies, the
+p53
+gene is mutated and functionally inactivated (
+5
+). In cancers that retain wild-type p53, its function is also effectively inhibited by its primary endogenous cellular inhibitor, the human MDM2 oncoprotein (mouse double minute 2, HDM2 in humans) (
+5
+,
+6
+).
+MDM2 binds directly to the N-terminus transactivation domain of p53 and regulates the activity of p53 through an auto-regulatory feedback loop (
+7
+–
+11
+). Upon activation, p53 transcriptionally up-regulates the levels of MDM2, resulting in an inhibition of p53 activity. MDM2 inhibits the transcriptional activity and induces the nuclear export of p53. MDM2 is also an E3 ubiquitin ligase and promotes proteosome-mediated p53 degradation, maintaining low basal levels of p53. Hence, the MDM2-p53 interaction is an effective mechanism for restraint of p53 function and blockade of this interaction is an attractive strategy for reactivation of p53 function.
+The availability of high resolution X-ray crystal structures of N-terminal domains of human and
+Xenopus laevis
+MDM2, complexed with short peptides from the N-terminal domain of p53, has provided a solid structural basis for the design of small molecules capable of blocking the MDM2-p53 interaction (
+12
+). The crystal structures revealed that the interaction between p53 and MDM2 involves primarily four hydrophobic residues (Phe
+19
+, Leu
+22
+, Trp
+23
+and Leu
+26
+) of p53 and a small but deep hydrophobic cleft in MDM2. The p53 binding pocket on MDM2 is considered to be an attractive site for the design of non-peptide, small-molecule antagonists (
+13
+). Despite intense efforts by the pharmaceutical industry and academic laboratories, the first potent and specific non-peptidic small-molecule MDM2 inhibitor, dubbed Nutlin-3 (
+14
+), was reported in 2004, eight years after the publication of the crystal structures of the MDM2-p53 complex. The majority of previously reported MDM2 inhibitors have low binding affinity for MDM2, weak cellular activity, and/or unclear cellular mechanism of action (
+13
+,
+15
+). This reflects the difficulties associated with the design of potent, specific and cell-permeable, small-molecule inhibitors of the MDM2-p53 interaction.
+Since the discovery of the Nutlins, there has been an enormous interest in the evaluation of potent small-molecule inhibitors of the MDM2-p53 interaction for the treatment of different types of cancer. Since cis-imidazoline analogue Nutlin-3 was the only available bona fide small-molecule inhibitor of the MDM2-p53, the majority of these studies were performed using Nutlin-3. Therefore, it is highly desirable to design completely new classes of potent and specific small-molecule inhibitors of the MDM2-p53 interaction which reactivate p53 so that the conclusions regarding the therapeutic potential of this approach are not based upon a single class of compounds. Recent genetic studies, which demonstrate that p53 restoration regresses liver tumors, lymphoma and sarcoma, have provided a rationale for reactivation of p53 by a small molecule MDM2 antagonist as a cancer therapeutic approach (
+16
+).
+We have recently reported the structure-based design of spiro-oxindoles as a new class of high affinity, non-peptidic small-molecule antagonists of the MDM2-p53 interaction (
+17
+,
+18
+). In the present study, we report the design of MI-43 as a potent small-molecule inhibitor of the MDM2-p53 interaction (
+Fig. 1A
+), and evaluation of its
+in vitro
+cellular mechanism of action and therapeutic potential in colon cancer.
+Open in a separate window
+Figure 1
+Structure-based design and binding affinity of MI-43 for MDM2
+A.
+Chemical structures of inhibitors of the MDM2-p53 interaction.
+B and C.
+Predicted binding models of MDM2 inhibitors. MI-17
+(B)
+and MI-43
+(C)
+are shown in a ball and stick representation with carbons in cyan, nitrogen in blue, oxygen in red, bromine in brown and chlorine in green. The surface representation of MDM2 is shown with carbons in grey, nitrogen in blue, oxygen in red and sulfur in yellow. The p53 peptide is represented in violet with the key residues Phe
+19
+, Leu
+22
+, Trp
+23
+, and Leu
+26
+shown as sticks. Hydrogen bonds are depicted with dashed yellow lines and hydrogen atoms are excluded for clarity. Figures were generated by the program Pymol.
+D.
+The FP-based MDM2 binding assay. The binding affinities (K
+i
+values) were determined in a competitive FP-based binding assay using recombinant His-tagged MDM2 (aa 1–118) and PMDM6-F(5-FAM-βAla-βAla-Phe-Met-Aib-pTyr-(6-Cl-
+L
+-Trp)-Glu-Ac3c-Leu-Asn-NH2), a fluorescently labeled high affinity p53-based peptide.Materials and Methods
+Cells and Antibodies
+An RKO colon cancer cell line expressing wild-type p53, an HT-29 colon cancer cell line harboring R273H mutation, and CCD-18Co primary normal human colon fibroblasts were purchased from the American Type Culture Collection (Manassas, VA). HCT-116 colon cancer cell lines were a kind gift of Prof. Bert Vogelstein (Johns Hopkins University, Baltimore, MD). PrEC (primary normal human prostate epithelial cells) were purchased from Cambrex Corporation (Rutherford, NJ).
+The following primary antibodies were used: For immunoprecipitation: anti-p53 (FL-393; Santa Cruz Biotechnology, Santa Cruz, CA). For Western blotting: anti-p53 (Ab-6) and anti-PUMA (Ab-1) were from Calbiochem (San Diego, California); anti-MDM2 (SMP-14) and anti-Bax (N-20) were from Santa Cruz Biotechnology (Santa Cruz, CA); anti-p21 (SX118) was from BD Biosciences (San Jose, CA); Phospho-specific anti-p53 antibodies (Cat#9919) were from Cell Signaling Technology (Danvers, MA) and anti-cleaved PARP (Y-34) was from Epitomics (Burlingame, CA).
+Design, Computational Modeling and Competitive Binding Assays
+MI-43 was designed based upon our previously reported lead compound MI-17 [
+Fig. 1A
+; compound 1d in
+ref. 17
+] and synthesized using methods described in
+ref. 17
+. MI-61 was designed as an inactive analogue. The binding of MI-43 to human MDM2 was modeled using the GOLD program (
+17
+,
+18
+). Fluorescence polarization-based (FP-based) competitive binding assays for human MDM2, Bcl-2 and Bcl-xL proteins were performed as described in
+ref. 18
+.
+Cell Growth, Clonogenic Survival, Cell Cycle, Cell Death and Apoptosis Analyses
+Effect of MDM2 inhibitors on cell growth was determined after 4-day treatment using water-soluble tetrazolium (WST)-based assay (
+18
+) and on colony formation after 10-day treatment using a clonogenic survival assay. Cell cycle was analyzed by flow cytometry using bromodeoxyuridine (BrdU) incorporation and DNA staining (BD Biosciences, San Jose, CA). Cell viability was determined by trypan blue dye exclusion. Apoptosis was determined by flow cytometric analysis of sub-G1 DNA content.
+Co-immunoprecipitation Assay
+The ability of MDM2 inhibitors to disrupt the MDM2-p53 complex formation in HCT-116 and RKO cell lines was determined using a co-immunoprecipitation assay, as described in
+ref. 19
+.
+Cytochrome c and Smac Release; Caspase Activation
+Induction of cytochrome c and of Smac release by MI-43 or Nutlin-3 into cytosol was examined using a digitonin lysis method of sub-cellular fractionation, as described in
+ref. 20
+. Caspase-3/7 activity in cell extracts was determined using 50 µmol/L of Ac-DEVD-AFC (Calbiochem) as substrate. To determine the role of caspases in cell death, cells were pretreated for 1 h with pan caspase inhibitor Boc-D-fmk at 150 µmol/L followed by treatment with an MDM2 inhibitor for 3 days.
+Real-time Polymerase Chain Reaction
+Cells were treated with compounds for 18 h and total RNA was extracted by the TRIzol method (Invitrogen, Carlsbad, CA). A TaqMan gene expression assay using
+p53
+(Hs00153349_m1) and
+p21
+cip1/WAF1
+(Hs00355782_m1) gene-specific primer/probe sets (Assays on Demand, Applied Biosystems, Foster City, CA) was performed for real-time PCR amplification using
+GAPDH
+(Hs99999905_m1) for normalization. The relative quantification of mRNA was calculated with comparative cycle threshold (C
+t
+) method.
+RNA interference
+To down-regulate p53, a lentiviral-based RNA interference (RNAi) system was used as described previously (
+21
+,
+22
+). Oligonucleotides corresponding to nucleotides 611–629 of p53 RNA (GenBank NM000546), which allow the generation of the 19-bp short hairpin RNA (shRNA), were annealed and cloned into a self-inactivating lentiviral vector (HI-LV) under control of the HI promoter. The HI-LV vector also contains a GFP reporter gene under control of the human ubiquitin-C promoter for monitoring infection efficiency. A scrambled oligonucleotide was designed as a negative control, and cloned in the HI-LV vector.Results and Discussion
+Structure-based Design of MI-43 As a Potent and Specific Small-molecule MDM2 Inhibitor
+Using a structure-based strategy, we have previously designed spiro-oxindoles as a new class of inhibitors of the MDM2-p53 interaction (
+17
+). Computational modeling predicted that the lead compound MI-17 [
+Fig. 1A
+; compound 1d in
+ref. 17
+] mimics three key binding residues in p53, namely Phe
+19
+, Trp
+23
+and Leu
+26
+, for binding to MDM2 (
+Fig. 1B
+). In addition to these three key residues in p53, Leu
+22
+was shown to play an important role for binding to MDM2 (
+12
+). Assisted by computational modeling, we have therefore designed MI-43 to mimic all these four residues in p53 to achieve higher binding affinity to MDM2 than MI-17 (
+Fig. 1C
+).
+The FP-based binding assay determined that MI-43 binds to recombinant MDM2 protein with a K
+i
+value of 18 nmol/L, in competition with a high-affinity p53-based peptide (
+Fig. 1D
+). In comparison, MI-43 is 5-, 2- and >300-times more potent than MI-17, Nutlin-3 and a natural p53 peptide in binding to MDM2 under the same assay conditions (
+Fig. 1D
+). MI-61 was designed as an inactive analogue, which has a K
+i
+value >10,000 nmol/L to MDM2 (
+Fig. 1A and D
+).
+The basic feature of the MDM2-p53 interaction is the binding of amphiphilic alpha helix of p53 to the hydrophobic groove of MDM2. Several other protein-protein interactions also share this basic feature. For example, the pro-apoptotic Bid protein, through its amphiphilic alpha helix in the Bcl-2 homology 3 (BH3) domain, interacts with a hydrophobic groove in anti-apoptotic Bcl-2 or Bcl-xL protein. To determine the specificity of MI-43, we investigated its binding to Bcl-2 and Bcl-xL proteins in competition with a Bid BH3 peptide. MI-43 failed to show any appreciable binding to these proteins at concentrations as high as 25 µM, indicating >1,000-fold specificity for MDM2 over Bcl-2 and Bcl-xL proteins (
+Supplementary Fig. 1A and B
+).
+MI-43 Blocks the MDM2-p53 Interaction in Cancer Cells
+To test the ability of MI-43 to disrupt the intracellular MDM2-p53 interaction, a co-immunoprecipitation assay was performed. Both MI-43 and Nutlin-3 induced up-regulation of p53 and MDM2 proteins in HCT-116 (
+Fig. 2A
+) and RKO (
+Supplementary Fig. 2
+) cell lines expressing wild-type p53. Despite robust up-regulation of p53 and MDM2 proteins, only minimal amounts of MDM2 could be detected in the p53 immunoprecipitates after MI-43 or Nutlin-3 treatment (
+Fig. 2A
+). In contrast, the proteasome inhibitor MG-132, which is known to up-regulate p53 and MDM2 proteins, fails to disrupt MDM2-p53 complex formation. Taken together, these data suggest that MI-43 induces p53 and MDM2 upregulation by blocking their interaction.
+Open in a separate window
+Figure 2
+Effect of MI-43 on the MDM2-p53 interaction and activation of the p53 pathway
+A.
+MI-43 disrupts the MDM2-p53 complex formation. The co-immunoprecipitation assay was performed using HCT-116 cells treated with MI-43, MI-61, Nutlin-3 or MG-132 for 15 h. The levels of p53 and MDM2 proteins in the whole cell lysates (Input) and in p53 immunoprecipitates were determined by immunoblotting.
+B.
+Activation of p53 in cancer cells. Cells were treated for 24 h as indicated, followed by Western blot analysis to examine the expression of p53 protein and its target gene products.
+C.
+Real-time RT-PCR. HCT-116 p53
++/+
+and HCT-116 p53
+−/−
+cell lines were treated with MI-43 or MI-61. Expression of
+p53
+and
+p21
+cip1/WAF1
+mRNA was examined by RT-PCR. Increase in mRNA expression in treated versus untreated samples from a representative experiment is shown.
+D and E.
+Phosphorylation status of p53. HCT-116
+(D)
+and CCD-18Co
+(E)
+cells were treated for 24 h as indicated. Phosphorylation at the indicated p53 residues was determined by immunoblotting using phospho-specific antibodies.
+MI-43 Activates the p53 Pathway in Normal and Cancer Cells with Wild-type p53
+A potent and specific MDM2 inhibitor is predicted to activate the p53 pathway only in cells with wild-type p53. To test this prediction, cancer cell lines containing or lacking wild-type p53 were treated with MI-43, Nutlin-3 or MI-61. Protein and mRNA expression of p53 and its target genes were examined. MI-43 induced robust accumulation of p53 protein and up-regulation of p53 target gene products in HCT-116 (
+Fig. 2B
+) and RKO (
+Supplementary Fig. 3A
+) cancer cell lines with wild-type p53, but not in isogenic HCT-116 cells lacking p53 (
+Fig. 2B
+) or HT-29 cells with mutated p53 (
+Supplementary Fig. 3A
+). Nutlin-3 had a similar effect to MI-43, while the inactive analogue MI-61 had no effect, indicating that induction of p53 activation by MI-43 is specific.
+To determine whether up-regulation of p53 and p21 induced by MI-43 is transcriptionally regulated, we performed real-time PCR in HCT-116 p53
++/+
+and p53
+−/−
+isogenic cell lines. While MI-43 had no effect on p53 mRNA expression in both cell lines, it induced a robust increase of
+p21
+mRNA in the HCT-116 p53
++/+
+cell line but not in the HCT-116 p53
+−/−
+cell line. At concentrations of 5 µmol/L and 10 µmol/L, MI-43 induced an increase of
+p21
+mRNA in the HCT-116 p53
++/+
+cell line by 4- and 10-fold, respectively, relative to the untreated control (
+Fig. 2C
+).
+MI-61 had no effect on
+p21
+mRNA levels in either cell line, indicating the specificity of MI-43 on p53 activity. Therefore, p53 accumulation by MI-43 is at the post-transcriptional level and up-regulation of p21 is at the transcriptional level and depends upon the presence of wild-type p53.
+Normal cells that express wild-type p53 were also examined for levels of p53, MDM2 and p21 using normal colon fibroblasts (CCD-18Co) and normal prostate epithelial cells (PrEC). Both MI-43 and Nutlin-3, but not MI-61, induced accumulation of p53, MDM2 and p21 in normal CCD-18Co cells (
+Fig. 2D
+) and PrEC (
+Supplementary Fig. 3B
+). These data indicate that MDM2 inhibitors also activate p53 in normal cells.
+MI-43 Does not Induce p53 Phosphorylation at Ser
+15
+, Ser
+37
+and Ser
+392
+Many conventional anti-cancer drugs, such as doxorubicin and irinotecan induce DNA damage in cancer and normal cells, which triggers post-translational modifications of p53, such as phosphorylation at N-terminal residues (
+23
+). These modifications in p53 weaken its interaction with MDM2 and results in accumulation and activation of p53. We therefore examined the effect of MI-43 on the phosphorylation status of p53 at common sites such as Ser
+15
+, Ser
+37
+and Ser
+392
+residues in HCT-116 cancer cells and Ser
+15
+in normal colon fibroblasts. Irinotecan and doxorubicin were used as positive controls and MI-61 was used as an inactive control. Both irinotecan and doxorubicin induced phosphorylation of p53 at all three serine residues in HCT-116 cells (
+Fig. 2E
+). Furthermore, doxorubicin also induced phosphorylation of p53 at Ser
+15
+in normal fibroblasts (
+Fig. 2D
+). In sharp contrast, accumulation of p53 by both MI-43 and Nutlin-3 was not accompanied by p53 phosphorylation at any residues examined in both normal and cancer cells (
+Fig. 2D and E
+). These data show that MDM2 inhibitors induce p53 accumulation and activation in both cancer and normal cells with wild-type p53 without the requirement of p53 phosphorylation at the sites examined.
+MI-43 Inhibits Cell Growth and Survival of Colon Cancer Cells Expressing Wild-type p53
+Activation of p53 by a potent and specific MDM2 inhibitor is predicted to elicit multiple cellular responses regulated by p53 such as cell cycle arrest and apoptosis induction. To test this, colon cancer cell lines differing in p53 status were employed. To determine the role of p53 precisely, we employed isogenic HCT-116 cell lines with a different allele status of the
+p53
+gene, and an RKO cell line (RKO/p53shRNA) in which
+p53
+gene expression was silenced. MI-43 potently inhibited the growth of HCT-116 and RKO cell lines expressing wild-type p53 with IC
+50
+values of 1.74 µmol/L and 0.9 µmol/L, respectively (
+Fig. 3A
+). However, MI-43 exhibited an IC
+50
+value of 10 µmol/L in HT-29 cells harboring mutated p53, indicating a correlation of growth inhibitory activity with wild-type status of p53 (
+Fig. 3A
+). This p53-specfic response of MI-43 is further confirmed by its 20- and 11-fold weaker activity in RKO/p53shRNA cell line and HCT-116 p53
+−/−
+cell line, respectively. Interestingly, MI-43 had comparable IC
+50
+values in the HCT-116 p53
++/+
+and HCT-116 p53
++/−
+cell lines, indicating that a single copy of
+p53
+is sufficient for cell growth inhibition induced by this MDM2 inhibitor. Consistent with literature reports (
+14
+,
+15
+), Nutlin-3 also showed cell growth inhibitory activity in a p53-dependent manner (
+Fig. 3A
+).
+Open in a separate window
+Figure 3
+Cellular activity and specificity of MI-43 in colon cancer cell lines with or without wild-type p53
+A.
+Cell growth assay. Cellular growth inhibitory activity of MI-43, MI-61 and Nutlin-3 was examined in cancer cell lines with different status of wild-type p53 using a 4 day WST assay. Shown is percent cell growth ± S.D. relative to the untreated controls.
+B.
+Clonogenic survival assay. The long-term effect of MI-43 on cancer cell survival was measured by the cells’ ability to form colonies after 10 day treatment. Colonies containing at least 50 cells from a representative experiment were counted and plotted as mean values ± S.D.
+Comparison of the effect of MI-43 with that of Nutlin-3 on growth curves in cancer cells with or without wild-type p53 shows that both MDM2 inhibitors have p53-independent effects at high concentrations (
+Fig. 3A
+). The inactive analogue MI-61, which showed >500-fold weaker binding affinity than MI-43 for MDM2, did not inhibit cell growth at concentrations below 10 µmol/L. However, at higher concentrations, MI-61 inhibited cell growth but lacked specificity for cells with wild-type p53 (
+Fig. 3A
+). These data suggest that the cellular effects of MI-43 and Nutlin-3 at a concentration higher than 10 µmol/L are independent of p53 and their binding to MDM2. We have therefore used MI-43 and Nutlin-3 at maximum concentration of 10 µmol/L.
+To examine the long-term effect of MI-43 on cell survival, we performed a colony formation assay in HCT-116 isogenic cell lines. MI-43 inhibited colony formation in the HCT-116 p53
++/+
+cell line with an IC
+50
+value of 1.3 µmol/L (data not shown) and had a minimal effect on the HCT-116 p53
+−/−
+cell line, even at high concentrations of 10 µmol/L (
+Fig. 3B
+). At a concentration of 10 µmol/L, MI-43 completely inhibited colony formation in the HCT-116 p53
++/+
+cell line, while MI-61 at 10 µmol/L inhibited colony formation by only 30%.
+MI-43 Induces Selective Apoptosis in Cancer Cells with Wild-type p53
+Since p53 is a strong inducer of apoptosis (
+4
+) and activation of p53 by MI-43 is observed in both normal and cancer cells, MI-43 could be toxic to both types of cells. To address this concern, we examined the effect of MI-43 on cell viability and apoptosis in both cancer and normal cells. We found that MI-43 treatment for 4 days reduces cell viability and induces apoptosis in RKO cells, but not HT-29 cancer cells containing mutated p53 (
+Fig. 4A and B
+). Importantly MI-43 did not significantly affect the viability or apoptosis of normal primary human colon fibroblasts (CCD-18Co) and human prostate epithelial cells (PrEC) (
+Fig. 4A and B
+). The inactive analogue MI-61 had no effect on cancer and normal cells.
+Open in a separate window
+Figure 4
+Induction of cell death and apoptosis by MI-43 in cancer and normal cells
+Cancer and normal cells were treated with MI-43 or MI-61 for 4 days. Then:
+A.
+Viable cells were counted using trypan blue dye exclusion.
+B.
+Apoptosis was analyzed by flow cytometry after staining with PI and is shown as % sub-G1 DNA content from a representative experiment.
+C.
+The role of p53 in induction of apoptosis by MI-43. RKO cells were transduced with p53 shRNA or ctrl shRNA, followed by their treatment with or without MI-43 for 24 h. Apoptosis was measured as in
+Fig. 4B
+(above) and is shown as % sub-G1 DNA content. Western blotting was performed to determine p53 protein levels.
+D.
+The role of p53 in induction of apoptosis in the HCT-116 cell line. HCT-116 cells expressing or lacking wild-type p53 were treated for 4 days. Apoptosis was measured as in
+Fig. 4B
+(above) and is shown as % sub-G1 DNA content.
+To unambiguously examine the role of p53 in apoptosis induction by MI-43, we employed RKO cell lines, in which p53 expression was silenced by lentiviral RNAi, as well as isogenic HCT-116 cell lines, differing in p53 status. MI-43 induced a robust accumulation of p53 in the RKO cells containing control shRNA, but only a negligible increase of p53 in RKO cells containing p53 shRNA, demonstrating an efficient knockdown of p53 (
+Fig. 4C
+). MI-43 induced dose-dependent apoptosis in control shRNA cell line (
+Fig. 4C
+) and p53 knockdown markedly decreased apoptosis induction, demonstrating an obligatory role for p53 in induction of apoptosis by MI-43 (
+Fig. 4C
+). Furthermore, HCT-116 cells lacking p53 were refractory to apoptosis induction by MI-43 (
+Fig. 4D
+) in contrast to HCT-116 cells with wild-type p53. These data, together with previous data on Nutlin-3 (
+14
+,
+15
+), suggest that MDM2 inhibitors induce p53-dependent apoptosis in cancer cells and display an excellent selectivity over normal cells.
+To evaluate further the nature of cell death induced by MI-43, we examined the release of cytochrome c and Smac from mitochondria into the cytosol and downstream caspase-3/7 activation. MI-43 and Nutlin-3 both induced cytosolic release of cytochrome c and Smac from mitochondria in RKO cells (
+Figure 5A
+). MI-43 induced a dose-dependent increase in DEVDase activity (caspase-3/7 activation) and PARP cleavage in RKO cells, but not in normal CCD-18Co cells or PrEC (
+Figure 5B
+), which is consistent with lack of cell death induction in normal cells. Pretreatment of RKO cells with pan-caspase inhibitor Boc-D-fmk decreased cell death induction by 50% at 5 µmol/L and 45% at 10 µmol/L of MI-43 (
+Fig. 5C
+). Similarly, cell death induction with 10 µmol/L of Nutlin-3 decreased by 60%. These data indicate that cell death induction by MDM2 inhibitors in colon cancer cells is partially caspase-dependent.
+Open in a separate window
+Figure 5
+Cytosolic release of cytochrome c and Smac, and caspase activation by MI-43
+A.
+Cytosolic release of cytochrome c and Smac. RKO cells were treated for 3 days as indicated and Western blotting was performed to probe cytochrome c and Smac in cytosolic fraction.
+B.
+DEVDAase activity assay in cancer and normal cells. RKO cancer and normal CCD-18Co and PrEC cells were treated in triplicate for 3 days as indicated. DEVDase activity was determined using Ac-DEVD-AFC substrate. Data are shown as mean relative fold increase in caspase activity relative to untreated control.
+C.
+The role of caspases in apoptosis induction. RKO cells were pretreated for 1 h with 150 µmol/L of pan caspase inhibitor Boc-D-fmk, followed by treatment with MI-43 or Nutlin-3 for 3 days. Cell death was measured using a trypan blue dye assay. Shown is % cell death as mean ± S.D of duplicates from a representative experiment.
+MI-43 Induces a p53-dependent Cell Cycle Arrest in Both Cancer and Normal cells
+Since MI-43 activates p53 in both cancer and normal cells, we examined its effect on cell cycle progression in both cell types. Treatment of RKO cells with MI-43 induced depletion of S-phase cell fraction and caused a G1/S blockade (
+Fig. 6A
+). MI-43 had no effect on HT-29 cells harboring mutated p53. Similar to its effect on RKO cancer cells, MI-43 induced near complete depletion of S-phase fraction and caused efficient cell cycle arrest in normal CCD-18Co and epithelial cells (
+Fig. 6B
+). The inactive analogue MI-61 had no effect on any cell type, indicating the specificity of MI-43.
+Open in a separate window
+Figure 6
+Induction of cell cycle arrest in cancer and normal cells by MI-43. The role of p53 and p21 in cell cycle arrest
+A and B.
+Induction of cell cycle arrest in cancer and normal cells. Cancer
+(A)
+and normal
+(B)
+cells were incubated for 22 h in the presence or absence of indicated compound, followed by 2 h incubation with 10 µmol/L of BrdU. Cell cycle was analyzed by flow cytometry after staining cells with FITC-labeled anti-BrdU antibody and 7-AAD. Shown are % S-phase cells measured by BrdU labeling.
+C.
+The role of p53 and p21 in cell cycle arrest by MDM2 inhibitors. The HCT-116 cancer cell line or its isogenic lines lacking either p53 or p21 were treated with the inhibitors for 22 h. Cell cycle analysis was performed as described in
+Fig. 6B
+(above). Shown are % S-phase cells.
+D.
+Activation of p53 in p21-deficient cells. HCT-116 cell line lacking p21 was treated for 24 h as indicated, followed by Western blot analysis.
+Induction of Cell Cycle Arrest by MDM2 Inhibitors in Cancer Cells Requires p53 and p21
+Cyclin dependent kinase inhibitor p21, a p53 target gene product, is a key mediator of p53-induced cell cycle arrest (
+24
+). Our data showed that p53 accumulation by MI-43 in cancer and normal cells is accompanied by robust up-regulation of p21 (
+Fig. 2
+;
+Supplementary Fig. 3
+). Therefore, to define the role of p53 and p21 in cell cycle arrest induced by MDM2 inhibitors, we have employed HCT-116 p53
++/+
+, p53
+−/−
+and p21
+−/−
+isogenic cell lines. Both MI-43 and Nutlin-3 effectively induced cell cycle arrest in HCT-116 p53
++/+
+cells, but had little or no effect in HCT- 116 p53
+−/−
+cells, demonstrating the critical role of p53 (
+Fig. 6C
+). These results were confirmed using RKO cells containing p53 shRNA (
+Supplementary Fig. 4
+). As was observed in HCT-116 p53
+−/−
+cells, MI-43 did not induce cell cycle arrest in HCT-116 p21
+−/−
+cells (
+Fig. 6C
+). As expected, we noted that the ability of MI-43 to induce p53 accumulation and modulate p53 target gene products was retained in p21-knockout cells, indicating that the p53 pathway is activated (
+Fig. 6D
+). Taken together, these data show that induction of cell cycle arrest by both MI-43 and Nutlin-3 is dependent on p53 and is mediated by p21.
+Contrasting Effects of MI-43 on Cell Cycle and Cell Death in Cancer and Normal Cells
+While MI-43 causes both cell cycle arrest and cell death in cancer cells, in normal cells it causes only cell cycle arrest, but not cell death. The precise mechanisms of cell death resistance in normal cells remain unclear. Cancer cells express a variety of oncogenes, which provide a survival advantage to cancer cells but render them susceptible to oncogene intervention strategies. For example, cancer cell lines such as HCT-116, RKO and SJSA-1 have higher expression of MDM2 oncoprotein than normal cells (
+Supplementary Fig. 5
+). Of these cell lines, the SJSA-1 osteosarcoma cell line expresses the highest level of MDM2 protein and is indeed the most sensitive to MI-43 (data not shown) and Nutlin-3 (
+25
+). In fact, it was observed that overexpression of MDM2 in cancer cells is an indicator of their sensitivity to apoptosis induction by Nutlin-3 (
+25
+). Hence, the overexpression of MDM2 in cancer cells lead to strong suppression of p53 activity and renders them highly vulnerable to reactivation of p53 by MDM2 inhibitors.
+Although p53 is activated by MI-43 in both cancer and normal cells, the levels of p53 accumulation are different. Both basal and MI-43 induced p53 levels are appreciably lower in CCD-18Co normal colon fibroblasts than HCT-116 colon cancer cells (
+Supplementary Fig. 6
+). It is possible that lower levels of p53 favor cell cycle arrest, whereas higher levels of p53 lead to both cell cycle arrest and apoptosis induction (
+26
+). Furthermore, although p53 activation by MI-43 leads to upregulation of p21, a key mediator of cell cycle arrest in cancer and normal cells, it may have differential regulation on a subset of genes involved in apoptosis. Further investigations are needed to delineate the differential effect of MDM2 inhibitors on apoptosis induction in cancer and normal cells.Conclusion
+This study investigates the
+in vitro
+cellular mechanism of action of MI-43, a new, potent and specific spiro-oxindole inhibitor of the MDM2-p53 interaction, its anti-tumor activity in colon cancer cell lines and selectivity in normal cells. Our study demonstrates that MI-43 represents a potent and specific small-molecule inhibitor of the MDM2-p53 interaction with a novel chemical scaffold and a promising lead compound for further optimization for the development of a new class of anti-cancer therapy for the treatment of colon and other types of human cancer. Despite its potent
+in vitro
+anti-tumor activity and specificity and well-defined mechanism of action, MI-43 lacks the desirable pharmacokinetic profile, unsuitable for
+in vivo
+evaluations in animal models of human cancer. To this end, we have performed extensive chemical optimization of MI-43 and identified MI-219 as a new analogue with much improved
+in vivo
+bioavailability and other drug-like properties (
+27
+). Extensive investigation of MI-219 for its mechanism of action and therapeutic potential in colon cancer models is underway and the results will be reported in due course.Supplementary Material
+Supplementary
+Click here to view.
+(337K, pdf)Acknowledgments
+Financial Support:
+This work was supported by grants: NCI/NIH R01CA121279 (S.W.), UM Prostate Cancer SPORE P50CA069568 (S.W.), Leukemia and Lymphoma Society (S.W.), Prostate Cancer Foundation (S.W.), Ascenta Therapeutics Inc. (S.W.) and UM Cancer Center grant (P30CA046592).Abbreviations List
+7-AAD
+7-Amino-actinomycin D
+BH3
+Bcl-2 homology 3
+BrdU
+Bromodeoxyuridine
+C
+t
+Cycle threshold
+FP
+Fluorescence polarization
+MDM2
+Mouse double minute 2
+PI
+Propidium iodide
+PrEC
+Prostate epithelial cells
+PUMA
+p53 upregulated modulator of apoptosis
+RNAi
+RNA interference
+shRNA
+short hairpin RNA
+Smac
+Second mitochondria-derived activator of caspasesFootnotes
+Conflict of Interest:
+Ascenta Therapeutics, Inc. (Malvern, PA) has licensed the technology related to MI-43 and its analogues from the University of Michigan. S.W own stocks and stock options in Ascenta Therapeutics and serves as a consultant and its scientific advisor. The University of Michigan also owns stock in Ascenta.

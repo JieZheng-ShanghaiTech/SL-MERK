@@ -1,0 +1,543 @@
+897
+
+Acta Pharmacologica Sinica 2005 Aug; 26 (8): 897–907
+
+©2005 CPS and SIMM
+
+Invited review
+
+Molecular basis of ataxia telangiectasia and related diseases
+
+Lindsay G BALL, Wei XIAO1
+
+Department of Microbiology and Immunology, University of Saskatchewan, Saskatoon, SK Canada, S7N 5E5.
+
+Abstract
+
+Ataxia telangiectasia (AT) is a rare human disease characterized by extreme cellular
+sensitivity to radiation and a predisposition to cancer, with a hallmark of onset
+in early childhood. Several human diseases also share similar symptoms with AT
+albeit with different degrees of severity and different associated disorders. While
+all AT patients contain mutations in the AT-mutated gene (ATM), most other ATlike
+disorders are defective in genes encoding an MRN protein complex consisting
+of Mre11, Rad50 and Nbs1. Both ATM and MRN function as cellular sensors
+to DNA double-strand breaks, which lead to the recruitment and phosphorylation
+of an array of substrate proteins involved in DNA repair, apoptosis and cell-cycle
+checkpoints, as well as gene regulation, translation initiation and telomere
+maintenance. ATM is a member of the family of phosphatidylinositol 3-kinase-like
+protein kinases (PIKK), and the discovery of many ATM substrates provides the
+underlying mechanisms of heterologous symptoms among AT patients. This
+review article focuses on recent findings related to the initial recognition of doublestrand
+breaks by ATM and MRN, as well as a DNA-dependent protein kinase
+complex consisting of the heterodimer Ku70/Ku80 and its catalytic subunit DNAPKcs,
+another member of PIKK. This possible interaction suggests that a much
+greater complex is involved in sensing, transducing and co-ordinating cellular
+events in response to genome instability.
+
+Key words
+
+ataxia telangiectasia; DNA damage; DNA repair;
+cdc genes; phosphotransferases
+
+1 Correspondance to Dr Wei XIAO.
+Phn 1-306-966-4308.
+Fax 1-306-966-4311.
+E-mail wei.xiao@usask.ca
+
+Received 2005-04-08
+Accepted 2005-05-05
+
+doi: 10.1111/j.1745-7254.2005.00165.x
+
+Ataxia telangiectasia clinical presentation
+
+Ataxia telangiectasia (AT) is a rare human disease characterized
+by extreme sensitivity to radiation[1–5]. AT is a progressive
+neurodegenerative disorder causing a predisposition
+to cancer, with a hallmark of onset in early childhood[6–9].
+AT is seen in approximately 1 in every 40 000 live births in the
+USA, although the frequency varies from country to country[10].
+At birth, infants appear normal and begin walking at a
+normal age (approximately age 1 year); however, by age 2–3
+ataxia (loss of muscle co-ordination) becomes visible and
+generally by age 10 patients are confined to a wheelchair[10].
+Ataxia generally precedes telangiectasia, which is described
+as the chronic dilation of a group of capillaries causing
+elevated, dark red blotches on the skin or eyes[11]. This disease
+is additionally characterized by cerebellar degeneration,
+and immune system defects[12–14]. In younger children, diagnosis
+of AT is somewhat obscure as the cerebellum appears
+
+to be of normal size for several years although onset of ataxia
+is prevalent. However, by age 10 magnetic resonance imaging
+(MRI) generally shows an abnormal cerebellum that has
+decreased in volume[15]. Studies have shown a gradual decrease
+in granular and Purkinje cells, which are large branching
+cells of the nervous system and are located in the middle
+layer of the lower part of the brain, or the cerebellum[14–16].
+Unfortunately, there is currently no treatment for AT except
+for supportive therapy of secondary symptoms[17].
+In addition to an up to several hundredfold increase in
+developing certain types of cancers (eg lymphoma) in AT
+patients, epidemiological studies suggest that heterozygote
+AT mutation carriers are also at increased risk for cancer,
+particularly breast carcinoma[18,19]. This is of great significance
+as it is estimated that approximately 1% of the population
+are AT carriers. However, it is noted that a recent study
+showed that heterozygous AT mutations did not confer genetic
+predisposition to early onset of breast cancer[20].
+898
+
+Ball LG et al Acta Pharmacologica Sinica ISSN 1671-4083
+
+Serum alphafetoprotein (AFP) levels are elevated in more
+than 95% of AT patients, which is therefore used to diagnose
+AT and to distinguish from AT variants[4,5,10,21]. When
+dealing with AFP it is important to note that AFP levels are
+normally higher at birth than those at age 2, thus diagnostics
+for AT using AFP cannot be conducted until after the age of
+2. There are known malignancies associated with AFP[10,22].
+For example, AFP is known to be elevated in case of spina
+bifida and anencephaly, and this elevation is the hallmark
+test for early detection of both conditions. Spina bifida is
+part of a group of birth defects called neural tube defects,
+which affect embryonic structures that eventually develop
+into the brain, spinal cord and tissues that enclose them.
+Anencephaly is a congenital condition in which portions of
+the brain fail to develop. Because AFP is such a diagnostic
+hallmark for AT, it is surprising that the mechanism of AFP
+upregulation in normal and AT cells has not been reported.
+Nevertheless, given the commonality of AFP elevation in all
+of the above 3 diseases, it is conceivable that the increased
+AFP level is responsible for the Purkinje cell degeneration in
+AT patients.
+
+Ataxia telangiectasia-related diseases
+
+There are several human deficiencies and diseases that
+are closely related to AT. For example, molecular cloning has
+now allowed for the distinction between AT and other autosomal
+recessive cerebellar ataxias (ARCA) such as Friedreich
+ataxia or A-TFresno, an old-fashioned term for an AT variant[23–25],
+oculomotor apraxias 1 (aprataxin deficiency), oculomotor
+apraxias 2 (senataxin deficiency), aicardi syndrome and ATlike
+disorder (ATLD)[26–29].
+AT-like disorder is a very rare disorder with clinical features
+similar to those of AT, with the most prominent similarity
+being progressive cerebellar ataxia. However, ATLD patients
+that do not present with telangiectasia[30,31], have a
+later onset of neurological features, slower progression, and
+thus milder symptoms compared to AT patients[27].
+Closely related to AT and ATLD is the Nijmegen breakage
+syndrome (NBS)[23–25]. NBS and ATLD have some overlapping
+features such as hypersensitivity to ionizing radiation
+and genome instability, and both are characterized by
+neurological deficits[32,33]. Thus, NBS was long considered
+as a clinical variant of AT. Clinical distinction has been made
+as NBS patients also present with a characteristic facial appearance
+and microcephaly as well as growth retardation[34].
+Clearly the above AT-related human conditions suggest deficiency
+at common cellular function(s) and genetic pathway
+(s) with AT.
+
+Laboratory findings in ataxia telangiectasia
+and ataxia telangiectasia-related patients
+Laboratory findings in patients with AT show: immunodeficiencies
+emerging as decreased IgA, IgE and IgG2 levels[5,21,35–38],
+characteristic chromosomal aberrations and an
+increased rate of telomeric shortening[39], radiosensitivity[1–5],
+as well as sensitivity to other DNA damaging agents and
+non-DNA damaging agents[40]. Chromosome instability, cellcycle
+checkpoint defects[3] and elevated serum levels of
+AFP[21,22] are prevalent in most AT patient cells. In addition,
+approximately one-third of AT patients develop cancer, which
+is usually lymphoid[10].
+Both NBS and ATLD cells share a number of cellular phenotypes
+with AT cells, with the most prominent being the
+increased sensitivity to ionizing radiation, abnormal cell-cycle
+checkpoints, chromosome instability, immunodeficiency and
+accelerated shortening of telomeres[41,42]. In particular, all 3
+disorders show an increased level of chromosome translocation
+in the peripheral blood between the loci of the immunoglobulin
+and T-cell receptor genes on chromosomes 7 and
+14[43,44]. Hence, laboratory findings are most consistent with
+all 3 diseases belonging to a group of disorders referred to
+chromosome instability syndromes.
+
+Molecular basis of ataxia telangiectasia and
+related diseases
+
+AT is the result of mutations in the AT-mutated (ATM)
+gene, which was discovered in 1995[45,46]. AT patients suffer
+as a result of over 400 distinct ATM mutations, of which 85%
+are accounted for by null mutations in the ATM gene[21,47,48].
+Thus, approximately 85% of AT sufferers have no detectable
+ATM protein[21,48]. There are a few reported genuine AT cases
+with normal ATM protein levels; however, in these cases the
+protein is defective in ATM enzyme activity[49,50]. The establishment
+of AT as a monogenetic disease assisted in efficient
+diagnosis and reevaluation of “AT variants”. The fact
+that some AT patients carry hypomorphic ATM mutations
+(ie mutations with partial functions) provides an underlying
+explanation for atypical AT patients with minimal signs of
+symptoms, such as very mild or late-onset of syndromes or
+a subset of disorders[51].
+The ATM protein is a member of the phosphatidylinositol
+3-kinase-like family of serine/threonine protein kinases
+(PIKK)[13,52]. It is thus grouped because all PIKK contain a
+conserved kinase domain initially reported in phosphatidylinositol
+3-kinase. This family represents an atypical subclass
+of protein kinases responsible for phosphorylation of
+its substrates on serine or threonine followed by glutamine
+Http://www.chinaphar.com Ball LG et al
+
+899
+
+(SQ or TQ)[53–55]. The mammalian PIKK known to be involved
+in the DNA damage response are: DNA-PKcs (the catalytic
+subunit of DNA-dependent protein kinase), ATM (ataxia telangiectasia
+gene product), ATR (ATM and Rad3-related),
+mTOR/FRAP (mammalian target of rapamycin/FKBPrapamycin-associated
+protein) and ATX/SMG1[13].
+The ATM protein is a fairly large (approximately 350 kDa)
+protein that can be divided into several structural and functional
+domains (Figure 1A). The first is an FAT domain, which
+is conserved among the PIKK family of proteins FRAP, ATR
+and TRRAP; the second is a phosphoinositide 3,4-kinase
+(PI3K) domain, which ATM has in common with DNA-PKcs;
+and the third is an FAT carboxy-terminal domain (FATC)[56].
+In addition, the amino terminus of the ATM protein contains
+multiple HEAT (huntingtin, elongation factor 3, A subunit of
+protein phosphatase 2A and TOR1) repeats[57]. A recent
+solution structure analysis of the FATC domain[58] revealed
+an a-helix and a disulfide-bonded loop that undergoes conformational
+changes. Hence, the FATC domain may regulate
+protein activity and stability. The precise function of HEAT
+repeats is currently unknown, although it is speculated to be
+involved in the interaction with other proteins, as these repeats
+are anti-parallel α-helices linked by a flexible loop[40,57].
+
+The overall shape of ATM is very similar to DNA-PKcs and
+is comprised of a head and a long arm that is thought to wrap
+around double-stranded DNA after a conformational change[59–63].
+One of the hallmarks of the ATM protein is its rapid increase
+in kinase activity immediately following exposure to ionizing
+radiation (IR), or in the presence of double-strand breaks
+(DSB)[64,65].
+The gene mutated in NBS was identified as NBS1[25,66,67]
+whereas ATLD is caused by mutations in the MRE11 gene[29].
+Unlike AT, which can result from complete inactivation of
+the coding gene, all NBS and ATLD patients carry hypomorphic
+mutations that express some level of corresponding
+protein, either truncated or full length with amino acid substitutions[27,68].
+Indeed, attempts to create null Mre11 mutations
+in mouse embryonic stem cells has failed and conditional
+knockout experiments demonstrated that this gene is
+required for normal cell proliferation[69], suggesting that
+MRE11 is an essential gene in mammals. Similarly, complete
+Nbs1 knockout mice are embryonic lethal[70,71]. This assertion
+is further confirmed by a report that disruption of mouse
+Rad50, encoding the third component of the MRN (MRX in
+yeast) complex consisting of Mre11, Rad50, and Nbs1 (aka
+nibrin and p95; Xrs2 in yeast), also causes embryonic stem
+
+Figure 1. Schematic representation of the ATM, Mre11 and Nbs1 proteins. (A) ATM and its functional domains. Most domains have been
+discussed in the text. The letter “P” indicates the phosphorylation site required for its activation. (B) Mre11 and its functional domains. The
+asterisks represent the known mutations that cause ataxia telangiectasia-like disorder (ATLD). Note that only two families of ATLD with
+MRE11 mutations were reported. One is homozygous for the mutation C1897T, resulting in R633∆ (stop codon), whereas the second family
+is heterozygous for A350G (N117S) and C1714T (R572∆). (C) Nbs1 and its functional domains. The asterisks indicate the known NBS1
+mutations that cause Nijmegan breakage syndrome (NBS), among which the homozygous 657∆5 mutation accounts for over 90% of NBS
+patients. 657∆5 contains a 5-bp deletion, resulting in a truncated 26 kDa protein with only forkhead-associated (FHA) and BRCA1 Cterminus
+(BRCT) domains. Other NBS1 mutations cause various degrees of symptoms.
+900
+
+Ball LG et al Acta Pharmacologica Sinica ISSN 1671-4083
+
+cell lethality[72].
+The human MRE11 gene was initially isolated by its possible
+protein interaction with DNA ligase I[73] and was predicted
+to encode a 708-amino acid protein. However, subsequent
+reports appear to favor an Mre11B sequence (Figure
+1B), which is different from Mre11 primarily at the C-terminal
+region and significantly strengthens its similarity with Mre11
+from other species[74]. Mre11 contains a phosphoesterase
+motif at the N-terminal region that is highly conserved among
+all eukaryotic Mre11 and a similar motif is also found in
+Escherichia coli SbcD[75]. It also contains DNA-binding
+domains at the C-terminal region and region(s) for homodimerization[76,77].
+Structural analyses[78–80] indicate that the
+MRN complex consists of two molecules of Mre11 and Rad50
+(an E coli SbcC homolog) forming a rope-and-hook structure
+capable of bridging two DSB ends. In vitro characterization
+of the Rad50–Mre11 complex[76,81–84] demonstrates that
+it possesses 3´ to 5´ exonuclease and single-strand endonuclease
+activities, as well as ATP-dependent DNA binding
+and limited unwinding activity.
+The phenotypic similarity between NBS and ATLD patients
+is attributed to the fact that both corresponding proteins
+are components of the MRN complex. Mre11 interacts
+with both Rad50 and Nbs1/Xrs2, and its homodimerization
+or self-interaction appears to be important for the Mre11–
+Rad50 and Mre11–Nbs1/Xrs2 interactions[76,77]. Interestingly,
+deficiency of the Mre11 protein results in decreased cellular
+levels of Nbs1 and Rad50, suggesting that the MRN complex
+is required for protein stability. The primary cellular
+function of MRN is a sensor for DNA strand breaks and to
+activate signaling pathways leading to cell-cycle checkpoint
+and recombination repair[32,85,86]. While Mre11 and Rad50
+are highly conserved in eukaryotes, from unicellular yeasts
+to human cells[87,88], the third component, Nbs1, is less conserved
+structurally among eukaryotes, although the mammalian
+Nbs1 and yeast Xrs2 play similar roles within their
+respective MRN/MRX complex. Nbs1 has been suggested
+to be a regulatory subunit of MRN that is essential for Mre11
+phosphorylation upon DNA damage[89] and its biochemical
+activities, such as ATP-dependent DNA unwinding and nuclease
+activity[90]. Although Nbs1 or Xrs2 is not required for
+the Mre11–Rad50 enzymatic activity in vitro, its activity appears
+to be absolutely required for MRX activity in vivo, as
+inactivation of any 1 of the 3 genes in yeast cells leads to
+complete loss of the MRX activity and indistinguishable
+cellular phenotypes[91–93]. This essential function of Nbs1/
+Xrs2 is probably due to its role in recruiting ATM/Tel1[94].
+The Nbs1 protein has 4 known functional regions: the Nterminal
+forkhead-associated (FHA) domain followed by a
+
+BRCA1 C-terminus (BRCT) domain, a C-terminal Mre11-binding
+domain and an ATM-binding domain at the extreme Cterminus
+(Figure 1C). Interestingly, over 90% of all NBS patients
+analyzed to date contain a homozygous 5 bp truncating
+mutation, 657∆5[25], resulting in the production of a 26-
+kDa protein with FHA and BRCT domains but lacking the
+Mre11-binding domain (Figure 1C). Knockout mice producing
+similar truncated Nbs1 proteins are viable and develop
+symptoms characteristic of the human disease[95,96], thus providing
+an animal model suitable for NBS research.
+
+Phenotypic manifestation of genetic defects
+in ataxia telangiectasia and related diseases
+
+One of the hallmarks of the ATM protein is its rapid increase
+in kinase activity immediately following DSB formation[64,65],
+and its kinase activity remains its only known function
+to date. The phenotypic manifestation of AT is due to
+the broad range of substrates for the ATM kinase, as compiled
+recently[40], involving DNA repair, apoptosis, G1/S, intra-S
+checkpoint and G2/M checkpoints, gene regulation,
+translation initiation, and telomere maintenance. Protein
+phosphorylation and de-phosphorylation is an important
+cellular regulatory mechanism that governs protein activity,
+stability, subcellular location and complex formation. We
+propose that although the primary ATM kinase substrates
+appear to be related to cellular response to DNA damage,
+novel ATM substrates and subsequent effects may explain
+all observed syndromes of AT patients, including elevated
+AFP level. We also propose that the multiple HEAT repeats
+in ATM may serve as a platform to interact with various
+regulatory and substrate proteins and to control its kinase
+activity in the aftermath of DNA damage. For example, the
+increased risk for breast cancer in AT patients has been implicated
+by the involvement of ATM in the interaction and
+phosphorylation of BRCA1 and its associated proteins following
+DNA damage[97,98].
+The ATM protein also has the ability to interact with the
+ends of double-stranded DNA[99]. A recent model suggests
+that ATM is in an inactive dimeric or polymeric configuration,
+in which the kinase domain of each molecule is blocked by
+the FAT domain of the other[100]. Following DNA damage,
+each ATM molecule phosphorylates the other on a serine
+residue at position 1981 within the FAT domain and thus
+converts into fully active monomers. It was shown that protein
+serine-threonine phosphatase 5 (PP5) is required for the
+activation of ATM and its subsequent kinase activity[101].
+The symptom similarity among AT, ATLD and NBS is
+apparently due to physical and genetic interactions between
+Http://www.chinaphar.com Ball LG et al
+
+901
+
+ATM and MRN. Experimental results suggest that the ATMMRN
+interaction in response to IR is complicated. First, the
+histone H2A isoform H2AX is rapidly phosphorylated (within
+5 min) after irradiation in an ATM-dependent manner[102,103],
+and the phosphorylated gH2AX interacts with MRN via the
+FHA/BRCT region of Nbs1[103]. This interaction has been
+deemed indispensable for the recruitment of MRN[41]. Second,
+in response to IR, ATM phosphorylates Nbs1 in vivo[104],
+which is required for the subsequent phosphorylation of
+Mre11. Finally, phosphorylation and activation of the Sphase
+checkpoint effector Smc1 by ATM requires phosphorylated
+Nbs1[105,106]. The above observations suggest that
+ATM acts upstream of MRN and is required to recruit MRN
+to the damage sites observed as distinct nuclear foci. On the
+other hand, MRN/MRX is known to bind DSB ends and a
+careful choreographic analysis in yeast[107] indicates that
+MRX localization to nuclear DSB foci precedes and is required
+for that of Tel1, a yeast ATM ortholog[108,109]. In mammalian
+cells, Mre11 appears to be required for ATM activation
+as well[110], and this interaction was further reinforced
+very recently by an in vitro experiment showing that the
+MRN complex acts as a DSB sensor for ATM and recruits
+ATM to broken DNA molecules[111]. Interestingly, the unwinding
+of DNA ends by MRN appears to be essential for
+ATM stimulation[111], indicating that the MRN enzymatic
+activity plays a role in this process. In addition, a recent
+study[112] shows that NFBD/MDC1, which interacts with
+MRN, is required for ATM activation under certain
+conditions. Alternatively, NFBD1/MDC1 may help to recruit
+substrates, including Nbs1[113,114], to ATM[113–123]; suppression
+of NFBD1/MDC1 leads to decreased ATM activation
+and decreased phosphorylation of ATM substrates[112].
+These observations support an assertion that MRN plays a
+crucial role in ATM phosphorylation of other substrates in
+response to DSB. The argument that MRN functions upstream
+of ATM is further strengthened by a very recent report
+that the extreme C-terminal 21 amino acid peptide of
+Nbs1 is required and sufficient for the interaction with ATM
+in vivo and in vitro, and that this interaction mediates ATM
+deposition to the sites of DNA damage and its checkpoint
+functions[94]. The above genetic and physical interactions
+between MRN and ATM underlie the molecular basis for the
+shared cellular functions in cell-cycle checkpoints and recombination
+repair of DSB, as well as common syndromes
+among AT, ATLD and NBS.
+
+DNA-PK: a missing link?
+
+Despite the great advances made in the past decade regarding
+AT research, many questions remain to be answered.
+One question that remains unsolved is the involvement of
+Ku70/Ku80 in ATM-mediated cellular events in response to
+DSB. Ku70 and Ku80 form a heterodimer as DNA end-binding
+subunits of DNA-PK[59–62]. It would be plausible to suggest
+that Ku70/Ku80 may also assist ATM’s translocation
+to DSB, as Ku70/Ku80 is known to play such a role for DNAPKcs,
+another member of PIKK with overall structural similarity
+to ATM[124]. Like ATM, DNA-PKcs recognizes the same
+consensus phosphorylation sequence SQ/TQ, and also undergoes
+DSB-induced autophosphorylation, which is required
+for DSB repair[125]. In addition, inactivation of either
+DNA-PK or ATM results in immunodeficiency; the former
+results in defective V(D)J recombination that leads to scid
+(severe combined immune deficiency) mutations[126,127],
+whereas the latter results in the disruption of immune gene
+rearrangement[128]. We propose that in the presence of Ku70/
+Ku80, DNA-PKcs and ATM may undergo conformational
+changes to be suitable for the suggested role of further wrapping
+around DNA[59–63]. Indeed, recent electron microscopybased
+structural analyses of both DNA-PKcs[129–131] and
+ATM[63] suggest a similar architecture consisting of a “head”
+and a “palm” domain connected by an “arm”. The palm
+domain binds DNA, which induces conformational changes
+and triggers an interaction between initially distant palm and
+head regions[130]. These DNA-induced conformational
+changes alter the catalytic core and regulate the kinase activity[131].
+The difference between DNA-PKcs and ATM is
+that DNA-PKcs is activated in G1 and is required for nonhomologous
+end joining (NHEJ) and apoptosis if DNA damage
+is excessive[132], while ATM is activated in S and G2
+phases and is required for S-phase checkpoint and homologous
+recombination (HR)[40].
+Another connection between ATM and Ku70/Ku80 is
+that yeast MRX is not only required for DSB signaling and
+HR, but also works with Ku70/Ku80 for NHEJ[133–136] and telomere
+maintenance[77,93,137,138]. The budding yeast Saccaromyces
+cerevisiae predominantly employs HR to repair DSB
+over NHEJ. On some occasions when DSB repair can be
+processed by either process, NHEJ was shown to precede
+HR[139]. A compiled model can be proposed in which the
+telomere acts as a repository for Ku proteins, which relocalize
+to DSB after DNA damage[140] and recruit MRX[141]. MRX
+can assist to recruit and activate Lif1 and Dnl4[142], resulting
+in ligation of the broken ends. However, in budding yeast, the
+MRX complex most likely initiates 5´ to 3´ end resection[76],
+hence committing to repair by HR. This commitment is probably
+due to the broken DSB ends that are unsuitable for
+direct ligation, or to the recruitment of Tel1 by MRX that
+902
+
+Ball LG et al Acta Pharmacologica Sinica ISSN 1671-4083
+
+activates cell-cycle checkpoints and subsequent recruitment
+of other HR proteins[107]. A similar regulatory cascade may
+also exist in higher eukaryotes; however, because mammalian
+cells have an extended G1 phase, the initial DSB binding
+by Ku70/Ku80 may stimulate NHEJ more frequently than in
+yeast. In addition, mammalian cells contain 3 major PIKK
+family proteins, namely ATM, ATR and DNA-PKcs, involved
+in different modes of DNA repair and overlapping signal
+transduction in response to DNA damage. The mechanism
+of their recruitment to sites of DNA damage is conserved via
+a newly discovered motif[94]. For example, ATR is recruited
+to a single-stranded DNA by ATRIP (ATR-interacting
+protein)[143,144], whereas DNA-PKcs and ATM are recruited
+to DSB by Ku70/K80 and MRN, respectively. Based on the
+above observations, we have proposed a working model of
+cellular response to DSB in mammals, as presented in Figure 2.
+Finally, the physical and functional interactions among
+Ku, MRN/MRX and ATM/Tel1 can also be found in
+telomeres. Both yeast[145] and human[146] Ku is bound to
+
+telomeric DNA and protects its 3´ overhang. The MRX complex
+in budding yeast is also associated with telomeres, and
+mutants deficient in Ku or MRX activity exhibit telomere
+shortening[137,147]. Similar phenotypes are also observed in
+their homologous mutants in fission yeast and plants[148–150].
+Tel1 works together with MRX by either regulating the access
+of telomerase to the DNA end[151], and/or preventing
+telomere end-to-end fusion[152]. Tel1 is activated by the MRX
+complex and in turn phosphorylates MRX[153], suggesting
+functional conservation between yeast and mammals.
+However, unlike Tel1, ATM has not been implicated in
+telomerase access to the telomere. Nevertheless, AT patient
+cells were shown to have shortened telomeres[39,154], as well
+as other telomere abnormalities[155,156]. Furthermore,
+transgenic mice defective in both ATM and telomerase dramatically
+increase telomere dysfunction compared to single
+mutants[157], suggesting roles of ATM in telomere
+maintenance. The telomeric functions of ATM may be related
+to some symptoms of AT patients.
+
+Figure 2. A proposed model for cellular response to DNA double-stranded breaks (DSB) in mammalian cells. The Ku70/Ku80 heterodimer
+binds to the broken DNA ends first, followed by the recruitment or the independent binding of the MRN complex (consisting of Mre11, Rad50
+and Nbs1). If DNA-PKcs is recruited by interacting with the C-terminus of Ku80, cells are committed to non-homologous end joining. On the
+other hand, if ATM is recruited by interacting with the C-terminus of Nbs1, Ku70/Ku80 may be released and cells are probably committed to
+homologous recombination repair. Recruitment of ATM also leads to substrate phosphorylation and cell-cycle checkpoints. It should be noted
+that MRN may also bind to DNA ends without the assistance of Ku70/Ku80. Recent literature suggests that unwinding of DNA ends by MRN
+activates ATM and cell-cycle checkpoints, whereas DNA end resection by MRN initiates homologous recombination. The 2 processes may be
+co-regulated.
+Http://www.chinaphar.com Ball LG et al
+
+903
+
+Conclusions
+
+Since the initial discovery of the AT mutated gene 10
+years ago, knowledge regarding the molecular mechanisms
+of AT and its related diseases has accumulated rapidly. It is
+now clear that the primary function of ATM and MRN, which
+is related to NBS and ATLD, is to respond to DNA damage,
+especially DSB. Two primary activities are cell-cycle checkpoint
+and DNA repair through HR, and these are achieved
+mainly via protein phosphorylation of various substrates,
+including ATM and MRN themselves. ATM and MRN are
+also involved in telomere maintenance and protection from
+chromosomal translocation, as well as efficient immune gene
+recombination. Although these cellular phenotypes are able
+to explain most phenotypes observed in AT and AT-related
+disease, some other associated symptoms may be due to
+diverse ATM substrates, unique MRN functions not shared
+by ATM, as well as the hypomorphic nature of the disease.
+Despite great advances in research, many questions remain
+to be answered especially with regard to treatment. Future
+efforts shall be directed to translational research for the cure
+and prevention of AT its and related diseases.
+
+Acknowledgements
+
+The authors wish to thank Michelle HANNA for proofreading
+the manuscript and other laboratory members for
+their helpful discussion. This work is supported by a Canadian
+Institutes of Health Research operating grant (MOP53240)
+to WX.
+

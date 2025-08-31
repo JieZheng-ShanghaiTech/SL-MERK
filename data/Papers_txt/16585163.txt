@@ -1,0 +1,712 @@
+3p21.3 Tumor Suppressor Gene H37/Luca15/RBM5 Inhibits Growth of
+Human Lung Cancer Cells through Cell Cycle Arrest andApoptosis
+
+Juliana J. Oh, Ali Razfar, Idolina Delgado, Rebecca A. Reed, Anna Malkina,
+Baher Boctor, and Dennis J. Slamon
+
+Division of Hematology/Oncology, University of California at Los Angeles School of Medicine, Los Angeles, California
+
+Abstract
+
+Deletion at chromosome 3p21.3 is the earliest and the most
+frequently observed genetic alteration in lung cancer, suggesting
+that the region contains tumor suppressor gene(s) (TSG).
+Identification of those genes may lead to the development
+both of biomarkers to identify high-risk individuals and novel
+therapeutics. Previously, we cloned the H37/Luca15/RBM5
+gene from 3p21.3 and showed its TSG characteristics. To
+investigate the physiologic function of H37 in the lung and its
+mechanism of tumor suppression, we have stably transfected
+H37 into A549 non–small cell lung cancer cells. A549/H37 cells
+show significant growth inhibition compared with the vector
+controls by in vitro and in vivo cell proliferation assays. Using
+this lung cancer cell model, we have found that the molecular
+mechanism of H37 tumor suppression involves both cell cycle
+(G1) arrest and apoptosis. To further define H37’s function in
+cell cycle/apoptotic pathways, we investigated differential
+expression profiles of various cell cycle and apoptosis
+regulatory proteins using Western blot analysis. Both cyclin
+A and phophorylated RB levels were decreased in H37-
+transfected cells, whereas expression of Bax protein was
+increased. Mitochondrial regulation of apoptosis further
+downstream of Bax was investigated, showing change in the
+mitochondrial membrane potential, cytochrome c release into
+the cytosol, and enhanced caspase-9 and caspase-3 activities.
+We also report that H37 may mediate apoptosis in a p53-
+independent manner, and Bax knockdown by small interfering
+RNA suggests Bax plays a functional role downstream of H37.
+Lastly, we proposed a tumor suppression model of H37 as a
+post-transcriptional regulator for cell cycle/apoptotic–related
+proteins. (Cancer Res 2006; 66(7): 3419-27)
+
+Introduction
+
+The loss of tumor suppressor gene (TSG) function is a critical step
+in the pathogenesis of human lung cancer. Deletion at chromosome
+3p21.3 is the most frequent genetic alteration identified in lung
+cancer, observed in >90% of small cell lung cancers (SCLC) and in
+50% to 80% of non–small cell lung cancers (NSCLC), indicating that
+the region contains one or more TSGs (1). Furthermore, loss of alleles
+at a 370-kb region of 3p21.3 is the earliest alteration found in
+preneoplastic lesions of the lung and sometimes in histologically
+normal lung epithelium of smokers (2). This timing suggests that
+
+3p21.3 TSGs play a role in preventing lung cancer initiation.
+Thus, isolation and characterization of the 3p TSGs could be a first
+step toward developing new targeted treatments and diagnostic
+tools for lung cancer. Accordingly, the search for TSGs in this
+region has been the focus of extensive research over the past two
+decades, and many genes mapping to this region have recently
+been characterized (3–9). The two most prominent genes, already
+being evaluated for clinical utility, are fus-1 (phase I clinical trial;
+refs. 10, 11) and RASSF-1A (epigenetic biomarker; refs. 12, 13).
+We previously showed that the H37 gene (also called Luca15 or
+RBM5; refs. 14, 15), concurrently cloned by us and others in 1996
+and located in the 3p21.3 tumor suppressor region, has the
+characteristics of a TSG. We found reduced expression (compared
+with adjacent normal tissue) of the H37 transcript in 9 of 11 (82%)
+primary NSCLCs (16). By generating a polyclonal H37 antibody and
+using it for immunohistochemical analysis of primary NSCLC
+specimens, we further showed that 46 of the 62 (73%) cancers
+underexpressed H37 protein (16). Moreover, when we introduced
+H37 cDNA into human breast cancer cells that had 3p21-22
+deletions, both anchorage-dependent and anchorage-independent
+growth was reduced (16). We found that subsequent transfection of
+H37 cDNA into one of the human lung cancer cell lines with a
+homozygous deletion in the TSG region (NCI-H740) resulted in a
+very low yield of H37-expressing clones, suggesting that H37 has
+antiproliferative properties (16). We also found that H37 suppressed
+anchorage-dependent and anchorage-independent growth
+in A9 mouse fibrosarcoma cells and inhibited tumor formation in
+nude mice (16).
+H37’s involvement in malignancy has been explored by other
+investigators as well, with results consistent to our findings. For
+example, H37 was identified as one of the serum antigens reacting
+with autologous antibody in renal cancer patients (17). H37/Luca15
+is down-regulated in human schwannomas (18) as well as in rastransformed
+Rat-1 rat embryonic fibroblastic cells (19). Ectopic
+expression of the H37 gene also suppresses growth of HT 1080
+human fibrosarcoma cells (19). Several alternatively spliced transcripts
+from the H37 locus, and an antisense fragment, seem to
+function as apoptotic regulators in hematopoetic cells (20–24). In
+particular, growth inhibition by the full-length H37 correlated with
+higher apoptotic rates and G1 cell cycle arrest in CEM-C7 human T
+cells (24). Most significantly, the H37/RBM5 gene was included in
+the 17 common gene signature associated with metastasis (one of
+the nine genes down-regulated in metastases) identified in multiple
+solid tumor types (25). Solid tumors carrying this gene expression
+signature had high rates of metastasis and poor clinical outcome
+(25). The fact that H37 shows tumor inhibitory properties in
+multiple different tissues is consistent with the finding that 3p21 is
+deleted in multiple other tumor types (although not as frequent as
+in the lung cancer), suggesting that this 3p21.3 TSG may be a
+general TSG (1).
+
+Note: A. Razfar and I. Delgado contributed equally to this work.
+Requests for reprints: Juliana J. Oh, Division of Hematology/Oncology, University
+of California at Los Angeles School of Medicine, 5-535 MRL, 675 Charles E. Young Drive
+South, Los Angeles, CA 90095. Phone: 310-206-1408; Fax: 310-825-3761; E-mail:
+julianaoh@mednet.ucla.edu.
+I2006 American Association for Cancer Research.
+doi:10.1158/0008-5472.CAN-05-1667
+
+www.aacrjournals.org 3419 Cancer Res 2006; 66: (7). April 1, 2006
+
+Research Article
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+Taken together, these data suggest that the H37 gene plays a
+significant role in tumor formation. However, tumor suppression
+by H37 has never been shown, systematically, in the tissue where
+H37 TSG would presumably be the most important (the lung).
+Therefore, there remains the need to develop an appropriate lung
+cancer model to thoroughly test H37 tumor suppression and
+investigate the physiologic function(s) of H37 and its molecular
+mechanism of tumor suppression in the most relevant/appropriate
+tissue type. To this end, we have developed a lung cancer cell line
+model in which H37 is ectopically expressed. By using this cell
+system, we have confirmed tumor suppressive activity of H37 in the
+lung and begun to characterize the molecular mechanism/
+biochemical pathways for H37’s tumor suppression.
+
+Materials andMethods
+
+Cell culture. A549 cells were purchased from the American Tissue Type
+Collection (Manassas, VA). Cells were grown in RPMI 1640supplemented
+with 10% fetal bovine serum, 2 mmol/L glutamine, and 1% penicillin
+G/streptomycin/fungizone solution.
+Plasmid transfection and generation of stable H37 transfectants.
+The full-length H37 cDNA was subcloned in the pBK-CMV eukaryotic
+expression vector. The plasmid was transfected into cells by LipofectAMINE
+(Invitrogen, Carlsbad, CA) according to the manufacturer’s protocol. After
+selection in G418 (700 Ag/mL) for 2 weeks, cells were plated into 10-cm
+dishes at limiting cell dilutions. Single cells that grew into individual
+colonies were removed from the dish by cell scraping and transferred into a
+six-well plate. Each cell line was then expanded and tested for H37
+expression. The transfected cells were strictly maintained in the same
+concentrations of G418 to avoid reversion of the cells.
+Cell counts and soft agar assay. Cells were plated in triplicate in sixwell
+plates (5,000 per well). After plating (day 0), seeding density was
+measured at day 1, and cells were counted at days 3, 5, and 7 by Coulter cell
+counter. For soft agar assay, cells were plated in 0.5% (bottom) and 0.3%
+(top) soft agar layers, in triplicate, in 35-mm dishes (20,000 per dish) and
+were incubated for up to 2 weeks before counting and photography.
+Colonies with >20cells were counted.
+Cell cycle analysis. Cells (1  106
+) were harvested and washed in cold
+PBS followed by fixation in 70% alcohol for 30 minutes on ice. After washing
+in cold PBS three times, cells were resuspended in 0.8 mL of PBS solution
+with 40 Ag of propidium iodide and 0.1 Ag of RNase A for 30minutes at
+37jC. Samples were analyzed for DNA content by FACSCalibur (Becton
+Dickinson, San Jose, CA) using blue 488-nm laser for excitation and fl2
+detector 585 F 21 nm for emission.
+Hoechst staining for apoptotic cell nuclei. Cells grown in four-well
+chamber slides (8,000 per chamber) were fixed in Carnoy’s Fixative (one
+part glacial acetic acid to three parts absolute methanol; MP Biochemicals,
+Irvine, CA) and subsequently stained with Hoechst 33258 (0.05 Ag/
+mL) in HBSS (MP Biochemicals). The cells were observed under a
+fluorescence microscope, and blue cells with apoptotic nuclear characteristics,
+such as nuclear condensation and fragmentation, were scored as
+apoptotic. Results are expressed as the percentage of the number of
+apoptotic cells compared with the total number of cells in 10random
+0.159-mm2 fields.
+Terminal deoxynucleotidyltransferase–mediated nick end labeling
+staining. The assay was done using the In situ Cell Death Detection kit,
+Fluorescein (Roche Applied Science, Indianapolis, IN), according to the
+manufacturer’s instructions for adherent cell preparations. A terminal
+deoxynucleotidyltransferase–mediated nick end labeling (TUNEL) reaction
+mixture without terminal transferase served as a negative control. For a
+positive control, permeabilized cells were incubated with DNase I for 10
+minutes at 15jC to 25jC to induce DNA strand breaks before labeling
+procedures. Cells plated onto microscope slides were air-dried and fixed
+with 4% paraformaldehyde (pH 7.4) for 1 hour, then incubated in 0.1%
+Triton X-100 with 0.1% sodium citrate on ice for 2 minutes. Fifty microliters
+of the TUNEL reaction mixture containing fluorescein-dUTP and terminal
+
+deoxynucleotidyl transferase were added to the cells with subsequent
+incubation in a humidified chamber for 60minutes at 37jC in the dark.
+Apoptotic cells exhibiting a strong nuclear green fluorescence were detected
+using a standard fluorescein filter (520nm). To quantify the apoptotic
+events, the number of cells undergoing apoptosis was counted in ten 0.159-
+mm2 fields and expressed as a percentage of the total number of tumor cells
+in the same field.
+Western blot analysis. Western blot analysis was done according to the
+standard protocol (26). Antibodies for the cell cycle–related proteins were
+purchased from Santa Cruz Biotechnology (Santa Cruz, CA), and all the
+antibodies for apoptotic pathways were purchased from BD Biosciences
+(San Jose, CA).
+Bax knockdown by small interfering RNA. The SMARTpool small
+interfering RNA (siRNA; Dharmacon, Lafayette, CO) for Bax was used,
+which contains a mixture of four siRNA duplexes selected by the
+SMARTselection algorithm by the manufacturer. The siRNA transfection
+was done using the DharmaFECT1 transfection reagent (Dharmacon)
+according to the manufacturer’s instructions. Briefly, A549 cells were
+seeded in 24-well plates (1.25  104 in 0.5 mL per well) in antibiotic-free
+growth media 1 day before the transfection. For transfection, the growth
+media was replaced with the 500 AL of the transfection mixture (per well)
+containing 50pmol siRNA and 2 AL DharmaFECT1 in the Opti-MEM I–
+reduced serum medium (Invitrogen). The transfection medium was
+replaced with the complete growth medium 24 hours after the
+transfection. The cells were harvested 96 hours after the transfection for
+the Bax expression analysis by Western blot and cell counts and TUNEL
+assays. Appropriate controls (all from Dharmacon) were used as follows:
+siGlow and siTox (positive transfection controls), siGAPDH (positive
+knockdown control), and siNon-Targeting Pool (negative control).
+Mitochondrial membrane potential breakdown assay. Cells were
+seeded in four-well chamber slides 24 hours before staining. Cells were
+stained with the JC-1 reagent (Stratagene, La Jolla, CA) and incubated in
+the tissue culture incubator for 15 minutes according to the
+manufacturer’s protocol. JC-1 aggregates in the mitochondria (only in
+live cells) were detected as the red color by a fluorescence microscope at
+excitation/emission = 540/570 nm; JC-1 monomers in the cytosol (in both
+live and apoptotic cells) were detected as green at excitation/emission =
+490/520 nm.
+Cytochrome c release assay. Cell fractionation was done by using the
+cytochrome c release apoptosis assay kit (Calbiochem, San Diego, CA)
+according to the manufacturer’s protocol. Briefly, the cell pellet (5  107 cells)
+was resuspended in 1 mL cytosol extraction buffer mix containing DTT and
+protease inhibitors, incubated on ice for 10minutes, and disrupted with 30to
+50passes of a Dounce homogenizer. The homogenate was centrifuged at
+700  g to separate the pellet containing the nuclei, unbroken cells, and large
+membrane fragments from the supernatant containing cytosolic fraction.
+The pellet was resuspended in 0.1 mL mitochondrial extraction buffer mix to
+obtain mitochondrial fraction; 10 Ag of each cytosolic and mitochondrial
+fraction was subjected to 12% SDS-PAGE electrophoresis and Western blot
+analysis with the monoclonal cytochrome c antibody.
+Caspase-9 and caspase-3 activity assays. Caspase-9 activity was
+analyzed using a fluorometric assay kit (R&D Systems, Minneapolis, MN)
+according to the manufacturer’s instructions. Briefly, the cell pellet (1  106
+cells) was lysed in the lysis buffer on ice. After protein standard assay, 50 AL
+of cell lysate containing 125 Ag of protein and the reaction buffer was
+pipetted into a 385-well plate. Subsequently, 5 AL of caspase-9 fluorogenic
+substrate [LEHD peptide conjugated to 7-amino-4-trifluoromethyl coumarin
+(AFC)] was added to each reaction well. After 1 hour of incubation at
+37jC, the plate was read in a fluorescence microplate reader (Flexstation II,
+Molecular Devices, Sunnyvale, CA) at 400 and 505 nm excitation and
+emission wavelengths, respectively.
+Caspase-3 activity was analyzed using a fluorometric immunosorbent
+enzyme assay kit (Roche Applied Science) according to the manufacturer’s
+instructions. Briefly, caspase-3 from cellular lysates (2  106 cells) was
+captured by a monoclonal anti-caspase-3 antibody precoated to the
+microtiter plate. Following the washing step, added substrate (Ac-DEVDAFC)
+was cleaved proportionally to the amount of activated caspase-3.
+
+Cancer Research
+
+Cancer Res 2006; 66: (7). April 1, 2006 3420 www.aacrjournals.org
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+Generated free fluorescent AFC was determined fluorometrically at 505 nm.
+Results are reported as formed AFC (Amol/L) as determined against a
+standard curve.
+
+Results
+
+Screening of multiple adherent lung cancer cells for the H37
+protein expression and the H37 gene transfection. Prior
+experiments designed to ectopically express H37 in lung cancer
+cells, which were deleted at 3p21.3, were limited due to the cell line
+availability (16). The NCI-H740cells would have been an ideal
+model system to test because both copies of 3p21.3 are deleted.
+However, they grow in suspension and are difficult to maintain in
+culture. Thus, we were only able to show H37’s growth inhibition to
+a limited extent (16) because we could not grow the cells on soft
+agar for anchorage-independent growth assay nor generate stable
+transfectant cell clones to further characterize biochemical pathways
+of H37 tumor suppression. As an alternative strategy, we
+screened multiple adherent lung cancer cell lines to compare H37
+protein expression levels. We found that among seven commonly
+used adherent lung cancer cell lines, A549 cells have the lowest H37
+protein expression by Western blot analysis (Fig. 1A). These cells
+were used as parental cells for H37 transfection using pBK-CMV
+plasmid expression vector. Both transiently (3 days after transfection)
+and throughout the 2-week selection in neomycin, the H37
+transfectants showed consistent growth retardation compared with
+the vector controls (Fig. 1B). The A549/H37 cells grew to only 20%
+of the control cells at the end of the 2-week selection period
+(data not shown). Morphologically, examination of the control
+cells revealed organized, tightly packed, uniform-shaped cancer cell
+colonies with a ‘‘cobblestone’’ appearance, whereas the H37 cells
+displayed an irregular, disorganized array of colonies consisting of
+flattened giant cells with cytoplasmic extensions (Fig. 1B). This
+disordered cell feature has been reported to be related to TSG
+transfections with other genes, including p53 (27).
+Generation of stable clones and cell proliferation assays. To
+generate stable transfectants with defined levels of H37 expression,
+numerous single transfected cells were expanded to cell clones. As
+expected, these cells were difficult to propagate due to the growth
+inhibition induced by H37. A total of 28 H37 clones and 12 control
+
+clones were generated, and H37 expression levels in each clone
+were analyzed by Western blot analysis. H37 expression levels from
+two representative H37 clones (hereafter called H1 and H2) and
+two control clones (hereafter called C1 and C2) are shown in
+Fig. 2A. To measure proliferation rates, growth curves were
+generated for each clone over a 1-week period. By day 7, growth of
+H1 and H2 cells was reduced by 78% and 72%, respectively,
+compared with the average control level. In addition, significantly
+reduced numbers (as well as size) of the soft agar colonies resulted
+from H37 transfection in an anchorage-independent growth assay
+(Fig. 2C). The numbers of H1 and H2 colonies were reduced by 69%
+and 76%, respectively, compared with the average control levels
+(Fig. 2C). Subsequently, growth inhibition of the H37-overexpressing
+A549 cells were further evaluated by s.c. injection into nude
+mice. In contrast to the control cells that formed relatively large
+tumors within a short period of time, animals injected with H37.1
+and H37.2 cells exhibited almost complete inhibition of tumor
+formation (Fig. 2D).
+Analysis of cell cycle alterations induced by H37. We next
+explored the mechanisms underlying growth inhibition by H37. The
+lack of growth in H37 transfectants may result from cell cycle
+effects, cell death, or a combination of the two processes. The cell
+cycle distribution of cells transfected with control vectors or H37
+was determined by fluorescence-activated cell sorting analysis of
+propidium iodide–stained cells, a measure of DNA content. As
+shown in Fig. 3A, H37 clones showed a higher proportion of cells in
+G0-G1 phase (69.44% and 61.71% for H1 and H2, respectively),
+compared with control cells (50.73% and 49.67% for C1 and C2,
+respectively), and a concomitant decrease in the proportion of cells
+in S phase (22.32% and 25.28% for H1 and H2, respectively) relative
+to that observed in controls (39.11% and 37.51% for C1 and C2,
+respectively).
+Analysis of apoptosis induced by H37. To determine the
+contribution of cell death to H37-induced reductions in cell growth,
+we employed two different methods to detect apoptotic cells:
+Hoechst staining and TUNEL labeling. Hoechst staining, by
+fluorescence detection, enables more direct visualization of apoptotic
+cells, which undergo compaction and fragmentation
+of the nuclear chromatin, shrinkage of the cytoplasm, and loss of
+
+Figure 1. A, screening of multiple adherent lung cancer cell lines for H37 protein expression. Seven lung cancer cell lines were compared for H37 protein
+expression levels by Western blot analysis. Experiments were done with either whole cell or purified nuclear extracts (i.e., H37 is a nuclear protein;ref. 16), and
+the consistent results were obtained from both types (shown here is a data obtained from nuclear extract). The polyclonal recombinant H37 antibody used here is
+previously described (16). A549 cells were chosen for the H37 plasmid transfection. Nucleoporin expression was used as a protein loading control. B, H37 transfection
+into A549 cells and comparison of colony growth and morphology between H37 transfectants and vector control cells. The H37 containing plasmid (pBK-CMV/H37)
+was transfected into A549 cells, and growth rate and morphology were compared between the H37 and the vector control cells. Photographs taken at the end of the
+2-week selection in G418 (700 Ag/mL) and immediately before generation of single-cell expanded clonal populations. Whereas the control cells exhibit characteristic
+features of cancer cell colonies, including a tightly packed, uniform-shaped ‘‘cobblestone’’ appearance, the H37 cells show changes observed with TSGs, such as
+disorganized colonies of flattened giant cells with cytoplasmic extensions.
+
+Growth Inhibition of Lung Cancer by H37
+
+www.aacrjournals.org 3421 Cancer Res 2006; 66: (7). April 1, 2006
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+membrane asymmetry. As shown in Fig. 3B, condensed and
+fragmented nuclei were more frequently observed in H37-transfected
+cells and were only rarely seen in the control cells (f3.5-fold
+increase in the H37 cells compared with the control). These
+findings were confirmed by TUNEL assay, in which labeled uridine
+bases are attached to the DNA nicks characteristic of apoptotic
+cells showing green fluorescence. As shown in Fig. 3C, approximately
+three times more of the H37 cells were apoptotic compared
+with the control cells. In addition, most of the cells counted
+apoptotic showed stronger intensity of green in the H37 cells.
+Analysis of cell cycle– and apoptosis-regulated proteins in
+association with H37 overexpression. To investigate potential
+molecular mechanisms for H37-induced cell cycle alterations and
+apoptosis, we examined the effects of H37 on cell cycle and
+apoptosis regulatory proteins. Whole-cell protein extracts prepared
+from either the H37 and/or control A549 cells were analyzed for
+protein levels by Western blotting. Although a spectrum of cell
+
+cycle regulatory proteins was tested, including p53, pRB, cyclins A,
+B, C, D1, D2, D3, and E, p21, p27, cyclin-dependent kinase 2 (cdk2),
+cdk4, and cdk7/CAK, we detected noticeable changes in only two
+proteins, cyclin A and hyperphosphorylated RB, both of which were
+down-regulated in H37 cells (Fig. 3D). There were no marked
+changes in expression level in any of the other proteins tested (data
+not shown). Both cyclin A and hyperphosphorylated RB function in
+progressing cells from G1 to S phase, and a decrease expression of
+these proteins is consistent with the G1 arrest induced by H37.
+Similarly, of a large number of apoptosis regulatory proteins tested
+(p53, Bad, Bax, Bcl-2, Bcl-x, caspase-2, caspase-3, caspase-7, DFF45,
+FADD, Fas, PARP, Apaf-1, and CAS), we observed a significant
+alteration in only one protein, the proapoptotic protein Bax. Its
+expression was increased significantly in the H37 cells (Fig. 3D).
+Bax, downstream of p53, promotes apoptosis by triggering caspases
+cascades in apoptotic pathways, and its increased expression in
+H37 cells is consistent with increased apoptotic rates in H37 cells.
+
+Figure 2. Generation of stable H37 clones
+and cell proliferation assays. A, comparison
+of H37 expression levels in single-cell
+expanded clones. Western blot showing
+H37 protein expression achieved in the two
+representative control clones (C1 and C2)
+and the two representative H37 clones
+(H1 and H2). h-Tubulin expression was used
+for a protein loading control. B, growth curve
+of H37-transfected A549 cells. The cells
+were plated in triplicate in six-well plates
+(5,000 in 2 ml of medium per well). After plating
+(day 0), seeding density was measured at day
+1, and cells were counted at days 3, 5, and
+7 by Coulter cell counter. C, soft agar colony
+assay. Cells (20,000 per 35-mm dish) were
+cultured in soft agar medium. Two weeks later,
+colonies of >20 cells were counted. Photos, a
+representative colony each from the vector
+control and the H37 transfectants. D, tumor
+formation in nude mice. Cells (1  107
+) of the
+A549 transfectants were injected into mid-back
+region of mice (9 mice per group). Tumors
+were measured in three dimensions on the
+indicated days. Appearances of representative
+tumors from each cell type;taken at day 35
+after inoculation.
+
+Cancer Research
+
+Cancer Res 2006; 66: (7). April 1, 2006 3422 www.aacrjournals.org
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+H37 transfection into the p53-null lung cancer cells. Our
+observation that H37-induced tumor suppression is not associated
+with a change in p53 protein expression in A549 cells prompted us to
+test a hypothesis that H37 may suppress tumor growth independently
+of p53. To this end, we transfected H37 into the H1299 human
+NSCLCs (p53 deleted) in parallel with A549 and H460cells (both p53
+wild type). Despite lack of p53, H1299 cells, upon H37 transfection,
+still manifested reduced cell proliferation and increased apoptosis
+
+Figure 3. Analysis of cell cycle– and apoptosis-regulated proteins associated with H37 overexpression. A, cell cycle analysis of H37 and control A549 cells.
+Propidium iodide staining followed by flow cytometry was used to analyze cell cycle distribution. H37 transfection resulted in an increased proportion of cells in the
+G1 phase and a decreased proportion of cells in the S phase. B, analysis of H37- induced apoptosis by Hoecht staining. Control and H37-transfected A549 cells
+were stained with Hoechst 33258 (0.055 Ag/mL) and visualized under fluorescence microscopy. Representative areas each from the control and H37 cells illustrate
+DNA fragmentation (arrows) as a sign of apoptosis, which is more frequently detected in H37 cells. C, H37-induced apoptosis shown by TUNEL staining. Control
+and H37-transfected A549 cells were treated with terminal deoxynucleotidyl transferase to incorporate fluorescein-dUTP to nicked DNA of apoptotic cells. Apoptotic
+cells exhibiting a strong nuclear green fluorescence were detected by fluorescence microscopy and compared between the two cell types. Adjacent light microscopic
+photos show a representative area from each cell type showing equal cell density and fixation. D, differential expression of the cell cycle and apoptosis regulatory
+proteins associated with H37 overexpression. Western blot analysis was done to compare expression levels of various cell cycle– and/or apoptosis-related proteins
+between the control and H37-transfected A549 cells. Among them, cyclin A and phospho-RB (cell cycle related) expressions were found to be decreased and Bax
+(apoptosis related) increased in the H37 cells compared with the control. h-Tubulin was used as a protein loading control.
+
+Growth Inhibition of Lung Cancer by H37
+
+www.aacrjournals.org 3423 Cancer Res 2006; 66: (7). April 1, 2006
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+(Fig. 4A). These changes were comparable with the levels seen in
+the A549/H37 and H460/H37 transfectants, although we could not
+detect any noticeable change in Bax protein expression in the
+H1299/H37 cells in contrast to the A549/H37 and the H460/H37
+cells (Fig. 4A). Bax may not be active/functional in H1299 cells
+due to lack of its immediate upstream activator, p53, and/or
+other potential biochemical alterations associated with p53’s
+absence; therefore, H37 may initiate mitochondrial apoptotic
+pathway through molecules further downstream of Bax in this cell
+line. The possibility still exists that H37- induced change in p53
+protein expression level may be too subtle to be detected by
+Western blot, or p53 is activated by post-translational modifications
+and/or by any other alternative mechanisms in the p53
+wild-type A549/H37 and H460/H37 cells. Nonetheless, our
+preliminary data showing inhibition of growth by H37 in the
+p53- null lung cancer cells may suggest existence of a novel, H37-
+mediated apoptotic pathways operating independent of the p53
+regulations. It is intriguing to note that the p53-null H1299 has
+
+the highest H37 expression level (Fig. 1A), and investigation of
+multiple other p53-null lung cancer cells is warranted.
+Analysis of Bax’s biological involvement in H37-mediated
+apoptosis using Bax siRNA. To further confirm that Bax plays
+a direct functional role downstream of the H37-induced apoptotic
+pathway, we employed siRNA knockdown to reverse Bax
+expression comparable with the level seen in the A549/control
+cells (Fig. 4B). Bax knockdown in A549/H37 cells showed 280%
+increase in cell proliferation and 79% decrease in apoptotic rate
+compared with the negative control siRNA transfection (Fig. 4B).
+These changes are in contrast to the only 68% increase and
+29% decrease, respectively, observed in the A549/control cells
+(Fig. 4B). The reverted growth properties in the H37 cells upon
+knockdown of Bax expression (which was initially induced by
+H37) suggests Bax functions biologically in the downstream of
+H37 in A549 cells.
+H37-induced mitochondrial apoptotic pathways. To further
+characterize the molecular mechanisms of the H37/Bax–mediated
+
+Figure 4. Analysis of functional
+involvement of p53 and Bax in
+H37-mediated apoptosis. A, H37
+transfection into the p53- null H1299
+lung cancer cells. The H37 and the control
+plasmids were transfected into H1299,
+A549, and H460 lung cancer cells as
+described in Materials and Methods.
+At the end of the 2-week selection in G418
+(800, 700, and 500 Ag/mL concentrations,
+respectively), the transfected cells were
+harvested for cell counts, TUNEL
+apoptotic assay, and Western blot analysis
+(for H37, p53, and Bax protein expression,
+the same membrane was restriped and
+reprobed; h-tubulin as a protein loading
+control). B, Bax knockdown by siRNA in
+A549/H37 versus control cells. The Bax
+protein expression was analyzed 96 hours
+after siRNA transfection, at which point
+cells were also compared for proliferation
+(by cell counts, numbers adjusted to %
+negative siRNA control transfectant for the
+respective cell types) and for apoptosis
+(by TUNEL assay). The negative control
+used was the pool of four nontargeting
+siRNAs (siNon), each bioinformatically
+designed to minimize the potential for
+targeting any known human or mouse
+genes. Left, Bax siRNA (siB) and negative
+control ()
+transfections.
+
+Cancer Research
+
+Cancer Res 2006; 66: (7). April 1, 2006 3424 www.aacrjournals.org
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+apoptotic pathways, we investigated the influence of mitochondrial
+apoptosis signaling. Fluorescence microscopy following JC-1
+staining revealed breakdown of mitochondrial membrane potential
+by H37. As shown in Fig. 5A, decrease in mitochondrial red staining
+in the H37 cells (due to loss of JC-1 aggregates in the mitochondria)
+indicated reduced mitochondrial membrane potential, and the
+number of the cells with intact mitochondrial membrane potential
+was shown to be decreased in H1 and H2 by 47% and 43%,
+respectively, over the average control level. Thus, the contents of
+the inter membrane space, including cytochrome c, were released
+into the cytosol in the H37 cells (Fig. 5B). Subsequently,
+cytochrome c accumulated in the cytosol-triggered caspase-9
+activity, 96% and 83% increase in H1 and H2, respectively, over the
+average control level (Fig. 5C). Caspase-9, in turn, activated its
+downstream caspase-3, 78.8% and 88.2% increase in H1 and H2,
+respectively, over the average control level (Fig. 5D). The activated
+caspase-3 is responsible for the cytologic changes characteristic of
+apoptosis, including DNA fragmentation. The current data suggest
+that although H37’s involvement in the death receptor–mediated
+apoptotic pathway remains to be in depth investigated, H37-
+mediated growth suppression, at least in part, employs regulation
+of mitochondrial apoptotic pathways.
+
+Discussion
+
+The earliest and most common genetic change observed in lungs
+of smokers maps to the short arm of chromosome 3, specifically,
+3p21.3 (1). This is the region where deletions are observed most
+frequently in lung cancer, and occasionally, the whole band is
+homozygously deleted. These observations suggest that TSGs
+reside at 3p21.3. The fact that specific alterations at this location
+can be detected in preneoplastic or preinvasive lesions also
+suggests that one or more 3p TSGs may function as ‘‘gatekeepers’’
+for initiation of carcinogenesis and hence hold particular promise
+as biomarkers as well as potential therapeutic targets. Such
+biomarkers could be used to (a) identify individuals at high risk for
+lung cancer, (b) diagnose early lung cancer, and (c) assess the
+efficacy of lung cancer therapies and chemopreventive agents. In
+addition, 3p-linked biomarkers could have prognostic value.
+H37/Luca15/RBM5 is among the 35 genes located within the 370-
+kb minimal area of deletions at 3p21.3 (14). The current report
+represents the first characterization of H37 tumor suppressive
+activity in lung cancer cells. The data showed that H37 inhibition of
+human lung cancer cell growth involves both interference with cell
+cycle progression and induction of apoptosis. Among the various cell
+cycle–regulated proteins tested, we have identified decreased cyclin
+
+Figure 5. H37-regulated mitochondrial apoptotic pathways. A, mitochondrial membrane
+potential breakdown assay. Control and H37-transfected A549 cells were stained with
+the JC-1 reagent and visualized under fluorescence microscopy. Representative areas
+each from the control and H37 cells illustrate mitochondrial red staining (JC-1 aggregates)
+as a sign of intact, live cells, which is more frequently detected in the control cells, in
+contrast to green cytosolic staining (JC-1 monomers) present in both cell types. To
+quantify the cells with intact mitochondrial membrane potential, the number of cells with
+the mitochondrial red staining was counted in 10 separate fields for each cell type and
+expressed as a percentage of the total number of cells in the same field. B, cytochrome c
+release assay. Ten micrograms each of membrane (mitochondrial) and cytosolic fractions
+from the A549/H37 versus control cells were subjected to immunoblot analysis with
+monoclonal anti-cytochrome c. Cytochrome c was detected as a 14.5-kDa band.
+The translocase of inner mitochondrial membrane 23 (TIM23) and glyceraldehyde3-phosphate
+dehydrogenase (GAPDH) protein expressions were used as the protein
+loading control for the membrane (mitochondrial) and the cytosolic fractions, respectively.
+C, caspase-9 activity assay. Caspase-9 activity was compared in A549/control versus
+H37 cells using the caspase-9 fluorogenic substrate LEHD-AFC. The level of caspase-9
+enzymatic activity is directly proportional to the fluorescence signal generated by the AFC
+fluorescent reporter molecule upon cleavage from the substrate. D, caspase-3 activity
+assay. Caspase-3 activity was compared in A549/control versus H37 cells using an
+immunosorbent assay. Activated caspase-3, captured by a monoclonal antibody, cleaves
+the substrate Ac-DEVD-AFC. Generated free AFC was quantified fluorometrically at 505
+nm and determined against a standard curve.
+
+Growth Inhibition of Lung Cancer by H37
+
+www.aacrjournals.org 3425 Cancer Res 2006; 66: (7). April 1, 2006
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+A and phosphorylated RB to be associated with H37 overexpression.
+In G1 phase, the cyclin D–dependent kinases initiate Rb phosphorylation,
+activating cyclin E for S-phase entry (28). Cyclin E/cdk2 then
+completes RB phosphorylation at the G1-S transition, after which
+cyclin E is degraded and replaced by cyclin A during the S phase (28).
+The data showing H37-induced decreases in cyclin A and phosphoRB
+protein expression are consistent with the decreased proportion
+of S-phase cells and increased proportion of G1 phase cells observed
+in these studies. The precise mechanism by which these events are
+achieved remains to be clarified, and studies are in progress to
+elucidate the potential signaling pathway(s) involved in H37 growth
+inhibition by G1 phase cell cycle arrest.
+Apoptosis is a complex, multistage process involving many
+genes. Among the wide spectrum of apoptosis regulatory proteins
+tested in our studies, the proapoptotic protein Bax was found to be
+overexpressed in H37-overexpressing lung cancer cells, with
+concomitant triggering of the mitochondrial apoptotic pathways,
+including caspase-9 and caspase-3 activations. A major regulation
+of the apoptotic death signal resides with the bcl-2/bax genes, the
+former an apoptosis-suppressing and the latter an apoptosispromoting
+protein (29). Bax and Bcl-2 can form heterodimers, and
+overexpression of one antagonizes the other’s effect; p53 functions,
+in part, by regulating the ratio of Bax/Bcl-2. In our studies, bcl-2
+expression was not changed in the H37 cells. Thus, H37 expression
+
+may result in increased bax protein expression, leading to an
+increased apoptotic rate.
+In an attempt to understand further the cellular/molecular
+functional mechanism of the H37-mediated tumor suppression, we
+have recently done computational algorithms to search for the
+transcription factor binding sites commonly present in the H37 gene
+promoter across species. Among those predicted to be true
+transcription factor binding sites was for the ZNF143/STAF protein,
+a transcription factor for eight different vertebrate small nRNA genes
+that function in RNA processing, such as splicing and polyadenylation
+(30, 31). This finding, although it needs to be validated by
+actual experiments, such as a gel-shift assay, is in a good correlation
+with the previous observations that the H37 protein contains
+RNA-binding motifs (i.e., RBM5 is another name for H37/Luca15;
+refs. 15, 32), and H37 shows in vitro RNA-binding activity (33). Taken
+together, our current hypothesis is that H37 may function in some
+aspects of post-transcriptional regulations of certain important
+proteins involved in cell cycle and/or apoptosis (i.e., Bax, cyclin A,
+RB, etc.). Based on this idea and in summary of our current findings,
+here, we propose a putative model for the molecular/cellular
+mechanism of the H37-mediated tumor suppression (Fig. 6). In this
+model, the RNA-binding protein H37 may directly interact with
+mRNA transcripts of certain important regulatory proteins involved
+in tumor formation, either stabilizing tumor-suppressing genes
+
+Figure 6. A proposed model summarizing the role of H37 in tumor suppression. The proposed model suggests that the H37 protein (illustrated as the red circles) with
+RNA binding capacity may participate in one or more different processes in post-transcriptional regulation pathways (i.e., RNA splicing, polyadenylation, message
+stability, mRNA transport, protein translation, etc.). H37, depending on either the ‘‘activating’’ or ‘‘inhibitory’’ binding (to RNA transcripts), may facilitate or impede
+generation of proteins (i.e., Bax or cyclin A, respectively) involved in tumor suppression or any other unknown proteins (illustrated as a question mark within the circles)
+upstream of either apoptotic (Bax) or cell cycle (cyclin A) pathways.
+
+Cancer Research
+
+Cancer Res 2006; 66: (7). April 1, 2006 3426 www.aacrjournals.org
+
+Downloaded from http://aacrjournals.org/cancerres/article-pdf/66/7/3419/2560688/3419.pdf by guest on 14 August 2024
+(i.e., Bax) and/or destabilizing tumor-promoting genes (i.e., cyclin A;
+Fig. 6). The RNA-binding proteins control mRNA stability and
+translation of the specific target mRNAs through a complex network
+of RNA/protein interactions. HuR, mdm-2, and VHL are only the few
+examples of an ever-increasing number of RNA-binding proteins
+carrying out important functions in cancer (34). Identification of the
+specific mRNA targets of H37 and/or its RNA-protein complex
+warrants future investigations.
+The A549/H37 versus control cell pair system may be further
+used to examine H37’s role in various physiologic pathways (e.g.,
+transformation prevention, growth signal transduction, differentiation,
+genomic stability, and DNA damage response). This
+system may also be used for identifying downstream target
+molecules involved in the H37 growth suppression pathway. The
+genes differentially expressed in association with H37 growth
+inhibition are being studied by microarray analyses comparing the
+two cell populations differing only in H37 expression level, and we
+hope that these data will yield better insights into the cellular
+function of H37. The isogenic cell paired system may also be used
+to identify H37 protein partners or to validate the found partners
+
+by the yeast two-hybrid screening, which is currently under way.
+However, the most rigorous test of validating H37 as a bona fide
+tumor suppressor could come from generation of H37 knockout
+mice, and these studies are currently in progress.
+In sum, the current studies provide a foundation to further
+explore the role of H37 in lung cancer pathogenesis and suggest a
+strategy for the development of rationally designed therapeutics
+using H37 as a target.
+
+Acknowledgments
+
+Received 5/17/2005; revised 1/23/2006; accepted 1/31/2006.
+Grant support: Developmental Research Program Award from the University of
+California at Los Angeles Lung Cancer Specialized Programs of Research Excellence
+grant P50CA90388 ( J.J. Oh), American Lung Association of California Research Grant
+( J.J. Oh), and the Wolfen Family Lung Cancer Clinical/Translational Research Program
+at University of California at Los Angeles Jonsson Comprehensive Cancer Center.
+The costs of publication of this article were defrayed in part by the payment of page
+charges. This article must therefore be hereby marked advertisement in accordance
+with 18 U.S.C. Section 1734 solely to indicate this fact.
+We thank Dr. David Reese for helpful discussion of this manuscript and Dr. Robert
+Damoiseaux at University of California at Los Angeles Molecular Shared Screening
+Resources for his help with caspase-9 activity assay.
+
+Growth Inhibition of Lung Cancer by H37
+
+www.aacrjournals.org 3427 Cancer Res 2006; 66: (7). April 1, 2006
+

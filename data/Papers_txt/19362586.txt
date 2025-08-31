@@ -1,0 +1,246 @@
+Free Radical Biology and Medicine
+Volume 47, Issue 1, 1July 2009, Pages 13-26
+
+Review Article
+PARP inhibitors: New partners in the therapy of
+cancer and inflammatory diseases
+
+Andreína Peralta-Leal , José Manuel Rodríguez-Vargas , Rocío Aguilar-Quesada , María Isabel Rodríguez ,
+
+José Luis Linares , Mariano Ruiz de Almodóvar , F. Javier Oliver
+
+Show more
+
+https://doi.org/10.1016/j.freeradbiomed.2009.04.008
+
+Get rights and content
+
+Abstract
+
+Poly(ADP-ribose) polymerases (PARPs) are defined as cell signaling enzymes that catalyze the
+
+transfer of ADP-ribose units from NAD to a number of acceptor proteins. PARP-1, the best
+
+characterized member of the PARP family, which currently comprises 18 members, is an abundant
+
+nuclear enzyme implicated in cellular responses to DNA injury provoked by genotoxic stress. PARP is
+
+involved in DNA repair and transcriptional regulation and is now recognized as a key regulator of cell
+
+survival and cell death as well as a master component of a number of transcription factors involved in
+
+tumor development and inflammation. PARP-1 is essential to the repair of DNA single-strand breaks
+
+via the base excision repair pathway. Inhibitors of PARP-1 have been shown to enhance the cytotoxic
+
+effects of ionizing radiation and DNA-damaging chemotherapy agents, such as the methylating
+
+agents and topoisomerase I inhibitors. There are currently at least five PARP inhibitors in clinical trial
+
+development. Recent in vitro and in vivo evidence suggests that PARP inhibitors could be used not
+
+only as chemo/radiotherapy sensitizers, but also as single agents to selectively kill cancers defective
+
+in DNA repair, specifically cancers with mutations in the breast cancer-associated genes (BRCA1 and
+
+BRCA2). PARP becomes activated in response to oxidative DNA damage and depletes cellular energy
+
+pools, thus leading to cellular dysfunction in various tissues. The activation of PARP may also induce
+
+various cell death processes and promotes an inflammatory response associated with multiple organ
+
+failure. Inhibition of PARP activity is protective in a wide range of inflammatory and ischemia–
+
+reperfusion-associated diseases, including cardiovascular diseases, diabetes, rheumatoid arthritis,
+
+endotoxic shock, and stroke. The aim of this review is to overview the emerging data in the literature
+
+showing the role of PARP in the pathogenesis of cancer and inflammatory diseases and unravel the
+
+a a a a
+
+b b a
+
+Share Cite
+
++
+solid body of literature that supports the view that PARP is an important target for therapeutic
+
+intervention in critical illness.
+
+Introduction
+
+The enzymatic activity responsible for the synthesis of poly(ADP-ribose) (PAR) polymers was
+
+originally described in the early 1960s in Paul Mandel’s laboratory in Strasbourg [1]. This initial
+
+observation generated significant biological interest and started a rather competitive field of research
+
+in which laboratories from various disciplines involved in studies on genomic stability,
+
+posttranslational modification of proteins, transcription, cell cycle, cell survival, and cell death are
+
+still heavily involved.
+
+In the course of the years the enzymes responsible for PAR synthesis have been given different
+
+acronyms but currently are called PAR polymerases (PARPs), a rather generally accepted term. In the
+
+past decade, genomic approaches have allowed the identification of 18 putative PARP sequences in
+
+the human genome, and a significant amount of information is available for at least 5 enzymes [2]:
+
+PARP-1 (113kDa), PARP-2 (62kDa), PARP-3 (60kDa), PARP-4 (193kDa), and PARP-5 (142kDa) or
+
+Tankyrase 1 (TRF1-interacting, ankyrin-related ADP-ribose polymerase).
+
+PARP-1 is the founding member and the most commonly studied of these enzymes. It is an abundant
+
+nuclear protein in which it is possible to distinguish three domains: first, a DNA-binding region able
+
+to recognize DNA strand breaks; second, a central automodification region rich in glutamic acid and
+
+containing a breast cancer-associated protein C-terminal motif; and third, a NAD-binding region with
+
+all the catalytic activities of the full-length enzyme. DNA strand breaks remarkably increase PARP-1
+
+basal activity (up to 500 times) [3]. Compelling evidence suggests that PARP-1, through its physical
+
+association with or by the poly(ADP-ribosyl)ation of partner proteins, regulates chromatin structure,
+
+DNA metabolism, and gene expression [4]. PARP-1 accounts for at least 85% of maximally activated
+
+cellular PARP activity.
+
+Section snippets
+
+The development of PARP inhibitors
+
+Most of the PARP inhibitors in development mimic the nicotinamide moiety of NAD . PARP catalyzes
+
+the cleavage of NAD into ADP and ADP-ribose and attaches several molecules of the latter to the
+
+target protein in a process called poly(ADP-ribosyl)ation. Therefore, molecules that mimic NAD block
+
+the binding of the NAD to the enzyme, inhibiting PARP activity. The discovery of inhibitors of PARP
+
+was initially based on empirical, high-throughput screening, followed by optimization by chemical…
+
+PARP and DNA repair
+
+The genome is under constant mutational stress through exposure to exogenous and endogenous
+
+agents that damage DNA. In mammalian cells, more than 150 proteins have been described that are
+
+involved in the response to DNA damage [13]. These proteins coordinate the repair of DNA lesions by
+
++
+
++
+
++
+
++
+different repair pathways [14], although there are also considerable overlap and interactions between
+
+mechanisms. In the absence of adequate detection and repair of DNA damage, these alterations can
+
+result in…
+
+PARP inhibitors in the treatment of DNA repair deficiency-related cancers
+
+Inhibition of PARP induces accumulation of large numbers of unrepaired SSBs, leading to the collapse
+
+of replication forks during S phase and the consequent generation of DSBs. Single-strand breaks are
+
+usually repaired by the base excision repair pathway; therefore, inhibition of this pathway greatly
+
+increases the number of unrepaired single-strand breaks, which subsequently leads to DSBs at
+
+replication forks. Therefore, cells deficient in DNA DSB repair are highly sensitive to chemical…
+
+Other pathways involved in HR
+
+Loss of PARP-1 has been shown to cause an increase in Rad51 foci and sister chromatid exchanges
+
+[54] as a result of an increase in the number of lesions normally repaired by HR. The sensitivity of
+
+cells deficient in proteins involved in HR to PARP inhibition suggests that treatment with PARP
+
+inhibitors maybe a useful therapeutic strategy for tumors displaying defects in the HR pathway other
+
+than BRCA defects. The observation that ATM and CHK2 depletion resulted in sensitivity to PARP
+
+inhibitors …
+
+Mismatch-repair (MMR)-deficient cells
+
+Mutations in genes involved in MMR or in their expression result in increased risk of tumor
+
+development and in increased resistance to many anticancer therapies [51], [57]. PARP inhibitors
+
+have been shown to sensitize resistant cells to alkylating agents [52], [58]; moreover, a PARP inhibitor
+
+(AG1461) enhanced temozolomide activity in MMR-proficient cells, but intriguingly, it was more
+
+effective in MMR-deficient cells [57]. It is likely that in MMR-deficient cells there is a switch in
+
+toxic…
+
+PARP inhibitors as antiangiogenic agents
+
+As has been described in the previous section, PARP inhibitors are being developed for the treatment
+
+of cancer, both in monotherapy and in combination with radiation and chemotherapeutic agents in
+
+humans. Recently, a number of reports from various laboratories, including ours, have led to a novel
+
+and unexpected effect of PARP inhibitors, showing a relationship between PARP and angiogenesis,
+
+and to the proposition of PARP inhibitors as antiangiogenic agents.
+
+So far at least five PARP inhibitors…
+
+Role of poly(ADP-ribose) polymerase in oxidative/nitrosative stress-related
+pathologies
+
+It must be stressed that PARP-1 functions as a double-edged sword: on one hand, moderate
+
+activation of PARP can be of physiological importance via enhancement of DNA repair. On the other
+hand, overactivation of PARP represents an important mechanism of tissue damage in various
+
+pathological conditions associated with oxidative and nitrosative stress, including myocardial
+
+reperfusion injury [68], [69], heart transplantation [70], and autoimmune β-cell destruction
+
+associated with diabetes mellitus …
+
+Poly(ADP-ribosyl)ation inhibitors: promising drug candidates for a wide variety
+of pathophysiologic conditions
+
+The “suicide hypothesis” is considered a key mechanism explaining the protective effects of PARP
+
+inhibition in various oxidative stress-induced diseases, involving overwhelming DNA damage (as
+
+result of ROS and RNS release during inflammation) and excessive activation of PARP leading to NAD
+
+and ATP depletion and necrotic cell death. The production of both NO (via the route of formation of
+
+peroxynitrite) and ROS induces damage in DNA and consequently leads to the activation of PARP-1
+
+and PARP-2…
+
+Perspectives
+
+Pharmacological inhibition of key proteins involved in the response to DNA damage has emerged as
+
+an effective tool for cancer treatment, as the resistance of cancer cells to DNA-damaging agents
+
+originates from the modulation of DNA repair pathways. PARP has important prosurvival and
+
+protective functions in terms of DNA repair. A multitude of novel pharmacological inhibitors of PARP
+
+has entered clinical testing either as adjunct antitumor therapeutics or as monotherapy in familiar
+
+breast and…
+

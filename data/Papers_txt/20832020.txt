@@ -1,0 +1,716 @@
+Poly(ADP-Ribose) Polymerase
+Inhibition as a Model for Synthetic
+Lethality in Developing Radiation Oncology Targets
+
+Anthony J. Chalmers, MD, PhD, FRCR,* Mina Lakshman, PhD,† Norman Chan, BSc,†
+and Robert G. Bristow, MD, PhD, FRCPC†
+
+DNA double-strand breaks (DSBs) induced during clinical radiotherapy are potent inducers of
+cell death. Poly(ADP-ribose) polymerase (PARP)-1 is a 113-kD nuclear protein that binds to
+both single- and double-strand DNA breaks and is actively involved in DNA single-strand break
+repair and base excision repair. Recently, potent and specific chemical inhibitors of PARP
+activity have been developed that are effective tumor cell radiosensitizers in vitro and in vivo.
+Because of synthetic lethality, PARP inhibitors may be highly effective as a single agent in
+patients whose tumors have germline or somatic defects in DNA damage and repair genes (eg,
+ATM, BRCA1, BRCA2, and NBS1) or defects in genes involved in phosphatase and tensin
+homolog gene (PTEN) signaling. Defects in specific DNA repair pathways also appear to
+enhance the radiosensitizing effects of PARP inhibition. In addition to inherent genetics, tumor
+cells may also be preferentially sensitized to radiotherapy by diverse mechanisms, including
+proliferation-dependent radiosensitization, targeting of the endothelium and tumor vasculature,
+and increased sensitivity to PARP inhibitors within repair-deficient hypoxic cells. Because
+biologically active doses of PARP inhibitors caused minimal toxicity in phase I to II clinical trials,
+careful scheduling of these agents in combination with radiotherapy may maintain the therapeutic
+ratio and increase tumor radiocurability.
+Semin Radiat Oncol 20:274-281 Crown Copyright © 2010 Published by Elsevier Inc. All rights
+reserved.
+
+Proteins with poly(ADP-ribose) polymerase (PARP) activity
+have been studied for decades and are known to play important
+roles in a variety of cellular functions.1 This research
+heritage has revealed the existence of a number of different
+PARP enzymes with diverse but partly overlapping functions.2
+Equally valuably, it has allowed the development of a range of
+
+potent and specific chemical inhibitors that have been well characterized
+in cellular and preclinical models.3 The observation
+that biologically active doses of PARP inhibitors cause minimal
+toxicity in animal models has contributed to the enthusiasm
+with which therapeutic roles for these compounds have been
+sought. PARP-1 and its close relative PARP-2 are known to play
+a role in the cellular response to DNA damage, and a potential
+role for PARP inhibitors as sensitizers to cytotoxic
+DNA damaging agents has emerged.4 The revelation in
+2005 that PARP inhibitors have potent, single-agent activity
+against tumor cells deficient in the DNA repair proteins
+BRCA1 or BRCA2 confirmed that “synthetic lethality” is a
+genuine and highly valuable therapeutic approach.5,6 Furthermore,
+it supported the idea that the DNA repair defects
+that are a cardinal feature of carcinogenesis can provide
+tumor-specific therapeutic possibilities. This review
+addresses the radiosensitizing properties of PARP inhibitors,
+describing the mechanisms responsible and the potential
+clinical applications. It focuses particularly on
+whether radiosensitization is likely to be tumor specific
+and, if so, which tumors are likely to benefit.
+
+*Genome Damage and Stability Centre, University of Sussex, Brighton,
+United Kingdom.
+†Departments of Radiation Oncology and Medical Biophysics, University of
+Toronto and Ontario Cancer Institute/Princess Margaret Hospital, University
+Health Network, Toronto, Ontario, Canada.
+Supported by operating grants from the Medical Research Council to AJC
+and the Terry Fox Research Institute, the Ontario Institute for Cancer
+Research, and an infrastructure grant from the Canadian Foundation for
+Innovation grant to the STTARR Innovation Facility to RGB. ML is a
+CIHR-EIRR21t Post-Doctoral Fellow, and RGB is a Canadian Cancer
+Society Research scientist.
+Address reprint requests to Anthony J. Chalmers, MD, PhD, FRCR, Brighton
+and Sussex Medical School and Genome Damage and Stability Centre,
+University of Sussex, Falmer BN1 9RQ, UK. E-mail: a.j.chalmers@
+sussex.ac.uk
+
+274 1053-4296/10/$-see front matter Crown Copyright © 2010 Published by Elsevier Inc. All rights reserved.
+doi:10.1016/j.semradonc.2010.06.001
+Biological Functions of PARP
+The PARP family of proteins is defined by the catalytic capacity
+to modify target proteins by the covalent addition of
+chains of poly(ADP-ribose) polymers. Of the PARP family,
+PARP-1 is by far the most abundant, accounting for at least
+80% of cellular PARP activity. PARP-1 and its closest relative
+PARP-2 possess DNA-binding domains, and their catalytic
+function is activated when they bind to sites of DNA damage.
+By this mechanism, they play an important role in detecting
+the presence of damaged DNA and activating signaling pathways
+that promote appropriate cellular responses.7
+PARP-1 is a 113-kD nuclear protein with 4 major functional
+domains: an N-terminal DNA-binding domain that
+mediates binding to breaks or nicks in DNA; a nuclear localization
+signal domain; a central domain that facilitates binding
+of PARP-1 to itself and is also a target for poly(ADPribosylation);
+and a C-terminal catalytic domain that binds
+NAD and uses it to modify target proteins by the addition
+of long, branching chains of poly(ADP-ribose) (pADPr).
+PARP-1 is relatively abundant in the nucleus. In response to
+DNA damage, it binds rapidly to DNA breaks, a process that
+activates its catalytic function leading to the modification of
+histones and proteins involved in single-strand break (SSB)
+repair, double-strand break (DSB) repair, and DNA replication.
+Such modifications are transient because pADPr polymers
+are rapidly degraded by the action of poly(ADP-ribose)
+glycohydrolase (Fig 1).1
+DSBs in DNA, if unrepaired, are potent inducers of cell
+death. In mammalian cells, DSBs may be repaired by 2 different
+pathways.8 Most radiation-induced DSBs are repaired
+by nonhomologous end joining (NHEJ). This process is rapid
+and may occur at any stage of the cell cycle, but because it
+lacks the capacity to restore any DNA that is lost during the
+breakage event or subsequent processing, it is error prone.
+Homologous recombination repair (HR) uses the sister chromatid
+as a template and faithfully restores DNA sequence,
+but as a result can only take place in cells that have 2 copies
+of the relevant region of DNA. Therefore, HR operates only
+during the S and G2 phases of the cell cycle and indeed plays
+a particular role in resolving DSB that arise during DNA
+replication.
+
+PARP-1 binds to both single- and double-strand DNA breaks.
+Although its role in SSB repair is well established, the functional
+relevance of its DSB-binding activity remains uncertain. With respect
+to SSB repair, binding of PARP-1 to SSBs that are induced
+either directly or as intermediate products of base excision repair
+(BER) appears to protect the damaged site from inappropriate recombination
+events. PARP-1 also enhances the recruitment and
+activation ofmultiple components ofthe BER repair complex,most
+notably the scaffold protein XRCC1, by both direct interaction and
+poly(ADP-ribosylation).9 PARP-1–deficient (or inhibited) cells
+show reduced rates of BER10 and hypersensitivity to agents that
+induceSSB.11Because repair ofSSBsis delayed but not abolished by
+PARP inhibition and SSBs are not thought to be associated directly
+with cell death, additional mechanisms by which PARPi promote
+cytotoxicity after radiation have been investigated.
+
+Mechanisms
+Underlying Radiosensitizing
+Effects of PARP Inhibitors:
+Dependence on DNA Replication
+
+Ionizing radiation used in the clinical treatment of cancer
+generates SSBs and DSBs in an approximate ratio of 25:1. As
+described previously, the major effect of PARP inhibition is to
+delay, but not abolish, the repair of SSBs. Because DSBs are
+the most important cytotoxic lesions, the effect on SSB repair
+has a minimal impact on the survival of nonreplicating cells.
+In contrast, PARP inhibition does increase radiosensitivity of
+rapidly proliferating cells, and the magnitude of the radiosensitizing
+effect in cell culture systems has been shown to correlate
+with the proportion of cells that are replicating.12,13
+PARP inhibition increases the level of unrepaired DSB in
+replicating cells by at least 2 mechanisms. (1) The delayed
+repair of radiation-induced SSB increases the probability of
+unrepaired lesions colliding with the DNA replication machinery,
+generating excess DSBs. (2) The inhibition of the
+catalytic activity of PARP does not impede binding to DNA
+breaks but prevents PARP from modifying itself by the addition
+of pADPr. Unmodified PARP remains bound to sites of
+DNA damage so PARP inhibitors also interfere with downstream
+repair processes, increasing the toxicity of DSB that
+are generated in their presence.14
+The fact that PARP inhibitors increase radiosensitivity only
+in replicating cells is of great interest to radiation oncologists.
+In general terms, tumors contain a higher proportion of replicating
+cells than normal tissues, and the cell-cycle checkpoint
+responses of these cells are often defective.15 Furthermore,
+some of the critical normal tissues that limit radiation
+doses in the clinic (eg, the brain and spinal cord) are composed
+almost entirely of nonreplicating G0 or G1 phase cells.
+Thus, PARP inhibitors have the potential to increase the therapeutic
+index of radiation therapy in a variety of tumor sites
+by increasing damage in highly replicating tumor cells, but
+sparing noncycling normal tissues, which are often responsible
+for dose-limiting late damage after radiotherapy. This
+theory has been substantiated by in vitro and in vivo studies
+showing that PARP inhibitors enhance radiosensitivity by
+Figure 1 A schematic diagram of the PARP-1 protein showing the
+key functional domains. The vast majority of PARP inhibitors compete
+with NAD at the “PARP signature” site in the catalytic domain.
+
+PARP inhibitors and radiotherapy 275
+factors ranging from 1.3 to more than 2.13,16-18 In vitro and in
+vivo fractionation of the radiation regimen was seen to preserve
+or even enhance the radiosensitizing effect of the PARP
+inhibitor. A summary of radiosensitization data pertaining to
+new generation PARP inhibitors that are being tested in phase
+I to III trials is shown in Tables 1 and 2.
+
+PARP Inhibition and
+HR: Synthetic Lethality
+
+Under normal conditions, PARP proteins do not contribute
+directly to DSB repair,19 but defects in HR can be augmented
+by PARP inhibition to cause cell death. In the absence of
+exogenous DNA damage, the continuous exposure of replicating
+cells to a PARP inhibitor causes a significant increase in HR activity
+
+that is thought to represent the repair of DNA replication forks that
+have stalled or collapsed after encountering unrepaired SSB.20
+PARP inhibitors probably play a dual role in this process by (1)
+reducing the rate of repair of endogenously arising single-stranded
+lesions and (2) obstructing the efficient resolution of stalled or collapsed
+replication forks by impedingthe release of PARP molecules
+from damaged sites. The absolute requirement of HR for repair of
+these lesions is shown bythe extreme sensitivityto PARP inhibitors
+of HR-defective cells, such as breast or ovarian cancer cellsthat lack
+the crucial HR proteins BRCA1 or BRCA2.5,6
+Targeting cells with a specific DNA repair defect by inhibiting
+a second DNA repair pathway is an example of “synthetic
+lethality,” and the promising data derived from cellular
+systems has been rapidly translated into effective treatments
+for patients with hereditary BRCA1 and BRCA2 deficient canTable
+1 Selected New-Generation PARP Inhibitors in Clinical Trials and Sensitivity to RT In Vitro
+
+Treatment Model Assays Conclusions
+
+GPI-15427: 7 mol/L, 15 min
+before radiation: 2 Gy; 24, 48,
+72, 96 h (Khan et al, 2009)
+
+JHU012 head and neck
+cancer cells
+Neutral comet assay,
+apoptosis (annexin
+V/PI)
+
+Compared with RT alone, GPI15427
+RT decreased
+DNA DSB repair and
+increased apoptosis
+KU-0059436 (AZD2281, Olaparib):
+1 mol/L 1 h before
+3 or 24 h
+after radiation: 0-5 Gy (Dungey
+et al, 2009)
+
+Human glioblastoma cell
+lines: T98G and U87-
+MG
+
+Clongenic survival,
+
+-H2AX foci
+KU-0059346
+RT reduced
+clonogenic survival
+compared with RT alone
+Decreased DNA repair; DNA
+replication-dependent
+Fractionation sensitive
+ABT 888: 2.5 mol/L; radiation: 5
+Gy (Liu et al, 2008)
+Human lung cancer cells
+H1299, prostate cancer
+cell lines DU145 and
+22RV1
+
+Clonogenic survival,
+repair foci assay
+Combination ABT888
+RT
+reduced clonogenic survival
+compared with RT alone
+Effect in both oxic and acutely
+hypoxic cells
+ABT888: 5 mol/L as neoadjuvant;
+radiation: 0-6 Gy (Albert et al,
+2007)
+
+H460 lung carcinoma cells Clonogenic survival,
+apoptosis (annexin
+V/PI), endothelial
+damage assay
+
+Decreased clonogen survival
+with ABT888
+RT
+compared with RT alone
+Increased apoptosis
+Inhibition of endothelial tubule
+formation
+E7016: 3-5 mol/L treated 6 h
+before radiation: 0-8 Gy
+(Russo et al, 2007)
+
+Human U251 glioblastoma
+cells, MiaPaCa
+pancreatic cancer cells,
+DU145 prostate cancer
+cells
+
+Clonogenic survival,
+
+-H2AX foci, mitotic
+catastrophe,
+apoptosis
+(annexin V)
+
+Increased clonogen kill
+Increased mitotic catastrophe
+No change in apoptosis
+
+AG14361: 0.4 M adjuvant to
+radiation: 8 Gy (Calabrese et al,
+2004)
+
+Human colon carcinoma
+cells: LoVo and SW620
+Clonogenic survival Combined with RT, PARPi
+decreased survival by
+inhibiting recovery from
+potentially lethal damage
+KU-0059456 (AZD2281, Olaparib):
+500 nmol/L 1 h before IR and
+left on for 22 h post-radiation:
+0-8 Gy (Loser et al, 2010)
+
+Human and murine
+primary cells defective
+in Artemis, ATM, DNA
+ligase IV
+
+Clonogenic survival,
+alkaline comet
+assays, -H2AX
+foci
+
+Sensitization to KU-0059346 RT
+was enhanced in cells
+defective for ATM, Artemis
+and DNA ligase IV (SER
+increased from 1.3
+to 1.6)Overall,
+clonogenic survival
+after KU-0059456
+RT was
+decreased in rapidly
+dividing and DNA repairdeficient
+cells
+SER, sensitizer enhancement ratio.
+
+276 A.J. Chalmers et al
+cers.21 Another biomarker that may select for PARP inhibitor
+synthetic lethality is the status of the phosphatase and tensin
+homolog gene (PTEN) that is located on chromosome 10 and
+is frequently deleted in human cancer. Preclinical studies
+have suggested that PTEN loss is associated with PARP inhibitor
+sensitivity in vitro and in vivo although the mechanism
+by which this occurs is controversial.22,23 Furthermore, in
+prostate cancer, we have documented functional defects in
+the HR and NHEJ DNA repair pathways24 along with allelic
+losses in PARP-1, p53, and ATM25 and methylation of BRCA1
+and BRCA2 that may also affect PARP inhibitor sensitivity.26
+In addition to the obvious benefits for this subset of patients,
+the accumulating clinical evidence supports earlier predictions
+that the short-term use of PARP inhibitors would be
+extremely well tolerated, even in patients who have undergone
+multiple previous cytotoxic therapies.
+Fromthetherapeutic perspective,the simultaneousinhibition of
+PARP and HR should give rise to marked radiosensitization of replicating
+cells but would also carry a risk ofinducing syntheticlethality
+in nonirradiated but proliferating tissues. To date, no specific
+inhibitor of HR has been developed. However, the heat shock protein
+90 inhibitor 17-(allylamino)-17-demethoxygeldanamycin selectively
+accumulates in tumor cells and inhibits HR by downregulating
+Rad51 and BRCA2. Consistent with this hypothesis, 17-
+(allylamino)-17-demethoxygeldanamycin and the PARP inhibitor
+olaparib synergisticallyincreasedthe radiosensitivity ofproliferating
+glioma cell populations without affecting nonreplicating cells.27
+
+Effects of PARP
+Inhibition on Cells Defective in
+NHEJ, BER, or ATM-p53 Signaling
+
+Many researchers have sought a direct role for PARP-1 in DSB
+repair. In cells that are deficient in core components of NHEJ
+(such as Ku70/80 and DNA ligase IV), an alternative (or
+
+Table 2 Selected New-Generation PARP Inhibitors in Clinical Trials and Sensitivity to RT In Vivo
+
+Treatment Model Assays Conclusions
+
+GPI-15427: 10, 30, 100, 300 mg/
+kg orally
+Neoadjuvant (1 h before)
+Radiation: 2 Gy for 2 d (Khan et
+al, 2009)
+
+JHU012 and JHU006 head
+and neck cancer
+xenografts
+
+Tumor growth delay
+apoptosis
+(TUNEL)
+
+GPI - 15427
+RT inhibits tumor
+regrowth when compared with
+RT alone; increased apoptosis
+
+ABT888: 7.5 mg/kg twice a day,
+p.o.
+Monday-Saturday 1 h before TMZ
+TMZ: 33 mg/kg/d
+Monday to Friday for 2 wk
+radiation: 2 Gy
+Monday to Friday for 2 wk (total
+20 Gy for 11 d) (Clarke et al,
+2009)
+
+Intracranial xenograft
+model of glioblastoma
+using (MGMThypermethylatedglioblastoma
+models:
+GBM12 and GBM22)
+
+Animal survival
+body weight
+Combination therapy of ABT888
+and TMZ
+RT increased
+animal survival compared with
+RT alone; minimal weight loss
+
+ABT888: 25 mg/kg/d via osmotic
+pumps 2 d before RT radiation:
+2 Gy/d for 10 consecutive days
+(Donawho et al, 2007)
+
+Human colon carcinoma
+HCT116 xenograft
+Animal survival ABT888
+RT increased mean
+survival time from 23 to 36 d
+compared with RT alone
+
+ABT888: 25 mg/kg ip for 5
+consecutive days, 1 h before
+RT radiation: 2 Gy/d for 5
+consecutive days (Albert et al,
+2007)
+
+Human Lung carcinoma
+H460 xenograft
+Tumor growth delay
+Ki-67 staining
+Apoptosis (TUNEL)
+CD34 staining for
+blood vessel
+density
+
+ABT 888 delayed tumor regrowth
+by 6.5 d compared with
+radiation alone
+Associated with decreased
+tumor vasculature, decreased
+proliferation and increased
+apoptosis
+No increased toxicity with
+combination treatment
+AG14361: 5 or 15 mg/kg/d ip
+daily for 5 d, 30 min before
+radiation: 2 Gy locally to the
+tumor daily for 5 d (Calabrese
+et al, 2004)
+
+Subcutaneous implants of
+human colon carcinoma,
+SW620
+
+Tumor growth delay Combination AG14361
+RT
+delayed tumor regrowth (from
+19 to 37 d) when compared
+with RT alone
+Increased toxicity for
+combination treatment
+E7016: 30 mg/kg oral
+TMZ: 3 mg/kg oral radiation:
+4 Gy single dose (Russo et al,
+2009)
+
+Human U251 glioblastoma
+xenograft
+Tumor growth delay TMZ
+E7016
+RT delayed
+tumor regrowth compared with
+RT alone
+
+ip, intra-peritoneal.
+
+PARP inhibitors and radiotherapy 277
+“backup”) end-joining pathway exists that partly compensates
+for the NHEJ defect,28 and the inhibition of PARP activity
+suppresses this pathway.29 It has been proposed that the
+absence of key NHEJ components allows PARP-1 to bind and
+activate alternative end joining; this process is obstructed by
+PARP inhibition. Cells that are deficient in core NHEJ and
+therefore highly radiosensitive can be further sensitized by
+treatment with a PARP inhibitor, and the degree of sensitization
+is greater than in wild type cells (Fig 2).30 Many cancers
+exhibit some degree of impairment of DNA repair,31,32 but it
+is uncommon for tumors to be profoundly deficient in one or
+more of the core NHEJ proteins. However, the fact that PARP
+inhibitors increase radiosensitivity of nonreplicating cells
+only if they are deficient in NHEJ predicts that many normal
+tissues will be relatively unaffected by such agents. Figure 3
+depicts a simplified overview of interactions between PARP
+inhibition and DNA repair pathways.
+Because PARP-1 has an established role in the BER pathway,
+it might be expected that PARP inhibitors would have
+little effect on the radiosensitivity of cells deficient in other
+BER proteins. This does not appear to be the case. In collaboration
+with Conchita Vens, we have shown that the radiosensitivity
+of cells deficient in XRCC1 or another BER protein
+DNA polymerase  is increased by PARP inhibition to an
+equal or greater degree than parental controls (Fig 2). Because
+defects in BER have been reported in a range of human
+tumors and appear to be relatively common,33,34 the treatment
+of these patients with PARP inhibitors may have merit.
+Many tumors exhibit defective cell-cycle checkpoints, and
+mutations in checkpoint signaling proteins, such as p53,
+ATM, NBS1, MRE11, and BRCA1, are associated with a predisposition
+to cancer.16 In the absence of exogenous DNA
+damage, PARP inhibitors promote the activation of ATM,
+probably in response to collapsed replication forks.35 Because
+ATM is required to stimulate the pathways that repair this
+damage, ATM-deficient cancer cells, such as mantle cell lymphomas,
+are sensitive to PARP inhibition.36 Furthermore,
+ionizing radiation causes a G2/M checkpoint response that is
+stimulated by ATM. Because radiation-induced accumulation
+of cells in G2 phase is enhanced in the presence of PARP
+inhibitors, the downregulation of ATM or its downstream
+signaling proteins might exacerbate the radiosensitizing effects
+of these PARP inhibitors.30,37
+Taken together, these observations indicate that the genetic
+or functional status of DNA repair in human cancers
+should be characterized before considering the use of PARP
+inhibitors as single-agent or radiosensitizing therapies. A
+number of functional assays have been proposed;38 one approach
+is to quantify DNA repair foci in situ in tumor tissues
+and in surrogate normal tissues, such as lymphocytes or skin
+fibroblasts.21,39,40
+
+PARP Inhibition In Vivo; Effects on
+Blood Vasculature and Hypoxia
+
+Preclinical efficacy of PARP inhibitors has now been observed
+in murine tumor models with DNA repair defects involving
+mismatch repair, BRCA-1, and ATM deficiency. Chemosensitization
+of p53-deficient breast cancer has also been documented.36,41-44
+These models have not yet been used to test
+for radiosensitization by PARP inhibition. However, several
+combination studies of PARP inhibition and experimental
+
+Figure 2 Sensitizer enhancement ratios (standard error of the
+mean or standard deviation where indicated) for the PARP inhibitor
+olaparib derived from clonogenic survival assays in a range of DNA
+repair proficient and deficient cell lines. In repair proficient cells (2
+different parental mouse embryo fibroblast (MEF) cell lines and
+Chinese hamster ovary (CHO) EM9 cells with XRCC1 expression
+restored by stable transfection with the HX plasmid), enhancement
+ratios of 1.3 to 1.4 were observed. In ligase IV, ATM, and Artemisdeficient
+MEFs, enhancement ratios for olaparib were significantly
+higher (SER  c.1.6). XRCC1-deficient (EM9) and proficient (EM9-
+HX) CHO cells were sensitized to the same extent (SER  c.1.3),
+whereas DNA polymerase – defective MEFs were sensitized to a
+greater degree than the parental controls (SER  1.9 vs 1.4), indicating
+that the radiosensitizing effects of PARP inhibition are maintained
+or enhanced in cells with defective BER. (Reprinted with
+permisiion.31)
+
+Figure 3 A simplified diagram showing the major pathways that
+contribute to the repair of radiation-induced DNA damage and their
+relationship to cell-cycle phase. The key mechanisms of action of
+PARP inhibitors are indicated. IR is a potent inducer of SSB that are
+predominantly repaired by BER, which functions throughout the
+cell cycle. PARP inhibitors delay BER, increasing the burden of
+unrepaired SSB, and promote replication-dependent conversion of
+SSB to DSB during S-phase. DSB arising in this manner are repaired
+by the homologous recombination repair pathway. Radiation also
+induces DSB directly. These are repaired mainly by NHEJ, which
+functions during G1 and G2 phases of the cell cycle. In the absence
+of core NHEJ, an alternative end joining process can repair radiation
+induced DSB. This pathway is impeded by PARP inhibition.
+
+278 A.J. Chalmers et al
+radiotherapy have been performed in human xenografts, and
+the promising results of these preclinical studies are summarized
+in Table 1. AG14361 enhanced tumor growth delay in
+a colorectal cancer xenograft model, GPI-15427 caused sustained
+tumor control in head and neck cancer xenografts,
+ABT-888 has shown radiosensitization in colorectal and lung
+cancer models, and E7016 (in combination with temozolomide)
+significantly improved tumor growth delay in glioblastoma
+xenografts.18,19,45-48
+In many of these in vivo models, the sensitizing effect of
+the inhibitor was greater than might be predicted by the more
+modest effects observed in cell lines. In some cases, this
+might be attributable to superior effects with fractionated
+radiation schedules, but in some studies only large single
+doses were used. None of these studies used ex vivo clonogenic
+assays or measured the dose required to control 50% of
+tumors so they were unable to show direct sensitization of
+tumor clonogens or whether this was achieved in cycling
+versus noncycling tumor cells. This is an important issue
+because mechanistic studies using solely the growth delay
+assay could be biased by effects of radiotherapy and novel
+drugs on the tumor vasculature. Indeed, it is possible that
+some PARP inhibitors could induce short-term, vasodilatory
+effects by virtue of their structural similarities to nicotinamide.
+This could enhance tumor growth delay after radiotherapy
+by increasing tumor blood flow, enhancing drug
+penetration, and increasing oxygen concentrations to offset
+hypoxic cell radioresistance. Vasoactive properties and/or antiendothelial
+effects have been documented for AG14361
+and ABT888,45,46,49 as outlined in Tables 1 and 2, and PARP
+inhibition appears to be prolonged in tumors compared with
+normal tissues. This pharmacokinetic property might favor
+an enhanced in vivo response in tumor cells during radiotherapy
+and further improve the therapeutic ratio.
+All solid tumors contain hypoxic cells. Hypoxia generates
+aggressive tumor cell phenotypes in part because of ongoing
+genetic instability and a “mutator” phenotype. The latter may
+be caused by the suppression of Rad51, BRCA1, BRCA2, and
+other HR protein expression via decreased transcription or
+translation.50-53 We have shown that these hypoxia-mediated
+HR repair defects can be specifically targeted by DNA-damaging
+agents and/or “contextual synthetic lethality” to kill
+repair-deficient cells and preserve the therapeutic ratio. Specifically,
+HR defects render hypoxic cells more sensitive to
+ionizing radiation (IR), mitomycin C, and cisplatin.52 More
+recent data suggest that HR-deficient hypoxic cells that have
+adapted and are proliferating are also more sensitive to PARP
+inhibition.5,6
+Finally, to explore the possibility that effects of PARP inhibition
+could be altered by differential NAD and ATP metabolism
+in hypoxic tumor cells, we tested the role of ABT888
+as a radiosensitizer under hypoxic conditions in human prostate
+(DU-145 and 22RV1) and non–small-cell lung (H1299)
+cancer cell lines.54 These studies showed that when ABT-888
+was combined with IR, clonogenic radiation survival was
+decreased by 40% to 50% under oxic or hypoxic conditions.
+This sensitization of hypoxic cancer cells further supports the
+
+clinical use of PARP inhibitors to improve the therapeutic
+ratio achieved by radiotherapy.
+In summary, the contributing mechanism(s) in vivo remain
+largely unaddressed and may be model specific (see
+summary in Fig 4). At present, careful studies in human
+xenografts to directly determine the therapeutic ratio in vivo
+by comparing tumor efficacy with normal tissue toxicity in
+combined PARP inhibitor plus radiotherapy studies have not
+been conducted.26,55 As such, it is not possible to conclude from
+the preclinical data that PARP inhibition always enhances the
+therapeutic ratio in combination with radiotherapy.
+
+Clinical Trials of PARP
+Inhibitors Plus Radiation
+
+Despite the encouraging preclinical studies, very few clinical
+studies of PARP inhibitors in combination with radiation are
+underway. In general, it is the late, irreversible effects of
+radiation that limit total radiotherapy dose, and these effects
+are not observed until months or years after treatment. Conventional
+drug dose-escalation studies combined with radical
+radiotherapy regimens are therefore difficult to design, and
+current studies have instead focused on combining PARP
+inhibition with palliative radiotherapy. At the time of writing,
+only 2 ongoing studies were identified. Both involve the Abbott
+compound ABT-888, and both are targeting brain tumors.
+The first is a phase I study combining escalating doses
+of oral ABT-888 with whole-brain radiation therapy (37.5 Gy
+in 15 fractions or 30 Gy in 10 fractions) in patients with
+cerebral metastases. The second is a phase I/II study of the
+same drug in combination with radical radiation therapy
+with concomitant and adjuvant temozolomide in the firstline
+treatment of patients with glioblastoma multiforme. The
+phase I component seeks to establish the maximum tolerated
+dose of the PARP inhibitor in this setting, and the subsequent
+phase II study will estimate the efficacy of this combination.
+Because PARP inhibition sensitizes glioma cells to both radiation
+and temozolomide, this is an ambitious study that has
+the potential to significantly improve outcomes for this difficult
+patient group. However, the risks of hematologic and
+
+Figure 4 Mechanisms by which PARP inhibitors may increase clinical
+radiocurability (see text for details).
+
+PARP inhibitors and radiotherapy 279
+neurologic toxicity are also high, and the determination of
+the therapeutic ratio of the treatment will be important.
+
+Conclusions and
+Outstanding Questions
+
+In this review, we have discussed a variety of mechanisms
+that may underlay the radiosensitizing effects of PARP inhibitors
+in vitro and in vivo. Provocative data suggest that these
+sensitizing effects are likely to be more pronounced in tumors
+than in normal tissues during fractionated treatments, but
+careful preclinical and clinical studies are needed to prove
+that the therapeutic ratio is enhanced. A number of questions
+are still outstanding with respect to the use of this combination:
+(1) Are all PARP inhibitors equally efficacious in terms
+of maintaining the therapeutic ratio? (2) How should PARP
+inhibitors and fractionated radiotherapy be scheduled? (3)
+What are the best predictors for sensitization to PARP inhibition:
+proliferation rates, genetic status of tumor cells (ATM,
+BRCA1/2, or PTEN deficiency), and/or hypoxic fraction? (4)
+Do PARP inhibitors alter normal tissue genetic instability,
+and could they increase secondary malignancies when used
+in combination with radical radiotherapy? Even with these
+remaining questions, early data are supportive of a unique
+role for PARP inhibitors to augment tumor radiocurability,
+and the results of defined palliative and radical radiotherapy
+combination trials are eagerly awaited.
+

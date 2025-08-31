@@ -1,0 +1,458 @@
+Abstract
+Myc
+is one of the most commonly deregulated oncogenes in human cancer, yet therapies directly targeting Myc hyperactivation are not presently available in the clinic. The evolutionarily conserved function of Myc in modulating protein synthesis control is critical to the Myc oncogenic program. Indeed, enhancing the protein synthesis capacity of cancer cells directly contributes to their survival, proliferation, and genome instability. Therefore, inhibiting enhanced protein synthesis may represent a highly relevant strategy for the treatment of Myc-dependent human cancers. However, components of the translation machinery that can be exploited as therapeutic targets for Myc-driven cancers remain poorly defined. Here, we uncover a surprising and important functional link between Myc and mammalian target of rapamycin (mTOR)-dependent phosphorylation of eukaryotic translation initiation factor 4E binding protein-1 (4EBP1), a master regulator of protein synthesis control. Using a pharmacogenetic approach, we find that mTOR-dependent phosphorylation of 4EBP1 is required for cancer cell survival in Myc-dependent tumor initiation and maintenance. We further show that a clinical mTOR active site inhibitor, which is capable of blocking mTOR-dependent 4EBP1 phosphorylation, has remarkable therapeutic efficacy in Myc-driven hematological cancers. Additionally, we demonstrate the clinical implications of these results by delineating a significant link between Myc and mTOR-dependent phosphorylation of 4EBP1 and therapeutic response in human lymphomas. Together, these findings reveal that an important mTOR substrate is found hyperactivated downstream of Myc oncogenic activity to promote tumor survival and confers synthetic lethality, thereby revealing a unique therapeutic approach to render Myc druggable in the clinic.
+Keywords:
+eIF4EBP1, eIF4E, multiple myeloma, MLN0128The Myc transcription factor is one of the most frequently activated oncogenes in human tumors (
+1
+). Importantly, Myc overexpression also correlates with poor prognosis and decreased survival in a broad range of cancers (
+2
+–
+5
+). However, therapeutic approaches to directly target Myc oncogenic activity are not currently available in the clinic (
+6
+). An alternative approach for targeting Myc is to inhibit key downstream molecular pathways that are required for Myc-driven tumorigenesis. One of the major and immediate downstream effects of Myc activation is a dramatic increase in the protein synthetic capacity of the cell that results in increased cell survival, proliferation, and genome instability (
+7
+–
+9
+). Importantly, genetically restoring enhanced protein synthesis to normal levels downstream of Myc suppresses tumor development (
+10
+), suggesting that modulating protein synthesis control may be a promising therapeutic approach (
+11
+–
+13
+). However, the components of the translation machinery that can be therapeutically targeted to exploit the addiction of Myc-driven cancer cells to augmented protein synthesis remain largely undefined.
+Another master regulator of protein synthesis frequently found deregulated in cancer is the mammalian target of rapamycin (mTOR) kinase (
+14
+,
+15
+). mTOR also controls protein synthesis as part of a larger complex, mTOR complex 1 (mTORC1), at least in part, through direct phosphorylation of the tumor suppressor eukaryotic translation initiation factor 4E (eIF4E) binding protein 1 (4EBP1) and ribosomal protein p70S6 kinase (p70S6K1/2) (
+16
+–
+19
+). Although p70S6K is known to impinge on multiple aspects of mRNA translation, a major effect of mTOR-dependent protein synthesis control has been attributed to its regulation of 4EBP1 (
+20
+,
+21
+). mTORC1-dependent phosphorylation of 4EBP1 blocks its ability to negatively regulate the translation initiation factor eIF4E, thus promoting eIF4E’s ability to recruit the 40S ribosomal subunit to the 5′-cap of mRNAs and enhanced translation initiation (
+22
+). Importantly, eIF4E hyperactivation alone is sufficient to act as a driving oncogenic event (
+23
+). Moreover, our laboratory and others have demonstrated that hyperactivation of eIF4E, through inhibition of 4EBP1, is critically required for mTOR-dependent tumorigenesis (
+24
+,
+25
+). The recent development of mTOR ATP active site inhibitors capable of blocking mTOR-dependent phosphorylation of 4EBP1 has facilitated therapeutic targeting of this clinically relevant pathway (
+24
+,
+26
+,
+27
+). In this regard, the mTOR–4EBP1 axis represents an attractive druggable node by which to target cancers addicted to enhanced protein synthesis. However, it remains an outstanding question whether Myc and mTOR converge on common translational nodes to regulate protein synthesis.
+In this study, we uncover an unexpected and important link between Myc and mTOR-dependent 4EBP1 phosphorylation during Myc-driven tumorigenesis. To elucidate the functional consequences of 4EBP1 phosphorylation during Myc-driven tumorigenesis, we use a pharmacogenetic approach to target mTOR-dependent 4EBP1 phosphorylation in Myc-driven lymphoid cancer. In particular, we determine the therapeutic efficacy of the recently developed mTOR active site inhibitor MLN0128, which is uniquely capable of targeting 4EBP1 phosphorylation, in Myc-driven cancers. This reveals a remarkable requirement for the 4EBP1–eIF4E axis in conferring cell survival in Myc cancer cells, which is pharmacologically druggable. Finally, we explore the clinical potential of targeting mTOR-dependent 4EBP1 phosphorylation in human cancers driven by Myc hyperactivation.Results
+Myc and mTOR Signaling Converge on 4EBP1 Phosphorylation.
+Myc’s oncogenic activity depends directly on its capacity to increase protein synthesis (
+10
+). To explore the earliest events in tumorigenesis associated with the ability of Myc to drive increased protein synthesis, we analyzed key nodes of cap-dependent translation downstream of Myc oncogenic signaling in vivo. To this end, we used the
+Eµ-Myc
+transgenic mouse model, a faithful model of human Burkitt’s lymphoma in which constitutive overexpression of Myc in the B-cell compartment drives lymphomagenesis (
+28
+). Interestingly, we uncovered that primary B lymphocytes isolated from 4-wk-old
+Eµ-Myc
+mice show an unexpected and specific increase in mTOR-dependent phosphorylation of 4EBP1 at threonine 37/46 before tumor formation (
+Fig. 1
+A
+). Surprisingly, another downstream effector of mTORC1 responsible for protein synthesis control, the ribosomal protein p70S6K, is on the contrary not altered in this pretumor setting. Moreover, phosphorylation of the mTORC2 substrate Akt was not enhanced in Myc-overexpressing B lymphocytes (
+Fig. 1
+A
+). These data reveal that Myc overexpression results in 4EBP1 hyperphosphorylation and that only specific mTOR substrates are affected at the earliest steps of tumorigenesis. Importantly, we find that 4EBP1 hyperphosphorylation is maintained during tumor progression in
+Eµ-Myc
+tumors (
+Fig. S1
+).
+Open in a separate window
+Fig. 1.
+Oncogenic Myc activity regulates mTOR-dependent phosphorylation of 4EBP1 at the earliest stages of tumorigenesis to promote cell survival. (
+A
+) Representative Western blot of mTOR signaling in wild-type B cells and Eµ-Myc pretumor cells from 4-wk-old mice and quantification of phosphoprotein levels relative to total protein levels in these cells (quantification is for four wild-type and four Eµ-Myc mice). Graph represents mean ± SD. (
+B
+) Cell cycle analysis of pretumor cells isolated from Eµ-Myc mice treated with vehicle, RAD001, or MLN0128 for 3 d (three to four mice per arm). (
+C
+) Analysis of apoptosis in pretumor cells isolated from Eµ-Myc mice treated with vehicle, RAD001, or MLN0128 (two mice per arm, representative of two experiments). Graph represents mean ± SD.
+We next asked whether phosphorylation of 4EBP1 by mTOR is functionally required for Myc oncogenic activity. To address this question, we took advantage of the mTOR inhibitor MLN0128, a compound currently in early phase clinical trials. MLN0128 belongs to a new class of powerful mTOR active site inhibitors that exhibit enhanced therapeutic potential compared with early allosteric inhibitors of mTOR such as rapamycin and its analogs (rapalogs). Our group and others have previously shown that, whereas rapalogs partially block the mTORC1 signaling pathway mainly by inhibiting p70S6K phosphorylation, mTOR active site inhibitors fully block mTORC1 activity including 4EBP1 phosphorylation as well as mTORC2 kinase activity (
+24
+,
+26
+,
+29
+,
+30
+). Moreover, the enhanced efficacy of mTOR active site inhibitors appears to be in large part due to their ability to block the 4EBP1–eIF4E axis (
+24
+,
+26
+). We reasoned that by comparing the MLN0128 mTOR active site inhibitor with the rapalog RAD001, which fails to block 4EBP1 phosphorylation, we could pharmacologically dissect the relative functional importance of mTOR-dependent 4EBP1 phosphorylation downstream of oncogenic Myc signaling. To this end, wild-type and
+Eµ-Myc
+mice were treated with a single dose of either vehicle, RAD001, or MLN0128 and splenic B cells were analyzed for changes in cell cycle and programmed cell death. Strikingly, we find that, whereas both inhibitors cause cell cycle arrest, in line with previous preclinical data for RAD001 (
+31
+), only MLN0128 leads to a robust increase in apoptosis over vehicle in
+Eµ-Myc
+pretumor B cells (
+Fig. 1
+B
+and
+C
+). Importantly, wild-type B-cell proliferation and survival is not affected by MLN0128 treatment (
+Fig. S2
+). Thus, by comparing the efficacy of two pharmacological classes of mTOR inhibitors, our findings suggest a specific requirement for mTOR-dependent 4EBP1 phosphorylation in cell survival downstream of oncogenic Myc signaling, which can be selectively pharmacologically targeted by mTOR active site inhibitors.
+mTOR-Dependent Phosphorylation of 4EBP1 as a Unique Therapeutic Target in Myc-Driven Tumors.
+Despite the potential for significant clinical impact, therapeutic strategies for targeting Myc have remained elusive. Given our findings that mTOR-dependent phosphorylation of 4EBP1 is critically required for cell survival during the earliest stages of Myc tumorigenesis, we next explored the therapeutic potential of targeting mTOR in established Myc-driven tumors. We first asked if
+Eµ-Myc
+tumors required mTOR signaling for tumor cell survival.
+Eµ-Myc
+mice with established tumors were treated with a single dose of vehicle, RAD001, or MLN0128 and tumors were analyzed. Strikingly, we find that MLN0128 causes induction of programmed cell death in
+Eµ-Myc
+tumors within just 2 h of treatment, whereas no increase is observed with RAD001 (
+Fig. 2
+A
+). Moreover, we find that with just 3 d of MLN0128 treatment, tumor-bearing mice exhibit near complete resolution of lymphadenopathy (
+Fig. 2
+B
+). Consistently, only treatment with MLN0128 is capable of inhibiting 4EBP1 phosphorylation and reducing tumor burden, measured as spleen weight (
+Fig. 2
+C
+and
+D
+). Importantly, we find that the long-term treatment of
+Eµ-Myc
+tumors with MLN0128 significantly prolongs survival compared with vehicle and RAD001 (
+Fig. 2
+E
+). Taken together, these data demonstrate the unexpected therapeutic potential of targeting Myc-driven tumors through the use of a recently developed class of mTOR active site inhibitors, which potently inhibit 4EBP1 phosphorylation.
+Open in a separate window
+Fig. 2.
+Therapeutic potential of the mTOR active site inhibitor MLN0128 compared with rapalogs in Myc-driven tumors. (
+A
+) Analysis of apoptosis in tumor cells isolated 2 h after a single dose of vehicle, RAD001, or MLN0128 in mice with established Eµ-Myc tumor transplants (three mice per arm). Graph represents mean ± SD. (
+B
+) Response of primary Eµ-Myc tumor to 3 d of treatment with MLN0128. (
+C
+) Western blot of mTOR substrates in tumor cells isolated from mice with established Eµ-Myc tumor transplants after 3 d of treatment with vehicle (V), RAD001 (R), or MLN0128 (M). (
+D
+) Tumor burden as measured by spleen weight in mice with established Eµ-Myc tumor transplants after 3 d of treatment relative to WT mice (two to three mice per arm, representative of three separate transplanted tumors). Graph represents mean ± SD. (
+E
+) Kaplan–Meier curves from preclinical trial in Eµ-Myc transplant model. Day 0 indicates the first day of palpable tumor formation and the beginning of treatment (five mice per arm).
+Genetic Inactivation of mTOR-Dependent eIF4E Hyperactivation in Myc-Driven Lymphomagenesis.
+To genetically determine the direct role of the mTOR-dependent phosphorylation of 4EBP1 in Myc-driven tumorigenesis and whether this parallels pharmacologic inhibition of mTOR, we genetically targeted eIF4E activity in vivo by using mouse models that express an inducible, dominant-negative 4EBP1 mutant (4EBP1
+m
+). Importantly, 4EBP1
+m
+is insensitive to mTOR signaling, as each of the mTOR-dependent phosphorylation sites has been mutated to alanine, allowing the 4EBP1
+m
+protein to competitively bind and suppress eIF4E activity (
+32
+). Previously, we have shown that 4EBP1
+m
+is a powerful suppressor of eIF4E oncogenic activity in vivo (
+24
+). We therefore generated a unique transgenic mouse model that specifically expresses tetracycline-inducible 4EBP1
+m
+in the B-cell compartment using a conditional rTTA allele [lox-stop-lox (LSL)-rTTA-internal ribosome entry site (IRES)-GFP] that concomitantly marks these cells with GFP (
+Fig. 3
+A
+and
+B
+). Strikingly, we find that when 4EBP1
+m
+is expressed in
+Eμ-Myc
+B cells (
+Eμ-Myc;4EBP1
+m
+), the number of circulating pretumor cells in the blood is dramatically reduced by more than 80% within 24 h of transgene induction (
+Fig. 3
+C
+). In contrast, normal B cells are unaffected by expression of 4EBP1
+m
+(
+Fig. 3
+C
+). We next assessed if this marked reduction in
+Eμ-Myc
+pretumor B cells is caused by induction of programmed cell death. Indeed, we find that 4EBP1
+m
+expression in
+Eμ-Myc
+mice leads to a robust induction of apoptosis in pretumor B cells (
+Fig. 3
+D
+).
+Open in a separate window
+Fig. 3.
+Genetic inhibition of mTOR-dependent 4EBP1–eIF4E activation blocks Myc-driven tumorigenesis. (
+A
+) Schematic of the system used to genetically target 4EBP1
+m
+to the B-cell compartment. (
+B
+) Western blot for 4EBP1
+m
+in B cells upon doxycycline administration. (
+C
+) Flow cytometry analysis of peripheral blood for B220
++
+, GFP
++
+B cells before and after induction of 4EBP1
+m
+by i.p. injection of doxycycline (2 mice per arm). Graph represents mean ± SD. (
+D
+) Analysis of apoptosis in B220
++
+, GFP
++
+pretumor B cells upon induction of 4EBP1
+m
+in Eµ-Myc;4EBP
+m
+mice (2 mice per arm). Graph represents mean ± SD. (
+E
+) Kaplan–Meier survival curve of Eµ-Myc;4EBP1
+m
+pretumor mice maintained on doxycycline water from weaning compared with Eµ-Myc littermate controls (8–10 mice per arm). (
+F
+) Representative flow cytometry plot showing the loss of GFP
++
+cells in tumors arising from Eµ-Myc;4EBP1
+m
+mice maintained on doxycycline (representative of eight tumors).
+We next asked what effect genetically targeting eIF4E activity with the
+4EBP1
+m
+transgene would have on Myc-driven lymphomagenesis and tumor maintenance. To this end, we monitored
+Eμ-Myc
+mice for tumor development and survival upon induction of 4EBP1
+m
+. Strikingly,
+Eμ-Myc;4EBP1
+m
+mice have significantly delayed lymphomagenesis compared with control
+Eμ-Myc
+mice (
+Fig. 3
+E
+). Importantly, all of the tumors that develop in
+Eμ-Myc;4EBP1
+m
+mice are GFP negative, suggesting they arise from pretumor B cells that have failed to induce 4EBP1
+m
+expression (
+Fig. 3
+F
+). This is consistent with the fact that recombination of the LSL-rTTA-IRES-GFP locus by CD19-
+Cre
+does not occur in 100% of B cells. Finally, we asked whether established
+Eμ-Myc;4EBP1
+m
+tumors require 4EBP1–eIF4E hyperactivity for survival. Indeed, we find that tumor cells isolated from
+Eμ-Myc;4EBP1
+m
+mice undergo rapid apoptosis upon induction of 4EBP1
+m
+(
+Fig. S3
+). Altogether, these data demonstrate that 4EBP1-dependent inhibition of eIF4E activity impedes Myc-driven lymphomagenesis and tumor survival. Additionally, these genetic data strongly support that inhibition of mTOR-dependent phosphorylation of 4EBP1 is a key determinant of MLN0128 efficacy in Myc-driven lymphomas.
+mTOR Active Site Inhibitor Efficacy in Myc-Driven Multiple Myeloma.
+Myc is a dominant oncogenic driver in several hematologic malignancies. Therefore, we sought to extend our observations on the requirements for mTOR-dependent 4EBP1 phosphorylation to other Myc-driven cancers. Multiple myeloma (MM) is a plasma cell neoplasm with frequent Myc overexpression (
+33
+,
+34
+). In fact, Myc overexpression is associated with poor survival in MM (
+34
+,
+35
+). Importantly, a transgenic mouse model that activates Myc in germinal center B cells (
+Vk*MYC
+) is able to fully recapitulate the clinical and pathologic features of the disease, demonstrating that Myc can in fact be a driving oncogenic event in MM (
+36
+). We used this mouse model to examine the role of mTOR-dependent 4EBP1 phosphorylation in Myc-driven myeloma. We first asked if malignant plasma cells demonstrate increased mTOR activity. To this end, we isolated CD138
++
+plasma cells and CD138
+−
+bone marrow mononuclear cells (BMMNCs) from
+Vk*MYC
+and wild-type mice and used a flow cytometry assay that we optimized to directly evaluate and quantify 4EBP1 phosphorylation. In line with our findings in MYC-driven lymphomas, we see that
+Vk*MYC
+malignant plasma cells display increased 4EBP1 phosphorylation compared with BMMNCs and wild-type plasma cells (
+Fig. 4
+A
+). Importantly, these data suggest that cross-talk between the Myc and mTOR signaling pathways at the level of 4EBP1 phosphorylation may be a general feature of Myc-driven tumors.
+Open in a separate window
+Fig. 4.
+Efficacy of mTOR active site inhibitors in Myc-driven multiple myeloma. (
+A
+) Representative flow cytometry analysis of 4EBP1 phosphorylation in CD138
++
+plasma cells and CD138
+−
+BMMNCs isolated from the bone marrow of wild-type and Vk*MYC mice. (
+B
+) Analysis of apoptosis in CD138
+−
+and CD138
++
+cells isolated from the bone marrow of wild-type and Vk*MYC mice treated with vehicle or MLN0128 (two mice per arm). Graph represents mean ± SD. (
+C
+) Preclinical trial in Vk*MYC spontaneous tumors. Best response is measured as the change from baseline M protein after 8 wk of daily treatment with either vehicle or MLN0128. Bar represents mean. (
+D
+) Representative H&E staining of bone marrow from wild-type mice and Vk*MYC mice upon completion of the preclinical trial. Bone marrow of untreated Vk*MYC mice consists predominantly of malignant plasma cells. This is in contrast to Vk*MYC bone marrow after MLN0128 treatment, which demonstrates a mixed hematopoietic cell population with low frequency of plasma cells similar to wild-type bone marrow.
+We next examined the cellular effects of mTOR inhibition by MLN0128 in Myc-driven myeloma.
+Vk*MYC
+and wild-type mice were treated with a single dose of vehicle or MLN0128 and bone marrow was collected and analyzed. Importantly, we find that MLN0128 inhibition of mTOR induces apoptosis selectively in
+Vk*MYC
+CD138
++
+plasma cells and not CD138
+−
+BMMNCs (
+Fig. 4
+B
+). Moreover, wild-type CD138
++
+plasma cells are unaffected by MLN0128 treatment. These findings demonstrate that Myc-driven myeloma requires mTOR-dependent signaling for tumor survival. Therefore, we next tested the efficacy of MLN0128 in Myc-driven MM in a preclinical trial.
+Vk*MYC
+were randomized for treatment with either vehicle or MLN0128 and monitored for therapeutic response as measured by changes from baseline monoclonal protein (M protein) production. Strikingly, we find that
+Vk*MYC
+mice treated with MLN0128 show significant preclinical responses as evidenced by decreases in M-protein production (
+Fig. 4
+C
+). In fact, some
+Vk*MYC
+mice respond to mTOR inhibition with complete resolution of disease and full restoration of normal hematopoiesis (
+Fig. 4
+D
+). Collectively, these results extend the efficacy of mTOR active site inhibitors to Myc-driven MM and suggest that targeting mTOR-dependent phosphorylation of 4EBP1 could be a powerful therapeutic strategy for broadly targeting Myc-driven tumors.
+Exploring the Clinical Relevance of mTOR-Dependent 4EBP1 Phosphorylation in Myc-Driven Human Lymphomas.
+Myc overexpression is a common feature of human lymphoma and is associated with a poor response to standard chemotherapy (
+3
+,
+37
+,
+38
+). We next sought to extend the relevance of our findings in mouse models of Myc-driven cancers to human lymphomas. We first asked if mTOR-dependent phosphorylation of 4EBP1 was required for the survival of human Myc-driven lymphomas. Therefore, we expressed an inducible 4EBP1
+m
+vector in Raji cells, a human Burkitt’s lymphoma cell line. We find that induction of 4EBP1
+m
+causes apoptosis in Raji cells that can be recapitulated by pharmacological treatment with the mTOR active site inhibitor MLN0128 (
+Fig. 5
+A
+and
+Fig. S4
+A
+).
+Open in a separate window
+Fig. 5.
+Clinical relevance of mTOR-dependent 4EBP1 phosphorylation in Myc-driven human lymphomas. (
+A
+) Analysis of apoptosis in the human Raji Burkitt’s lymphoma cell line upon 4EBP1
+m
+expression or MLN0128 treatment for 24 h. Graph represents mean ± SD. (
+B
+) Representative H&E, Myc staining, and phospho-4EBP1 staining in human diffuse large B-cell lymphoma (DLBCL). (
+C
+) Box and whisker plot of IHC intensity for total 4EBP1 and phospho-4EBP1 from a human DLBCL tissue microarray (TMA) consisting of 77 patients.
+We next asked whether mTOR-dependent phosphorylation of 4EBP1 is a hallmark of Myc overexpression in human lymphomas. We addressed this question within the context of diffuse large B-cell lymphoma (DLBCL) because unlike Burkitt’s lymphomas, where Myc is found translocated in 100% of cases, DLBCLs show Myc overexpression in a fraction of cases (29%) (
+37
+). Therefore, the DLBCL model provides a unique opportunity to compare the status of 4EBP1 phosphorylation in human lymphomas that differentially express Myc. Importantly, Myc overexpression in DLBCL correlates with poor response to standard chemotherapy and shortened patient survival (
+2
+,
+3
+,
+37
+). Consequently, DLBCL is another cancer in which our findings may have strong therapeutic implications. Based on this rationale, we used a human tissue microarray (TMA) to determine the status of Myc overexpression and possible concomitant changes in 4EBP1 phosphorylation by immunohistochemistry (IHC). Strikingly, we find that significantly increased 4EBP1 phosphorylation in DLBCL cases correlates with high Myc expression (
+Fig. 5
+B
+and
+C
+and
+Fig. S4
+C
+). Moreover, only phosphorylation of 4EBP1 is affected, as there is no statistically significant difference in total 4EBP1 expression levels between low and high Myc DLBCL cases. Collectively, these findings show a strong correlation between high levels of Myc and 4EBP1 hyperphosphorylation in human lymphomas and demonstrate that mTOR-dependent inhibition of 4EBP1 is required for the survival of human tumors driven by oncogenic Myc signaling. Thus, mTOR-dependent phosphorylation of 4EBP1 may represent a highly relevant therapeutic target and biomarker that could be exploited for the treatment of a clinically important subset of human lymphomas driven by Myc.Discussion
+In this study, we discovered that a previously unknown function of the Myc oncogenic program is to regulate the activity of the 4EBP1 tumor suppressor at the earliest stage of tumor initiation. We used a genetic approach to uncover that mTOR-dependent 4EBP1 phosphorylation is essential for cancer cell survival throughout Myc tumor development, from tumor initiation to maintenance. Furthermore, we find that hyperactivation of 4EBP1 renders Myc-driven lymphomas and myelomas druggable by a potent new class of mTOR active site inhibitors that are capable of blocking 4EBP1 phosphorylation. Importantly, we observed that the efficacy of the mTOR active site inhibitor MLN0128 is superior to RAD001, an allosteric inhibitor of mTOR that ineffectively blocks 4EBP1 phosphorylation and has modest therapeutic effects in the clinic. Finally, we provide evidence that mTOR active site inhibitors may have therapeutic efficacy across a broad range of hematologic malignancies that are characterized by the overexpression of Myc.
+A key function of Myc is to directly regulate the protein synthesis machinery. This function has historically been attributed to Myc’s transcriptional activity in activating target genes such as ribosomal proteins, translation initiation factors, and ribosomal DNA (
+9
+). For example, Myc is known to transcriptionally activate the eIF4E oncogene (
+39
+), a finding we validated at the protein level in human DLBCL (
+Fig. S4
+B
+), and eIF4E overexpression has been shown to promote Myc tumorigenesis (
+40
+). Our study further suggests that Myc enhances protein synthesis during tumorigenesis not only through transcriptional control but also by activating mTOR-dependent phosphorylation of 4EBP1, offering a unique window of opportunity for pharmacological intervention. This is further substantiated by our genetic data demonstrating that Myc-overexpressing B cells become addicted to mTOR-dependent phosphorylation of 4EBP1. Importantly, the programmed cell death observed upon the inhibition of 4EBP1 phosphorylation cannot be attributed to decreases in Myc protein levels (
+Fig. S5
+). Moreover, normal B-cell survival is not dependent on 4EBP1 phosphorylation, thus inhibiting this node of translation control in the context of Myc overexpression is synthetically lethal. These data strongly support pharmacologic targeting of mTOR with active site inhibitors as a clinically attractive therapeutic approach to Myc-driven cancers.
+The substrate specificity of mTOR is dictated by its interaction with other proteins as part of either the mTORC1 or mTORC2 complex. Our observation that Myc modulates mTORC1 specificity toward 4EBP1 without an increase in p70S6K phosphorylation cannot be explained by upstream activation of mTOR through tuberous sclerosis complex 1/2 or AKT-dependent regulation. In line with this, we do not find increased activation of mTOR at the Ser2448 phosphorylation site (
+Fig. S6
+) (
+41
+). Therefore, this finding reveals an aspect of mTOR biology that was previously unknown. One potential explanation for how Myc may direct mTOR substrate specificity is through allosteric structural changes of mTORC1 through a yet unidentified protein. In principle, this may resemble the allosteric interaction of mTOR with rapalogs, which affects the phosphorylation of only a subset of mTORC1 substrates. Future studies addressing the molecular basis for Myc-dependent regulation of 4EBP1 through mTORC1 may provide important insights into how mTOR function is regulated under normal and pathological cellular conditions. Together, these findings highlight a unique function of the Myc oncogenic program that converges on regulation of mTOR-dependent protein synthesis, which can be pharmacologically exploited as a synthetic lethal interaction to specifically target Myc-driven malignancies.Materials and Methods
+See
+SI Materials and Methods
+for additional detail.
+Mouse Experiments.
+The Eµ-Myc transgenic mouse model has been previously described (
+28
+). For pretumor and wild-type B-cell analysis, B cells were isolated from harvested spleens of 4- to 5-wk-old Eµ-Myc mice and wild-type littermates. For pretumor drug studies, Eµ-Myc mice and wild-type littermates were randomized at 4 wk of age to receive vehicle, RAD001 (10 mg/kg; LC Laboratories), or MLN0128 (1 mg/kg; synthesized from commercially available starting materials as previously reported) (
+27
+) by oral gavage daily for 3 d. MLN0128 (formerly INK128), a highly selective and potent mTOR active site inhibitor (1.4 nM inhibition constant), was administered based on previously published pharmacokinetic data that demonstrated 1 mg/kg daily dosing achieved maximal mTOR inhibition while minimizing off-target effects (
+27
+).
+For Eµ-Myc tumor studies, unless otherwise noted, allograft mice generated using spontaneous lymph node tumors from Eµ-Myc mice were employed. Mice were enrolled in drug studies at first detection of palpable tumors and randomized for treatment as described above. To measure drug-induced apoptosis, mice were euthanized 2 h after a single round of drug treatment.
+Tetracycline operator (TetO)-FLAG-4EBP1
+m
+mice were generated as previously described (
+24
+) using a 4EBP1 mutant construct in which all five mTOR-dependent 4EBP1 phosphorylation sites (T37, T46, S65, T70, and S82) were mutated to alanine (
+32
+). ROSA26-LSL-rTTA-IRES-GFP (
+42
+) mice and CD19
+Cre
+mice (
+43
+) were acquired from Jackson Laboratories. All mice were maintained in the C57/BL6 background. Mice were intercrossed to generate Eµ-Myc; CD19
+Cre
+; ROSA26-LSL-rTTA-IRES-GFP; TetO-FLAG-4EBP1
+m
+(referred to as Eµ-Myc;4EBP1
+m
+).
+Vk*MYC mice were obtained from Marta Chesi (Mayo Clinic, Rochester, MN) and have been previously described in detail (
+36
+). For phospho-flow cytometry experiments, allograft mice were generated and analyzed. For all drug studies, Vk*MYC spontaneous and allograft mice were randomized and treated with vehicle or MLN0128 after they had developed significant monoclonal proteins (15 g/L) as assessed by serum protein electrophoresis (SPEP) (Helena Laboratories QuickGel SPE kit; no. 3409). The University of California, San Francisco Institutional Animal Care and Use Committee approved all studies involving live mice. See
+SI Materials and Methods
+for expanded detail of mouse experiments.
+Cell Culture Studies.
+Tumor cells were isolated from untreated Eµ-Myc;4EBP1
+m
+or Eµ-Myc mice and freshly plated on a feeder layer of irradiated mouse embryonic fibroblasts in RPMI supplement with 10% (vol/vol) FBS for short-term culture. A single vector tetracycline-inducible FLAG-4EBP1
+m
+expression system was developed in our laboratory by combining the TRE3g promoter (Clontech) and the TetOn3g transactivator (Clontech) into a lentiviral vector and subsequently inserting the FLAG-4EBP1
+m
+construct (discussed above) downstream of the TRE3g promoter. See
+SI Materials and Methods
+for expanded detail.
+Western Assays.
+Immunoblotting was performed using standard procedures. Commercial antibodies for pAKT(S473), p-p70S6K (T389), pS6(S234/236), mTOR(S2448), AKT1, rpS6, 4EBP1, and GAPDH were obtained from Cell Signaling. Alpha-tubulin antibody was obtained from Abcam. Anti-Flag and beta-actin antibodies were obtained from Sigma. Where noted, protein levels were quantified by analyzing optical density using ImageJ software.
+Human DLBCL Tissue Microarray.
+The TMA data represents 77 cases of DLBCL. IHC antibodies: 4EBP1 (Cell Signaling, 53H11 clone, 1:2,000 citrate buffer 20 min), phospho-4EBP1 (Cell Signaling, T37/46 clone, 1:200 EDTA 20 min), elF4E (Cell Signaling, C46H6 clone, 1:200 EDTA 20 min), Myc (Epitomics; Y69 clone, 1:100 EDTA 20 min). See
+SI Materials and Methods
+for expanded detail.Supplementary Material
+Supporting Information:
+Click here to view.Acknowledgments
+We thank M. Barna for support, critical discussion, and reading the manuscript; M. Chesi, P. L. Bergsagel, and Cornell University for generously providing Vk*Myc mice; C. Stumpf for developing and providing the inducible 4EBP1
+m
+lentiviral construct; M. McMahon and M. Moreno for technical assistance; and K. Tong for editing the manuscript. This work was supported by National Institutes of Health (NIH) Grants R01 CA154916 and R01 CA140456 (both to D.R.), the Waxman Foundation (K.M.S.), and the University of California San Francisco (UCSF)’s Stephen and Nancy Grand Multiple Myeloma Translational Initiative (D.R., K.M.S., and M.P.). M.P. is a recipient of the American Association for Cancer Research–Millennium Fellowship in Lymphoma Research. M.L.T. is supported in part by a UCSF Howard Hughes Medical Institute Graduate Education in Medical Sciences Fellowship. D.R. is a Leukemia and Lymphoma Society Scholar.Footnotes
+The authors declare no conflict of interest.
+This article contains supporting information online at
+www.pnas.org/lookup/suppl/doi:10.1073/pnas.1310230110/-/DCSupplemental
+.

@@ -1,0 +1,737 @@
+Cancer Therapy: Preclinical
+
+Dual Targeting of Wild-Type and Mutant p53 by Small
+Molecule RITA Results in the Inhibition of N-Myc and Key
+Survival Oncogenes and Kills Neuroblastoma Cells In Vivo
+and In Vitro
+
+Mikhail Burmakin1
+, Yao Shi1
+, Elisabeth Hedstrom€ 1
+, Per Kogner2
+, and Galina Selivanova1
+
+Abstract
+Purpose: Restoration of the p53 function in tumors is a promising therapeutic strategy due to the high
+potential of p53 as tumor suppressor and the fact that established tumors depend on p53 inactivation for
+their survival. Here, we addressed the question whether small molecule RITA can reactivate p53 in
+neuroblastoma and suppress the growth of neuroblastoma cells in vitro and in vivo.
+Experimental Design: The ability of RITA to inhibit growth and to induce apoptosis was shown in seven
+neuroblastoma cell lines. Mechanistic studies were carried out to determine the p53 dependence and the
+molecular mechanism of RITA-induced apoptosis in neuroblastoma, using cell viability assays, RNAi
+silencing, co-immunoprecipitation, qPCR, and Western blotting analysis. In vivo experiments were conducted
+to study the effect of RITA on human neuroblastoma xenografts in mice.
+Results: RITA induced p53-dependent apoptosis in a set of seven neuroblastoma cell lines, carrying
+wild-type or mutant p53; it activated p53 and triggered the expression of proapoptotic p53 target genes.
+Importantly, p53 activated by RITA inhibited several key oncogenes that are high-priority targets for
+pharmacologic anticancer strategies in neuroblastoma, including N-Myc, Aurora kinase, Mcl-1, Bcl-2,
+Wip-1, MDM2, and MDMX. Moreover, RITA had a strong antitumor effect in vivo.
+Conclusions: Reactivation of wild-type and mutant p53 resulting in the induction of proapoptotic
+factors along with ablation of key oncogenes by compounds such as RITA may be a highly effective strategy
+to treat neuroblastoma. Clin Cancer Res; 19(18); 5092–103. 2013 AACR.
+
+Introduction
+Neuroblastoma (NB) belongs to the most challenging
+oncologic diseases of childhood. Despite intensive multimodal
+therapy, often resulting in good immediate response
+in many children, high-risk neuroblastoma frequently
+acquires therapy resistance with fatal clinical outcome
+(1). There is a strong need to develop novel targeted strategies
+that inhibit specific neuroblastoma pathways and key
+molecules for its growth and progression.
+Among the diversity of genetic variations in neuroblastoma,
+MYCN amplification, leading to overexpression of
+the transcription factor N-Myc, is a genetic hallmark of the
+disease and an independent marker of dismal prognosis
+(1, 2). Selective targeting of N-Myc in neuroblastoma cells
+
+using different approaches showed encouraging results and
+provides a promising treatment strategy (3). In addition,
+several other oncogenes have been implicated in neuroblastoma
+tumorigenesis, invasion, and dissemination and
+are regarded as targets for therapy (4). Among others, these
+include PPM1D, which encodes oncogenic phosphatase
+Wip1 (wild-type p53 induced phosphatase 1), increased
+expression of which is likely to be associated with 17q gain,
+a predictor of poor prognosis (5). Recent studies have
+shown a correlation between high expression of antiapoptotic
+factors Mcl-1 and Bcl-2 and resistance to therapy in
+neuroblastoma (6). Mcl-1 depletion via RNA interference
+induced apoptosis in neuroblastoma cell lines and sensitized
+them to cytotoxic chemotherapy, suggesting that
+Mcl-1, as well as Bcl-2, might be promising targets for
+neuroblastoma treatment (6, 7).
+Notably, chemotherapy-resistant neuroblastoma often
+express p53 inactivated by a point mutation (8–10). p53
+is the potent tumor suppressor, which halts tumor progression
+by inducing apoptosis or cell-cycle arrest (11). p53 is
+inactivated in the majority of human tumors, either by
+point mutation of the gene or via its inhibitors, mainly
+MDM2 and MDMX. MDM2 ubiquitinates p53 and marks it
+for destruction by the proteasome, thus keeping p53 at bay
+
+Authors' Affiliations: 1
+Department of Microbiology, Tumour and Cell
+biology (MTC); and 2
+Department of Women's and Children's Health,
+Karolinska Institutet, Stockholm, Sweden
+Corresponding Author: Galina Selivanova, Department of Microbiology,
+Tumour and Cell biology (MTC), Nobels v.16, Karolinska Institutet,
+SE-17177, Stockholm, Sweden. Phone: 46-8-52486302; Fax: 46-8-
+330744; E-mail: galina.selivanova@ki.se
+doi: 10.1158/1078-0432.CCR-12-2211
+2013 American Association for Cancer Research.
+
+Clinical
+Cancer
+Research
+
+5092 Clin Cancer Res; 19(18) September 15, 2013
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+in the absence of stress (11). MDMX is a paralog of
+MDM2 required for the efficient inhibition of p53 by
+MDM2, but it can also suppress p53 function independently
+of MDM2, therefore maximal activation of p53 requires
+inhibition of both MDM2 and MDMX (12). Multiple
+studies provided evidence of the crucial role of p53 for
+tumor suppression, as well as for response to anticancer
+therapy in different types of cancer including high-risk
+neuroblastoma (13).
+p53 dysfunction in neuroblastoma has been linked to
+MDM2 amplification and Wip1 activation (5, 14), as well
+as to homozygous deletions of CDKN2A, encoding MDM2
+inhibitor p14ARF (15). Moreover, N-Myc inactivates p53
+by inducing the expression of MDM2 (16), which in turn
+upregulates N-Myc (17). p53 mutations occur very seldom
+in neuroblastoma, but in cell lines established at relapse
+p53 mutations are more frequent, implicating mutant
+p53 in the development of therapy-resistant phenotype
+(8, 9).
+Albeit inactive, the p53 protein is expressed in cancers,
+leading to the idea of p53 reactivation to combat cancer
+(18). Moreover, in vivo studies in animal models showed
+that re-instatement of p53 has much more profound tumor
+suppressor effects in aggressive, metastatic tumors (19, 20).
+These data greatly encouraged us to explore the effect of
+p53-reactivating molecules in neuroblastoma.
+Several p53-reactivating molecules have been developed
+and at least 2 of them are currently being tested in clinical
+trials: MDM2 inhibitor nutlin3a discovered by Hoffmann
+La Roche (21) and the mutant p53-reactivating compound
+PRIMA-1MET/APR-246, identified by us (22). Nutlin3a has
+
+been shown to activate p53-dependent growth suppression
+in neuroblastoma carrying wild-type (wt) p53 in vitro and in
+vivo (23, 24). Evidence that defects in effector molecules
+downstream of p53 are remarkably rare in neuroblastoma
+leads further support to the strategy to restore the function
+of p53 in neuroblastoma (25).
+However, recent studies show that treatment with
+nutlin3a creates a selective pressure for p53 mutations in
+neuroblastoma and other types of cancer leading to nutlin3a
+resistance, which in some cases contributes to multidrug
+resistance (26, 27). Thus, it might be beneficial to develop
+therapies which will simultaneously reactivate wild-type and
+mutant p53.
+We have identified a small molecule RITA which binds to
+the N-terminus of p53 and induces a conformational
+change blocking its interaction with MDM2, leading to the
+robust induction of apoptosis in cancer cells of different
+origin in vitro and in vivo, without apparent toxic effects (28–
+32). Notably, RITA can also reactivate mutant p53, probably
+because RITA treatment impinges on p53 conformation
+(31). Furthermore, reactivation of p53 by RITA leads to the
+ablation of survival signaling in cancer cells via downregulation
+of Myc, Bcl-2, Mcl-1,Wip-1, MDMX, and other oncogenes
+(30, 33). Taken together, these data inspired us to test
+whether RITA is capable of restoring wild-type and mutant
+p53 activity in neuroblastoma.
+Here, we report that RITA triggers robust apoptosis in
+different neuroblastoma lines, including the ones with
+mutant p53. RITA-activated p53 induces the expression of
+its proapoptotic target genes such as PUMA and Noxa and
+also a rapid and substantial downregulation of several key
+survival factors in neuroblastoma, including N-Myc, Aurora
+kinase A, MDM2, MDMX, Wip1, and Mcl-1. Notably, RITA
+efficiently suppressed the growth of human neuroblastoma
+xenografts in mice.
+
+Materials and Methods
+Cell lines
+Neuroblastoma cell lines used in this study and the status
+of p53 and N-Myc in these lines is indicated in Table 1. SKNBE(2)
+and SHEP cells were maintained in RPMI 1640
+
+Table 1. p53 status and N-Myc amplification
+status in the cell lines used in the study
+
+Cell line p53 status N-Myc amp
+
+SH-SY5Y wt
+SK-N-BE(2) C135F þ
+SK-N-AS wta
+SKN-Fl M246R
+SK-N-DZ wt þ
+IMR-32 wt þ
+SHEP wt
+p53 status is indicated according to ref. 35.
+a
+C-terminal homozygous deletion.
+
+Translational Relevance
+There is a strong need for novel target-specific therapeutic
+approaches to treat high-risk neuroblastoma.
+Restoration of p53 is a promising strategy to treat cancer.
+Several compounds reactivating p53 are currently being
+tested in clinical trials. Unlike chemotherapy regimens
+which kill healthy cells along with tumor cells, leading to
+severe side effects, target-specific drugs spare normal
+cells, and have the potential to be well-tolerated therapies,
+which will enable patients with cancer to live longer
+and have an improved quality of life. Here we report that
+reactivation of p53 by target-specific molecule RITA
+triggers ablation of key factors crucial for neuroblastoma
+survival, including N-Myc, the driving oncogene in neuroblastoma.
+Inhibition of oncogenes by p53 may thus
+constitute a new therapeutic approach for high-risk
+neuroblastomas. The capability of p53 to target several
+oncogenes might allow p53-based therapies to cope with
+the daunting challenge of therapy—multiple genetic
+abnormalities in individual cancers. With no current
+satisfactory strategy for treatment of high-risk neuroblastoma,
+it would be highly relevant to implement this
+strategy in the clinic.
+
+Reactivation of p53 by RITA in Neuroblastoma
+
+www.aacrjournals.org Clin Cancer Res; 19(18) September 15, 2013 5093
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+medium, all other cell lines were maintained in Dulbecco’s
+Modified Eagle Medium. Plasmid DNA and siRNA transfections
+were conducted with Lipofectamine 2000 (Invitrogen)
+according to the manufacturer’s instructions. Plasmid
+encoding p53shRNA was kindly provided by A. Jochemsen
+(The Netherlands).
+
+Growth suppression assays
+For long-term viability assay, 100,000 cells were seeded
+in 12-well plates, treated with RITA for 2 weeks and stained
+with crystal violet. For short-term viability assay, 3,000
+cells/well were plated in a 96-well plate, treated with RITA
+for 48 hours, and cell viability was assessed using proliferation
+reagent WST-1 (Roche) according to the manufacturer’s
+instructions. TUNEL assay was conducted as we
+previously described (34). Fluorescence-activated cell sorting
+(FACS) analysis of the propidium iodide–stained cells
+was conducted as in ref. 29.
+
+Antibodies and Western blotting
+The following primary antibodies were used: rabbit polyclonal
+anti-p53 CM1 was from Novocasta; antibodies for
+p53 (DO-1, FL393), PARP (H-250), Mcl-1 (S-19), N-Myc
+(C-19), MDM2 (SMP14), Bax (N-20), Bcl-2 (C-2), from
+Santa Cruz. Anti-actin (AC15) from SIGMA and anti-p21
+(Cip1/waf1) from Nordic Biosite. Antibodies for Noxa and
+PUMA (Ab-1) from Calbiochem, anti-MDMX (S403) and
+anti-Wip1 antibodies from Bethyl. Immunoblotting was
+conducted according to standard procedures.
+
+Chemicals
+Pifithrin-a(PFTa), a kind gift from A. Gudkov (USA), was
+used at 10 mmol/L 2 hours before RITA treatment. The
+proteasomal inhibitor MG132 was used at a concentration
+of 20 mmol/L. RITA was obtained from National Cancer
+research Institute (USA).
+
+Quantitative real-time reverse transcriptase (RT)–PCR
+Total RNA was extracted and purified with an RNeasy
+kit (QIAGEN) using the manufacturer’s protocol. RNA
+(5 mg) was reverse transcribed using a SuperScript FirstStrand
+RT-PCR kit (Invitrogen). Real-time PCR was conducted
+with SYBR green reagent (Applied Biosystems)
+according to the manufacturer’s protocol. Primers used
+for real-time RT-PCR were as we previously described
+(29, 30).
+
+Co-immunoprecipitation
+Neuroblastoma cells were treated with 1 mmol/L RITA
+and harvested after 24 hours. Lysates (500 mg) were precleared
+with Protein A agarose beads and rabbit immunoglobulin
+G (Santa Cruz Biotechnologies) before immunoprecipitation
+with anti-p53 antibody FL-393 conjugated to
+agarose beads (Santa Cruz Biotechnologies). Beads were
+washed 5 times with IP buffer (50 mmol/L Tris, pH 7.5, 5
+mmol/L EDTA, 150 mmol/L NaCl, 0.5% NP-40). Bound
+proteins were detected by Western blotting using MDM2
+and MDMX antibodies.
+
+In vivo experiments
+The Northern Stockholm Animal Ethical Committee
+approved all animal studies and animal care was in accordance
+with the Karolinska Institutet guidelines. SKN-DZ
+cells (3  107
+) were injected subcutaneously on the left and
+right flanks of 6- to 8-week-old female severe combined
+immunodeficient (SCID) mice. Xenografts seemed palpable
+7 days after inoculation, at which time the treatment was
+started. The mice were treated by intraperitoneal injections
+twice daily with injection of 200 mL solution containing 10
+mg/kg of RITA and 5% dimethyl sulfoxide (DMSO) in PBS
+or 5% DMSO in PBS for a period of 18 days. Xenograft
+volumes were measured every day. Animals were sacrificed
+on the last day of treatment; tumors were extracted, weighted,
+and photographed. Body weight of mice was measured
+before and after treatment.
+
+Results
+RITA inhibits the growth of neuroblastoma cells
+We have previously shown that p53 reactivating compound
+RITA prevents p53/MDM2 interaction, induces p53
+accumulation and activation, and triggers apoptosis in
+tumor cells of a different origin in vitro and in vivo (28–
+32). Here, we tested the effects of RITA in 7 neuroblastoma
+cell lines, differing in N-Myc and p53 status (Table 1).
+Treatment with RITA efficiently suppressed the growth of
+neuroblastoma cell lines expressing wild-type p53 in a dosedependent
+manner, as detected by cell-proliferation assay
+(Fig. 1A). These include 2 cell lines with amplified N-Myc,
+SKN-DZ, and IMR32. Furthermore, a long-term viability
+assay showed that treatment with RITA purged the entire
+population of neuroblastoma cells, leaving virtually no
+alive cells after several days of treatment (Fig. 1B).
+In addition to the activation of the wtp53 activity, RITA
+can also restore the activity of mutant p53 in human tumor
+cells of different origin (31). In line with these results, we
+found that RITA efficiently inhibited the growth of SKN-BE
+(2) cells, which express C135F p53 mutant and SKN-FI,
+carrying M246R p53 mutant, as assessed in short- and longterm
+viability assays (Fig. 1A and B). In addition, the growth
+of SKN-AS cell line carrying p53 truncated at its very Cterminus,
+but retaining partial p53 activity (35), was also
+inhibited by RITA.
+Thus, RITA efficiently suppressed the growth of neuroblastoma
+cells, carrying both wild-type and mutant p53,
+with or without N-Myc amplification.
+
+RITA induces apoptosis in neuroblastoma cells
+Nutlin3a, an inhibitor of p53/MDM2 interaction,
+induces a pronounced growth arrest and senescent phenotype
+in neuroblastoma cells (23). However, we did not
+observe senescent cells upon treatment with RITA. Microscopy
+analysis of cell morphology revealed the induction of
+cell death by RITA in all cell lines tested (Fig. 2A). Furthermore,
+we detected DNA fragmentation, the hallmark of
+apoptosis using TUNEL assay (Fig. 2B). Activation of caspases,
+manifested as induction of PARP cleavage, served as
+an additional proof of apoptosis. Using immunoblotting,
+
+Burmakin et al.
+
+5094 Clin Cancer Res; 19(18) September 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+we showed the induction of PARP cleavage upon RITA in
+several neuroblastoma lines (Fig. 2C). Appearance of
+fragmented DNA, another indication of apoptosis, was
+observed upon FACS analysis of propidium iodide–stained
+SKN-BE(2) cells (Fig. 2D) and, as shown later, in SHEP and
+SKN-DZ cells. Taken together, our results strongly suggest
+that RITA induces neuroblastoma cell death via apoptosis.
+
+RITA disrupts the interaction between p53 and
+MDM2/MDMX
+We have previously shown that RITA induces apoptosis
+due to disruption of the p53/MDM2 complex (28), and also
+found similar inhibitory effect on the p53/MDMX complex.
+In line with these results, we found that RITA significantly
+decreased the complex formation between p53 and MDM2,
+as well as between p53 and MDMX, as assessed by coimmunoprecipitation
+assay (Fig. 3A). These data suggest
+that in wild type p53 cells the induction of apoptosis upon
+treatment with RITA is due to the inhibition of interaction
+between p53 and its negative p53 regulators MDM2 and
+MDMX.
+
+Apoptosis induced by RITA is p53-dependent
+To assess whether apoptosis induced by RITA is p53 dependent,
+we used 2 different approaches. First, we silenced
+p53 either by stably expressing p53shRNA in SHEP and
+SKN-DZ cells or by transient depletion of mutant p53 in
+SKN-BE(2) cells by pSUPER shp53 transfection. The silencing
+of p53 prevents apoptosis induction by RITA, as shown
+using a short-term viability assay (Fig. 3B, top), FACS analysis
+(Fig. 3C). Second, we assessed the p53 dependence
+by using chemical inhibitor of p53 transcriptional function,
+small molecule PFTa (36). Inhibition of p53 by PFTa
+before administration of RITA protects SHEP cells from
+apoptosis (Fig. 3B, bottom left). PFTa also rescued SKNBE(2)
+cells carrying mutant p53 (Fig. 3B, bottom right). In
+addition, as shown below, PARP cleavage in SKN-BE(2)
+cells was rescued by p53 depletion. Taken together, our
+results show that apoptosis induced by RITA in neuroblastoma
+cell lines is triggered by p53. Thus, we set out to explore
+in more detail the mechanisms of p53-induced apoptosis.
+
+p53 induced by RITA activates the expression of its
+proapoptotic targets
+As expected, we observed the induction of p53 protein
+levels upon treatment with RITA in all neuroblastoma cell
+lines, except SKN-BE(2), carrying mutant p53 (Fig. 3D).
+Moreover, p53 accumulation upon RITA treatment resulted
+in the induction of p53 targets, the key proapoptotic factors
+PUMA, Noxa, and Bax, as well as CDK inhibitor p21 (Fig.
+3D). These data are in line with the prevention of RITAmediated
+apoptosis by RNAi-mediated silencing of p53 and
+the inhibitor of p53 transcriptional activity PFTa and suggest
+that p53 activated by RITA is transcriptionally active.
+Furthermore, according to qPCR analysis, the expression of
+several p53 target genes was induced, including proapoptotic
+
+Figure 1. RITA inhibits the growth
+of neuroblastoma cells. A, B,
+inhibition of growth of 7
+neuroblastoma lines by RITA, as
+assessed using short-term cellproliferation
+assay (48 hr, A) and by
+long-term viability assay
+(2 weeks, B).
+
+Reactivation of p53 by RITA in Neuroblastoma
+
+www.aacrjournals.org Clin Cancer Res; 19(18) September 15, 2013 5095
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+Bax and BBC3 (encoding PUMA), as well as CDKN1A gene
+encoding CDK inhibitor p21 (Fig. 3D, bottom).
+
+p53 inhibits the expression of N-Myc and several other
+oncogenic factors important for neuroblastoma
+growth
+Recently we reported a potent inhibition of crucial oncogenes
+by p53 in vitro and in vivo upon reactivation by RITA,
+which includes Mcl-1, Bcl-2, c-Myc, cyclin E, and b-catenin
+(30), as well as MDM2, MDMX, and Wip1 encoded by
+PPM1D (33). We found that the inhibition of oncogenes by
+
+p53 reduces the cell’s ability to buffer proapoptotic signals
+and elicits robust apoptosis (30). Thus, we decided to test
+whether p53 reactivation by RITA can inhibit oncogenes
+which play important role in neuroblastoma development,
+including N-Myc, Wip1, Mcl-1, and Bcl-2 (3, 5–7), as well as
+p53 inhibitors MDM2 and MDMX.
+Analysis of protein levels of N-Myc in 3 cell lines carrying
+MYCN amplification, SKN-DZ, SKN-BE(2), and IMR32,
+revealed a strong downregulation of N-Myc upon RITA
+(Fig. 4A, top). Downregulation of N-Myc was p53-dependent,
+as evidenced by a rescue of N-Myc, albeit incomplete,
+
+Figure 2. RITA induces apoptosis in
+neuroblastoma cells. A, induction
+of cell death in neuroblastoma cell
+lines was assessed by microscopy
+analysis. Cells were treated with
+RITA or DMSO as a control for 48
+hours, except SKN-BE(2) cells,
+which were treated for 4 days, and
+images were taken under
+microscope. B, induction of DNA
+fragmentation by RITA was
+detected using TUNEL assay in
+SKN-DZ cells after 48 hours of
+RITA treatment. C, induction of
+PARP cleavage upon RITA
+treatment was assessed by
+immunoblotting. D, induction of
+apoptosis in SKN-BE(2) cells upon
+4 days treatment with RITA as
+assessed by FACS analysis of
+propidium iodide–stained cell.
+
+Burmakin et al.
+
+5096 Clin Cancer Res; 19(18) September 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+Figure 3. Induction of apoptosis in neuroblastoma cell by RITA is p53 dependent. A, RITA disrupts the interaction between p53 and MDM2/MDMX,
+as detected by co-immunoprecipitation in SKN-DZ cells followed by Western blotting. B, depletion of p53 by shRNA protects SHEP cells from
+RITA-induced cell death, as detected by short-term viability assay (top). Inhibition of p53 by pretreatment with PFTa prevents growth suppression by
+RITA in SHEP and SKN-BE(2) cells, as assessed using short-term viability assay (bottom). C, rescue of apoptosis induced by RITA upon p53
+silencing in SHEP (left) and SKN-DZ (right) cell lines as analyzed by FACS of propidium iodide–stained cells. D, induction of p53 and its targets upon
+24 hours of RITA treatment, as detected by immunoblotting (top). RITA induces the expression of p53 target genes encoding Bax, Puma (BBC3), and
+p21 (CDKN1A) in SKN-DZ cells, as detected by qPCR (bottom).
+
+Reactivation of p53 by RITA in Neuroblastoma
+
+www.aacrjournals.org Clin Cancer Res; 19(18) September 15, 2013 5097
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+Figure 4. p53 reactivated by RITA inhibits crucial oncogenes in neuroblastoma cells. A, decrease of N-Myc protein level in SKN-DZ, SKN-BE(3), and IMR32 cells
+upon RITA treatment as detected by immunoblotting (top). Partial rescue of N-Myc in SKN-DZ cells upon inhibition of p53 by shRNA as assessed by Western
+blotting (bottom). B (top left), pretreatment with proteasome inhibitor MG132 rescues downregulation of N-Myc protein level by RITA; (top right) depletion of
+FBXW7 by shRNA prevented downregulation of N-Myc by RITA, as assayed by immunoblotting; (bottom left) induction of FBXW7 mRNA level upon RITA
+treatment, as detected by qPCR; (bottom right) shRNA decreased the level of FBXW7 mRNA as detected by qPCR. C, downregulation of several oncogenes in
+neuroblastoma cells upon RITA treatment on mRNA and protein level; (top) transcriptional repression of BCL-2, PPM1D, MCL-1, and AURKA, but not MYCN
+upon RITA treatment, as assessed by qPCR.Downregulation of these genes was p53 dependent, because it was rescued by pretreatment with p53 inhibitorPFTa;
+(bottom) downregulation of survival oncogenes in neuroblastoma cells upon 24 hours of RITA treatment as detected by immunoblotting. D, effect of p53
+silencing on downregulation of survival oncogenes in SHEP (left; 8 hours of RITA treatment) and in SKN-BE(2) cells (right; 3 days of RITA treatment).
+
+Burmakin et al.
+
+5098 Clin Cancer Res; 19(18) September 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+upon partial silencing of p53 in SKN-DZ cells (Fig. 4A,
+bottom).
+Pretreatment by MG132 rescued N-Myc level upon RITA,
+suggesting that the decline of N-Myc protein is proteasome
+dependent (Fig. 4B, top left). In addition, we did not detect a
+decrease of N-Myc mRNA levels by qPCR (Fig. 4C, top). It
+has been shown that Fbxw7 E3 ligase ubiquitinates N-Myc
+and triggers its proteasomal degradation (37). Therefore, we
+tested whether downregulaiton of N-Myc is dependent on
+Fbxw7. Indeed, silencing of the Fbxw7 expression by shRNA
+prevented N-Myc decline upon RITA (Fig. 4B, right). Moreover,
+qPCR analysis showed the induction of Fbxw7 mRNA
+upon RITA treatment (Fig. 4B, bottom left), in line with
+Fbxw7 being the p53 target gene (30).
+Furthermore, we observed the p53-dependent transcriptional
+repression of AURKA gene, encoding Aurora kinase
+A (Fig. 4C, top), which we recently identified as a novel p53
+target gene (38). It is possible that the transcriptional
+repression of AURKA encoding Aurora kinase, known to
+oppose Fbxw7-mediated degradation of N-Myc (37), might
+also contribute to the degradation of N-Myc upon RITA.
+Moreover, in our set of neuroblastoma cell lines p53
+activated by RITA triggered a potent decrease of protein
+levels of several oncogenes implicated in high-risk neuroblastoma,
+including Bcl-2, Mcl-1, and Wip-1 (Fig. 4C,
+bottom). In addition, we observed downregulation of the
+p53 inhibitor MDMX, which cooperates with MDM2 in p53
+inhibition. Consistent with downregulation of MDM2 by
+RITA in other cell types (39), RITA treatment triggered a
+decline of MDM2 level (Fig. 4C, bottom).
+Because p53 activated by RITA has been shown to be a
+potent transcriptional repressor of a number of genes,
+including p53 target genes Bcl-2 and Mcl-1 (30) and we
+have recently found that p53 can repress PPM1D encoding
+Wip1 (33), we addressed the question whether p53-
+mediated downregulation of these oncogenic factors in
+neuroblastoma is conferred on mRNA level. qPCR analysis
+showed that the treatment of cells with RITA lead to a
+decreased levels of Bcl-2, Mcl-1, and PPM1D mRNA
+(Fig. 4C, top). In contrast, MDM4 and MDM2 were not
+decreased (data not shown). This is in line with our published
+data that p53 activated by RITA induces degradation
+of MDMX in Wip1–dependent manner, along with decline
+of MDM2 (33). The transcriptional repression of oncogenes
+was p53 dependent, as it was rescued by the p53 inhibitor
+(Fig. 4C, top) and on protein level by RNAi-mediated
+silencing of p53 in wild-type and mutant p53 expressing
+cells SHEP and SKN-BE(2), respectively (Fig. 4D). However,
+in mutant p53 expressing SKN-BE(2) cells, N-Myc levels
+were not rescued by p53 silencing (Fig. 4D, right). It is
+possible that in SKN-BE(2) cells other mechanisms might
+contribute to N-Myc downregulation.
+
+Strong antitumor effect of RITA in SKN-DZ xenografts
+in mice
+The most rigorous test for the antitumor effect of novel
+compounds which could predict their potency as possible
+anticancer drugs is the assessment of their effects in vivo. To
+
+study the effects of RITA in vivo, we used SKN-DZ xenografts
+grown in SCID mice. Upon formation of palpable tumors,
+we injected intraperitonealy 10 mg/kg of RITA or vehicle
+twice daily. RITA treatment significantly suppressed the
+growth of neuroblastoma in vivo, resulting in a 2-fold
+decrease in the volume of SKN-DZ xenografts and decrease
+of the weight of tumors (Fig. 5A–C, left). The substantial
+reduction of tumor volume caused by RITA was not followed
+by body weight loss (Fig. 5C, right), suggesting the
+absence of systemic toxicity. Notably, treatment with RITA
+decreased microvascular density in some tumors, probably
+due to the downregulation of N-Myc, known to have strong
+proangiogenic function (ref. 3; Fig. 5B). Indeed, we
+observed downregulation of N-Myc, along with the p53
+target antiapoptotic factor Mcl-1, in xenograft tumors treated
+with RITA (Fig. 5D).
+
+Discussion
+The relapse and chemoresistance in cancers, including
+neuroblastoma, is often associated with inactivation of the
+p53 tumor suppressor. Elegant studies in mice show that
+reinstatement of p53 causes regression of aggressive metastatic
+tumors (19, 20). This makes pharmacologic rescue of
+p53 an attractive strategy to combat cancer. Several compounds
+are currently undergoing clinical trials: JnJ26854165
+(Johnson & Johnson), PXn727 and PXn822
+(Priaxon), RG7112/nutlin3a (F. Hoffmann–la Roche), and
+PRIMA-1MET/Apr-246 identified by us (22). High attrition
+rate of novel drugs observed during later stages of clinical
+trials due to unfavorable pharmacokinetics or toxicity
+demand the search for novel compounds targeting p53.
+Rescue of wild-type p53 in neuroblastoma by nutlin3a
+has been reported (23, 24), supporting the idea that reactivation
+of p53 by small molecules could be a good strategy
+to combat neuroblastoma. Nutlin3a is highly selective:
+sensitivity to nutlin-3a was highly predictive of absence of
+p53 mutation (25). However, recent study shows that
+continuous treatment with nutlin-3a confers selective pressure
+for p53 mutations, resulting in resistance (27). Moreover,
+p53-mutated nutlin-3a–resistant neuroblastoma cells
+display an MDR phenotype (26). Emergence of nutlin3aresistant
+clones via de novo p53 mutations was observed also
+in osteosarcoma and colon carcinoma (27). Expression of
+mutant p53 in neuroblastoma is known to result in establishment
+of a MDR phenotype (10), thus it is imperative
+that anticancer drugs and/or their combinations be developed
+that target both wild-type and mutant p53.
+In this study, we report that the small molecule RITA
+causes disruption of p53/MDM2 and MDMX complex and
+induces apoptosis in a set of neuroblastoma cell lines.
+However, in contrast with nutlin-3a, which does not inhibit
+the growth of mutant p53-expressing neuroblastoma (23),
+RITA can reactivate mutant p53 in neuroblastoma cell lines.
+In our previous study we have shown that RITA binds to
+the N-terminal domain of p53 and induces a conformational
+change which propagates from the N-terminus to the
+core and C-terminal domain. This prevents the binding to
+
+Reactivation of p53 by RITA in Neuroblastoma
+
+www.aacrjournals.org Clin Cancer Res; 19(18) September 15, 2013 5099
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+p53 of several inhibitors, including MDM2, iASPP, Parc,
+and E6-AP (28, 32). These observations imply that RITA
+treatment may affect the global folding of the p53 protein
+and thus might also affect the folding of mutant p53.
+Indeed, we have found that a broad range of p53 mutants
+were reactivated by RITA, including several hot spot
+
+mutants (31). Taken together with this study, our results
+promote the idea of developing compounds capable of
+simultaneously targeting wild type and mutant p53. This
+type of compounds should reduce the chance of emergence
+of de novo resistance and enhance clinical success. Indeed, in
+line with our data on the ability of RITA to reactivate mutant
+
+Figure 5. Antitumor effect of RITA in
+SKN-DZ xenografts in mice. A
+(top), growth of SKN-DZ tumor
+xenografts in vivo upon injection of
+10 mg/kg RITA twice daily in
+comparison to vehicle treatment;
+(bottom) growth curves of
+individual tumors upon RITA or
+vehicle treatment. B, pictures taken
+from excised SKN-DZ tumors
+treated or nontreated with RITA.
+C (left), comparison of the weight of
+SKN-DZ tumors treated and
+nontreated with RITA; (right), body
+weight of mice before and after
+treatment with RITA. D, treatment
+with RITA decreased the protein
+level of N-Myc and MCL-1 in vivo,
+as assessed by immunoblotting.
+
+Burmakin et al.
+
+5100 Clin Cancer Res; 19(18) September 15, 2013 Clinical Cancer Research
+
+Downloaded from http://aacrjournals.org/clincancerres/article-pdf/19/18/5092/2014936/5092.pdf by guest on 14 August 2024
+p53 in neuroblastoma, recent study using UKF-NB-3 neuroblastoma
+cells as a model does not suggest p53 mutations
+being the mechanism of acquired resistance to RITA, in
+contrast to nutlin3a (41). Interestingly, several p53-binding
+molecules that rescue mutant p53 have been shown to
+activate the function of wild-type p53 as well. These include
+CDB3 (42), SCH529074 (43), CP-3139 (44), and PRIMA1MET/Apr-246
+(45). At least some of them seem to inhibit
+the p53/MDM2 interaction via induction of a conformational
+change (43), although in most cases the mechanism
+remains elusive and awaits a detailed investigation.
+Amplification of the MYCN gene predicts poor prognosis
+and resistance of neuroblastoma to therapy. Inhibition of
+N-Myc is therefore regarded as a promising approach for the
+development of targeted therapies (3). Here, we have identified
+p53 as a potent inhibitor of N-Myc expression in
+neuroblastoma. We found that p53 activated by RITA
+induced the expression of its target Fbxw7, which has a
+critical function in proteasomal degradation of the N-Myc
+protein (37). Moreover, we showed that p53 represses the
+transcription of the antagonist of Fbxw7-mediated degradation
+of N-Myc, Aurora A (37). Aurora A is a negative
+prognostic factor and a potential therapeutic target in neuroblastoma
+(46), which, according to our recent study, is a
+bona fide p53 target (38). In addition, RITA treatment leads
+to the decrease of MDM2, which upregulates N-Myc (17).
+Taken together, our data suggest that reactivation of p53 by
+RITA causes inhibition of N-Myc via induction of its E3
+ligase Fbxw7. This might be further facilitated by transcriptional
+repression of Aurora A and inhibition of MDM2.
+It is possible that additional mechanisms of N-Myc
+inhibition by RITA might exist, as we did not detect N-Myc
+rescue upon mutant p53 silencing in SKN-BE(2) cells. For
+example, inhibition of TrxR1 by RITA might play a role (47).
+We would like to note, however, that the mutant p53
+silencing by 4 different RNAi constructs caused SKN-BE
+(2) cell death, limiting our analysis. We speculate that the
+survival of SKN-BE(2) cells might depend on mutant p53
+expression, due to gain-of-function of mutant p53. This
+limitation precludes a more vigorous analysis of N-Myc
+regulation by p53 in SKN-BE(2) cells.
+Our study reveals the ability of p53 to unleash the
+transcriptional repression of several major survival factors
+in neuroblastoma. Our data suggest that the repression of
+Bcl-2 and Mcl-1, reducing the cancer cell’s ability to buffer
+proapoptotic signal, might contribute to the robust induction
+of apoptosis in neuroblastoma by pharmacologically
+reactivated p53.
+Another factor downregulated in neuroblastoma cells by
+RITA-reactivated p53 is Wip1, encoded by the PPM1D gene
+at 17q, whose gain is associated with poor prognosis in
+neuroblastoma (5). Wip1 interferes with the DNA damage
+response and p53 activation by dephosphorylating crucial
+effectors, thus conferring resistance to standard treatments.
+It is overexpressed in different cancers and is important
+for the survival of tumor stem cells, which makes the
+development of Wip1 inhibitors an attractive strategy for
+therapy (48). The multitude of oncogenes, inhibited by
+
+RITA-reactivated p53 creates a robust p53 response. It might
+allow p53 to cope with the daunting challenge of anticancer
+therapy–multiple genetic abnormalities in individual cancers.
+Because tumors are often "addicted" to the oncogenes,
+such as increased expression of N-Myc, Wip1, Aurora A, Bcl2,
+orMcl-1, their inhibitionmight be an essential component
+of anticancer therapies targeting p53. Thus, the ability of
+reactivated p53 to inhibit several key oncogenes in neuroblastoma
+adds a new dimension to the mechanism of tumor
+suppression upon p53 activation by small molecules.
+RITA efficiently inhibited the growth of neuroblastoma
+tumor xenografts without the apparent toxicity. Notably,
+the morphology of tumors suggests that reactivation of p53
+by RITA is able to inhibit the growth of tumors’ blood
+vessels, in line with inhibition of potent proangiogenic
+factor N-Myc and previous studies suggesting that p53 can
+affect the transcription of several genes involved in angiogenesis
+(49). The effect of RITA on tumor blood vessels is
+very interesting and will be investigated further. Although
+we did not attempt to maximize the therapeutic response
+in vivo, it is conceivable that the dosing regimen and the
+schedule of treatment could be improved, for example, by
+the administration of higher dose (50–100 mg/kg, shown
+previously to be safe in mice; ref. 50).
+In conclusion, we showed that RITA is efficient and
+potent activator of both wild-type and mutant p53 and
+inducer of p53-dependent apoptosis in neuroblastoma
+in vitro and in vivo. Ablation of oncogenes driving neuroblastoma,
+in particularly, N-Myc, by pharamacologicaly
+reactivated p53 might be a very important factor for future
+application of p53-based therapy in neuroblastoma. Our
+study provides further support for the notion of using
+molecules reactivating p53 to combat neuroblastoma.
+
+Disclosure of Potential Conflicts of Interest
+No potential conflicts of interest were disclosed.
+

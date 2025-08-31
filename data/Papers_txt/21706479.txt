@@ -1,0 +1,780 @@
+ORIGINAL PAPER Journal of Pathology
+J Pathol 2011; 224: 564–574
+Published online in Wiley Online Library
+(wileyonlinelibrary.com) DOI: 10.1002/path.2925
+
+PARP inhibition induces BAX/BAK-independent synthetic lethality
+of BRCA1-deficient non-small cell lung cancer
+
+Ian Paul,1 Kienan I Savage,1 Jaine K Blayney,2 Elisabeth Lamers,1 Kathy Gately,4 Keith Kerr,6 Michael Sheaff,5
+Kenneth Arthur,3 Derek J Richard,7 Peter W Hamilton,1 Jacqueline A James,1 Kenneth J O’Byrne,2 D Paul Harkin,1
+Jennifer E Quinn1* and Dean A Fennell1,2*
+1 Centre for Cancer Research and Cell Biology, Queen’s University Belfast, UK 2 Centre for Biomedical Informatics, Queen’s University Belfast, UK
+3 Tissue Core Technology Unit, Queen’s University Belfast, UK
+4 Thoracic Oncology Research Group, St James’ Hospital, Dublin, Ireland 5 Department of Pathology, Barts and the London NHS Trust, London, UK
+6 Department of Pathology, University of Aberdeen, UK
+7 Institute of Health and Biomedical Innovation, Queensland University of Technology, Brisbane, Australia
+
+*Correspondence to: Dean A Fennell and Jennifer E. Quinn, Queens University Belfast, Centre for Cancer Research and Cell Biology, 97 Lisburn
+Road, Belfast BT9 7BL, Northern Ireland, UK. e-mail: d.fennell@qub.ac.uk; j.e.quinn@qub.ac.uk
+
+Abstract
+
+Evasion of apoptosis contributes to both tumourigenesis and drug resistance in non-small cell lung carcinoma
+(NSCLC). The pro-apoptotic BCL-2 family proteins BAX and BAK are critical regulators of mitochondrial
+apoptosis. New strategies for targeting NSCLC in a mitochondria-independent manner should bypass this common
+mechanism of apoptosis block. BRCA1 mutation frequency in lung cancer is low; however, decreased BRCA1
+mRNA and protein expression levels have been reported in a significant proportion of lung adenocarcinomas.
+BRCA1 mutation/deficiency confers a defect in homologous recombination DNA repair that has been exploited by
+synthetic lethality through inhibition of PARP (PARPi) in breast and ovarian cells; however, it is not known whether
+this same synthetic lethal mechanism exists in NSCLC cells. Additionally, it is unknown whether the mitochondrial
+apoptotic pathway is required for BRCA1/PARPi-mediated synthetic lethality. Here we demonstrate that silencing
+of BRCA1 expression by RNA interference sensitizes NSCLC cells to PARP inhibition. Importantly, this sensitivity
+was not attenuated in cells harbouring mitochondrial apoptosis block induced by co-depletion of BAX and BAK.
+Furthermore, we demonstrate that BRCA1 inhibition cannot override platinum resistance, which is often mediated
+by loss of mitochondrial apoptosis signalling, but can still sensitize to PARP inhibition. Finally we demonstrate
+the existence of a BRCA1-deficient subgroup (11–19%) of NSCLC patients by analysing BRCA1 protein levels
+using immunohistochemistry in two independent primary NSCLC cohorts. Taken together, the existence of
+BRCA1-immunodeficient NSCLC suggests that this molecular subgroup could be effectively targeted by PARP
+inhibitors in the clinic and that PARP inhibitors could be used for the treatment of BRCA1-immunodeficient,
+platinum-resistant tumours.
+Copyright  2011 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+
+Keywords: apoptosis; BAX; BAK; non-small cell lung cancer; BRCA1; predictive biomarker; PARP inhibitor; synthetic lethality
+
+Received 16 March 2011; Revised 7 April 2011; Accepted 13 April 2011
+
+Disclosure of potential conflicts of interest. DP Harkin holds stock in, and is president of, Almac Diagnostics, Craigavon, UK. P Hamilton is founder
+and shareholder of i-Path Diagnostics Ltd, Belfast, UK. All other authors of this manuscript have no conflicts of interest to declare.
+
+Introduction
+
+Synthetic lethality represents a novel therapeutic strategy
+in the treatment of cancer, as exemplified by
+the recent advent of poly(ADP-ribose) polymerase
+(PARP) inhibition in BRCA1 /2-mutated tumours. Inhibition
+of PARP, a single-strand (ssDNA) break-repair
+protein, leads to an accumulation of DNA doublestrand
+breaks, specifically in S-phase cells. Normally
+these breaks are repaired via homologous recombination
+(HR), a process requiring functional BRCA1 /2
+[1]. However, the dual loss of both PARP-mediated
+
+ssDNA repair upon PARP inhibition and defective
+HR, in BRCA-deficient cells, results in the accumulation
+of DNA damage and ultimately cell death [2–4].
+Currently it is unknown whether synthetic lethality
+due to inhibition of PARP-mediated DNA repair in
+HR-defective tumours requires mitochondrial apoptosis.
+The underlying mechanisms involved in cell
+killing, involving the accumulation of catastrophic
+DNA damage, would be predicted to induce cell death
+independently of the canonical mitochondrial death
+pathway. However, this hypothesis has not yet been
+fully investigated.
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+Synthetic lethal targeting of BRCA1-negative non-small cell lung cancer 565
+
+In contrast to breast and ovarian cancer, the mutation
+frequency of BRCA1 in non-small cell lung cancer
+(NSCLC) is low [5]. However, reduced BRCA1 mRNA
+and protein expression levels have been reported in
+both sporadic breast and ovarian cancer, indicating
+that these tumours may exhibit a ‘BRCAness’ phenotype
+[6]. Similarly, reduced BRCA1 mRNA and protein
+expression levels are observed in up to 44% of NSCLC
+adenocarcinomas through a number of mechanisms,
+such as promoter hypermethylation, and altered mechanisms
+of transcriptional regulation, such as hypoxiainduced
+E2F-mediated BRCA1 repression [7–9].
+Taron and colleagues [10] were the first to report that
+NSCLC patients with reduced BRCA1 mRNA expression
+levels derived a significantly greater overall survival
+benefit following platinum-based chemotherapy
+in comparison to patients with high BRCA1. Similarly,
+low levels of BRCA1 mRNA expression were correlated
+with prolonged survival in ovarian cancer [11].
+Indeed, the correlation between BRCA1 mRNA expression
+and clinical benefit following platinum chemotherapy
+in these retrospective studies has underpinned
+attempts to customize chemotherapy in NSCLC based
+on BRCA1 mRNA expression levels [12,13].
+More recently, absent/low BRCA1 protein expression,
+measured by immunohistochemistry, has been
+reported to predict for clinical outcome following
+chemotherapy in patients with ovarian cancer [14]. In
+support of this, multiple in vitro studies provide evidence
+that BRCA1-deficient breast and ovarian cancer
+cells lines display enhanced sensitivity to platinum
+agents [11,15]. Currently, there is also significant preclinical
+evidence to suggest that BRCA1-deficiency
+results in enhanced response to PARP inhibitors, such
+as olaparib [2,3,16]. A recent phase I clinical trial
+has reported significant anti-tumour activity in BRCA1
+germline mutation carriers following treatment with
+PARP inhibitor [4]. Phase II studies have provided positive
+proof of concept of the efficacy and tolerability
+of olaparib in BRCA-mutated advanced ovarian cancer
+and BRCA1 /BRCA2-mutated breast cancer [17,18].
+The preclinical efficacy of PARP inhibitors in NSCLC
+has yet to be investigated.
+Defects in apoptosis underpin drug resistance and
+is a hallmark of cancer [19,20]. Mitochondria are
+key regulators of apoptosis, with the multidomain
+proapoptotic BCL2 family members, BAX and BAK,
+being essential for the mitochondrial apoptosis pathway
+to function. Knockout of BAX and BAK results in
+multidrug resistance, highlighting their essential role
+in apoptosis [21]. Of significance, the pro-survival
+proteins BCl-X and MCL-1 are amongst the most
+commonly amplified in the cancer genome and provide
+another mechanism through which tumours can acquire
+defects in apoptosis [22].
+Overcoming resistance to chemotherapy in NSCLC
+is one of the major issues in the management of
+NSCLC patients. Therefore, developing therapeutic
+
+strategies that bypass the mitochondrial apoptosis pathway
+could help to overcome drug resistance, representing
+a major advance in lung cancer therapy.
+In the current study, we demonstrate that BRCA1-
+silencing in NSCLC cells results in synthetic lethality
+following treatment with the PARP inhibitor, olaparib.
+We also demonstrate that this mode of cell death is
+independent of the mitochondrial apoptosis pathway.
+Additionally, we demonstrate that siRNA-mediated
+depletion of BRCA1 in platinum-resistant NSCLC cell
+lines results in enhanced sensitivity to PARP inhibition.
+Finally, we identify a significant subgroup of BRCA1-
+immunodeficient NSCLC patients who display reduced
+or absent BRCA1 protein expression.
+
+Materials and methods
+
+Cell culture
+
+ATCC NCI-H1975 and NCI-H460 NSCLC cells were
+grown in Roswell Park Memorial Institute (RPMI)
+1640 medium supplemented with 10% fetal bovine
+serum (FBS) and 50 µg/ml penicillin–streptomycin
+(Life Technology Inc). NCI-H157 NSCLC cells were
+maintained in Dulbecco’s modified Eagle’s medium
+(DMEM) supplemented with 10% FBS, 1 mM sodium
+pyruvate and 50 µg/ml penicillin–streptomycin. All
+cell lines were maintained in a 5% CO2 incubator at
+37 ◦
+C.
+
+Generation of BAX- and BAK-silenced NSCLC cell
+lines
+Plasmids encoding shRNA sequences to BAX, BAK
+and non-targeting (NT) shRNA (SA Biosciences) were
+transfected into H460 NSCLC cells, using FuGene
+6 reagent (Roche) according to the manufacturer’s
+protocol. BAX plasmids with G418 antibiotic resistance
+selection marker, BAK plasmids with puromycin
+antibiotic resistance selection marker and separate NT
+plasmids bearing either G418 or puromycin antibiotic
+resistance selection markers were used. The
+cells were transfected in six-well plates and incubated
+with either 0.4 mg/ml G418 (Sigma Aldrich)
+or 2 µg/ml puromycin (Calbiochem). Discrete colonies
+were selected and screened by western blotting. Cells
+stably expressing shRNA targeting BAX were then
+retransfected with shRNA, targeting BAK to generate
+clones expressing stable knockdown of both BAX
+and BAK.
+
+siRNA transfections
+
+Cells were reversely transfected with 15 nM of either a
+BRCA1-siRNA oligonucleotide sequence or a scrambled
+control siRNA. All siRNA transfections were performed
+using Lipofectamine RNAi Max reagent (Invitrogen)
+according to the manufacturer’s instructions.
+Two independent BRCA1 siRNA oligonucleotides
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+566 I Paul et al
+
+were used in all experiments. BRCA1-siRNA1, as previously
+published [23] and BRCA1-siRNA2 were purchased
+from Qiagen (BRCA1_15). Clonogenic assays
+and western blotting were then performed as described
+below.
+
+BRCA1 over-expression
+
+A549 cells were transfected with a flag-tagged BRCA1
+construct (Fl4-BRCA1), a kind gift from Dr Richard
+Baer, Institute for Cancer Genetics and Department of
+Pathology, Columbia University, using electroporation
+with the Nucleofector Kit T (Amaxa Biosystems,
+MD, USA) according to the manufacturer’s protocol.
+Clonogenic assays and western blotting were then
+performed as described below.
+
+Western blotting
+
+H157, H460 or H1975 cells were scraped into medium
+and pelleted by centrifugation at 1500 rcf relative
+centrifugal force at 4 ◦
+C for 5 min. Whole-cell lysates
+were obtained by snap-freezing cells in RIPA lysis
+buffer [50 mM Tris, pH 7.4, 150 mM NaCl, 5 mM
+EDTA, 1% Triton X, 0.1% SDS and 1 mini-complete
+protease inhibitor tablet/10 ml (Roche Diagnostics,
+Indianapolis, IN, USA)]. Cell or mitochondrial lysate
+(25 µg) was loaded and resolved by SDS–PAGE gel,
+as previously described [24]. The primary antibodies
+used were: anti-BRCA1 AB-1 (MS110; Calbiochem);
+anti-α tubulin (Abcam, Cambridge, MA, USA); antiSMAC
+and anti-cytochrome c (Calbiochem); and
+anti-BAX, anti-BAK, anti-cleaved caspase-9 (Cell Signalling
+Technology, Danvers, MA, USA). The secondary
+antibodies used were goat anti-mouse HRP
+(DAKO P0447) and goat anti-rabbit HRP (DAKO
+P0448).
+
+Mitochondrial isolation
+
+Mitochondria were isolated from H460 stably expressing
+shRNA to BAX and BAK and treated with peptides
+indicated in the text, as described previously [24].
+
+Caspase 3/7 activity assay
+
+The Caspase-Glo 3/7 assay was obtained from Promega
+(Southampton, UK) and was performed according to
+the manufacturer’s instructions.
+
+Clonogenic assays
+
+Transiently transfected H460, H1975 and H157 cells
+were trypsinized 48 h post-transfection and seeded in
+six-well plates at a density of 2000 cells/well. Following
+transfection with either BRCA1 or scrambledcontrol
+siRNA oligonucleotides, cells plates were
+treated 24 h later with serial concentrations of the commercially
+available PARP inhibitor Olaparib-AZD2281
+(Axon Medchem). The cells were allowed to grow for
+approximately 8–10 days.
+
+DNA damage repair assays
+Cells transfected with control and BRCA1 siRNAs
+were plated onto glass coverslips 48 h post-transfection
+and allowed to attach for 24 h. The cells were then
+treated with 1 µM PARPi (Olaparib-AZD2281) for
+12 h. Following the removal of PARPi, the cells were
+washed thoroughly in fresh medium and allowed to
+recover in fresh medium for 12 h to allow DNA repair
+to occur. The cells were fixed in 4% paraformaldehyde/PBS
+and then permeabilized in 0.2% Triton
+X-100/PBS, then blocked in 3% BSA/PBS and stained
+with α-γ-H2AX (Millipore 05–636) diluted 1 : 10 000
+in 3% BSA/PBS. Following several PBS washes,
+the cells were stained with anti-mouse AlexaFluor
+486 (Invitrogen). Coverslips were then mounted with
+Vectashield containing DAPI (Vector Labs) and the
+γ-H2AX foci were counted and imaged using an epifluorescence
+microscope.
+
+Flow cytometry
+Cells were seeded 48 h post-transfection with siRNA,
+as described, at a density of 1 × 105 cells/well in
+six-well plates. The cells were treated after 24 h
+and allowed to grow for a further 48 h. Following
+treatment with cisplatin, DNA content was evaluated
+by propidium iodide staining of the cells, using a
+FacScaliber Flow Cytometer (Becton Dickinson), in the
+FL-2 channel to determine the percentage of cells with
+DNA content < 2 N.
+
+Tumour samples
+BRCA1 protein expression levels on human tissues
+were assessed using immunohistochemistry (IHC).
+Two tissue microarrays (TMAs) were constructed,
+consisting of two independent cohorts of surgicallyresected
+primary NSCLC tissue blocks with associated
+pathological evaluation and clinical follow-up. A total
+of 302 tumours were examined, with 113 tumours on
+the Belfast TMA and 189 tumours on the Dublin TMA.
+Appropriate ethical approval was obtained from the
+local research ethics committees to carry out this work.
+
+BRCA1 immunohistochemistry (IHC)
+TMA sections were deparaffinized by sequential incubations
+in xylene, followed by rehydration in ethanol.
+Endogenous peroxidise activity was blocked by incubating
+with 3% hydrogen peroxide solution for 10 min.
+Antigen retrieval was achieved by incubating with
+TRIS–EDTA buffer, pH 9.0, in a pressure cooker
+for 3 min at full steam. The slides were washed,
+followed by application of the primary antibody,
+BRCA1 Ab-1 (MS110; Calbiochem) at a 1 : 200 dilution
+in TRIS-buffered saline (TBS), pH 7.4, and
+incubation overnight at 4 ◦
+C. This clone has been
+reported previously to be highly sensitive and specific
+for the detection of BRCA1 in FFPE tissue using
+IHC [25,26]. Following TBS washes, an anti-mouse
+horseradish peroxidase-conjugated secondary antibody
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Synthetic lethal targeting of BRCA1-negative non-small cell lung cancer 567
+
+was applied (DAKO EnVision HRP labelled polymer)
+for 30 min. The sections were washed in TBS and
+3,3-diaminobenzidine
+(DAKO), applied to detect primary
+antibody binding. The reaction was observed until
+stained to satisfaction and the slides were washed using
+distilled water. The slides were counterstained with
+Mayer’s haematoxylin for 30 s, then ammonia water,
+before serial incubations in ethanol and xylene. All
+BRCA1 immunohistochemistry was performed within
+the Tissue Core Technology Unit at the Centre for Cancer
+Research and Cell Biology at Queen’s University
+Belfast.
+
+BRCA1 scoring
+The BRCA1 IHC scoring of TMA slides was carried
+out using the PathXL TMA Toolbox (i-Path
+Diagnostics, UK), where pathologists could remotely
+access on-line, high-resolution whole-slide scans of
+the TMA, step through each core and keep track of
+progress using TMA navigation software, and visually
+score tissue IHC positivity using an on-screen interface,
+where these were stored centrally for review and
+analysis. Scoring of each TMA core was performed
+independently by two lung pathologists. BRCA1 scoring
+was determined using a binary approach and
+based on two previous reports [14,27]. Specifically,
+BRCA1-immunodeficent NSCLC tumours were classified
+as demonstrating either absent or very low
+levels of BRCA1 expression, with < 10% of cells
+exhibiting nuclear BRCA1 staining. However, BRCA1-
+immunopositive tumours were defined as those demonstrating
+> 20% of cells with nuclear staining. Only
+when the pathologists reached a consensus on IHC
+scores were they used. Where a consensus agreement
+could not be reached, patients were labelled ‘no consensus’.BRCA1
+IHC scores were combined with associated
+clinicopathological and survival data for further
+analysis. Progression-free survival analysis was carried
+out using Kaplan–Meier/log-rank test pairwise
+comparison testing; p < 0.05 was deemed significant.
+Statistical analysis GraphPad Prism version 5.00
+for Windows (GraphPad Software, San Diego, CA,
+USA; www.graphpad.com) was used for all statistical
+analyses.
+
+Results
+
+PARP inhibition mediates synthetic lethality
+in BRCA1-silenced NSCLC
+Previous preclinical reports have indicated that reduced
+BRCA1 expression confers sensitivity to cisplatin and
+other DNA-damaging agents [15]. We therefore investigated
+whether siRNA-mediated depletion of BRCA1
+conferred a similar phenotype in NSCLC cell lines.
+Accordingly, we confirmed abrogation of BRCA1
+expression using siRNA and correlated this with a significant
+increase in cisplatin-induced apoptosis in both
+
+the H460 (SC 9.2%, siBRCA1 17.6%) and H157 (SC
+2.6%, siBRCA1 6.9%) NSCLC cell lines (Figure 1A).
+We then proceeded to correlate BRCA1 expression
+with response to PARP inhibition, using clonogenic
+assays. Subsequently, siRNA-mediated inhibition of
+BRCA1 was confirmed and resulted in a significant
+reduction in colony formation following serial treatments
+with PARP inhibitor, as compared to scrambled
+control cells, in all three NSCLC cell lines (Figure 1B).
+Specifically, H157 NSCLC cells demonstrated almost
+a log-fold reduction in IC50 following BRCA1-siRNA
+silencing (SC 2.07 µM versus BRCA1 0.227 µM). In
+addition, H1975 cells demonstrated a seven-fold reduction
+in IC50 following BRCA1-siRNA (SC 1.39 µM
+versus BRCA1 0.193 µM) and H460 cells demonstrated
+a four-fold reduction in IC50 following BRCA1
+silencing (SC 1.06 µM versus BRCA1 0.25 µM), as
+shown in Figure 1B(i–iii).
+In breast cancer cells, synthetic lethality of PARP
+inhibition (PARPi) with BRCA1 deficiency is due to
+the combined defect in ssDNA repair and HR-mediated
+DNA repair, leading to the accumulation of DNA
+damage. In order to determine whether PARP inhibitormediated
+death is associated with defective DNA repair
+in NSCLC cells, we examined DNA repair efficiency
+by monitoring the presence of DNA damage-induced,
+γ-H2AX foci generated in response to PARP inhibition
+and 12 h after the removal of PARPi. DNA damage was
+assessed by counting γ-H2AX foci, which are wellcharacterized
+markers of DNA double-strand breaks
+[28]. PARP inhibition induced DNA damage equally
+in both control and BRCA1-siRNA transfected cells in
+both the H460 and H157 NSCLC cell lines (Figure 2A,
+B). In contrast, 12 h after the removal of PARPi,
+approximately 70% of BRCA1-depleted cells retained
+unrepaired DNA damage, in comparison to control
+cells, 90% of which had repaired PARPi-induced DNA
+damage (Figure 2A–D). This suggests that BRCA1-
+siRNA-depleted NSCLC cells are unable to repair
+PARPi-mediated DNA damage and likely die due to
+the accumulation of DNA damage.
+Following the observed effect of siRNA-mediated
+BRCA1 depletion and response to PARPi in NSCLC
+cell lines, we subsequently performed a rescue strategy
+using the A549 NSCLC cell line, which expresses relatively
+low levels of BRCA1. Transient over-expression
+of BRCA1 in A549 cells resulted in a reduction in
+response to PARPi as measured by clonogenic assay.
+Following treatment with an IC50 dose of PARPi, A549
+cells over-expressing BRCA1 exhibited a statistically
+significant increase (p = 0.029) in the cellular surviving
+fraction (71.2%) as compared to empty vector
+control transfected cells (47.8%) (data not shown).
+
+Co-silencing of BAX/BAK results in mitochondrial
+apoptosis block
+We then proceeded to examine whether mitochondrial
+apoptotic signalling was required for PARPi-induced
+synthetic lethality in BRCA1-siRNA-silenced NSCLC
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+568 I Paul et al
+
+Figure 1. BRCA1 silencing confers sensitivity to cisplatin and synthetic lethality following inhibition of PARP. (A) (left) western blot
+demonstrating siRNA mediated silencing of BRCA1 in H460 and H157 NSCLC cells, 48 h following transfection with scrambled (SC) or
+BRCA1 (siBRCA1) targeted siRNA; (right) apoptotic cells, indicated by sub-G0/G1 fraction, as assessed by flow cytometry of PI-stained H460
+and H157 cells, transfected as above, following 48 h treatment with 10 µM cisplatin. (B) siRNA-mediated silencing of BRCA1 confers
+sensitivity to PARP inhibition, resulting in a marked reduction in colony formation in H1975, H157 and H460 NSCLC cell lines. Clonogenic
+survival curves of H1975, H157 and H460 NSCLC cells transfected with scrambled (SC) or BRCA1 (siBRCA1) targeted siRNA after 8–10 days
+of continuous exposure to PARP inhibitor.
+
+cells. In order to do this, we stably transfected H460
+cells with short hairpin RNAs (shRNAs) simultaneously
+targeting both BAX and BAK (H460shBAX/BAK)
+proteins, which are required for mitochondrial apoptotic
+signalling. Six clones were generated (sh-BAX/
+BAK1A–C and sh-BAX/BAK4A, C and F), expressing
+differing short hairpin RNA sequences targeting
+BAX and BAK, compared to control cells expressing
+two non-targeting shRNAs (sh-NTNT) (Figure 3A).
+Several tests were performed to confirm the functionality
+of the mitochondrial apoptotic block in
+shBAX/BAK cells. Treatment with staurosporine
+
+induced strong accumulation of cleaved caspase 9
+(p37) in the sh-NTNT clones, but no cleaved caspase 9
+appeared in the sh-BAX/BAK clones (Figure 3B). The
+sh-BAX/BAK clones also exhibited resistance to proapoptotic
+peptides corresponding to the BH3 domain of
+the pro-apoptotic protein BID (BH3BID). Isolated mitochondria
+from shBAX/BAK clones demonstrated the
+expected failure to release cytochrome c and SMAC
+into the supernatant fraction following incubation with
+BH3BID (Figure 3C). Finally, we confirmed the functionality
+of the sh-BAX/BAK cells by demonstrating
+significant attenuation in caspase-3 activity in response
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Synthetic lethal targeting of BRCA1-negative non-small cell lung cancer 569
+
+Figure 2. BRCA1 silencing leads to accumulation of PARPi-induced DNA damage. H460 (A) and H157 (B) cells were treated with vehicle
+(Untr) or 1 µM PARP inhibitor (PARPi) for 12 h to induce DNA damage. PARPi was then removed and the cells were fixed at 0 and 12 h
+following recovery. DNA damage was assessed by γ-H2AX staining and cells containing more than five DNA damage foci were scored.
+(C) Representative images of H460 cells stained with γ-H2AX, indicating DNA damage foci remaining 12 h after removal of PARPi inhibitor.
+(D) Representative images of H157 cells stained with γ-H2AX, indicating DNA damage foci remaining 12 h after removal of PARPi inhibitor.
+
+to treatment with R8BID, as compared to sh-NTNT
+cells (Figure 3D).
+
+PARPi-induced synthetic lethality in BRCA1 NSCLC
+cells occurs independently of BAX/BAK-mediated
+mitochondrial apoptosis
+Despite the presence of mitochondrial apoptosis
+block in H460 sh-BAX/BAK clones, siRNA-mediated
+inhibition of BRCA1 followed by PARP inhibition
+significantly reduced colony formation compared to
+scrambled control cells in all three H460 stably transfected
+clones, sh-NTNT (IC50: SC, 1.55 µM; BRCA1,
+0.33 µM), sh-BAX/BAK1C (IC50: SC, 1.68 µM;
+BRCA1, 0.37 µM) and sh-BAX/BAK4F (IC50: SC,
+1.32 µM; BRCA1, 0.19 µM). These results indicate
+that PARPi-induced synthetic lethality in BRCA1-
+siRNA-depleted NSCLC cell line models is independent
+of mitochondrial apoptosis signalling
+(Figure 4A–D).
+
+PARP inhibitor-induced synthetic lethality bypasses
+cisplatin resistance
+
+Cisplatin resistance is a major problem in the clinic
+and is associated with alterations in DNA repair and
+a block of downstream mitochondrial apoptosis signalling
+[24,29]. However, due to the finding that
+BRCA1 silencing-mediated PARPi sensitivity appears
+to be independent of the mitochondrial apoptosis pathway,
+we hypothesized that PARPi synthetic lethality
+would remain functional in cisplatin-resistant cells.
+We therefore explored whether NSCLC cells selected
+for cisplatin resistance, and harbouring defective mitochondrial
+signalling, would exhibit cross-resistance to
+PARP inhibitor-induced synthetic lethality mediated by
+BRCA1 silencing [24]. Cisplatin-resistant cells were
+derived from H460 cells as described previously [24]
+and were used to address this hypothesis.
+We confirmed that siRNA-mediated BRCA1 silencing
+resulted in sensitization of parental H460 cells
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+570 I Paul et al
+
+Figure 3. Mitochondrial apoptosis block induced by simultaneous
+silencing of BAX and BAK. (A) Western blot showing the relative
+levels of BAX and BAK expression in H460 cells stably expressing
+targeted shRNAs (sh-BAX/BAK) versus non-targeted control shRNAs
+(NTNT). (B) Western blot for cleaved caspase 9 in sh-NTNT and
+sh-BAX/BAK clones following 24 h treatment with 100 nM and
+250 nM staurosporine. Caspase 9 cleavage occurs in sh-NTNT
+but not sh-BAX/BAK clones. (C) Western blot showing SMAC and
+cytochrome c content in the isolated mitochondrial fraction and
+supernatant following incubation with 30 µM BH3BID for 30 min
+in H460 sh-BAX/BAK clones compared to non-targeting control
+(sh-NTNT). SMAC and cytochrome c is not released in response to
+BH3BID in sh-BAX/BAK clones, indicating failure of mitochondrial
+outer membrane permeabilization (MOMP). (D) Luminescent DEVDase
+assay measures caspase-3-like activity in sh-NTNT and shBAX/BAK
+cells 24 h after R8BID treatment, shown relative to
+time-matched control for each cell line. The increase in Casp3
+activity in the NTNT control is attenuated in sh-BAX/BAK cells.
+
+to platinum, as expected. However, BRCA1 silencing
+failed to induce sensitivity to platinum in the resistant
+H460CISPR cells, as measured by the degree
+of apoptosis [sub-G0/G1 population; Figure 5A(ii)]. In
+contrast, siRNA-mediated inhibition of BRCA1 in the
+H460CISPR cells resulted in significant sensitization
+following PARP inhibition, similar to that observed for
+the parental H460 cells (siBRCA1–H460CISPR PARPi
+IC50 = 0.63 µM: siBRCA1–H460 PAR PARP IC50 =
+0.25 µM) [Figure 5A(iii)]. Taken together, these data
+demonstrate that siRNA-mediated abrogation of
+BRCA1 expression does not restore platinum sensitivity
+
+to platinum-resistant cells but does result in enhanced
+response sensitization to PARP inhibition.
+
+A significant proportion of primary NSCLCs are
+BRCA1-immunodeficient
+Our current in vitro data indicate that BRCA1-deficient
+NSCLC cell line models are highly sensitive to
+the PARP inhibitor olaparib. In addition, BRCA1-
+mutated breast cancer patients are reported to respond
+well to treatment with PARP inhibitors [2–4]. Taken
+together, these data suggest that BRCA1-deficient
+NSCLC patients may also derive benefit from PARP
+inhibitor therapy. Currently, there is evidence of the
+existence of a subgroup of NSCLC patients with
+reduced BRCA1 mRNA expression levels who benefit
+from platinum-based chemotherapy [10]. However,
+there is currently no method routinely used in the
+clinic for identifying this subgroup of BRCA1-deficient
+NSCLC patients.
+We therefore set out to independently verify this subgroup
+of NSCLC patients in two separate cohorts, using
+an IHC-based approach. BRCA1 IHC was conducted
+on two independent TMAs representing two independent
+cohorts of primary NSCLC patients. The Belfast
+cohort represented 113 patients and the Dublin cohort
+represented 189 patients.
+In the Dublin cohort, 19% of primary NSCLC
+specimens were scored as BRCA1-immunodeficient,
+whereas in the Belfast cohort 11% of patients were
+scored as BRCA1-immunodeficient (Figure 5B, C). In
+both cohorts, BRCA1-immunodeficiency occurred in
+both squamous and non-squamous NSCLC. Combining
+data from both cohorts, BRCA1-immunodeficiency
+was relatively more frequent in non-squamous tumours,
+with 26.2% of these tumours classified as BRCA1-
+immunodeficient compared to only 8.7% of squamous
+tumours. (Table 1). Loss of BRCA1 expression was not
+found to be prognostically significant based on analysis
+of progression-free survival data (not shown).
+
+Discussion
+
+Non-small cell lung cancer is the most prevalent malignancy
+worldwide and is associated with 27% of cancer
+deaths in the UK. The rapid lethality of NSCLC is associated
+with significant de novo drug resistance, which
+has accounted for a therapeutic plateau over the last
+few decades [30]. In recent years, our understanding
+of how to treat NSCLC has undergone a paradigm
+shift, initiated by the identification of somatic activating
+mutations in the epidermal growth factor receptor
+(EGFR) [31,32]. Similarly, ELK4–ALK translocation
+[33] is associated with extreme preclinical sensitivity
+to respective ALK kinase inhibition in both preclinical
+and clinical settings. Additional molecular subclasses
+with associated somatic gene alterations have
+been discovered, predominantly in lung adenocarcinomas,
+and include mutations of BRAF [34], HER2
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Synthetic lethal targeting of BRCA1-negative non-small cell lung cancer 571
+
+Figure 4. Synthetic lethal killing bypasses the mitochondrial apoptosis block induced by BAX and BAK silencing. (A) Western blot showing
+siRNA-mediated silencing of BRCA1 in BAX/BAK-silenced H460 cells. Cells were transfected for 48 h with the indicated siRNA. (B–D)
+Clonogenic dose response assays for shNTNT, shBAXBAK 1C and shBAXBAK 4F cells transfected with control (SC) and BRCA1 targeting
+siRNAs (siBRCA1). PARP inhibition induces an equivalent degree of synthetic lethality, measured by clonogeneic survival, in BRCA1-silenced
+BAX/BAK-depleted cells in comparison to NTNT control cells.
+
+[35] and PIK3CA [36]. Continued identification of new
+molecular subclasses within NSCLC is paramount in
+improving the effectiveness of treatment of this disease.
+Apoptosis block contributes to drug resistance [19].
+The BCL-2 family of proteins constitute key regulators
+of mitochondrial apoptosis, with pro-apoptotic
+versus pro-survival members engaged in a rheostat-like
+functional interaction that regulates the propensity of
+tumour cells to initiate mitochondrial outer membrane
+permeabilization and apoptosis. The pro-survival proteins
+BCL-X and MCL-1 represent two of the most
+commonly amplified genes in the cancer genome [37].
+Targeting the pro-survival members of the BCL-2 family
+to derepress the pro-apoptotic machinery is one
+strategy that has been investigated extensively over
+several years, culminating in the discovery of bona fide
+BH3 peptidomimetics, such as ABT-263 [38]. Identifying
+efficient methods of overcoming mitochondrial
+apoptosis block, eg by BH3 peptidomimetics, has been
+an intensively researched therapeutic strategy that has
+yet to become a mode of treatment. A complementary
+strategy, however, could be to bypass the mitochondrial
+apoptosis pathway altogether, using novel pharmacological
+approaches.
+We hypothesized that exploiting a synthetic lethal
+strategy based on inhibition of PARP-mediated singlestranded
+break repair in BRCA1-immunodeficient cells
+[2,4] would lead to catastrophic DNA damage and
+therefore render the mitochondrial apoptosis pathway
+dispensible. In modelling ‘BRCAness’ by silencing
+BRCA1 expression, we confirmed the expected sensitization
+to PARP inhibition, as has been reported in
+the context of BRCA1 mutation or loss of BRCA2
+in breast cancer [2–4]. Silencing of BAX and BAK,
+although capable of completely blocking the mitochondrial
+apoptosis pathway, was unable to attenuate cell
+killing induced by PARP inhibition in BRCA1-silenced
+cells. This implies that the catastrophic levels of DNA
+damage that result from a combined defect in ssDNA
+
+repair and HR-mediated DSB repair is sufficient to kill
+without recourse to mitochondrial apoptosis signalling.
+Data from the Spanish Lung Cancer Group strongly
+suggests that reduced BRCA1 mRNA expression levels
+in NSCLC patients correlate with increased sensitivity
+to cisplatin [10], as was originally hypothesized from
+preclinical studies [11,15]. Accordingly, we were able
+to demonstrate that silencing of BRCA1, using siRNA,
+sensitizes cells to cisplatin. Additionally, NSCLC cells
+selected for resistance to cisplatin have previously
+been demonstrated to harbour defects in mitochondrial
+apoptotic signalling [24]. Given that PARPi-induced
+synthetic lethality in BRCA1-depleted NSCLC cells
+appears to be independent of this pathway, we hypothesized
+that BRCA1 depletion would still sensitize
+cisplatin-resistant cells to PARP inhibitor. Accordingly,
+selection for resistance to cisplatin did not prevent
+PARP inhibitor-mediated synthetic lethality. BRCA1
+levels in cisplatin-resistant cells were equal to those
+in parental cells. Silencing of BRCA1 alone did not
+restore sensitivity to these cells. Together with their
+sensitivity to PARP inhibition following BRCA1 silencing,
+this strongly suggests that DNA repair, associated
+with H460-resistant cells, also utilizes the single-strand
+break-repair pathway. This conserved reliance, as in
+parental cells, can be exploited by PARP inhibition to
+induce cell death. BRCA1 may therefore be a predictive
+marker of response to PARP inhibition in platinumresistant
+NSCLC. This provided a rationale for investigating
+whether sporadic NSCLC with absent or low
+levels of BRCA1 protein expression may represent an
+important subgroup with a high likelihood of responding
+to PARP inhibition.
+Using a cohort of primary NSCLC specimens, we
+have identified a molecular subset of non-small cell
+lung cancers (NSCLCs) that are BRCA1-immunodeficient.
+The exact mechanisms underlying BRCA1-
+immunodeficiency in sporadic breast, ovarian and
+prostate cancer and NSCLC remain unknown; however,
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+572 I Paul et al
+
+Figure 5. PARP inhibitor-induced synthetic lethality in BRCA1-silenced, platinum-resistant NSCLC cells. (A) (i) Western blot showing
+siRNA-mediated silencing of BRCA1 in H460 parental (H460 PAR) and cisplatin-resistant (H460 CISPR) cells transfected with scrambled
+(SC) or BRCA1 (siBRCA1)-targeted siRNA; (ii) apoptotic cells, indicated by sub-G0/G1 fraction as assessed by flow cytometry of PI-stained
+H460 PAR and H460 CISPR cells, transfected as above, following 48 h treatment with 10 µM cisplatin. BRCA1 silencing confers
+increased sensitivity to cisplatin-induced apoptosis in parental but not cisplatin-resistant cells; (iii) clonogenic dose– response assays
+after siRNA-mediated silencing of BRCA1 in H460 PAR and CISPR cells. PARP inhibition induces an equivalent degree of synthetic
+lethality in BRCA1-silenced H460 PAR (red) and H460 CISPR (blue) cells. (B) Representative images of BRCA1 immunohistochemistry,
+demonstrating positive (left panel) versus negative cores (right panel) in a tissue microarray. (C) Pie-charts summarizing the comparative
+BRCA1-immunodeficiency frequency in primary NSCLC specimens from the Belfast cohort (left) versus the Dublin cohort (right).
+
+Copyright  2011 Pathological Society of Great Britain and Ireland. J Pathol 2011; 224: 564–574
+Published by John Wiley & Sons, Ltd. www.pathsoc.org.uk www.thejournalofpathology.com
+
+ 10969896, 2011, 4, Downloaded from https://pathsocjournals.onlinelibrary.wiley.com/doi/10.1002/path.2925 by Cas - Shanghaitech University, Wiley Online Library on [02/09/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Synthetic lethal targeting of BRCA1-negative non-small cell lung cancer 573
+
+Table 1. Distribution of BRCA1 immunostaining by NSCLC
+histological subtype in both cohorts combined
+Distribution by histology
+Number (% of histological subtype)
+Squamous Non-squamous
+BRCA1-immunodeficient 15 (8.7) 34 (26.2)
+No consensus 16 (9.3) 16 (12.3)
+BRCA1-immunopositive 141 (82) 80 (61.5)
+Total 172 (100) 130 (100)
+
+epigenetic alterations, such as promoter methylation,
+have been reported to be a potential mechanism [8].
+In addition, interrogation of the tumorscape database
+reveals loss of BRCA1 copy number as a significant
+somatic event in NSCLC [39]. The BRCA1 mutation
+frequency, on the other hand, as revealed by the
+Cosmic database, is low at 0.3% [5]. Nonetheless,
+BRCA1 IHC presents a robust, relatively simple and
+cost-effective approach for identifying a subgroup of
+BRCA1-immunodeficient NSCLC patients who may
+derive benefit from treatment with PARP inhibitors.
+This biomarker assay now merits testing in the clinical
+trial setting.
+

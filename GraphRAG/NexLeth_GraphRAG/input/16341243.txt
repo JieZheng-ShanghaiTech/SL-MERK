@@ -1,0 +1,941 @@
+Hypoxia-inducible factor determines sensitivity to
+inhibitors of mTOR in kidney cancer
+
+George V Thomas1, Chris Tran2, Ingo K Mellinghoff3–5, Derek S Welsbie3, Emily Chan1, Barbara Fueger4,
+Johannes Czernin4 & Charles L Sawyers2–4,6
+
+Inhibitors of the kinase mammalian target of rapamycin (mTOR)
+have shown sporadic activity in cancer trials, leading to
+confusion about the appropriate clinical setting for their use.
+Here we show that loss of the Von Hippel-Lindau tumor
+suppressor gene (VHL) sensitizes kidney cancer cells to the
+mTOR inhibitor CCI-779 in vitro and in mouse models. Growth
+arrest caused by CCI-779 correlates with a block in translation
+of mRNA encoding hypoxia-inducible factor (HIF1A), and is
+rescued by expression of a VHL-resistant HIF1A cDNA lacking
+the 5¢ untranslated region. VHL-deficient tumors show
+increased uptake of the positron emission tomography (PET)
+tracer fluorodeoxyglucose (FDG) in an mTOR-dependent
+manner. Our findings provide preclinical rationale for
+prospective, biomarker-driven clinical studies of mTOR
+inhibitors in kidney cancer and suggest that FDG-PET scans
+may have use as a pharmacodynamic marker in this setting.
+
+The mTOR kinase inhibitor CCI-779 induces objective responses in
+about 10% and disease stabilization in about 50% of individuals with
+metastatic renal carcinoma1. This finding of selective activity in a
+subset of individuals raises the possibility that responders share a
+common molecular phenotype that renders these tumors dependent
+on mTOR for growth and/or survival. The most common molecular
+abnormality in renal cell carcinoma is loss of VHL, which is found in
+about 50–70% of sporadic cases2. VHL encodes an E3 ligase that
+promotes the ubiquitination of the a-subunits of the hypoxiainducible
+transcription factors HIF1, HIF2 and HIF3, leading to
+their degradation by the proteasome. Consequently, renal carcinomas
+with mutations in VHL have high steady-state levels of HIF expression.
+Functional studies show that HIF is sufficient for transformation
+caused by loss of VHL, thereby establishing HIF as the primary
+oncogenic driver in kidney cancers3,4.
+HIF protein expression is dependent on mTOR in certain cellular
+contexts5,6. The 5¢ untranslated regions of mRNAs encoding both
+HIF-1a and HIF-2a contain 5¢ terminal oligopolypyrimidine (TOP)
+tracts that can regulate translation in response to S6 kinase activation7.
+Translation of mRNAs bearing 5¢-TOP sequences is dependent on
+mTOR because mTOR regulates a kinase cascade, involving S6 kinase
+
+and its substrate S6 ribosomal protein, which is required for efficient
+translation of these messages. This connection between translation of
+HIF and mTOR raised the possibility that the clinical activity of
+mTOR inhibitors in a subset of renal cell carcinoma may be explained,
+in part, by loss of VHL.
+We evaluated this possibility by constructing isogenic pairs of
+human renal carcinoma cell lines, differing only in VHL expression
+levels, using stable RNA knockdown by lentiviral transfer of VHLspecific
+shRNA (SN12C and SN12C-VHL shRNA; ACHN and ACHNVHL
+shRNA). As expected, VHL protein levels were reduced and
+HIF-1a and HIF-2a protein levels were increased in cells stably
+expressing the knockdown constructs (Fig. 1a), whereas vector-only
+and a control nonspecific shRNA sequence had no effect (Supplementary
+Fig. 1 online). Cells containing VHL-specific shRNA proliferated
+more rapidly than their isogenic parental counterparts
+(Fig. 1b), in keeping with previous reports that VHL addback to
+VHL-null cells suppressed growth8,9. Protein levels of the HIF target
+genes, SLC2A1 (encoding glucose transporter-1), CA9 (carbonic
+anhydrase-9) and VEGF (vascular endothelial growth factor), were
+all increased in VHL knockdown cells, even under normoxic conditions
+(Fig. 1a and Supplementary Fig. 2 online10,11).
+To assess the role of mTOR in proliferation mediated by knockdown
+of VHL, we exposed both isogenic human kidney tumor cell line
+pairs to the mTOR inhibitor CCI-779. Parental cells were unaffected
+by 10 nM CCI-779, whereas growth of cells treated with SN12C-VHL
+shRNA (similar results seen with ACHN-CSCG and ACGB-VHL cells;
+data not shown) was reduced by 70% in a dose-dependent fashion.
+When the isogenic lines were grown as subcutaneous xenografts in
+SCID mice, stable knockdown of VHL again conferred a growth
+advantage and increased sensitivity to mTOR inhibition even though
+there was efficient biochemical blockade of mTOR in parental and
+VHL knockdown xenografts (Fig. 1c–e). The growth of two renal
+carcinoma cell lines from the NCI-60 panel with natural mutations in
+VHL (786-0 and A498) was also inhibited by CCI-779 (Supplementary
+Fig. 3 online).
+In addition to cell-autonomous effects, inhibitors of mTOR have
+antiangiogenic activity, as growth of endothelial cells is dependent
+on mTOR in certain settings12. Because angiogenesis is a central
+
+Received 23 August; accepted 4 November; published online 11 December 2005; doi:10.1038/nm1337
+
+1Department of Pathology and Laboratory Medicine, 2Howard Hughes Medical Institute, 3Department of Medicine, 4Department of Molecular and Medical
+Pharmacology, 5Crump Institute for Molecular Imaging, 6Department of Urology, David Geffen School of Medicine at UCLA, Los Angeles, California 90095, USA.
+Correspondence should be addressed to C.L.S. (csawyers@mednet.ucla.edu).
+
+122 VOLUME 12 [ NUMBER 1 [ JANUARY 2006 NATURE MEDICINE
+
+LETTERS
+
+© 2006 Nature Publishing Group http://www.nature.com/naturemedicine
+histologic feature of renal carcinoma, inhibitors of mTOR could also
+impair tumor growth through effects on tumor vasculature.
+Xenografts from VHL knockdown cell lines were more vascular
+compared to parental tumors (P o 0.0033), and treatment with
+CCI-779 led to a 50% decrease in microvessel density (Supplementary
+Fig. 2 online). Given that the proangiogenic gene VEGF is a target of
+HIF, the antiangiogenic properties of CCI-779 might also be a
+consequence of direct effects of the drug on tumor cells. Indeed,
+VEGF levels were increased in VHL knockdown cells and reduced by
+CCI-779 treatment in vitro and in vivo (Supplementary Fig. 2 online).
+Collectively, these experiments establish that loss of VHL sensitizes
+renal carcinoma cells to growth inhibition by inhibitors of mTOR.
+One potential mechanism is that translation of mRNA encoding HIF1a
+is blocked by inhibitors of mTOR in VHL-null cells because of 5¢
+TOP sequences in the HIF1A mRNA7. Yet mTOR is inhibited during
+hypoxic conditions at a time when HIF-1a protein levels are constitutively
+elevated13, making it difficult to understand how mTOR
+might differentially affect expression of HIF-1a in these two contexts.
+To reconcile this apparent paradox, we examined the effects of CCI779
+on HIF protein levels in VHL-intact and VHL knockdown cells
+under both normoxic and hypoxic conditions. As expected13, HIF
+protein expression was increased in VHL-intact cells by hypoxia, and
+baseline mTOR activity was reduced compared to normoxia (Supplementary
+Fig. 4 online). Expression of HIF-1a and HIF-2a was
+reduced within 16 h, under both normoxic and hypoxic conditions,
+after treatment with CCI-779. Similarly, treatment with CCI-779
+
+reduced the expression of HIF-2a and protein products of the HIF
+target genes SLC2A1, CA9 and VEGF. VEGF was similarly reduced.
+These changes correlated precisely with inhibition of mTOR, as
+measured by reduced phosphorylation of downstream substrates
+eIF4G and S6 (Fig. 2a,b). Therefore, inhibition of mTOR caused by
+treatment with CCI-779 impairs expression of HIF under both
+normoxic and hypoxic conditions. A possible explanation for the
+persistent high levels of HIF during hypoxia despite reduced mTOR
+activity is that the magnitude of mTOR inhibition induced by hypoxia
+is insufficient to block expression of HIF (Supplementary Fig. 4).
+To address the mechanism by which CCI-779 reduces expression of
+HIF, we examined levels of mRNA encoding HIF and protein stability
+after treatment with CCI-779. There was no effect on HIF1A mRNA
+(Fig. 2c). Potential effects on HIF protein stability were assessed in two
+ways. The proteasome inhibitor MG-132 did not rescue HIF-1a levels
+in CCI-779–treated VHL knockdown cells, implying that CCI-779
+does not induce degradation of HIF (Fig. 2d). Furthermore, CCI-779
+did not alter the half-life of HIF in VHL knockdown cells in
+cycloheximide-treatment experiments (Supplementary Fig. 5 online).
+Therefore, we focused our attention on translation of mRNA encoding
+HIF-1a through 5¢ TOP regulatory sequences. Insertion of native
+HIF1A 5¢ TOP sequences into a luciferase reporter conferred CCI-779
+sensitivity to reporter protein expression (Fig. 2e). We obtained
+similar findings when we placed the native 5¢ TOP sequence upstream
+of a HIF1A cDNA. CCI-779 treatment resulted in a dose-dependent
+decrease in HIF-1a (by 65%) in the presence of the 5¢ TOP sequence,
+
+a d
+
+e
+
+b
+
+c
+
+SN12C
+
+SN12C
+CSCG
+
+SN12C-CSCG
+
+SN12C
+CSCG
+
+Vehicle
+
+Vehicle
+
+Vehicle
+
+TV (fold)
+TV (fold)
+4
+3
+2
+1
+0
+
+20
+
+15
+
+10
+
+5
+
+0
+1 15 29 42 1 4 8 11
+
+ACHN ACHN-CSCG ACHN-VHL shRNA
+
+CCI (0.1 mg/kg)
+
+CCI (0.1 mg/kg)
+
+CCI (0.1 mg/kg)
+Vehicle
+CCI (0.1 mg/kg)
+
+Vehicle CCI (0.1 mg/kg)
+Days
+
+A B C D E F GH
+
+p-S6
+
+Actin
+p-S6
+Actin
+
+TV (fold)
+TV (fold)
+
+Vehicle
+
+CCI (0.1 mg/kg)
+
+SN12C-VHL shRNA
+
+SN12C
+VHL shRNA
+ACHN
+CSCG
+ACHN
+VHL shRNA
+
+SN12C
+VHL shRNA
+
+V
+
+VHL
+
+HIF-1α
+
+HIF-2α
+
+GLUT-1
+
+CA-IX
+Actin
+
+shRNA V
+
+VHL
+
+HIF-1α
+
+HIF1-α
+
+GLUT-1
+
+Actin
+
+Actin
+
+A B CD E F G H
+
+shRNA
+30 kDa
+
+19 kDa
+
+5
+
+Cell number × 106
+4
+
+3
+
+2
+
+1
+
+0
+
+3
+
+2
+
+1
+
+0
+0 5 10 15
+Days
+0
+0
+5
+10
+15
+20
+25
+
+20 5 10 15
+
+CCI-779 0
+(nM)
+1 10 0 1 10
+
+Figure 1 Effects of VHL knockdown on sensitivity to CCI-779.
+(a) Immunoblotting of lysates derived from shRNA and control (empty
+vector, V) in SN12C, using antibodies against VHL (both isoforms
+detected), HIF-1a, HIF-2a, GLUT-1, CA-IX and b-actin (as a loading
+control). (b) SN12C-CSCG and SN12C-VHL shRNA cells (1  105)
+were cultured in 10% serum-rich media, in the presence of vehicle, 1
+or 10 nM of CCI-779 for 5 d. Cell growth was measured by cell counts
+(n ¼ 3). Similar results were seen with ACHN-CSCG and ACHN-VHL
+shRNA cells (data not shown). (c) SN12C-CSCG and SN12C-VHL
+shRNA cells were injected into SCID mice at a dose of 1  106 cells
+per mouse (n ¼ 30). When tumor volume reached 150 mm3, mice were
+randomized to daily treatment with vehicle or 0.1 mg/kg of CCI-779.
+The change in tumor volume is plotted. Phosphorylated S6 protein in
+SN12C-CSCG and SN12C-VHL shRNA xenograft tumors treated with
+vehicle or 0.1 mg/kg of CCI-779 was measured by immunoblot. Equal
+loading was verified by actin immunoblots. (d) Stable VHL knockdown
+in ACHN cells resulted in similar upregulation of HIF-1a and enhanced
+sensitivity to CCI-779. (e) Basal levels of HIF-1a in SN12C-CSCG,
+SN12C-VHL shRNA, ACHN-CSCG and ACHN-VHL shRNA xenograft
+tumors was measured by immunoblot.
+
+LETTERS
+
+NATURE MEDICINE VOLUME 12 [ NUMBER 1 [ JANUARY 2006 123
+
+© 2006 Nature Publishing Group http://www.nature.com/naturemedicine
+but a 38% decrease in HIF-1a without the 5¢ TOP (Fig. 2f). Although
+5¢ TOP sequences clearly account for some of the effects of CCI-779
+on levels of HIF-1a, additional sequences in the HIF1A cDNA may
+also have a role.
+These experiments establish that CCI-779–mediated growth inhibition
+of VHL-deficient renal carcinoma cell lines correlates with
+reduced translation of mRNA encoding HIF. Prior work showed
+that HIF mutants resistant to VHL-mediated degradation can rescue
+VHL-mediated tumor suppression. To provide functional evidence
+that reduced HIF levels are responsible for decreased growth in CCI779–treated
+cells, we transduced SN12C VHL knockdown cells with
+VHL-resistant HIF1A or HIF2A mutant cDNAs lacking the 5¢ TOP
+sequences3,14. As expected, both HIF mutants (and downstream target
+genes) were stably expressed in the presence or absence of CCI-779,
+despite inhibition of mTOR as measured by phosphorylation of eIF4G
+and S6 (Fig. 3a). Notably, both mutants rescued VHL knockdown cells
+from the growth-inhibitory effects of CCI-779 treatment in vitro
+(Fig. 3b) and in xenograft experiments (Fig. 3c). Therefore, the
+antiproliferative activity of mTOR inhibitors in VHL-null kidney
+cancer cells is mediated through its effect on translation of mRNA
+encoding HIF.
+These results have important implications for clinical trials of CCI779
+in renal carcinoma as VHL status could serve as a biomarker for
+subject selection. VHL data were not collected in the completed phase
+2 studies in renal cancer, but estimates of the frequency of mutation in
+VHL can be made from historical data. The anticipated VHL mutation
+rate (B50%) is clearly higher than the objective response rate
+
+(B10%) but comparable to the stable disease rate (B50%). As we
+observed growth arrest (not tumor regression) in our preclinical
+models, stable disease may be the expected clinical outcome with
+inhibitors of mTOR in this setting. Alternatively, additional molecular
+lesions such as expression of Bcl-2 could mitigate the response to
+inhibition of mTOR15. In either case, our findings provide preclinical
+rationale for correlating VHL status with clinical response in future
+trials, as this might guide future subject selection.
+Clinical decision-making would be greatly enhanced by a noninvasive
+tool for monitoring VHL status and response to inhibition of
+mTOR. Genes of the glycolytic pathway (including SLC2A1) were
+recently linked to activation of HIF in an AKT-driven model of
+prostate cancer15. These findings raise the possibility that HIF-driven
+tumors might accumulate fluorodeoxyglucose (FDG), the widely used
+clinical tracer for positron emission tomography (PET). We compared
+18F-FDG uptake in both VHL knockdown xenograft models relative to
+parental tumor cells. VHL knockdown tumors in both models grown
+as subcutaneous flank masses reproducibly showed at least a twofold
+increase in FDG uptake that was reduced to baseline within 24 h with
+CCI-779. In contrast, paclitaxel had no effect on the FDG-PET uptake,
+suggesting an mTOR-specific effect (Fig. 4). Clinical PET studies in
+individuals with kidney cancer indicate that a substantial proportion
+(B50–70%) of these tumors are FDG avid16, consistent with the
+expected frequency of VHL loss. These results raise the possibility that
+FDG-PET scanning could be used to noninvasively document inhibition
+of mTOR in individuals with renal carcinoma before and shortly
+after initiation of mTOR inhibitor therapy, analogous to the use of
+
+a b
+
+c d
+
+e f
+
+SN12C-CSCG
+
+0 1
+HIF-1α
+HIF-2α HIF-1α
+Actin
+
+HIF-1α
+
+Actin
+
+–
+–
+–
++
++
+–
++ MG-132
+CCI-779
+HIF-1α
+Actin
+
+Viral LTR coding region Viral LTR 5′ UTR coding region
+0 1 10 CCI-779 (nM)
+
+100 79 62 100 40 35
+
+0 1 10
+
+HIF-1α
+HIF-1α HIF-1α
+
+5′TOP
+
+Actin
+Percent
+of control
+(HIF-1α)
+
+GLUT-1
+
++
+–
+–
+–
++
++
+–
++
++
+
+GLUT-1
+
+CA-IX
+
+p-elF4G
+p-S6
+
+Actin
+
+CCI (nM) CCI (nM)
+
+10 0 1 10
+Hypoxia Hypoxia
+
+Hypoxia Hypoxia
+
+SN12C-VHL shRNA SN12C-CSCG
+
+Inducer:
+CCI-779 (nM) 0 1 10 0 1 10 0 1 10 0 1 10
+100 µM CoCl2 1% O2 100 µM CoCl2 1% O2
+
+Inducer:
+CCI-779 (nM) 0 1 10 0 1 10 0 1 10 0 1 10
+100 µM CoCl2 1% O2 100 µM CoCl2 1% O2
+
+SN12C-VHL shRNA
+
+SN12C-CSCG SN12C-VHL shRNA
+
+SN12C-CSCG
+
+VECTOR
+LUX
+5′TOP
+LUX
+
+SN12C-CSCG SN12C-CSCG
+
+SN12C-VHL shRNA
+
+ACHN-CSCG ACHN-VHL shRNA
+
+2
+
+1
+
+0
+CCI-779
+
+CCI-779 (nM) 0 10 0 10
+
+HIF-1α
+
+transcript number/18s
+
+Relative luciferase activity
+
+P = 0.30 P = 0.01
+
+– + –
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
++
+
+Figure 2 Regulation of HIF expression by mTOR.
+(a) SN12C-CSCG and SN12C-VHL shRNA cells
+were treated with vehicle, 1 nM or 10 nM
+CCI-779 under normoxic conditions and lysed 24
+h later. Lysates were immunoblotted for HIF-1a,
+HIF-2a, GLUT-1, CA-IX, phosphorylated eIF4G
+(p-eIF4G), phosphorylated S6 ribosomal protein
+(p-S6). (b) Immunoblot analysis of extracts from
+isogenic cells pretreated with vehicle, 1 nM or
+10 nM CCI-779 for 1 h, followed by exposure to
+hypoxia (CoCl2 or 1% oxygen) for 16 h. Results
+were reproduced in at least three independent
+experiments. (c) SN12C-CSCG and SN12C-VHL
+shRNA cells were exposed to either vehicle (–)
+or 10 nM CCI-779 (+) for 24 h. Total RNA was
+prepared and quantitative real-time PCR was
+performed on an ABI Prism 7700 sequence
+detector (Applied Biosystems). Data are presented
+as ratio of gene to 18S. (d) SN12C-CSCG and
+SN12C-VHL shRNA cells were treated with
+10 mM MG-132 for 16 h in the presence
+or absence of 10 nM CCI-779. (e) Stably
+transformed p-DLN (Vector-LUX, control) or
+p-DLN-HIF-1a-5¢ TOP (5¢TOP LUX) cells were
+plated in triplicate, treated with 10 nM of
+CCI-779 or vehicle for 24 h and luciferase activity
+was determined (normalized to total intracellular
+protein for each sample). Bars and error flags
+represent mean and s.d. from triplicate samples.
+(f) Expression of HIF-1a was probed by
+immunoblotting in SN12C–MSCV–5¢ TOP–HIF-1a
+cDNA (right panel) and SN12C–MSCV–HIF-1a
+cDNA (left panel) after 24 h of vehicle, 1 nM or
+10 nM CCI-779. The HIF-1a band intensities
+were quantified by densitometry, and the numbers
+below the bottom panel indicate percentage of the
+vehicle treated control for each dose.
+
+LETTERS
+
+124 VOLUME 12 [ NUMBER 1 [ JANUARY 2006 NATURE MEDICINE
+
+© 2006 Nature Publishing Group http://www.nature.com/naturemedicine
+this scan in individuals with gastrointestinal stromal tumor treated
+with imatinib17,18.
+Clinical activity has been reported in renal carcinoma using any one
+of several antiangiogenesis agents that target VEGF (bevacizumab) or
+its receptor VEGFR (SU11248, Bay 43-9006)19. Although inhibitors of
+mTOR also have antiangiogenic properties12, our results showing that
+HIF mutants rescue growth suppression caused by treatment of CCI779
+in mice argue that the antiangiogenic effects of mTOR inhibitors
+in renal carcinoma are mediated primarily through direct effects on
+tumor cells. Although the contribution of the microenvironment
+
+needs further study20, this mechanistic understanding provides a
+rationale for exploring combination therapy using inhibitors of
+mTOR and the VEGF-VEGFR pathway in renal cancer to block
+the effects of the activation of the HIF pathway (Supplementary
+Fig. 6 online).
+Prior work has shown that PI3 kinase–AKT pathway–driven transformation
+is dependent on mTOR because mTOR is a crucial
+component of a downstream kinase cascade, consistent with the
+notion of ‘pathway addiction’ in tumor cells21. Here we provide
+evidence for kinase dependence through a conceptually distinct
+mechanism. In renal cell carcinoma caused by loss of VHL, the crucial
+role of mTOR is not transduction of the oncogenic signal downstream
+of HIF. Rather, translation of HIF mRNA is dependent on mTOR
+owing to the presence of upstream regulatory signals in its 5¢
+untranslated region regulated by substrates of mTOR. This model
+predicts for a highly favorable therapeutic index because decreased
+translation of mRNA encoding HIF in normal tissues should be
+inconsequential, as HIF is already rapidly degraded through VHL. A
+similar mechanism might also be responsible for clinical activity of
+CCI-779 in mantle cell lymphoma, where the driving oncogenic lesion
+is presumed to be cyclin D1. Translation of CCND1 mRNA, which is
+
+HIF-1α
+
+HIF-1α mutant a
+
+b
+
+c
+
+0 1 10 0 1 10
+HIF-2α mutant
+
+HIF-2α
+
+GLUT-1
+
+CA-IX
+
+p-elF4G
+
+p-S6
+
+Actin
+
+VHL shRNA
+
+VHL shRNA-HIF2-αmutant-vehicle
+VHL shRNA-HIF2-αmutant-CCI (0.1 mg/kg)
+
+HIF-1α mutant HIF-2α mutant
+
+CCI (nM) CCI (nM)
+
+Days
+Tumor volume (fold change)
+
+0
+0
+1
+2
+3
+4
+5
+6
+7
+
+Cell number × 106
+
+CCI-779
+(nM)
+1 10
+
+30
+
+20
+
+10
+
+0
+0 4 8 12
+
+0 1 10 0 1 10
+
+CCI-779
+
+pre
+
+Mouse # 1
+
+High
+
+Low
+
+2.5 P = 0.01
+
+1.5
+
+0.5
+2
+
+1
+
+Tumor/liver (fold)
+
+0
+ACHN-CSCG ACHN-VHL shRNA
+
+Vehicle
+CCI-779
+Paclitaxel
+
+Mouse # 5
+
+Mouse # 2 Mouse # 6
+
+Mouse # 3 Mouse # 7
+
+Mouse # 4 Mouse # 8
+
+post pre post
+
+pre post pre post
+
+ACHN-CSCG
+
+Paclitaxel
+ACHN-CSCG
+Paclitaxel
+ACHN-VHL shRNA
+
+CCI-779 a ACHN-VHL shRNA
+
+b
+Figure 4 MicroPET imaging shows VHL and mTOR-dependent glucose
+uptake. (a) Representative cross-section 18F-FDG-PET images of SCID mice
+bearing isogenic ACHN xenograft tumors on the right flank before and after
+two doses of vehicle, CCI-799 (0.1 mg/kg) or paclitaxel (8 mg/kg). Arrows
+indicate the location of subcutaneous xenograft tumors (innate increased
+signal intensity resulting from the intrinsic increase in FDG uptake seen in
+mouse abdominal brown fat is observed). (b) Quantification of FDG uptake
+(± s.e.m.) in SCID mice bearing either ACHN vector or ACHN-CSCG VHL
+shRNA subcutaneous xenografts. Tumor 18F-FDG uptake was normalized to
+hepatic 18F-FDG uptake for each mouse and is expressed as fold difference
+compared to that of the vehicle-treated ACHN-CSCG xenografts; n = 3 per
+group. See Methods for further details.
+
+Figure 3 Rescue of CCI-779 growth suppression by HIF-1-a and HIF-2-a
+prolyl hydroxylase mutants. SN12C-CSCG-VHL shRNA cells stably infected
+with the prolyl hydroxylation defective cDNA mutants p-Babe-puro-HAHIF-1a
+(P564A), HIF-2a (P405A; P531A) or backbone vector were treated
+with CCI-779 or vehicle and harvested 24 h later. (a) Lysates were subjected
+to immunoblotting for HIF-1a, HIF-2a, GLUT-1, CA-IX, p-eIF4G, p-S6 and
+b-actin as loading control. (b) SN12C-VHL shRNA, SN12C–VHL shRNA–
+HIF-1a mutant, SN12C–VHL shRNA–HIF-2a mutant cells (1  105) were
+cultured in 10% serum-rich media, in the presence of vehicle, 1 or 10 nM
+of CCI-779 for 5 d. Cell growth was measured by cell counts (n ¼ 3).
+(c) SN12C–VHL shRNA–HIF-2a mutant cells were injected into SCID
+mice at a dose of 1  106 cells per mouse (n ¼ 16). When tumor volume
+reached 150 mm3, mice were randomized to daily treatment with vehicle
+or 0.1 mg/kg of CCI-779. The fold change in tumor volume is plotted.
+
+LETTERS
+
+NATURE MEDICINE VOLUME 12 [ NUMBER 1 [ JANUARY 2006 125
+
+© 2006 Nature Publishing Group http://www.nature.com/naturemedicine
+produced at increased levels as a consequence of the Bcl-1 translocation
+that defines these tumors, has also been shown to be dependent
+on mTOR in certain systems22. Future clinical trials of mTOR
+inhibitors might be guided by these distinct conceptual mechanisms
+of tumor dependence on mTOR.
+
+METHODS
+For details, see Supplementary Methods online.
+
+DNA constructs and PCR primers. We constructed the pCSUVCG (U6-
+shRNA-VHL-CMV-GFP) by ligating the BamHI/EcoRI digests of pCSCG and
+the U6-shRNA-VHL PCR product23. We performed the U6-shRNA-VHL PCR
+using a hU6-containing plasmid at an annealing temperature of 60 1C with the
+primers 5¢-GGGGGATCCCAAGGTCGGGCAGGAAGAGGGCCTATTTCC-3¢
+and 5¢-GGGGAATTCAAAAAGACCTGGAGCGGCTGACACTCCTTGAAGTG
+TCAGCCGCTCCAGGTCGGTGTTTCGTCCTTTCCACAAGATATATAA-3¢. We
+identified the native 5¢ untranslated region of HIF1A using Genebrowser, which
+contains previously identified TOP sequences7. Using human fetal brain cDNA
+(Marathon, Invitrogen) as template, we generated a 387-bp fragment containing
+268 bp of the 5¢ untranslated region and 119 bp of the coding region
+using the primers 5¢-GGGAGATCTGGGGACAGGAGGATCGCC-3¢ and 5¢-GG
+GAAGCTCATAAAAAACTTTAGATTC-3¢. We subcloned the PCR product into
+the PCR 2.1 TA cloning vector, verified it by sequencing and subsequently
+cleaved it with BglII and ligated it into the BglII site of the MSCV-puro-HIF1A
+cDNA, to create the HIF1A 5¢ TOP chimeric gene. We cleaved the HIF1A
+5¢ untranslated region PCR product with BglII/XhoI and subsequently
+ligated it directionally, 5¢ to the renilla luciferase–coding sequence of the
+pDL-N vector (gift from A. Dasgupta, University of California, Los Angeles).
+The prolyl hydroxylation–defective mutants of p-Babe-puro-HA-HIF-1a
+(P564A) and HIF-2a (P405A; P531A) were a gift from W.G. Kaelin (DanaFarber
+Cancer Institute).
+
+Immunoblot analysis and luciferase assays. We lysed cells and xenograft
+tumors in EBC lysis buffer (50 mM Tris, pH 8.0, 120 mM NaCl, 0.5% Nonidet
+P-40) or high-detergent buffer (2% SDS), respectively, and supplemented them
+with complete protease and phosphatase inhibitor cocktails (Calbiochem). We
+resolved protein extracts by SDS-PAGE and transferred them to nitrocellulose
+membranes. After blocking in Tris-buffered saline (TBS) with 5% nonfat milk,
+we probed the membranes with following: mouse VHL-specific monoclonal
+antibody (1:400, Oncogene Research Sciences), mouse HIF-1aspecific
+monoclonal
+antibody (1:250, BD Pharmingen), mouse HIF-2aspecific
+monoclonal
+antibody (1:500, Novus Biologicals), rabbit GLUT-1–specific polyclonal
+antibody (1:1,000, Alpha Diagnostic), rabbit CA-IX–specific polyclonal antibody
+(1:500, Novus Biologicals), rabbit phosphorylated eIF4G-S1108–specific
+polyclonal antibody (1:1,000, Cell Signaling), rabbit phosphorylated S6
+ribosomal protein S235/236–specific polyclonal antibody (1:1,000, Cell
+Signaling) or mouse b-actin–specific monoclonal antibody (1:5,000, Sigma),
+diluted in TBS with 4% BSA. We performed densitometric analysis using
+ImageQuant software.
+For hypoxia treatment, we placed cells into a modular hypoxia chamber
+(Billups Rothenburg) with a regulated environment of 1% O2, 5% CO2
+and 94% N2 or cobalt chloride (CoCl2, Sigma) stock solution (100 mM in
+water) for 16 h.
+We transfected SN12C-CSCG with either p-DLN-HIF-5¢ TOP (5¢ TOP LUX)
+or p-DLN Vector (Vector LUX) in the presence of Lipofectamine 2000
+(Invitrogen) followed by selection in G418. We assayed luciferase activity in
+triplicate, 24 h after treatment with either 10 nM CCI-779 or vehicle and
+normalized it to the intracellular protein concentrations within each sample.
+
+In vitro and in vivo growth experiments. We maintained SN12C, ACHN, 786-
+0 and A498 (NCI60, DTP); SN12C-CSCG, ACHN-CSCG, SN12C-CSCG-VHL
+shRNA and ACHN-CSCG-VHL shRNA in DMEM supplemented with 10%
+FBS. For in vitro experiments, we plated 5  104 cells and treated them with a
+single dose of 1 or 10 nM CCI-779 (gift of J. Gibbons, Wyeth) or vehicle
+(ethanol). On day 5 after treatment, we trypsinized cells, resuspended them
+in DMEM with 10% FBS and counted them using the VI-Cell XR automated
+cell-viability analyzer (Beckmann Coulter). We performed cell counts in
+
+triplicate and repeated them on at least three independent occasions. We
+measured in vivo tumorigenicity by subcutaneous injection of 5  105 SN12CCSCG,
+ACHN-CSCG, SN12C-CSCG-VHL shRNA, ACHN-CSCG-VHL
+shRNA, SN12C-CSCG-VHL shRNA-pBABE, SN12C-CSCG-VHL shRNApBABE-HA-HIF-2a
+(P405A; P531A) cells in 100 ml of Matrigel (Collaborative
+Biomedical) into the flanks of SCID mice. We measured tumor size weekly in
+three dimensions using calipers as previously described23. When tumors
+reached 200 mm3
+, we administered 0.1 mg/kg/d CCI-779 or vehicle to all
+tumors. All mouse experiments were performed in compliance with the
+guidelines of the Animal Research Committee of the University of California
+at Los Angeles.
+Micro-PET imaging. We synthesized 2-[18F]fluoro-2-deoxy-D-glucose (FDG)
+using a standard method24. We conducted PET scans with the MicroPET
+Primate 4-ring system (P4; Concorde Microsystems) as previously described.
+We administered CCI-779 intraperitoneally at a dose of 0.1 mg/kg every 12 h;
+similarly, we intraperitoneally injected paclitaxel (Sigma) (200 mg; 8 mg/kg)
+every 12 h. We injected mice intravenously with FDG (7.4 MBq) and imaged
+them 1 h after tracer injection for 15 min in three independent experiments.
+For image reconstruction, we first sorted list-mode data into three-dimensional
+sinograms, followed by Fourier rebinning and two-dimensional filtered backprojection
+(FBP) reconstruction using a Ramp filter with one-half of the
+Nyquist frequency as the cut-off frequency. The reconstructed spatial image
+resolution is B2.2 mm. For image analysis, we manually placed regions of
+interest (ROI) around the tumor and the liver on transaxial images. The tumor
+ROI was defined in the slice with maximum tracer uptake; we placed the liver
+ROI in the slice with the largest cross-sectional area of the hepatic blood pool.
+Tracer uptake by the tumors was expressed as the ratio between the maximum
+intratumoral and mean hepatic counts per pixel. All quantitative values are
+reported as mean ± s.e.m.
+URL. Genebrowser http://genome.ucsc.edu/cgi-bin/hgGateway.
+
+Note: Supplementary information is available on the Nature Medicine website.
+
+ACKNOWLEDGMENTS
+This work was supported by grants from the US National Cancer Institute (to
+G.V.T, I.K.M., C.L.S), the US Department of Defense (to G.V.T., I.K.M., C.L.S.)
+and Department of Energy (to I.K.M., J.C., C.L.S.). G.V.T. was also supported
+by grants from the University of California Cancer Research Coordinating
+Committee, the Stein-Oppenheimer Family Endowment, the Wendy Will Case
+Foundation and the STOP Cancer Foundation. I.K.M. was also supported by the
+UCLA Prostate SPORE seed grant. C.L.S. is a Doris Duke Distinguished Clinical
+Scientist and an Investigator of the Howard Hughes Medical Institute. We thank
+W.G. Kaelin, G.L. Semenza, J. Gibbons, S. McKnight, R. Bruick, O. Hankinson,
+A. Dasgupta, R. Strieter, M. Burdick, H. Wu and K. Ellwood-Yen for sharing
+reagents and advice; members of Sawyers laboratory for helpful discussions
+and technical assistance; B. Katz for administrative support; M. Costello for
+graphics support.
+
+COMPETING INTEREST STATEMENT
+The authors declare that they have no competing financial interests.
+Published online at http://www.nature.com/naturemedicine/
+Reprints and permissions information is available online at http://npg.nature.com/
+reprintsandpermissions/
+
+1. Atkins, M.B. et al. Randomized phase II study of multiple dose levels of CCI-779, a
+novel mammalian target of rapamycin kinase inhibitor, in patients with advanced
+refractory renal cell carcinoma. J. Clin. Oncol. 22, 909–918 (2004).
+2. Kim, W.Y. & Kaelin, W.G. Role of VHL gene mutation in human cancer. J. Clin. Oncol.
+22, 4991–5004 (2004).
+3. Kondo, K., Klco, J., Nakamura, E., Lechpammer, M. & Kaelin, W.G., Jr. Inhibition of
+HIF is necessary for tumor suppression by the von Hippel-Lindau protein. Cancer Cell
+1, 237–246 (2002).
+4. Maranchie, J.K. et al. The contribution of VHL substrate binding and HIF1-alpha
+to the phenotype of VHL loss in renal cell carcinoma. Cancer Cell 1, 247–255
+(2002).
+5. Hudson, C.C. et al. Regulation of hypoxia-inducible factor 1alpha expression and function
+by the mammalian target of rapamycin. Mol. Cell. Biol. 22, 7004–7014 (2002).
+6. Zhong, H. et al. Modulation of hypoxia-inducible factor 1alpha expression by the
+epidermal growth factor/phosphatidylinositol 3-kinase/PTEN/AKT/FRAP pathway in
+
+LETTERS
+
+126 VOLUME 12 [ NUMBER 1 [ JANUARY 2006 NATURE MEDICINE
+
+© 2006 Nature Publishing Group http://www.nature.com/naturemedicine
+human prostate cancer cells: implications for tumor angiogenesis and therapeutics.
+Cancer Res. 60, 1541–1545 (2000).
+7. Laughner, E., Taghavi, P., Chiles, K., Mahon, P.C. & Semenza, G.L. HER2 (neu)
+signaling increases the rate of hypoxia-inducible factor 1alpha (HIF-1alpha) synthesis:
+novel mechanism for HIF-1-mediated vascular endothelial growth factor expression.
+Mol. Cell. Biol. 21, 3995–4004 (2001).
+8. Chen, F. et al. Suppression of growth of renal carcinoma cells by the von Hippel-Lindau
+tumor suppressor gene. Cancer Res. 55, 4804–4807 (1995).
+9. Iliopoulos, O., Ohh, M. & Kaelin, W.G., Jr. pVHL19 is a biologically active product of
+the von Hippel-Lindau gene arising from internal translation initiation. Proc. Natl.
+Acad. Sci. USA 95, 11661–11666 (1998).
+10. Mandriota, S.J. et al. HIF activation identifies early lesions in VHL kidneys. Evidence for
+site-specific tumor suppressor function in the nephron. Cancer Cell 1, 459–468 (2002).
+11. Kaelin, W.G. Proline hydroxylation and gene expression. Annu. Rev. Biochem. 74,
+115–128 (2005).
+12. Guba, M. et al. Rapamycin inhibits primary and metastatic tumor growth by antiangiogenesis:
+involvement of vascular endothelial growth factor. Nat. Med. 8, 128–
+135 (2002).
+13. Arsham, A.M., Howell, J.J. & Simon, M.C. A novel hypoxia-inducible factorindependent
+hypoxic response regulating mammalian target of rapamycin and its
+targets. J. Biol. Chem. 278, 29655–29660 (2003).
+14. Aprelikova, O. et al. Regulation of HIF prolyl hydroxylases by hypoxia-inducible factors.
+J. Cell. Biochem. 92, 491–501 (2004).
+
+15. Majumder, P.K. et al. mTOR inhibition reverses Akt-dependent prostate intraepithelial
+neoplasia through regulation of apoptotic and HIF-1-dependent pathways. Nat. Med.
+10, 594–601 (2004).
+16. Hain, S.F. & Maisey, M.N. Positron emission tomography for urological tumours. BJU
+Int. 92, 159–164 (2003).
+17. Joensuu, H. Treatment of inoperable gastrointestinal stromal tumor (GIST) with
+Imatinib (Glivec, Gleevec). Med. Klin. (Munich) 97 Suppl. 1, 28–30 (2002).
+18. Gayed, I. et al. The role of 18F-FDG PET in staging and early prediction of response to
+therapy of recurrent gastrointestinal stromal tumors. J. Nucl. Med. 45, 17–21 (2004).
+19. Ferrara, N., Hillan, K.J., Gerber, H.P. & Novotny, W. Discovery and development of
+bevacizumab, an anti-VEGF antibody for treating cancer. Nat. Rev. Drug Discov. 3,
+391–400 (2004).
+20. Blouw, B. et al. The hypoxic response of tumors is dependent on their microenvironment.
+Cancer Cell 4, 133–146 (2003).
+21. Weinstein, I.B. Cancer. Addiction to oncogenes—the Achilles heal of cancer. Science
+297, 63–64 (2002).
+22. Rowinsky, E.K. Targeting the molecular target of rapamycin (mTOR). Curr. Opin. Oncol.
+16, 564–575 (2004).
+23. Chen, C.D. et al. Molecular determinants of resistance to antiandrogen therapy. Nat.
+Med. 10, 33–39 (2004).
+24. Satyamurthy, N., Amarasekera, B., Alvord, C.W., Barrio, J.R. & Phelps, M.E. Tantalum
+[18O]water target for the production of [18F]fluoride with high reactivity for the
+preparation of 2-deoxy-2-[18F]fluoro-D-glucose. Mol. Imaging Biol. 4, 65–70 (2002).
+
+LETTERS
+
+NATURE MEDICINE VOLUME 12 [ NUMBER 1 [ JANUARY 2006 127
+
+© 2006 Nature Publishing Group http://www.nature.com/naturemedicine

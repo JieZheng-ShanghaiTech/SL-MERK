@@ -1,0 +1,307 @@
+401
+
+Over recent years the investigation of DNA repair pathways
+is a very attractive area of research. It is well known that cells
+have a number of overlapping pathways to protect the genome
+from DNA damage. Mutations that occur within these pathways
+represent an increased risk of malignant transformation and
+chemotherapy resistance [1]. Despite much research has focused
+on protecting cells from DNA damage and restoring their repair
+function, the concept of „synthetic lethality“, that is, exploiting
+the vulnerability of tumor cells which have lost one DNA repair
+pathway by targeting a second repair pathway, is emerging and
+represents an interesting therapeutic approach [2].
+Breast cancer is the leading cause of cancer incidence and the
+second leading cause of cancer mortality in women. Germline mutations
+of the breast tumor suppressor genes BRCA1 and BRCA2
+have been found to contribute to the most of the familial breast
+cancer cases [3, 4]. Recent evidence suggests that tumor cells which
+have lost BRCA1 or BRCA2, components essential for DNA repair
+by homologous recombination (HR), are particularly sensitive to
+inhibitors of base excision repair pathway (BER) [5]. Poly(ADPribose)
+polymerase-1 (PARP-1) is an enzyme which plays an
+important role in the recognition and repair of single-strand DNA
+breaks (SSBs) via BER [6]. Thus, targeted therapy using PARP-1
+inhibitors has become an important novel strategy for treating
+tumor cells with deficiency in BRCA1 or BRCA2.
+
+BRCA1 and BRCA2. BRCA1 and BRCA2 play important
+roles in the repair of DNA double-strand breaks (DSBs) by HR.
+This error-free pathway is used to repair DSBs that occur in late
+S/G2
+ phase of the cell cycle as well as to repair DSBs resulting
+from unrepaired SSBs. BRCA1 signals the presence of DSBs,
+while BRCA2 has a direct role in repair itself by driving RAD51
+to the DSB site. Following recognition of DSBs, BRCA1 is phosphorylated
+and leads to activation of DSB repair by HR [7–9].
+In the absence of functional BRCA1 or BRCA2, cells become
+unable to undergo DNA repair by HR and activate the nonhomologous
+end joining and single-strand non-homologous
+end joining annealing pathways, which are error-prone and
+result in chromosomal instability or cell death (Figure 1).
+Poly(ADP-ribose) polymerase-1 (PARP-1). PARP-1 is the
+first characterized and the best known member of the PARP
+family, which currently comprises 18 members [10]. PARP-1 is
+an abundant nuclear enzyme implicated in cellular responses
+to DNA injury provoked by genotoxic stress, in transcriptional
+regulation, and in regulation of cell survival and cell death. It
+binds to nicked DNA as a homodimer and mediates protection
+of DNA. Upon binding to DNA breaks, it cleaves NAD+
+into nicotinamide and ADP-ribose moieties and polymerizes
+the latter through surface accessible glutamate residues
+onto nuclear acceptor proteins. When DNA is mildly damNeoplasma
+57, 5, 2010
+
+doi:10.4149/neo_2010_05_401
+
+PARP-1 inhibitors: a novel genetically specific agents for cancer therapy
+
+Minireview
+
+L. CIPAK1
+, S. JANTOVA2
+
+1
+Cancer Research Institute, Slovak Academy of Sciences, Bratislava, Slovakia, exoncip@savba.sk, 2
+Institute of Biochemistry, Nutrition and Health
+Protection, Faculty of Chemical and Food Technology, Slovak University of Technology, Bratislava, Slovakia
+
+Received February 5,2010
+
+The nuclear poly(ADP-ribose) polymerase-1 (PARP-1) represents an important novel target in cancer therapy. The enzyme
+is essential for single strand DNA breaks repair via base excision repair pathway. Inhibition of PARP-1 exerts „synthetic
+lethality“ effect towards the tumors with defects in DNA repair by homologous recombination, specifically the tumors with
+mutations in the breast cancer associated BRCA1 and BRCA2 genes. Recent clinical data confirmed the early in vitro studies
+and suggest that PARP-1 inhibitors could be used not only as chemosensitizers but as well as single agents to selective kill
+tumors with defective DNA repair by homologous recombination. Such concept of „synthetic lethality“ for tumors which have
+lost one DNA repair pathway by targeting a second DNA repair pathway, represents groundbreaking therapeutic strategy.
+The review highlights our current knowledge and ongoing clinical development/trials of PARP-1 inhibitors.
+
+Key words: PARP-1 inhibitor, BRCA1, BRCA2, DNA repair, synthetic lethality
+402 L. CIPAK, S. JANTOVA
+
+aged, PARP-1 is activated and participates in BER through
+formation of repair multiprotein complex with DNA ligase
+III, XRCC protein and DNA polymerase β. However, in the
+case of extensive DNA damage, PARP-1 is overactivated and
+induces a depletion of cellular NAD+ and ATP level, leading
+to cell dysfunction or necrotic cell death [11–13]. Moreover,
+tumor cells with low cellular ATP level are highly resistant to
+apoptosis due to its energetic requirements and in these cells
+antitumor drugs could induce cell demise by necrosis only.
+Interestingly, cells may be protected from necrosis by inhibition
+or inactivation of PARP-1 in the absence of extensive cell
+damage [14, 15].
+Due to the dual response of PARP-1 to DNA damage and
+its participation in cell death signaling, pharmacological
+modulation of PARP-1 activity constitutes a useful tool to
+increase the activity of DNA-binding antitumor drugs. This
+idea is supported by numerous studies demonstrating that
+PARP-1 inhibitors kill BRCA1 and BRCA2 deficient cells with
+extremely high efficiency while BRCA-competent cells are
+relatively unsensitive to the treatment [16–18]. It is therefore
+proposed that PARP-1 inhibitors are the long-sought genetically
+specific drugs that are both safe and effective for treating
+BRCA1 and BRCA2-associated breast cancers.
+PARP-1 inhibitors. The discovery of PARP-1 inhibitors
+was initially based on empirical, high-throughput screening,
+followed by optimization of chemical modifications based on
+structure-based design.
+First generation inhibitors, nicotinamide and 3-aminobenzamide
+(3-AB), were identified as competitive PARP-1
+inhibitors [19]. Nicotinamide is a weak PARP-1 inhibitor and
+at millimolar concentrations interferes with NAD+ synthesis.
+3-AB is more effective than nicotinamide, but has limited
+solubility in water. Futhermore, it has several drawbacks as
+drug candidate. It lacks the potency and specificity required
+to make it therapeutically useful, has limited intracellular accumulation
+and exerts non-specific actions, such as inhibition
+
+of mono and poly(ADP-ribosyl)ation reactions. In addition,
+the doses of the compound required for reaching an effective
+PARP-1 inhibition in vivo are too high for safe human
+administration. Therefore, nicotinamide and 3-AB are used
+mainly as experimental tools to investigate the biological role
+of PARP-1 activation in cellular processes [20, 21].
+The results of PARP-1 inhibition using first generation
+inhibitors and better understanding of the PARP-1 function,
+led to the development of second generation of potent PARP-1
+inhibitors, e.g. dihydroisoquinolinones and isoquinolinones.
+These drugs lack some drawbacks of first generation inhibitors.
+Their structure is based on the structure of 3-AB with
+the carboxamide group attached within a ring structure. They
+have improved PARP-1 inhibition compared to the 3-AB and
+are able to reduce DNA repair and enhance cell death when
+combined with anticancer drugs [22, 23].
+Taking into account the structural requirements for PARP1
+inhibition, the third generation inhibitors derived from
+benzamidazoles, e.g. benzimidazole-4-carboxamides and benzoxazole-4-carboxamides
+were designed and tested. Results
+proved that these compounds are considerably more active
+than 3-AB [24–26]. Additionally, the structurally modified
+derivative of these drugs, 2-(4-hydroxyphenyl)-1H-benzimidazole-4-carboxamide
+(NU1085), potentiates by about 3-fold the
+cytotoxicity of the monofunctional alkylating agent temozolomide
+and of the topoisomerase I inhibitor topotecan. Because
+of the potency, easy synthesis and good solubility in water, this
+drug has been adopted as a standard PARP-1 inhibitor [27].
+Another group of third generation inhibitors is represented by
+derivatives of phthalazin-1(2H)-one, particularly its methyl,
+ethyl or benzyl substituents. Biological evaluation of these
+compounds revealed that they are potent PARP-1 inhibitors
+with nanomolar inhibitory activity and good metabolic stability
+[28, 29]. Structurally related quinazolinones were derived
+from these phthalazinones through the union of the second
+ring nitrogen. Quinazolin-4-ones and quinazoli-2,4-dione
+
+Figure 1: Loss of DNA repair by homologous recombination pathway (HR) affects the choice of DNA double-strand break (DSB) repair pathway. In
+normal cells DSBs are repaired predominantly by HR. In HR-deficient cells alternative pathways, such nonhomologous end-joining (NHEJ) and singlestrand
+annealing (SSA) repair pathways, are activated.
+PARP-1 INHIBITORS IN CANCER THERAPY. MINIREVIEW 403
+
+show PARP-1 inhibition, with IC50 values of about 10 μM [30].
+Most potent derivative 8-hydroxy-2-methylquinazolin-4(3H)-
+one (NU1025) is about 10-fold more effective than 3-AB, and
+enhances the action of alkylating agents (with IC50 value of 0.4
+μM) [31]. So far, phenanthridinones are reported as the most
+potent PARP-1 inhibitors [32]. For example N-(6-oxo-5,6-dihydrophenanthridin-2-yl)-2-(N,N-dimethylamino)
+acetamide
+(PJ 34) showed PARP-1 inhibition, with IC50 values from 0.3
+μM to 1 μM. Futhermore, this drug protects neuron against
+oxygen and glucose deprivation, and is also useful against
+various diseases including inflammatory processes and allergic
+encephalomyelitis [33].
+PARP-1 inhibitors as chemosensitizers. It has been shown
+that increased PARP-1 activity is one of the mechanisms by
+which tumor cells avoid apoptosis caused by DNA-damaging
+agents. As PARP-1 is essential for the repair of SSBs through the
+BER pathway, its inhibition sensitizes tumor cells to cytotoxic
+therapy (e.g. temozolomide, cisplatin, topoisomerase I inhibitors,
+or irradiation), which induce DNA damage that would
+normally be repaired through the BER pathway. A significant
+window seems to exist between the ability of PARP-1 inhibitors
+to potentiate therapeutic benefit versus potentiation of
+undesirable side effects. Interestingly, PARP-1 inhibitors have
+not potentiated agents that do not damage DNA. Moreover,
+there did not seem to be a correlation between the antitumor
+activity and the toxicity of the PARP-1 inhibitor-DNA damaging
+agent combinations. Instead, it looks like the toxicity and
+chemosensitization are driven by different mechanisms.
+PARP inhibitors in the treatment of DNA repair deficiencyrelated
+cancers. Despite PARP-1 inhibitors are promising
+chemosensitizers in combination with antitumor drugs, they
+appear to be particularly potent as well as single agents in
+patients who have defects in DNA repair. Usually, in normal
+cells, PARP-1 inhibition leads to failure of SSB repair, resulting
+
+in the formation of DSBs in the DNA when a replication fork
+encounters the SSBs [34]. Generated DSBs can be repaired by
+HR and the fidelity of the genome is maintained. However, if
+cells carry defects in BRCA1 or BRCA2, DSB repair by HR is
+defective, resulting in an attempted repair of the DSBs by the
+more error prone pathways. As a result, the cells acquire lethal
+levels of DNA damage and cellular viability is lost. The effect of
+this “synthetic lethality” represents a powerful tool to treat the
+tumor cells with defective of one DNA repair mechanism (e.g.
+HR) by ceasing the functionality of a second repair pathway
+(e.g. BER) [2]. As most BRCA1 and BRCA2 carriers have one
+normal allele, the inhibition of BER through the inhibition of
+PARP-1 should be preferentially selective for tumor cells. This
+idea was comfirmed by studies using different chemical classes
+of PARP-1 inhibitors [5, 16]. Results clearly demonstrated that
+both BRCA1 and BRCA2 deficient tumor cells are sensitive to
+inhibition of PARP-1, and that BRCA2 deficient cells are more
+than 1000 times more sensitive to nanomolar concentrations
+of PARP-1 inhibitors [17]. These studies confirmed that tumor
+cells with deficiency in BRCA1 and BRCA2 are sensitive to the
+mechanism of PARP-1 inhibition due to defective repair of
+DSBs by HR, whereas the rest of the patient’s cells are insensitive.
+Additionally, recent study showed that cells deficient in
+phosphatase and tensin homolog (PTEN), tumor supressor
+gene function in HR, are hypersensitive to PARP-1 inhibitors
+as well [35]. This suggests that assessment of PARP-1 inhibitors
+might be extended beyond BRCA-deficient cells to a larger
+group of patients that are defective in DNA repair by HR.
+PARP-1 inhibitors in clinical trials. The profound sensitivity
+of BRCA1 and BRCA2 mutant cells to PARP-1 inhibition has
+led to the development of a number of clinical trials to test the
+efficiency of this approach. Currently, several PARP-1 inhibitors
+have entered the clinical trials [36]. Their current status
+is summarized in Table 1.
+
+Table 1: PARP-1 inhibitors in clinical trials (according to http://clinicaltrials.gov/)
+
+Agent Combination with Disease Clinical status
+
+BSI-201 Irinotecan, topotecan, temozolomide, Advanced solid tumors, malignant Phase I - II
+gemcitabine, carboplatin/paclitaxel glioma, uterine carcinosarcoma
+Gemcitabine, carboplatin Triple negative metastatic breast cancer Phase II - III
+AG-014699 Single agent Locally advanced or metastatic breast cancer
+andadvanced ovarian cancer
+Phase II
+
+Carboplatin, paclitaxel, cisplatin Advanced solid tumors Phase I
+Pemetrexed
+INO-1001 Temozolomide Melanoma Phase I
+MK-4827 Single agent Advanced solid tumors Phase I
+KU-0059436 Carboplatin, paclitaxel, cisplatin Triple negative metastatic Phase I - II
+
+Phase I
+
+CEP-9722 Single agent Advanced solid tumors Phase I
+ABT-888 Temozolomide Metastatic breast cancer Phase II
+Carboplatin, topotecan Leukemia, myelodysplastic syndromes Phase I – II
+cyclophosphamide, doxorubicin
+Mitomycin C Metastatic solid tumors Phase I
+Temozolomide Melanoma, breast cancer Phase II
+Topotecan, carboplatin, paclitaxel Ovarian cancer Phase I - II
+404 L. CIPAK, S. JANTOVA
+
+The ongoing clinical trials focuse on the treatment of BRCA
+mutation carriers, particularly those with breast, ovarian, or
+prostate cancer, with PARP-1 inhibitors as single-agents or in
+combination with several DNA damaging agents. From the
+current data, it is becoming clear that PARP-1 inhibitors are
+useful chemosensitizers not only in patients whose tumors
+exhibit BRCA deficiency, but they are effective as well for
+those tumors exhibiting the HR defects in general, including
+triple-negative (estrogen-, progesterone-, HER2-receptor
+negative) breast cancer, known as an aggressive subtype of
+breast cancer.
+Resistance to PARP-1 inhibitors. Despite of the potency of
+PARP-1 inhibitors, the cancer cells could develop the resistance
+to these agents. Recent studies suggest that resistance
+of highly sensitive BRCA2 deficient cells to PARP-1 inhibitors
+is caused by genetic reversion that leads to restoration
+of open reading frame of BRCA2. Such cells become HR
+competent [37]. The identical mechanism of resistance was
+observed as well for carboplatin resistant tumors [38]. It
+is likely that a similar mechanism may cause resistance to
+PARP-1 inhibitors in BRCA1 mutation carriers. So far it is
+not yet clear whether a wide range of BRCA mutations can
+also be reverted in a similar fashion. Additionally, mutation
+reversion seems to be not the only route leading to PARP-1
+inhibitors resistance. Recent study showed that in addition
+to genes known to be involved in HR, some kinases such as
+MAPK12, STK36, STK22c and CDK5, also modify sensitivity
+of tumor cells to PARP-1 inhibitors [39]. That suggests,
+that other genes except of genes involved in HR might be
+used as well to sensitize the tumor cells to chemotherapy.
+Inhibition of these genes could increase the efficacy of
+PARP-1 inhibitors helping to prevent or even overcome
+PARP-1 resistance.
+In conclusion, PARP-1 inhibitors provide a major advance
+in the treatment of BRCA1 and BRCA2 associated
+breast cancers. Due to „synthetic lethality“ effect against
+tumor cells with deficiency in HR, they are the long-sought
+genetically specific drugs that are both safe and effective.
+Futher advancement in understanding of the molecular
+mechanism of HR deficiency in cells with no BRCA1 and
+BRCA2 mutations but with sensitivity to PARP-1 inhibitors,
+will be very useful for revealing full therapeutic potential
+of these inhibitors. Additionally, the ongoing preclinical research
+will undoubtedly help in discovery and development
+of new and more potent PARP-1 inhibitors with potential
+to futher improve response rates while causing fewer treatment-related
+toxicities.
+

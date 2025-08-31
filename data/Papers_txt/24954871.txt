@@ -1,0 +1,501 @@
+Lung Cancer 85 (2014) 152–160
+
+Contents lists available at ScienceDirect
+
+Lung Cancer
+
+journal homepage: www.elsevier.com/locate/lungcan
+
+CIP2A mediates erlotinib-induced apoptosis in non-small cell lung
+cancer cells without EGFR mutation
+
+Cheng-Yi Wanga,b,c,1, Ting-Ting Chao b,1, Fang-Yu Chang b, Yen-Lin Chend,
+Yi-Ting Tsai b, Hen-I Lina, Yuh-Chin T. Huange, Chung-Wai Shiauf
+, Chong-Jen Yug,∗,
+Kuen-Feng Chenh,i,∗∗
+a Department of Internal Medicine, Cardinal Tien Hospital, School of Medicine, Fu Jen Catholic University, New Taipei City 23148, Taiwan b Medical Research Center, Cardinal Tien Hospital, School of Medicine, Fu Jen Catholic University, New Taipei City 23148, Taiwan c Graduate Institute of Clinical Medicine, College of Medicine, National Taiwan University, Taipei 10002, Taiwan d Department of Pathology, Cardinal Tien Hospital, School of Medicine, Fu Jen Catholic University, New Taipei City 23148, Taiwan e Department of Medicine, Duke University Medical Center, Durham, NC 27710, United States f Institute of Biopharmaceutical Sciences, National Yang-Ming University, Taipei 11221, Taiwan g Department of Internal Medicine, National Taiwan University Hospital and National Taiwan University, Taipei 10002, Taiwan h Department of Medical Research, National Taiwan University Hospital, Taipei 10002, Taiwan i National Center of Excellence for Clinical Trial and Research, National Taiwan University Hospital, Taipei 10002, Taiwan
+
+a r t i c l e i n f o
+
+Article history:
+Received 25 February 2014
+Received in revised form 3 May 2014
+Accepted 29 May 2014
+
+Keywords:
+NSCLC
+CIP2A
+Erlotinib
+PP2A
+Apoptosis
+EGFR
+
+a b s t r a c t
+
+Background: Epidermal growth factor receptor (EGFR) inhibitors show favorable clinical response in some
+patients with non-small cell lung cancer (NSCLC) who have no EGFR mutation, indicating alternative
+mechanisms for their tumoricidal effects. We previously showed erlotinib, a selective EGFR antagonist,
+inhibited the growth of sensitive hepatocellular carcinoma cells by inhibiting the cancerous inhibitor of
+protein phosphatase 2A (CIP2A) pathway. The aim of this study was to determine if erlotinib can also
+inhibit the growth of NSCLC cells by inactivating the CIP2A-dependent signaling pathway.
+Methods: Four NSCLC cell lines (H358 H441 H460 andA549) were treated with erlotinib to determine their
+sensitivity to erlotinib-induced cell death and apoptosis. Expression of CIP2A and the downstream AKT
+were analyzed. The effects of CIP2A on erlotinib-induced apoptosis were confirmed by overexpression
+of CIP2A and knockdown of CIP2A gene expression in the sensitive cells and resistant cells, respectively.
+In vivo efficacy of erlotinib against H358 xenograft tumor was also determined in nude mice.
+Results: Erlotinib induced significant cell death and apoptosis in H358 and H441 cells, as evidenced by
+increased caspase 3 activity and cleavage of pro-caspase 9 and PARP, but not in H460 or A549 cells. The
+apoptotic effect of erlotinib in the sensitive H358 cells was associated with downregulation of CIP2A,
+increase in PP2A activity and decrease in AKT phosphorylation. Overexpression of CIP2A and AKT protected
+the sensitive H358 cells from erlotinib-induced apoptosis. Knockdown of CIP2A gene expression by siRNA
+enhanced the erlotinib-induced apoptotic in the resistant H460 cells that resembled the sensitive H358
+cells. Erlotinib also inhibited the growth of H358 tumors in nude mice.
+Conclusions: The CIP2A-dependent pathway mediates the tumoricidal effects of erlotinib on NSCLC cells
+without EGFR mutations in vitro and in vivo. CIP2A may be a novel molecular target against NSCLC for
+future drug development.
+© 2014 Elsevier Ireland Ltd. All rights reserved.
+
+∗ Corresponding author at: Department of Internal Medicine, National Taiwan
+University Hospital, No. 7, Chung-Shan South Road, Taipei 10002, Taiwan.
+Tel.: +886 2 23123456x62905; fax: +886 2 23582867.
+∗∗ Corresponding author at: Department of Medical Research, National Taiwan
+University Hospital, No. 7, Chung-Shan South Road, Taipei 10002, Taiwan.
+Tel.: +886 2 23123456x63548; fax: +886 2 23225329.
+E-mail addresses: jefferycjyu@ntu.edu.tw (C.-J. Yu), kfchen1970@ntu.edu.tw
+(K.-F. Chen). 1 These authors contributed equally to this manuscript.
+
+1. Introduction
+
+Lung cancer is the leading cause of cancer-related deaths worldwide
+and 80% oflung cancers are diagnosed as NSCLC [1]. Epidermal
+growth factor receptor (EGFR) gene mutations are identified in
+10–15% of Caucasian NSCLC patients and even higher percentages
+in Asian patients [2]. Patients with certain EGFR mutations, such as
+L858R and exon 19 deletion have a higher response rate to the EGFR
+
+http://dx.doi.org/10.1016/j.lungcan.2014.05.024
+0169-5002/© 2014 Elsevier Ireland Ltd. All rights reserved.
+C.-Y. Wang et al. / Lung Cancer 85 (2014) 152–160 153
+
+targeted drugs, such as gefitinib (Iressa) and erlotinib (Tarceva)
+[3–6]. However, some NSCLC patients without EGFR mutations still
+respond to gefitinib and erlotinib [7,8], suggesting that there may
+be mechanism(s) other than the EGFR-pathway that mediates the
+tumoricidal effects of gefitinib and erlotinib. The exact mechanisms
+are unclear.
+Cancerous inhibitor of protein phosphatase 2A (CIP2A) was originally
+identified as a cellular PP2A inhibitor that inhibits proteolytic
+degradation of c-MYC [9]. CIP2A is overexpressed in several human
+malignancies including HCC, gastric cancer, head and neck cancer,
+colon cancer, breast cancer, prostate cancer and non-small cell
+lung cancer [9–17]. Importantly, overexpression of CIP2A in NSCLC
+correlates with poor prognosis [14–16]. The decrease of CIP2A and
+downstream inactivation of the AKT pathway can inhibit proliferation
+and induce apoptosis in a variety of lung cancer cells [15].
+In our previous study, we showed that erlotinib, a selective EGFR
+inhibitor, inhibited the growth of sensitive hepatocellular carcinoma
+cells by causing CIP2A dependent PP2A activation and p-AKT
+downregulation, but not in resistant cells [18]. In this study, we
+hypothesized that the CIP2A-dependent p-AKT pathway mediates
+the anti-tumor activity of erlotinib in NSCLC cells.
+
+2. Materials and methods
+
+2.1. Cell lines and culture
+
+Four NSCLC cell lines were used in this study. The H358 cell line
+was obtained from the American Type Culture Collection (Manassas,
+VA) and the A549, H441, and H460 cell lines were from the
+Bioresource Collection and Research Center (Hsinchu, Taiwan). The
+characteristics of each cell lines are listed in Table 1. The NSCLC cell
+lines were kept in RPMI1640 (Invitrogen, Life Technologies, Saint
+Aubin, France) supplemented with 10% FBS (GIBO/Life Technologies,
+Grand Island, NY), 100 units/mL penicillin G, and 100 g/mLstreptomycin
+sulfate in a 37 ◦C humidified incubator with 5% CO2
+in air.
+
+2.2. Reagents and antibodies
+
+Erlotinib (Tarceva®) was purchased from Selleck chemicals
+(Houston, TX). For in vitro studies, erlotinib at various concentrations
+were dissolved in DMSO and then added to the cells
+in serum-free RPMI1640. PP2A inhibitor and activator were purchased
+from Sigma and Merck Millipore, respectively. Antibodies
+for immunoblotting such as anti-CIP2A, AKT and PARP were purchased
+from Santa Cruz Biotechnology (San Diego, CA). p-AKT
+(Ser473) and caspase-9 were from Cell Signaling (Danvers, MA).
+
+2.3. Cell viability assay and apoptosis analysis
+
+Four NSCLC cells were seeded in 96-well plates
+(3 × 103 cells/well). To determine cell viability and proliferation,
+10% WST-1 (water-soluble tetrazolium monosodium salt)
+(Cell Proliferation Reagent WST-1; Roche applied science, Indianapolis,
+IN) agent was added to the cell suspension in each well,
+
+incubated for 1–2 h, and quantified by measuring the absorbance at
+450 nm using a Biotek Synergy HT ELISA reader (Biotek, Winooski,
+VT) to calculate the optical density (OD) values. Apoptotic cells
+were measured by flow cytometry (sub-G1) and cell death was
+detected by Western blot. Caspase-3 activity was measured by
+caspase 3 assay kit (colorimetric) from Abcam (Paris, France).
+
+2.4. Overexpression of CIP2A
+
+CIP2A cDNA (KIAA1524) was purchased from OriGene
+(Rockville, MD). Briefly, following transfection, H358 cells were
+incubated in the presence of G418 (0.78 mg/mL) (Sigma–Aldrich,
+St. Louis, MO). After 8 weeks of selection, surviving colonies,
+i.e., those arising from stably transfected cells were selected and
+individually amplified. H358 cells with stable overexpression of
+CIP2A was treated with erlotinib, harvested, and processed for
+Western blot analysis.
+
+2.5. PP2A phosphatase activity
+
+Protein phosphatase 2A (PP2A) activity was measured in fresh
+cells as described previously [20] using PP2A DuoSet IC activity
+assay kit according to the manufacturer’s description (R&D Systems,
+Minneapolis, MN). Briefly, an immobilized capture antibody
+specific for the catalytic subunit of PP2A that binds both active and
+inactive PP2A was used. After washing, a substrate is added that is
+dephosphorylatedby active PP2Ato generate freephosphate, which
+is detected by a sensitive dye-binding assay using malachite green
+and molybdic acid.
+
+2.6. Gene knockdown using siRNA and cell transfection
+
+Smart-pool siRNA, including control (sc-37007), CIP2A and PP2A
+were purchased from Santa Cruz Biotechnology (San Diego, CA).
+Cells were transfected with siRNAto afinal concentration of 100 nM
+in six-well plates with the Dharma-FECT4 transfection reagent
+(Dharmacon, Chicago, IL). After 48 h, the medium was replaced and
+the cancer cells were irradiated and harvested for analysis by western
+blot and flow cytometry to measure apoptosis. CIP2A cDNA
+(KIAA1524) was purchased from OriGene (RC219918, Rockville,
+MD). Following transfection, H460 and H358 cells were incubated
+in the presence of 0.78 mg/mL G418 (Sigma–Aldrich, St. Louis,
+MO) to select the stably transfected clones. Those cells that stably
+expressed CIP2A-myc were used for treatment with erlotinib as
+indicated.
+
+2.7. Quantification of CIP2A gene expression
+
+Total RNA was extracted from H358 and H460 cells (approximately
+5 × 106) followed by erlotinib treatment using RNeasy
+mini kit (Qiagen, Gaithersburg, MD) then reverse transcribed by
+using QuantiTect Reverse Transcription Kit (Qiagen, Gaithersburg,
+MD). The real time quantitative PCR was performed on an Applied
+Roter-Gene 3000 detector (Qiagen, Gaithersburg, MD) with a specific
+primer set for each target gene and SYBR Green dye (Qiagen,
+
+Table 1
+Characteristic of the NSCLC cell lines used in this study with different mutation status.
+Cell line Subtype EGFR HER2 KRAS BRAF PIK3CA TP53 PTEN
+A549 Adenocarcinoma Wild Wild G12S Wild Wild Wild Wild
+H460 Large cell carcinoma Wild Wild Q61H Wild E545K Wild Wild
+H358 Adenocarcinoma Wild Wild G12C Wild Wild Null Wild
+H441 Adenocarcinoma Wild Wild G12V Wild Wild R158L Wild
+Source. This table was modified from Rikova et al. [31].
+Abbreviations: EGFR, epidermal growth factor receptor; HER2, human epidermal growth factor receptor 2; KRAS, Kirsten rat sarcoma viral oncogene homolog; BRAF, PIK3A,
+phosphoinositide-3-kinase, catalytic, alpha polypeptide; TP53, tumor protein p53; PTEN, phosphatase and tensin homolog.
+154 C.-Y. Wang et al. / Lung Cancer 85 (2014) 152–160
+
+Gaithersburg, MD) for detection as described in the manufacturer’s
+guidelines. The PCR primer sets for target genes were as follows:
+human CIP2A (Hs KIAA1524 QuantiTect Primer Assay, NM 020890)
+and human actin (Hs ACTB QuantiTect Primer Assay, NM 001101).
+An aliquot of each sample was analyzed by quantitative PCR for
+ˇ-actin to normalize for inefficiencies in cDNA synthesis and RNA
+input amounts. For each sample, the average threshold (Ct) value
+was determined from quadruplicate assays, and the Ct
+value was
+determined by subtracting the average ˇ-actin Ct value from the
+average CIP2A Ct value. Three independent experiments were performed
+to measure the levels of CIP2A of H358 cells with differential
+time treatment.
+
+2.8. Dual-luciferase reporter assay
+
+To verify the transcriptional activity between the erlotinibsensitive
+(H358) and erlotinib-resistance (H460) cells, the promoter
+activity of CIP2A was determined using the dual-luciferase
+reporter assay kit (Promega, Madison, WI). H358 and H460 cells
+were co-transfected in six-well plates with 2 g
+of DNA, including
+the luciferase reporter construct pGL4.17-CIP2A-promoter (firefly
+fluorescence reporter) and pRL-TK plasmid (renilla fluorescence
+reporter) as indicator for normalization of transfection efficiency,
+at a ratio of 9:1. Forty-eight hours post-transfection, the cells were
+add or not variously doses of erlotinib. After 24 h, cells lysed were
+collection and the luciferase activity was quantified according to
+the manufacturer’s instructions. Cells co-transfected with pGL4.17-
+basic plasmids combined with the pRL-TK were used as a negative
+control. The promoter activity was repeated three times in parallel
+for statistical analysis.
+
+2.9. Xenograft tumor growth
+
+Male NCr nude mice (5–7 weeks of age) were used. All experimental
+procedures using these mice were performed according
+to protocols approved by the Institutional Laboratory Animal Care
+and Use Committee of Cardinal Tien Hospital. Each mouse was
+inoculated subcutaneously in the dorsal flank with 1 × 107 H358
+cells suspended in 0.1 mL of serum-free medium containing 50%
+Matrigel (BD Biosciences, Bedford, MA). When tumors reached
+100–200 mm3, the mice received erlotinib (10 mg/kg) p.o. once
+daily. The controls received vehicle. The tumors were measured
+twice weekly using calipers and their volumes calculated using the
+following standard formula: width × length × height × 0.523 [18].
+
+2.10. Statistical analysis
+
+Statistical analysis was performed using analysis of variance
+(ANOVA) followed by Tukey’s subtest. The results were expressed
+as mean ± standard deviation (SD). Differences were considered
+significant at *P < 0.05.
+
+3. Results
+
+3.1. Differential effects of erlotinib on viability and apoptosis in
+NSCLC cells without EGFR mutation
+
+To investigate the antitumor effect of erlotinib on NSCLC cell
+lines, we first assessed the effect of treatment with erlotinib on
+growth inhibition in human NSCLC cell lines. As shown in Fig. 1A,
+erlotinib exhibited differential effects on the viability of the cells.
+Erlotinib caused a dose- and time-dependent reduction in cell viability
+in H358 and H441 cells, whereas H460 and A549 cells were
+more resistant. As shown in Fig. 1B, erlotinib induced significant
+apoptosis in H358 and H441 cells in a dose- and time-dependent
+manner. However, H460 and A549 cells did not show significant
+
+apoptosis with erlotinib treatment (Fig. 1B). In the sensitive cell
+line, erlotinib cleaved procaspase-9 in H358 cells, which led to
+the appearance of caspase-9, and cleaved PARP in both H358 and
+H441 cells (Fig. 1C). These were not seen in the resistant H460
+and A549 cells. The activity of caspase-3, another apoptosis-related
+gene, was also measured. Erlotinib elevated caspase-3 activity in a
+dose-dependent manner in H358 and H441cells, but not in H460 or
+A549 cells (Fig. 1D). Erlotinib caused cell fragmentation in a dosedependent
+manner in the H358 and H441cells, but not in H460 or
+A549 cells (Fig. 1E). In annexin-V/propidium iodide double-staining
+assay, erlotinib induced significant apoptosis in H358 in a dosedependent
+manner, but not in H460 (Supplementary Fig. 1). Taken
+together, these results suggest that erlotinib induces apoptosis and
+cell death in H358 and H441 cells, despite their lack of EGFR mutation.Supplementary
+figure related to this article can be found, in the
+online version, at http://dx.doi.org/10.1016/j.lungcan.2014.05.024.
+
+3.2. Downregulation of CIP2A determines erlotinib-induced
+p-AKT inhibition and apoptosis in NSCLC cells without EGFR
+mutation
+
+Next we investigated the role of CIP2A in erlotinib-induced apoptosis
+in the sensitive NSCLC cells. As shown in Fig. 2A and C,
+erlotinib decreased CIP2A protein levels and AKT phosphorylation
+and induced apoptosis in the erlotinib-sensitive H358 cells in dosedependent
+and time-dependent manner. In contrast, erlotinib did
+not significantly affect levels of CIP2A protein or AKT phosphorylation
+in the resistant H460 cells.
+In the sensitive H358 cells, erlotinib also increased PP2A activity,
+and CIP2A overexpression decreased PP2A activity (Fig. 2B).
+Erlotinib did not change PP2A activity and CIP2A gene knockdown
+by siRNA increased PP2A activity in the resistant H460 cells (Fig. 2B)
+and A549 cells (Supplementary Fig. 2). These data indicate that the
+CIP2A signaling pathway may play an important role in determining
+the sensitivity of lung cancer cells to erlotinib. In addition, erlotinib
+decreased CIP2A protein levels and induced apoptosis in H358 cells
+in a time-dependent analysis (Fig. 2C).
+Supplementary figure related to this article can be found, in the
+online version, at http://dx.doi.org/10.1016/j.lungcan.2014.05.024.
+
+3.3. Validation of the CIP2A–PP2A–AKT pathway
+
+Two approaches were used to validate the role of CIP2A as a
+mediator of erlotinib-induced apoptosis in the NSCLC cells. First,
+ectopic expression of CIP2A in the H358 cells (CIP2A-myc in Fig. 3A,
+left), which showed overexpression of CIP2A, partially protected
+the cells from apoptotic cell death induced by erlotinib (Fig. 3A).
+Furthermore, knockdown of gene expression of CIP2A increased
+apoptosis in the H358 cells (Fig. 3A, right) and H460 cells (Fig. 3B).
+These results indicate that CIP2A expression status is important in
+regulating the apoptotic effect of erlotinib in NSCLC cells
+Next, we analyzed the role of AKT, which is downstream from
+CIP2A, in mediating the effects of erlotinib. As shown in Fig. 3C,
+overexpression of AKT in the sensitive H358 cells partially protected
+cells from apoptotic death induced by erlotinib. Fig. 3D
+further showed that addition of okadaic acid, a known PP2A
+inhibitor, significantly increased AKT phosphoryaltion and reduced
+the erlotinib-induced apoptosis in the sensitive H358 cells. These
+results indicate that AKT activation regulates erlotinib-induced
+apoptosis in NSCLC cells.
+C.-Y. Wang et al. / Lung Cancer 85 (2014) 152–160 155
+
+Fig. 1. Differential effects of erlotinib on cell death and apoptosis in the four human NSCLC cells. (A) Dose-dependent effects of erlotinib on cell viability in the four human
+NSCLC cell lines. Column, mean; bar, SD. n = 3 for each concentration. *p < 0.05, **p < 0.01, vs. no erlotinib. (B) Dose-dependent effects of erlotinib on apoptosis in the four
+human NSCLC cell lines. Data are mean ± SD. n = 3 for each concentration. *p < 0.05, **p < 0.01, vs. no erlotinib. (C) Effects of erlotinib on PARP and caspase-9 in the four NSCLC
+cells. Cells were treated with erlotinib at the indicated concentrations for 48 h. Data are representative of three independent experiments. (D) Effects of erlotinib on caspase-3
+activity. NSCLC cells were treated with erlotinib at the indicated concentrations for 48 h. Data are mean ± SD. n = 3 for each concentration. **p < 0.01, vs. no erlotinib. (E) Effects
+of erlotinib on cell fragmentation. NSCLC cells were treated with erlotinib at the indicated concentrations for 48 h. Data are mean ± SD. n = 3 for each concentration. *p < 0.05,
+**p < 0.01, vs. no erlotinib.
+156 C.-Y. Wang et al. / Lung Cancer 85 (2014) 152–160
+
+Fig. 2. Downregulation of CIP2A determines the effects of erlotinib on p-AKT and apoptosis in NSCLC cells through activation of PP2A. (A) Dose-dependent effects of erlotinib
+on CIP2A, p-AKT and AKT. NSCLC cells were exposed to erlotinib at the indicated concentrations for 48 h. Immunoblots were scanned by a UVP BioSpectrum AC image system
+and quantitated using VisionWork LS software to determine the ratio of the level of CIP2A to actin or p-AKT to AKT. Data are mean ± SD. n = 3 for each experiment. (B) Effects
+of erlotinib on PP2A activity. Transfection with CIP2A-myc in H358 cells and CIP2A siRNA in H460 cells were also performed. OA and forskolin treatment serves as negative
+and positive controls for PP2A activity. Data are mean ± SD. n = 3 for each experiment. **p < 0.01, vs. no treatment. (C) Time-dependent effects of erlotinib on of CIP2A, p-AKT
+and apoptosis-related proteins in the sensitive H358 cells. H358 cells were exposed to 10 M
+erlotinib for up to 48 h. CF, cleaved form (activated form). Data are mean ± SD.
+n = 3 for the different time intervals.
+C.-Y. Wang et al. / Lung Cancer 85 (2014) 152–160 157
+
+Fig. 3. Validation of CIP2A-PP2A-AKT pathway. (A) Ectopic expression of CIP2A (CIP2A-myc) increased p-AKT and attenuated the effects of erlotinib on apoptosis in H358 cells
+(left figure). H358 cells overexpressing CIP2A were treated with 10 M
+erlotinib for 48 h. Knockdown of CIP2A expression by siRNA increased the sensitivity to erlotinibinduced
+apoptosis in H358 cells. Cells were transfected with either control or CIP2A siRNA for 48 h then exposed to 5 M
+erlotinib for 24 h. (right figure). (B) Knockdown
+of CIP2A expression by siRNA increased the sensitivity to erlotinib-induced apoptosis in H460 cells. Cells were transfected with either control or CIP2A siRNA for 48 h then
+exposed to 10 M
+erlotinib for 48 h. (C) Ectopic expression of AKT (AKT-myc) attenuated the effects of erlotinib on apoptosis in H358 cells. H358 cells overexpressing AKT
+were treated with 10 M
+erlotinib for 48 h. (D) Okadaic acid (OA), a PP2A inhibitor, increased pAKT and inhibited the effects of erlotinib on apoptosis in H358 cells. Data are
+mean ± SD. n = 3 for each condition. **p < 0.01, vs. no treatment.
+
+3.4. Erlotinib downregulates transcription of CIP2A in NSCLC cells
+without EGFR mutation
+
+To examine the mechanisms by which erlotinib inhibited
+CIP2A expression, we investigated whether erlotinib affected CIP2A
+protein degradation. After protein translation was blocked by
+cycloheximide, the rate of CIP2A degradation did not change significantly
+with or without erlotinib treatment in either H358 or H460
+cells (Fig. 4A). We next investigated whether erlotinib affected
+CIP2A gene transcription. Our data showed that the mRNA levels
+of CIP2A decreased in a time- and dose-dependent manner in H358
+
+cells but not in H460 cells (Fig. 4B). To further explore the inhibition
+of CIP2A transcription by erlotinib, H358 and CH460 cells
+were transfected a luciferase reporter constructfor CIP2A promoter.
+Erlotinib significantly down-regulated the activity of CIP2A promoter
+inadose-dependentmanner inH358cells (Fig.4C).However,
+erlotinib did not alter the luciferase activity H460 cells. Erlotinib
+may inhibit CIP2A expression in the sensitive H358 cells by affecting
+the transcriptional factor Elk-1 DNA binding [19] so we treated
+H358 and H460 cells with 2 M
+or 10 M
+erlotinib for 24 h and
+processed for the ChIP assays. The expression of Elk-1 was reduced
+in a dose-dependent manner in the sensitive H358 cells, but not
+158 C.-Y. Wang et al. / Lung Cancer 85 (2014) 152–160
+
+Fig. 4. Erlotinib-induced downregulation of CIP2A in NSCLC cells. (A) H358 or H460 cells were treated with 100 g/mL
+cycloheximide (CHX) in the presence or absence of
+erlotinib for the indicated length of time. (B) H358 and H460 cells treated with erlotinib at 10 M
+or 20 M
+for the designated incubation time. Erlotinib inhibits CIP2A mRNA
+in a dose- and time-dependent manner, especially in H358 cells. Data are mean ± SD. n = 3 for each time point. **p < 0.01, vs. no treatment control. (C) Effects of erlotinib on
+CIP2A promoter activity. H358 and H460 cells were transfected by CIP2A reporter and Renilla vectors for 24 h then treated with 10 or 20 M
+erlotinib for an additional 24 h.
+Cell lysates were prepared for analysis of luciferase activity. Erlotinib decreased CIP2A luciferase activity in H358 cells, but not in H460 cells. Data are mean ± SD. n = 3 for
+each condition. **p < 0.01, vs. no erlotinib. (D) Chromatin immunoprecipitation assays of the CIP2A promoter. H358 and H460 cells were treated with 2 or 10 M
+erlotinib for
+24 h and processed for the ChIP assays. Soluble chromatin was immunoprecipitated with Elk-1 or IgG (negative control) antibodies. Immunoprecipitates were subjected to
+PCR with primer pair specific to CIP2A promoter (−16 to −213 bp) and RPL30 (internal control). The gel shown is representative of three independent experiments.
+
+in the resistant H460 cells. These data suggest that erlotinib may
+inhibit CIP2A expression in the sensitive H358 cells by affecting the
+transcriptional regulation
+
+3.5. Evaluation of the therapeutic effect of erlotinib on
+H358-bearing mice
+
+To determine whether or not the in vitro effects of erlotinib on
+H358 cells could be reproduced in vivo, mice were implanted with
+H358 xenograft. No apparent differences in body weight or toxicity
+were found in any mice (Fig. 5A). Treatment with erlotinib significantly
+inhibited H358 xenograft tumor growth and tumor sizes
+were nearly one-fifth of those of control mice (Fig. 5B).
+
+4. Discussion
+
+Although NSCLC patients with EGFR-mutation respond well
+to EGFR inhibitors, such as erlotinib, some NSCLC patients without
+EGFR mutations also show favorable response. In the phase 3
+Sequential Tarceva in Unresectable NSCLC (SATURN)trial, erlotinib,
+used as second-line NSCLC maintenance therapy after first-line
+chemotherapy without selection for EGFR status, showed better
+progression free survival then placebo in patients without EGFR
+mutation (hazard ratios 0.78, 95% CI 0.63–0.96; P = 0.0185) [7]. In
+the Tarceva In Treatment of Advanced NSCLC (TITAN) study, which
+explored the efficacy and tolerability of second-line erlotinib
+versus chemotherapy in patients with refractory NSCLC, there was
+C.-Y. Wang et al. / Lung Cancer 85 (2014) 152–160 159
+
+Fig. 5. In vivo effect of erlotinib on H358 xenograft in mice. (A) Effects on body
+weight of mice. Mice were treated with vehicle, or oral erlotinib at 10 mg/kg daily
+for 3 weeks (n = 10 each). (B) Effects of erlotinib on tumor size. Erlotinib inhibited
+the growth of H358 tumors by >80%. Data are mean ± SD (n = 10 each); ***p < 0.001.
+
+no significant differences in efficacy between erlotinib and docetaxel
+or pemetrexed in patients without EGFR mutation (hazard
+ratios 0.85, 95% CI 0.59–1.22; P = 0.37) [8]. These two studies offer
+strong clinical evidence that erlotinib has an anti-tumor effect
+even in NSCLC patients without EGFR mutation, indicating the
+presence of alternative mechanisms. Our study showed that the
+CIP2A-dependent signaling pathway may be one such mechanism.
+Our study revealed that erlotinib induced cell death and apoptosis
+in the NSCLC H358 and H441 cells, but not in the H460 and A549
+cells. The differential sensitivity to erlotinib was related to the status
+of CIP2A since erlotinib inhibited mRNA and protein expression
+of CIP2A in the NSCLC H358 and H441 cells but not in the NSCLC
+(H322 and H460). In addition, overexpression of CIP2A in the sensitive
+H358 cells partially protected the cells from apoptotic cell
+death induced by erlotinib. Knockdown of CIP2A gene expression
+in the resistant H460 cells increased apoptotic cell death induced
+by erlotinib. The CIP2A effects were mediated by downstream activation
+of PP2A and inhibition of AKT activation. Erlotinib treatment
+increased PP2A activity and decreased AKT phosphorylation in the
+sensitive H358 cells but not in the resistant H460 cells. Overexpression
+of CIP2A in the erlotinib sensitive H358 cells increased
+phosphorylated AKT and inhibited apoptosis. Knockdown of CIP2A
+gene expression in the erlotinib resistant H460 cells decreased
+the phosphorylated AKT and increased erlotinib-induced apoptosis,
+thus changing the phenotype of the resistant H460 cells to
+resemble the sensitive H358 cells. Our results, however, did not
+exclude the possibility that other pathways, such as KRAS (Kirsten
+rat sarcoma viral oncogene homolog) and TP53 (tumor protein p53),
+may also be involved in determining the differential sensitivity to
+erlotinib since the protective effects by altering the CIP2A status
+was incomplete. This needs to be investigated in future research.
+Our findings have several important clinical implications: First,
+we showed that overexpression of CIP2A inhibited erlotinibinduced
+cell death in the sensitive H358 cells. These results explain
+
+the poor prognosis in patients whose lung tumors overexpresses
+CIP2A [14–16]. Therefore, CIP2A status in the tumor may serve as
+a useful marker for predicting the response to erlotinib. Besides
+being used as a prognosis biomarker, we identified CIP2A as a
+major molecular determinant of the therapeutic effect of erlotinib
+in NSCLC patients without EGFR mutation. This was supported by
+our in vivo data that showed erlotinib reduced H358 xenograft
+tumors in mice and that altering the expression of CIP2A could
+change the resistant H460 cells into a phenotype resembling the
+sensitive H358 cells. These results provided further support that
+CIP2A may be used as a novel anti-cancer target [9,15,18,20–28].
+Liang Ma et al. demonstrated that Rabdocoetsin B can inhibit proliferation
+and induce apoptosis in a variety of lung cancer cells by
+down-regulation of CIP2A and inactivation of AKT pathway [15].
+Importantly, the AKT pathway plays a major role in carcinogenesis
+and drug resistance in NSCLC [29]. Several studies have also
+shown that tumors with the activation of AKT signaling become
+more aggressive and are associated with poor prognosis in patients
+with NSCLC [30].
+In conclusion, erlotinib induced apoptotic cell death in NSCLC
+cells without EGFR mutation through a novel mechanism that was
+CIP2A-dependent. The expression status of CIP2A could be a molecular
+determinant of the sensitivity of NSCLC cells to erlotinib.
+Development of noveltherapies targeting CIP2A would increase our
+therapeutic options for patients with NSCLC.
+

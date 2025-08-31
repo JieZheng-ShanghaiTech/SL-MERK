@@ -1,0 +1,881 @@
+Black plate (666,1)
+
+Research Article
+See perspective on p. 628
+
+Lung-Cancer Chemoprevention by Induction of Synthetic
+Lethality in Mutant KRAS Premalignant Cells
+In Vitro and In Vivo
+
+Shaoyi Huang1
+, Xiaoyang Ren1
+, Lai Wang3
+, Ling Zhang1
+, and Xiangwei Wu1,2
+
+Abstract
+Lung cancer is the leading cause of cancer death in both men and women in the United States, with a
+low 5-year survival rate despite improved treatment strategies. These data underscore the great need for
+effective chemoprevention of this cancer. Mutations and activation of KRAS occur frequently in, and are
+thought to be a primary driver of the development of, non–small cell lung cancers (NSCLC) of the
+adenocarcinoma subtype. In this study, we developed a new approach for the chemoprevention of NSCLC
+involving specific targeting of apoptosis in mutant KRAS cells. This approach is based on a synthetic lethal
+interaction among TNF-related apoptosis-inducing ligand (TRAIL), the second mitochondria-derived
+activator of caspase Smac/DIABLO (Smac), and KRAS. Mutational activation of KRAS modulated the
+expression of TRAIL receptors by upregulating death receptors and downregulating decoy receptors.
+Furthermore, oncogenic KRAS repressed cellular FADD-like interleukin 1b–converting enzyme (FLICE)-
+like inhibitory protein (c-FLIP) expression through activation of Erk/mitogen-activated protein kinase
+(MAPK)-mediated activation of c-Myc. Smac overcame KRAS-induced cell-survival signaling by antagonizing
+X-linked inhibitor of apoptosis protein (XIAP). Therefore, the combination of TRAIL and a small
+molecule mimic of Smac induced apoptosis specifically in mutant KRAS cells without harming normal
+cells. We further showed that short-term, intermittent in vivo treatment with TRAIL and Smac mimic
+induced apoptosis in tumor cells and reduced tumor burden in a murine model of KRAS-induced lung
+cancer. These results reflect the potential benefit of a selective therapeutic approach for the chemoprevention
+of NSCLC. Cancer Prev Res; 4(5); 666–73. 2011
+AACR.
+
+Introduction
+
+Lung cancer has a 5-year U.S. survival rate of a discouraging
+15% and continues to be the leading cause of cancer
+death in the United States and worldwide despite some
+improvement in survival over the past several decades (1,
+2). A major reason for this dismal survival rate is that the
+majority of lung cancer patients are diagnosed at incurable
+late stages. Approximately 90% of lung cancer cases are
+related to tobacco smoking (3). Recent decreases in smoking
+have led to a downturn in lung cancer death rates in the
+United States, but smoking rates continue to increase
+worldwide. It is well known that the incidence of lung
+cancer decreases slowly after smoking cessation, ensuring
+
+that the lung cancer epidemic will continue for many years.
+Smoking cessation is clearly the most effective way to
+reduce lung cancer risk, but although reduced, the risk
+remains substantial in former smokers, who represent the
+majority of lung cancer diagnoses in the United States (4).
+Therefore, there is an urgent need to identify additional
+strategies to reduce the burden of lung cancer.
+RAS genes encode a family of membrane-localized 21-
+kDa GTP-binding proteins that functions as a molecular
+switch linking receptor and nonreceptor tyrosine kinase
+activation to downstream cytoplasmic or nuclear events in
+regulating cell growth, differentiation, and apoptosis (5, 6).
+The RAS proteins interact with multiple effectors in the
+mitogen-activated protein kinase (MAPK), signal transducer
+and activator of transcription (STAT), and phosphoinositide
+3-kinase (PI3K) signaling cascades (7). Found in
+approximately 30% of all human cancers, activating RAS
+mutations result in gene products of impaired guanosine
+triphosphatase (GTPase) activity that leads to constitutive
+activation of RAS signaling. KRAS accounts for most of the
+cancer-related RAS mutations, including in non–small cell
+lung cancers (NSCLC; refs. 8, 9). KRAS mutations also are
+present in individuals at risk (but without cancer) who
+have significant tobacco exposure and are detected in 25%
+
+Authors' Affiliations: Departments of 1
+Head and Neck Surgery and 2
+Molecular and Cellular Oncology, The University of Texas MD Anderson
+Cancer Center, Houston, TX; and 3
+Joyant Pharmaceuticals, Dallas, TX
+Corresponding Author: Xiangwei Wu, Department of Head and Neck
+Surgery, Unit 123, The University of Texas MD Anderson Cancer Center,
+1515 Holcombe Blvd., Houston, TX 77030. Phone: 713-745-2867; Fax:
+713-745-2234. E-mail: xwwu@mdanderson.org.
+doi: 10.1158/1940-6207.CAPR-10-0235
+2011
+American Association for Cancer Research.
+
+Cancer
+Prevention
+Research
+
+666 Cancer Prev Res; 4(5) May 2011
+
+Downloaded from http://aacrjournals.org/cancerpreventionresearch/article-pdf/4/5/666/2337771/666.pdf by guest on 14 August 2024
+Black plate (667,1)
+
+to 40% of atypical adenomatous hyperplasia lesions, which
+are a potential precursor of adenocarcinoma (10). Therefore,
+KRAS mutations seem to be an early event in human
+NSCLC development and may be a good target for lung
+cancer prevention.
+Years of research in the chemoprevention of lung cancer
+have been frustratingly unable to generate any effective
+agents in clinical trials (11). Certain agents, such as COX
+inhibitors, have shown some activity against lung cancer in
+animal models. They are, however, moderate in effect,
+require long-term continuous administration, and have
+safety concerns (11, 12) We proposed a new concept of
+therapy-like chemoprevention as a way to circumvent these
+common limitations of chemoprevention This approach is
+discussed in detail in Discussion.
+TNF-related apoptosis-inducing ligand (TRAIL), or
+Apo2L, is a potent cell-death inducer (13, 14) and interacts
+with an unusually complex receptor system in humans
+comprising 2 death receptors and 3 decoy receptors
+(15). TRAIL binding to its death receptors 4 and 5 (DR4,
+DR5) leads to apoptosis by activating caspases 8 and 10
+(16). The interaction of TRAIL with its decoy receptors 1
+and 2 (DcR1, DcR2) and Osteoprotegerin (OPG), which
+lack functional cytoplasmic signaling domains, results in
+defective death signaling (17). Interest in TRAIL increased
+recently after TRAIL selectively induced apoptosis in a wide
+variety of transformed human tumor cell lines in vitro and
+as xenografts without affecting normal cells (18). TRAIL has
+not produced toxicity in cynomolgus monkeys and chimpanzees
+(19–21), and proapoptotic DR4 or DR5 agonists
+(e.g., the monoclonal antibodies mapatumumab and apomab)
+have produced little or no toxicity in phase-1 clinical
+trials (22, 23).
+Another important protein in regulating apoptosis in
+cancer cells is the X-linked inhibitor of apoptosis protein
+(XIAP; ref. 24). Frequently overexpressed in cancer cells,
+XIAP negatively regulates apoptosis by directly inhibiting
+caspases 3 and 7 activity (25). XIAP activity is regulated by
+the second mitochondrial protein Smac/DIABLO (Smac).
+Release of Smac from mitochondria leads to its binding to
+XIAP and antagonizes the caspase–XIAP interaction,
+thereby promoting apoptosis (26, 27).
+We recently reported results of a therapy-like approach
+for cancer chemoprevention involving the synthetic lethal
+interaction among TRAIL, retinyl acetate (RAc), and adenomatous
+polyposis coli (APC) signaling pathways (28).
+TRAIL plus RAc specifically induced apoptosis in APCdeficient
+cells through the activation of c-Myc and was
+effective chemoprevention of colorectal cancer in animal
+models (28). It has been shown that activation of RAS
+could lead to the activation of c-Myc (29). Therefore,
+TRAIL plus RAc has the potential to target the RAS
+signaling pathway in inducing apoptosis. However,
+RAS can also activate a prominent cell-survival pathway
+mediated by the activation of AKT, leading to inhibition
+of caspase activation by XIAP. We hypothesize that Smac
+would overcome these survival signals by antagonizing
+XIAP and thus facilitate apoptosis. This facilitation may
+
+provide a potent strategy for eliminating mutant KRAS
+premalignant cells and a therapeutic approach for preventing
+lung cancer. We report here our results with
+TRAIL plus a small-molecule Smac mimic in inducing
+apoptosis in in vitro and in vivo models of mutant KRAS
+lung premalignancy.
+
+Materials and Methods
+
+Plasmids, shRNAs, and reagents
+The retroviral plasmid expressing a mutant KRAS
+(KRASV12) was reported earlier (30). Erk dominant-negative
+and ATK/PKB dominant-negative constructs were
+generously provided by Dr. Mien-Chie Hung of M.D.
+Anderson Cancer Center (31). The full-length cellular
+FADD-like interleukin 1b–converting enzyme (FLICE)-
+like inhibitory protein (c-FLIP) cDNA was generated
+by reverse transcriptase PCR of total RNA from Hela
+cells, as previously reported (28). The c-Myc-shRNA
+was described earlier (28). XIAP-shRNA was purchased
+from Openbiosystems. TRAIL was prepared according to
+published results (32). The small-molecule Smac mimic
+JP1584 was produced by Joyant Pharmaceuticals. U0126
+and Wortmannin were purchased from CalBiochem.
+
+Antibodies and Western blots
+Anti–c-FLIP was obtained from ALEXIS Biochemicals.
+Anti–phospho-Erk, anti–phospho-AKT, anti–cleaved caspase
+3 and anti-DR5 were purchased from Cell Signaling
+Technology. Anti–c-Myc was purchased from Millipore.
+Anti–b-actin and anti–a-tubulin were purchased from
+Sigma. Antibodies against DcR1 and DcR2 were purchased
+from Imgenex. Anti-DR4 was obtained from
+Upstate. Anti-XIAP was purchased from BD Transduction
+Laboratories. Anti–cleaved caspase 3 antibody was
+obtained from Western blotting was carried out as
+described previously (33).
+
+Cell lines, infection, transfection, and drug treatment
+Cells of the immortalized human bronchial epithelial
+(HBE) cell line HBE4-E6/E7 (HBE4) were purchased from
+ATCC. BW1799 cells were kindly provided by Dr. Reuben
+Lotan of M.D. Anderson Cancer Center and were maintained
+in Keratinocyte-SFM medium (Gibco). Retrovirus
+was generated by using the BOSC23 packaging cell line,
+and infection was carried out as reported previously (30).
+Transfections were carried out by using Lipofectamine
+2000 (Invitrogen) according to the manufacturer’s
+instructions. For TRAIL and Smac mimic treatment, cells
+growing at the log phase were treated with Smac at a final
+concentration of 100 nmol/L for 4 hours. Then TRAIL was
+added to the media at a final concentration of 100 ng/mL.
+Cells were harvested after 24 hours of TRAIL treatment.
+Cells were treated with Wortmannin (200 nmol/L)
+and U0126 (10 mmol/L) for 30 minutes. Cell viability
+was determined by using Annexin V-FITC Apoptosis
+Detection Kit (Sigma) according to the manufacturer’s
+instructions.
+
+Chemoprevention of Lung Cancer
+
+www.aacrjournals.org Cancer Prev Res; 4(5) May 2011 667
+
+Downloaded from http://aacrjournals.org/cancerpreventionresearch/article-pdf/4/5/666/2337771/666.pdf by guest on 14 August 2024
+Black plate (668,1)
+
+Tumor studies in mice
+Breeding colonies were established from LSL-KrasG12D
+mice acquired from the Mouse Repository of
+the National Cancer Institute. AdenoCre virus was purchased
+from the Gene Therapy Core of Baylor College of
+Medicine. Mice were infected according to a previously
+reported protocol (34, 35). In brief, AdenoCre-calcium
+phosphate (AdCre-CaPi) precipitates were prepared by
+placing recombinant adenovirus in 1 mL of Eagle’s minimal
+essential media containing 1.8 mmol/L Ca2þ and
+0.86 mmol/L Pi. Then an aliquot of a 2 mol/L CaCl2
+solution was added to achieve a concentration of 4.5
+mmol/L Ca2þ. The solution was mixed by vortex or gentle
+pipette tip aspiration, and the mixture was allowed to
+incubate for 20 to 30 minutes at room temperature. G12D
+mice were anesthetized with avertin at 6 weeks of age.
+AdCre-CaPi coprecipitates [5
+108 pfu (plaque forming
+units)] were administered intranasally in two 62.5-mL
+instillations. The second instillation was administered
+when breathing rates had returned to normal. Six weeks
+after infection, the mice were injected intravenously with
+Smac mimic (3 mg/kg). Six hours later, TRAIL (3 mg/kg)
+was injected intraperitoneally. Injections were repeated
+16 hours later. Consecutive injections of TRAIL and Smac
+mimic were given a total of 3 times. Injection of PBS was
+used as a control. For intermittent treatment, the mice
+were given 3 consecutive injections of TRAIL and Smac
+mimic (1.5 mg/kg) within a week, again 3 weeks later,
+and then again 3 weeks later, for a total of 3 treatment
+cycles. The mice were sacrificed 3 days after the last
+treatment, and their lungs were inflated with formalin
+and fixed in formalin overnight. Lung sections were
+analyzed by hematoxylin and eosin (H&E) and immunohistochemistry
+staining by using an anti–cleaved caspase
+3 antibody, as reported previously (28).
+
+Statistical analysis
+We compared differences between groups via 1-way
+ANOVA. Values with a P < 0.05 were considered to be
+statistically significant.
+
+Results
+
+TRAIL and Smac mimic specifically induce apoptosis
+in KRAS-activated HBE cells
+To test the effect of RAS activation on TRAIL plus Smac
+mimic–induced apoptosis, we introduced the activating
+mutant KRASV12 into immortalized normal HBE4 cells.
+Constitutive expression of mutant KRAS led to an increase
+in RAS-GTPase activity and activation of downstream signaling
+events, including phosphorylation of Erk and AKT in
+mutant KRAS HBE4 (Fig. 1A). Normal HBE4 cells were
+resistant to apoptosis induced by either TRAIL or Smac
+mimic alone or combined (Fig. 1B). Expression of mutant
+KRAS–sensitized cells to TRAIL plus Smac mimic–induced
+apoptosis (Fig. 1B). RAc had no effect on cell viability either
+alone or in combination with TRAIL and Smac mimic (data
+not show). Similar results occurred in BW1799 cells
+(Fig. 1A and C). These results suggest that activation of
+KRAS specifically sensitizes normal HBE cells to TRAIL
+and Smac mimic.
+
+KRAS sensitizes cells to TRAIL and Smac mimic
+through the MAPK/Erk pathway
+To explore the contribution of two RAS-regulated pathways
+(activation of MAPK/Erk and of AKT through PI3K) to
+TRAIL plus Smac mimic–induced apoptosis in mutant
+KRAS cells, we inhibited MAPK/Erk and AKT signaling with
+either dominant-negative mutants or pharmacologic inhibitors.
+Expression of dominant-negative mutants of Erks
+(Erk1 and Erk2) inhibited KRAS-mediated phosphorylation
+of Erks and TRAIL plus Smac mimic–induced apoptosis;
+inhibition of AKT phosphorylation by the expression
+of an AKT dominant-negative mutant did not affect TRAIL
+plus Smac mimic–mediated cell death in mutant KRAS cells
+(Fig. 2A and B). U0126, a MEK inhibitor upstream of Erk/
+MAPK, reduced Erk phosphorylation and blocked TRAIL
+plus Smac mimic–induced apoptosis in mutant KRAS cells,
+whereas the PI3K inhibitor Wortmannin blocked AKT
+phosphorylation but did not inhibit TRAIL plus Smac
+mimic–induced apoptosis (Fig. 2A and B). These results
+
+BW1799
+
+C KRAS KRAS
+
+Ras-GTP HBE4-C
+
+HBE4-KRAS
+
+% Annexin V+/PI− cells
+p-Erk
+p-AKT
+0
+20
+40
+60
+80
+100
+
+Actin
+Control
+TRAIL
+Smac
+TRAIL
++ Smac
+
+BW1799-C
+
+BW1799-KRAS
+
+% Annexin V+/PI− cells
+0
+20
+40
+60
+80
+100
+
+Control
+TRAIL
+Smac
+TRAIL
++ Smac
+
+C
+HBE4 A B C
+
+Figure 1. Oncogenic KRAS activates RAS downstream-signaling pathways and sensitizes HBE cells to TRAIL and Smac mimic. A, activation of Ras- GTP
+and induction of phosphorylation of Erk (p-ERK) and AKT (p-AKT) by KRAS in BW1799 and HBE4 cells. These cells were infected with either control
+(C) or retrovirus-expressing mutant KRAS. B, induction of apoptosis by TRAIL and Smac mimic. HBE4 cells and BW1799 cells expressing oncogenic KRAS
+were treated with TRAIL (100 ng/mL) or Smac mimic (100 nmol/L) or both or control (PBS) for 24 hours. Apoptotic cells (Annexin Vþ, PI) were counted.
+The data represent results from 3 independent experiments. Averages and SD are shown.
+
+Huang et al.
+
+668 Cancer Prev Res; 4(5) May 2011 Cancer Prevention Research
+
+Downloaded from http://aacrjournals.org/cancerpreventionresearch/article-pdf/4/5/666/2337771/666.pdf by guest on 14 August 2024
+Black plate (669,1)
+
+show that KRAS sensitized HBE cells to TRAIL and Smac
+mimic through the MAPK/Erk pathway.
+
+c-Myc and c-FLIP are downstream mediators of KRAS
+in sensitizing cells to TRAIL and Smac mimic
+To test our hypothesis that activation of KRAS induces
+the expression of c-Myc, which in turn inhibits the expression
+c-FLIP to sensitize cells to TRAIL and Smac mimic, we
+first analyzed the expression of c-Myc and c-FLIP in mutant
+KRAS cells. Expression of mutant KRAS resulted in
+enhanced levels of c-Myc protein and a corresponding
+decrease in c-FLIP protein expression (Fig. 3A). We next
+investigated the functional significance of c-Myc and
+
+c-FLIP. We first transfected c-Myc-shRNA into mutant KRAS
+cells to knock down c-Myc expression. Transfection of cMyc-shRNA
+abolished KRAS-mediated induction of c-Myc
+expression and restored c-FLIP expression (Fig. 3B). More
+important, knockdown of c-Myc significantly inhibited
+TRAIL plus Smac mimic–induced apoptosis (Fig. 3D).
+Furthermore, restoring c-FLIP expression by transfecting
+a c-FLIP–expression plasmid-blocked TRAIL plus Smac
+mimic–induced cell death in mutant KRAS cells (Fig. 3C
+and D). These data support the ability of KRAS to sensitize
+normal HBE cells to TRAIL and Smac mimic through
+activating c-Myc and the subsequent repression of c-FLIP
+expression.
+
+Control
+KRAS
+
+c-Myc
+Control
+KRAS
+
+A B CD
+
+c-FLIP
+
+Tubulin
+
+c-Myc
+
+c-FLIP
+
+Actin
+
+c-FLIP
+
+% Annexin V+/PI− cells100
+80
+60
+40
+20
+0
+Actin
+
+KRAS +
+c-Myc-shRNA
+
+c-MycshRNAKRASKRAS
++
+c-FLIP
+
+c-FLIP
+KRAS +
+KRAS
+c-FLIP
+ +
+
+c-MycshRNAKRASFigure
+3. Involvement of c-Myc and c-FLIP in TRAIL plus Smac mimic–induced apoptosis in oncogenic KRAS–expressing cells. A, KRAS-mediated
+activation of c-Myc and repression of c-FLIP. HBE4 cells were infected with either control or KRAS-expressing retrovirus. B, effect of c-Myc knockdown. HBE4
+cells were infected with either control or KRAS-expressing virus or were transfected with c-Myc-shRNA after KRAS infection. C, overexpression of
+c-FLIP. HBE4 cells infected with KRAS were transfected with either control vector or c-FLIP DNA. D, induction of apoptosis. HBE4 cells with various infection
+and transfection combinations were treated with TRAIL and Smac mimic. Apoptotic cells (Annexin Vþ, PI) were counted. The data represent results
+from 3 independent experiments. Averages and SD are shown.
+
+Vector AKTDN ErkDN Control Wortmannin
+U0126
+
+Vector
+AKTDN
+ErkDN
+Control
+Wortmannin
+
+U0126
+
+p-Erk
+
+A B
+
+100
+
+80
+
+60
+
+% Annexin V+/PI− cells
+40
+20
+0
+p-AKT
+
+Actin
+
+Figure 2. The Erk/MAPK pathway is required for KRAS-mediated sensitization to TRAIL and Smac. A, inhibition of KRAS-mediated activation of ERK
+and AKT. Phosphorylated Erk (p-ERK) and AKT (p-AKT) were assessed in HBE4-KRAS cells transfected with a dominant-negative AKT mutant (AKTDN) or
+both Erk1 and Erk2 dominant-negative mutants (ErkDN) or vector (control), or in these cells treated with the PI3K inhibitor Wortmannin (200 nmol/L) or the dual
+MEK1 and MEK2 inhibitor U0126 (10 mmol/L) or control (dimethyl sulfoxide). B, TRAIL- and Smac mimic–mediated apoptosis. The transfected or treated
+HBE4-KRAS cells were treated with TRAIL and Smac mimic for 24 hours. Apoptotic cells (Annexin Vþ, PI) were counted. The data represent results
+from 3 independent experiments. Averages and SD are shown.
+
+Chemoprevention of Lung Cancer
+
+www.aacrjournals.org Cancer Prev Res; 4(5) May 2011 669
+
+Downloaded from http://aacrjournals.org/cancerpreventionresearch/article-pdf/4/5/666/2337771/666.pdf by guest on 14 August 2024
+Black plate (670,1)
+
+KRAS modulates the expression of TRAIL receptors
+and Smac mimic overcomes the antiapoptotic activity
+of XIAP to facilitate TRAIL-induced apoptosis
+A surprising finding of our study was that RAc is not
+required for TRAIL plus Smac mimic–induced apoptosis
+in mutant KRAS cells, suggesting that KRAS may modulate
+the expression of TRAIL receptors, as RAc does (28).
+We tested this possibility by examining TRAIL receptor
+expression by Western blotting. Expression of mutant
+KRAS induced the expression of DR4 and DR5
+(Fig. 4A). Mutant KRAS also inhibited the expression
+DcR2 significantly (Fig. 4A). These results indicate that
+expression of mutant KRAS enhances the DRs and
+represses the DcRs of TRAIL in facilitating TRAIL signaling.
+Mutant KRAS exerts an effect on TRAIL receptors
+similar to that of RAc and thus eliminated the need for
+adding RAc to TRAIL plus Smac mimic in inducing
+apoptosis in mutant KRAS cells.
+We next searched for the target of Smac mimic in
+sensitizing mutant KRAS cells to TRAIL. We first analyzed
+XIAP expression in mutant KRAS cells by Western blotting.
+Although expression of XIAP was not affected significantly
+by the mutant KRAS, we detected significantly
+high levels of XIAP, suggesting that the antiapoptotic
+activity of XIAP needs to be inhibited to facilitate TRAIL
+signaling for apoptosis (Fig. 4B). To support this possibility,
+we used XIAP-shRNA to inhibit the expression of
+XIAP in mutant KRAS cells (Fig. 4B). Knockdown of XIAP
+sensitized mutant KRAS cells to TRAIL-induced apoptosis
+(Fig. 4C). As Smac mimic counters the activity of XIAP,
+these results support the role of Smac mimic in targeting
+the antiapoptotic activity of XIAP to facilitate TRAILinduced
+apoptosis.
+
+Short-term, intermittent TRAIL and Smac mimic
+treatments strongly inhibit lung tumor growth in mice
+As TRAIL plus Smac mimic induced apoptosis in oncogenic
+KRAS–expressing cells in vitro, this combination has
+the potential to achieve chemoprevention through shortterm
+and intermittent therapy. We tested this potential of
+TRAIL plus Smac mimic in vivo in a mouse model of
+mutant KRAS (KRAS-G12D)–driven lung adenocarcinoma.
+KRAS-G12D mice carry a conditional allele of
+oncogenic KRAS-G12D (LSL-KRAS-G12D) and closely
+mimic tumorigenesis initiated in human adults through
+somatic KRAS mutations (34, 35). LSL-KRAS-G12D contains
+a floxed transcriptional stop element, and infecting
+the lungs of these mice with AdenoCre virus, a recombinant
+adenovirus expressing the Cre recombinase, resulted
+in the expression of mutant KRAS and the development of
+epithelial hyperplasia of the bronchioles, adenomas, and
+eventually pulmonary adenocarcinomas (34). Six weeks
+after the induction of lung carcinogenesis in LSL-KRASG12D
+via AdenoCre-activated KRAS-G12D expression,
+the mice received 3 consecutive injections of TRAIL plus
+Smac mimic within 1 week. The mice were sacrificed
+3 days after the treatments, and the lungs were examined
+for evidence of tumors by H&E staining. We used cleaved
+caspase 3 immunohistochemistry staining to test for
+apoptosis induction. TRAIL plus Smac mimic induced a
+significant level of apoptosis in lung tumor cells (Fig. 5A).
+There was no evidence of apoptosis in normal lung
+sections (Fig. 5A). Treated mice had a significantly
+decreased number of lung lesions (hyperplasias and adenomas;
+versus control mice; Fig. 5B). The most dramatic
+decrease was a 97% reduction in advanced lung lesions
+(adenomas; Fig. 5B). Therefore, short-term treatment
+
+Control
+KRAS
+DR4
+
+A B C
+
+DR5
+
+DcR1
+
+DcR2
+
+Tubulin
+
+XIAP
+
+100
+
+80
+
+60
+
+40
+
+20
+% Annexin V
+0
+
++Pl− cells
+
+Actin
+
+TRAIL
+XIAP-shRNA
+K-Ras+
+XIAP-shRNA
+K-Ras+
+XIAP-shRNA
+XIAP-shRNA
+
+Control
+KRAS
+KRAS +
+XIAP-shRNA
+XIAP-shRNA
+
+Figure 4. Modulation of TRAIL-receptor expression by KRAS and role of XIAP in TRAIL plus Smac mimic–induced apoptosis in oncogenic KRAS–
+expressing cells. A, effect of KRAS activation on the TRAIL receptors DR4, DR5, DcR1, and DcR2. HBE4 cells were infected with either control or
+KRAS-expressing retrovirus. B, effect of XIAP knockdown. HBE4 cells were infected with either control or KRAS-expressing virus or were transfected with
+XIAP-shRNA after KRAS infection. C, induction of apoptosis. HBE4 cells with various infection and transfection combinations were either treated with
+TRAIL or not treated. Apoptotic cells (Annexin Vþ, PI) were counted. The data represent results from 3 independent experiments. Averages and SD
+are shown.
+
+Huang et al.
+
+670 Cancer Prev Res; 4(5) May 2011 Cancer Prevention Research
+
+Downloaded from http://aacrjournals.org/cancerpreventionresearch/article-pdf/4/5/666/2337771/666.pdf by guest on 14 August 2024
+Black plate (671,1)
+
+with TRAIL and Smac mimic inhibited in vivo lung tumor
+growth.
+To test the effect of intermittent TRAIL and Smac mimic
+treatment, we treated the mice with 3 cycles of the 3-perweek
+consecutive treatments within 2 months. The mice
+were sacrificed 3 days after the last treatments, and the
+lungs were examined for evidence of tumors by H&E
+staining. At the time of analysis, most lesions in control
+mice were adenomas, whereas most lesions in treated mice
+were hyperplasias (Fig. 5C). A minor, but statistically significant,
+reduction was observed in the total number of
+lung lesions in the treatment group (versus controls;
+Fig. 5D). More important, the number of advanced lesions
+(adenomas) was greatly reduced in the treatment group
+(versus controls; Fig. 5D). The lower number of total lung
+lesions in Figure 5D than that in Figure 5B is likely due to
+some adenomas, which were more numerous in Figure 5D,
+comprising multiple hyperplastic lesions. These results
+support the ability of TRAIL plus Smac mimic to induce
+apoptosis in mutant KRAS cells in vivo and support the
+potential of this combination for therapy-like chemoprevention
+of human lung cancer.
+
+Discussion
+
+The concept of synthetic lethality originated in genetic
+experiments in yeast and fruit flies. In synthetically lethal
+
+gene pairs, a mutation of either gene alone is compatible
+with viability but mutation of both genes causes death (36–
+38). This concept has been applied in recent years in
+developing cancer-specific cytotoxic agents (39, 40). Synthetic
+lethality offers 2 advantages required for cancer
+treatment and chemoprevention. First, a synthetic lethality
+regimen has the ability to convert cytostatic targeting effects
+(which mainly stop cell division) to cell death, which is far
+less likely to result from directly targeting cancer-associated
+single mutations than from targeting the interactions
+between synthetic lethality mutations. Second, specific
+cancer-associated synthetic lethality interactions are associated
+with exquisite selectivity. This selectivity allows the
+killing of cancer cells without harm to normal cells that lack
+the cancer-specific mutation.
+Our present results show for the first time a synthetic
+lethal interaction among TRAIL, Smac, and constitutive
+activation of RAS in premalignant bronchial epithelial cells
+(Fig. 6). This interaction relied on the following effects of
+RAS and Smac: RAS activates c-Myc and thus represses
+c-FLIP expression and modulates the expression of TRAIL
+receptors; and Smac overcomes the antiapoptotic effect of
+XIAP. These interactions allowed TRAIL plus Smac (Smac
+mimic) to kill KRAS-activated premalignant lung cells with
+great efficiency and specificity. As mutational activation of
+RAS occurs in approximately 30% of human cancers in
+general and of NSCLC in particular, targeting oncogenic
+
+Control
+A B
+
+C D
+
+TRAIL + Smac
+
+Control TRAIL + Smac
+
+TRAIL +
+Smac
+
+Normal
+
+Tumor
+
+40
+*
+
+**
+
+30
+
+20
+
+Lung lesion number 10
+0
+Total Adenoma
+
+Control
+
+TRAIL +
+Smac
+
+* ***
+30
+
+20
+
+Lung lesion number 10
+0
+Total Adenoma
+
+Control
+
+Figure 5. Effect of TRAIL and Smac on KRAS-induced lung tumors in mice. A, TRAIL and Smac mimic induce apoptosis in lung tumors of LSL-KRASG12D
+mice. LSL-KRAS-G12D mice were infected with AdenoCre and treated 6 weeks later with PBS (control; n ¼ 6) or received 3 consecutive treatments with
+TRAIL (3 mg/kg) plus Smac mimic (3 mg/kg; n ¼ 6) within 1 week. Mice without infection were used as normal controls. Three days after the last treatment, the
+lung sections were stained with an anti–cleaved caspase 3 antibody. Representative photomicrographs are shown. Caspase 3 staining was detected
+only in TRAIL/Samc-mimic treated tumor samples. B, TRAIL and Smac mimic treatment inhibits lung tumor growth. Lung sections were stained with H&E and
+lung lesions were counted. The data are derived from counting within serial sections in each mouse. Averages and SD are shown. *, P < 0.05; **, P < 0.001.
+C, intermittent treatment with TRAIL plus Smac mimic inhibits adenoma formation. LSL-KRAS-G12D mice were infected with AdenoCre. Six weeks later,
+the mice (n ¼ 6 for each treatment group) were subjected to 3 rounds of intermittent treatment in 2 months with either PBS (control) or TRAIL (3 mg/kg) plus
+Smac mimic (1.5 mg/kg). Lung sections were stained with H&E; representative photomicrographs are shown. D, quantification of lung lesions. Serial
+sections were stained with H&E, and lung lesions were counted. The data are derived from counting within serial sections in each mouse. Averages and SD are
+shown. ***, P < 0.0001.
+
+Chemoprevention of Lung Cancer
+
+www.aacrjournals.org Cancer Prev Res; 4(5) May 2011 671
+
+Downloaded from http://aacrjournals.org/cancerpreventionresearch/article-pdf/4/5/666/2337771/666.pdf by guest on 14 August 2024
+Black plate (672,1)
+
+RAS activation with the combination of TRAIL and Smac
+mimic is a potential new approach for the chemoprevention
+of NSCLC; this potential is supported by our present in
+vivo animal results.
+Traditional chemoprevention efforts have focused on
+agents such as COX-2 inhibitors and dietary supplements,
+which modulate tumorigenesis without substantially eliminating
+premalignant cells. These agents have limited
+effects on tumor progression and often require continuous
+long-term application that raises the potential for unacceptable
+side effects. Producing synthetic lethal interactions
+by targeting tumor-specific gene mutations to eliminate
+premalignant cells through apoptosis is a new strategy for
+chemoprevention with the potential to overcome the 2
+most pressing issues facing it today: effectiveness and
+toxicity. It is arguable that apoptosis induction is the most
+potent cellular anticancer mechanism and should be highly
+effective for chemoprevention. The safety of the approach
+in this study is achieved by the specificity that synthetic
+lethal interactions allow in targeting altered cells. Furthermore,
+therapy-like cancer prevention could be achieved by
+
+short-term and noncontinuous treatments to further
+reduce the potential side effects and costs often associated
+with long-term cancer chemoprevention. Therapy-like chemoprevention
+reflects a new direction for cancer prevention
+research.
+We recently showed the efficiency and efficacy of this
+novel approach in colorectal carcinogenesis; TRAIL, RAc,
+and APC signaling pathways had a synthetic lethal interaction
+in inducing apoptosis in APC-deficient cells (28).
+This work further validates the applicability of this new
+approach to other oncogenic pathways and tumor types.
+We have provided preclinical evidence that short-term,
+intermittent TRAIL plus Smac mimic treatment is effective
+in inducing significant apoptosis and reducing premalignant
+lesions. These results support the use of TRAIL and
+Smac mimic for lung cancer chemoprevention in a therapylike
+fashion. This combination potentially targets the signaling
+pathway leading to the activation of RAS, including
+the activation of growth factor signaling such as overexpression
+or mutational activation of the epidermal growth
+factor receptor. The activation of growth factor/RAS signaling
+pathways is frequently associated with various settings
+of human carcinogenesis. Therefore, TRAIL and Smac
+mimic could have chemopreventive potential against several
+human cancers.
+
+Disclosure of Potential Conflicts of Interest
+
+No potential conflicts of interest were disclosed.
+
+Acknowledgments
+
+We thank Zhengming Xu for technical support, Dr. Reuben Lotan of
+MD Anderson Cancer Center for the BW1799 cells, and Dr. Xiaodong
+Wang at University of Texas Southwestern Medical Center for providing
+Smac mimic. We also thank Dr. Mihai Gagea Iurascu of MD Anderson
+Cancer Center for assistant in histologic analysis of lung lesions in mice.
+
+Grant Support
+
+This work was supported by NIH Grant AI063063 and institutional funds
+from MD Anderson Cancer Center (to X. Wu).
+The costs of publication of this article were defrayed in part by the
+payment of page charges. This article must therefore be hereby marked
+advertisement in accordance with 18 U.S.C. Section 1734 solely to indicate
+this fact.
+
+Received September 9, 2010; accepted October 15, 2010; published
+online May 4, 2011.
+
+References
+
+1. Jemal A, Siegel R, Xu J, Ward E. Cancer Statistics, 2010. CA Cancer J
+Clin 2010;60:277–300.
+2. World Health Organization. Cancer. 2009. Available from: http://www.
+who.int/mediacentre/factsheets/fs297/en/index.html.
+3. Herbst RS, Heymach JV, Lippman SM. Lung cancer. N Engl J Med
+2008;359:1367–80.
+4. Tong L, Spitz MR, Fueger JJ, Amos CA. Lung carcinoma in former
+smokers. Cancer 1996;78:1004–10.
+5. Downward J. Signal transduction. New exchange, new target. Nature
+1998;396:416–7.
+6. Shields JM, Pruitt K, McFall A, Shaub A, Der CJ. Understanding
+Ras: ‘it ain't over ‘til it's over’. Trends Cell Biol 2000;10:147–54.
+
+7. Vojtek AB, Der CJ. Increasing complexity of the Ras signaling pathway.
+J Biol Chem 1998;273:19925–8.
+8. Bos JL. ras oncogenes in human cancer: a review. Cancer Res
+1989;49:4682–9.
+9. Forbes S, Clements J, Dawson E, Bamford S, Webb T, Dogan A, et al.
+Cosmic 2005. Br J Cancer 2006;94:318–22.
+10. Cooper CA, Carby FA, Bubb VJ, Lamb D, Kerr KM, Wyllie AH. The
+pattern of K-ras mutation in pulmonary adenocarcinoma defines a
+new pathway of tumour development in the human lung. J Pathol
+1997;181:401–4.
+11. Keith RL. Chemoprevention of lung cancer. Proc Am Thorac Soc
+2009;6:187–93.
+
+c-FLIP c-Myc
+
+TRAIL
+
+DR4/5 DcR1/2
+
+FADD
+
+Caspase 8
+
+Caspase 3
+
+Apoptosis
+
+X
+
+XIAP Smac
+
+RAS
+
+Raf
+
+MEK
+
+ERK/MAPK
+
+PI3K
+
+GSK-3 AKT
+
+Growth factors
+
+RAS
+
+Figure 6. Synthetic lethal interaction among TRAIL, Smac, and RAS.
+Activation of RAS by growth factors or mutations leads to the activation of
+c-Myc through the activation of Raf, MEK, and Erk/MAPK and to the
+inhibition of GSK-3 through the activation of PI3K and AKT. Activation of cMyc
+represses the expression of c-FLIP. RAS also induces the expression
+of DR4/5 and decreases the levels of DcR1/2. Smac inhibits the function of
+XIAP. Thus, TRAIL and Smac specifically cause apoptosis in cells with
+activated RAS.
+
+Huang et al.
+
+672 Cancer Prev Res; 4(5) May 2011 Cancer Prevention Research
+
