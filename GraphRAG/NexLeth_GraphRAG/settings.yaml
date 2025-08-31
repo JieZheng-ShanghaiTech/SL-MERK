@@ -9,7 +9,7 @@ llm:
   max_tokens: 8000
   # request_timeout: 180.0
   # api_base: https://<instance>.openai.azure.com
-  api_base: https://api2.aigcbest.top/v1 #http://127.0.0.1:11434/v1 #  
+  api_base: ${GRAPHRAG_API_BASE} #http://127.0.0.1:11434/v1 #  
   # api_version: 2024-02-15-preview
   # organization: <organization_id>
   # deployment_name: <azure_model_deployment_name>
@@ -30,10 +30,10 @@ embeddings:
   ## parallelization: override the global parallelization settings for embeddings
   async_mode: asyncio # or threaded
   llm:
-    api_key: xinference #${GRAPHRAG_API_KEY}
+    api_key: ${GRAPHRAG_API_KEY}
     type: openai_embedding # or azure_openai_embedding
     model: nomic-embed-text-v1 # text-embedding-3-small
-    api_base: http://localhost:9997/v1 # https://<instance>.openai.azure.com
+    api_base: ${GRAPHRAG_API_BASE} # https://<instance>.openai.azure.com
     # api_version: 2024-02-15-preview
     # organization: <organization_id>
     # deployment_name: <azure_model_deployment_name>

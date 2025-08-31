@@ -1,5 +1,11 @@
 import requests
 import subprocess
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+API_BASE = str(os.getenv("API_BASE"))
+API_KEY = str(os.getenv("API_KEY"))
 
 
 def generate_with_graphrag(query,mode):
@@ -9,8 +15,8 @@ def generate_with_graphrag(query,mode):
     return explanation
 
 def generate(query, model):
-    api_base = "your_api_base_url"  # replace with your API base URL
-    api_key = 'your_api_key'  # replace with your API key
+    api_base = API_BASE  # replace with your API base URL
+    api_key = API_KEY  # replace with your API key
 
     headers = {
         "Authorization": f"Bearer {api_key}",
