@@ -1,6 +1,7 @@
 # SL-MERK
 SL-MERK is an explainable AI method for generating natural language explanation of synthetic lethality (SL) mechanisms based on LLMs and GraphRAG.
 
+![image](SL-MERK_Framework.png)
 ## Features
 
 - **Multiple Analysis Modes**:
@@ -134,9 +135,9 @@ If you use this tool in your research, please cite:
 
 ```
 @software{SynLethKG,
-  author = {Your Name},
+  author = {Xueheng Lv, Yimiao Feng, Jie Zheng},
   title = {SL-MERK: Synthetic Lethality Mechanism Explainer based on GraphRAG and Knowledge Graph},
-  year = {2025},
-  url = {https://github.com/JieZheng-ShanghaiTech/SL-MERK}
+  conference = {IEEE EMBC 2025},
+  year = {2025}
 }
 ```
